@@ -5,7 +5,7 @@ base_headword: "Kesivagga"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -26,6 +26,6 @@ Kesivagga, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kesivagga, Kosiyavagga. Chương thứ mười hai thuộc Catukkanipāta của Aṅguttaranikāya (AN.ii.112-21). Sutta đầu tiên là bài kinh của Kesi, người huấn luyện ngựa, và hầu hết các Sutta đều bàn về khái niệm "huấn luyện" (training). Chú giải gọi chương này là Kosiyavagga.
 
 ## Notes

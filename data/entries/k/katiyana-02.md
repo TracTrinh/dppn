@@ -5,7 +5,7 @@ base_headword: "Kātiyāna"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -26,6 +26,6 @@ Kātiyāna 02. The name of a *gotta*, probably a variant of <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kātiyāna 02. Tên của một gotta, có lẽ là một biến thể của Kaccāyana, Kaccāna (xem mục này).
 
 ## Notes

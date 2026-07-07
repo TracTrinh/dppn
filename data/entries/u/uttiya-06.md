@@ -5,7 +5,7 @@ base_headword: "Uttiya"
 disambiguator: "06"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -30,6 +30,6 @@ Uttiya 06. King of Ceylon for ten years (207-197 B.C.) (Dpv.xii.75; Mhv.xx.57). 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttiya 06. Vua Tích Lan trong mười năm (207-197 B.C.) (Dpv.xii.75; Mhv.xx.57). Ông là người con trai thứ tư của Muṭasīva và kế vị Devānampiyatissa. Vào năm thứ tám triều đại của ông, Mahinda viên tịch (Mhv.xx.33), và vào năm thứ chín, Saṅghamittā (Mhv.xx.49). Ông tổ chức những lễ kỷ niệm trọng thể để vinh danh hai vị danh nhân đã khuất này và xây dựng bảo tháp (*Thūpas*) ở nhiều nơi để thờ tro cốt của họ. Mahā Vaṁsaṭīkā (p.253) còn thêm rằng Uttiya đã xây một cetiya tại Somanassamālaka.
 
 ## Notes

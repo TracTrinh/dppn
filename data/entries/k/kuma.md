@@ -5,7 +5,7 @@ base_headword: "Kumā"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -28,6 +28,6 @@ Kumā. Wife of a householder in <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vợ của một gia chủ ở Veḷukanda trong xứ Avanti. Bà là mẹ của Nanda Thera, người còn được gọi là Kumāputta. Thag­a.1.100.
 
 ## Notes

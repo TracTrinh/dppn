@@ -5,7 +5,7 @@ base_headword: "Vaṅganta"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -28,6 +28,6 @@ Vaṅganta. A Brahmin, father of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaṅganta. Một vị Bà-la-môn, là cha của Sāriputta (Snp­a.i.331; Ud­a.266) (*q.v.*) và là chồng của Rūpasārī (Ap.i.102). Bà-la-môn Mahā Sena là bạn của ông, và con trai của một người bạn khác đã trở thành người thị giả của Sāriputta (Dhp­a.ii.94). Xem Kiṁsīlasutta.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Taṇhakkhayasutta"
 disambiguator: "02"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Taṇhakkhayasutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Taṇhakkhayasutta 02. Anuruddha bảo với các tỳ-kheo rằng bốn Satipaṭṭhāna (Tứ Niệm Xứ), nếu được tu tập, sẽ dẫn đến sự diệt tận ái dục. SN.v.300.
 
 ## Notes

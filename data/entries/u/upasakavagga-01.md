@@ -5,7 +5,7 @@ base_headword: "Upāsakavagga"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -25,6 +25,6 @@ Upāsakavagga 01. The second chapter of the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upāsakavagga 01. Chương thứ hai của Brāhmaṇasaṁyutta. SN.i.172ff.
 
 ## Notes

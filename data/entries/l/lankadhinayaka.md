@@ -5,7 +5,7 @@ base_headword: "Laṅkādhināyaka"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -30,6 +30,6 @@ Laṅkādhināyaka, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Laṅkādhināyaka, Laṅkādhinātha, Laṅkānātha. Một danh hiệu được sử dụng vào thời Parakkamabāhu I., được nắm giữ bởi cả Kitti lẫn Rakkha, những người sau này trở thành Laṅkādhikārī. Cv.lxx. 24, 205.
 
 ## Notes

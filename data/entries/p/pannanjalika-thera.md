@@ -5,7 +5,7 @@ base_headword: "Pannañjalika Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Pannañjalika Thera. An *Arahant*. Ninety-two *kappas* ago he lay grievously ill
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pannañjalika Thera. Một vị *Arahant*. Chín mươi hai *kappa* trước, ngài nằm bệnh nặng dưới gốc cây trong rừng. Tissa Buddha, với lòng từ bi của Ngài, đã đến với ngài, và Pannañjalika, không thể đứng dậy, đã chắp hai tay trên đỉnh đầu và đảnh lễ Đức Phật. Năm *kappa* trước, ngài đã làm vua năm lần, với tên gọi là Mahā Sikha. Ap.i.128.
 
 ## Notes

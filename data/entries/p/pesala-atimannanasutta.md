@@ -5,7 +5,7 @@ base_headword: "Pesalā-atimaññanāsutta"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -27,6 +27,6 @@ Pesalā-atimaññanāsutta. Once when <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pesalā-atimaññanāsutta. Có lần khi Vaṅgīsa đang ở tại Aggāḷavacetiya cùng với vị đạo sư của mình, Nigrodhakappa, ngài nhận thấy mình đang coi thường những người đồng tu thân thiện của mình, tự hào về khả năng ứng khẩu của chính ngài. Khám phá này đã khiến ngài ăn năn về sự kiêu ngạo của mình và tự quở trách bản thân. SN.i.187f.
 
 ## Notes

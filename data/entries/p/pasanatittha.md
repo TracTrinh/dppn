@@ -5,7 +5,7 @@ base_headword: "Pāsāṇatittha"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -28,6 +28,6 @@ Pāsāṇatittha. A ford across the <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāsāṇatittha. Một bến cạn qua sông Kadambanadī. Từ bến cạn này, *sīmā* của Mahā Vihāra bắt đầu, quay trở lại chính điểm đó. Ở Pāsāṇatittha có Kuḍḍavāṭakapāsāṇa. Mbv. 134,135.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Phalaggapariveṇa"
 disambiguator: ""
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -27,6 +27,6 @@ Phalaggapariveṇa. A building in <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phalaggapariveṇa. Một công trình kiến trúc ở Anurādhapura, được Devānampiyatissa dựng lên tại địa điểm nơi Mahinda đã ngồi chìm đắm trong thiền định. Mhv.xv.209.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vallitittha"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -24,6 +24,6 @@ Vallitittha. A ford in the <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vallitittha. Một khúc cạn (ford) trên sông Mahā Vālukagaṅga. Cv.lxxii.82.
 
 ## Notes

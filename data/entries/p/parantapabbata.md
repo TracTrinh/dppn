@@ -5,7 +5,7 @@ base_headword: "Parantapabbata"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Parantapabbata. One of the ambassadors sent by <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parantapabbata. Một trong những đại sứ được Devānampiyatissa cử đến chỗ Asoka. Dpv.xi.29, 31.
 
 ## Notes

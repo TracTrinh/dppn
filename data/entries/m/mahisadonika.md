@@ -5,7 +5,7 @@ base_headword: "Mahisadoṇika"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Mahisadoṇika. A village in the <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahisadoṇika. Một ngôi làng trong khu vực Nakulanagara; nơi sinh của Khañjadeva. Mhv.xxiii.77.
 
 ## Notes

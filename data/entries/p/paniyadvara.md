@@ -5,7 +5,7 @@ base_headword: "Pānīyadvāra"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -26,6 +26,6 @@ Pānīyadvāra. One of the gates of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pānīyadvāra. Một trong những cổng của Pulatthipura do Parakkamabāhu I xây dựng. Cv.lxxiii.162.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sudattā"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sudattā 01. Mother of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudattā 01. Mẹ của Sumedha Buddha. Bv.xii.18; Ja.i.38.
 
 ## Notes

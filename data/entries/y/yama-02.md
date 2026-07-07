@@ -5,7 +5,7 @@ base_headword: "Yāmā"
 disambiguator: "02"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -25,6 +25,6 @@ Yāmā 02. In some contexts, Yāmā seems to have been derived from <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yāmā 02. Trong một số ngữ cảnh, Yāmā dường như được bắt nguồn từ Yama, vua của thế giới ngầm – ví dụ trong những cách diễn đạt như “*Yāmato yāva Akaniṭṭhaṁ*” (từ thế giới ngầm đến cõi trời cao nhất). Khp­a.166.
 
 ## Notes

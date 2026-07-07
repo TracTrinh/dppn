@@ -5,7 +5,7 @@ base_headword: "Kalandakagāma"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,6 @@ Kalandakagāma. A village near <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kalandakagāma. Một ngôi làng gần Vesālī; đó là nơi sinh của Sudinna (Vin.iii.11). Buddhaghosa (Vin-a.i.202) nói rằng cái tên này được đặt vì những con sóc đã sống ở đó.
 
 ## Notes

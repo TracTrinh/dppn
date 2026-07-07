@@ -5,7 +5,7 @@ base_headword: "Sudhammā"
 disambiguator: "04"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -28,6 +28,6 @@ Sudhammā 04. The sixth daughter of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudhammā 04. Người con gái thứ sáu của Kikī, vua xứ Benares. Bà đôi khi được đồng nhất với Mahā Māyā (vd., Ja.vi.481) và đôi khi với Dhammadinnā, vd., Ap.ii.546, 548; Thīg­a.104, 114.
 
 ## Notes

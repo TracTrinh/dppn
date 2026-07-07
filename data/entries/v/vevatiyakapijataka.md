@@ -5,7 +5,7 @@ base_headword: "Vevaṭiyakapijātaka"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/066.html"
@@ -25,6 +25,6 @@ Vevaṭiyakapijātaka. *v.l.* for <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vevaṭiyakapijātaka. *v.l.* của Mahā Kapijātaka (Ja 516) (*xem đề mục*). Ja.iii.178.
 
 ## Notes

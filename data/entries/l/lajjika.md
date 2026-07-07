@@ -5,7 +5,7 @@ base_headword: "Lajjika"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -25,6 +25,6 @@ Lajjika. A village in Ceylon given by <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lajjika. Một ngôi làng ở Tích Lan được Aggabodhi I. cấp để duy trì Mūgasenāpativihāra. Cv.x1ii.23.
 
 ## Notes

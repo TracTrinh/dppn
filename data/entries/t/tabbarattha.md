@@ -5,7 +5,7 @@ base_headword: "Tabbāraṭṭha"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tabbāraṭṭha. A district in the <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tabbāraṭṭha. Một quận ở Dakkhiṇadesa của Tích Lan (Cv.lxix.8).
 
 ## Notes

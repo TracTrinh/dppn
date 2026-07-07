@@ -5,7 +5,7 @@ base_headword: "Koṭapabbata"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -44,6 +44,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koṭapabbata (Koṭipabbata). Một ngọn núi ở Rohaṇa; gần đó là ngôi làng Kitti (Mhv.xxiii.55). Có một tu viện trên Koṭapabbata tên là Koṭapabbata *vihāra* (tu viện). Đây là nơi cư ngụ của vị *Sāmaṇera* (sa-di) mà sau này được tái sanh là Duṭṭhagāmaṇī (Mhv.xxii.25); cũng của Mahā Summa Thera (Mhv.xxiii.61), của Asubhakammikatissa và của thầy ông là Mahā Tissa (Mhv­ṭ.553). *Vihāra* này ở gần Mahā Gāma (Mhv­ṭ.553).
+
+Visuddhimagga (p.292) có đề cập đến một vị Trưởng lão, Tissa, của Koṭapabbata (Koṭipabbata), người đã đắc quả vị Arahant thông qua việc thiền định về hơi thở, đã có thể giới hạn tuổi thọ của mình. Theo Chú giải Dhammapada (Dhp-a.iv.50), một Trưởng lão tên là Anula đã sống trong tu viện vào thời của Duṭṭhagāmaṇī, và ngôi làng Bhokkanta, nơi cư ngụ của Sumanā, vợ của Lakuṇṭaka Atimbara, nằm ở vùng lân cận đó. Nó có lẽ cũng chính là Gotapabbata (*xem mục này*) (Xem Mhv.xxxv.124; Mhv­ṭ.667). Nāgalena nằm trong Koṭapabbata *vihāra* (DN­a.ii.695).
 
 ## Notes

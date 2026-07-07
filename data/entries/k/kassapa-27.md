@@ -5,7 +5,7 @@ base_headword: "Kassapa"
 disambiguator: "27"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -28,6 +28,6 @@ Kassapa 27. The name is sometimes used as a shortened form of <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapa 27. Tên này đôi khi được dùng như một dạng rút gọn của Kassapagotta (*xem mục này*). (ví dụ: Ja.vi.224, 225, v.v., ám chỉ Ājīvaka Guṇa). Vị *tāpasa* Nārada cũng có một lần được gọi là Kassapa (Ja.vi.58).
 
 ## Notes

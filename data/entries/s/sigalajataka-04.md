@@ -5,7 +5,7 @@ base_headword: "Sigālajātaka"
 disambiguator: "04"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -31,6 +31,10 @@ The jackal was the barber’s son, the lioness the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sigālajātaka 04. (Ja 152). Bodhisatta từng là một con sư tử có sáu người anh em và một người em gái. Khi các con sư tử đi kiếm ăn, một con chó rừng đem lòng yêu sư tử cái đã thổ lộ tình yêu của nó với nàng. Nàng cảm thấy vô cùng bị xúc phạm, và quyết định sẽ kể lại cho các anh mình rồi tự vẫn. Con chó rừng lẻn đi và trốn trong một hang động. Từng con sư tử một trở về, và khi em gái họ kể cho họ về sự xúc phạm đó, họ cố gắng tiếp cận con chó rừng bằng cách nhảy lên cao, nhưng đều thiệt mạng trong lúc cố gắng. Cuối cùng, Bodhisatta đến; nhờ khôn ngoan, ông gầm tiếng gầm của sư tử ba lần và con chó rừng chết. Ông sau đó an ủi em gái mình.
+
+Câu chuyện được kể cho một người thợ cạo ở Vesālī, người phục vụ trong hoàng gia. Con trai ông thường đi cùng ông đến cung điện, và, sau khi đem lòng yêu một cô gái Licchavī, đã chết vì trái tim tan vỡ bởi không thể có được nàng. Người thợ cạo, một tín đồ mộ đạo của Đức Phật, đã đến thăm Đức Phật một thời gian sau đó và kể cho Ngài nghe về những gì đã xảy ra.
+
+Con chó rừng chính là con trai người thợ cạo, sư tử cái là cô gái Licchavī, và sáu con sư tử con là nhóm Chabbaggiyā. Ja.ii.5ff.
 
 ## Notes

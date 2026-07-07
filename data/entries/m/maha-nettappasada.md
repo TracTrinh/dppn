@@ -5,7 +5,7 @@ base_headword: "Mahā Nettappāsāda"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -27,6 +27,6 @@ Mahā Nettappāsāda. A monastery in Ceylon, for the incumbent of which <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nettappāsāda. Một tu viện ở Tích Lan, mà đối với vị trụ trì của tu viện đó, Vijayabāhu I đã xây dựng một *vihāra* ở Vātagiri (Cv.lxxxviii.46). Trong số các vị trụ trì của Mahā Nettappāsāda có một vị Trưởng lão được biết đến với tên gọi Trưởng lão Vīdāgama, tác giả của một vài tác phẩm tiếng Sinhalese. PLC. 253.
 
 ## Notes

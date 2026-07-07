@@ -5,7 +5,7 @@ base_headword: "Mānatthaddha"
 disambiguator: "02"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mānatthaddha 02. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mānatthaddha 02. Một Pacceka Buddha được đề cập trong một danh sách tên. MN.iii.71; Ap­a.i.107.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Seyyajātaka"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -33,6 +33,10 @@ The story was related in reference to a courtier of the king of <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Seyyajātaka (Ja 282). Bodhisatta là vua Benares và cai trị khéo léo. Một trong các triều thần của ngài bị phát giác về mưu đồ trong cung cấm và bị đày đi. Hắn đến triều đình của một vị vua thù và thuyết phục vị này dẫn quân đánh Benares. Bodhisatta không chống cự, và bị bắt và đưa vào ngục trong xiềng xích. Trong khi ở đó, ngài tu tập *mettā**jhāna* hướng đến kẻ thù, khiến thân của người đó đầy đủ đau đớn lớn. Sau khi khám phá ra nguyên nhân, vị vua thả tù nhân và trả lại vương quốc cho ngài.
+
+Câu chuyện được kể liên quan đến một triều thần của vua Kosala bị giam giữ vì một tội danh giả. Nhờ giới hạnh của mình, ông đạt được quả Sotāpanna, và nhà vua, phát giác ra sự vô tội của ông, liền thả ông ra.
+
+Ānanda được đồng nhất với vị vua xâm lược. Ja.ii.400, 403; xem Mahā Silava jātaka (Ja 51).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Pasādasutta"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -24,6 +24,6 @@ Pasādasutta 02. The four best faiths: in the Buddha, the Noble Eightfold Path, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pasādasutta 02. Bốn niềm tin tốt nhất: nơi Đức Phật, Bát Thánh đạo, Pháp là vô tham, và Tăng đoàn các tỳ-kheo. AN.ii.34f.; cf. AN.iii.36f.; được trích dẫn trong Vsm.i.293; nó được tìm thấy trong Iti.87.
 
 ## Notes

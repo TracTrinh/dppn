@@ -5,7 +5,7 @@ base_headword: "Kāyasatti"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -27,6 +27,6 @@ Kāyasatti. A Thera*,* incumbent of the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāyasatti. Một vị Thera, người đứng đầu Vijayabāhupariveṇa. Vua Parakkamabāhu IV đã xây dựng cho ngài một pasāda hai tầng rất lộng lẫy và ban cho ngài ngôi làng Sālaggāma. Cv.xc.91f.
 
 ## Notes

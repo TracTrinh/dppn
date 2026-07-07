@@ -5,7 +5,7 @@ base_headword: "Phaḷudhiya"
 disambiguator: ""
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -26,6 +26,6 @@ Phaḷudhiya. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phaḷudhiya. Một thủ lĩnh Damiḷa, đồng minh của Kulasekhara. Cv.lxxvi.99.
 
 ## Notes

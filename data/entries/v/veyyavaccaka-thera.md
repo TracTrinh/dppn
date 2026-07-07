@@ -5,7 +5,7 @@ base_headword: "Veyyāvaccaka Thera"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,6 @@ Veyyāvaccaka Thera. An *Arahant*. Ninety-one *kappas* ago he was a servant to <
 
 ## Vietnamese translation
 
-Chưa dịch.
+Veyyāvaccaka Thera. Một bậc *Arahant*. Chín mươi mốt *kappa* trước, ngài là người hầu của Vipassī Buddha, và vì không có gì để cúng dường, ngài đã đảnh lễ dưới chân Đức Phật. Tám *kappa* trước, ngài là một vị vua tên là Sucintita (Ap.i.138). Ngài có lẽ đồng nhất với Sañjaya Thera. Thag­a.i.120.
 
 ## Notes

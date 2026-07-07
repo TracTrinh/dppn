@@ -5,7 +5,7 @@ base_headword: "Kulālitissa"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kulālitissa. A monastery in Ceylon. Over the *Thūpa* in the monastery King <sp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tu viện ở Tích Lan. Vua Vohārikatissa đã dựng một chiếc lọng trên Thūpa trong tu viện. Mhv.xxxvi.33.
 
 ## Notes

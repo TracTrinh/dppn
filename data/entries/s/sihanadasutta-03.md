@@ -5,7 +5,7 @@ base_headword: "Sīhanādasutta"
 disambiguator: "03"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -27,6 +27,6 @@ Sīhanādasutta 03. In the <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhanādasutta 03. Trong Aṅguttara Commentary (AN­a.i.441), Abhibhūsutta (AN.i.226f) được gọi là Sīhanādasutta.
 
 ## Notes

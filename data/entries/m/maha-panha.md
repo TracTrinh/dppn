@@ -5,7 +5,7 @@ base_headword: "Mahā Pañhā"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Pañhā. A series of questions referred to in the <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Pañhā. Một chuỗi các câu hỏi được tham chiếu trong Aṅguttaranikāya. Xem Mahā Pañhasutta. AN.v.54.
 
 ## Notes

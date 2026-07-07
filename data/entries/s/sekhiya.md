@@ -5,7 +5,7 @@ base_headword: "Sekhiyā"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -27,6 +27,6 @@ Sekhiyā. One of the sub divisions of the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sekhiyā. Một trong các phần phụ của Pācittiya thuộc Suttavibhaṅga của Vinayapiṭaka. Vin.iv.185ff., 349ff.
 
 ## Notes

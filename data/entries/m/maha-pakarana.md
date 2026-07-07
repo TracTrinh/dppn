@@ -5,7 +5,7 @@ base_headword: "Mahā Pakaraṇa"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Pakaraṇa. Another name for the <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Pakaraṇa. Một tên gọi khác của Paṭṭhānappakaraṇa thuộc Abhidhamma.
 
 ## Notes

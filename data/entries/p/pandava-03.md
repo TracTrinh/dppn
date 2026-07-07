@@ -5,7 +5,7 @@ base_headword: "Paṇḍava"
 disambiguator: "03"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Paṇḍava 03. Adjective from <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇḍava 03. Tính từ của Paṇḍu, ví dụ, Cv.lxxxvii.29.
 
 ## Notes

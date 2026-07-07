@@ -5,7 +5,7 @@ base_headword: "Khantivādījātaka"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -38,6 +38,10 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khantivādījātaka (Ja 313). Bodhisatta, dưới tên gọi Kuṇḍaka, từng được sinh ra trong một gia đình rất giàu có ở Kāsī. Sau khi cha mẹ qua đời, ngài đã đem toàn bộ khối tài sản khổng lồ của mình để bố thí và trở thành một đạo sĩ ở Himālaya. Sau đó ngài trở lại Kāsī, ngài cư ngụ trong công viên hoàng gia, được vị tổng tư lệnh quân đội chăm sóc. Một ngày nọ, Kalābu, vua xứ Benares, đến thăm công viên cùng với hậu cung của mình và, khi say rượu ngủ thiếp đi, đã bỏ mặc các cung nữ tự do vui chơi; họ lang thang khắp nơi và gặp vị đạo sĩ, nên đã yêu cầu ngài thuyết pháp cho họ. Khi nhà vua thức dậy, ông đi tìm các cung nữ của mình, và khi nhìn thấy vị đạo sĩ cũng như được báo rằng ngài đang thuyết pháp về sự nhẫn nhục (khanti), nhà vua đã ra lệnh phải kiểm chứng chính sự nhẫn nhục của vị đạo sĩ. Vị đạo sĩ đã phải chịu đựng nhiều hình thức ngược đãi khác nhau cho đến khi, càng lúc càng tức giận trước sự điềm tĩnh của ngài, nhà vua đã ra lệnh tra tấn ngài bằng cách chặt đứt các chi của ngài. Khi nhà vua rời khỏi công viên, mặt đất nứt ra và ông ta bị nuốt chửng vào ngục Avīci. Vị tổng tư lệnh, khi nghe tin chuyện gì đã xảy ra, đã vội vã chạy đến chỗ vị đạo sĩ để xin tha thứ. Vị đạo sĩ tuyên bố rằng ngài không hề mang ác ý, và qua đời vì những vết thương với một lời chúc phúc dành cho nhà vua trên môi. Có người kể rằng ngài đã quay trở lại Himālaya.
+
+Câu chuyện này được kể lại tại Jetavana liên quan đến một vị tỳ-kheo hay sân hận (Ja.iii.39-43). Kalābu chính là Devadatta và vị tổng tư lệnh là Sāriputta.
+
+Jātaka này thường xuyên được nhắc đến như một ví dụ về sự tha thứ tối thượng, vị đạo sĩ được nhắc đến với tên gọi Khantivādī (ví dụ, Dhp­a.i.126; Khp-a.149; Ja.i.46; iii.178; vi.257; Bv-a.51). Jātaka này còn minh họa thêm cho việc làm thế nào sự tức giận của một người có thể gia tăng đối với một nạn nhân vô tội (Ja.iv.11), và làm thế nào một người tức giận sẽ đánh mất mọi sự phồn vinh của mình (Ja.v.113, 119).
 
 ## Notes

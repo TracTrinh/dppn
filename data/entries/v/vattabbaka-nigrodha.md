@@ -5,7 +5,7 @@ base_headword: "Vattabbaka Nigrodha"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -29,6 +29,8 @@ The *Sāmaṇera* became famous as a *Tipiṭakadhara*, and when the *Tissabhaya
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị Trưởng lão nổi tiếng vào thời của Pitirājā (Vaṭṭagāmaṇī). Ngài là một *Sāmaṇera*, và, trong khoảng thời gian diễn ra nạn Brāhmaṇatissabhaya (*q.v.*), ngài đã chăm sóc thầy của mình với nguy cơ mất mạng của chính mình, có lần ngài thậm chí còn trèo lên một cây cọ để lấy cho thầy một ít quả. Sau đó, cảm thấy rằng việc chăm sóc một người già cả và yếu ớt là quá sức đối với ngài, thầy của ngài khuyên ngài nên ra đi một mình. Người thầy sau đó đã bị những kẻ ăn thịt người ăn thịt.
+
+Vị *Sāmaṇera* trở nên nổi tiếng như một người thọ trì Tam tạng (*Tipiṭakadhara*), và khi nạn Tissabhaya đã qua đi, các tu sĩ từ nước ngoài đã đến thăm ngài. Do đó ngài trở thành vị trưởng của một hội chúng lớn, và có lần khi ngài đến thăm Anurādhapura, ngài đã nhận được các món quà là ba y ở chín địa điểm khác nhau. Xem Vibh­a.449f., nơi câu chuyện được kể chi tiết.
 
 ## Notes

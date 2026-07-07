@@ -5,7 +5,7 @@ base_headword: "Uttara"
 disambiguator: "30"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uttara 30. An <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttara 30. Một đạo sĩ Ājīvaka người đã cúng dường tám nắm cỏ cho Maṅgala Buddha để làm chỗ ngồi của ngài. Bv­a.116.
 
 ## Notes

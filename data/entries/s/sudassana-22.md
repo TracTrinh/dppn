@@ -5,7 +5,7 @@ base_headword: "Sudassana"
 disambiguator: "22"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sudassana 22. Thirty-four *kappas* ago there were four kings of this name, previ
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudassana 22. Ba mươi bốn kappa trước có bốn vị vua mang tên này, là những tiền kiếp của Madhupiṇḍika Thera. Ap.i.137.
 
 ## Notes

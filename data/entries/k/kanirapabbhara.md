@@ -5,7 +5,7 @@ base_headword: "Kaṇirapabbhāra"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kaṇirapabbhāra. A cave, probably in the side of the <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇirapabbhāra. Một hang động, có lẽ nằm ở sườn núi của Cetiyagiri, nơi mà Vua Kanirajānutissa đã ra lệnh ném sáu mươi vị tỳ-kheo vào đó, sau khi họ bị kết tội phản quốc nghiêm trọng (Mhv.xxxv.11).
 
 ## Notes

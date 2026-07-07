@@ -5,7 +5,7 @@ base_headword: "Pārileyyakasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -26,6 +26,6 @@ Pārileyyakasutta. When the Buddha was staying in a forest near <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pārileyyakasutta. Khi Đức Phật đang ở trong một khu rừng gần Pārileyya, một số tỳ-kheo đã yêu cầu Ānanda đưa họ đến yết kiến Ngài. Ông đã làm như vậy, và Đức Phật, khi đọc được suy nghĩ của những tỳ-kheo nhất định, đã giảng một bài pháp về việc tận diệt các lậu hoặc (*āsavas*) bằng sự nhận thức đầy đủ về vô thường và sự vắng mặt của bất kỳ bản ngã nào. SN.iii.95ff.
 
 ## Notes

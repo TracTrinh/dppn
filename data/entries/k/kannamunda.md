@@ -5,7 +5,7 @@ base_headword: "Kaṇṇamuṇḍa"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,6 @@ Kaṇṇamuṇḍa, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇṇamuṇḍa, Kaṇṇamuṇḍaka. Một trong bảy hồ lớn của Himavā (AN.iv.101; DN­a.i.164; Ja.v.415; AN­a.ii.759; MN­a.ii.692, v.v.). Nước của nó không bao giờ nóng lên (Snp-a.ii.407). Từng có một quả xoài từ một cây mọc trên bờ hồ này rơi vào tay Vua Dadhivāhana, và từ hạt của nó đã mọc lên một cái cây sinh ra những quả rất ngọt (Ja.ii.104).
 
 ## Notes

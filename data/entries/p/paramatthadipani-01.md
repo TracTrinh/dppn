@@ -5,7 +5,7 @@ base_headword: "Paramatthadīpanī"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -32,6 +32,6 @@ Paramatthadīpanī 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paramatthadīpanī 01. Chú giải của Dhammapāla về Udāna, Itivuttaka, Vimānavatthu, Petavatthu, Theragāthā và Therīgāthā (Gv.60). Tác phẩm này dường như cũng được gọi là Vimalavilāsinī. PLC.114, n.4.
 
 ## Notes

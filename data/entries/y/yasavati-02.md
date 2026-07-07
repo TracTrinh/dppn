@@ -5,7 +5,7 @@ base_headword: "Yasavatī"
 disambiguator: "02"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -25,6 +25,6 @@ Yasavatī 02. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yasavatī 02. Vợ của Maṅgala Buddha trong kiếp sống cư sĩ cuối cùng của Ngài. Bv.iv.20.
 
 ## Notes

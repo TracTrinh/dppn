@@ -5,7 +5,7 @@ base_headword: "Uttarakumāra"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uttarakumāra. The Bodhisatta. See <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttarakumāra. Bodhisatta. Xem Uttara (16).
 
 ## Notes

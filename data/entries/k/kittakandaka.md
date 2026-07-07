@@ -5,7 +5,7 @@ base_headword: "Kiṭṭakaṇḍaka"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kiṭṭakaṇḍaka. A tank restored by <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kiṭṭakaṇḍaka. Một hồ nước được Gajabāhu phục hồi. Cv.lxviii.45.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sattuka"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Sattuka 01. A robber. See the <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sattuka 01. Một tên cướp. Xem Sulasājātaka (Ja 419).
 
 ## Notes

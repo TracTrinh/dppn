@@ -5,7 +5,7 @@ base_headword: "Kittaggabodhipabbata"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -24,6 +24,6 @@ Kittaggabodhipabbata. A tank restored by <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kittaggabodhipabbata. Một hồ nước được Vijayabāhu I phục hồi. Cv.lx.49.
 
 ## Notes

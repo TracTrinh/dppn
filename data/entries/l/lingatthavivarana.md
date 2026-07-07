@@ -5,7 +5,7 @@ base_headword: "Liṅgatthavivaraṇa"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -26,6 +26,6 @@ Liṅgatthavivaraṇa. A Pāli grammatical work by <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Liṅgatthavivaraṇa. Một tác phẩm ngữ pháp Pāli của Subhūtacandana, một tỳ-kheo xứ Pagan. Hai Chú giải về tác phẩm này đã được viết: *Liṅgatthavivaraṇappakāsaka* của Ñāṇasāgara và *Liṅgatthavivaraṇaṭīkā* của Uttama. Một tác phẩm gọi là *Liṅgatthavivaraṇavinicchaya*, của tác giả khuyết danh, cũng được đề cập. Gv.63, 65, 67, 72, 73, 75; Bode, 22, n.1.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Koṭisimbalijātaka"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -29,6 +29,8 @@ The story was related to five hundred monks who were in danger of being overcome
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koṭisimbalijātaka (Ja 412). Một vua Garuḍa đã bắt giữ một Long vương (Nāga), và khi Nāga quấn chặt quanh một cây đa, Garuḍa đã nhổ bật rễ cây đa và mang nó theo mình. Nó đã ăn mỡ của Nāga khi đang ngồi trên một cây *koṭi-simbali*, và ném bỏ cây đa và xác của Nāga. Một con chim đang ở trong cây đa đã rời khỏi nó và đến cư trú trong cây *simbali*. Bodhisatta, lúc đó là một vị thọ thần trong cây *simbali*, đã run rẩy khi nhìn thấy con chim nhỏ xíu, vì vị thọ thần biết rằng từ phân của con chim, những cái cây khổng lồ sẽ mọc lên và giết chết cây *simbali*. Garuḍa, thấy thọ thần run rẩy, đã hỏi lý do, và khi biết được điều đó, đã làm cho con chim hoảng sợ mà bay đi. Sẽ là đúng đắn khi không tin tưởng ở nơi mà sự không tin tưởng là thích đáng.
+
+Câu chuyện được kể cho năm trăm tỳ-kheo đang có nguy cơ bị khuất phục bởi những dục vọng tội lỗi (Ja.iii.397ff). So sánh với Pālasa Jātaka.
 
 ## Notes

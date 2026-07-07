@@ -5,7 +5,7 @@ base_headword: "Vetaraṇī"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,6 @@ Vetaraṇī 01. A river in *Mahā Niraya* (SN.i.21; Snp. vs. 674). <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vetaraṇī 01. Một dòng sông trong Đại địa ngục (*Mahā Niraya*) (SN.i.21; Snp. vs. 674). Buddhaghosa giải thích (Snp­a.ii.482) rằng đây là tên của một *mahatā khāra-odikā nadī* ("Sông Nước Ăn Mòn" lớn) được đề cập trong Devadattasutta (MN.iii.185). Nước của nó sắc bén và cay đắng (*tiṇhadhārā*, *khuradhārā*) (Snp. vs. 674; cf. Ja.v.269), và dòng sông chảy ngang qua Asipattavana. Khi chúng sinh đi vào đó để tắm rửa và uống (bởi vì nó trông giống như một vùng nước), họ bị băm vằm bởi những thanh gươm và các vũ khí sắc nhọn khác được giấu kín dọc theo bờ sông (Snp­a.ii.482; Ja.v.275; vi. 105; ở đó có một đoạn miêu tả dài về sự kinh hoàng của Vetaraṇī). Đôi khi Vetaraṇī được sử dụng theo một cách khái quát để chỉ địa ngục (*Niraya*) (như là “*desanāsīsa*” – vd Ja.iii.473; SN­a.i.48; cf. Ja.iv.273). Những kẻ phạm tội phá thai bị tái sinh ở sông Vetaraṇī (*nadī*) (Ja.v.269), cũng giống như những kẻ áp bức người yếu thế (Ja.vi.106).
 
 ## Notes

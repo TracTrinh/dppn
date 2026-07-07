@@ -5,7 +5,7 @@ base_headword: "Yugandhara"
 disambiguator: "01"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -31,6 +31,8 @@ A *Yugandharasāgara* (e.g., Ja.i.64; vi.43) is also sometimes mentioned, and wa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yugandhara 01. Một trong những ngọn núi của Himālaya (Ja.i.119, 232; iv.213; vi.125; Dhp­a.i.249; Vsm.206). Nó tạo thành dãy núi đầu tiên trong bảy dãy núi bao quanh Sineru (Snp­a, ii.443; nhưng theo Ja.vi.125 thì nó là dãy núi thứ tư).
+
+Một *Yugandharasāgara* (ví dụ, Ja.i.64; vi.43) đôi khi cũng được nhắc đến, và có lẽ là một vùng biển nằm giữa Yugandhara và dãy núi tiếp theo. Khi Đức Phật đến Tāvatiṁsa trong ba bước, bước chân đầu tiên của Ngài là từ trái đất đến Yugandhara (Dhp­a.iii.216). Chính trên đỉnh Yugandhara, Assagutta đã triệu tập một cuộc họp của các tỳ-kheo để thảo luận về kế hoạch vận động của họ chống lại Milinda (Mil.p.6). Mặt trời được nhắc đến như là mọc lên đầu tiên trên đỉnh Yugandhara (ví dụ, SN­a.ii.165), do đó có thành ngữ "Giống như mặt trời buổi sáng trên đỉnh Yugandhara", ví dụ: Pv-a.137.
 
 ## Notes

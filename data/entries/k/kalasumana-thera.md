@@ -5,7 +5,7 @@ base_headword: "Kāḷasumana Thera"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -25,6 +25,6 @@ Kāḷasumana Thera. One of those responsible for preserving the Vinaya in Ceylo
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷasumana Thera. Một trong những người chịu trách nhiệm gìn giữ Vinaya ở Tích Lan sau khi Mahinda viên tịch. Vin.v.3; Vin-a.i.104.
 
 ## Notes

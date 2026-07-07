@@ -5,7 +5,7 @@ base_headword: "Khaṇḍasumana Thera"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -37,6 +37,10 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khaṇḍasumana Thera. Một vị Arahant. Ngài sinh ra ở Pāvā trong gia đình của một vị thủ lĩnh người Malla, và được gọi là Khaṇḍasumana vì vào ngày sinh của ngài, mật đường và hoa nhài đã xuất hiện trong nhà ngài. Sau khi nghe Đức Phật thuyết pháp tại khu rừng xoài của Cunda ở Pāvā, ngài đã gia nhập Saṅgha và trở thành một vị Arahant.
+
+Trong quá khứ ngài đã xây dựng một hàng rào bằng gỗ đàn hương xung quanh Thūpa của Đức Phật Padumuttara. Vào thời Đức Phật Kassapa ngài không thể tìm được bông hoa nào, vì nhà vua đã mua tất cả để dâng cúng; vì thế ngài đã mua một bông hoa khaṇḍasumana với giá rất đắt và dâng nó tại Thūpa của Đức Phật (Thag.96; Thag­a.i.198).
+
+Ngài có lẽ đồng nhất với Saparivāriya Thera trong Apadāna (Ap.i.172). Các bài kệ Apadāna của ngài gần như giống hệt với các bài kệ được gán cho Nandiya Thera. Xem Thag­a.i.82.
 
 ## Notes

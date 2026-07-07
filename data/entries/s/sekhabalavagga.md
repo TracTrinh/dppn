@@ -5,7 +5,7 @@ base_headword: "Sekhabalavagga"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Sekhabalavagga. The first chapter of the *Pañcakanipāta* of the <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sekhabalavagga. Chương đầu tiên của *Pañcakanipāta* thuộc Aṅguttaranikāya. AN.iii.1-9.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Lakkhaṇa"
 disambiguator: "04"
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -26,6 +26,6 @@ Lakkhaṇa 04. A deer, son of the Bodhisatta, identified with <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lakkhaṇa 04. Một con nai, con trai của Bodhisatta, được đồng nhất với Sāriputta. Về câu chuyện của ông xem Lakkhaṇajātaka.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kassapavihāra"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -27,6 +27,6 @@ Kassapavihāra. A monastery to which <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapavihāra. Một tu viện mà Dāṭhopatissa II đã ban tặng ngôi làng Senāmagāma cho nó (Cv.xlv.27). Tu viện này có thể được xác định với Kassapagirivihāra.
 
 ## Notes

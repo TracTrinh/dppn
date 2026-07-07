@@ -5,7 +5,7 @@ base_headword: "Somadeva"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Somadeva 02. One of the chief lay patrons of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Somadeva 02. Một trong những nhà bảo trợ tại gia chủ yếu của Koṇāgamana Buddha. Bv.xxiv.24.
 
 ## Notes

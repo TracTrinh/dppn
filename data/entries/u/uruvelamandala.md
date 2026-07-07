@@ -5,7 +5,7 @@ base_headword: "Uruvelamaṇḍala"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -28,6 +28,6 @@ Uruvelamaṇḍala. A district in <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uruvelamaṇḍala. Một quận ở Rohaṇa, tại Nam Tích Lan (Ceylon), nơi các quan đại thần Bhūta, Rakkha và Kitti đã giành được một chiến thắng quyết định trước những kẻ thù của họ. Trận chiến này đã cho phép họ chiếm được Bát Khất Thực của Đức Phật và Xá-lợi Răng (Cv.lxxiv.125-6). Geiger cho rằng địa điểm này nằm gần Monarāgala ngày nay (Cv.Trs.ii.33, n.1).
 
 ## Notes

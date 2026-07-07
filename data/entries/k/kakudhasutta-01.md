@@ -5,7 +5,7 @@ base_headword: "Kakudhasutta"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kakudhasutta 01. Records the visit of the *Deva* <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kakudhasutta 01. Ghi lại chuyến thăm của *Deva* Kakudha Koḷiyaputta đến Moggallāna, mang cho ông tin tức về ý định của Devadatta nhằm phá hoại Tăng đoàn. *Sutta* cũng chứa đựng một mô tả về năm hạng đạo sư bất tịnh trong hành vi, cách thức mưu sinh, việc thuyết pháp, hệ thống giải thích và trí tuệ của họ, nhưng những người này vẫn được các đệ tử của họ bảo vệ vì lòng tham lợi. AN.iii.122ff.
 
 ## Notes

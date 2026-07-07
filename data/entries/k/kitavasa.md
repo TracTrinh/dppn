@@ -5,7 +5,7 @@ base_headword: "Kitavāsa"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -36,6 +36,10 @@ The story of Kitavāsa’s son bears close resemblance to that of <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kitavāsa. Vua xứ Benares. Một người con trai sinh ra cho ông được đặt tên là Duṭṭhakumāra, và người này, theo các nhà tiên tri, sẽ chết vì thiếu nước. Để làm sai lời tiên tri, nhà vua đã canh giữ con trai mình chặt chẽ, tạo ra nhiều hồ nước gần thành phố, và đảm bảo rằng các vật chứa nước được đặt ở bất cứ nơi nào có thể. Một ngày nọ, khi đang trở về từ công viên, hoàng tử nhìn thấy một vị Pacceka Buddha, và tức giận vì sự tôn kính nên được dành cho Đức Phật thay vì cho chính mình, ngài đã lấy bình bát của Đức Phật và ném nó xuống đất. Cơ thể của hoàng tử bốc cháy, nhưng toàn bộ nước xung quanh đã cạn kiệt, những ngọn lửa không thể bị dập tắt và ngài bị nuốt chửng vào địa ngục. Khi Kitavāsa nghe được điều này, ông đã vô cùng đau buồn, nhưng khi suy ngẫm lại, ông nhận ra rằng nỗi buồn của mình bắt nguồn từ sự luyến ái, và từ đó trở đi ông quyết tâm không đặt tình yêu của mình vào bất cứ thứ gì.
+
+Kitavāsa được đồng nhất với Chattapāṇī của Dhammaddhajajātaka, bản thân Chattapāṇī là một kiếp trước của Sāriputta (Ja.ii.194ff).
+
+Câu chuyện về con trai của Kitavāsa mang sự tương đồng gần gũi với câu chuyện về con trai của Kitava (xem Kuṇḍinagariya Thera*)*. Có lẽ Kitava và Kitavāsa là đồng nhất.
 
 ## Notes

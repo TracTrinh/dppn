@@ -5,7 +5,7 @@ base_headword: "Kāḷadānasutta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -26,6 +26,6 @@ Kāḷadānasutta. The name given in the <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷadānasutta. Tên gọi được đưa ra trong Suttasaṅgaha (Số 1) cho Kālasutta (3).
 
 ## Notes

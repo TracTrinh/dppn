@@ -5,7 +5,7 @@ base_headword: "Yasavā"
 disambiguator: "02"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -25,6 +25,6 @@ Yasavā 02. One of the palaces occupied by <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yasavā 02. Một trong những cung điện mà Maṅgala Buddha ngự trị. Bv­a.116.
 
 ## Notes

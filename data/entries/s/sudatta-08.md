@@ -5,7 +5,7 @@ base_headword: "Sudatta"
 disambiguator: "08"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sudatta 08. One of the chief lay patrons of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudatta 08. Một trong những nam thí chủ chính của Metteyya Buddha. Anāg.vs.62.
 
 ## Notes

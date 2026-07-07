@@ -5,7 +5,7 @@ base_headword: "Rohiṇī"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -46,6 +46,12 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="15" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rohiṇī 03. Một con sông nhỏ ngăn cách xứ Sākyan và xứ Koḷiyan. Một con đập được xây ngang qua sông, và dân cư hai bên dùng nước để canh tác ruộng đồng. Một lần, vào tháng Jeṭṭhamūla, có hạn hán, và một cuộc tranh chấp dữ dội nổ ra giữa hai bên dân chúng về việc sử dụng nước. Một trận chiến sắp xảy ra, thì Đức Phật, thấy trước những gì sắp diễn ra, đã xuất hiện trên không trung giữa hai bên đối địch, ngay giữa dòng sông, và thuyết phục họ về sự dại dột khi giết hại lẫn nhau chỉ vì một chút nước. Người ta nói rằng nhân dịp này Ngài đã thuyết Attadaṇḍasutta và Phandanajātaka (Ja 475), Laṭukikajātaka (Ja 357) và Vaṭṭakajātaka (Ja 357).
+
+Để tỏ lòng biết ơn Đức Phật vì đã can thiệp kịp thời, người Sākiyan và người Koḷiyan mỗi bên đã hiến hai trăm năm mươi thanh niên để xuất gia dưới sự hướng dẫn của Ngài. Snp­a.i.358; cp. Ja.v.412; Dhp­a.iii.254ff. Các trình thuật khác nhau về chi tiết; trình thuật trong Jātaka, dài nhất, có nhắc đến các Jātaka khác: Daddabhajātaka (Ja 322) và Rukkhadhammajātaka (Ja 74). DN­a.ii.672f. và SN­a.i.53ff thay Paṭhavudriyanajātaka (??) vào chỗ của Daddabhajātaka (Ja 322). Nhưng xem thêm dưới các Jātaka này.
+
+Rohiṇī được đồng nhất với một dòng suối nhỏ hợp lưu với sông Rapti tại Goruckpore. Ngày nay nó được gọi là Rowai hay Rohwaini. Để biết chi tiết, xem Cunningham, *Archeological Survey of India* xii.190ff.
+
+Dhammapāla nói (Thag­a.i.501) rằng Rohiṇī chảy từ bắc xuống nam và rằng Rājagaha nằm ở phía đông-nam của nó.
 
 ## Notes

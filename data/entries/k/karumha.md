@@ -5,7 +5,7 @@ base_headword: "Karumhā"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Karumhā. A class of spirits, present at the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Karumhā. Một nhóm các linh hồn, đã hiện diện tại Mahā Samaya. DN.ii.260.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Paṭirūpasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -28,6 +28,6 @@ Paṭirūpasutta. The Buddha was once staying in <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṭirūpasutta. Có lần Đức Phật đang lưu trú tại Ekasālā ở Kosala, và tại đây ngài đã thuyết giảng cho một hội chúng lớn. Māra đã cảnh báo Đức Phật không nên giảng dạy, e rằng ngài sẽ phải chịu đựng từ cả sự sốt sắng của những người ủng hộ ngài lẫn sự tức giận của những người phản đối ngài. Tathāgatha không bận tâm đến cả hai điều đó, Đức Phật đã trả lời như vậy. SN.i.111.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Parittābhā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Parittābhā. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parittābhā. Một tầng chư thiên thuộc nhóm các vị thần Ābhā (MN.iii.102). Họ thuộc cõi của *jhāna* thứ hai (Vibh­a.520). Chúng sinh tái sinh vào cõi này nhờ hấp thụ ý niệm về sự chói lọi kém hơn (MN.iii.147). Thọ mạng của họ là hai *kappa*. Abhidh-s.22.
 
 ## Notes

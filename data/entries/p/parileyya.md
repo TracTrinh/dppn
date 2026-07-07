@@ -5,7 +5,7 @@ base_headword: "Pārileyya"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -42,6 +42,12 @@ This elephant is identified with the elephant of the <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pārileyya, Pārileyyaka. Một thị trấn (*nagara*) gần Kosambī. Khi Đức Phật nhận thấy rằng Ngài không thể thuyết phục các tỳ-kheo ở Kosambī kiềm chế việc tranh cãi, Ngài đã rời khỏi Kosambī một mình và không có người hầu hạ, và đi qua Bālakaloṇakāragāma cùng Pācīnavaṁsadāya, đi đến Pārileyyaka, nơi Ngài ở lại dưới gốc cây Bhaddasāla trong khu rừng Rakkhitavanasaṇḍa. Ở đó, một con voi nào đó, vì thấy cuộc sống bầy đàn thật đáng chán, đã rời bỏ bầy của mình, đến hầu hạ Đức Phật, chăm lo cho mọi nhu cầu của Ngài. Từ Pārileyyaka, Đức Phật đi tiếp đến Sāvatthī (Vin.i.352f.; SN.iii.95; Ud.iv.5; Ja.iii.489; MN.i.320). Việc này diễn ra vào năm thứ mười sau khi Ngài Giác ngộ (Bv­a., p.3).
+
+Các Bản chú giải nói rằng tên con voi là Pārileyya, và mô tả một cách sống động chi tiết về cách hoàn hảo mà nó chăm sóc Đức Phật, không bỏ sót điều gì, thậm chí đến mức đi tìm nước nóng cho Ngài tắm (ví dụ, Dhp­a.i.48ff.; iv.26 ff. Ud­a.250f.; xem Thomas: *Life and Legend of the Buddha*, 117n). Ở đó cũng có một con khỉ đã dâng cho Đức Phật một tảng mật ong. Ngay sau đó, con khỉ ngã xuống một gốc cây rồi chết và được tái sinh ở Tāvatiṁsa.
+
+Sau đó, khi Ānanda cùng năm trăm người khác đến để thỉnh Đức Phật trở về Sāvatthī, Pārileyyaka đã cung cấp thức ăn cho tất cả họ. Nó đã chết vì đau lòng khi Đức Phật rời khỏi khu rừng, và được tái sinh ở Tāvatiṁsa trong một cung điện vàng, cao ba mươi do-tuần, nơi vị ấy được biết đến với tên gọi là *Devaputta* Pārileyyaka.
+
+Con voi này được đồng nhất với con voi trong Bhisajātaka (Ja 488). Ja.iv.314.
 
 ## Notes

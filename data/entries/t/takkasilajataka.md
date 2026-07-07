@@ -5,7 +5,7 @@ base_headword: "Takkasilājātaka"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Takkasilājātaka. Apparently another name for the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Takkasilājātaka. Rõ ràng là một tên gọi khác cho Telapattajātaka (Ja 96). Xem Ja.i.970; Dhp­a.iv.83.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kulantavāpi"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -28,6 +28,6 @@ Kulantavāpi (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một hồ chứa nước ở phía nam Anurādhapura. Trong trận chiến giữa lực lượng của Duṭṭhagāmaṇī và Eḷāra, nước trong hồ chứa bị nhuốm đỏ bởi máu của những người bị giết, do đó có tên gọi này. Mhv.xxv.66.
 
 ## Notes

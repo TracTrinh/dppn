@@ -5,7 +5,7 @@ base_headword: "Yāmuna"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -26,6 +26,6 @@ Yāmuna, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yāmuna, Yāmuneyya. Các từ phái sinh của Yamunā.
 
 ## Notes

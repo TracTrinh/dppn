@@ -5,7 +5,7 @@ base_headword: "Soṇattheravagga"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Soṇattheravagga. Also called <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Soṇattheravagga. Cũng được gọi là Mahā Vagga. Chương thứ năm của Udāna.
 
 ## Notes

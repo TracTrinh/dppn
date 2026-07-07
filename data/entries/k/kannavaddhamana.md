@@ -5,7 +5,7 @@ base_headword: "Kaṇṇāvaḍḍhamāna"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -29,6 +29,6 @@ Kaṇṇāvaḍḍhamāna. A mountain in Ceylon, the residence of the <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇṇāvaḍḍhamāna. Một ngọn núi ở Tích Lan, nơi ở của Nāga chúa, cha của Cūḷodara và là anh rể của Mahodara. Mhv.i.49; nhưng xem ấn bản của tôi về Mahā Vaṁsaṭīkā, nơi tôi cho rằng tên của ngọn núi là Vaḍḍhamāna.
 
 ## Notes

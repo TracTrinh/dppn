@@ -5,7 +5,7 @@ base_headword: "Kakuṭṭhā"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -31,6 +31,8 @@ It is said (DN­a.ii.571) that when the Buddha bathed in the river, its banks an
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kakuṭṭhā (Kakutthā, Kukuṭṭhā). Một con sông gần Kusinārā nơi Đức Phật đã tắm và uống nước trước khi vào Kusinārā để nhập *Parinibbāna*. Trên bờ sông có một vườn xoài nơi Đức Phật đã nghỉ ngơi một lát trên chiếc y do Cundaka trải ra cho Ngài; tại đó Ngài đã trấn an Cunda, nói với ông rằng không có sự khiển trách nào đối với ông vì đã dâng cúng cho Đức Phật bữa ăn cuối cùng của Ngài (DN.ii.129,134f; Ud.viii.5; Ud­a.402f).
+
+Người ta nói (DN­a.ii.571) rằng khi Đức Phật tắm dưới sông, hai bờ sông và tất cả những con cá trong đó đều biến thành màu vàng.
 
 ## Notes

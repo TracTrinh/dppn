@@ -5,7 +5,7 @@ base_headword: "Uttarasutta"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -33,6 +33,6 @@ Uttarasutta 02. Preached to the monks by <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttarasutta 02. Được Uttara Thera (Uttara 6) thuyết giảng cho các vị tỳ-kheo tại núi Saṅkheyya ở Dhavajālikā thuộc Mahisavatthu. Từ thời gian này sang thời gian khác, chúng ta nên quán chiếu về những bất hạnh của chính mình cũng như của người khác, và tương tự về những thành công. Vessavaṇa nghe bài kinh này được thuyết giảng khi ông đang đi từ bắc xuống nam vì một việc. Ông đến Tāvatiṁsa và báo lại cho Sakka những gì ông đã nghe Uttara nói. Sakka, sau đó, xuất hiện trước Uttara và hỏi ông rằng bài giảng của ông dựa trên sự chiếu sáng của chính ông (*paṭibhāna*) hay dựa trên những gì ông đã nghe từ Đức Phật. Uttara trả lời rằng những lời của ông được thâu nhặt từ Pháp của Đức Phật như một người lấy một nắm thóc từ một đống thóc. Sakka sau đó nhắc lại toàn bộ bài giảng cùng chủ đề đó mà ông đã nghe Đức Phật thuyết cho các tỳ-kheo tại Gijjhakūṭa ở Rājagaha. AN.iv.1626.
 
 ## Notes

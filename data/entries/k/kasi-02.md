@@ -5,7 +5,7 @@ base_headword: "Kāsi"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -30,6 +30,6 @@ Kāsi 02. or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāsi 02. hoặc Kāsika. Một thành phố, nơi sinh của Phussa Buddha (Bv.xix.14; Ja.i.41). Tại đó ngài đã thuyết Buddhavaṁsa (Bv­a.193). Thành phố này có lẽ được đồng nhất với Benares, nơi thỉnh thoảng được tham chiếu đến là Kāsipura (ví dụ, Dhp­a.i.71; Ja.v.54; vi.165; MN.i.171; Dhs­a.35; Cv.xli.37). Nó cũng được gọi là Kāsipurī (Pv-a.19).
 
 ## Notes

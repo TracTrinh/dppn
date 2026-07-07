@@ -5,7 +5,7 @@ base_headword: "Kāḷī"
 disambiguator: "07"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -27,6 +27,6 @@ Kāḷī 07. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷī 07. Vợ của Kotūhalaka (xem ở mục từ tương ứng) và là mẹ của Kāpi (Dhp­a.i.169). Khi Kotūhalaka được sinh ra là Ghosaka, bà đã trở thành vợ của ông sau khi đã cứu mạng ông (Dhp­a.i.181). Xem Ghosaka.
 
 ## Notes

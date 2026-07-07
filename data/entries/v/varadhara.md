@@ -5,7 +5,7 @@ base_headword: "Varadhara"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -28,6 +28,6 @@ Varadhara. A noted *Paribbājaka* in the time of the Buddha. He lived with <span
 
 ## Vietnamese translation
 
-Chưa dịch.
+Varadhara. Một vị *Paribbājaka* (du sĩ ngoại đạo) nổi tiếng vào thời đức Phật. Ông sống cùng với Annabhāra, Sakuludāyī và những người khác trong *Paribbājakārāma*, trên bờ sông Sappinikā (AN.ii.29, 176), và sau đó tại Moranivāpa ở Rājagaha. MN.ii.1.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kumāriyasutta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -24,6 +24,6 @@ Kumāriyasutta. Few abstain from accepting women or girls, many do not. SN.v.471
 
 ## Vietnamese translation
 
-Chưa dịch.
+Có ít người kiêng nhận phụ nữ hoặc các cô gái, nhiều người thì không. SN.v.471.
 
 ## Notes

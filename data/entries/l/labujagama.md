@@ -5,7 +5,7 @@ base_headword: "Labujagāma"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -28,6 +28,6 @@ Labujagāma. A village in Ceylon, in the province of <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Labujagāma. Một ngôi làng ở Tích Lan, thuộc tỉnh Saparagamu. Một thời gian ngắn, Xá-lợi Răng của Đức Phật được đặt tại tu viện nơi đây, sau khi được đưa từ Jayavaḍḍhanapura (Cp. Cv.xci.17f), và Vimaladhammasūriya đã chuyển nó từ đó đến Sirivaḍḍanapura. Cv.xciv.11f.
 
 ## Notes

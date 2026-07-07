@@ -5,7 +5,7 @@ base_headword: "Paṭhavīsutta"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Paṭhavīsutta 01. Seven small balls of clay, as big as jujube kernels, are inf
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṭhavīsutta 01. Bảy cục đất sét nhỏ, to bằng hạt táo ta, còn nhỏ hơn vô cùng tận so với trái đất. Cũng như vậy đối với một vị đệ tử bậc Thánh – khi vị ấy đã đạt được sự hiểu biết, phần *dukkha* còn lại là nhỏ hơn vô cùng tận so với những gì vị ấy đã đoạn diệt. SN.ii.135f.; lặp lại tại SN.v.462f.
 
 ## Notes

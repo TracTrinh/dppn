@@ -5,7 +5,7 @@ base_headword: "Upatissā"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Upatissā. One of the two chief women-disciples of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upatissā. Một trong hai nữ đại đệ tử của Đức Phật Koṇḍañña. Bv.iii.31; Ja.i.30.
 
 ## Notes

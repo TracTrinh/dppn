@@ -5,7 +5,7 @@ base_headword: "Verahaccāni"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -31,6 +31,8 @@ He was asked to invite <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Verahaccāni. Tên của một thị tộc Bà-la-môn (*gotta*). Saṁyuttanikāya có nhắc đến một phụ nữ thuộc *gotta* sống ở Kāmaṇḍā, người này rõ ràng là một giáo thọ. Một người học trò của bà (*antevāsī māṇavaka*) sau khi đã viếng thăm Udāyī, khi đó đang trú tại Todeyya-ambavana, đã kể cho bà nghe về những phẩm chất xuất sắc của ngài.
+
+Anh ta được yêu cầu mời Udāyī đến dự một bữa ăn, và, khi bữa ăn kết thúc, vị giáo thọ mang dép vào, ngồi trên một chiếc ghế cao, và với đầu bị che phủ, yêu cầu Udāyī thuyết pháp. "Sẽ có lúc cho việc đó, này chị," ngài nói, và đi khỏi. Chuyện này xảy ra ba lần, và sau đó bà nói với người học trò của mình. Anh ta chỉ ra cho bà lỗi của bà trong việc không thể hiện sự tôn trọng đối với Dhamma. Lần tiếp theo Udāyī đến, bà đã tiếp cận ngài sau bữa ăn với tất cả sự khiêm nhường và hỏi ngài rằng, theo các bậc *Arahant*, đâu là nguyên nhân của hạnh phúc và đau khổ. "Sự tồn tại của các giác quan," Udāyī trả lời; và bà, bày tỏ sự hài lòng của mình, tuyên bố mình là một người theo Udāyī. SN.iv.121f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kacchavāla"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,6 @@ Kacchavāla. A monastery built for the <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kacchavāla. Một tu viện được xây dựng cho các Paṁsukūlika bởi Vajira, vị tướng của Dappula II. Cv.xlix.80.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sora Laṅkagiri"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Sora Laṅkagiri. A general of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sora Laṅkagiri. Một vị tướng quân của Parakkamabāhu I, người đã tham gia vào chiến dịch Ấn Độ của nhà vua. Cv.lxxvi.250.
 
 ## Notes

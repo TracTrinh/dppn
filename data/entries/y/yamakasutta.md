@@ -5,7 +5,7 @@ base_headword: "Yamakasutta"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -30,6 +30,8 @@ The *Sutta* is often referred to. (e.g., Vibh­a.32; Vsm.479; cp. Vsm.626 (*Yama
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yamakasutta (Yamakovādasutta). Vị Thera Yamaka có quan điểm rằng, khi một tỳ-kheo đã diệt trừ các lậu hoặc (*āsavas*), vị ấy sẽ tan hoại và diệt vong khi thân hoại mạng chung và không còn tồn tại sau khi chết. Các đồng đạo của Yamaka đã cố gắng sửa chữa tà kiến này nhưng thất bại, và do đó đã báo cáo ông với Sāriputta (tà kiến nằm ở ngụ ý rằng "*một chúng sinh* tan hoại và diệt vong", SN­a.ii.226). Sāriputta đã đến thăm Yamaka và tranh luận với vị này rằng nếu việc nói về bất kỳ ai rằng người đó thực sự tồn tại, trong thực tại, ngay cả trong chính đời sống này là sai lầm, thì huống hồ là việc nói về một người tồn tại hay không tồn tại sau khi chết. Yamaka ngay lập tức thú nhận lỗi lầm của mình. Sāriputta còn làm sáng tỏ vấn đề hơn nữa bằng cách sử dụng ví dụ về một người phục vụ cho một gia chủ giàu có với ý định sát hại ông ta. Một người như vậy sẽ luôn là một kẻ sát nhân, mặc dù chủ nhân của anh ta không biết anh ta là kẻ như thế. Tương tự như vậy, vị đệ tử nào coi cơ thể, v.v..., là thường hằng và những thứ tương tự, đang ấp ủ một tà kiến chết người, mặc dù vị ấy không biết nó là như vậy (SN.iii.109ff).
+
+*Sutta* này thường được trích dẫn. (ví dụ, Vibh­a.32; Vsm.479; cp. Vsm.626 (*Yamakato sammasana*), *Yamakato* ở đây có nghĩa là “theo Yamakasutta”?). Đôi khi nó được gọi là Yamakovādasutta (ví dụ, Netti, p. 30).
 
 ## Notes

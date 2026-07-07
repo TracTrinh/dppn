@@ -5,7 +5,7 @@ base_headword: "Sonanandajātaka"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -39,6 +39,8 @@ The occasion for the story is the same as that for the <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sonanandajātaka (Ja 532). Thuở xưa khi Manoja làm vua xứ Brahmavaḍḍhana (Benares), Bodhisatta đản sinh làm Sona, con trai của một vị Bà-la-môn giàu có. Ngài có một người em trai tên là Nanda. Khi hai người con trai lớn lên, cha mẹ muốn họ kết hôn, nhưng họ đã từ chối, và bày tỏ mong muốn trở thành đạo sĩ sau khi cha mẹ qua đời. Sau đó, cha mẹ đề nghị rằng tất cả họ nên cùng nhau trở thành đạo sĩ ngay lập tức; họ đã làm như vậy, và sống trong một khu rừng dễ chịu ở Himālaya. Một thời gian sau, vì Nanda đã mang trái cây chưa chín cho cha mẹ bất chấp lời cảnh báo của Sona, Sona đã đuổi vị ấy đi. Nanda bèn tìm đến Manoja, và bằng thần thông của mình, đã giúp vị vua này chinh phục nhiều vương quốc khác nhau ở Jambudīpa, thu phục được một trăm lẻ một vị vua trong bảy năm, bảy tháng và bảy ngày. Manoja đã đưa tất cả những vị vua này về Brahmavaḍḍhana, nơi nhà vua tổ chức tiệc tùng cùng họ. Nanda dành thời gian của mình trong Suvaṇṇaguhā ở Himālaya, và nhận thức ăn khất thực từ Uttarakuru. Cuối ngày thứ bảy, Manoja tìm kiếm Nanda, vị này đọc được suy nghĩ của nhà vua nên đã xuất hiện trước mặt vua. Manoja muốn trao một món quà để tỏ lòng biết ơn, và Nanda đã yêu cầu nhà vua đứng ra nói giúp mình với Sona và xin Sona tha thứ cho mình. Họ cùng nhau đến chỗ Sona với một đoàn tùy tùng lớn. Sona giải thích lý do tại sao ngài cấm Nanda chăm sóc cha mẹ của họ, và Nanda xin ngài tha thứ vì đã đưa cho cha mẹ trái cây chưa chín trong lúc quá háo hức muốn hầu hạ họ. Sona đã tha thứ cho vị ấy, và tất cả họ lại sống cùng nhau một lần nữa, trong khi các vị vua trở về quốc gia của họ, nơi họ trị vì một cách anh minh.
+
+Duyên cớ của câu chuyện này cũng giống như duyên cớ của Sāmajātaka (Ja 540) (*q.v.*), liên quan đến một vị tỳ-kheo phụng dưỡng mẹ mình. Nanda được nhận diện là Ānanda và Manoja là Sāriputta (Ja.v.312, p.332). Câu chuyện cũng được nêu trong Cariyāpiṭaka. Cp.iii.v.
 
 ## Notes

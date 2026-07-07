@@ -5,7 +5,7 @@ base_headword: "Suhemā"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Suhemā. Probably the wife of the goose king <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suhemā. Có lẽ là vợ của con ngỗng chúa Dhataraṭṭha. Ja.v.366.
 
 ## Notes

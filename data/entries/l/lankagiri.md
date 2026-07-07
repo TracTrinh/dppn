@@ -5,7 +5,7 @@ base_headword: "Laṅkāgiri"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -28,6 +28,6 @@ Laṅkāgiri. A title in use at the time of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Laṅkāgiri. Một danh hiệu được sử dụng vào thời Parakkamabāhu I. Trong số những người được đề cập là đã mang danh hiệu này có Mahī, Nātha và Sora. Xem. Cv.lxxii.27, 124; lxxvi.250.
 
 ## Notes

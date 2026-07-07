@@ -5,7 +5,7 @@ base_headword: "Sudatta"
 disambiguator: "10"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sudatta 10. One of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudatta 10. Một trong những nam thí chủ chính của Sujāta Buddha. Bv.xiii.30.
 
 ## Notes

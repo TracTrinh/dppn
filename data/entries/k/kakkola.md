@@ -5,7 +5,7 @@ base_headword: "Kakkoḷa"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kakkoḷa. A district in South India which supplied soldiers to <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kakkoḷa. Một quận ở Nam Ấn Độ đã cung cấp binh lính cho Kulasekhara. Cv.lxxvii.2.
 
 ## Notes

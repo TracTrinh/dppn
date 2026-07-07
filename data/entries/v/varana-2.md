@@ -5,7 +5,7 @@ base_headword: "Varaṇā"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -27,6 +27,6 @@ Varaṇā. A city on the banks of the <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Varaṇā. Một thành phố bên dòng sông Kaddamadaha, nơi Ārāmadaṇḍa đã đến viếng thăm Mahā Kaccāna. AN.i.65; AN­a.i.322.
 
 ## Notes

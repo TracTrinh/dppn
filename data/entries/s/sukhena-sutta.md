@@ -5,7 +5,7 @@ base_headword: "Sukhena Sutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sukhena Sutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sukhena Sutta. Moggallāna giải thích cho các tỳ-kheo về việc Đức Phật đã giúp đỡ ông hoàn thiện *jhāna* thứ ba như thế nào. SN.iv.264.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Uttarā"
 disambiguator: "07"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Uttarā 07. A little *Yakkhinī*, sister of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttarā 07. Một nữ dạ-xoa (Yakkhinī) nhỏ tuổi, em gái của Punabbasu. Để biết câu chuyện của cô, xem Uttaramātā (2).
 
 ## Notes

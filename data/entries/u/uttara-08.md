@@ -5,7 +5,7 @@ base_headword: "Uttara"
 disambiguator: "08"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,6 @@ Uttara 08. A Brahmin youth. When <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttara 08. Một thanh niên Bà-la-môn. Khi Erakapatta, vua của loài Nāga, đưa ra lời hứa gả con gái của mình cho bất kỳ ai có thể trả lời được những câu hỏi của ông – hy vọng nhờ đó mà nghe được về sự xuất hiện của một vị Phật trên thế giới – Uttara là một trong số những người đã có tham vọng giành được cô. Đức Phật, với mong muốn vì sự an lạc của nhiều chúng sinh, đã gặp Uttara trên đường ông đi đến triều đình của loài Nāga và dạy cho ông những câu trả lời thích hợp cho các câu hỏi. Vào lúc kết thúc bài học, Uttara đã trở thành một Sotāpanna. Khi ông lặp lại các câu trả lời trước mặt thiếu nữ Nāga, Erakapatta đã vô cùng vui mừng và cùng ông đi đến gặp Đức Phật, ngài đã thuyết giảng cho ông và cho đám đông đang tụ tập. Dhp­a.iii.230ff.
 
 ## Notes

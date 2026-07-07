@@ -5,7 +5,7 @@ base_headword: "Mānakapiṭṭhi"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Mānakapiṭṭhi. A village in <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mānakapiṭṭhi. Một ngôi làng ở Rohaṇa, được đề cập trong các ghi chép về các chiến dịch của Parakkamabāhu I. Cv.lxxv.47.
 
 ## Notes

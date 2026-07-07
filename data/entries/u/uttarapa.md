@@ -5,7 +5,7 @@ base_headword: "Uttarāpa"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Uttarāpa. The name given to the region to the north of the river <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttarāpa. Tên gọi của vùng đất nằm ở phía bắc sông Mahī (Snp-a.ii.437). Xem thêm Aṅguttarāpa.
 
 ## Notes

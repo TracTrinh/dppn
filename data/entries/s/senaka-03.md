@@ -5,7 +5,7 @@ base_headword: "Senaka"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Senaka 03. The Bodhisatta, born as a Brahmin; he was the minister of <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Senaka 03. Bodhisatta, sinh ra làm một Bà-la-môn; ông là đại thần của Madda, vua xứ Benares. Xem Dasaṇṇakajātaka (Ja 401).
 
 ## Notes

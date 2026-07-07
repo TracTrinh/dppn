@@ -5,7 +5,7 @@ base_headword: "Maṇibhaddasutta"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Maṇibhaddasutta. Records the conversation between the Buddha and <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇibhaddasutta. Ghi lại cuộc đàm đạo giữa Đức Phật và Maṇibhadda (*q.v.*).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Lambacūḷaka"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -27,6 +27,6 @@ Lambacūḷaka. A town in the domain of King <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lambacūḷaka. Một thị trấn trong lãnh địa của vua Pajaka (Ja.iii.463), do đó thuộc Avanti. Ở chỗ khác (Ja.v.133) được đề cập là đã thuộc lãnh địa của Caṇḍappajjota, có thể vẫn chỉ Avanti.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Uttaradhātusenavihāra"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uttaradhātusenavihāra. Built by King <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttaradhātusenavihāra. Được xây dựng bởi vua Dhatusena. Cv.xxxviii.48.
 
 ## Notes

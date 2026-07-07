@@ -5,7 +5,7 @@ base_headword: "Vanasaṁyutta"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vanasaṁyutta. The ninth section of the <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vanasaṁyutta. Phần thứ chín của Saṁyuttanikāya. SN.i.197-205.
 
 ## Notes

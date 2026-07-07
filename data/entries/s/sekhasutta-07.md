@@ -5,7 +5,7 @@ base_headword: "Sekhasutta"
 disambiguator: "07"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -23,6 +23,6 @@ Sekhasutta 07. A detailed explanation of the difference between a learner (*sekh
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sekhasutta 07. Giải thích chi tiết về sự khác biệt giữa học nhân (*sekha*) và bẬcc vô học (*asekha*). SN.v.229f.
 
 ## Notes

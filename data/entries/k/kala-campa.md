@@ -5,7 +5,7 @@ base_headword: "Kāḷa Campā"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -36,6 +36,6 @@ Kāḷa Campā. A city in <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷa Campā. Một thành phố ở Aṅga; nó cách Mithilā sáu mươi do-tuần, và được kết nối bằng một con đường xe kéo (Ja.vi.31f). Những bậc hiền triết từ Himālaya đã đến Kāḷa Campā để mua muối và gia vị chua (Ja.vi.256). Có những người họ hàng của Puṇṇaka sống ở đó (Ja.vi.274). Varuṇa, vua Nāga, nói với Vidhūra rằng ông (Varuṇa) và vợ mình từng là cư dân của Kāḷa Campā (Ja.vi.317). Kāḷa Campā có lẽ là một tên gọi khác của Campā (*q.v.*); trên thực tế, cái tên Campā được sử dụng nhiều hơn một lần để nói đến Kāḷa Campā (ví dụ, Ja.vi.32). Theo Aṅguttara Commentary (AN­a.i.131), Soṇa Koḷivisa được sinh ra ở Kāḷa Campā; tuy nhiên, Theragāthā Commentary (Thag­a.i.544) lại nói về nơi sinh của ông là Campā.
 
 ## Notes

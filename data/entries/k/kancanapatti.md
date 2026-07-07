@@ -5,7 +5,7 @@ base_headword: "Kañcanapattī"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,6 @@ Kañcanapattī. The hut in the <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kañcanapattī. Túp lều ở Kañcanapabbata, nơi vị đạo sĩ Jotirasa sinh sống, là bạn của Vessavaṇa. Ja.ii.399.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Paramatthapakāsinī"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Paramatthapakāsinī. The name given to the *Mūlaṭīkā* on the <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paramatthapakāsinī. Tên được đặt cho *Mūlaṭīkā* về Abhidhammapiṭaka được viết ở Tích Lan dưới thời Mahā Kassapa. Sās-d.60.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sīhasutta"
 disambiguator: "03"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -24,6 +24,6 @@ Sīhasutta 03. When a lion hunts he hunts carefully, be it but for a hare or cat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhasutta 03. Khi một con sư tử đi săn, nó săn một cách cẩn thận, dù chỉ là một con thỏ hay con mèo, để kỹ năng của nó không bị thất bại. Cũng vậy, khi một vị Phật thuyết pháp, dù chỉ là cho một người bẫy chim đang đi cùng với thóc, Ngài cũng thuyết giảng với sự cẩn trọng, vì lòng tôn kính đối với Pháp. AN.iii.121.
 
 ## Notes

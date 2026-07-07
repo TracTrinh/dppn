@@ -5,7 +5,7 @@ base_headword: "Phusatisutta"
 disambiguator: ""
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -23,6 +23,6 @@ Phusatisutta. To him who touchets not comes no touch. A wicked man’s actions r
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phusatisutta. Đối với người không đụng chạm thì sẽ không có sự đụng chạm nào đến với họ. Những hành động của một kẻ ác sẽ phản phục lại chính hắn. SN.i.13.
 
 ## Notes

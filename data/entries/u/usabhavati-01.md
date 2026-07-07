@@ -5,7 +5,7 @@ base_headword: "Usabhavatī"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -30,6 +30,6 @@ Usabhavatī 01. A city where, in the pleasaunce near by, <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Usabhavatī 01. Một thành phố nơi, trong khu lâm viên gần đó, Paduma Buddha đã trải qua một mùa an cư. Các cư dân đã cúng dường một chiếc y kaṭhina đặc biệt cho vị đệ tử hàng đầu của ngài, Sāla (Bv­a.148). Theo Buddhavaṁsa Commentary (p.173), Piyadassī Buddha đã thuyết bài kinh đầu tiên của mình cũng tại chính khu lâm viên này, nhưng Buddhavaṁsa (xiv.119) ghi tên của nó là Ussāvana.
 
 ## Notes

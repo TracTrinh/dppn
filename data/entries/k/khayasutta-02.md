@@ -5,7 +5,7 @@ base_headword: "Khayasutta"
 disambiguator: "02"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -23,6 +23,6 @@ Khayasutta 02. All things are liable to destruction. SN.iv.28.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khayasutta 02. Mọi pháp đều phải chịu sự hoại diệt. SN.iv.28.
 
 ## Notes

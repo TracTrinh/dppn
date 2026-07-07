@@ -5,7 +5,7 @@ base_headword: "Māṇava Thera"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -40,6 +40,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māṇava Thera. Ông xuất thân từ một gia đình Bà-la-môn giàu có ở Sāvatthī. Một ngày kia, trên đường đến công viên khi lên bảy tuổi, lần đầu tiên ông nhìn thấy những người đau khổ vì già, bệnh, và chết. Những cảnh đó làm ông kinh hoàng, và ông đến tu viện, nghe Đức Phật thuyết giảng, rồi với sự đồng ý của cha mẹ, gia nhập Tăng đoàn. Ông được gọi là "*Māṇava*" vì đã xuất gia khi còn rất trẻ.
+
+Vào thời Đức Phật Vipassī, ông là một thầy xem tướng, và sau khi nhìn thấy đứa trẻ, tuyên bố rằng trẻ này chắc chắn sẽ thành Phật, và đảnh lễ trẻ. Trong các kiếp sau ông đã nhiều lần làm vua dưới các tên Sammukhāthavika, Paṭhavīdundubhi, Obhāsa, Sadinacchedana, Agginibbāpaka, Vātamma, Gatipacchedana, Ratanapajjala, Padakkamana, Vilokana và Girisāra (Thag­a.vs.73; Thag­a.i.162ff). Ông rõ ràng đồng nhất với Sammukhāthavika Thera trong Apadāna. Ap.i.158f.
 
 ## Notes

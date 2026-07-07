@@ -5,7 +5,7 @@ base_headword: "Parisuddhābhā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Parisuddhābhā. A class of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parisuddhābhā. Một tầng chư thiên thuộc nhóm các vị thần Ābhā. Chúng sinh tái sinh vào cõi này nhờ hấp thụ ý niệm về sự chói lọi không tì vết (MN.iii.102,147). Họ thuộc cõi của *jhāna* thứ ba (VbhA. 520) và thọ mạng của họ là mười sáu *kappa*. Abhidh-s.23.
 
 ## Notes

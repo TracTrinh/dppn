@@ -5,7 +5,7 @@ base_headword: "Kisalayapūjaka Thera"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -29,6 +29,8 @@ Twenty-seven *kappas* ago he was a king named <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kisalayapūjaka Thera. Một vị *Arahant*. Chín mươi bốn *kappa* trước ngài sinh ra ở Dvāravatī. Một ngày nọ, khi nhìn thấy Siddhattha Buddha đang đi trên không trung cùng với các tỳ-kheo tùy tùng của mình, ngài đã ném lên bầu trời, như một lễ vật cúng dường, một nhánh *asoka* đầy những nụ hoa.
+
+Hai mươi bảy *kappa* trước ngài là một vị vua tên là Ekassara. Ap.i.200.
 
 ## Notes

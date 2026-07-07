@@ -5,7 +5,7 @@ base_headword: "Kalyāṇadhammavagga"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kalyāṇadhammavagga. The third chapter of the *Dukanipāta* of the <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kalyāṇadhammavagga. Chương thứ ba thuộc *Dukanipāta* của *Jātaka*. Ja.ii.63-86.
 
 ## Notes

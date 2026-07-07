@@ -5,7 +5,7 @@ base_headword: "Sujāta"
 disambiguator: "04"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sujāta 04. A king, father of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sujāta 04. Một vị vua, cha của Nārivāhana (*q.v.*).
 
 ## Notes

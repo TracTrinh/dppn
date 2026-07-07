@@ -5,7 +5,7 @@ base_headword: "Kīḷanakhanda"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kīḷanakhanda. The section of the <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kīḷanakhanda. Phần thuộc Bhūridattajātaka (Ja 543) đề cập đến việc bắt giữ Bhūridatta và những sự chuẩn bị cho một cuộc triển lãm về kỹ năng khiêu vũ của ngài. Ja.vi.186.
 
 ## Notes

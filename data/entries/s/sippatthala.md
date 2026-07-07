@@ -5,7 +5,7 @@ base_headword: "Sippatthala"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sippatthala. A village in <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sippatthala. Một ngôi làng ở Rohaṇa, gần Kājaragāma, được nhắc đến trong câu chuyện về các chiến dịch của Vijayabāhu I. Cv.lvii.70; lviii.7.
 
 ## Notes

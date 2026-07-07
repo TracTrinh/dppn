@@ -5,7 +5,7 @@ base_headword: "Tagara"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tagara. A city in the time of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tagara. Một thành phố thời Dhammadassī Buddha; nó là kinh đô của Vua Sañjaya. Bv­a.p.183.
 
 ## Notes

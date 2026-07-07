@@ -5,7 +5,7 @@ base_headword: "Kittī"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -32,6 +32,6 @@ Kittī 01. (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kittī 01. (*v.l.* Kittā). Con gái của Kittaggabodhi, người cai trị của Rohaṇa, và là vợ của Mahinda, *Uparāja* của Sena I. (Cc.l.50, 60). Những người anh em trai của bà là Kassapa, Sena và Udaya. Bà có một người con gái và bốn người con trai, một trong số đó là *Ādipāda* của Kittaggabodhi (Cv.li.16, 94).
 
 ## Notes

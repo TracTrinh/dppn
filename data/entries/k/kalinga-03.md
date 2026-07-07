@@ -5,7 +5,7 @@ base_headword: "Kāliṅga"
 disambiguator: "03"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -29,6 +29,6 @@ Kāliṅga 03. Various kings of Kāliṅga are mentioned either as <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāliṅga 03. Nhiều vị vua khác nhau của Kāliṅga được nhắc đến với tư cách là Kāliṅgarājā hay chỉ đơn giản là Kāliṅga. Về các vị vua này, xem Kāliṅga (2). Chúng ta cũng nghe nói đến Cūḷa Kāliṅga và Mahā Kāliṅga. Cūḷa Kāliṅga đôi khi được gọi là Kāliṅgakumāra (Ja.iv.230).
 
 ## Notes

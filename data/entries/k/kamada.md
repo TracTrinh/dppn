@@ -5,7 +5,7 @@ base_headword: "Kāmada"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -27,6 +27,8 @@ The Commentary (SN­a.i.83) explains that <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāmada. Một thiên tử (*Devaputta*) đã đến thăm Đức Phật và nói với ngài rằng con đường của các đệ tử bậc Thánh thật khó noi theo và mục tiêu của họ thật khó đạt được. Đức Phật đã chỉ ra cho vị ấy rằng điều khó khăn đã và đang được hoàn thành (SN.i.48).
+
+Bản chú giải (SN­a.i.83) giải thích rằng Kāmada từng là một hành giả (*yogāvacara*) trên cõi người, nhưng đã qua đời trước khi có thể đạt được bất kỳ Thánh quả nào của Đạo và tại đây vị ấy than phiền về sự thất vọng của mình.
 
 ## Notes

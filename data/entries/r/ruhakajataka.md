@@ -5,7 +5,7 @@ base_headword: "Ruhakajātaka"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -27,6 +27,6 @@ Ruhakajātaka (Ja 191). <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ruhakajātaka (Ja 191). Ruhaka là tế sư của Bodhisatta, lúc đó ngài sinh ra làm vua xứ Benares. Nhà vua ban cho ông ta một con ngựa với yên cương lộng lẫy, và khi ông cưỡi nó, mọi người đều mải mê chiêm ngưỡng. Vợ của Ruhaka là một bà lão ngu ngốc, khi nghe mọi người khen ngợi, bà tuyên bố rằng sự phấn khích của họ không phải do phẩm chất của con vật mà là do bộ yên cương của nó, và rằng nếu Ruhaka khoác yên cương của con ngựa đi ra ngoài, ông cũng sẽ được hoan hô tương tự. Ruhaka đồng ý với gợi ý này và đã phải chịu sự sỉ nhục lớn; ông tức giận trở về nhà, quyết tâm trừng phạt vợ mình, nhưng bà ta đã trốn thoát và tìm kiếm sự bảo vệ của nhà vua. Nhà vua thuyết phục Ruhaka tha thứ cho bà ta vì "tất cả phụ nữ đều đầy lỗi lầm." (Ja.ii.113ff). Dịp kể lại câu chuyện được đưa ra trong bài kinh Indriyajātaka (Ja 423) (*q.v.*).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Phalasutta"
 disambiguator: "03"
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -23,6 +23,6 @@ Phalasutta 03. On seven fruits to be obtained from the cultivation of the four *
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phalasutta 03. Nói về bảy thành quả đạt được nhờ sự tu tập bốn *iddhipāda*. SN.v.285.
 
 ## Notes

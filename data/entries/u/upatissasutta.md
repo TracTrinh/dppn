@@ -5,7 +5,7 @@ base_headword: "Upatissasutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Upatissasutta. Preached by <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upatissasutta. Được thuyết bởi Sāriputta. Ngài nói với các tỳ-kheo rằng không có gì trên toàn thế giới này, mà một sự thay đổi trong đó sẽ gây ra cho ngài sự sầu khổ. Ngay cả một sự thay đổi liên quan đến Đức Phật, ngài nhấn mạnh, để trả lời cho một câu hỏi của Ānanda. SN.ii.274f.
 
 ## Notes

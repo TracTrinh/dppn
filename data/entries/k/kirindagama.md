@@ -5,7 +5,7 @@ base_headword: "Kirindagāma"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kirindagāma. A village in <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kirindagāma. Một ngôi làng ở Rohaṇa. Cv.lxxiv.97; để biết sự nhận diện của nó, xem Cv.Trs.ii.30, n.5.
 
 ## Notes

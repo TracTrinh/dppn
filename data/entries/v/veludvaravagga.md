@@ -5,7 +5,7 @@ base_headword: "Veḷudvāravagga"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Veḷudvāravagga. The first chapter of the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Veḷudvāravagga. Phẩm đầu tiên của Sotāpattisaṁyutta. SN.v.342-60.
 
 ## Notes

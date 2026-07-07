@@ -5,7 +5,7 @@ base_headword: "Kaṇha"
 disambiguator: "06"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kaṇha 06. A dog. See <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇha 06. Một con chó. Xem Mahā Kaṇha.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Pariyesanāsutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Pariyesanāsutta. On four quests that are un-Ariyan and four that are Ariyan. AN
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pariyesanāsutta. Về bốn sự tầm cầu không thuộc bậc Thánh và bốn sự tầm cầu thuộc bậc Thánh. AN.ii.247.
 
 ## Notes

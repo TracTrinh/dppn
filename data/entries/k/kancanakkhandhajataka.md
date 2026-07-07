@@ -5,7 +5,7 @@ base_headword: "Kañcanakkhandhajātaka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -24,6 +24,6 @@ Kañcanakkhandhajātaka (Ja 56). The Bodhisatta was once born as a farmer and, w
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kañcanakkhandhajātaka (Ja 56). Bodhisatta có lần được sinh ra làm một nông dân và, trong khi đang cày ruộng, đã bắt gặp một thỏi vàng, dài bốn cubit và dày bằng đùi của một người đàn ông, vốn được chôn giấu bởi một thương gia trong những ngày xa xưa. Nhận thấy không thể dời toàn bộ khối vàng đi được, anh ta đã cắt nó ra làm bốn và dễ dàng mang nó về nhà. Câu chuyện được kể liên quan đến một vị tỳ-kheo muốn rời khỏi Tăng đoàn vì ông lo sợ trước tất cả những quy tắc mà các vị đạo sư yêu cầu ông phải học và tuân theo. Đức Phật đã ban cho ông ba quy tắc — canh giữ lời nói, thân thể và tâm trí — và vị tỳ-kheo đã đạt được quả vị Arahant. Ngay cả một gánh nặng to lớn cũng trở nên nhẹ nhàng nếu được mang từng phần một. Ja.i.2768.
 
 ## Notes

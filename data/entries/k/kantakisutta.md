@@ -5,7 +5,7 @@ base_headword: "Kaṇṭakīsuttā"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,6 @@ Kaṇṭakīsuttā. A group of three *Suttas*. <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇṭakīsuttā. Một nhóm gồm ba *Sutta*. Sāriputta và Moggallāna đến gặp Anuruddha và hỏi ông những câu hỏi khác nhau. Anuruddha nói rằng bốn *satipaṭṭhāna* nên được chứng đạt bởi cả bậc hữu học (*sekha*) và bậc vô học (*asekha*), và tuyên bố rằng chính bản thân ông đã đi đến hiểu biết về ngàn thế giới nhờ vào việc tu tập bốn pháp này. SN.v.298f.
 
 ## Notes

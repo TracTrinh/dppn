@@ -5,7 +5,7 @@ base_headword: "Kāyagatāsatisutta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -32,6 +32,10 @@ For the special nature of this *Sutta* see the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāyagatāsatisutta. Được thuyết giảng tại Jetavana, về cách trau dồi chánh niệm về thân để nó có thể mang lại quả lành dồi dào và mười phước lành phát sinh từ đó (MN.iii.88ff).
+
+Sutta này, cũng giống như Ānāpāṇa, thực ra chỉ là một phần trình bày của Satipaṭṭhānasutta.
+
+Về bản chất đặc biệt của Sutta này, xem Chú giải Vibhaṅga (p.226).
 
 ## Notes

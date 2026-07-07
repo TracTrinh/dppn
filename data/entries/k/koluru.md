@@ -5,7 +5,7 @@ base_headword: "Koḷūru"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -24,6 +24,6 @@ Koḷūru. A district in South India. Cv.lxxvi.130.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koḷūru. Một quận ở miền Nam Ấn Độ. Cv.lxxvi.130.
 
 ## Notes

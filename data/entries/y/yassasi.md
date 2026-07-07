@@ -5,7 +5,7 @@ base_headword: "Yassasī"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -25,6 +25,6 @@ Yassasī. The name of a <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yassasī. Tên của một vị Pacceka Buddha. MN.iii.69; Ap­a.i.106; MN­a.ii.890.
 
 ## Notes

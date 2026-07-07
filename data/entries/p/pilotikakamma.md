@@ -5,7 +5,7 @@ base_headword: "Pilotikakamma"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Pilotikakamma. A chapter in the <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pilotikakamma. Một chương trong Apadāna đề cập đến nhiều biến cố khác nhau trong các kiếp sống của Bodhisatta, dẫn đến hậu quả là Đức Phật, trong kiếp sống cuối cùng, phải chịu đựng các chứng bệnh thể chất và sự vu khống (Ap.i.299f; lặp lại trong Ud­a.263f). Xem Pubbakammapiloti.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kuṇḍinagariya Thera"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,6 @@ Kuṇḍinagariya Thera. The name given to <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tên được đặt cho Poṭṭhapāda bởi vì ông sinh ra và lớn lên ở Kuṇḍi. Ông sống ở ngọn núi Sāṇavāsīpabbata gần đó. Pv.iii.2; Pv-a.177ff.
 
 ## Notes

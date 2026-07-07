@@ -5,7 +5,7 @@ base_headword: "Kaṇhamitta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,6 @@ Kaṇhamitta. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇhamitta. *cách đọc khác:* Gaṇḍimitta. Tên thật của vị Thera Valliya (*xem bài này*) ở Vesālī.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Uttiya"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -37,6 +37,12 @@ Perhaps he is also identical with Uttiya *Paribbājaka*, who is represented in t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttiya 01. Uttika. Ông là con trai của một người Bà-la-môn ở Sāvatthī. Khi đến tuổi trưởng thành, ông xuất gia tìm kiếm "Bất tử" và trở thành một Paribbājaka. Một ngày, trong lúc du hành, ông đến nơi Đức Phật đang thuyết pháp và gia nhập Tăng đoàn, nhưng do giới đức chưa trong sạch, ông không thể đạt được mục tiêu. Thấy các vị tỳ-kheo khác đã đạt được mục tiêu, ông cầu xin Đức Phật cho một bài học ngắn gọn. Đức Phật cho ông một bài học ngắn, ông dùng để thiền định. Trong khi thiền định, ông lâm bệnh, nhưng vì lo lắng, ông đã nỗ lực hết mình và đắc quả *Arahant* (Thag.v.30; Thag­a.i.89f).
+
+Vào thời Siddhattha Buddha, ông là một con cá sấu sống trong sông Candabhāgā. Một ngày, thấy Đức Phật muốn sang bờ kia, con cá sấu đã chờm lưng cho ngài ngồi và đưa ngài qua sông.
+
+Bảy lần ông là vua của chư thiên, và ba lần là vua của người (Ap.i.79-80). Uttiya này rõ ràng là đồng nhất với vị Trưởng lão cùng tên được đề cập trong Saṁyuttanikāya. Trong một *Sutta* (SN.v.22), Đức Phật giải thích cho ông, khi ông hỏi, về bản chất của năm dục phần và sự cần thiết phải từ bỏ chúng. Ở một nơi khác (SN.v.166), ông được miêu tả là cầu xin Đức Phật một bài học ngắn gọn, và Đức Phật cho ông. Sống trong cô tịch, ông thiền định về điều đó và đắc quả *Arahant*.
+
+Có lẽ ông cũng đồng nhất với Uttiya *Paribbājaka*, người được miêu tả trong Aṅguttaranikāya (AN.v.193ff) là đã hỏi Đức Phật nhiều câu hỏi về thời gian tồn tại của thế giới, v.v., và được Ānanda giúp hiểu ý nghĩa thực sự trong các câu trả lời của Đức Phật.
 
 ## Notes

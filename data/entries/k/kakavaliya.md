@@ -5,7 +5,7 @@ base_headword: "Kākavaliya"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -32,6 +32,6 @@ Kākavaliya, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kākavaliya, Kākavalliya. Một trong năm chủ ngân hàng (*seṭṭhi*) có khối tài sản vô hạn trong vương quốc của Bimbisāra, những người khác là Jotiya, Jaṭila, Meṇḍaka, và Puṇṇaka (Dhp­a.i.385; AN­a.i.220). Ông từng rất nghèo, và Mahā Kassapa, sau khi đã dành bảy ngày trong *samādhi*, đã đứng ở cửa nhà ông, với mong muốn ban cho ông một ân huệ. Vợ của Kākavaliya đã nhìn thấy vị Trưởng lão và đổ vào bát của ông món cháo chua không muối mà bà đã nấu cho chồng. Vị Trưởng lão đã nhận lấy nó và đặt vào tay của Đức Phật, Ngài đã quyết định rằng nó phải đủ cho một hội chúng tỳ-kheo đông đảo. Vào ngày thứ bảy sau đó, Kākavaliya đã được bổ nhiệm làm *seṭṭhi* (Vsm.ii.403). Ông được trích dẫn như một ví dụ về một người đã có thể ban tặng những món quà mang lại quả báo ngay trong kiếp sống này, bởi vì món quà của ông chứa đựng bốn sự thanh tịnh: sự đạt được hợp pháp, sự vĩ đại của ý muốn, đức hạnh ở người nhận và đức hạnh viên mãn ở người cho. Dhs­a.161f; xem thêm AN­a.i.48, 364.
 
 ## Notes

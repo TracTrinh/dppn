@@ -5,7 +5,7 @@ base_headword: "Kiñchandajātaka"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kiñchandajātaka (Ja 511). A chaplain of the king of <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kiñchandajātaka (Ja 511). Một vị giáo sĩ của vua xứ Benares, người đã nhận hối lộ và đưa ra những phán quyết sai trái, bị tái sinh vào một trạng thái đau khổ suốt cả ngày, nhưng nhờ vào việc đã cho một quả xoài cho một người phụ nữ đang giữ ngày bát quan trai, ông tận hưởng vinh quang lớn lao suốt cả đêm trong một vườn xoài xinh đẹp. Nhà vua của ông, người đã trở thành một đạo sĩ, ăn một quả xoài bị sông cuốn trôi từ khu vườn này, và muốn có thêm. Ngài được một nữ thần sông (Uppalavaṇṇā của thời đại này) đưa đến vườn xoài, tại đây ngài nghe được từ vị giáo sĩ thuở xưa của mình câu chuyện về niềm hạnh phúc và sự khốn khổ luân phiên của ông. Đức Phật đã kể câu chuyện này cho một số cư sĩ đệ tử của ngài, những người đang giữ ngày bát quan trai (Ja.v.1ff). Nhà vua được đồng nhất với Bodhisatta.
 
 ## Notes

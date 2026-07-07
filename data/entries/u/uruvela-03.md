@@ -5,7 +5,7 @@ base_headword: "Uruvelā"
 disambiguator: "03"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -26,6 +26,6 @@ Uruvelā 03. A village to which Queen <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uruvelā 03. Một ngôi làng mà vương hậu Sugalā (q.v.) đã chạy trốn đến, mang theo các xá-lợi thiêng liêng, Bát Khất Thực và Xá-lợi Răng (Cv.lxxiv.88). Nó được đồng nhất với Etimole khoảng năm hoặc sáu dặm về phía đông nam của Monarāgala (Cv.Trs.ii.29, n.4). Nó có lẽ được đồng nhất với Uruvelamaṇḍapa.
 
 ## Notes

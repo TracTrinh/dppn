@@ -5,7 +5,7 @@ base_headword: "Subhakiṇṇā"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -29,6 +29,8 @@ They are filled and pervaded with happiness and are serenely blissful; they expe
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subhakiṇṇā, Subhakiṇhā. Một tầng lớp Phạm thiên (*Brahma*) cư trú tại cõi Sắc giới thứ chín; một phân nhánh của Subha Devā (MN.iii.102; DN.ii.69; MN.i.2, v.v. *Comp*.138). Các chúng sinh được sinh ra trong thế giới đó như là kết quả của việc phát triển thiền *jhāna* thứ ba, và tuổi thọ của họ là sáu mươi bốn *kappa* (MN­a.i.553 và SN­a.i.162; nhưng xem AN.ii.127, 129, nơi tuổi thọ của họ được cho là bốn *kappa*).
+
+Họ được lấp đầy và tràn ngập niềm hạnh phúc và cực kỳ an lạc; họ chỉ trải nghiệm niềm hạnh phúc cao tột, không giống như các vị Abhassarā, những người cất tiếng thốt lên trong niềm hân hoan của mình (DN.iii.219). Họ đồng nhất cả về thân thể lẫn năng lực nhận thức (AN.iv.401; cf.iv.40). Họ tỏa ra ánh sáng từ thân thể mình trong một sự rực rỡ đều đặn và không nhấp nháy (AN­a.ii.713; cf. Paṭis-a.80). Khi thế giới bị hủy diệt bởi nước, thế giới của các vị Subhakiṇha tạo thành ranh giới mà nước dâng lên tới đó. Paṭis-a.256.
 
 ## Notes

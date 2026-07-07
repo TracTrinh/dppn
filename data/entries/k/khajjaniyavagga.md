@@ -5,7 +5,7 @@ base_headword: "Khajjanīyavagga"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -26,6 +26,6 @@ Khajjanīyavagga. The eighth chapter of the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khajjanīyavagga. Chương thứ tám thuộc Khandhasaṁyutta của Saṁyuttanikāya. SN.iii.81-105.
 
 ## Notes

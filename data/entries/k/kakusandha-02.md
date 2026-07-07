@@ -5,7 +5,7 @@ base_headword: "Kakusandha"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kakusandha 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kakusandha 02. Trưởng lão Kakusandha. Tác giả của cuốn Dhātuvaṁsa bằng tiếng Sinhalese, có lẽ là một bản dịch từ tiếng Pāli. Ông thường được cho là sống vào thế kỷ thứ mười lăm. PLC.255.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Urusaṅgharakkhita"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -27,6 +27,6 @@ Urusaṅgharakkhita. An Elder who came with forty thousand monks from the <span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Urusaṅgharakkhita. Một vị Trưởng lão (Elder) đến cùng với bốn mươi ngàn tỳ-kheo từ Dakkhiṇāgiri ở Ujjenī, để tham dự buổi lễ đặt nền móng Mahā Thūpa (Mhv.xxix.35).
 
 ## Notes

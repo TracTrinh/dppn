@@ -5,7 +5,7 @@ base_headword: "Yuvañjaya"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -27,6 +27,6 @@ Yuvañjaya. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yuvañjaya. *v.l.* Yudhañjaya. Vị Bồ-tát được sinh ra là con trai của Vua Sabbadatta. Xem Yuvañjayajātaka (Ja 460).
 
 ## Notes

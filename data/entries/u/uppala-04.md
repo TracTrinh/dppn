@@ -5,7 +5,7 @@ base_headword: "Uppala"
 disambiguator: "04"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -25,6 +25,6 @@ Uppala 04. (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uppala 04. (Uppalaka). Một địa ngục (Niraya) (SN.i.152; Sn.p.126). Tuy nhiên, Buddhaghosa nói (Snp-a.ii.476f; xem thêm AN.v.173) rằng đây không phải là một địa ngục đặc thù, mà là tên của một thời kỳ chịu khổ trong địa ngục.
 
 ## Notes

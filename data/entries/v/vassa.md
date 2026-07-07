@@ -5,7 +5,7 @@ base_headword: "Vassa"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -30,6 +30,8 @@ Vassa. Mentioned with <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Được nhắc đến cùng với Bhañña trong từ ghép Vassabhaññā, như là những người cư ngụ ở Ukkala và là những người “phủ nhận nguyên nhân, hậu quả và thực tại”. Có những khía cạnh nhất định trong giáo lý của Đức Phật mà ngay cả họ cũng sẽ chấp nhận (ví dụ, SN.iii.73; AN.ii.31; MN.iii.78).
+
+Buddhaghosa giải thích (AN­a.ii.497; MN­a.ii.894) Vassabhañña là “*Vasso ca Bhañño cā ti dve janā*, (Vassa và Bhañña là hai người).”
 
 ## Notes

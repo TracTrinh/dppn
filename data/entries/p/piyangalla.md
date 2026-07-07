@@ -5,7 +5,7 @@ base_headword: "Piyaṅgalla"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -28,6 +28,6 @@ Piyaṅgalla. A village of Ceylon, in the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piyaṅgalla. Một ngôi làng ở Tích Lan, thuộc quận Koṭṭhivāta. Mahā Vaṁsa kể lại một sự việc về một vị tỳ-kheo của ngôi làng này, người mong muốn được góp phần vào việc xây dựng Mahā Thūpa, bất chấp những mệnh lệnh của Duṭṭhagāmaṇī. Mhv.xxx.29ff.
 
 ## Notes

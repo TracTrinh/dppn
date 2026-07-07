@@ -5,7 +5,7 @@ base_headword: "Pāsādakampanasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -35,6 +35,10 @@ It is also related in the <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāsādakampanasutta. Chú giải Theragāthā (Thag­a.ii.184) nói rằng sự kiện Moggallāna làm rung chuyển Migāramātupāsāda bằng ngón tay cái của mình, theo lệnh của Đức Phật, để đe dọa một số sa-di đam mê câu chuyện thế tục – được thuật lại trong Pāsādākampanasutta.
+
+Sự kiện này được thuật lại trong Moggallānasutta thuộc Saṁyuttanikāya (SN.v.269f).
+
+Nó cũng được kể lại trong Chú giải Suttanipāta (Snp­a.i.336f), như một phần mở đầu cho Utthāṇasutta.
 
 ## Notes

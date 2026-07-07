@@ -5,7 +5,7 @@ base_headword: "Uparuci"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Uparuci. A king of thirty-eight *kappas* ago; a previous birth of <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uparuci. Một vị vua của ba mươi tám kappa trước đây; một tiền kiếp của Trưởng lão Sucintita (Ap.i.134).
 
 ## Notes

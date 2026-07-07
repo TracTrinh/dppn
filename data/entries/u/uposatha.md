@@ -5,7 +5,7 @@ base_headword: "Uposathā"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -29,6 +29,6 @@ Uposathā. A pious lay-devotee of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uposathā. Một nữ tín đồ mộ đạo của Sāketa. Cô đã làm nhiều việc thiện, và được sinh ra ở Tāvatiṁsa, nơi ở của cô được biết đến với tên gọi Uposathavimāna. Người ta nói rằng cô được biết đến ở Sāketa với cái tên Uposathā, là do cuộc sống mà cô đã dẫn dắt. Cô bày tỏ với Moggallāna sự hối hận của mình về việc cô đã mong muốn được sinh ra ở Nandanavana, thay vì lắng nghe lời dạy của Đức Phật và chấm dứt mọi sự tái sinh. Vv.20f; Vv-a.115f.
 
 ## Notes

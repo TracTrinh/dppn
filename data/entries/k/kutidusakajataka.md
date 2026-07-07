@@ -5,7 +5,7 @@ base_headword: "Kuṭidūsakajātaka"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -35,6 +35,12 @@ The monkey of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một con chim *siṅgila*, khi thấy một con khỉ run rẩy trong mưa, đã gợi ý với nó rằng nó nên xây một cái tổ. Con khỉ, vì ghen tị, đã phá hủy tổ của con chim.
+
+Câu chuyện được kể liên quan đến một sa-di tên Uluṅkasaddaka, người đã đốt cháy túp lều của Mahā Kassapa trong một khu rừng gần Rājagaha. Vào thời điểm đó Mahā Kassapa có hai sa-di, một người hữu ích và hay giúp đỡ, còn người kia cư xử tồi tệ. Bất cứ điều gì người đồng đạo của cậu ta làm, cậu ta sau đó sẽ giả vờ rằng chính cậu ta đã làm nó. Một ngày nọ, trong lúc bực tức, vị sa-di tốt bụng đã đun nước cho Trưởng lão tắm rồi giấu nó trong một phòng phía sau, chỉ để lại một chút trong nồi hơi. Khi sa-di kia thấy hơi nước bốc lên, cậu ta liền báo cho Trưởng lão rằng nước tắm của ngài đã sẵn sàng. Khi được hỏi nước ở đâu, cậu ta thả một cái gáo xuống nồi hơi gần như trống rỗng và cái gáo phát ra tiếng kêu lách cách. Khi câu chuyện được biết đến, cậu ta bị gọi với biệt danh Uluṅkasaddaka ("Gáo kêu lách cách").
+
+Bị chỉ trích về lỗi lầm này và một số dịp khác, cậu ta mang mối hận với Trưởng lão, và một ngày nọ, sau khi châm lửa đốt túp lều của Trưởng lão, cậu ta đã bỏ trốn. Sau đó cậu ta sinh ra làm một *Peta* và rồi vào địa ngục Avīci. Sự việc này đã được báo cáo cho Đức Phật bởi các tỳ-kheo đến từ Rājagaha.
+
+Con khỉ trong *Jātaka* được đồng nhất với vị sa-di độc ác. Ja.iii.71ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sīhagiri"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -47,6 +47,12 @@ The rock is now famous for its frescoes, which are very similar to those of Aja�
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhagiri, Sīhapabbata, Sīhācala. Một pháo đài trên đá trong địa hạt Malaya của Tích Lan, nay là Sīgiri, khoảng ba mươi tám dặm về phía đông nam Anurādhapura (Cv.Trs.i.42, n.1). Có lẽ bản thân tảng đá giống hình dáng một con sư tử đang nằm, đặc biệt là phần thân trước của nó.
+
+Khi Kassapa I. giết cha mình, ông đã lánh nạn ở đó, dọn sạch khu đất quanh tảng đá, xây tường bao quanh nó, và xây một cầu thang lên đó theo hình dạng một con sư tử. Kassapa và đoàn tùy tùng của ông sống trong pháo đài cho đến khi ông bị người anh em của mình, Moggallāna, đánh bại, rồi tự sát (Cv.xxxix.2f). Có ghi chép về một số *vihāra* trên Sīhagiri, trong đó có Daḷha và Dāṭhākoṇḍañña, mà Moggallāna I. đã ban cho các tông phái Dhammaruci và Sāgalika. Cv.xxxix.41. Có lẽ pháo đài này ban đầu là một trung tâm của phái Dhammarucika, và Kassapa có thể đã học theo họ ý tưởng sử dụng nó.
+
+Vua Saṅghatissa, con trai ông, và vị quan đại thần của ông, đã bị hành quyết tại Sīhagiri, theo lệnh của Moggallāna III. (Cv.xliv.32f) và sau đó chính Moggallāna cũng bị Silāmeghavaṇṇa giết chết tại đó (Cv.xliv.60).
+
+Tảng đá này nay nổi tiếng với các bức bích họa, rất giống với các bức ở Ajaṇṭā.
 
 ## Notes

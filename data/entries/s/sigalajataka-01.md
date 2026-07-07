@@ -5,7 +5,7 @@ base_headword: "Sigālajātaka"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -29,6 +29,8 @@ The story was told in reference to <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sigālajātaka 01. (Ja 113). Dân chúng Benares từng tổ chức một lễ hiến tế cho các Yakkha, đặt thịt và rượu trong sân nhà họ. Một con chó rừng, chui vào thành phố qua cống rãnh, ăn uống no say rồi đi ngủ trong một bụi cây trong thành. Nó không tỉnh dậy cho đến sáng, và khi đó, tìm đường thoát ra, nó gặp một người Bà-la-môn. Hứa sẽ chỉ cho ông ta một chỗ chôn giấu hai trăm đồng vàng, nó thuyết phục người Bà-la-môn mang nó ra khỏi thành trong vạt áo của ông. Đến nghĩa địa, nó bảo người Bà-la-môn trải tấm y ra và đào dưới một gốc cây. Trong khi người Bà-la-môn đào, con chó rừng làm bẩn tấm y rồi bỏ chạy. Bodhisatta, khi ấy là một thọ thần, khuyên người Bà-la-môn giặt tấm y và thôi làm kẻ ngu ngốc.
+
+Câu chuyện được kể liên quan đến Devadatta, người được đồng nhất với con chó rừng. Ja.i.424-26.
 
 ## Notes

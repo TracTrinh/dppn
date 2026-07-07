@@ -5,7 +5,7 @@ base_headword: "Vepullatāsutta"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vepullatāsutta. Four conditions which, if cultivated, lead to the increase of i
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vepullatāsutta. Bốn điều kiện, nếu được tu tập, sẽ dẫn đến sự gia tăng tuệ minh sát. SN.v.411.
 
 ## Notes

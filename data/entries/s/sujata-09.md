@@ -5,7 +5,7 @@ base_headword: "Sujāta"
 disambiguator: "09"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -32,6 +32,8 @@ It is perhaps this Thera who is mentioned in the <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sujāta 09. Sujāta Thera. Ông là một người Bà-la-môn của Benares, cha của Sundarī Therī. Trong khi đang đau buồn vì cái chết của con trai mình, ông đã gặp Vāsiṭṭhī Therī, và từ bà ông đã nghe về Đức Phật, người mà ông đã đến thăm tại Mithilā. Ông gia nhập Tăng đoàn dưới thời Đức Phật, đạt được quả vị *Arahant* vào ngày thứ ba (Thīg­a.229).
+
+Có lẽ chính vị Thera này được đề cập trong Saṁyuttanikāya (SN.ii.278f) là người đã giành được lời khen ngợi đặc biệt của Đức Phật bởi vì nét mặt rạng rỡ của ông.
 
 ## Notes

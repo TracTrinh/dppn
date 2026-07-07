@@ -5,7 +5,7 @@ base_headword: "Mahā Nijjhara"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -25,6 +25,6 @@ Mahā Nijjhara. A monastery in Ceylon. Once the elephant <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nijjhara. Một tu viện ở Tích Lan. Có lần con voi Kaṇḍula đã chăm sóc các tỳ-kheo ở đó. Ras.ii.29.
 
 ## Notes

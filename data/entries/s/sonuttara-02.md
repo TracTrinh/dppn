@@ -5,7 +5,7 @@ base_headword: "Soṇuttara"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Soṇuttara 02. A Brahmin of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Soṇuttara 02. Một Bà-la-môn xứ Kajaṅgala, cha của Nāgasena Thera. Mil.8.
 
 ## Notes

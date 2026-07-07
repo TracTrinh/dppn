@@ -5,7 +5,7 @@ base_headword: "Upavāṇasutta"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Upavāṇasutta 01. The conversation referred to above, between <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upavāṇasutta 01. Cuộc trò chuyện được nhắc đến ở trên, giữa Upavāṇa và Sāriputta, về *antakara*. AN.ii.163f.
 
 ## Notes

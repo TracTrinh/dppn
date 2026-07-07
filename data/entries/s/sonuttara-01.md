@@ -5,7 +5,7 @@ base_headword: "Soṇuttara"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -41,6 +41,6 @@ Soṇuttara 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Soṇuttara 01. Soṇuttara Thera. Một vị *Arahant*. Ngài sống ở Pūjāpariveṇa trong Mahā Vihāra và được Duṭṭhagāmaṇī giao phó nhiệm vụ tìm kiếm xá-lợi cho Mahā Thūpa. Vào thời Đức Phật, ngài đã từng là Bà-la-môn Nanduttara, và đã cúng dường Đức Phật vào dịp mà tại Payāgatittha, Bhaddaji Thera đã vớt lên từ lòng sông Ganges cung điện mà vị này đã từng ngự trị khi còn là Mahā Panāda. Vô cùng kinh ngạc, Nanduttara đã ước nguyện rằng mình có thể có được thần thông lấy được các xá-lợi thuộc sở hữu của người khác. Soṇuttara đã đến thăm *nāgabhavana* Mañjerika và yêu cầu vị vua Nāga, Mahā Kāḷa, trao cho ngài các xá-lợi mà vua đang giữ ở đó và từng được tôn trí ở Rāmagāma. Nhưng Mahā Kāḷa, không muốn từ bỏ chúng, đã bảo cháu trai của mình là Vāsuladatta mang giấu chúng đi. Soṇuttara biết được điều này, và khi Mahā Kāḷa bảo ngài có thể lấy các xá-lợi nếu có thể tìm thấy chúng, Soṇuttara, bằng thần thông của mình, đã lấy tháp xá-lợi từ Vāsuladatta mà vị này không hề hay biết, và mang nó đến Anurādhapura, nơi các xá-lợi được tôn trí trong Mahā Thūpa. Mhv.xxxi.4-74.
 
 ## Notes

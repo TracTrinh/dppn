@@ -5,7 +5,7 @@ base_headword: "Paṇītatarasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Paṇītatarasutta. The four kinds of birth among the <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇītatarasutta. Bốn loại tái sinh trong loài Nāga và loại ưu việt nhất trong số chúng. SN.iii.240.
 
 ## Notes

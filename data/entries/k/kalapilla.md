@@ -5,7 +5,7 @@ base_headword: "Kāḷapilla"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -27,6 +27,6 @@ Kāḷapilla. A locality in <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷapilla. Một địa phương ở Rohaṇa tại Tích Lan. Ở đó quân đội của Parakkamabāhu I đã đánh bại quân đội của Gajabāhu. Cv.lxx.325.
 
 ## Notes

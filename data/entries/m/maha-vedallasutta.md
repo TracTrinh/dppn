@@ -5,7 +5,7 @@ base_headword: "Mahā Vedallasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -29,6 +29,8 @@ The *Sutta* was probably originally compiled rather as a “lesson” for learne
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Vedallasutta. Một loạt các câu hỏi được đặt ra bởi Mahā Koṭṭhita về các chủ đề tâm lý – ví dụ, sự hiểu biết, ý thức, cảm thọ, tưởng, ý thức thuần túy (*manoviññāṇa*), bị cô lập khỏi năm giác quan của thân thể – con mắt của sự hiểu biết, chánh kiến, các loại tái sinh, sơ thiền, v.v. – và những câu trả lời của Sāriputta đối với chúng (MN.i.292-8).
+
+*Sutta* này có lẽ ban đầu được biên soạn như là một “bài học” dành cho những người học đạo hơn là một cuộc điều tra thực sự của Koṭṭhita. Chính *Sutta* này đã mang lại cho Koṭṭhita thứ hạng ưu việt trong số những người sở hữu *paṭisambhidā* (vô ngại giải). AN­a.i.159.
 
 ## Notes

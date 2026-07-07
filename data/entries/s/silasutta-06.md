@@ -5,7 +5,7 @@ base_headword: "Sīlasutta"
 disambiguator: "06"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -24,6 +24,6 @@ Sīlasutta 06. A man, wanting in morals, loses wealth through neglect; evil rumo
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīlasutta 06. Một người thiếu đạo đức sẽ mất của cải vì sự cẩu thả; tiếng đồn xấu về người ấy lan rộng; người ấy không có sự tự tin trong các buổi hội họp; tâm trí người ấy rối loạn; và sau khi chết, người ấy đi đến một cảnh giới xấu. AN.iii.252.
 
 ## Notes

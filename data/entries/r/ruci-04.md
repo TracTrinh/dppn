@@ -5,7 +5,7 @@ base_headword: "Ruci"
 disambiguator: "04"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Ruci 04. One of the three palaces of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ruci 04. Một trong ba cung điện của Đức Phật Kakusandha trước khi ngài xuất gia. Bv.xxiii.16.
 
 ## Notes

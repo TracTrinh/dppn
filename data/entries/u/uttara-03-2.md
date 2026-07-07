@@ -5,7 +5,7 @@ base_headword: "Uttarā"
 disambiguator: "03"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -28,6 +28,6 @@ Uttarā 03. In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttarā 03. Trong Theragāthā, có hai bài kệ (Thag.vv.1020-1) được cho là của Ānanda, vì đã được ngài nói ra nhằm khuyên nhủ một nữ cư sĩ (upāsikā) tên là Uttarā, người bị lấp đầy bởi ý nghĩ về nhan sắc của chính mình. Tuy nhiên, một số người cho rằng những bài kệ này đã được nói ra để khuyên nhủ những người đã mất trí khi nhìn thấy Ambapālī. Thag­a.ii.129.
 
 ## Notes

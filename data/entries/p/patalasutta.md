@@ -5,7 +5,7 @@ base_headword: "Pātālasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -24,6 +24,6 @@ Pātālasutta. The worldlings speak of a bottomless pit (*pātāla*) in the migh
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pātālasutta. Những phàm phu nói về một hố sâu không đáy (*pātāla*) trong đại dương hùng vĩ. Nhưng *pātāla* thực sự là cảm thọ đau đớn trên thân, dẫn đến sự than khóc, kêu la và sầu khổ. SN.iv.206f.
 
 ## Notes

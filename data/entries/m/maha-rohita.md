@@ -5,7 +5,7 @@ base_headword: "Mahā Rohita"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Rohita. A king of four *kappas* ago; a previous birth of <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Rohita. Một vị vua của bốn *kappa* về trước; một tiền kiếp của Trưởng lão Dverataniya. Ap.i.214.
 
 ## Notes

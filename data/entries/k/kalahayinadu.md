@@ -5,7 +5,7 @@ base_headword: "Kalahayināḍu"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -24,6 +24,6 @@ Kalahayināḍu. A district in South India. Cv.lxxvi.261.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kalahayināḍu. Một quận ở Nam Ấn Độ. Cv.lxxvi.261.
 
 ## Notes

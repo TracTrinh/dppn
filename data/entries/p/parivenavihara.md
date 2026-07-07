@@ -5,7 +5,7 @@ base_headword: "Pariveṇavihāra"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Pariveṇavihāra. A *vihāra* in <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pariveṇavihāra. Một *vihāra* ở Rohaṇa, do Aggabodhi, nhà cai trị của Rohaṇa (Aggabodhi 6) xây dựng. Cv.xlv.45.
 
 ## Notes

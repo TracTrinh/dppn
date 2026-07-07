@@ -5,7 +5,7 @@ base_headword: "Parittikkuṇḍiraṭṭha"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Parittikkuṇḍiraṭṭha. A district in South India. It was given over to <sp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parittikkuṇḍiraṭṭha. Một khu vực ở Nam Ấn Độ. Nó được trao lại cho Coḷagaṅgara như một sự đáp lại cho lòng trung thành của ông đối với Parakkamabāhu I. Cv.lxxvii.9.
 
 ## Notes

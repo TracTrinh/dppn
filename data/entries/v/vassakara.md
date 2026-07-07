@@ -5,7 +5,7 @@ base_headword: "Vassakāra"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -62,6 +62,18 @@ Three conversations between the Buddha and <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một Bà-la-môn, tể tướng của Ajātasattu. Ông và Sunidha phụ trách các công sự của Pāṭaligāma, được xây dựng để chống lại những người Vajjī. Vin.i.228; Ud.viii.6; bản tường thuật của Dīgha, DN.ii.72ff. bỏ sót Sunidha. Bản tường thuật của Vinaya bỏ sót các câu hỏi của Vassakāra đối với Đức Phật; xem AN­a.ii.705ff.
+
+Theo gợi ý của Ajātasattu, Vassakāra đã đến thăm Đức Phật để gián tiếp khám phá xem, theo quan điểm của Đức Phật, liệu có cơ hội nào cho Ajātasattu đánh bại những người Vajjī trong trận chiến hay không. Đức Phật nói rằng chừng nào những người Vajjī còn thực hành bảy điều kiện hưng thịnh mà Ngài đã dạy họ tại Sārandadacetiya, họ sẽ hưng thịnh chứ không suy tàn, và điều này đã mang lại cho Vassakāra ý tưởng rằng sự sụp đổ của những người Vajjī có thể được mang lại bằng biện pháp ngoại giao (*upalāpana*) hoặc sự chia rẽ (*mithubheda*). Sau đó, ông đã âm mưu với nhà vua (DN.A.ii.522ff) và, theo thỏa thuận, nhà vua đã trục xuất ông với cáo buộc thiên vị những người Vajjī trong các cuộc thảo luận tại hội đồng. Vassakāra sau đó đi đến xứ Vajjī, và những người Licchavī, hoàn toàn không chút nghi ngờ, đã chào đón ông và bổ nhiệm ông làm giáo viên cho con cái của họ. Bằng sự xảo quyệt và việc thẩm vấn bọn trẻ một cách bí mật, ông đã khiến chúng cãi vã với nhau, và những cuộc cãi vã này nhanh chóng lan sang những người lớn tuổi. Trong ba năm, những người Licchavī đã hoàn toàn bị chia rẽ, và khi trống hội đồng được đánh lên, họ đã không xuất hiện. Vassakāra sau đó đã gửi một thông điệp cho Ajātasattu, người đã có thể chiếm lấy Vesālī mà không gặp bất kỳ sự kháng cự nào.
+
+Trong Gopaka Moggallānasutta (MN.iii.8ff), Vassakāra được miêu tả là đã đến giữa một cuộc trò chuyện, mà Gopaka Moggallāna đang tổ chức với Ānanda, sau khi được cử đi thanh tra các công trình tại Rājagaha, dưới sự phụ trách của Moggallāna. Sau khi hỏi chủ đề của cuộc trò chuyện, ông hỏi liệu bản thân Đức Phật hay Tăng đoàn đã chọn ra một vị lãnh đạo cho Tăng đoàn sau khi Đức Phật viên tịch hay chưa. Ānanda giải thích rằng Đức Phật đã không làm điều đó, rằng không có vị lãnh đạo đặc biệt nào được bổ nhiệm, nhưng có những tu sĩ mà họ tôn vinh và kính trọng vì đức hạnh và tuệ giác của vị ấy. Vassakāra thừa nhận đây là một điều tốt đẹp, cũng như Upananda, vị *Senāpati*, người có mặt ở đó. Vassakāra hỏi Ānanda ngài sống ở đâu, và được cho biết, là ở Veḷuvana. Vassakāra nghĩ rằng đây là một nơi tốt cho việc thực hành *jhāna*, và kể cho Ānanda nghe về một cuộc trò chuyện mà ông từng có với Đức Phật liên quan đến *jhāna*. Ānanda, nhận xét rằng không phải tất cả các *jhāna* đều đáng khen ngợi như nhau, và Vassakāra cáo từ.
+
+Buddhaghosa nói (MN­a.ii.854) rằng Vassakāra biết rõ về chỗ ở của Ānanda tại Veḷuvana, nhưng vì nơi đó nằm dưới sự bảo vệ đặc biệt của ông, nên ông muốn nghe công trình của mình được ca ngợi. Sau đó là một câu chuyện kỳ lạ. Một lần Vassakāra nhìn thấy Mahā Kaccāna đi xuống từ Gijjhakūṭa và nhận xét rằng ngài trông giống hệt như một con khỉ. Đức Phật, nghe được điều này, đã nói rằng, trừ khi Vassakāra cầu xin sự tha thứ của vị Trưởng lão, ông sẽ tái sinh thành một con khỉ ở Veḷuvana. Vassakāra, cảm thấy chắc chắn rằng lời tiên tri của Đức Phật sẽ trở thành sự thật, đã cho trồng nhiều loại cây ăn quả và các loại cây khác ở Veḷuvana, để hữu ích cho ông khi làm một con khỉ. Sau khi chết, ông thực sự tái sinh thành một con khỉ và phản ứng với cái tên Vassakāra.
+
+Ba cuộc trò chuyện giữa Đức Phật và Vassakāra được ghi lại trong Aṅguttaranikāya, cả ba đều diễn ra tại Veḷuvana. Xem Vassakārasuttas (1) và (2), và Sutasutta ??. Một bài *Sutta* khác, cũng được gọi là Vassakāra (3), lặp lại cuộc trò chuyện được ghi lại trong Dīgha liên quan đến khả năng Ajātasattu đánh bại những người Vajjī.
+
+Vassakāra có một người con gái mà ông muốn gả cho Uttara, nhưng người sau đã từ chối lời cầu hôn vì anh muốn gia nhập Tăng đoàn. Vassakāra đã tức giận, và lên kế hoạch trả thù anh ngay cả sau khi Uttara đã trở thành một tu sĩ (Thag­a.i.240; xem Uttara).
+
+Buddhaghosa nói (Vin-a.ii.295) rằng Vassakāra có bản tính đố kỵ, và khi phát hiện ra rằng một quan chức kiểm lâm nào đó đã cúng dường cho Dhaniya (2) mà không có sự cho phép đặc biệt của nhà vua, ông đã tâu người đàn ông đó với nhà vua và khiến ông ta bị trừng phạt (sự việc này được lặp lại tại Vin.iii.42ff). Trong ngữ cảnh này, chúng ta thấy rằng Vassakāra cũng từng là *Mahā Matta* (có lẽ là tể tướng) cho Bimbisāra.
 
 ## Notes

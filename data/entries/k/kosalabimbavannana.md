@@ -5,7 +5,7 @@ base_headword: "Kosalabimbavaṇṇanā"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -27,6 +27,6 @@ Kosalabimbavaṇṇanā. A book containing an account of an image built by <span
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kosalabimbavaṇṇanā. Một cuốn sách có chứa tường thuật về một bức tượng do Pasenadi, vua xứ Kosala kiến tạo, và về phước báu của việc xây dựng các bức tượng. Tác phẩm này có thể được viết vào khoảng thế kỷ thứ mười ba hoặc mười bốn. Các trích dẫn từ nó được đưa ra trong Saddhammasaṅgaha.
 
 ## Notes

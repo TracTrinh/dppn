@@ -5,7 +5,7 @@ base_headword: "Pāsādabahula"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Pāsādabahula. A Brahmin of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāsādabahula. Một vị Bà-la-môn ở Sāvatthī người vô cùng hoan hỷ với bài thuyết pháp của Đức Phật đến nỗi ông thường xuyên cúng dường thức ăn tại nhà mình cho mười sáu vị tỳ-kheo, luôn luôn gọi họ là “*Arahant*”. Điều này làm mếch lòng cả các vị Arahant và những người không phải Arahant, và họ ngừng đến đó. Khi Đức Phật nghe được việc này, ngài đã quở trách các tỳ-kheo. Dhp­a.iv.138f.
 
 ## Notes

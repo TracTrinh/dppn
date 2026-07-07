@@ -5,7 +5,7 @@ base_headword: "Sudassana"
 disambiguator: "26"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sudassana 26. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudassana 26. Sudassana Thera. (Ap.164f). Rõ ràng là một tên khác của Ugga Thera. Thag­a.i.174f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Veroca"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -31,6 +31,6 @@ Veroca. An <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Veroca. Một thủ lĩnh Asura. Tất cả một trăm người con trai của Bali đều được đặt theo tên của ngài (DN.ii.259). Buddhaghosa nói (DN­a.ii.689) rằng Veroca là một tên khác của Rāhu, và rằng ngài là chú của các con trai của Bali. Ngài có lẽ được đồng nhất với Verocana, chúa tể của các Asura, người mà theo Saṁyuttanikāya (SN.i.225f), đã cùng với Sakka đến viếng thăm Đức Phật trong lúc ngài đang nghỉ trưa. Họ đứng đợi Đức Phật, tựa vào một cột cửa, và mỗi người thốt lên hai bài kệ về sự cần thiết của việc nỗ lực cho đến khi đạt được mục tiêu của mình.
 
 ## Notes

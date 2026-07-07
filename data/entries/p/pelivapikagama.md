@@ -5,7 +5,7 @@ base_headword: "Peḷivāpikagāma"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -27,6 +27,6 @@ Peḷivāpikagāma. A village seven leagues to the north of <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Peḷivāpikagāma. Một ngôi làng nằm cách Anurādhapura bảy do-tuần về phía bắc. Khi Duṭṭhagāmaṇī đang tìm kiếm vật liệu để xây dựng Mahā Thūpa, bốn viên đá quý đã được một người thợ săn tìm thấy gần bồn chứa nước của ngôi làng này. Mhv.xxviii.39; Mhv.Trs.190, n.1.
 
 ## Notes

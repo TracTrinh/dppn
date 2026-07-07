@@ -5,7 +5,7 @@ base_headword: "Yasavatī"
 disambiguator: "01"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -27,6 +27,6 @@ Yasavatī 01. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yasavatī 01. Vợ của Supatita (Suppatīta), và mẹ của Vessabhū Buddha. Bv.xxii.18; Ja.i.42; DN.ii.7.
 
 ## Notes

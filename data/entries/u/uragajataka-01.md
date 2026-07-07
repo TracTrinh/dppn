@@ -5,7 +5,7 @@ base_headword: "Uragajātaka"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -31,6 +31,8 @@ The story was related in reference to two soldiers who were in the habit of quar
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uragajātaka 01. (Ja 154). Vua Brahmadatta xứ Benares từng tổ chức một lễ hội, có sự tham gia của cư dân từ nhiều thế giới. Một Nāga trong đám đông, không chú ý rằng người bên cạnh mình là một Garuḍa, đã đặt tay lên vai người đó; phát hiện ra sai lầm của mình, vị này sợ chết khiếp và bỏ chạy, bị Garuḍa đuổi theo. Nāga, khi đến một con sông, nơi có một đạo sĩ, chính là Bodhisatta, đang tắm, đã chạy vào trốn trong chiếc y bằng vỏ cây của đạo sĩ. Garuḍa, mặc dù có thể nhìn thấy Nāga, đã không tấn công vị này vì tôn trọng vị đạo sĩ. Đạo sĩ đã đưa cả hai về am thất của mình và khiến họ trở nên thân thiện với nhau bằng cách giảng dạy về những lợi ích của lòng từ bi.
+
+Câu chuyện này được kể lại liên quan đến hai người lính có thói quen cãi vã nhau mỗi khi gặp mặt. Ngay cả nhà vua cũng không thể hòa giải họ. Đức Phật đã đến thăm họ tại nhà riêng và, sau khi khiến cả hai đều trở thành những Sotāpanna, ngài đưa họ đến gặp nhau. Kể từ đó họ trở thành những người bạn tốt, và mọi người đã kinh ngạc trước uy lực của Đức Phật (Ja.ii.12-14). Nakulajātaka cũng được thuyết giảng trong mối liên hệ này.
 
 ## Notes

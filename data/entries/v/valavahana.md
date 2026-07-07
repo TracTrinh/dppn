@@ -5,7 +5,7 @@ base_headword: "Vālavāhana"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vālavāhana. A horse belonging to King <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vālavāhana. Một con ngựa thuộc về vua Kappina. Dhp­a.ii.117.
 
 ## Notes

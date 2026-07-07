@@ -5,7 +5,7 @@ base_headword: "Mahā Nettādipādika"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Nettādipādika. A series of cells built for the <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nettādipādika. Một dãy các tịnh thất được xây dựng cho các tỳ-kheo Dhammaruci bởi Aggabodhi IV. Cv.xlviii.2.
 
 ## Notes

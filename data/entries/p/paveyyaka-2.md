@@ -5,7 +5,7 @@ base_headword: "Pāveyyakā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -38,6 +38,8 @@ It is explained (e.g., Mhv­ṭ.166) that the Pāveyyakā were called “*Pacchi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāveyyakā, Pāṭheyyakā. Tên gọi dành cho những cư dân của Pāvā – ví dụ, *Pāveyyakā* Mallā (ví dụ, DN.ii.165). Pāvā hiển nhiên là một trung tâm hoạt động của Phật giáo ngay cả khi Đức Phật còn tại thế, và có ghi chép về các tỳ-kheo Pāveyyaka trong Vinaya (ví dụ, Vin.i.253). Trong thời kỳ xảy ra dị giáo Vajjiputta, chính những người Pāveyyakā đã bảo vệ giáo pháp chân chính, những nhà lãnh đạo của họ là Revata, Sambhūta Sāṇavāsī, Yasa Kākaṇḍakaputta và Sumana (Vin.ii.301ff.; Mhv.iv.17ff). Trong mối liên hệ này, những người Pāveyyakā còn được mô tả là “*Pacchimikā*” để đối lập với những người Vajjiputtakas, được gọi là “*Pācīnakā*”.
+
+Người ta giải thích (ví dụ, Mhv­ṭ.166) rằng những người Pāveyyakā được gọi là “*Pacchimikā*” bởi vì họ sống ở phía Tây. Phía Tây của Kosala, theo lời của Buddhaghosa, ở Mahā Vagga (vii.1.). Các bản thảo Miến Điện dường như đánh vần Pāveyyakā là Pāṭheyyakā.
 
 ## Notes

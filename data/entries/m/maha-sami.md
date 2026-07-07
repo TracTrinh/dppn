@@ -5,7 +5,7 @@ base_headword: "Mahā Sāmi"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -24,6 +24,6 @@ Mahā Sāmi 06. The title of the head of the Saṅgha in Sri Lanka in the middle
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sāmi 06. Danh hiệu của người đứng đầu Tăng đoàn ở Sri Lanka vào thời trung cổ.
 
 ## Notes

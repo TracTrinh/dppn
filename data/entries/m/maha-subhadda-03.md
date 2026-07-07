@@ -5,7 +5,7 @@ base_headword: "Mahā Subhaddā"
 disambiguator: "03"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -26,6 +26,6 @@ Mahā Subhaddā 03. Chief queen of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Subhaddā 03. Hoàng hậu chính của Mahā Sudassana (*q.v.*). A ii.189; SN.iii.145; Ja.i.392, gọi bà là Subhaddā.
 
 ## Notes

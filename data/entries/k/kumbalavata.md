@@ -5,7 +5,7 @@ base_headword: "Kumbalavāta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kumbalavāta. A locality near <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một địa phương gần Anurādhapura; ranh giới của Mahā Vihāra đi qua đó (Mhv. p.332; Mbv.134; Dpv.xiv.38).
 
 ## Notes

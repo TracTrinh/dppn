@@ -5,7 +5,7 @@ base_headword: "Paṇḍuvāsudeva"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -32,6 +32,10 @@ He married <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇḍuvāsudeva. Vua của Tích Lan (444-414 T.CN.).
+
+Ngài là con trai út của Sumitta, anh em trai của Vijaya. Ngài đến Tích Lan theo yêu cầu của Vijaya, và sau khi kế vị ông lên ngai vàng, ngài trị vì tại Upatissagāma.
+
+Ngài kết hôn với Bhaddakaccānā, bà sinh cho ngài mười người con trai và một người con gái. Ngài trị vì trong ba mươi năm. Mhv.viii.10ff.; ix.1ff., 28; x.29; Dpv.iv.41; x. 2, 7, 8; xi.8ff.
 
 ## Notes

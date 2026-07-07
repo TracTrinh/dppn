@@ -5,7 +5,7 @@ base_headword: "Sīvalī"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -63,6 +63,20 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="20" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīvalī 02. Sīvalī Thera. Ngài là con trai của Suppavāsā, con gái của vua xứ Koḷiya. Trong bảy năm bảy ngày ngài nằm trong bụng mẹ, và trong bảy ngày bà chuyển dạ mà không thể sinh được đứa trẻ. Bà nói với chồng mình: "Trước khi thiếp chết, thiếp sẽ làm một việc cúng dường," và nhờ ông mang một phẩm vật dâng đến Đức Phật. Đức Phật nhận phẩm vật ấy và ban lời chúc phúc cho bà. Bà lập tức sinh hạ một con trai. Khi chồng bà trở về, bà nhờ ông tiếp đãi Đức Phật và chư tăng trong bảy ngày.
+
+Từ khi mới sinh ra, Sīvalī đã có thể làm được mọi việc. Sāriputta đã trò chuyện với ngài vào ngày ngài chào đời và đã cho ngài xuất gia với sự cho phép của Suppavāsā. Sīvalī trở thành một *Sotāpanna* tại nhà cạo tóc khi lọn tóc đầu tiên của ngài được cắt, và trở thành một *Sakadāgāmī* khi lọn tóc thứ hai được cắt. Có người nói rằng sau khi xuất gia, ngài đã rời nhà ngay trong ngày hôm đó và sống trong một túp lều hẻo lánh, quán chiếu về sự chậm trễ trong việc sinh ra của mình, và nhờ đó, phát triển tuệ quán, chứng đắc quả vị *Arahant*.
+
+Vào thời Padumuttara Buddha, ngài đã phát nguyện trở thành người đứng đầu trong số những người nhận phẩm vật cúng dường, giống như Sudassana, đệ tử của Padumuttara. Để đạt được điều này, ngài đã cúng dường vật thực trong bảy ngày cho Đức Phật và chư tăng.
+
+Vào thời Vipassī Buddha, ngài là một gia chủ ở gần Bandhumatī. Dân chúng cúng dường vật thực cho Đức Phật và Saṅgha để thi đua với nhà vua, và khi họ cần mật ong, sữa đông và đường, Sīvalī đã cung cấp đủ những thứ này cho sáu mươi tám ngàn vị tăng.
+
+Vào thời Atthadassī Buddha, ngài là một vị vua, tên là Varuṇa, và khi Đức Phật nhập diệt, ngài đã dâng cúng lớn lên cây Bodhi, và sau đó qua đời dưới gốc cây ấy. Rồi ngài được sinh vào cõi Nimmānaratī.
+
+Ba mươi bốn lần ngài là vua của loài người, dưới tên Subāhu (Thag.vs.60; Thag­a.i.135). Theo tường thuật của Apadāna, cha ngài trong kiếp sống cuối cùng là Licchavī Mahāli (Ap.ii.492f).
+
+Asātarūpajātaka (Ja 100) đưa ra lý do cho sự chậm trễ trong việc sinh ra của Sīvalī. Cf.Ap.ii.494, vs.29f. Câu chuyện về Sīvalī cũng được kể tại Ud.ii.8; AN­a.i.130f.; Dhp­a.iv.192f.; ii.196; Ja.i.408f. Udāna rất giống với Dhammapada Commentary (iv.192f.). Cả Udāna lẫn Jātaka đều nói rằng một cư sĩ hộ độ của Moggallāna đã hoãn lại việc thết đãi Đức Phật (điều mà Ngài đã yêu cầu vị ấy làm) để Đức Phật có thể nhận lời mời của Suppavāsā sau khi đứa trẻ ra đời. Các tường thuật khác bỏ qua chi tiết này. Udāna không nói gì về việc Sīvalī từ bỏ thế tục. Tường thuật của Dhammapada Commentary về việc này khác với các tường thuật khác.
+
+Sīvalī được Đức Phật (AN.i.24) tuyên bố là người đứng đầu trong số những người nhận phẩm vật cúng dường. Có nói rằng (Thag­a.i.138; Ap.ii.495; AN­a.i.139) khi Đức Phật đến thăm Khadiravaniya Revata, Ngài đã đem theo Sīvalī vì đường đi khó khăn và lương thực khan hiếm. Sīvalī đã đến Himālaya cùng năm trăm người khác, để thử vận may của mình. Chư thiên đã cung cấp cho họ mọi thứ. Tại Gandhamādana, một vị thiên nhân tên là Nāgadatta đã thết đãi họ cơm sữa trong bảy ngày.
 
 ## Notes

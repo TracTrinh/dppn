@@ -5,7 +5,7 @@ base_headword: "Pañcasīlasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Pañcasīlasutta. The five things, being possessed of which makes women to be bo
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcasīlasutta. Năm điều mà khi mắc phải sẽ khiến phụ nữ tái sinh vào địa ngục: sát sinh, trộm cắp, tà dâm, nói dối, và sử dụng các chất say. Những điều này cần phải được phòng hộ. SN.iv.245.
 
 ## Notes

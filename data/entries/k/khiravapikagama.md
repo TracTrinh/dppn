@@ -5,7 +5,7 @@ base_headword: "Khīravāpikagāma"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -25,6 +25,6 @@ Khīravāpikagāma. A village in Ceylon, near the district of <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khīravāpikagāma. Một ngôi làng ở Tích Lan, gần quận Ambavana (Cv.lxvi.85).
 
 ## Notes

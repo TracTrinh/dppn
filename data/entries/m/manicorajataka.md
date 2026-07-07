@@ -5,7 +5,7 @@ base_headword: "Maṇicorajātaka"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -32,6 +32,8 @@ The story was related in reference to <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇicorajātaka (Ja 194). Bodhisatta có một lần là một cư sĩ trong một ngôi làng gần Benares và có một người vợ rất xinh đẹp tên là Sujātā. Một ngày kia, theo yêu cầu của bà, họ làm bánh ngọt, đặt vào một chiếc xe và lên đường đến Benares thăm cha mẹ bà. Trên đường đi, Sujātā bị vua Benares nhìn thấy, và muốn chiếm đoạt bà, ông ta cho giấu viên ngọc trên vương miện của mình vào xe của Bodhisatta. Tiếng kêu "kẻ trộm" bèn nổi lên, và Bodhisatta bị bắt giải đi hành quyết. Nhưng ngai của Sakka nóng bừng vì tiếng than khóc của Sujātā, và xuống trần, Sakka đã làm cho nhà vua và Bodhisatta đổi chỗ cho nhau. Nhà vua bị chặt đầu, và Sakka, lộ diện, đặt Bodhisatta lên ngai vàng.
+
+Câu chuyện được kể liên quan đến những mưu toan của Devadatta nhằm giết Đức Phật. Nhà vua được đồng nhất với Devadatta, Sakka với Anuruddha, và Rāhulamātā với Sujātā (Ja.ii.121-5). Câu chuyện là ví dụ về việc một người đàn ông đạt được hạnh phúc nhờ một người phụ nữ có giới hạnh. (Ja.iv.77.)
 
 ## Notes

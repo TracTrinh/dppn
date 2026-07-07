@@ -5,7 +5,7 @@ base_headword: "Mañcakkuṇḍi"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Mañcakkuṇḍi. A locality in South India mentioned in the account of the camp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mañcakkuṇḍi. Một địa danh ở miền Nam Ấn Độ được đề cập trong các ghi chép về các chiến dịch của Parakkamabāhu I. Cv.lxxvii.87.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vasiṭṭhaka"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vasiṭṭhaka. The father of the Bodhisatta in the <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cha của Bodhisatta trong Takkaḷajātaka (Ja 446). Ja.iv. 44ff.
 
 ## Notes

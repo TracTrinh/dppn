@@ -5,7 +5,7 @@ base_headword: "Kittaggabodhi"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -33,6 +33,6 @@ Kittaggabodhi 02. *Ādipāda* and son of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kittaggabodhi 02. Một *Ādipāda* và là con trai của Mahinda, *Uparāja* của Sena II và Kitti. Ông đã nổi dậy chống lại Udaya II và chạy trốn đến Rohaṇa, người cai trị ở đó đã bị ông giết. Ông bị Vương tử Mahinda, con trai của Kassapa, *yuvarāja* của Udaya II, bắt làm tù binh với sự giúp đỡ của tướng Vajiragga, ở Malaya, và có lẽ bị người sau giết ở Guttasāla. Cv.li.94ff.
 
 ## Notes

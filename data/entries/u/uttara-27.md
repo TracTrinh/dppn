@@ -5,7 +5,7 @@ base_headword: "Uttara"
 disambiguator: "27"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Uttara 27. A minister of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttara 27. Một vị quan đại thần của Sena I. Ông đã xây dựng trong Abhayuttaravihāra một ngôi nhà ở tên là Uttarasena. Cv.l.83.
 
 ## Notes

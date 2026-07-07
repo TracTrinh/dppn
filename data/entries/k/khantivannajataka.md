@@ -5,7 +5,7 @@ base_headword: "Khantivaṇṇajātaka"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -29,6 +29,8 @@ The story was related to the king of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khantivaṇṇajātaka (Ja 225). Một vị quan trong triều đình của Brahmadatta, vua xứ Benares, đã bắt đầu một cuộc ngoại tình trong hậu cung của nhà vua, và một người hầu của vị quan này cũng làm điều tương tự trong nhà của chủ mình. Khi vị quan đưa người hầu đến gặp nhà vua, nhà vua đã khuyên vị chủ nhân nên kiên nhẫn, vì những người hầu tốt là rất hiếm, và nhà vua nói rằng, ông biết một vị quan cũng đã hành động y hệt như vậy, nhưng vị vua của anh ta không muốn để mất anh ta.
+
+Câu chuyện này được kể cho vua nước Kosala, người đã bị cắm sừng bởi một trong những vị quan trẻ tuổi và hăng hái của mình. Ja.ii.206f.
 
 ## Notes

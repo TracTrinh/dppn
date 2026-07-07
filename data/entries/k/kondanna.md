@@ -5,7 +5,7 @@ base_headword: "Koṇḍañña"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -53,6 +53,6 @@ Koṇḍañña 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koṇḍañña 01. Koṇḍañña Buddha. Vị Phật thứ hai trong hai mươi bốn vị Phật. Sau mười sáu *asaṅkheyya* và một trăm ngàn *kappa* thực hành *pāramī*, ngài đản sanh ở Rammavatī, cha ngài là Vua Sunanda và mẹ ngài là Sujātā. Ngài thuộc Koṇḍaññagotta và thân ngài cao hai mươi tám cubit. Trong mười ngàn năm, ngài sống như một người cư sĩ trong ba cung điện – Ruci, Suruci và Subha (Rāma, Surāmā và Subha, theo Bv­a); người vợ chính của ngài là Rucidevī và con trai ngài là Vījitasena. Ngài rời khỏi nhà trên một cỗ xe, thực hành khổ hạnh trong mười tháng và được Yasodharā, con gái của một thương nhân ở Sunanda, dâng cúng một bữa ăn cơm sữa, và được đạo sĩ Ājīvaka Sunanda dâng cỏ làm chỗ ngồi. Cây *bodhi* của ngài là một cây Sālakaḷyāni, và bài pháp đầu tiên của ngài được thuyết giảng cho mười crore tỳ-kheo trong Devavana gần Amaravatī. Ngài đã tổ chức ba hội chúng các đệ tử, lần thứ nhất do Subhadda dẫn đầu, lần thứ hai do Vijitasena và lần thứ ba do Udena, tất cả họ đều đã trở thành những vị Arahant. Ngài viên tịch ở tuổi một trăm ngàn tại Candārāmā, và bảo tháp dựng lên trên xá-lợi của ngài cao bảy do-tuần. Các đệ tử chính của ngài là Bhadda và Subhadda trong số các tỳ-kheo, và Tissā và Upatissā trong số các tỳ-kheo-ni, người thị giả thường xuyên của ngài là Anuruddha. Các hộ độ chính của ngài là Soṇa và Upasoṇa trong số các nam cư sĩ và Nandā và Sirimā trong số các nữ cư sĩ. Bodhisatta khi đó là một vị vua, Vijitāvī của Candavatī. Ngài từ bỏ vương quốc của mình, gia nhập Tăng đoàn và sau đó được tái sanh trong cõi Brahma. Bv.iii.; Bv­a.107ff; Ja.i.30.
 
 ## Notes

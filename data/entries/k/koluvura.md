@@ -5,7 +5,7 @@ base_headword: "Koḷuvura"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -24,6 +24,6 @@ Koḷuvura. A village in South India. Cv.lxxvi.129.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koḷuvura. Một ngôi làng ở miền Nam Ấn Độ. Cv.lxxvi.129.
 
 ## Notes

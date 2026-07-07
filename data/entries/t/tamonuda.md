@@ -5,7 +5,7 @@ base_headword: "Tamonuda"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Tamonuda. A king of ninety-one *kappas* ago, a previous birth of <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tamonuda. Một vị vua cách đây chín mươi mốt kappa, một kiếp quá khứ của Punnāgapupphiya. Ap.i.180; Thag­a.i.213.
 
 ## Notes

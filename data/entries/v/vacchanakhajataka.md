@@ -5,7 +5,7 @@ base_headword: "Vacchanakhajātaka"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -32,6 +32,8 @@ The story was told in reference to an attempt of <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vacchanakhajātaka (Ja 235). Bodhisatta đã có lần được sinh làm Vacchanakha, một ẩn sĩ sống ở Himālaya, và một lần, khi đến Benares để tìm muối và gia vị, ông ở lại trong vườn của vua. Một người giàu có nhìn thấy ông, và vì hài lòng với diện mạo của ông, đã chăm sóc các nhu cầu của ông. Tình bạn nhanh chóng hình thành giữa họ, và người giàu có mời vị ẩn sĩ từ bỏ tu phục và chia sẻ tài sản của mình. Nhưng vị ẩn sĩ từ chối lời đề nghị này, chỉ ra những bất lợi của đời sống gia đình.
+
+Câu chuyện được kể liên quan đến một nỗ lực của Roja, người Malla, bạn của Ānanda, nhằm cám dỗ Ānanda trở lại với cuộc sống thế tục bằng cách đề nghị tặng nửa tài sản của mình. Roja được đồng nhất với người giàu có trong câu chuyện. Ja.ii.231ff.
 
 ## Notes

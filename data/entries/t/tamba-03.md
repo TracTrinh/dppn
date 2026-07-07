@@ -5,7 +5,7 @@ base_headword: "Tamba"
 disambiguator: "03"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tamba 03. An officer of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tamba 03. Một vị quan của Parakkamabāhu I. Ông là người đứng đầu lực lượng Kesadhātu. Cv.lxx.66.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Maṇikuṇḍalajātaka"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -30,6 +30,8 @@ The story was related in reference to a councillor of <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇikuṇḍalajātaka (Ja 351). Bodhisatta, sinh làm vua Benares, phát hiện một quan đại thần của mình đã âm mưu trong hậu cung, bèn đuổi ông ta khỏi vương quốc. Vị quan đó đi phụng sự vua Kosala, và do âm mưu của ông ta, Bodhisatta bị bắt và tống vào ngục (Ja.iii.153ff). Phần còn lại của câu chuyện xem Ekarājajātaka.
+
+Câu chuyện được kể liên quan đến một cố vấn của Pasenadi phạm tội sai trái trong hậu cung.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Koṭamalaya"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -28,6 +28,6 @@ Koṭamalaya (? more probably <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koṭamalaya (? có lẽ đúng hơn là Koṭṭhamalaya) *v.l.* Koṭṭamalaya, Koḷambamalaya. Một vùng đồi núi ở Nam Tích Lan, nơi Duṭṭhagāmaṇī đã trốn tránh cơn thịnh nộ của cha mình, và nơi ông sống trong khi chuẩn bị cho chiến dịch của mình (Mhv.xxiv.7; xxxii.29; Mhv­ṭ.332, 430).
 
 ## Notes

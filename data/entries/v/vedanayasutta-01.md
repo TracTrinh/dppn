@@ -5,7 +5,7 @@ base_headword: "Vedanāyasutta"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vedanāyasutta 01. Feelings arising from eye-contact are impermanent, likewise f
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vedanāyasutta 01. Các thọ khởi sinh từ nhãn xúc là vô thường, tương tự như vậy đối với nhĩ xúc, v.v. SN.iii.226.
 
 ## Notes

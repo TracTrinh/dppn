@@ -5,7 +5,7 @@ base_headword: "Lokāyatikasutta"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -25,6 +25,6 @@ Lokāyatikasutta. A Brahmin, well versed in <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lokāyatikasutta. Một Bà-la-môn, am hiểu về Lokāyata (*q.v.*), hỏi Đức Phật một chuỗi các câu hỏi liên quan đến thế giới và sự tồn tại. Đức Phật bỏ qua chúng và dạy cho ông về *paṭiccasamuppāda*, điều mà ông đã chấp nhận. SN.ii.77f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Lambaka"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -24,6 +24,6 @@ Lambaka. A rock near <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lambaka. Một tảng đá gần Himavā. Thag­a.i.97; Ap.i.15, 280; ii.454.
 
 ## Notes

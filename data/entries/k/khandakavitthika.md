@@ -5,7 +5,7 @@ base_headword: "Khaṇḍakaviṭṭhika"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -25,6 +25,6 @@ Khaṇḍakaviṭṭhika. A village in Ceylon. The birthplace of <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khaṇḍakaviṭṭhika. Một ngôi làng ở Tích Lan. Nơi sinh của Sūranimila (Mhv.xxiii.19).
 
 ## Notes

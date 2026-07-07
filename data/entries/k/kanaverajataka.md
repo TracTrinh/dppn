@@ -5,7 +5,7 @@ base_headword: "Kaṇaverajātaka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -31,6 +31,8 @@ The occasion for the telling of this story is given in the <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇaverajātaka (Ja 318). Có lần Bodhisatta được sinh ra làm một tên cướp trong một ngôi làng ở Kāsi và trở nên khét tiếng vì thói lục lâm của mình. Khi dân chúng phàn nàn về anh ta với nhà vua, nhà vua đã sai tỉnh trưởng bắt giữ anh ta và kết án tử hình. Trong khi bị dẫn đi hành quyết với một vòng hoa *kaṇavera* đỏ trên đầu, anh ta đã được nhìn thấy bởi Sāmā, đệ nhất kỹ nữ của thành phố, và cô ngay lập tức phải lòng anh ta vì vẻ ngoài bảnh bao và nổi bật của anh. Sāmā, sai người nhắn với viên tỉnh trưởng rằng tên cướp là anh trai của mình, đã thuyết phục ông ta, bằng một khoản hối lộ một nghìn đồng tiền, thả anh ta ra và gửi anh ta đến cho cô trong chốc lát. Sau đó, bằng cách sử dụng mọi thủ đoạn của mình, cô đã thế chỗ cho tên cướp bằng một thanh niên say đắm cô và tình cờ đến thăm cô vào ngày hôm đó. Chàng thanh niên này đã bị giết thay cho tên cướp, người đã được mang đến cho Sāmā, và cô đã dành cho anh ta mọi sự ân ái của mình. Lo sợ rằng khi Sāmā chán mình, cô có thể phản bội mình, một ngày nọ tên cướp đã đi cùng cô vào công viên và, giả vờ ôm cô, đã siết chặt cô cho đến khi cô ngất xỉu, rồi lấy đi tất cả đồ trang sức của cô, trốn thoát thành công. Sāmā, hoàn toàn không nghi ngờ gì, lại tưởng tượng rằng anh ta đã bỏ chạy vì sợ đã giết cô bằng những cái ôm quá mạnh bạo của mình, và cô đã dùng mọi sự khéo léo của mình để tìm kiếm anh ta, chẳng hạn như hối lộ một số người hát rong để hát, ở bất cứ nơi nào họ đi qua, một bài thơ tuyên bố rằng cô vẫn còn sống và không yêu ai ngoài anh, người tình của cô. Một ngày nọ, tên cướp nghe thấy những bài thơ và biết được từ những người hát rong rằng Sāmā vẫn khao khát anh, nhưng anh ta từ chối quay lại, nhắn cho cô rằng anh ta nghi ngờ sự chung thủy của cô. Trong sự tuyệt vọng, Sāmā quay trở lại phương tiện kiếm sống trước đây của mình. Ja.iii.58-63.
+
+Hoàn cảnh kể lại câu chuyện này được đưa ra trong Indriyajātaka (Ja 423). Câu chuyện được nhắc đến trong Sulasājātaka (Ja 419, Ja.iii.436) và trong phần chú giải của Kuṇālajātaka (Ja 536, Ja.v.446).
 
 ## Notes

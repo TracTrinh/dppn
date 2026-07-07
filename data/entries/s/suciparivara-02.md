@@ -5,7 +5,7 @@ base_headword: "Suciparivāra"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Suciparivāra 02. A very rich merchant of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suciparivāra 02. Một thương nhân rất giàu có của Benares. Xem Gaṅgamālajātaka (Ja 421). Ja.iii.444f.
 
 ## Notes

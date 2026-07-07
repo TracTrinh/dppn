@@ -5,7 +5,7 @@ base_headword: "Lājā"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -29,6 +29,6 @@ Lājā. A goddess (*devadhītā*). She was once the watcher of a field of paddy 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lājā. Một thiên nữ (*devadhītā*). Bà từng là người canh giữ một cánh đồng lúa tẻ tại Rājagaha, và khi Mahā Kassapa, vì lòng bi mẫn, đến gần, bà lấy một ít cơm rang rồi với tâm thành kính đổ vào bát của ngài. Ngay sau đó bà bị rắn cắn và sau khi mất đã tái sinh ở Tāvatiṁsa. Nhận ra rằng chính nhờ Kassapa mà bà có được phúc báo đó, bà quyết định hầu hạ ngài, quét phòng của ngài, v.v. Ngay khi Kassapa phát hiện điều này, ngài cấm bà không được đến gần ngài nữa. Lājā rất đau khổ, và Đức Phật, thấy sự thất vọng của bà, đã phóng một tia sáng để an ủi bà. Dhp­a.iii.6ff.
 
 ## Notes

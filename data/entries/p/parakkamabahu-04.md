@@ -5,7 +5,7 @@ base_headword: "Parakkamabāhu"
 disambiguator: "04"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -29,6 +29,6 @@ Parakkamabāhu 04. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parakkamabāhu 04. Parakkamabāhu III. Con trai của Vijayabāhu IV và là cháu trai của Parakkamabāhu II. Ông trở thành vua vào khoảng năm 1302 CN, nhưng thời gian trị vì của ông không được rõ: Ông đã đến thăm vị vua Pāṇḍyan và thu hồi lại Xá-lợi Răng và Bát đã bị Ariyacakkavatti mang đi. Chúng đã được khôi phục tại Pulatthipura (Cv.xc.48ff). Có thể phỏng đoán rằng Parakkama đã bảo vệ được các thánh tích với cái giá là trở thành chư hầu cho triều đình Pāṇḍyan.
 
 ## Notes

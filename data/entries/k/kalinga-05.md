@@ -5,7 +5,7 @@ base_headword: "Kāliṅga"
 disambiguator: "05"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -27,6 +27,6 @@ Kāliṅga 05. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāliṅga 05. Một thủ lĩnh người Damiḷa, đồng minh của Kulasekhara (Cv.lxxvi.174, 214, 217, 222). Ông là anh trai của vợ của Toṇḍamāna. Cv.lxxvii.40.
 
 ## Notes

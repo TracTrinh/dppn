@@ -5,7 +5,7 @@ base_headword: "Kapila"
 disambiguator: "04"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -35,6 +35,8 @@ Later he was born in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kapila 04. Một tỳ-kheo. Ông là em trai của Sodhana, mẹ của ông là Sādhinī và em gái của ông là Tāpanā. Cả gia đình đã gia nhập Tăng đoàn của Kassapa Buddha; Sodhana học thiền định và trở thành một *Arahant*. Kapila đã học xong ba *Piṭakas* và, say sưa với sự học vấn của mình, đã bất đồng quan điểm với mọi người, bất kể đúng hay sai. Ông không chú ý đến bất kỳ lời khuyên bảo nào, và theo đuổi một lối sống ác hạnh, trong đó ông được theo gót bởi mẹ và em gái mình. Một ngày nọ, khi Kapila đang tụng đọc *Pātimokkha*, không một tỳ-kheo nào khác đáp lời, và trong sự tức giận ông tuyên bố rằng không có Pháp cũng như Luật (Vinaya). Do đó, ông đã đặt những chướng ngại vật trên con đường tôn giáo, và đã tái sinh vào Avīci.
+
+Về sau ông tái sinh ở Aciravatī làm một con cá, Kapilamaccha. Một số ngư dân, sau khi bắt được nó, đã đưa nó đến vua nước Kosala. Do con cá có màu vàng óng, nhà vua đã đưa nó đến gặp Đức Phật, khao khát một lời giải thích về màu sắc của nó. Khi con cá mở miệng ra, toàn bộ Jetavana bốc mùi hôi thối. Đức Phật đã tra vấn con cá và khiến nó phải thú nhận tội lỗi của mình. Bị giáng một đòn ân hận, con cá đã chết và một lần nữa tái sinh vào địa ngục. Dhp­a.iv.37ff; Snp-a.ii.305f; SN­a.ii.152; xem thêm Ud­a.179f; Thag­a.i.356.
 
 ## Notes

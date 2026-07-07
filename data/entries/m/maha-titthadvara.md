@@ -5,7 +5,7 @@ base_headword: "Mahā Titthadvāra"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Titthadvāra. One of the gates of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Titthadvāra. Một trong các cổng thành của Pulatthipura, được dựng lên bởi Parakkamabāhu I. Cv.lxxiii.163.
 
 ## Notes

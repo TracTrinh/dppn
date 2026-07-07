@@ -5,7 +5,7 @@ base_headword: "Kapotakandara"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -30,6 +30,8 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kapotakandara. Một hang động, có lẽ là gần Rājagaha, nơi mà, về sau, một *vihāra*, được gọi là *Kapotakondaravihāra*, đã được xây dựng. Hang động có lúc từng là nơi cư trú của một số lượng lớn chim bồ câu (*kapotā*), do đó mới có tên gọi này (Ud­a.244). Trong một dịp Sāriputta, vừa mới cạo đầu, đang ngồi ở đó chìm đắm trong *samādhi*, và một Yakkha, khi bay ngang qua trên đầu với người bạn của mình để đến một hội chúng của các Yakkha, đã nhượng bộ, bất chấp lời cảnh báo của người bạn mình, trước sự cám dỗ đánh một cú vào cái đầu trọc lốc của vị tỳ-kheo. Yakkha ngay lập tức ngã xuống và bị ngọn lửa của địa ngục nuốt chửng. Sāriputta chỉ bị đau đầu nhẹ sau cú đánh đó, cú đánh mà, người ta nói rằng, đủ nặng để nghiền nát một con voi (Ud.39f; Thag.vs.998f; Paṭis-a.494).
+
+Theo Visuddhimagga (p.380), Sāriputta đã nhập vào một *jhāna* vào ngay khoảnh khắc cú đánh được giáng xuống ông.
 
 ## Notes

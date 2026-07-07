@@ -5,7 +5,7 @@ base_headword: "Sīdupabbatagāma"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sīdupabbatagāma. A village in <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīdupabbatagāma. Một ngôi làng ở Rohaṇa, nơi Mahinda V. đã sống một thời gian. Cv.lv.8.
 
 ## Notes

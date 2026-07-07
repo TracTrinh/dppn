@@ -5,7 +5,7 @@ base_headword: "Khandhasutta"
 disambiguator: "03"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -24,6 +24,6 @@ Khandhasutta 03. Preached to <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khandhasutta 03. Được thuyết giảng cho Rāhula. Các khandha là phù du, đau khổ, và do đó, không có ngã (atta). SN.ii.249, 252.
 
 ## Notes

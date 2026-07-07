@@ -5,7 +5,7 @@ base_headword: "Sukkodana"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -29,6 +29,6 @@ Sukkodana, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sukkodana, Sukkhodana. Một vị vương tử Sākiyan, con trai của Sīhahanu và là chú ruột của Gotama Buddha (Mhv.ii.20; xem Snp­a.i.357). Mahā Nāma và Anuruddha là con trai của ông. MN­a.i.289.
 
 ## Notes

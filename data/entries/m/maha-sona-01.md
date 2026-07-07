@@ -5,7 +5,7 @@ base_headword: "Mahā Soṇa"
 disambiguator: "01"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -27,6 +27,6 @@ Mahā Soṇa 01. An evil-natured horse of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Soṇa 01. Một con ngựa có bản tính xấu xa của Brahmadatta, vua xứ Benares. Xem Suhanujātaka (Ja 158).
 
 ## Notes

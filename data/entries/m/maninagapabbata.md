@@ -5,7 +5,7 @@ base_headword: "Maṇināgapabbata"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Maṇināgapabbata. A *vihāra* in the Kālāyana Kaṇṇikā in <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇināgapabbata. Một *vihāra* trong Kālāyana Kaṇṇikā ở Rohaṇa, do Mahā Dāṭhika Mahā Nāga xây dựng. (Mhv.xxxiv.89; Mhv­ṭ.637.)
 
 ## Notes

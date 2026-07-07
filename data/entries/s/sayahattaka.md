@@ -5,7 +5,7 @@ base_headword: "Sayahattaka"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sayahattaka. A locality in the <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sayahattaka. Một địa điểm trong vùng Malaya của Tích Lan, được nhắc đến trong tường thuật về các chiến dịch của Parakkamabāhu I. Cv.lxx.15.
 
 ## Notes

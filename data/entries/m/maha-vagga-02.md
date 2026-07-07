@@ -5,7 +5,7 @@ base_headword: "Mahā Vagga"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Vagga 02. The second section of the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Vagga 02. Phần thứ hai của Dīghanikāya, chứa các *Sutta* XIV.-XXIII.
 
 ## Notes

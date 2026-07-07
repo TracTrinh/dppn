@@ -5,7 +5,7 @@ base_headword: "Maṇḍalagirivihāra"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -33,6 +33,6 @@ Maṇḍalagirivihāra. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇḍalagirivihāra. *v.l.* Maṇḍalagirika. Một tu viện ở Tích Lan, do Kaniṭṭhatissa xây dựng (Mhv.xxxvi.17). Quan lãnh chủ tỉnh Malaya vào thời Aggabodhi IV. đã xây một nhà thờ xá-lợi cho cetiya ở đó (Cv.xlvi.29), trong khi Sena II. cấp cho nó nhiều làng phụng dưỡng (Cv.Ii.75) và Vijayabāhu I. đã trùng tu nó (Cv.lx.58). Chính khi cư trú ở đó mà Gajabāhu đã hòa giải với Parakkamabāhu I. và dựng bia ghi chép sự kiện đó trong *vihāra* (Cv.lxxi.3; để xác định vị trí xem Cv.Trs.i.100, n.3.), Maṇḍalīgiri.
 
 ## Notes

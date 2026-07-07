@@ -5,7 +5,7 @@ base_headword: "Pāṭihāriyakathā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -26,6 +26,6 @@ Pāṭihāriyakathā. The sixth chapter of the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāṭihāriyakathā. Chương thứ sáu của Paññāvagga thuộc Paṭisambhidāmagga.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sīlavaṁsa"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -24,6 +24,6 @@ Sīlavaṁsa 02. A monk of Ceylon, author of the *Kaccāyanadhātumañjūsa*. PL
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīlavaṁsa 02. Một vị tỳ-kheo ở Tích Lan, tác giả của *Kaccāyanadhātumañjūsa*. PLC.237.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vidhavā"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vidhavā. A river in the inner regions of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vidhavā. Một dòng sông ở các khu vực bên trong của Himavā (*anto Himavante*). Ja.iii.467.
 
 ## Notes

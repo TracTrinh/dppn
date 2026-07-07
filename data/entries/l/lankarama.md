@@ -5,7 +5,7 @@ base_headword: "Laṅkārāma"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -26,6 +26,6 @@ Laṅkārāma. A monastery in <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Laṅkārāma. Một tu viện ở Ayodhyā nơi tác giả của Saddhammasaṅgaha (*q.v.*) sinh sống.
 
 ## Notes

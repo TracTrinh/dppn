@@ -5,7 +5,7 @@ base_headword: "Kumārasena"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kumārasena. Brother of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Anh trai của Dhātusena. Ông đã giúp Dhātusena đè bẹp những người Damiḷa, và đã được khen thưởng hậu hĩ cho những công lao của mình. Cv.xxxviii.35, 53.
 
 ## Notes

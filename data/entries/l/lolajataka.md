@@ -5,7 +5,7 @@ base_headword: "Lolajātaka"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -25,6 +25,6 @@ Lolajātaka (Ja 274). The story of the Bodhisatta born as a pigeon and of his fr
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lolajātaka (Ja 274). Câu chuyện về Bodhisatta sinh làm một con chim bồ câu và tình bạn của ngài với một con quạ tham lam. Câu chuyện thực tế giống hệt với Kapotajātaka (Ja 42) (*q.v.*), và được kể lại liên quan đến một tỳ-kheo tham lam đã bị báo cáo với Đức Phật. Con quạ được đồng nhất với vị tỳ-kheo này. Ja.ii.361ff.
 
 ## Notes

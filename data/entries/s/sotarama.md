@@ -5,7 +5,7 @@ base_headword: "Sotārāma"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Sotārāma. A pleasance in which <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sotārāma. Một hoa viên nơi Sobhita Buddha viên tịch. Bv­a.140; nhưng Bv.vii.30 gọi nơi này là Sīhārāma.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vihatābhā"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vihatābhā. A king of twenty-nine *kappas* ago, a previous birth of <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vihatābhā. Một vị vua của hai mươi chín *kappa* trước, tiền kiếp của Campakapupphiya (hay Belaṭṭhānika) Thera. Ap.i.167; Thag­a.i.205.
 
 ## Notes

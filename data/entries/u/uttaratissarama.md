@@ -5,7 +5,7 @@ base_headword: "Uttaratissārāma"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -29,6 +29,6 @@ Uttaratissārāma. A monastery in Ceylon, built by <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttaratissārāma. Một tu viện ở Tích Lan, được Tissa, đại thần của Vaṭṭagāmaṇī, xây dựng. Tu viện được dâng tặng cho Trưởng lão Mahā Tissa ở Kambugalla (Kapikkala?). Mhv.xxxiii.92; Mhv­ṭ.622.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kathikasutta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -23,6 +23,6 @@ Kathikasutta. The true preacher is one who preaches revulsion from the body, its
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kathikasutta. Người thuyết pháp chân chính là người thuyết giảng về sự nhàm chán đối với thân thể, sự phai nhạt và sự đoạn diệt của nó. SN.iii.163.
 
 ## Notes

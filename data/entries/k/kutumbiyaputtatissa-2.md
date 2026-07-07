@@ -5,7 +5,7 @@ base_headword: "Kuṭumbiyaputtatissa"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -32,6 +32,8 @@ The Commentaries lead us to believe that <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ngài có lần đi đến Jetavana cùng với hai mươi chín người bạn của mình từ Sāvatthī để cúng dường cho Đức Phật. Sau khi nghe Đức Phật thuyết pháp, tất cả họ đều trở thành tỳ-kheo. Sau năm năm lưu trú cùng với các thầy của họ, họ mong muốn rút lui vào nơi thanh vắng và đã nhận từ Đức Phật các đề mục cho các buổi thiền định của họ. Trong lúc đang trên đường vào rừng, Kuṭumbiyaputtatissa trở nên yếu kém trong quyết tâm của ngài và đã quay trở lại. Khi mùa mưa kết thúc, những người khác, sau khi chứng đắc quả vị *Arahant*, đã quay về và báo cáo những thành tựu khác nhau của họ cho Đức Phật. Kuṭumbiyaputta nghe Đức Phật ca ngợi họ, và đã quyết tâm noi gương họ và thế là ngày hôm sau ngài quay trở lại rừng cùng với họ. Tuy nhiên, cùng đêm đó, tràn ngập mong mỏi không trì hoãn trong việc bắt đầu những khổ hạnh của mình, ngài đã ngủ trong tư thế ngồi thẳng; nhưng vào nửa đêm ngài đã ngã xuống và bị gãy xương đùi. Tai nạn này đã trì hoãn sự khởi hành của các tỳ-kheo khác, và Đức Phật, khi nghe về sự việc, đã khiển trách Tissa vì lòng nhiệt thành không đúng lúc của ngài và kể lại câu chuyện Varaṇajātaka (Ja 71), cho thấy trong quá khứ ngài cũng từng hành xử tương tự như thế nào (Ja.i.316f).
+
+Các Chú giải khiến chúng ta tin rằng Kuṭumbiyaputta cuối cùng đã đạt được quả vị *Arahant*, vì ngài được đề cập nhiều lần cùng với Pītimalla và những người khác như một tấm gương về một người đã dốc sức nỗ lực trong khi chịu đựng đau đớn dữ dội, để đạt được mục tiêu của mình (ví dụ, SN­a.ii.216; AN­a.i.29; xem thêm Padhānakammikatissa).
 
 ## Notes

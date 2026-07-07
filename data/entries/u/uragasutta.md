@@ -5,7 +5,7 @@ base_headword: "Uragasutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -30,6 +30,6 @@ Uragasutta. The first *Sutta* of the <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uragasutta. Bài kinh (Sutta) đầu tiên của Suttanipāta. Nó được thuyết giảng tại Aggāḷavacetiya ở Āḷavī. Các tỳ-kheo Āḷavaka đã đốn cây để xây những ngôi nhà mới cho họ, và một vị trong số đó, khi đang đốn hạ một cái cây vốn là nơi ở của một vị thọ thần, đã làm bị thương tay của đứa con vị này. Mặc dù vô cùng muốn giết vị tỳ-kheo đó ngay tại chỗ, vị thọ thần đã kiềm chế bản thân và đến than phiền với Đức Phật, ngài đã bảo vị này đến ở một cái cây khác (Snp-a.i.3f; câu chuyện cũng được đưa ra trong Vin.iv.34 và trong Dhp­a.iii.229f). Khổ thơ đầu tiên của bài kinh (Sutta) được thuyết giảng cho vị thiên nhân (Devatā) đó. Suttanipāta Commentary (Snp-a.i.15ff) cung cấp các bối cảnh mà những khổ thơ khác được thuyết giảng. Buddhaghosa nói (Vin-a.iv.761) rằng vị Devatā được đề cập ở trên đã đến trú ngụ tại Jetavana, tại một nơi do Đức Phật chỉ định cho vị này, và do đó, đã có đặc ân được nghe các bài thuyết pháp của Đức Phật ở cự ly gần, ngay cả khi có những hội chúng lớn của chư thiên (Devas) hiện diện và các chư thiên (Devas) kém uy lực hơn, giống như vị này, thường phải nhường chỗ cho những vị có uy lực lớn hơn. Vị này không thể bị đuổi khỏi vị trí đã được Đức Phật ấn định cho mình.
 
 ## Notes

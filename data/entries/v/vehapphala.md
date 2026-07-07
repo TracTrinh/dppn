@@ -5,7 +5,7 @@ base_headword: "Vehapphala"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/066.html"
@@ -35,6 +35,14 @@ Their life-span is five hundred *mahākalpas*, (Ibid., sec. 6; AN.ii.128, 129) a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vehapphala. Một trong những cõi Phạm thiên của mặt phẳng Rūpaloka. Chúng sinh được sinh ra ở đó là kết quả của việc tu tập Tứ thiền (Abhidh-s. chương v., xem. 3 d).
+
+Tuổi thọ của họ là năm trăm đại kiếp (*mahākalpas*), (Sđd., mục 6; AN.ii.128, 129) và ngay cả những phàm phu cũng có thể được sinh ra ở đó (VbhA.376).
+
+Baka Brahma từng là một cư dân của Vehapphala (Ja.iii.358; SN­a.i.162).
+
+Những vị *Anāgāmī* sinh ra ở đó sẽ đạt được *Nibbāna* mà không đi nơi khác (VbhA.522).
+
+Buddhaghosa giải thích (Sđd., 521= MN­a.i.29) tên gọi này như sau: *vipulā phalā ti Vehapphalā*, Vehappala có nghĩa là quả lớn. Trong những thời kỳ mà thế giới bị gió hủy diệt, Vehapphala tạo thành giới hạn của sự hủy diệt (Cp-a.9).
 
 ## Notes

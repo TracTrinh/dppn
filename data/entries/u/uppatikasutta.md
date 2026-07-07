@@ -5,7 +5,7 @@ base_headword: "Uppaṭikasutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -25,6 +25,6 @@ Uppaṭikasutta. On the five controlling faculties (*indriyāni*) – of discomf
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uppaṭikasutta. Bàn về năm chức năng kiểm soát (indriyāni) – về sự khó chịu, sự buồn khổ, sự dễ chịu, niềm hạnh phúc và sự dửng dưng – cùng với cách chúng được làm duyên và cách chúng diệt tận (SN.v.213f). Theo Chú giải (SN­a.iii.192), tiêu đề của bài kinh (Sutta) này nên là Uppaṭipātikasutta (bài kinh liên hệ đến những gì đã diễn ra trước đó).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kaṭṭhavāhana"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,6 @@ Kaṭṭhavāhana 02. King of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṭṭhavāhana 02. Vua của Benares. Ông chính là Bodhisatta, con trai của Brahmadatta, vua Benares, và một người phụ nữ nhặt củi, người mà nhà vua đã gặp trong một khu rừng, đang hát khi nhặt những cành cây. Câu chuyện của ông được kể lại trong Kaṭṭhahārijātaka. Ja.i.133ff; Dhp­a.i.349; Ja.iv.148.
 
 ## Notes

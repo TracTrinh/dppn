@@ -5,7 +5,7 @@ base_headword: "Kākātī"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -26,6 +26,6 @@ Kākātī. Chief queen of the Bodhisatta, in one of his births as king of <span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kākātī. Hoàng hậu chính của Bodhisatta, trong một kiếp tái sinh ngài làm vua xứ Benares. Xem Kākātījātaka (Ja 327).
 
 ## Notes

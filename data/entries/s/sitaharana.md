@@ -5,7 +5,7 @@ base_headword: "Sītāharaṇa"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sītāharaṇa. The story of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sītāharaṇa. Câu chuyện về việc Sītā bị bắt cóc được các bộ Chú giải nhắc đến với tên gọi *niratthakakathā* (DN­a.i.76) hoặc *pāpakaṁ sutaṁ* (MNid.A.148; Vibh­a.490).
 
 ## Notes

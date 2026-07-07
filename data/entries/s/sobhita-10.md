@@ -5,7 +5,7 @@ base_headword: "Sobhita"
 disambiguator: "10"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Sobhita 10. An *ārāma* in <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sobhita 10. Một *ārāma* ở Haṁsavatī, trên bờ sông, và tại cổng thành. Padumuttara Buddha từng sống ở đó. Ap.ii.343.
 
 ## Notes

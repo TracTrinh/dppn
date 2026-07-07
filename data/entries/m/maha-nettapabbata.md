@@ -5,7 +5,7 @@ base_headword: "Mahā Nettapabbata"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -25,6 +25,6 @@ Mahā Nettapabbata. A monastery in Ceylon where <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nettapabbata. Một tu viện ở Tích Lan nơi Sena I đã xây dựng một nhà ăn (*mahāpāli*). Cv.l.74.
 
 ## Notes

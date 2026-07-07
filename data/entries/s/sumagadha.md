@@ -5,7 +5,7 @@ base_headword: "Sumāgadhā"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -33,6 +33,6 @@ Sumāgadhā (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumāgadhā (Sumāgavā). Một ao sen gần Rājagaha. Saṁyuttanikāya đề cập đến việc Đức Phật kể câu chuyện về một người đàn ông đã đi đến Sumāgadhā với suy nghĩ, “Tôi sẽ suy đoán về thế giới.” Anh ta nhìn thấy một đội quân, với bốn binh chủng của nó, tiến vào một cọng hoa sen. Sau đó anh ta nghĩ rằng mình chắc hẳn đã bị điên và nói với mọi người như vậy. Đức Phật đã giải thích rằng những gì người đàn ông nhìn thấy là sự thật; đó là một đội quân Asura, đang chạy trốn khỏi các Deva trong sự hoảng loạn, thông qua một cọng hoa sen (SN.v.447f.; cf. *Rāmāyaṇa* i.34). Gần cái ao là Moranivāpa, và nằm trong khoảng cách có thể đi bộ được là *Paribbājakārāma* trong khu vườn của Vương hậu Udumbarikā. Đức Phật đang đi dạo ngoài trời gần Sumāgadhā, ngay trước khi ngài thuyết giảng Udumbarikasīhanādasutta. DN.iii.40.
 
 ## Notes

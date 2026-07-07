@@ -5,7 +5,7 @@ base_headword: "Kakudhavagga"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -24,6 +24,6 @@ Kakudhavagga. The tenth chapter of the *Pañcakanipāta* of the <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kakudhavagga. Chương thứ mười của *Pañcakanipāta* thuộc Aṅguttaranikāya. AN.iii.118-26.
 
 ## Notes

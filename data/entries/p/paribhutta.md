@@ -5,7 +5,7 @@ base_headword: "Paribhutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Paribhutta. A city in the time of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paribhutta. Một thành phố vào thời Đức Phật Sikhī, nơi Bodhisatta được sinh ra làm Vua Arindama. Bv­a.203.
 
 ## Notes

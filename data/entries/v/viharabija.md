@@ -5,7 +5,7 @@ base_headword: "Vihārabīja"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vihārabīja. A village in Ceylon from which five hundred young men entered the 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vihārabīja. Một ngôi làng ở Tích Lan mà từ đó có năm trăm thanh niên đã gia nhập Tăng đoàn nhân dịp tôn trí xá-lợi xương đòn của Đức Phật trong Thūpārāma. Mhv.xvii.59.
 
 ## Notes

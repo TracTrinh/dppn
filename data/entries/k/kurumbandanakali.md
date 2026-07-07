@@ -5,7 +5,7 @@ base_headword: "Kurumbāṇḍanakali"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kurumbāṇḍanakali. A locality in South India, where a great battle was fough
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một địa phương ở Nam Ấn, nơi đã diễn ra một trận chiến lớn giữa Laṅkāpura và Kulasekhara (Cv.lxxvi.157).
 
 ## Notes

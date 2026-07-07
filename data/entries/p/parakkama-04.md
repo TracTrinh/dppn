@@ -5,7 +5,7 @@ base_headword: "Parakkama"
 disambiguator: "04"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Parakkama 04. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parakkama 04. Một vị vua Paṇḍu, người đã phế truất Nữ hoàng Līlāvatī và đoạt lấy ngai vàng Tích Lan. Ông cai trị ở Pulatthinagara, nhưng đã bị Māgha bắt giữ và tra tấn đến chết. Cv.lxxx.52ff., 71.
 
 ## Notes

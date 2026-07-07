@@ -5,7 +5,7 @@ base_headword: "Selantarāyatana"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -27,6 +27,6 @@ Selantarāyatana. A monastery, evidently in <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Selantarāyatana. Một tu viện, rõ ràng ở Rohaṇa. Nanda Thera là vị trụ trì chính vào thời Parakkamabāhu I. Cv.lxxviii.10.
 
 ## Notes

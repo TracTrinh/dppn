@@ -5,7 +5,7 @@ base_headword: "Kaṭissaha"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kaṭissaha 02. One of the chief supporters of <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṭissaha 02. Một trong những vị hộ pháp chính của Đức Phật Dhammadassī. Bv.xvi.20.
 
 ## Notes

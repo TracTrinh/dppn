@@ -5,7 +5,7 @@ base_headword: "Kiṁsukopamasutta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kiṁsukopamasutta. Mentioned in the <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kiṁsukopamasutta. Được đề cập trong Kiṁsukopamajātaka (Ja 248, Ja.ii.265); hiển nhiên là cùng bài kinh với Kiṁsukāsutta.
 
 ## Notes

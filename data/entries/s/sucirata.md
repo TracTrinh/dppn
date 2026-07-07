@@ -5,7 +5,7 @@ base_headword: "Sucīrata"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -29,6 +29,6 @@ Sucīrata. A Brahmin of the <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sucīrata. Một Bà-la-môn thuộc *gotta* Bhāradvāja, là giáo sĩ của Dhanañjaya Koravya xứ Indapatta. Xem Sambhavajātaka (Ja 515). Ông được đồng nhất với Anuruddha. Ja.v.67; được nhắc đến tại DN­a.i.155.
 
 ## Notes

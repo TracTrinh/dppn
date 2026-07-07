@@ -5,7 +5,7 @@ base_headword: "Siri"
 disambiguator: "03"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Siri 03. One of the patrons of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Siri 03. Một trong các thí chủ của Tissa Buddha. Bv.xviii.23.
 
 ## Notes

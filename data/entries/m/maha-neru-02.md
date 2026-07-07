@@ -5,7 +5,7 @@ base_headword: "Mahā Neru"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -25,6 +25,6 @@ Mahā Neru 02. A primeval king, descendant of <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Neru 02. Một vị vua thời nguyên thủy, hậu duệ của Mahā Sammata; nhà vua đã sống trong một khoảng thời gian dài một *asaṅkheyya*. Dpv.iii.8; Mhv.ii.5; Mvu.i.124.
 
 ## Notes

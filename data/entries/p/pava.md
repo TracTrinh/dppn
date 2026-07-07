@@ -5,7 +5,7 @@ base_headword: "Pāvā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -55,6 +55,18 @@ The inhabitants of Pāvā are called <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāvā. Một thành phố của những người Malla mà Đức Phật Gotama đã viếng thăm trong chuyến du hành cuối cùng của ngài, đi đến đó từ Bhogagāma và dừng chân tại vườn xoài của Cunda. Cunda sống ở Pāvā và đã thỉnh mời Đức Phật đến dùng bữa, và đây cũng là bữa ăn cuối cùng của ngài. Chính trong dịp này, Cundasutta (1) đã được thuyết giảng (Snp­a.i. 159). Từ Pāvā, Đức Phật tiếp tục hành trình đến Kusinārā, băng qua con sông Kakkuṭṭhā trên đường đi. DN.ii.126 ff.; Ud.viii.5; con đường từ Pāvā đến Kusināra được đề cập nhiều lần trong các thư tịch – ví dụ, Vin.ii.284; DN.ii.162.
+
+Theo Saṅgītisutta, vào thời điểm Đức Phật đang lưu trú tại Pāvā, những người Malla vừa mới hoàn thành ngôi hội trường mới của họ, Ubbhaṭaka, và theo lời thỉnh mời của họ, Đức Phật đã làm lễ thánh hiến nó bằng cách đầu tiên sử dụng nó và sau đó thuyết pháp ở trong đó. Sau khi Đức Phật giảng xong, Sāriputta đã tụng Saṅgītisutta cho các tỳ-kheo đang tụ họp.
+
+Pāvā cũng là một trung tâm của các Nigaṇṭha và, vào thời điểm được đề cập ở trên, Nigaṇṭha Nāthaputta vừa qua đời tại Pāvā và những tín đồ của ông bị chia rẽ bởi những cuộc tranh cãi gay gắt (DN.iii.210). Cunda *Samaṇuddesa* đang trải qua mùa an cư của mình tại Pāvā, và ông đã báo cáo lại với Đức Phật, lúc này đang ở tại Sāmagāma, tin tức về những cuộc cãi vã của các Nigaṇṭha (DN.iii.117f.; MN.ii.243f).
+
+Khoảng cách từ Pāvā đến Kusināra là ba *gāvuta*. Có người nói rằng (Ud­a.403) trên con đường giữa hai địa điểm này, Đức Phật đã phải dừng lại ở hai mươi lăm trạm nghỉ, do ngài quá đuối sức và mệt mỏi.
+
+Udāna (i.7) có đề cập đến việc Đức Phật đã từng lưu trú tại Ajakapālaka *cetiya* ở Pāvā. Điều này có thể đã diễn ra trong một chuyến viếng thăm trước đó.
+
+Sau khi Đức Phật nhập diệt, những người Malla ở Pāvā đã đòi một phần xá-lợi của ngài. Doṇa đã đáp ứng yêu cầu của họ, và một bảo tháp đã được dựng lên ở Pāvā bên trên phần xá-lợi của họ (DN.ii.167; Bv.xxviii.3).
+
+Những cư dân của Pāvā được gọi là Pāveyyakā. Pāvā là nơi sinh của Khaṇḍasumana.
 
 ## Notes

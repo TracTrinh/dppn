@@ -5,7 +5,7 @@ base_headword: "Kosala"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -24,6 +24,6 @@ Kosala. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kosala. Một vị Pacceka Buddha, được đề cập trong một danh sách các tên. MN.iii.70; Ap­a.i.107.
 
 ## Notes

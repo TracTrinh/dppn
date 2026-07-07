@@ -5,7 +5,7 @@ base_headword: "Kañcanavela"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -28,6 +28,6 @@ Kañcanavela. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kañcanavela. Con trai của Piyadassī Buddha, mẹ của cậu là Vimalā (Bv.xiv.17). Bản chú giải Buddhavaṁsa (p.172) gọi cậu là Kañcana.
 
 ## Notes

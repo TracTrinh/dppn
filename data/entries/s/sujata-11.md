@@ -5,7 +5,7 @@ base_headword: "Sujāta"
 disambiguator: "11"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sujāta 11. The Bodhisatta born as a landowner of <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sujāta 11. Vị Bodhisatta sinh ra làm một chủ đất của Benares. Xem Sujātajātaka (Ja 352) (3).
 
 ## Notes

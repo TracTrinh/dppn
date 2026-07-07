@@ -5,7 +5,7 @@ base_headword: "Piyālī"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -26,6 +26,6 @@ Piyālī, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piyālī, Mālabhī. Mười lăm *kappa* trước, có ba vị vua mang tên này, là những tiền kiếp của Devasabha Thera. Thag­a.i.198; nhưng hãy xem Ap.i.170, nơi họ được gọi là Mālabhī.
 
 ## Notes

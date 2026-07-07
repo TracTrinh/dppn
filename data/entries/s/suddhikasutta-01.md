@@ -5,7 +5,7 @@ base_headword: "Suddhikasutta"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Suddhikasutta 01. Describes the visit of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suddhikasutta 01. Mô tả chuyến viếng thăm của Suddhika Bhāradvāja đến Đức Phật (SN.i.265). Xem thêm Bhikkhusutta (5).
 
 ## Notes

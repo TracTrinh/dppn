@@ -5,7 +5,7 @@ base_headword: "Sucitti"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sucitti. An <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sucitti. Một Asura, một trong những vị *Dānaveghasas*, có mặt tại buổi giảng Mahā Samayasutta. DN.ii.259.
 
 ## Notes

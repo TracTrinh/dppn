@@ -5,7 +5,7 @@ base_headword: "Lokajitvāna"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -25,6 +25,6 @@ Lokajitvāna. A general of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lokajitvāna. Một tướng quân của Parakkamabāhu I. Cv.lxx.24.
 
 ## Notes

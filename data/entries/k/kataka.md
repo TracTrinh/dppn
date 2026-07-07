@@ -5,7 +5,7 @@ base_headword: "Kaṭaka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kaṭaka. A village in Ceylon granted by <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṭaka. Một ngôi làng ở Tích Lan được Aggabodhi IV ban tặng để duy trì padhanāghara, công trình do ông xây dựng cho Trưởng lão Dāṭhāsiva. Cv.xlvi.12.
 
 ## Notes

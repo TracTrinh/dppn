@@ -5,7 +5,7 @@ base_headword: "Paṇḍuvijaya"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Paṇḍuvijaya. A village founded by <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇḍuvijaya. Một ngôi làng do Parakkamabāhu I thành lập để kỷ niệm cuộc chinh phạt của ngài đối với đất nước Paṇḍu. Cv.lxxvii.105.
 
 ## Notes

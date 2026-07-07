@@ -5,7 +5,7 @@ base_headword: "Senāsanakkhandha"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Senāsanakkhandha. The sixth chapter of the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Senāsanakkhandha. Chương thứ sáu của Cūḷa Vagga thuộc Vinayapiṭaka. Vin.ii.146ff.
 
 ## Notes

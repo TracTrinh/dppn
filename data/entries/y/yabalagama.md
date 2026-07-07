@@ -5,7 +5,7 @@ base_headword: "Yābālagāma"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -26,6 +26,6 @@ Yābālagāma. One of the villages given by <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yābālagāma. Một trong những ngôi làng được Aggabodhi IX cúng dường để cung cấp cháo dược liệu cho các tu viện nhỏ hơn ở Anurādhapura. Cv.xlix.89.
 
 ## Notes

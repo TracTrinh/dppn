@@ -5,7 +5,7 @@ base_headword: "Sudattasutta"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sudattasutta 01. Describes the visit of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudattasutta 01. Mô tả chuyến viếng thăm của thiên tử (*Devaputta*) Sudatta đến Đức Phật. SN.i.53.
 
 ## Notes

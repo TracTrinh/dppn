@@ -5,7 +5,7 @@ base_headword: "Kāli"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -26,6 +26,6 @@ Kāli. A tank in Ceylon, built by King <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāli. Một hồ chứa nước ở Tích Lan, được xây dựng bởi Vua Vasabha (Mhv.xxxv.95). Nó nằm trong số những hồ chứa nước được sửa chữa bởi Parakkamabāhu I. Cv.lxviii.45.
 
 ## Notes

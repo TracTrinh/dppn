@@ -5,7 +5,7 @@ base_headword: "Sayhajātaka"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -33,6 +33,8 @@ The story was related in reference to a monk who, loving a woman, was discontent
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sayhajātaka (Ja 310). Một thuở nọ, Bodhisatta là con trai của vị tế quan của Brahmadatta, vua Benares. Ngài được nuôi dưỡng cùng với con trai của vua, và họ cùng nhau học tập tại Takkasilā, trở thành đôi bạn thân thiết. Khi hoàng tử lên kế vị ngôi báu, Bodhisatta không muốn sống đời người tại gia, nên đã xuất gia làm ẩn sĩ và sống ở Himālaya. Theo thời gian, nhà vua bắt đầu nhớ đến ngài và sai vị quan của mình là Sayha đi đón vị ẩn sĩ về để làm tế quan hoàng gia. Nhưng Bodhisatta từ chối đến, nói rằng ngài không cần đến vinh dự đó.
+
+Câu chuyện được kể liên quan đến một tỳ-khèo, vì mê đắm một người phụ nữ, nên bất mãn. Nhà vua được đồng nhất với Ānanda, còn Sayha được đồng nhất với Sāriputta. Ja.iii.30-33.
 
 ## Notes

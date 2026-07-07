@@ -5,7 +5,7 @@ base_headword: "Mahā Ruci"
 disambiguator: "01"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Ruci 01. A primeval king, descendant of <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Ruci 01. Một vị vua thời nguyên thủy, hậu duệ của Mahā Sammata. Dpv.iii.7.
 
 ## Notes

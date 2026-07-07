@@ -5,7 +5,7 @@ base_headword: "Ketumatī"
 disambiguator: "03"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Ketumatī 03. The palace of the *Deva* <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ketumatī 03. Cung điện của vị Deva Mahā Sena (một tiền kiếp của Nāgasena). (Mil., p.6).
 
 ## Notes

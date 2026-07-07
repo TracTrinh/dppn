@@ -5,7 +5,7 @@ base_headword: "Labujadāyaka Thera"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -25,6 +25,6 @@ Labujadāyaka Thera. An *Arahant* (Ap.ii.409). It was evidently the same as <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Labujadāyaka Thera. Một vị *Arahant* (Ap.ii.409). Rõ ràng đây là cùng một người với Yasoja.
 
 ## Notes

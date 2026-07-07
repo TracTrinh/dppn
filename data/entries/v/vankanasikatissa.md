@@ -5,7 +5,7 @@ base_headword: "Vaṅkanāsikatissa"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -29,6 +29,6 @@ Vaṅkanāsikatissa. King of Ceylon (171-4 CE.). He was the son of <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaṅkanāsikatissa. Vị vua xứ Tích Lan (Ceylon) (171-4 CE.). Ông là con trai của Vasabha và vợ của ông là con gái của vua Subha. Ông đã xây dựng Mahā Maṅgalavihāra và vợ ông đã xây dựng Mātuvihāra để vinh danh một vị tỳ-kheo từng ban phước cho bà. Con trai của Vaṅkanāsika là Gajabāhukagāmaṇī. Mhv.xxxv.108ff.; Dpv.xxii.12, 27f.
 
 ## Notes

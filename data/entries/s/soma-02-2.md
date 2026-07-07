@@ -5,7 +5,7 @@ base_headword: "Somā"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Somā 02. Sister of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Somā 02. Em gái của Sakulā và hoàng hậu của Pasenadi. Bà là người tích cực đệ tử của Đức Phật. MN.ii.125; MN­a.ii.757; bà có lẽ là người nữ cư sĩ nổi bật được đề cập tại AN.iv.347.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sena"
 disambiguator: "14"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Sena 14. The name of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sena 14. Tên của Bhūta Thera vào thời Siddhattha Buddha. Ông là một Bà-la-môn, và sau khi thấy Đức Phật, đã thốt lên lời tán thán Ngài trong bốn bài kệ. Thag­a.i.493; Ap.i.113.
 
 ## Notes

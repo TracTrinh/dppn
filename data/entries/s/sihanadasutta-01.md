@@ -5,7 +5,7 @@ base_headword: "Sīhanādasutta"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -25,6 +25,6 @@ Sīhanādasutta 01. On the six powers of a <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhanādasutta 01. Về sáu năng lực của một Tathāgata. AN.iii.417f.
 
 ## Notes

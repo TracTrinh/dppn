@@ -5,7 +5,7 @@ base_headword: "Phussa"
 disambiguator: "01"
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -57,6 +57,8 @@ He lived for six thousand years in three palaces: <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phussa 01. Phussa Buddha. Vị Phật thứ mười tám trong số hai mươi bốn vị Phật. Ngài sinh ra tại Sirimā-uyyāna ở Kāsi, cha ngài là Sát-đế-lỵ (*Khattiya*) Jayasena và mẹ ngài là Sirimā. AN­a.i.144 nói rằng cha ngài là Mahinda và ngài có ba người anh em cùng cha khác mẹ. Một trong số họ là Uruvelā Kassapa trong kiếp này (AN­a.i.165).
+
+Ngài đã sống sáu ngàn năm trong ba cung điện: Garuḷa, Haṁsa và Suvaṇṇabhara. Vợ ngài là Kisā Gotamī và con trai ngài là Ānanda (hoặc Anūpama). Thân ngài cao năm mươi tám cubit. Ngài xuất gia cưỡi một con voi, và thực hành khổ hạnh trong sáu tháng. Con gái của một trưởng giả (*seṭṭhi*), Sirivaḍḍhā, đã dâng cúng ngài món cháo sữa, trong khi một đạo sĩ, tên là Sirivaḍḍha, dâng cỏ cho ngài làm chỗ ngồi, dưới gốc một cây *āmanda* (hoặc *āmalaka*). Các đệ tử thinh văn hàng đầu của ngài là Sukhita (hoặc Surakkhita) và Dhammasena trong số các nam nhân, cùng Cālā (hoặc Sālā) và Upacālā (Upasālā) trong số các nữ nhân. Thị giả của ngài là Sambhiya. Dhanañjaya và Visākha trong số các nam nhân, cùng Padumā và Nāgā trong số các nữ nhân, là những thí chủ tại gia hàng đầu của ngài. Bodhisatta khi đó là một Sát-đế-lỵ tên là Vijitāvī ở Arimanda. Đức Phật sống được chín mươi ngàn năm và viên tịch tại Sonārāma (Setārāma) ở Kusinārā. Xá-lợi của ngài được phân tán đi nhiều nơi (Bv.xix.1ff.; Bv­a.192f.; Pv-a.19f). Ambapālī là chị em gái của ngài. Ap.ii. 613.
 
 ## Notes

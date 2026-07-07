@@ -5,7 +5,7 @@ base_headword: "Parosahassasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Parosahassasutta. Relates how once, when the Buddha was at <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parosahassasutta. Kể lại câu chuyện thuở xưa, khi Đức Phật ở Jetavana cùng một ngàn hai trăm năm mươi vị tỳ-kheo, đang giảng dạy và khích lệ họ thông qua một bài thuyết pháp về *Nibbāna*, Vaṅgīsa, người cũng ở trong hội chúng, sau khi được Đức Phật cho phép, đã tán thán ngài qua một số bài kệ. SN.i.192.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Soṇā"
 disambiguator: "04"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Soṇā 04. An eminent Therī of Ceylon. Dpv.xviii.38.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Soṇā 04. Một Therī nổi bật ở Tích Lan. Dpv.xviii.38.
 
 ## Notes

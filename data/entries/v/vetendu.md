@@ -5,7 +5,7 @@ base_headword: "Veṭendu"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Veṭendu. A vassal of the <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Veṭendu. Một chư hầu của Cātummahārājikā, có mặt tại buổi thuyết giảng Mahā Samayasutta. DN.ii.258.
 
 ## Notes

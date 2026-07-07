@@ -5,7 +5,7 @@ base_headword: "Paramatthamañjūsā"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Paramatthamañjūsā 02. An <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paramatthamañjūsā 02. Một chuyên luận Abhidhamma của Vepullabuddhi. Bode, 28.
 
 ## Notes

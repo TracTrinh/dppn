@@ -5,7 +5,7 @@ base_headword: "Mahā Paduma"
 disambiguator: "01"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -38,6 +38,8 @@ They stayed in the royal park during the rains, and, one day, when the king was 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Paduma 01. Một vị Pacceka Buddha, người đứng đầu của năm trăm vị Pacceka Buddha, tất cả đều là con trai của Padumavatī. Chỉ duy nhất ngài là được sinh ra từ bào thai của mẹ mình, những người còn lại là *saṁsedajā*. Sau khi các đối thủ của Padumavatī (đối với phần trước trong câu chuyện của họ, xem Uppalavaṇṇā) đã đặt những đứa trẻ vào trong các tráp gỗ và thả trôi xuống dòng sông, họ thông báo với nhà vua rằng Padumavatī là một phi nhân và đã sinh ra một khúc gỗ. Nhà vua trục xuất bà ra khỏi cung điện, và khi bà lang thang trên các con phố, bị tước đoạt mọi vinh quang của mình, một bà lão đã rủ lòng thương hại bà, đưa bà về nhà và chăm sóc bà. Nhà vua đang tắm dưới sông thì những chiếc tráp gỗ chứa những đứa trẻ bị mắc vào lưới của ông, và, sau khi đã vớt chúng lên và mở khóa, ông tìm thấy những đứa bé ở bên trong, cùng với một bức thư từ Sakka nói rằng chúng là những đứa con của Padumavatī. Nhà vua vội vã quay lại cung điện của mình và ban bố một cáo thị rằng bất cứ ai tìm thấy Padumavatī sẽ nhận được một ngàn đồng làm phần thưởng. Theo gợi ý của Padumavatī, bà lão, người bảo bọc của bà, đề nghị tìm kiếm bà, và sau đó Padumavatī đã tự tiết lộ danh tính của mình. Bà được đưa trở lại cung điện trong tất cả vinh quang, và năm trăm đối thủ của bà đã được giao cho bà làm nô lệ. Bà đã trả tự do cho họ, và chỉ định họ làm nhũ mẫu để chăm sóc các con của mình, ngoại trừ Paduma (được gọi là Mahā Paduma), người mà tự bà chăm sóc. Khi Mahā Paduma và các anh em của ngài lên mười sáu tuổi, một ngày nọ họ đi đến khu vườn, nơi họ bị ấn tượng bởi sự xuất hiện của một hoa sen già và héo úa giữa những đóa hoa sen tươi mát mọc trong ao, và từ việc phát triển chủ đề tư duy này, họ đã trở thành các vị Pacceka Buddha và đi đến hang động Nandamūla. Padumavatī đã chết vì đau buồn trước sự mất mát tất cả những người con trai của mình và tái sinh vào một gia đình lao động. Bà kết hôn, và, một ngày nọ, trong khi đang mang cháo cho chồng mình, bà nhìn thấy tám vị Pacceka Buddha (những người con của bà trong tiền kiếp) đang du hành ngang qua không trung và đáp xuống gần nơi bà đang đứng. Bà đã cúng dường họ phần thức ăn dành cho chồng bà và thỉnh mời họ vào ngày hôm sau. Ngày hôm sau, tất cả năm trăm vị đã đến để tôn vinh mẹ của họ và chấp nhận sự tiếp đãi của bà. Bà đã cúng dường thức ăn cho tất cả các ngài và dâng hoa cho họ (Thīg­a.185ff). Sau đó Mahā Paduma và các anh em của ngài đã được thỉnh mời tiếp đãi bởi Nanda, vua của Benares, và hoàng hậu của ông (những người mà trong kiếp cuối cùng của họ là Mahā Kassapa và Bhaddā Kāpilānī).
+
+Họ đã lưu trú trong khu vườn hoàng gia suốt mùa an cư, và, một ngày nọ, khi nhà vua đi vắng, hoàng hậu đã đến viếng thăm họ và phát hiện ra họ đã viên tịch. Thag­a.ii.140f.; SN­a.ii.142; AN­a.i.98,190ff.; MN­a.ii.889.
 
 ## Notes

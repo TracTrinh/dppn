@@ -5,7 +5,7 @@ base_headword: "Vacchagotta"
 disambiguator: "03"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vacchagotta 03. A Brahmin of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vacchagotta 03. Một Bà-la-môn ở Kapilavatthu, cha của Vanavaccha Trưởng lão (*q.v.*). Thag­a.i.58.
 
 ## Notes

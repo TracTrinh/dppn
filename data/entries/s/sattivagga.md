@@ -5,7 +5,7 @@ base_headword: "Sattivagga"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Sattivagga. The third chapter of the <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sattivagga. Chương thứ ba của Devatāsaṁyutta. SN.i.13-16.
 
 ## Notes

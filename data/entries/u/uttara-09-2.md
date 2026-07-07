@@ -5,7 +5,7 @@ base_headword: "Uttarā"
 disambiguator: "09"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uttarā 09. A Brahmin lady, mother of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttarā 09. Một phu nhân người Bà-la-môn, mẹ của Koṇāgamana Buddha, và cũng là Aggasāvikā của ngài. Ja.i.43; DN.ii.7; Bv.xxiv.17, 23.
 
 ## Notes

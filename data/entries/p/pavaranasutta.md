@@ -5,7 +5,7 @@ base_headword: "Pavāraṇasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -29,6 +29,8 @@ Pavāraṇasutta. The Buddha was once staying at the <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pavāraṇasutta. Có lần Đức Phật đang lưu trú tại Migāramātupāsāda, và vào ngày *pavāraṇa* (tự tứ), ngài đã triệu tập năm trăm vị *Arahant* đang ở cùng ngài và hỏi xem liệu họ có phát hiện bất kỳ lỗi lầm nào ở ngài hay không.
+
+Sāriputta, thay mặt họ, đã tán thán Đức Phật, và Đức Phật, đến lượt mình, cũng nói về sự vĩ đại của Sāriputta và sự thanh tịnh vô tội của các vị *Arahant*. Sau đó Vaṅgīsa, cũng đang hiện diện, đã ca ngợi Đức Phật bằng thi kệ. SN.i.190f.; cũng xem Thag.vs.1234ff.
 
 ## Notes

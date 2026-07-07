@@ -5,7 +5,7 @@ base_headword: "Kumbhaṇḍa"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kumbhaṇḍa. A *Nigaṇṭha* for whom <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị *Nigaṇṭha* mà Paṇḍukābhaya đã xây dựng cho một ẩn thất, được đặt theo tên của ông, gần Hồ chứa nước Gāmaṇi. Mhv.x.99.
 
 ## Notes

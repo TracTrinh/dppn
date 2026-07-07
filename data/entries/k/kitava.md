@@ -5,7 +5,7 @@ base_headword: "Kitava"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -29,6 +29,6 @@ Kitava. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kitava. Vua của Benares. Con trai của ông trở nên được biết đến trong thời kỳ của Đức Phật này là Kuṇḍinagariya Thera (Pv-a.177f; 263f). Theo Petavatthu (iv.7), Kitava có vẻ như là vua, không phải của Benares mà là của Rājagaha (Giribbaja).
 
 ## Notes

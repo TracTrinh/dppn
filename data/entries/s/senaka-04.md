@@ -5,7 +5,7 @@ base_headword: "Senaka"
 disambiguator: "04"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Senaka 04. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Senaka 04. Vua xứ Benares. Xem Kharaputtajātaka (Ja 386).
 
 ## Notes

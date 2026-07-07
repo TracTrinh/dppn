@@ -5,7 +5,7 @@ base_headword: "Parakkamabāhu"
 disambiguator: "10"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Parakkamabāhu 10. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parakkamabāhu 10. Parakkamabāhu IX. Còn được gọi là Dhamma Parakkamabāhu. Ông không được đề cập trong Cūḷa Vaṁsa, nhưng có lẽ đã trị vì vào khoảng năm 1509-28 CN. Codr.95f.
 
 ## Notes

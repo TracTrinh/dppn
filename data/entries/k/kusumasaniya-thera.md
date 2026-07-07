@@ -5,7 +5,7 @@ base_headword: "Kusumāsaniya Thera"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -31,6 +31,10 @@ He is evidently identical with <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một *Arahant*. Chín mươi mốt *kappa* trước, ngài là một Bà-la-môn thông thái trong thời của Vipassī Buddha, và khi ngài đang chuẩn bị cho một buổi tế tự, Đức Phật đi ngang qua chỗ ngài.
+
+Ngài đã trải cho Đức Phật một chỗ ngồi bằng hoa và dâng cúng thức ăn cho ngài. Một *kappa* trước, ngài là một vị vua tên là Varadassana (Ap.i.160).
+
+Ngài hiển nhiên đồng nhất với Suyāma Thera. Thag­a.i.165.
 
 ## Notes

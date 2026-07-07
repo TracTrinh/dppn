@@ -5,7 +5,7 @@ base_headword: "Maṇikuṇḍalavagga"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Maṇikuṇḍalavagga. The thirty-sixth chapter of the <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇikuṇḍalavagga. Chương thứ ba mươi sáu của Chú giải Bổn sinh. Đây là chương đầu tiên của *Pañcanipāta*. (Ja.iii.153ff.)
 
 ## Notes

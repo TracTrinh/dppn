@@ -5,7 +5,7 @@ base_headword: "Sīvakasutta"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -25,6 +25,6 @@ Sīvakasutta. Gives an account of the visit of <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīvakasutta. Thuật lại chuyến viếng thăm của Moliya Sīvaka (xem từ này) đến Đức Phật. SN.iv.230.
 
 ## Notes

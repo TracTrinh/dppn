@@ -5,7 +5,7 @@ base_headword: "Mahinda"
 disambiguator: "20"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -31,6 +31,6 @@ Mahinda 20. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahinda 20. Một người Lambakaṇṇa ở khu vực Moriya, một viên chức của Parakkamabāhu I. Ông là một *Nagaragiri*, và được Parakkamabāhu cử đi đến Mallavāḷāna, nơi ông đã tiến hành một chiến dịch thắng lợi chống lại Uttararaṭṭha. Sau đó ông đã chiếm được Anurādhapura, và là một trong số những người chịu trách nhiệm cho việc bắt giữ Gajabāhu tại Pulatthipura. Cv.lxix. 13; lxx. 89, 146ff.; 158, 199ff.
 
 ## Notes

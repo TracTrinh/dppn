@@ -5,7 +5,7 @@ base_headword: "Pañcanikāyamaṇḍala"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Pañcanikāyamaṇḍala. An assembly hall in the <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcanikāyamaṇḍala. Một hội trường trong Lohapāsāda, nơi các tỳ-kheo sống ở phía bắc sông Mahā Vālukanadī thường xuyên tụ họp vào cuối mùa an cư. DN­a.ii.581.
 
 ## Notes

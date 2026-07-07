@@ -5,7 +5,7 @@ base_headword: "Seggujātaka"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -28,6 +28,8 @@ The story was told in reference to a greengrocer of <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Seggujātaka (Ja 217). Câu chuyện về những người bán rau, để thử thách con gái mình là Seggu, đã đưa cô vào rừng và giả vờ muốn cưỡng bức cô. Nhưng cô cầu xin sự bảo hộ của cha, và ông, tin vào đức hạnh của cô, đã gả cô cho một chàng trai tốt.
+
+Câu chuyện được kể liên quan đến một người bán rau ở Sāvatthī, người đã thử thách con gái mình theo cách tương tự. Các nhân vật trong cả hai câu chuyện đều giống nhau. Ja.ii.179f.
 
 ## Notes

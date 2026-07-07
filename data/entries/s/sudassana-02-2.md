@@ -5,7 +5,7 @@ base_headword: "Sudassanā"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sudassanā 02. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudassanā 02. Vợ của Revata Buddha, trong đời sống thế tục cuối cùng của ngài. Bv.vi.18.
 
 ## Notes

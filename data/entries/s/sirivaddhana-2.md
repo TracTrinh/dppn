@@ -5,7 +5,7 @@ base_headword: "Sirivaḍḍhanā"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sirivaḍḍhanā. A girl of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirivaḍḍhanā. Một cô gái ở *nigama* Sucitta, người đã dâng cơm sữa cho Vessabhū Buddha. Bv­a.205.
 
 ## Notes

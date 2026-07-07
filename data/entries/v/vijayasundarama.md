@@ -5,7 +5,7 @@ base_headword: "Vijayasundārāma"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vijayasundārāma. A monastery built by <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vijayasundārāma. Một tu viện do Vijayabāhu III. xây dựng. Cv.lxxxi.51; xem thêm PLC. 209.
 
 ## Notes

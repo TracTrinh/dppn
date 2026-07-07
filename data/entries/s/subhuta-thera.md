@@ -5,7 +5,7 @@ base_headword: "Subhūta Thera"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -37,6 +37,10 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subhūta Thera. Ngài xuất thân từ một gia đình thuộc giai cấp thị tộc ở Magadha, và, do khuynh hướng xuất gia của mình, ngài đã rời bỏ đời sống tại gia và gia nhập vào nhóm các đạo sĩ ngoại đạo. Bất mãn với họ và khi nhìn thấy niềm hạnh phúc mà Upatissa, Koḷita, Sela và những người khác được thọ hưởng, sau khi họ gia nhập Tăng đoàn, ngài cũng đã trở thành một vị tỳ-kheo dưới sự chứng minh của Đức Phật, giành được sự ưu ái từ các vị thầy của mình. Ngài lui về nơi vắng vẻ với một đề mục thiền định, và ngay sau đó đã đạt được quả vị *Arahant*.
+
+Vào thời Kassapa Buddha ngài sinh ra trong một gia đình rất giàu có ở Benares, và, sau khi nghe Đức Phật thuyết pháp, ngài đã dùng bốn loại hương liệu để chà xát lên Gandhakuṭi của Đức Phật tám lần mỗi tháng. Như là một kết quả của hành động này, trong mọi kiếp sống, ngài đều được sinh ra với một thân thể tỏa ngát hương thơm (Thag.vss.320-4; Thag­a.i.405f).
+
+Ngài có lẽ đồng nhất với Cūḷa Sugandha trong Apadāna. Ap.ii.508f; nhưng xem Thag­a.i.80 và Ap.ii.459.
 
 ## Notes

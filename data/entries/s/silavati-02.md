@@ -5,7 +5,7 @@ base_headword: "Sīlavatī"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -27,6 +27,6 @@ Sīlavatī 02. The city in which <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīlavatī 02. Thành phố nơi Sikhī Buddha viên tịch, tại Dussārāma (Assārāma). Bv­a.204.
 
 ## Notes

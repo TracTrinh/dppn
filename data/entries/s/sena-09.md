@@ -5,7 +5,7 @@ base_headword: "Sena"
 disambiguator: "09"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -27,6 +27,6 @@ Sena 09. *Adhikārī* of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sena 09. *Adhikārī* của Kittisirimegha (2). Ông được phái đi đánh Parakkamabāhu I. tại Siriyāla và Buddhagāma, nhưng bị đánh bại. Cv.lxvi.66f.
 
 ## Notes

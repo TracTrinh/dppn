@@ -5,7 +5,7 @@ base_headword: "Sīhalasaṅgha"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -30,6 +30,6 @@ Sīhalasaṅgha. A sect founded in Pagan by <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhalasaṅgha. Một tông phái được thành lập ở Pagan bởi Chapaṭa và bốn người bạn đồng hành của ông: Rāhula, Ānanda, Sīvalī và Tāmalinda. Ban đầu tông phái này được vua Narapatisithu bảo trợ, nhưng sau đó tông phái chia thành bốn nhánh, mỗi nhánh theo một trong bốn vị Trưởng lão đã đến từ Tích Lan. Sās.65,66; Bode,19,23f.
 
 ## Notes

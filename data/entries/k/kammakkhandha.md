@@ -5,7 +5,7 @@ base_headword: "Kammakkhandha"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kammakkhandha. The first section of the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kammakkhandha. Phần đầu tiên của Cūḷa Vagga thuộc Vinayapiṭaka (Vin.ii.1-28).
 
 ## Notes

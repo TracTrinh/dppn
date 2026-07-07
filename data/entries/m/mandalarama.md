@@ -5,7 +5,7 @@ base_headword: "Maṇḍalārāma"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -40,6 +40,12 @@ It was also the residence of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇḍalārāma. Một tu viện ở Tích Lan, có lẽ gần làng Bhokkanta. Đây là nơi cư trú của Trưởng lão Mahā Tissa, người trì tụng Dhammapada.
+
+Sumanā, vợ của Lakuṇṭaka Atimbara, đã đọc tại đây, trước đại chúng tỳ-kheo, câu chuyện về các tiền kiếp của bà (Dhp­a.iv.51).
+
+Theo chú giải Vibhaṅga (Vibh­a.448; cũng tại Dhs-a.30; AN­a.i.52), tu viện nằm trong làng Kāḷakagāma, và vào thời Vaṭṭagāmaṇī, đây là nơi cư trú của nhiều vị tỳ-kheo, đứng đầu là Tissabhūta.
+
+Đây cũng là nơi cư trú của Maliyadeva Thera. AN­a.i.22.
 
 ## Notes

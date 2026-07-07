@@ -5,7 +5,7 @@ base_headword: "Senaggabodhipabbata"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Senaggabodhipabbata. A building erected in <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Senaggabodhipabbata. Một công trình được dựng lên tại Vāhadīpa bởi Udaya I. Cv.xlix.33.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kassapa"
 disambiguator: "21"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -37,6 +37,6 @@ Kassapa 21. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapa 21. Con trai của Mahinda V (Cv.lv.10). Khi Mahinda bị những người Coḷas bắt giữ và đưa đi, dân chúng đã nhận trách nhiệm chăm sóc cậu bé Kassapa và nuôi nấng cậu. Khi cậu bé được mười hai tuổi, vua nước Coḷa đã phái một đạo quân đến Tích Lan để bắt cậu; nhưng kế hoạch này đã bị phá vỡ bởi vị quan Kitti ở Makkhakudrūsa, và vị đại thần Buddha ở Māragallaka (Cv.lv.24-9). Kassapa lên ngôi với tước hiệu Vikkamabāhu, nhưng từ chối làm lễ đăng quang cho đến khi ông chinh phục được những người Damiḷas trong vương quốc của mình. Trong khi các công tác chuẩn bị đang được tiến hành để hướng tới mục tiêu này, ông đã qua đời vì bệnh *vātaroga*. Ông trị vì mười hai năm (1029-1041 CN). (Cv.lvi.1-6; Cv.Trs.i.190, n.3). Có lẽ ông chính là vị vương tử Kassapa đã kết hôn với Lokitā, em họ của Mahinda V, và có hai người con trai với bà là Moggallāna và Loka. Cv.lvii.28f; Cv.Trs.i.195, n.3.
 
 ## Notes

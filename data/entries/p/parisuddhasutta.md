@@ -5,7 +5,7 @@ base_headword: "Parisuddhasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Parisuddhasutta. Eight conditions the factors of the Noble Eightfold Path which 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parisuddhasutta. Tám điều kiện là các yếu tố của Bát Thánh đạo hoàn toàn thanh tịnh và chỉ xuất hiện khi một vị Tathāgata xuất hiện. SN.v.15.
 
 ## Notes

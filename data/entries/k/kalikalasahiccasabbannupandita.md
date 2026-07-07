@@ -5,7 +5,7 @@ base_headword: "Kalikālasāhiccasabbaññupaṇḍita"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kalikālasāhiccasabbaññupaṇḍita. A honorific (“all-knowing scholar of t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kalikālasāhiccasabbaññupaṇḍita. Một danh xưng tôn kính (“bậc học giả toàn tri của Thời đại Đen Tối”) được ban cho Parakkamabāhu II do sự uyên bác rộng lớn của ông. Cv.lxxxii.3.
 
 ## Notes

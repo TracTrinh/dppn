@@ -5,7 +5,7 @@ base_headword: "Mahā Sīva"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -30,6 +30,6 @@ Mahā Sīva 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sīva 02. Trưởng lão Mahā Sīva. Cư dân của Vāmantapabbhāra. Ngài nằm trong số những vị *Arahant* cuối cùng, và đã tham gia vào nhiều hội chúng khác nhau do Bodhisatta dẫn dắt (Ja.iv.490; vi. 30). Có lẽ vị Trưởng lão này cũng chính là người được nhắc đến với tên gọi *Gāmantapabbhāravāsī* Mahā Sīva trong Chú giải Aṅguttara (AN­a.i.24, 29). Ngài sống ở Tissamahārāma tại Mahā Gāma, và là thầy của mười tám nhóm tỳ-kheo. Một trong những học trò của ngài đã trở thành một vị *Arahant*, và, biết rằng thầy của mình vẫn còn là một *puthujjana*, đã đi đến gặp ngài và xin phép ngài để được học một bài kệ. Nhưng Mahā Sīva nói rằng học trò của ngài đông đến mức ngài không có thời gian để dạy cho ông một bài kệ. Người học trò đã đợi suốt một ngày đêm, và sau đó vì không có cơ hội nào để học, ông đã nói, “Nếu bây giờ ngài quá bận rộn như vậy thì làm sao ngài tìm được thời gian để chết?” Mahā Sīva đã nghe và hiểu ra, và đã nỗ lực tinh tấn trong suốt ba mươi năm dài đằng đẵng, và vào cuối khoảng thời gian đó, ngài đã trở thành một vị *Arahant*.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Piyadassī"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Piyadassī 02. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piyadassī 02. Một vị Phật Độc giác (Pacceka Buddha). MN.iii.69; Ap.i.106.
 
 ## Notes

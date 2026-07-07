@@ -5,7 +5,7 @@ base_headword: "Mahā Supinajātaka"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -52,6 +52,26 @@ Having thus explained the dreams, the Buddha told <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Supinajātaka (Ja 77). Pasenadi, vua của Kosala, một đêm nọ, đã có mười sáu giấc mơ xấu, và các Bà-la-môn của vua, khi được hỏi ý kiến, nói rằng chúng báo trước mối nguy hại đối với vương quốc, mạng sống hoặc tài sản của vua, và đã quy định tất cả mọi loại tế lễ để tránh khỏi mối nguy hiểm (có lẽ tế lễ này là tế lễ được nhắc đến ở SN.i.75). Mallikā, vợ của vua, nghe được điều này và đã đề nghị nên hỏi ý kiến Đức Phật. Vua làm theo lời khuyên của bà, và Đức Phật đã giải thích những giấc mơ đó.
+
+- giấc mơ thứ nhất là về những con bò rừng tiến vào sân chầu để đánh nhau nhưng đã rút lui sau khi rống và rống. Điều này, Đức Phật nói, có nghĩa là, trong tương lai, khi các vị vua độc ác trị vì, những đám mây mưa sẽ tụ lại, nhưng sẽ không có mưa.
+- Giấc mơ thứ hai là về những cái cây và bụi rậm đâm chồi từ mặt đất ra hoa và kết trái khi chỉ cao khoảng một gang tay. Điều này báo trước một thời đại mà con người sẽ đoản thọ do những dục vọng của họ.
+
+  Trong giấc mơ thứ ba, những con bò mẹ bú sữa của những con bê con chưa đầy một ngày tuổi. Điều này cho thấy rằng, trong tương lai, những người trẻ tuổi sẽ từ chối tôn trọng những người lớn tuổi.
+- Giấc mơ thứ tư là về những con bò kéo cày vạm vỡ đứng nhìn, trong khi những con bò thiến non trẻ cố gắng kéo những xe hàng. Điều này biểu thị một thời đại mà việc quản lý các công việc sẽ được giao phó cho những người trẻ tuổi và thiếu kinh nghiệm, trong khi những người khôn ngoan và lớn tuổi thì đứng nhìn.
+- Giấc mơ thứ năm là về một con ngựa ăn bằng hai miệng, một ở mỗi bên cơ thể của nó, báo trước một thời đại mà các quan tòa của nhà vua sẽ nhận hối lộ từ các bên tranh chấp và để cho bản thân mình chìm trong sự tham nhũng.
+- Giấc mơ thứ sáu là về những người ôm một cái bát vàng rất quý giá và yêu cầu một con chó rừng đi tiểu vào trong đó. Điều này cho thấy rằng, trong tương lai, các vị vua sẽ tôn vinh những người thấp hèn và những thiếu nữ quý tộc sẽ bị gả cho những kẻ mới phất.
+- Giấc mơ thứ bảy là về một người đàn ông cầm một sợi dây thừng và kéo lê nó dưới chân mình, trong khi một con chó rừng cái liên tục ăn nó. Điều này báo trước một thời đại mà phụ nữ sẽ mất đi ý thức về sự đoan trang và cư xử tồi tệ.
+- Trong giấc mơ thứ tám, có một cái hũ lớn ở cổng hoàng cung chứa đầy nước và được bao quanh bởi những cái hũ trống không. Điều này báo trước một thời đại mà các vị vua sẽ nghèo túng và bắt toàn bộ đất nước phải làm việc cho họ, còn người dân thì bị bỏ lại trong sự nghèo đói cùng cực.
+- Giấc mơ thứ chín là về một cái ao sâu với những bờ dốc đầy hoa sen mọc um tùm. Con người và thú vật đi vào trong ao; ở giữa thì đục ngầu, nhưng ở các rìa là nước trong vắt. Điều này có nghĩa là trong tương lai sẽ có những vị vua bất chính áp bức người dân, những người dân này sẽ rời khỏi thủ đô và tị nạn ở các vùng biên giới.
+- Giấc mơ thứ mười là về gạo đang nấu trong một cái nồi, gạo này, thay vì chín đều, lại chia thành ba phần: một phần nhão, một phần sống, một phần chín kỹ. Điều này cho thấy rằng trong tương lai những người thuộc mọi giai cấp, thậm chí cả Bà-la-môn và các bậc hiền triết, sẽ trở nên độc ác, chính những sức mạnh của tự nhiên sẽ chống lại họ, và mùa màng của họ sẽ bị hỏng.
+- Giấc mơ thứ mười một là về việc con người đem đổi bơ sữa để lấy trầm hương quý giá, và báo trước một thời đại mà Pháp sẽ suy tàn và những người sùng bái Pháp sẽ ồn ào đòi hỏi tiền bạc và những món quà.
+- Giấc mơ thứ mười hai là về những quả bí ngô rỗng chìm trong nước; thế giới sẽ bị đảo lộn: những người thấp hèn sẽ trở thành những lãnh chúa vĩ đại và những người quý tộc sẽ chìm vào sự nghèo đói.
+- Trong giấc mơ thứ mười ba, những khối đá rắn chắc nổi bồng bềnh trong nước; các nhà quý tộc và những người khôn ngoan sẽ bị khinh bỉ trong khi những kẻ mới phất sẽ làm theo ý mình.
+- Trong giấc mơ thứ mười bốn, những con ếch nhỏ xíu nhai những con rắn khổng lồ và ăn chúng; sẽ đến một thời đại mà con người, vì những dục vọng của họ, sẽ trở thành nô lệ cho những người vợ của họ và bị cai trị bởi những người vợ đó.
+- Giấc mơ thứ mười lăm là về một con quạ làng độc ác được hầu hạ bởi những con vịt trời; các vị vua sẽ xuất hiện, ngu muội và hèn nhát, những người sẽ vươn lên nắm quyền lực, không phải những người ngang hàng với họ, mà là những kẻ hầu cận, thợ hớt tóc của họ, và những người tương tự; các nhà quý tộc sẽ bị giáng xuống mức phải chờ hầu hạ những kẻ mới phất này.
+- Trong giấc mơ thứ mười sáu, những con dê rượt đuổi những con báo, và ăn thịt chúng; những kẻ thấp hèn sẽ được nâng lên thành lãnh chúa và những nhà quý tộc sẽ chìm vào sự tăm tối và khốn khổ; khi những nhà quý tộc này cầu xin những quyền lợi của mình, những tay sai của nhà vua sẽ bắt họ bị đánh bằng gậy và đánh vào lòng bàn chân.
+
+Sau khi đã giải thích những giấc mơ theo cách như vậy, Đức Phật kể cho Pasenadi một câu chuyện trong quá khứ. Một vị vua của Benares, tên là Brahmadatta, đã có những giấc mơ tương tự như những giấc mơ của Pasenadi. Khi ông hỏi ý kiến các Bà-la-môn, họ bắt đầu chuẩn bị những đồ tế lễ. Một Bà-la-môn trẻ tuổi phản đối, nói rằng việc hiến tế động vật là trái với lời dạy của kinh Veda, nhưng họ không chịu nghe. Bodhisatta, lúc đó là một đạo sĩ trong rặng Himālaya, có được tuệ minh sát, đã nhận ra những gì đang xảy ra, bay qua không trung và ngồi xuống ở trong khu vườn. Tại đó ngài được nhìn thấy bởi một Bà-la-môn trẻ tuổi, người này đã đưa nhà vua đến khu vườn. Bodhisatta nghe những giấc mơ của nhà vua và giải thích chúng khiến ông hài lòng. Ānanda là vị vua và Sāriputta là vị Bà-la-môn trẻ tuổi. Ja.i.334-45.
 
 ## Notes

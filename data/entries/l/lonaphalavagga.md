@@ -5,7 +5,7 @@ base_headword: "Loṇaphalavagga"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -25,6 +25,6 @@ Loṇaphalavagga. The tenth chapter of the *Tikanipāta* of the <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Loṇaphalavagga. Phẩm thứ mười thuộc *Tikanipāta* của Aṅguttaranikāya. AN.i.239-58.
 
 ## Notes

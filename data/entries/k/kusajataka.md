@@ -5,7 +5,7 @@ base_headword: "Kusajātaka"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -30,6 +30,8 @@ The story bears much resemblance to that of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Câu chuyện về Kusa (*xem từ này*). Nó được kể liên quan đến một vị tỳ-kheo thối thất, phải lòng một người phụ nữ ở Sāvatthī, chểnh mảng mọi bổn phận của mình và cự tuyệt thức ăn. Vị ấy được đưa đến Đức Phật, người đã kể lại câu chuyện này để cho thấy ngay cả những người đàn ông hùng mạnh cũng có thể đánh mất sức mạnh của mình và rơi vào cảnh khốn cùng như thế nào vì tình yêu với một người phụ nữ. (Ja.v.278ff; câu chuyện này cũng được trình bày trong Mvu.iii.1ff; ii.441f; các chi tiết có phần khác biệt, cũng như một số cái tên, so với phiên bản Pāli).
+
+Câu chuyện mang nhiều nét tương đồng với câu chuyện của Anitthigandha (*xem từ này*). Xem thêm Sammillabhāsinī.
 
 ## Notes

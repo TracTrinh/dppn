@@ -5,7 +5,7 @@ base_headword: "Mahā Paduma"
 disambiguator: "03"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -36,6 +36,12 @@ His verse is included in the <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Paduma 03. Một vị Pacceka Buddha. Vào thời của Kassapa Buddha, ngài từng là một tỳ-kheo, nhưng sau đó đã tái sinh làm một Trưởng giả ở Benares, trong kiếp đó ông đã phạm tội ngoại tình và tái sinh vào địa ngục. Về sau, ông trở thành con gái của một trưởng giả và được gả chồng. Nhưng, do những ác nghiệp trước kia của cô, chồng cô không quan tâm đến cô và đã đi cùng một người phụ nữ khác đến hội chợ. Tuy nhiên, một ngày nọ, cô cầu xin chồng đưa cô đi cùng, và anh ta bảo cô hãy chuẩn bị. Cô đã làm như vậy, và vào ngày của lễ hội, khi nghe tin chồng cô đã đi đến khu vườn, cô đã theo anh ta cùng với các người hầu của mình, mang theo thức ăn và thức uống mà cô đã chuẩn bị. Trên đường đi, cô gặp một vị Pacceka Buddha, cô đã bước xuống từ cỗ xe của mình, xới đầy thức ăn vào bát của ngài, đặt một hoa sen lên trên, và sau đó cúng dường cho ngài một nắm hoa sen. Khi vật cúng dường của cô được chấp nhận, cô phát nguyện rằng cô sẽ được sinh ra trong một hoa sen và có màu sắc của hoa sen, sẽ trở thành một người đàn ông và đạt được sự giải thoát của *Nibbāna*. Thân thể cô lập tức trở nên xinh đẹp, và người chồng của cô, người đột nhiên nhớ đến cô, đã cho người đến gọi cô, và từ đó yêu thương cô hết mực. Sau khi chết, cô được sinh ra trong một hoa sen ở thế giới *Deva* và được gọi là Mahā Paduma.
+
+Trong kiếp kế tiếp của mình, theo sự gợi ý của Sakka, ông được sinh ra trong một hoa sen ở khu vườn của vị vua xứ Benares, người mà hoàng hậu không có con. Bà nhìn thấy hoa sen trong ao, và khởi sinh một tình thương to lớn dành cho nó, bà hái nó lên và tìm thấy một đứa trẻ ở bên trong như thể ở trong một chiếc tráp. Bà đã nhận nuôi đứa trẻ và nuôi dưỡng cậu bé trong sự cực kỳ xa hoa.
+
+Một ngày nọ, trong khi đang chơi đùa bên ngoài cổng cung điện, cậu bé nhìn thấy một vị Pacceka Buddha và cảnh báo ngài đừng đi vào cung điện vì họ ép tất cả những ai đi vào đều phải ăn uống. Vị Pacceka Buddha quay đi, và cậu bé tràn ngập sự hối hận với ý nghĩ rằng vị Pacceka Buddha sẽ bị xúc phạm, và cậu đã đi đến chỗ ở của ngài, cưỡi trên một con voi, để xin ngài tha thứ. Trên đường đi, cậu bước xuống từ con voi và đi bộ. Khi đến gần chỗ ở của vị Pacceka Buddha, cậu giải tán các người hầu của mình và đi tiếp một mình. Cậu nhận thấy tịnh thất của vị Pacceka Buddha trống rỗng, và, ngồi xuống, phát triển tuệ quán và trở thành một vị Pacceka Buddha. Khi các người hầu của cậu đến tìm cậu, ngài đã tuyên bố về sự chứng đắc của mình.
+
+Bài kệ của ngài được bao gồm trong Khaggavisāṇasutta. Snp.vs.39; Snp­a.i.76ff.
 
 ## Notes

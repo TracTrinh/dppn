@@ -5,7 +5,7 @@ base_headword: "Kolambahālaka"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -32,6 +32,6 @@ Kolambahālaka. A village in Ceylon, where <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kolambahālaka. Một ngôi làng ở Tích Lan, nơi Bhalluka đóng quân (Mhv.xxv.80; cũng xem Mhv.Trs.176, n.2). Nó có lẽ đồng nhất với Kolambālaka (Mhv.xxxiii.42), trong trường hợp đó nó nằm gần Titthārāma, ở khu vực lân cận của cổng phía bắc của Anurādhapura. Ngoài ra còn có một tu viện tên là Kolambahālaka do Sūratissa thành lập, và được cho là ở gần Raheraka (Mhv.xxi.5). *Pariveṇa* Kolambahālaka từng là nơi ở của vị tỳ-kheo Dāṭhāvedhaka. Mhv­ṭ.176.
 
 ## Notes

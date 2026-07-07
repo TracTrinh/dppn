@@ -5,7 +5,7 @@ base_headword: "Kaṇḍuveṭṭi"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kaṇḍuveṭṭi. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇḍuveṭṭi. Một thủ lĩnh Damiḷa và là vương hầu chư hầu của Nam Ấn Độ, đồng minh của Kulasekhara. Cv.lxxvii.79.
 
 ## Notes

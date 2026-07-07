@@ -5,7 +5,7 @@ base_headword: "Sugandha"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -36,6 +36,10 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sugandha 01. Sugandha Thera. Ông thuộc một gia đình giàu có ở Sāvatthī. Trong quá khứ, ông đã bôi hương phòng Gandhakuṭi của Kassapa Buddha bằng một loại bột nhão trầm hương đắt tiền và đã mong ước rằng mình có thể được tái sinh với một cơ thể tỏa hương thơm: do đó, vào ngày ông chào đời, và mẹ ông trong khi mang thai ông, đã làm cho ngôi nhà tràn ngập hương thơm vì vậy mà ông có tên này. Khi lớn lên, ông nghe Mahā Sela Thera thuyết pháp và gia nhập Tăng đoàn, đạt được quả vị *Arahant* trong vòng bảy ngày.
+
+Trong thời của Tissa Buddha ông là một người thợ săn. Tissa Buddha đã nhìn thấy ông, và, vì lòng bi mẫn đối với ông, đã để lại dấu chân của mình ở nơi người thợ săn có thể nhìn thấy nó. Người thợ săn nhận ra dấu chân đó là của một Bậc Vĩ Nhân và đã dâng cúng lên đó những bông hoa *karaṇḍaka* (Thag.vs.24; Thag­a.i.80f).
+
+Ông có lẽ đồng nhất với Karaṇḍapupphiya Thera của Apadāna. Ap.ii.434; các bài kệ tương tự xuất hiện tại Ap.ii.383; cf. Thag­a.i.270; i.405, nơi chúng được tìm thấy dưới tên Subhūti.
 
 ## Notes

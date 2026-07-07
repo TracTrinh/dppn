@@ -5,7 +5,7 @@ base_headword: "Pañcasattatimandira"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Pañcasattatimandira. A building erected in <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcasattatimandira. Một tòa nhà được Parakkamabāhu I dựng lên ở Pulatthipura để “tiếp nhận nước phép và sợi chỉ phép do các tu sĩ áo vàng trao cho ông” (Cv.lxxiii.73). Geiger gợi ý rằng tòa nhà này được sử dụng cho các nghi lễ *paritta*. Cv.Trs.ii.9, n.2.
 
 ## Notes

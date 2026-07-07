@@ -5,7 +5,7 @@ base_headword: "Ketumatī"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -30,6 +30,6 @@ Ketumatī 01. The future name of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ketumatī 01. Tên gọi trong tương lai của Bārāṇasī. Nó sẽ đứng đầu tám mươi tư ngàn thị trấn, là kinh đô của vị Cakkavatti Saṅkha và là nơi sinh của Đức Phật Metteyya. DN.iii.75f; Ja.vi.594; Anāgatavaṁsa vv.8, 30; theo v.8 thì nó giống với Kusāvatī.
 
 ## Notes

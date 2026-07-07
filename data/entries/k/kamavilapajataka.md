@@ -5,7 +5,7 @@ base_headword: "Kāmavilāpajātaka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -28,6 +28,6 @@ Kāmavilāpajātaka (Ja 297). The story is similar to that of the <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāmavilāpajātaka (Ja 297). Câu chuyện tương tự như Puppharattajātaka (*xem bài này*). Khi người đàn ông đứng bị đóng cọc, anh ta ngước nhìn lên, và thấy một con quạ bay qua không trung, đã gọi nó và gửi một lời nhắn cho vợ mình, báo cho cô ấy biết nơi những tài sản của anh ta được cất giấu và bảo cô ấy hãy thọ hưởng chúng (Ja.ii.443f; so sánh Số 34 và 216). Trong phần giới thiệu của Jātaka, người ta nói rằng câu chuyện hiện tại (*paccuppanna-vatthu*) được đưa ra trong Puppharattajātaka và câu chuyện quá khứ (*atīta-vatthu*) trong Indriyajātaka. Dường như có một lỗi ở đây, vì câu chuyện đầu tiên của Indriyajātaka (Ja.iii.461ff) (trừ khi một câu chuyện khác được nói đến) không có điểm tương đồng nào với Kāmavilāpajātaka.
 
 ## Notes

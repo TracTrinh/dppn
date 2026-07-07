@@ -5,7 +5,7 @@ base_headword: "Sumana"
 disambiguator: "04"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Sumana 04. A pupil of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumana 04. Một học trò của Anuruddha. Ông là người đại diện cho các tỳ-kheo đến từ Pāveyyaka tại Cuộc Kết Tập Lần Thứ Hai. Vāsabhagāmi là đồng nghiệp của ông. Xem thêm Sumana (8). Mhv.iv.49, 58; Dpv.iv.48; v.24; Vin.ii.305, v.v...
 
 ## Notes

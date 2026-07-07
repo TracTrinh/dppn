@@ -5,7 +5,7 @@ base_headword: "Parantapa"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Parantapa 01. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parantapa 01. Vua của Kosambī và là cha của Udena. Dhp­a.i.164.
 
 ## Notes

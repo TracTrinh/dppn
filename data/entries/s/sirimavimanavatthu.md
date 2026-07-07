@@ -5,7 +5,7 @@ base_headword: "Sirimāvimānavatthu"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sirimāvimānavatthu. The story of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirimāvimānavatthu. Câu chuyện về cái chết của Sirimā và những sự kiện tiếp sau. Vv.i.16; Vv-a.67ff.
 
 ## Notes

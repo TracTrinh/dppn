@@ -5,7 +5,7 @@ base_headword: "Sūcidāyaka Thera"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Sūcidāyaka Thera. An *Arahant*. In a previous birth he had given a needle to <
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sūcidāyaka Thera. Một vị *Arahant*. Trong một kiếp quá khứ ngài đã cúng dường một cây kim cho Sumedha Buddha. Ngài từng là vua bốn lần, dưới danh hiệu Dīpādhipati. Ap.i.122.
 
 ## Notes

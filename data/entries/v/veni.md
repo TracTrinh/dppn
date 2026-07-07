@@ -5,7 +5,7 @@ base_headword: "Veṇī"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Veṇī. A she-jackal, wife of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Veṇī. Một con chó rừng cái, vợ của Pūtimaṁsa. Xem Putimaṁsajātaka (Ja 437).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Phussā"
 disambiguator: ""
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -25,6 +25,6 @@ Phussā. One of the two chief women disciples of <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phussā. Một trong hai nữ đệ tử thinh văn hàng đầu của Tissa Buddha. Ja.i.40; Bv.xviii. 22.
 
 ## Notes

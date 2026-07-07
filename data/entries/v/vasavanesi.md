@@ -5,7 +5,7 @@ base_headword: "Vāsavanesī"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vāsavanesī. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một nhóm chư thiên, hiện diện tại buổi thuyết Mahā Samayasutta. DN.ii.260.
 
 ## Notes

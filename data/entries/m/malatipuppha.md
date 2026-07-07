@@ -5,7 +5,7 @@ base_headword: "Mālatīpuppha"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Mālatīpuppha. A sluice gate of the <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mālatīpuppha. Một cửa cống của hồ Parakkamasamudda, từ đó Kênh Nīlavāhinī chảy ra. Cv.lxxix.42.
 
 ## Notes

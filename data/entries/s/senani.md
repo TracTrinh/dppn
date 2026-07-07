@@ -5,7 +5,7 @@ base_headword: "Senānī"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Senānī. A wealthy landowner of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Senānī. Một điền chủ giàu có ở Senānīnigama; ông là cha của Sujātā. Ja.i.68; Bv­a.238.
 
 ## Notes

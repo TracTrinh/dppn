@@ -5,7 +5,7 @@ base_headword: "Līnatthappakāsinī"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -27,6 +27,6 @@ Līnatthappakāsinī, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Līnatthappakāsinī, Līnatthappakāsanā hay Līnatthavaṇṇanā. Một bộ *ṭīkā* về ba *Nikāya* đầu tiên. Chúng được quy cho Dhammapāla. Gv.60, 69; cũng PLC. 192.
 
 ## Notes

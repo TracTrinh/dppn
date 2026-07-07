@@ -5,7 +5,7 @@ base_headword: "Taṇhāsutta"
 disambiguator: "01"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Taṇhāsutta 01. On the one hundred and eight thoughts of craving – thirty-si
 
 ## Vietnamese translation
 
-Chưa dịch.
+Taṇhāsutta 01. Bàn về một trăm lẻ tám tư tưởng của ái dục – mỗi thời quá khứ, hiện tại, và vị lai có ba mươi sáu tư tưởng – giống như một tấm lưới, nó giăng bẫy con người, bám chặt lấy con người, v.v. AN.ii.211f.
 
 ## Notes

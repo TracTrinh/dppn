@@ -5,7 +5,7 @@ base_headword: "Kharaputtajātaka"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -35,6 +35,10 @@ One of the verses in the <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kharaputtajātaka (Ja 386). Ngày xưa, Senaka, vua xứ Benares, đã cứu một vua Nāga khỏi bị những cậu bé trong làng đánh đến chết, và vị Nāga để trả ơn đã tặng vua nhiều món quà, bao gồm một thiếu nữ Nāga để hầu hạ ngài, cùng một câu thần chú giúp ngài có thể tìm ra cô nếu cô rời khỏi tầm mắt ngài. Một ngày nọ, vua cùng cô đi đến công viên, và ở đó Senaka phát hiện cô đang ân ái với một con rắn nước nên đã đánh cô bằng một cây tre. Cô đi đến cõi Nāga và phàn nàn rằng mình đã bị ngược đãi. Vua Nāga sai bốn tùy tùng đi giết Senaka, nhưng họ tình cờ nghe được vua kể lại câu chuyện cho hoàng hậu nghe, bèn báo cáo sự việc lại cho vua Nāga. Vị này thú nhận lỗi lầm của mình với Senaka, và để chuộc lỗi, đã dạy cho ngài một câu thần chú giúp ngài hiểu được mọi âm thanh. Senaka được dặn rằng nếu ngài dạy cho bất kỳ ai khác câu thần chú thì ngài sẽ bị chết cháy. Hoàng hậu của Senaka phát hiện ngài có câu thần chú, và không ngừng cầu xin ngài dạy nó cho bà, dù bà biết rằng làm vậy ngài sẽ chuốc lấy cái chết. Không thể cưỡng lại bà, Senaka đi cùng hoàng hậu đến công viên để dạy bà thần chú và bước vào ngọn lửa. Ngai vàng của Sakka nóng lên, và ngài cùng vợ biến thành những con dê chờ đợi vị vua, và khi cỗ xe của ngài đến gần, chúng bắt đầu ân ái. Những con ngựa kéo xe bị sốc và mắng bầy dê vì sự ngu ngốc của chúng, nhưng bầy dê đáp lại rằng lũ ngựa thật ngu ngốc khi để mình bị buộc vào một cỗ xe chở một vị vua ngu ngốc như Senaka. Nhà vua, nghe được cuộc trò chuyện của chúng, bước xuống xe và sai hoàng hậu đi tiếp, ngài hỏi Sakka làm cách nào để ngài có thể tránh được lời hứa của mình. Sakka gợi ý rằng hãy nói với hoàng hậu là bà sẽ phải chịu một trăm roi như một phần của nghi lễ nhập môn. Hoàng hậu đồng ý với điều này, nhưng khi trận đòn bắt đầu, bà muốn đổi ý, nhưng nhà vua, nhớ lại sự ích kỷ của bà, đã cho tiến hành trận đòn.
+
+Câu chuyện được kể liên quan đến một vị tỳ-kheo bị cám dỗ bởi người vợ cũ của mình. Senaka được đồng nhất với vị tỳ-kheo; Sāriputta là con ngựa đầu đàn và Sakka là Bodhisatta (Ja.iii.275ff).
+
+Một trong những bài kệ của Jātaka cũng xuất hiện trong Mahā Sutasomajātaka. Ja.v.498.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kapālanāga"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kapālanāga. A *vihāra* built by <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kapālanāga. Một *vihāra* do Dāṭhā, vợ của Aggabodhi II, xây dựng. Cv.xlii.65.
 
 ## Notes

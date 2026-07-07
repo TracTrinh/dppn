@@ -5,7 +5,7 @@ base_headword: "Sirisaṅghabodhi"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -27,6 +27,6 @@ Sirisaṅghabodhi 02. The surname of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirisaṅghabodhi 02. Họ hiệu của Aggabodhi III., (Cv.xliv.83) của Aggabodhi IV., (Cv.xlvi.1) và Vijayabāhu I. (Cv.lix.10).
 
 ## Notes

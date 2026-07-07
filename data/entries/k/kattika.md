@@ -5,7 +5,7 @@ base_headword: "Kattikā"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -28,6 +28,10 @@ The full moon day of the month was observed as a festival and great rejoicings w
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kattikā. Tên của một chòm sao và cũng là một tháng (tháng Mười đến tháng Mười Một), trong thời gian đó ngày trăng tròn ở gần chòm sao Pleiades (Kattikā).
+
+Đây là tháng cuối cùng của mùa mưa (Xem ví dụ, Netti.143. Để biết chi tiết xem PTSPED. s.v.).
+
+Ngày trăng tròn của tháng này được coi là một ngày lễ hội và những cuộc vui lớn đã được tổ chức, đặc biệt là vào ban đêm, ví dụ, Ja.i.433; 499, 508.
 
 ## Notes

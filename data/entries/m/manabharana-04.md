@@ -5,7 +5,7 @@ base_headword: "Māṇābharaṇa"
 disambiguator: "04"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Māṇābharaṇa 04. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māṇābharaṇa 04. Một tù trưởng người Damiḷa, đồng minh của Kulasekhara. Cv.lxxvi.146.
 
 ## Notes

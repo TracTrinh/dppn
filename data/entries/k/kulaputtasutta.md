@@ -5,7 +5,7 @@ base_headword: "Kulaputtasutta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -23,6 +23,6 @@ Kulaputtasutta. Clansmen who go forth into homelessness do so in order to gain f
 
 ## Vietnamese translation
 
-Chưa dịch.
+Những người thiện nam tử xuất gia sống không nhà làm như vậy là để thấu hiểu trọn vẹn Bốn sự thật cao quý. Điều này luôn đúng trong mọi thời đại. SN.v.415.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Summa Thera"
 disambiguator: "03"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -28,6 +28,6 @@ Mahā Summa Thera 03. Pupil of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Summa Thera 03. Đệ tử của Upatissa. Sau khi đọc Vinayapiṭaka chín lần, ngài đã đến sống ở bên kia con sông (Mahā Vālukagaṅgā) (Vin-a.i.263). Các quan điểm của ngài được trích dẫn trong Samantapāsādikā, ví dụ: ii.368; iii.535, 538, 556, 588, 596, 609, 644, 646, 647, 651, 683, 698, 715, 719, v.v.
 
 ## Notes

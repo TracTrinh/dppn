@@ -5,7 +5,7 @@ base_headword: "Suguttā"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Suguttā. One of the chief lay women patrons of <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suguttā. Một trong những nữ cư sĩ bảo trợ chính của Sikhī Buddha. Bv.xxi.22.
 
 ## Notes

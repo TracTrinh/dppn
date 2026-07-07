@@ -5,7 +5,7 @@ base_headword: "Kesakambalasutta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,8 @@ Kesakambalasutta. Just as the hair blanket is reckoned the meanest and lowest of
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kesakambalasutta. Giống như chiếc áo dệt bằng tóc được coi là thấp kém nhất và tồi tàn nhất trong tất cả các loại y phục dệt, thì trong tất cả các lý thuyết do các đạo sĩ đưa ra, lý thuyết của Makkhali cũng là tồi tệ nhất.
+
+Makkhali tuyên bố rằng không hề có việc thực hiện một hành động, không có gì được thực hiện và không có nỗ lực nào để thực hiện việc đó. AN.i.286f.
 
 ## Notes

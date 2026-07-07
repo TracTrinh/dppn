@@ -5,7 +5,7 @@ base_headword: "Laṭukikajātaka"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -33,6 +33,8 @@ The story was told in reference to <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Laṭukikajātaka (Ja 357). Một con chim cút một lần đẻ trứng trong bãi ăn của đàn voi. Khi lũ con chim nở ra, Bodhisatta, thủ lĩnh của đàn voi, đi qua đó cùng đàn và, theo yêu cầu của chim mẹ, cẩn thận tránh lũ con chim. Nhưng một con voi hung hãn đi sau, dù được cảnh báo theo cách tương tự, vẫn đạp lên tổ và làm bẩn nó. Con chim cút thề báo thù, và nhờ một con quạ móc mắt con voi và một con ruồi đẻ trứng vào đó, và khi con voi đang đau đớn tìm kiếm nước, bà thuyết phục một con ếch kêu trên đỉnh núi để dẫn con voi đi vào vách đá và nó rơi xuống chết.
+
+Câu chuyện được kể liên quan đến Devadatta, người được đồng nhất với con voi hung hãn (Ja.iii.174-77). Trong các bản tường thuật (xem Rohiṇī) về cuộc tranh chấp giữa người Sākyan và người Koḷiyan, Jātaka này được nói là một trong những câu chuyện mà Đức Phật đã thuyết vào dịp đó, chỉ ra rằng ngay cả một con vật nhỏ bé như con chim cút đôi khi cũng có thể gây ra cái chết của một con voi. Có lẽ câu chuyện đã được kể vào nhiều dịp khác nhau. Xem thêm dưới đây, Laṭukikopamasutta. Xem Dhp­a.i.46, nơi nó được kể cho các tỳ-kheo Kosambī để chỉ ra nguy hiểm của việc cãi vã.
 
 ## Notes

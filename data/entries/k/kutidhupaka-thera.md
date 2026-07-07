@@ -5,7 +5,7 @@ base_headword: "Kuṭidhūpaka Thera"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kuṭidhūpaka Thera. An *Arahant*. In a past birth he looked after the cell of 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một *Arahant*. Trong một tiền kiếp, ngài đã chăm sóc phòng của Siddhattha Buddha và thỉnh thoảng đốt hương trong đó. Ap.i.223f.
 
 ## Notes

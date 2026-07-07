@@ -5,7 +5,7 @@ base_headword: "Kalārasutta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -28,6 +28,6 @@ Kalārasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kalārasutta. Kalārakhattiya kể cho Sāriputta nghe về sự ly khai của Moliya Phagguna. Sāriputta nói rằng Moliya Phagguna đã không tìm thấy sự thỏa mãn trong Pháp, và đảm bảo với Kalāra rằng bản thân tôn giả không có chút nghi ngờ nào về cả quá khứ lẫn tương lai. Kalāra thuật lại cuộc trò chuyện này cho Đức Phật, Ngài cho gọi Sāriputta đến và hỏi tôn giả một loạt câu hỏi. Đức Phật khen ngợi các câu trả lời của tôn giả, nhưng sau đó Sāriputta thú nhận với các đồng đạo của mình rằng tôn giả đã cảm thấy lo lắng về câu hỏi đầu tiên, nhưng khi Đức Phật chấp nhận câu trả lời của tôn giả cho câu hỏi đó thì tôn giả đã khôi phục lại sự tự tin của mình. SN.ii.50ff.
 
 ## Notes

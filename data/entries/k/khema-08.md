@@ -5,7 +5,7 @@ base_headword: "Khema"
 disambiguator: "08"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -27,6 +27,6 @@ Khema 08. A lake, three *gāvutas* in extent, to the north of <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khema 08. Một hồ nước, rộng ba *gāvuta*, ở phía bắc Benares. Nó được xây dựng bởi vua Seyya (*v.l.* Saṁyama). Để biết chi tiết, xem Mahā Haṁsajātaka. Ja.v.356; Ja.iv.424.
 
 ## Notes

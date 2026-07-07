@@ -5,7 +5,7 @@ base_headword: "Kuṇḍalī"
 disambiguator: "04"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kuṇḍalī 04. A Brahmin, importer of foreign goods. He was a friend of <span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một người Bà-la-môn, chuyên nhập khẩu hàng hóa nước ngoài. Ông là bạn của Dighābhaya và sống ở Dvāramaṇḍala. Mhv.xxiii.24.
 
 ## Notes

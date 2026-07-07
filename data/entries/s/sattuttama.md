@@ -5,7 +5,7 @@ base_headword: "Sattuttama"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Sattuttama. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sattuttama. Một Cakkavatti của chín kappa trước, một tiền kiếp của Trưởng lão Kakkārupupphiya (Jenta). Ap.i.177; Thag­a.i.220.
 
 ## Notes

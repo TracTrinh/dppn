@@ -5,7 +5,7 @@ base_headword: "Kiṇṇarā"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,6 @@ Kiṇṇarā. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kiṇṇarā. Vợ của Kaṇḍari, vua xứ Benares. Xem Kandarījātaka (Ja 341).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kathiṇakkhandha"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kathiṇakkhandha. The seventh chapter of the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kathiṇakkhandha. Chương thứ bảy thuộc Mahā Vagga của Vinayapiṭaka. Vin.i.253-67.
 
 ## Notes

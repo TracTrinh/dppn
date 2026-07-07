@@ -5,7 +5,7 @@ base_headword: "Vanavāsītissa"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -41,6 +41,12 @@ On the way back to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="18"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vanavāsītissa (Vanavāsikatissa). Một vị tỳ-kheo. Trong tiền kiếp của mình, ông là vị Bà-la-môn Mahā Sena (*q.v.*). Trong thời gian mang thai, mẹ ông đã mời Sāriputta cùng năm trăm vị tỳ-kheo đến nhà bà và cúng dường họ cháo sữa. Bản thân bà mặc áo choàng màu vàng và ăn phần cơm mà các tỳ-kheo để lại. Vào ngày đặt tên của mình, ông đã tặng Sāriputta chiếc chăn của mình. Ông được gọi là Tissa theo tên của Sāriputta, người có tên riêng là Upatissa. Lên bảy tuổi, Tissa gia nhập Tăng đoàn và cha mẹ ông đã tổ chức một lễ hội kéo dài trong bảy ngày, phân phát cháo và mật ong cho các tỳ-kheo. Vào ngày thứ tám, khi Tissa đi khất thực ở Sāvatthī, ông đã nhận được một ngàn bát thức ăn và một ngàn mảnh vải, tất cả những thứ đó ông đều cúng dường lại cho các tỳ-kheo. Việc này đã mang lại cho ông cái tên Piṇḍapātadāyaka. Một ngày nọ, trong mùa lạnh, ông nhìn thấy các tỳ-kheo đang sưởi ấm trước những đống lửa và phát hiện ra rằng họ không có chăn, thế là cùng với một ngàn vị tỳ-kheo, ông đi vào thành phố. Bất cứ nơi nào ông đi qua, mọi người đều tặng chăn cho ông; một người chủ cửa hàng đã giấu đi hai chiếc chăn rất đắt tiền của mình, nhưng khi nhìn thấy Tissa, ông ta đã tự nguyện hiến tặng chúng. Tissa nhờ vậy đã có được một ngàn chiếc chăn và sau đó được gọi là Kambaladāyaka.
+
+Sau khi nhận thấy rằng, tại Jetavana, những người họ hàng trẻ tuổi của ông thường xuyên đến thăm ông, ông đã xin một đề mục thiền định và đi vào rừng với khoảng cách hai mươi do-tuần (leagues) tính từ Sāvatthī. Theo lời thỉnh cầu của những cư dân ở ngôi làng gần đó, ông đã trải qua mùa an cư trong am thất giữa rừng, đi vào làng để khất thực. Tại đó, vào cuối tháng thứ hai, ông đắc quả vị *Arahant*. Vì vô cùng yêu thích khu rừng, nên ông được đặt tên là Vanavāsī. Khi kết thúc kỳ an cư (*vassa*), tất cả các đệ tử hàng đầu của đức Phật, cùng với đoàn tùy tùng gồm bốn mươi nghìn tỳ-kheo, đã đến thăm Tissa tại am thất của ông, họ đến nơi vào buổi chiều tối. Dân làng, nhận ra Sāriputta, liền thỉnh cầu ông thuyết giảng Pháp, nói rằng Tissa, thầy của họ, chỉ biết có hai câu “Cầu mong ngài được hạnh phúc, cầu mong ngài được giải thoát khỏi khổ đau!” những câu mà ông thường lặp lại mỗi khi có ai đó cúng dường cho ông. Bấy giờ Sāriputta yêu cầu ông giải thích ý nghĩa của hai câu nói đó, và vị sa-di đã thuyết giảng cho đến tận lúc mặt trời mọc, tóm tắt toàn bộ giáo lý của đức Phật “như một cơn giông trút mưa không ngớt xuống bốn đại châu.”
+
+Vào cuối bài Pháp thoại, những người ủng hộ Tissa chia thành hai phe, một số người cảm thấy bị xúc phạm vì ông đã không thuyết giảng cho họ nghe trước đó, trong khi những người khác thì kinh ngạc trước sự thánh thiện và sự thiện xảo của ông. Đức Phật, nhận biết được sự bất đồng này, đã tự mình đến ngôi làng. Dân làng đã cúng dường thức ăn cho đức Phật và các tỳ-kheo, và để đáp lại, đức Phật đã nói cho họ biết họ may mắn đến nhường nào khi nhờ có Tissa mà họ đã có thể diện kiến ngài cùng các đệ tử hàng đầu của ngài. Lúc bấy giờ tất cả bọn họ đều cảm thấy hài lòng.
+
+Trên đường trở về Sāvatthī, Tissa đi dạo cùng đức Phật và chỉ cho ngài xem những địa điểm tuyệt đẹp khác nhau. Đức Phật đã thuyết bài Upasāḷhakajātaka (Ja 166) để cho thấy rằng không có nơi nào trên trái đất mà con người chưa từng chết đi ở một thời điểm nào đó. Để trả lời cho một câu hỏi của đức Phật, Tissa nói rằng ông chưa bao giờ cảm thấy sợ hãi trước các loài động vật trong rừng, mà chỉ càng thấy yêu khu rừng hơn khi nghe thấy âm thanh của chúng. Sau đó, ông đọc năm mươi bài kệ ca ngợi cuộc sống nơi hoang dã. Khi đến vùng ven của khu rừng, ông bái biệt đức Phật cùng Sāriputta và trở về sống trong am thất giữa rừng của mình. Dhp­a.ii.84-102. Chuyến viếng thăm của đức Phật cũng được thuật lại trong DN­a.i.240 và MN­a.i.357, mặc dù các chi tiết ở đó có phần khác biệt. Ở đó, đức Phật đi cùng với Sāriputta và các vị đại đệ tử cùng với hai mươi ngàn vị *Arahant*.
 
 ## Notes

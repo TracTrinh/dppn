@@ -5,7 +5,7 @@ base_headword: "Parisuddhavagga"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Parisuddhavagga. The thirteenth chapter of the *Dasakanipāta* of the <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parisuddhavagga. Phẩm thứ mười ba của *Dasakanipāta* thuộc Aṅguttaranikāya. AN.v.237-40.
 
 ## Notes

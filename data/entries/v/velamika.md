@@ -5,7 +5,7 @@ base_headword: "Velamikā"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -28,6 +28,6 @@ Velamikā. Chief of the eighty-four thousand women who waited on <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Velamikā. Đứng đầu tám mươi bốn ngàn người phụ nữ hầu hạ Mahā Sudassana, vua của Mahā Sammata. Bà còn được gọi là Khattiyānī. SN.iii.146; nhưng tại DN.ii.187 chánh hậu được gọi là Subhaddā.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Subha"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -39,6 +39,8 @@ Subha’s father was a very rich merchant, chaplain to <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subha 02. Một thanh niên (*māṇava*) tên là Todeyyaputta. Có lần vị này đến yết kiến Đức Phật tại Sāvatthī, và hỏi Ngài nhiều câu hỏi khác nhau. Cuộc trò chuyện này được mô tả trong Subhasutta (*q.v.*). Vào cuối thời pháp, vị ấy đã tuyên bố mình là đệ tử của Đức Phật. Khi đang trên đường từ thành phố trở về, vị ấy gặp Jāṇussoṇī, và khi được hỏi rằng vị ấy nghĩ gì về Đức Phật, vị ấy đã nói về Ngài bằng những lời tán thán cao nhất, nói rằng không ai khác ngoài một người sánh ngang với Gotama mới có thể nói ra những lời tán thán đầy đủ dành cho Ngài (MN.i.196f., 208f.; Jāṇussoṇī gọi vị ấy là Bhāradvāja). Subha được mô tả (MN­a.ii.802; cf. MN.i.202) là con trai của vị Bà-la-môn Todeyya (*q.v.*) ở Tudigāma. Tuy nhiên, ở một nơi khác, lại có một ghi chép khác về sự chuyển hóa của vị này (DN­a.ii.384f.; cf. MN­a.ii.963f., trong đó nói thêm rằng Đức Phật đã chứng minh thân phận của con chó bằng cách để nó chỉ ra nơi mà kho báu của Todeyya đã được chôn cất).
+
+Cha của Subha là một thương nhân rất giàu có, giáo sĩ của Pasenadi, nhưng lại là một người rất keo kiệt. Sau khi chết, ông ta tái sinh làm một con chó ngay trong cùng ngôi nhà đó. Một ngày nọ, khi Đức Phật đang đi khất thực ở Tudigāma gần Sāvatthī, Ngài đến nhà của Subha. Con chó nhìn thấy Đức Phật và sủa, và Đức Phật đã gọi nó là "Todeyya". Con chó bèn chạy vào nhà và nằm trên một chiếc giường, không ai có thể đuổi nó đi. Khi Subha hỏi nguyên nhân của sự huyên náo đó, vị ấy đã được nghe kể lại câu chuyện. Lúc đó vị ấy rất tức giận, nói rằng cha của mình đã được tái sinh ở cõi *Brahmaloka*, và, để bác bỏ Đức Phật, vị ấy đã đến tu viện. Đây là duyên cớ cho bài thuyết pháp Subhasutta. Ngay sau khi Đức Phật viên tịch, khi Ānanda đang ở Sāvatthī, Subha đã phái một thanh niên đến gặp Ānanda, với lời vấn an và một lời thỉnh mời đến nhà mình. Hôm đó Ānanda vừa uống thuốc nên đã không đến. Nhưng ngài đã đến vào ngày hôm sau, cùng với một vị tỳ-kheo xứ Cetiya (Cetaka). Cuộc trò chuyện của họ được ghi lại trong Subhasutta (2) (DN.i.204f). Xem thêm Cūḷa Kammavibhaṅgasutta, bài kinh cũng được thuyết cho Subha.
 
 ## Notes

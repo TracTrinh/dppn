@@ -5,7 +5,7 @@ base_headword: "Tathāgatena vuttasutta"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -33,6 +33,10 @@ At the conclusion of the *Sutta*, news of the establishment of the kingdom of th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tathāgatena vuttasutta. Một bản ghi chép khác (xem Vin.i.10ff) về bài pháp thoại đầu tiên được Đức Phật thuyết giảng, thường được biết đến nhiều hơn dưới tên gọi Dhammaccakkappavattanasutta (*q.v.*).
+
+Vào phần cuối của *Sutta*, tin tức về việc thiết lập vương quốc của Dhamma đã được công bố trên khắp Cakkavāḷa.
+
+Chỉ duy nhất mình Koṇḍañña, trong nhóm Pañcavaggiya, hiểu được ý nghĩa sâu xa của giáo pháp, và được biết đến với tên gọi Aññāta Koṇḍañña (SN.v.420ff; Vin.i.10ff). Theo sau *Sutta* này là một phần lặp lại của chính nó, nhưng với từ ngữ “Tathāgatas” (số nhiều) được dùng để thay thế cho “Tathāgata.” (SN.v.424f).
 
 ## Notes

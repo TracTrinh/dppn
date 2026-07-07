@@ -5,7 +5,7 @@ base_headword: "Kaṅgayara"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -28,6 +28,6 @@ Kaṅgayara. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṅgayara. Một thủ lĩnh Damiḷa, đồng minh của Kulasekhara; ông đã bị Laṅkāpura, vị tướng của Parakkamabāhu I, đánh bại. Cv.lxxvi.140, 280, 318; lxxvii.15.
 
 ## Notes

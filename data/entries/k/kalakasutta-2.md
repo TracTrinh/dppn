@@ -5,7 +5,7 @@ base_headword: "Kāḷakasutta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -28,6 +28,8 @@ It deals with ten dispositions which if present in a monk prevent his being love
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷakasutta (Kāḷakabhikkhusutta). Một bài thuyết giảng được Đức Phật đưa ra (*Kāḷakaṁ bhikkhuṁ ārabbha* – xem Kāḷaka 4).
+
+Nó đề cập đến mười khuynh hướng mà nếu có mặt ở một vị tỳ-kheo sẽ ngăn cản vị ấy được yêu mến hay tôn trọng, và ngăn cản vị ấy có khả năng thiền định hay sống một đời sống khổ hạnh và cô độc, và đề cập đến mười khuynh hướng ngược lại. AN.v.164ff. Về tên gọi, xem AN.v.176, n.7; xem thêm GS.v.110, n.1.
 
 ## Notes

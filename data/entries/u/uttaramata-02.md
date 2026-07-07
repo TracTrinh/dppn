@@ -5,7 +5,7 @@ base_headword: "Uttaramātā"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -30,6 +30,8 @@ Little <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttaramātā 02. Một *Yakkhinī*, mẹ của Punabbasu và Uttarā. Một lần, khi đi qua Jetavana vào lúc hoàng hôn để tìm thức ăn, với đứa con gái trên hông và dắt tay con trai, bà nhìn thấy đại chúng đang chăm chú nghe Đức Phật thuyết pháp. Bà cũng vậy, với hy vọng nhận được lợi ích, đã im lặng lắng nghe với sự chuyên chú và nhiệt tâm lớn, khẽ dỗ cho các con im lặng. Đức Phật thuyết pháp theo cách mà cả bà lẫn con trai đều có thể hiểu được, và cuối bài pháp, cả hai đều trở thành *Sotāpanna*. Bà lập tức thoát khỏi trạng thái Yakkha đau khổ và đạt được phúc lạc cõi trời, rồi an cư trong một cái cây gần Gandhakuṭi của Đức Phật.
+
+Cô bé Uttarā còn quá nhỏ để nhận ra Chân lý. SN.i.210; SN­a.i.238-40; DN­a.ii.500f.
 
 ## Notes

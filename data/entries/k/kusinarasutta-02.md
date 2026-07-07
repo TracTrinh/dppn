@@ -5,7 +5,7 @@ base_headword: "Kusinārāsutta"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kusinārāsutta 02. Also preached at <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cũng được thuyết giảng tại Baliharaṇa. Một vị tỳ-kheo muốn khiển trách một vị tỳ-kheo khác, nên xem xét năm điều đối với bản thân - liệu vị ấy có hành vi vô phương trách cứ về thân và khẩu hay không; liệu vị ấy có thực sự mong muốn điều tốt đẹp cho đồng đạo của mình và không bị ảnh hưởng bởi lòng đố kỵ hay không; liệu vị ấy có học hỏi giáo pháp hay không; liệu các *Pātimokkha* của vị ấy có hoàn hảo hay không. Vị ấy cũng nên xem xét liệu lời khiển trách của mình có đúng lúc, được biện minh bởi sự thật, được đưa ra một cách nhẹ nhàng, vì lợi ích của người kia và xuất phát từ lòng từ bi đối với người đó hay không (AN.v.79f).
 
 ## Notes

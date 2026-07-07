@@ -5,7 +5,7 @@ base_headword: "Silāmegha"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Silāmegha 02. A surname of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Silāmegha 02. Một biệt danh của Aggabodhi VI. (Cv.xlviii. 42, 76, 90) và của Sena I. (Cv.l.43).
 
 ## Notes

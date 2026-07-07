@@ -5,7 +5,7 @@ base_headword: "Revata"
 disambiguator: "07"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Revata 07. An Elder of Ceylon. He was a *Majjhimabhāṇaka*, and, once, going t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Revata 07. Một vị Trưởng lão ở Tích Lan. Ngài là một Majjhimabhāṇaka, và, một lần, khi đến gặp Revata (8), người sống ở xứ Malaya của Tích Lan, ngài xin một đề mục thiền tập. Vị kia, biết rằng người hỏi là một Majjhimabhāṇaka, đã nói với ngài về những khó khăn mà một người như vậy gặp phải trong khi thiền tập. Ngài liền đồng ý sẽ không tụng đọc Majjhima cho đến khi việc thiền tập của mình có kết quả. Ngài được trao cho một đề mục thiền, và mười chín năm sau chứng quả *Arahant*. Nhưng khi, vào cuối thời gian đó, ngài lại bắt đầu tụng đọc Majjhima, ngài không hề sai một phụ âm nào. Vsm.i.95.
 
 ## Notes

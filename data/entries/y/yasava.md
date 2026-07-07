@@ -5,7 +5,7 @@ base_headword: "Yasava"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -24,6 +24,6 @@ Yasava. One of the chief lay supporters of <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yasava. Một trong những nam thí chủ chính của Sumedha Buddha. Bv.xii.25.
 
 ## Notes

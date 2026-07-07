@@ -5,7 +5,7 @@ base_headword: "Sulasājātaka"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -33,6 +33,8 @@ The story was related in reference to <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sulasājātaka (Ja 419). Thuở xưa ở Benares có một cô kỹ nữ sinh sống, tên là Sulasā, giá của cô là một ngàn mỗi đêm. Ở Benares cũng có một tên cướp sinh sống, tên là Sattaka. Một ngày nọ anh ta bị những người của nhà vua bắt giữ, và, trong lúc đang bị dẫn đi hành quyết, Sulasā đã nhìn thấy anh ta và đem lòng yêu anh ta. Cô đã hối lộ cho người lính canh trưởng để giải thoát cho anh ta và sống cùng với anh ta. Sau một vài tháng Sattaka, cảm thấy mệt mỏi với cô, và, muốn giết cô, đã đưa cô lên một đỉnh núi vắng vẻ, nói rằng anh ta đã lập một lời thề với vị thần cư ngụ ở đó. Khi Sulasā phát hiện ra ý định thực sự của anh ta, cô đã xin phép được bày tỏ sự thành kính với anh ta trước khi chết, và, khi cô đi vòng quanh anh ta, cô đã quan sát cơ hội của mình và đẩy anh ta xuống vách đá, nơi anh ta bị nghiền nát cho đến chết.
+
+Câu chuyện được kể liên quan đến Puññalakkhaṇā, một nữ tỳ của vợ Anāthapiṇḍika. Cô gái đã mượn một viên ngọc quý giá thuộc về nữ chủ nhân của mình và đi đến khu vườn thượng uyển. Tại đó một tên trộm đã trở nên thân thiết với cô và lên kế hoạch giết cô. Nhưng cô, đọc được suy nghĩ của hắn, đã yêu cầu hắn múc một ít nước cho cô từ một cái giếng gần đó, và khi hắn làm như vậy, cô đã đẩy hắn xuống giếng và ném một tảng đá xuống đầu hắn. Các nhân vật trong hai câu chuyện đều giống hệt nhau. Ja.iii.435-9; so sánh với câu chuyện của Bhaddā Kuṇḍalakesā và cả Kaṇaverajātaka (Ja 318).
 
 ## Notes

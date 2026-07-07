@@ -5,7 +5,7 @@ base_headword: "Upatissa"
 disambiguator: "08"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -28,6 +28,6 @@ Upatissa 08. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upatissa 08. Cha của Sāriputta và là thủ lĩnh của Nālaka hay Upatissagāma (*q.v.*). Tên thật của ông là Vaṅganta (*q.v.*), Upatissa, rõ ràng, là tên gia tộc của ông (Snp-a.i.326).
 
 ## Notes

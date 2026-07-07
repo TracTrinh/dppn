@@ -5,7 +5,7 @@ base_headword: "Phaladāyaka Thera"
 disambiguator: "04"
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -26,6 +26,6 @@ Phaladāyaka Thera 04. An *Arahant*. Ninety-four *kappas* ago <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phaladāyaka Thera 04. Một *Arahant*. Chín mươi tư *kappa* trước Đức Phật Siddhattha đã đến gặp ngài để khất thực sau khi vừa xuất khỏi *samādhi*, và ngài đã dâng cúng cho Đức Phật nhiều loại trái cây khác nhau. Năm mươi bảy *kappa* trước ngài là một vị vua tên là Ekajjha. Ap.i.239.
 
 ## Notes

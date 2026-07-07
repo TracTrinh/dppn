@@ -5,7 +5,7 @@ base_headword: "Mahā Pabbata"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -26,6 +26,6 @@ Mahā Pabbata 02. A mountain in <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Pabbata 02. Một ngọn núi ở Rohaṇa tại Tích Lan, được đề cập trong câu chuyện về các chiến dịch của Parakkamabāhu I. Cv.lxxv.158.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kumbhapura"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kumbhapura. The residence of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nơi ở của Kisavaccha (MN­a.ii.599); rõ ràng đây là một tên gọi khác của Kumbhavatī (*q.v.*).
 
 ## Notes

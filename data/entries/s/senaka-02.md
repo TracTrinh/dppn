@@ -5,7 +5,7 @@ base_headword: "Senaka"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Senaka 02. The Bodhisatta, born as a Brahmin; he was the minister of <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Senaka 02. Bodhisatta, sinh ra làm một Bà-la-môn; ông là đại thần của Janaka, vua xứ Benares. Xem Sattubhastajātaka (Ja 402).
 
 ## Notes

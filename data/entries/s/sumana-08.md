@@ -5,7 +5,7 @@ base_headword: "Sumana"
 disambiguator: "08"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -31,6 +31,8 @@ Thirty-one *kappas* ago he was a garland-maker and offered jasmine-flowers to <s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumana 08. Sumana Thera Xem Cūḷa Sumana (3). Ông có lẽ được đồng nhất với Sumana (4), và có thể được đồng nhất với Sumana (7) nếu người chú được nhắc đến liên quan đến người sau là Anuruddha.
+
+Ba mươi mốt *kappa* trước ông là một người kết vòng hoa và đã dâng những bông hoa nhài cho Sikhī Buddha. Hai mươi sáu *kappa* trước ông từng là vua bốn lần, với tên gọi là Mahā Yasa. Thag.vss.429-34; Thag­a.i.457f.
 
 ## Notes

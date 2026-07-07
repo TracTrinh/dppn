@@ -5,7 +5,7 @@ base_headword: "Kumbhīlavānaka"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kumbhīlavānaka, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một con sông ở Tích Lan, hợp lưu với sông Saṅkhavaḍḍhamānaka. Cv.lxviii.32; xem thêm Cv.Trs.i.279, n.4.
 
 ## Notes

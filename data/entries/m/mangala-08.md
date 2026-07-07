@@ -5,7 +5,7 @@ base_headword: "Maṅgala"
 disambiguator: "08"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -24,6 +24,6 @@ Maṅgala 08. A monk of Pagan, probably of the fourteenth century, author of a g
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṅgala 08. Một vị tăng sĩ ở Pagan, có lẽ thuộc thế kỷ mười bốn, tác giả của một tác phẩm ngữ pháp gọi là Gandhatthi. Bode, 26.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Revatā"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Revatā. A nun of Ceylon, a well-known teacher of the Vinaya. She was a daughter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Revatā. Một vị ni ở Tích Lan, một giảng sư nổi tiếng về Vinaya. Bà là con gái của Somanadeva. Dpv.xviii.29.
 
 ## Notes

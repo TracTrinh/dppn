@@ -5,7 +5,7 @@ base_headword: "Uttarā"
 disambiguator: "11"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uttarā 11. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttarā 11. Vợ của Paduma Buddha trong kiếp sống cư sĩ cuối cùng của ngài. Bv.ix.18.
 
 ## Notes

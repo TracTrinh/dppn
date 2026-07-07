@@ -5,7 +5,7 @@ base_headword: "Siviraṭṭha"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -38,6 +38,10 @@ The country was evidently famous for its cloth, which was called <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Siviraṭṭha. Xứ sở của người Sivi, được nhắc đến nhiều lần trong các Jātaka. Trong các Jātaka Sivi (Ja 499), Ummadantī (Ja 527) và Mahā Ummagga (Ja 546) (Ja.iv.401; v.210; vi.419), Ariṭṭhapura được nêu là kinh đô, trong khi ở Vessantarajātaka (Ja 547, Ja.vi.480), Jetuttara là kinh đô.
+
+Trong Jātaka được nhắc đến sau cùng (ví dụ, p.511), Vessantara đôi khi được gọi là vua của *Siviraṭṭha* và các con của ngài là *Siviputtā* (p.563). Họ của các vị vua xứ này dường như là Sivi (xem Ja.vi.251, nơi Sivi được giải thích là *porāṇakarājā*).
+
+Xứ sở này rõ ràng nổi tiếng về loại vải của mình, được gọi là Siveyyaka (Vin.i.278). Pajjota đã tặng một bộ y bằng chất liệu này cho Jīvaka, như một món quà cho việc chữa bệnh của ông. Những chiếc y này Jīvaka đã dâng cho Đức Phật (Vin.i.280).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vigatānanda"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vigatānanda. A king of twenty-four *kappas* ago, a former birth of <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vigatānanda. Một vị vua của hai mươi bốn *kappa* trước, một tiền kiếp của Ekanandiya Thera. Ap.i.217.
 
 ## Notes

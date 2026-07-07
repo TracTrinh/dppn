@@ -5,7 +5,7 @@ base_headword: "Karaṇḍaka"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,6 @@ Karaṇḍaka 01. A hermitage (*assamapada*) near the <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Karaṇḍaka 01. Một am thất (*assamapada*) gần Himālaya. Bodhisatta, khi sinh ra làm một con voi như được kể trong Mātiposakajātaka (*q.v.*), đã trở về Karaṇḍaka sau cái chết của mẹ ngài. Am thất là nơi cư ngụ của năm trăm vị tu sĩ khổ hạnh, và nhà vua, vì lòng tôn kính đối với Bodhisatta, đã chăm sóc cho họ. Ja.iv.95.
 
 ## Notes

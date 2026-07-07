@@ -5,7 +5,7 @@ base_headword: "Vāseṭṭhī"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -27,6 +27,6 @@ Vāseṭṭhī. A brahminee, wife of King <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một nữ Bà-la-môn, vợ của vị giáo sĩ của Vua Esukī. Bà là mẹ của Hatthipāla (Bodhisatta), và được đồng nhất với Mahā Māyā. Ja.iv.483, 491.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kusalāsutta"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -24,6 +24,6 @@ Kusalāsutta 02. Similar to No.1. The conditions have their root in *yoniso-mana
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tương tự như Số 1. Các điều kiện bắt rễ từ *yoniso-manasikāra*. SN.v.92.
 
 ## Notes

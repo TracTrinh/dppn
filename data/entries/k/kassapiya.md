@@ -5,7 +5,7 @@ base_headword: "Kassapiyā"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -29,6 +29,6 @@ Kassapiyā, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapiyā, Kassapikā. Một nhánh của phái Sabbatthivādī. Nhóm Saṅkantika là một nhánh xuất phát từ phái Kassapiyā (Mhv.v.9; Dpv.v.48; Mbv.96). Bản Chú giải Kathāvatthu (Points of Controversy, p.101) tuyên bố rằng phái Kassapiyā chủ trương rằng quá khứ vẫn tồn tại một phần, giống như hiện tại đang tồn tại.
 
 ## Notes

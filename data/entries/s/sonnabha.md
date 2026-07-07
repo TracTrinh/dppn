@@ -5,7 +5,7 @@ base_headword: "Soṇṇābha"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Soṇṇābha. Twenty *kappas* ago there were eight kings of this name, previous
 
 ## Vietnamese translation
 
-Chưa dịch.
+Soṇṇābha. Hai mươi *kappa* trước đây có tám vị vua mang tên này, là các tiền kiếp của Kaṇikāracchadaniya. Ap.i.183.
 
 ## Notes

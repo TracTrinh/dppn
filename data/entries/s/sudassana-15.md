@@ -5,7 +5,7 @@ base_headword: "Sudassana"
 disambiguator: "15"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sudassana 15. A *seṭṭhi* whose daughter gave a meal of milk-rice to <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudassana 15. Một vị trưởng giả (*seṭṭhi*), người có con gái đã cúng dường một bữa cơm sữa cho Vipassī Buddha. Bv­a.195.
 
 ## Notes

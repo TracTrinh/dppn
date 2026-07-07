@@ -5,7 +5,7 @@ base_headword: "Soṇā"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Soṇā 01. One of the chief women patrons of <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Soṇā 01. Một trong các nữ cư sĩ bảo trợ chủ yếu của Dīpaṅkara Buddha. Bv.ii.215.
 
 ## Notes

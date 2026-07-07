@@ -5,7 +5,7 @@ base_headword: "Uttama"
 disambiguator: "03"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Uttama 03. A general of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttama 03. Một vị tướng của Māṇābharaṇa. Ông đã bị đánh bại tại Vacāvāṭaka bởi Rakkha. Cv.lxx.295.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vātakapabbata"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vātakapabbata. A place in Ceylon where <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một địa điểm ở Ceylon nơi Maliyadeva Thera thuyết Chachakkasutta và sáu mươi tu sĩ trở thành những vị *Arahant*. MN­a.ii.1024.
 
 ## Notes

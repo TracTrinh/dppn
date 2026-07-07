@@ -5,7 +5,7 @@ base_headword: "Kubūlagalla"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kubūlagalla. A locality in <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kubūlagalla. Một địa phương ở Rohaṇa. Đây là một trong những thành lũy bị Vijayabāhu I. chiếm giữ. Cv.lviii.36.
 
 ## Notes

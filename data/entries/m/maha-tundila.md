@@ -5,7 +5,7 @@ base_headword: "Mahā Tuṇḍila"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -25,6 +25,6 @@ Mahā Tuṇḍila. The Bodhisatta born as a pig. See the <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Tuṇḍila. Bodhisatta sinh ra là một con lợn. Xem Tuṇḍilajātaka (Ja 388).
 
 ## Notes

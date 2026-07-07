@@ -5,7 +5,7 @@ base_headword: "Vajirasena"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vajirasena. A building in the <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vajirasena. Một công trình trong vihāra Abhayagiri, được Vajira, quan đại thần của Sena I, xây dựng. Cv.l.84.
 
 ## Notes

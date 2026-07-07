@@ -5,7 +5,7 @@ base_headword: "Piṅgala"
 disambiguator: "03"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -29,6 +29,6 @@ Piṅgala 03. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piṅgala 03. Vua xứ Suraṭṭha, sống cùng thời với Dhammāsoka, và ông là cố vấn của vị vua này. Một ngày nọ, khi Piṅgala đang trên đường trở về từ triều đình của Dhammāsoka, ngạ quỷ (*Peta*) Nandaka, cha của Uttarā, đã hiện hình và khuyên ông nên tuân theo lời dạy của Đức Phật. Pv.iv.3; Pv-a.244ff.
 
 ## Notes

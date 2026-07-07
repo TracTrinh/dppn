@@ -5,7 +5,7 @@ base_headword: "Kapinaccanā"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -32,6 +32,10 @@ It was so-called because monkeys and men used to dance there (Pv-a.231).
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kapinaccanā. Một địa phương, có lẽ là gần Vesālī, nơi vị Thera Kappiṭaka, giáo thọ của Upāli (Pv.50), sinh sống.
+
+Nó được gọi như vậy là vì bầy khỉ và đàn ông đã từng nhảy múa tại đó (Pv-a.231).
+
+Kapinaccanā có lẽ từng là tên gọi cho nghĩa trang gần Vesālī nơi Kappiṭaka (*q.v.*) đã sống (Vin.iv.306).
 
 ## Notes

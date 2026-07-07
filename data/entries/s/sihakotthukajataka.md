@@ -5,7 +5,7 @@ base_headword: "Sīhakoṭṭhukajātaka"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -28,6 +28,8 @@ The story was related in reference to <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhakoṭṭhukajātaka (Ja 188). Bodhisatta từng là một con sư tử và có một con non với một con chó rừng cái. Con non giống cha về hình dáng, nhưng giống mẹ về giọng nói. Một ngày nọ, sau cơn mưa, khi các con sư tử đang nô đùa và gầm rú cùng nhau, con non nghĩ đến việc gầm lên, nhưng lại tru lên như chó rừng. Ngay lập tức tất cả các con sư tử đều im bặt. Khi Bodhisatta được một con sư tử non khác kể lại chuyện này, ông khuyên con non giọng chó rừng nên giữ im lặng.
+
+Câu chuyện được kể liên quan đến nỗ lực thuyết pháp của Kokālika, Kokālika được đồng nhất với con sư tử non giọng chó rừng và Rāhula với người anh em của nó. Ja.ii.108f.
 
 ## Notes

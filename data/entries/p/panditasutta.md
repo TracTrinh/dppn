@@ -5,7 +5,7 @@ base_headword: "Paṇḍitasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Paṇḍitasutta. On three things enjoined by the wise and the good: charity, go
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇḍitasutta. Về ba điều được khuyên dạy bởi những bậc trí tuệ và hiền thiện: bố thí, xuất gia sống không nhà cửa, và phụng dưỡng cha mẹ. AN.i.151.
 
 ## Notes

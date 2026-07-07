@@ -5,7 +5,7 @@ base_headword: "Phalajātaka"
 disambiguator: ""
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -27,6 +27,8 @@ The story was told in reference to a gardener employed by a squire in <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phalajātaka (Ja 54). Bodhisatta từng là một người dẫn đầu một đoàn thương buôn, và trong khi đang du hành trên một con đường dẫn xuyên qua một khu rừng, ngài khuyên những người theo mình không được ăn trái cây, hoa hoặc lá nào mà chưa có sự cho phép của ngài. Gần một ngôi làng, ở bìa rừng, có một cây *kimpakka* mọc lên, mọi đặc điểm của nó đều giống như một cây xoài. Vài người trong số đó đã ăn trái của nó, và người dẫn đầu, khi ngài biết điều này, đã cho họ thuốc để chữa lành. Ngày hôm sau, dân làng lao đến cây hy vọng thấy tất cả các thành viên của đoàn thương buôn đã chết, giống như những đoàn thương buôn trước đó, để họ có thể cướp hàng hóa. Họ vô cùng kinh ngạc khi thấy những người này vẫn còn sống.
+
+Câu chuyện được kể liên quan đến một người làm vườn được một điền chủ ở Sāvatthī thuê. Anh ta đưa vài vị tỳ-kheo đi dạo quanh vườn và ngạc nhiên khi thấy rằng họ có thể nói được tình trạng của quả xoài chỉ bằng cách nhìn vào cái cây. Ja.i.270 ff.
 
 ## Notes

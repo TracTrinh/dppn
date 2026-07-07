@@ -5,7 +5,7 @@ base_headword: "Vandanāsutta"
 disambiguator: "01"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -24,6 +24,6 @@ Vandanāsutta 01. There are three kinds of homage: homage done with body, with s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vandanāsutta 01. Có ba hình thức tôn kính: tôn kính bằng thân, bằng khẩu, và bằng ý. AN.i.294.
 
 ## Notes

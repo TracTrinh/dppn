@@ -5,7 +5,7 @@ base_headword: "Mallikāsutta"
 disambiguator: "02"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Mallikāsutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mallikāsutta 02. Pasenadi hỏi Mallikā, khi họ đang ngồi trên sân hiên trên cùng của cung điện, xem liệu có ai thân thiết với bà hơn chính bản “ngã” của bà không; bà trả lời là “Không có ai.” Ngài nói rằng điều đó cũng đúng với ngài, nhưng rõ ràng là ngài tỏ ra bực bội, bởi ngài đã tìm gặp Đức Phật; Đức Phật nói với ngài rằng Mallikā đã nói một cách trung thực và chính đáng. SN.i.75.
 
 ## Notes

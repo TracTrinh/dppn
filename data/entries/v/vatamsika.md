@@ -5,7 +5,7 @@ base_headword: "Vataṁsikā"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vataṁsikā. The wife of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vợ của Sumana Buddha trước sự Xuất gia của Ngài. Anupama là con trai của họ. Bv.v.23.
 
 ## Notes

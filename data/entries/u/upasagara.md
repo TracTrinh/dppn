@@ -5,7 +5,7 @@ base_headword: "Upasāgara"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -35,6 +35,8 @@ Their children were the notorious <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upasāgara. Con trai của Mahā Sāgara, vua của Uttaramadhurā. Anh trai của Upasāgara là Sāgara, và khi cha của họ qua đời, Upasāgara trở thành phó vương của anh trai mình. Bị nghi ngờ có tư tình trong hậu cung của nhà vua, ông trốn sang triều đình của Upakaṁsa ở Asitañjana. Ở đó ông đã phải lòng Devagabbhā, và khi cô mang thai, ông đã cưới cô và họ sống ở Govadhamāna.
+
+Những đứa con của họ là những Andhakaveṇhudāsaputtā khét tiếng.
 
 ## Notes

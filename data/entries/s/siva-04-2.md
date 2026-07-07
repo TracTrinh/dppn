@@ -5,7 +5,7 @@ base_headword: "Sīva"
 disambiguator: "04"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -25,6 +25,6 @@ Sīva 04. A village near <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīva 04. Một ngôi làng gần Giritimbilatissapabbata. Ras.ii.42.
 
 ## Notes

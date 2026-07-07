@@ -5,7 +5,7 @@ base_headword: "Sumanā"
 disambiguator: "13"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -29,6 +29,6 @@ Sumanā 13. One of four women of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumanā 13. Một trong bốn người phụ nữ của Paṇṇakaṭanagara ở Esikāraṭṭha. Họ nhìn thấy một vị tỳ-kheo đi khất thực, và một người đã dâng cho ông một bó hoa *indīvara*, một người khác dâng một vốc hoa huệ xanh, một người khác dâng hoa sen, và người thứ tư dâng một vài bông hoa nhài. Tất cả họ đều được tái sinh ở Tāvatiṁsa, các *vimāna* của họ nằm liền kề nhau. Moggallāna đã nhìn thấy họ và biết được câu chuyện của họ, điều được ghi lại trong Vimānavatthu dưới dạng câu chuyện của *Caturitthivimāna*. Người phụ nữ được đề cập cuối cùng, người đã dâng hoa *sumana*, tên là Sumanā. Vv.iv.7; Vv-a.195f.
 
 ## Notes

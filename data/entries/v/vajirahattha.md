@@ -5,7 +5,7 @@ base_headword: "Vajirahattha"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vajirahattha. A *Deva*, conqueror of the <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vajirahattha. Một thiên nhân, đấng chinh phục các Asuras (DN.ii.259). Buddhaghosa đồng nhất Ngài với Indra. DN­a.ii.689.
 
 ## Notes

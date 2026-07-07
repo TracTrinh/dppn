@@ -5,7 +5,7 @@ base_headword: "Uttara"
 disambiguator: "15"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Uttara 15. A *Khattiya*, father of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttara 15. Một Sát-đế-lỵ (Khattiya), cha của Maṅgala Buddha. Bv.iv.22; Ja.i.34.
 
 ## Notes

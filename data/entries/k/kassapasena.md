@@ -5,7 +5,7 @@ base_headword: "Kassapasena"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -26,6 +26,6 @@ Kassapasena. A monastery built by the *Senāpati* of <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapasena. Một tu viện được xây dựng bởi vị Senāpati của Kassapa IV. Tu viện này được giao lại cho các tỳ-kheo phái Sāgalika (Cv.lii.17). Nó được Kassapa V trùng tu (Ep.Zey.ii.40).
 
 ## Notes

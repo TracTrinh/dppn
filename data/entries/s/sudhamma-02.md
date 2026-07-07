@@ -5,7 +5,7 @@ base_headword: "Sudhamma"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sudhamma 02. A king, father of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudhamma 02. Một vị vua, cha của Sobhita Buddha. Bv.vii.16.
 
 ## Notes

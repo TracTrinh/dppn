@@ -5,7 +5,7 @@ base_headword: "Sumana"
 disambiguator: "06"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sumana 06. Chief lay supporter of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumana 06. Vị nam cư sĩ ủng hộ xuất chúng nhất của Kassapa Buddha. DN­a.ii.424; nhưng xem Sumaṅgala (2).
 
 ## Notes

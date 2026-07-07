@@ -5,7 +5,7 @@ base_headword: "Tālakkhettagāma"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tālakkhettagāma. A village in the <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tālakkhettagāma. Một ngôi làng ở quận Malaya của Tích Lan. Cv.lxx.10.
 
 ## Notes

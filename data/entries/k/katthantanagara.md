@@ -5,7 +5,7 @@ base_headword: "Kaṭṭhantanagara"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kaṭṭhantanagara. A town near the <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṭṭhantanagara. Một thị trấn gần hồ chứa nước Kāṇavāpi. Tại đây Vua Sena II đã cho sửa chữa đập của hồ chứa nước này. Cv.li.73.
 
 ## Notes

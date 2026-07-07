@@ -5,7 +5,7 @@ base_headword: "Paṇḍu"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -30,6 +30,8 @@ See also <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇḍu 01. Tổ tiên của những người Pāṇḍava (Cv.lxiv.43). Cái tên này cũng dùng cho những người tự xưng thuộc triều đại đó – ví dụ, trong trường hợp các vị vua của Madhurā, ví dụ, Mhv.vii.50. Xem thêm Pandū.
+
+Xem thêm Paṇḍurājā.
 
 ## Notes

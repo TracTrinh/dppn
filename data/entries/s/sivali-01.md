@@ -5,7 +5,7 @@ base_headword: "Sīvalī"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -27,6 +27,6 @@ Sīvalī 01. Daughter of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīvalī 01. Con gái của Polajanaka. Xem Mahā Janakajātaka (Ja 539). Nàng được đồng nhất với Rāhulamātā. Ja.vi.68.
 
 ## Notes

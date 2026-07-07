@@ -5,7 +5,7 @@ base_headword: "Mahā Tissa"
 disambiguator: "07"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Tissa 07. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Tissa 07. Mahā Tissa Thera. Trong khi đang đi khất thực ở Kalyāṇigāma, tâm của ngài đã bị ô nhiễm bởi cảnh tượng của một hình bóng “bất thường” (*visabhāgarūpa*, một người phụ nữ khỏa thân?). Snp­a.i.6f.
 
 ## Notes

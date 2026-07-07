@@ -5,7 +5,7 @@ base_headword: "Tanasīva"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -30,6 +30,6 @@ Tanasīva. A landowner of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tanasīva. Một gia chủ ở Mātuvelaṅga và là người hộ độ của *Kupikkala* Mahā Tissa Thera. Khi nhà vua Vaṭṭagāmaṇī đang lẩn trốn, vị Thera đã giao ngài cho Tanasīva chăm sóc, người trong mười bốn năm đã chăm lo cho ngài, chánh hậu Anulādevī, và hai người con trai của ngài. Về sau, do một cuộc cãi vã giữa Anulā và vợ của Tanasīva, Vaṭṭagāmaṇī đã bắn chết ông. Mhv.xxxiii.52-65.
 
 ## Notes

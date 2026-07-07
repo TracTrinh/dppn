@@ -5,7 +5,7 @@ base_headword: "Lakkhadhammā"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -24,6 +24,6 @@ Lakkhadhammā. An illustrious nun of Ceylon. Dpv.xviii.40.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lakkhadhammā. Một ni cô lỗi lạc của Tích Lan. Dpv.xviii.40.
 
 ## Notes

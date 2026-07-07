@@ -5,7 +5,7 @@ base_headword: "Veḷudvāreyyasutta"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Veḷudvāreyyasutta. The Brahmins and householders of <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Veḷudvāreyyasutta. Những người Bà-la-môn và gia chủ ở Veḷudvāra đến viếng thăm Đức Phật khi ngài đến làng của họ và cầu xin một giáo lý mang lại lợi ích cho họ. Đức Phật chỉ ra cho họ thấy những lợi ích của việc giữ gìn năm giới: tránh xa việc sát sinh, trộm cắp, v.v., tránh xa lời nói đâm thọc, lời nói thô ác và lời nói phù phiếm, và có niềm tin vào Phật, Pháp và Tăng đoàn. SN.v.352f.
 
 ## Notes

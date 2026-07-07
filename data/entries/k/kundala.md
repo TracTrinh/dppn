@@ -5,7 +5,7 @@ base_headword: "Kuṇḍalā"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -29,6 +29,8 @@ Once she was a bitch in <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Con gái của vua của cõi *Devaputta*.
+
+Một lần bà là một con chó cái ở Kakubandhakandara và một vị *Sāmaṇera*, Tissa, đã cho bà một ít thức ăn. Sau đó, khi Tissa đang trên đường đến cây Bodhi (ở Gayā) bà đã nhìn thấy ông, và, nhớ lại kiếp sống quá khứ của mình, đã mời ông đến cung điện và thiết đãi ông. Sau đó bà đã xây dựng một *vihāra* cho ông, nơi ông đã đạt được quả vị *Arahant*. Ras.i.103f.
 
 ## Notes

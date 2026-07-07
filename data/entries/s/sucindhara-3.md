@@ -5,7 +5,7 @@ base_headword: "Sucīndhara"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sucīndhara. A *Mahā Sāla* Brahmin, father of <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sucīndhara. Một Bà-la-môn *Mahā Sāla*, cha của *māṇava* Canda. Bv­a.110.
 
 ## Notes

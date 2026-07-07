@@ -5,7 +5,7 @@ base_headword: "Vaḷuṭṭhi"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vaḷuṭṭhi. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaḷuṭṭhi. Một vị thủ lĩnh người Damiḷa ở Nam Ấn Độ, bị mua chuộc về phe của Laṅkāpura bằng những món quà. Cv.lxxvi.237.
 
 ## Notes

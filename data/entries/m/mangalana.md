@@ -5,7 +5,7 @@ base_headword: "Maṅgalāna"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Maṅgalāna. A minister of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṅgalāna. Một quan đại thần của Kittisirimegha (2). Cv.lxvi.66; xem Cv.Trs.i.258, n.2.
 
 ## Notes

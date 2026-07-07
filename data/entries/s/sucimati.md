@@ -5,7 +5,7 @@ base_headword: "Sucīmatī"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Sucīmatī. Mother of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sucīmatī. Mẹ của Bhaddā Kāpilānī, vào thời điểm khi cô được sinh ra ở Sāgala với tư cách là con gái của vị Bà-la-môn Kapila. Thīg­a.73.
 
 ## Notes

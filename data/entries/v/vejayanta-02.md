@@ -5,7 +5,7 @@ base_headword: "Vejayanta"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -30,6 +30,6 @@ Vejayanta 02. A chariot owned by <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vejayanta 02. Một cỗ xe ngựa thuộc sở hữu của Sakka, dài một trăm năm mươi do-tuần (DN­a.ii.481; SN­a.i.261; Ja.i.202), và được kéo bởi một ngàn con ngựa, với Mātali làm người đánh xe (SN.i.224). Sakka cưỡi cỗ xe này ra trận (Ja.i.202), và nó được phái đi để đón những con người xuất chúng đến Tāvatiṁsa, ví dụ: Nimi, Guttila và Sādhīna (*q.v.*). Sudhābhojanajātaka (Ja 535, Ja.v.408f) có chứa một đoạn mô tả về cỗ xe với càng xe bằng vàng và khung xe được mạ vàng hình các loài động vật và chim chóc khác nhau. Khi cỗ xe di chuyển, toàn bộ thế giới tràn ngập âm thanh từ những bánh xe của nó.
 
 ## Notes

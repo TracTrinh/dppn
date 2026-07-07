@@ -5,7 +5,7 @@ base_headword: "Subāhu"
 disambiguator: "04"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Subāhu 04. A tiger. See the <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subāhu 04. Một con cọp. Xem Vaṇṇārohajātaka (Ja 361) và Tittirajātaka (Ja 438). Nó được nhận diện là Moggallāna. Ja.iii.192, 540.
 
 ## Notes

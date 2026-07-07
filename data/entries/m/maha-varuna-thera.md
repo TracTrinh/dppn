@@ -5,7 +5,7 @@ base_headword: "Mahā Varuṇa Thera"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -28,6 +28,6 @@ Mahā Varuṇa Thera. He ordained <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Varuṇa Thera. Ngài đã truyền giới cho *Sāmaṇera* Nigrodha (Vin-a.i.46; Mhv.v.45) và cả Tissa và Sumitta, hai người con trai của *kinnarī* (nữ dạ xoa) Kuntī. Ibid., 214.
 
 ## Notes

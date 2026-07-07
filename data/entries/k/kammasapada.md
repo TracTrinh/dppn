@@ -5,7 +5,7 @@ base_headword: "Kammāsapāda"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -39,6 +39,12 @@ The place where the *porisāda* was tamed was called <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kammāsapāda. Cái tên được đặt cho kẻ ăn thịt người (*porisāda*) trong Mahā Sutasomajātaka (Ja 537). Trước khi trở thành kẻ ăn thịt người, ông ta là vua của xứ Benares, và sau đó được Bodhisatta Sutasoma dứt bỏ khỏi thói quen độc ác của mình. Ông ta được đồng nhất với Aṅgulimāla (Ja.v.pp.503f, 511).
+
+Buddhaghosa (DN­a.ii.483) giải thích cái tên (“Gót-chân-đốm”) được đặt ra do một vết thương mà ông ta từng nhận phải, vết thương này đã lành, để lại một vết sẹo giống như một khúc gỗ có vân đẹp (*cittadārusadiso*). Điều này đề cập đến việc kẻ ăn thịt người (*porisāda*) chạy trốn khỏi những kẻ truy đuổi, khi ông ta giẫm phải một cọc gỗ keo (*khānu*) đâm xuyên qua bàn chân của mình (Ja.v.472).
+
+Theo Buddhaghosa, kẻ ăn thịt người trong Jayaddisajātaka (Ja 513) cũng được gọi là Kammāsa hoặc Kammāsapāda. (DN­a.ii.483. Xem thêm bài viết của Watanabe, “*The Story of Kalmāsapāda and its Evolution in Indian Literature*.” JPTS1909, pp.236ff).
+
+Nơi kẻ ăn thịt người (*porisāda*) được thuần hóa được gọi là Kammāsadamma.
 
 ## Notes

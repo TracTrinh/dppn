@@ -5,7 +5,7 @@ base_headword: "Kāḷavela"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -25,6 +25,6 @@ Kāḷavela 01. A monastery in Ceylon, the residence of <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷavela 01. Một tu viện ở Tích Lan, nơi ở của Mahā Maliyadeva Thera (xem ở mục từ tương ứng). Ja.vi.30.
 
 ## Notes

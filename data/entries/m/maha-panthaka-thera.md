@@ -5,7 +5,7 @@ base_headword: "Mahā Panthaka Thera"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -35,6 +35,10 @@ A set of verses uttered by him in the joy of attainment is included in the <span
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Panthaka Thera. Anh trai của Cūḷa Panthaka (*xem mục từ này*) và là cháu trai của trưởng giả Dhana ở Rājagaha. Ngài đi cùng với ông nội của mình để nghe Đức Phật thuyết pháp, khởi sinh niềm tin và gia nhập Tăng đoàn. Ngài trở nên thông đạt Pháp, và, đến thời điểm thích hợp, đã thọ đại giới rồi trở thành một *Arahant*, với sự thuần thục đặc biệt trong bốn *arūpajhāna* (vô sắc thiền). Sau này, ngài được tuyên bố là người đứng đầu trong số những vị thiện xảo về sự chuyển hóa tưởng (*saññāvivaṭṭakusalānaṁ*) (AN.i.24).
+
+Nguyện vọng để đạt được vị trí xuất chúng này được lập vào thời của Đức Phật Padumuttara khi ngài nghe một Tỳ-kheo được Đức Phật tôn vinh tương tự. Thag­a.i.490f.; AN­a.i.118f; các chi tiết về Mahā Panthaka được kể ra, hãy xem Cūḷa Panthaka. Các thông tin này có thể tìm thấy ở Ja.i.114ff.; Dhp­a.i.241ff.
+
+Một nhóm các câu kệ được ngài thốt lên trong niềm hỷ lạc chứng quả đã được đưa vào Theragāthā. Thag.vss.510-17.
 
 ## Notes

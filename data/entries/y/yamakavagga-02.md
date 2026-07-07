@@ -5,7 +5,7 @@ base_headword: "Yamakavagga"
 disambiguator: "02"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -24,6 +24,6 @@ Yamakavagga 02. The eight chapter of the *Aṭṭhakanipāta* of the <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yamakavagga 02. Chương thứ tám của phần *Aṭṭhakanipāta* thuộc Aṅguttaranikāya. AN.iv.314-35.
 
 ## Notes

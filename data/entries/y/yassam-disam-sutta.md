@@ -5,7 +5,7 @@ base_headword: "Yassaṁ disaṁ Sutta"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -24,6 +24,6 @@ Yassaṁ disaṁ Sutta. Five qualities, the possession of which makes a king hon
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yassaṁ disaṁ Sutta. Năm phẩm chất mà việc sở hữu chúng khiến một vị vua được tôn kính ở bất cứ nơi nào vị ấy cai trị – dòng dõi thanh tịnh, của cải dồi dào, quân đội hùng mạnh, tể tướng khôn ngoan và vinh quang rực rỡ; và năm phẩm chất tương tự – giới hạnh, học thức, nỗ lực tinh tấn, tuệ giác và sự giải thoát cho phép một tỳ-kheo được sống tự tại trong tâm bất cứ nơi nào vị ấy lưu trú. AN.iii.151ff.
 
 ## Notes

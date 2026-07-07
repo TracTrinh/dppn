@@ -5,7 +5,7 @@ base_headword: "Yasodharā"
 disambiguator: "06"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -25,6 +25,6 @@ Yasodharā 06. One of the chief women supporters of <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yasodharā 06. Một trong những nữ thí chủ chính của Sumedha Buddha. Bv.xii.25.
 
 ## Notes

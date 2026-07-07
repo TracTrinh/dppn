@@ -5,7 +5,7 @@ base_headword: "Mahā Puṇṇamasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -27,6 +27,8 @@ It is said that sixty monks, who heard the *Sutta*, became *Arahants*. MN.iii.15
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Puṇṇamasutta. Được thuyết giảng tại Migāramātupāsāda vào một đêm trăng rằm. Một vị tỳ-kheo hỏi Đức Phật một chuỗi các câu hỏi liên quan đến năm *upādānakkhandhā*, nguồn gốc, định nghĩa của chúng, và cũng như về việc ý niệm về ngã khởi sinh như thế nào (*sakkāyadiṭṭhi*). Đức Phật trả lời vị đó, và chỉ ra cách thức đạt được sự giải thoát bằng cách nhận ra rằng không có ngã trong bất kỳ *khandha* nào.
+
+Người ta nói rằng sáu mươi vị tỳ-kheo, những người đã nghe bài *Sutta* này, đã trở thành các vị *Arahant*. MN.iii.15-20.
 
 ## Notes

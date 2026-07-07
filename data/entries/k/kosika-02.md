@@ -5,7 +5,7 @@ base_headword: "Kosika"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -27,6 +27,6 @@ Kosika 02. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kosika 02. Một vị Pacceka Buddha. Ngài từng sống ở Cittakūṭa, và Ukkāsatika, trong một kiếp trước, khi thấy ngài lang thang quanh Himavā, đã thắp xung quanh ngài vào ban đêm một trăm ngọn đuốc và dâng cúng vật thực cho ngài. Ap.ii.414.
 
 ## Notes

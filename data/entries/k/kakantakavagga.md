@@ -5,7 +5,7 @@ base_headword: "Kakaṇṭakavagga"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kakaṇṭakavagga. The fifteenth chapter of the *Ekanipāta* of the <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kakaṇṭakavagga. Chương thứ mười lăm của *Ekanipāta* thuộc Jātaka Commentary Ja.i.487-511.
 
 ## Notes

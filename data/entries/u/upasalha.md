@@ -5,7 +5,7 @@ base_headword: "Upasāḷha"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -29,6 +29,6 @@ Upasāḷha, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upasāḷha, Upasāḷhaka. Một Bà-la-môn giàu có của Rājagaha. Ông sống gần tu viện, nhưng là một người không có niềm tin và không liên quan gì đến Đức Phật hay các tỳ-kheo của Ngài. Ông có một người con trai khôn ngoan và thông minh. Khi Upasāḷha về già, ông nói với con trai rằng, sau khi chết, ông mong muốn được thiêu tại một nghĩa trang không bị ô uế bởi bất kỳ kẻ hạ tiện nào. Khi được con trai yêu cầu chỉ ra một nơi như vậy, ông đã đưa người con đến Gijjhakūṭa và chỉ cho anh ta một địa điểm. Khi họ đang đi xuống đồi, Đức Phật, nhận thấy *upanissaya* (tiềm năng) của họ, đã đợi họ ở dưới chân đồi, và khi họ gặp nhau, Ngài đã hỏi họ vừa đi đâu về. Sau khi nghe câu chuyện của họ, Ngài đã kể Upasāḷhajātaka, chỉ ra rằng trong quá khứ, Upasāḷha cũng từng kén chọn về các nghĩa trang. Vào lúc kết thúc bài pháp, cả cha và con đều được an lập trong Thánh quả thứ nhất của Đạo. Ja.ii.54ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sirivaḍḍhapāsāda"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -27,6 +27,6 @@ Sirivaḍḍhapāsāda 02. A building, evidently in <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirivaḍḍhapāsāda 02. Một công trình, rõ ràng ở Rohaṇa, được Dappula, con trai của Saṅghasivā, tu sửa. Cv.xlv.56.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Phussadeva"
 disambiguator: "04"
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -27,6 +27,6 @@ Phussadeva 04. One of the chief warriors of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phussadeva 04. Một trong những chiến binh hàng đầu của Duṭṭhagāmaṇī. Ông sinh ra tại làng Gaviṭa và cha ông là Uppala. Có lần, khi đến *vihāra* cùng những cậu bé khác, ông thấy một chiếc vỏ ốc xà cừ được cúng dường tại cây bồ-đề và đã thổi nó. Tất cả những ai nghe thấy đều đứng sững sờ như bị choáng, và ông được gọi là Ummāda Phussadeva. Cha ông là một cung thủ, và bản thân ông cũng trở nên rất điêu luyện trong nghệ thuật này (Mhv.xxiii.82f), cung thủ xuất sắc nhất trên hòn đảo (Mhv.xxv.82). Trong trận chiến của Duṭṭhagāmaṇī với Bhalluka, Phussadeva ngồi sau nhà vua trên lưng voi và đã bắn Bhalluka. Mũi tên của ông sượt qua tai nhà vua, khiến máu chảy ra. Để chuộc lỗi, Phussadeva đã cắt dái tai của chính mình và cho nhà vua xem. Sau đó nhà vua cắm mũi tên của Phussadeva xuống sàn, đắp *kahāpaṇa* lên ngập hết chiều cao của mũi tên và ban số tiền đó cho Phussadeva. Mhv.xxv.91 ff. Xem thêm Ras.ii.100f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Khandhena Sutta"
 disambiguator: "03"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -23,6 +23,6 @@ Khandhena Sutta 03. Desire and lust (*chandarāga*) for body, etc., brings about
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khandhena Sutta 03. Tham ái và sắc dục (chandarāga) đối với cơ thể, v.v., mang lại sự ô nhiễm cho tâm trí. SN.iii.234.
 
 ## Notes

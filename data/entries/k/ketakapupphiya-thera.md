@@ -5,7 +5,7 @@ base_headword: "Ketakapupphiya Thera"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -28,6 +28,6 @@ Ketakapupphiya Thera. An *Arahant*. Ninety-one *kappas* ago he saw <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ketakapupphiya Thera. Một vị Arahant. Chín mươi mốt kappa trước ngài đã nhìn thấy Đức Phật Vipassī (?) trên bờ sông Vinatā và dâng cúng ngài một bông hoa ketaka (Ap.ii.449f). Các bài kệ của ngài được đưa ra trong Chú giải Theragāthā dưới hai cái tên: Abhaya và Kappaṭakura.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kappaṭa"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -31,6 +31,8 @@ He was a potter and owned a donkey who carried loads of pots and could travel se
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kappaṭa. Một thương nhân ở Benares, là Bodhisatta.
+
+Ông là một thợ gốm và sở hữu một con lừa thồ những gánh gốm nặng và có thể đi được bảy do-tuần một ngày. Một lần Kappaṭa đưa con lừa đến Takkasilā, nơi con vật này trở nên say đắm một con lừa cái đến nỗi nó từ chối trở về nhà cho đến khi vị thương nhân hứa sẽ tìm cho nó một người bạn đời xinh đẹp tương đương. Khi về đến nhà, vị thương nhân đề nghị thực hiện lời hứa của mình, nhưng từ chối cung cấp bất kỳ thức ăn bổ sung nào cho bạn đời của con vật hay cho những con lừa con nếu có con nào được sinh ra. Điều này đã làm con lừa sáng mắt ra, và nó từ bỏ mong muốn có một người bạn đời. Con lừa được đồng nhất với Nanda, và con lừa cái với Janapadakaḷyānī Nandā (Dhp­a.i.103f).
 
 ## Notes

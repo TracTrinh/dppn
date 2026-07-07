@@ -5,7 +5,7 @@ base_headword: "Mahā Satipaṭṭhānasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -34,6 +34,10 @@ The materials found in the <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Satipaṭṭhānasutta. Được thuyết giảng tại Kammāssadamma thuộc xứ Kuru. Đức Phật kể cho các Tỳ-kheo rằng con đường duy nhất dẫn đến *Nibbāna* là Tứ Niệm Xứ (Four Bases of Mindfulness). Tóm tắt, đây là bốn phương pháp hướng tâm đến sự bất tịnh và tính vô thường của thân: (1) *kāya* (thân), cấu trúc thể chất và các hoạt động; (2) *vedanā* (thọ), bản chất cảm xúc, đầu tiên như một cảm giác thuần túy, sau đó như có các ý nghĩa đạo đức; (3) *citta* (tâm), đời sống ý thức hay sự nhận thức, được xem xét dưới các khía cạnh đạo đức; (4) Dhamma (pháp), được xem xét theo năm triền cái (five hindrances); năm uẩn (*khandha*), sáu xứ (six spheres of sense), bảy bojjhaṅga, và Bốn Sự Thật Cao Quý (Four Ariyan Truths). DN.ii.290-315.
+
+Bài kinh (*Sutta*) được xem là một trong những bài kinh quan trọng nhất trong Kinh điển Phật giáo. Nó đã được dịch ra nhiều ngôn ngữ khác nhau, và có nhiều bản chú giải về nó đang tồn tại. Việc chỉ cần tụng đọc bài kinh này cũng được cho là có thể xua đuổi các hiểm nguy và mang lại hạnh phúc, và đó là ước nguyện của mọi Phật tử rằng họ sẽ nhắm mắt xuôi tay với bài Satipaṭṭhānasutta trên môi, hoặc, ít nhất, với âm thanh của nó bên tai.
+
+Các nội dung được tìm thấy trong Mahā Satipaṭṭhānasutta cũng được tìm thấy trong Majjhimanikāya, được chia thành hai phần, mỗi phần đại diện cho một bài giảng riêng biệt – Satipaṭṭhānasutta và Saccavibhaṅgasutta.
 
 ## Notes

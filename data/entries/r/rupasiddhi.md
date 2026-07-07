@@ -5,7 +5,7 @@ base_headword: "Rūpasiddhi"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -27,6 +27,6 @@ Rūpasiddhi. A Pāli grammar by <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rūpasiddhi. Một ngữ pháp tiếng Pāli bởi Trưởng lão Buddhappiya (hoặc Dīpaṅkara) (*q.v.*). Nó dựa trên ngữ pháp của Kaccāyana, về các nét chính, và tên đầy đủ của nó là *Padarūpasiddhi*. Có một *ṭīkā* về nó được gán cho chính Buddhappiya. PLC., p. 220f.
 
 ## Notes

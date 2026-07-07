@@ -5,7 +5,7 @@ base_headword: "Maṇipāsāda"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -29,6 +29,6 @@ Maṇipāsāda. The name given to the <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇipāsāda. Tên gọi của Lohapāsāda sau khi được Jeṭṭhatissa xây dựng lại thành bảy tầng. Ông dâng tặng cho công trình một viên ngọc trị giá sáu mươi nghìn, vì thế có tên gọi đó. Công trình có trị giá một crore (Mhv.xxxvi.125). Người Coḷas đốt nó, và Udaya IV. định xây lại nhưng mất trước khi hoàn thành (Cv.liii.51). Công việc đó được Mahinda IV. thực hiện (Cv.liv.48.)
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kukkuṭa"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -29,6 +29,6 @@ Kukkuṭa 02. A frontier town near <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kukkuṭa 02. Một thị trấn biên giới gần Himavā; thủ đô của một vương quốc rộng ba trăm do-tuần, nơi Mahā Kappina từng cai trị. Có ba con sông phải băng qua trên đường từ Kukkuṭa đến Sāvatthī (Thag­a.i.507f; Ap.ii.469). Xem thêm Kukkuṭavatī.
 
 ## Notes

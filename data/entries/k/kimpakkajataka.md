@@ -5,7 +5,7 @@ base_headword: "Kimpakkajātaka"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,8 @@ The story was related to a monk who was stirred to lust by the sight of a beauti
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kimpakkajātaka (Ja 85). Bodhisatta từng là thủ lĩnh của một đoàn xe thương buôn. Trong một chuyến hành trình đi qua một khu rừng, ngài đã ra lệnh cho những người của mình không được ăn bất kỳ loại trái cây nào khi chưa có sự cho phép của ngài. Nhìn thấy trái của một cây *kimpakka*, có vẻ ngoài và hương vị giống như một quả xoài, một số người đã ăn loại trái cây đó và chết bất chấp những nỗ lực cứu chữa họ.
+
+Câu chuyện được kể liên quan đến một vị tỳ-kheo bị khuấy động lòng ham muốn bởi việc nhìn thấy một người phụ nữ ăn mặc đẹp đẽ ở Sāvatthī. Những ham muốn của các giác quan giống như trái của cây *kimpakka*, ngọt ngào và hấp dẫn trong lúc tận hưởng, nhưng sau đó sẽ dẫn đến cái chết. Ja.i.367f.
 
 ## Notes

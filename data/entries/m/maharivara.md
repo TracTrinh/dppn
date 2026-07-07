@@ -5,7 +5,7 @@ base_headword: "Maharīvara"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Maharīvara. A stronghold in <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maharīvara. Một pháo đài ở Rohaṇa, được nhắc đến trong lời tường thuật về những chiến dịch của Parakkamabāhu I. Cv.lxxiv.121.
 
 ## Notes

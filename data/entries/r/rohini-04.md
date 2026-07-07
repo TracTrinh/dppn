@@ -5,7 +5,7 @@ base_headword: "Rohiṇī"
 disambiguator: "04"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Rohiṇī 04. An asterism (MN­a.ii.783; Snp­a.ii.456). The planting of the Bod
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rohiṇī 04. Một chòm sao (MN­a.ii.783; Snp­a.ii.456). Việc trồng cây Bodhi ở Tích Lan được thực hiện dưới chòm sao này. Mhv.ix.47.
 
 ## Notes

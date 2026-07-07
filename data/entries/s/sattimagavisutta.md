@@ -5,7 +5,7 @@ base_headword: "Sattimāgavīsutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Sattimāgavīsutta. The story of a *Peta* seen by <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sattimāgavīsutta. Câu chuyện về một Peta được Moggallāna nhìn thấy, đi qua không trung trong khi các cây lao cứ dâng lên rồi rơi xuống trên thân mình ông ta. Ông từng là một thợ săn nai ở Rājagaha. SN.ii.257.
 
 ## Notes

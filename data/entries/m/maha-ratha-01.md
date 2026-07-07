@@ -5,7 +5,7 @@ base_headword: "Mahā Ratha"
 disambiguator: "01"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -26,6 +26,6 @@ Mahā Ratha 01. A king of thirty-one *kappas* ago; a former birth of <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Ratha 01. Một vị vua của ba mươi mốt *kappa* về trước; một tiền kiếp của Trưởng lão Dhammasava (Nāgapupphiya). Thag­a.i.215; Ap.i.179.
 
 ## Notes

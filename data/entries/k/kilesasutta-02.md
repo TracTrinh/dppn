@@ -5,7 +5,7 @@ base_headword: "Kilesasutta"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -23,6 +23,6 @@ Kilesasutta 02. The seven *bojjhaṅgas* lead to liberation by knowledge (SN.v.9
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kilesasutta 02. Bảy *bojjhaṅga* (thất giác chi) dẫn đến sự giải thoát bằng trí tuệ (SN.v.93).
 
 ## Notes

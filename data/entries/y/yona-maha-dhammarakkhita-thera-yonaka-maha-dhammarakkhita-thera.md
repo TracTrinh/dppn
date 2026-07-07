@@ -5,7 +5,7 @@ base_headword: "Yona Mahā Dhammarakkhita Thera, Yonaka Mahā Dhammarakkhita The
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -26,6 +26,6 @@ Yona Mahā Dhammarakkhita Thera, Yonaka Mahā Dhammarakkhita Thera. With thirty 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yona Mahā Dhammarakkhita Thera, Yonaka Mahā Dhammarakkhita Thera. Cùng với ba mươi ngàn người khác, ngài đã từ Alasandā đến tham dự Buổi lễ Khởi công Xây dựng Mahā Thūpa. Mhv.xxix.39.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kaṅkhā Revata Thera"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -51,6 +51,14 @@ In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="20" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṅkhā Revata Thera. Ông xuất thân từ một gia đình rất giàu có ở Sāvatthī. Một ngày nọ, sau bữa ăn trưa, ông cùng những người khác đi nghe Đức Phật thuyết pháp và, chấp nhận lời của Đức Phật, ông gia nhập Tăng đoàn. Theo Apadāna (ii.491), ông đã nghe Đức Phật thuyết pháp tại Kapilavatthu.
+
+Ông đã đạt quả vị Arahant thông qua việc thực hành *jhāna*, và ông trở nên thành thạo trong *jhāna* đến mức Đức Phật tuyên bố ông là vị đệ nhất trong số những tỳ-kheo thực hành nó (AN.i.24; Ud.v.9; AN­a.i.129f; Thag.3; Thag­a.33f). Trước khi trở thành một Arahant, tâm ông vô cùng phiền muộn về việc điều gì được phép dùng và điều gì không (*akappiyā muggā, na kappanti muggā paribhuñjituṁ*, v.v.). Đặc điểm này của ông trở nên nổi tiếng, do đó ông có tên như vậy (Ud­a.314).
+
+Vào thời của Đức Phật Padumuttara, ông là một Bà-la-môn ở Haṁsavatī, thông thạo kinh Veda. Một ngày nọ, trong khi nghe Đức Phật thuyết pháp, ông nghe ngài tuyên bố một tỳ-kheo trong hội chúng là đệ nhất trong số những người thực hành *jhāna*, và bản thân ông cũng mong muốn có được vinh dự tương tự dưới thời một vị Phật tương lai (Ap.ii.419f). Ông thường được nhắc đến cùng với những đệ tử rất xuất chúng khác - ví dụ, Anuruddha, Nandiya, Kimbila, Kuṇḍadhāna và Ānanda - tại buổi thuyết pháp Naḷakapānasutta (MN.i.462). Mahā Gosiṅgasutta (MN.i.212ff) ghi lại một cuộc thảo luận giữa Moggallāna, Mahā Kassapa, Anuruddha, Revata và Ānanda, và ở đó chúng ta thấy Revata ca ngợi, như là hình mẫu tỳ-kheo cao tột nhất, một người hoan hỷ trong thiền định và có trú xứ ở những nơi thanh vắng.
+
+Kaṅkhā Revata dường như đã sống lâu hơn Đức Phật.
+
+Trong Uttaramātupetavatthu (Pv-a.141ff), mẹ của Uttara đã tái sinh làm một ngạ quỷ, và sau khi lang thang trong năm mươi lăm năm mà không có nước, đã tình cờ gặp Revata đang nghỉ trưa trên bờ sông Ganges và cầu xin ông cứu giúp. Sau khi biết câu chuyện của bà, Revata đã dâng nhiều món quà khác nhau cho Tăng đoàn nhân danh bà, và do đó mang lại hạnh phúc cho bà.
 
 ## Notes

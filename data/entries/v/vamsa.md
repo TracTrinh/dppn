@@ -5,7 +5,7 @@ base_headword: "Vaṁsā"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -44,6 +44,10 @@ The district of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaṁsā, Vaṁsas, Vatsā, Vatsas. Dân tộc Vaṁsā và đất nước của họ. Đất nước này nằm ở phía nam Kosala, và thủ đô của nó là Kosambī (vd., Ja.iv.28) bên dòng sông Yamunā. Udena, con trai của Parantapa, còn được gọi là Vaṁsarājā (vd., Ja.iv.370,390), là vị vua của đất nước này vào thời đức Phật.
+
+Avanti nằm ở phía nam của đất nước Vaṁsa. Dân tộc Vaṁsā còn được gọi là Vatsā (*Buddhist India*, 3, 27; Mvu.i.34). Đất nước này tạo thành một trong mười sáu Mahā Janapadā.
+
+Quận Bhagga, nơi có Suṁsumāragiri, dường như cũng lệ thuộc vào nước Vaṁsā vào thời đức Phật, bởi vì chúng ta tìm thấy con trai của Udena là Bodhi sống tại đó (Ja.iii.157, cũng xem *Mahā Bhārata* ii.30, 10f). Trong các danh sách liệt kê (vd., DN.ii.200) dân tộc Vaṁsā thường được đề cập cùng với dân tộc Cetī.
 
 ## Notes

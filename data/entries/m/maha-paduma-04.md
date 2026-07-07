@@ -5,7 +5,7 @@ base_headword: "Mahā Paduma"
 disambiguator: "04"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -27,6 +27,6 @@ Mahā Paduma 04. An elephant, belonging to <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Paduma 04. Một con voi, thuộc về Devānampiyatissa, con voi này cùng với Kuñjara, đã kéo cày vạch ra các ranh giới của Mahā Vihāra. Mbv.134.
 
 ## Notes

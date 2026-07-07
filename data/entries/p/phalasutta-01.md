@@ -5,7 +5,7 @@ base_headword: "Phalasutta"
 disambiguator: "01"
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -23,6 +23,6 @@ Phalasutta 01. The cultivation of the five *indriyas* leads to one of two result
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phalasutta 01. Việc tu tập năm *indriya* dẫn đến một trong hai kết quả: hoặc là chứng ngộ ngay trong đời này, hoặc là quả vị *Anāgāmī*. SN.v.236.
 
 ## Notes

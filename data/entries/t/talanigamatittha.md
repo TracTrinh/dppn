@@ -5,7 +5,7 @@ base_headword: "Talanīgāmatittha"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Talanīgāmatittha. A ford across the <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Talanīgāmatittha. Một bến cạn bắc qua sông Mahā Vālukagaṅgā. Cv.lxxii.4.
 
 ## Notes

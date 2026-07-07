@@ -5,7 +5,7 @@ base_headword: "Paṭicchannasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Paṭicchannasutta. Three things which are practised in secret: the ways of wome
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṭicchannasutta. Ba điều được thực hành trong bí mật: con đường của phụ nữ, những câu thần chú của các Bà-la-môn, tà kiến của những người lầm lạc; và ba điều khác phơi bày cho mọi người thấy: mặt trời, mặt trăng, và *dhammavinaya* của một Tathāgata (Như Lai). AN.i.282.
 
 ## Notes

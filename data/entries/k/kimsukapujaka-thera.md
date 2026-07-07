@@ -5,7 +5,7 @@ base_headword: "Kiṁsukapūjaka Thera"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kiṁsukapūjaka Thera. An *Arahant*. Ninety-four *kappas* ago he had offered a 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kiṁsukapūjaka Thera. Một vị *Arahant*. Chín mươi bốn *kappa* trước, ngài đã dâng một bông hoa *kiṁsuka* cho Siddhattha Buddha. Ap.i.283.
 
 ## Notes

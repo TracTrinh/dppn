@@ -5,7 +5,7 @@ base_headword: "Sirisaddhammavilāsa"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sirisaddhammavilāsa. A Burmese author of the fourteenth century. He wrote a *�
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirisaddhammavilāsa. Một tác giả người Miến Điện thế kỷ mười bốn. Ngài đã viết một *ṭīkā* về ngữ pháp của Kaccāyana có tên là Saddhammanāsinī. Bode, 26.
 
 ## Notes

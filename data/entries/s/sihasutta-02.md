@@ -5,7 +5,7 @@ base_headword: "Sīhasutta"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -27,6 +27,6 @@ Sīhasutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhasutta 02. Sīha (*q.v.*), vị tướng quân, đến thăm Đức Phật tại Kūṭāgārasālā ở Vesālī và hỏi Ngài về những kết quả hữu hình của việc bố thí. AN.iii.38f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Uttaroḷiyavagga"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uttaroḷiyavagga. The sixth section of the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttaroḷiyavagga. Chương thứ sáu của Rasavāhinī.
 
 ## Notes

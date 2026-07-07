@@ -5,7 +5,7 @@ base_headword: "Kapila"
 disambiguator: "03"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -28,6 +28,6 @@ Kapila 03. A Brahmin, the Bodhisatta. When the sons of <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kapila 03. Một Bà-la-môn, tiền kiếp của Bodhisatta. Khi những người con trai của Okkāka đi lưu vong tự nguyện và đang tìm kiếm một địa điểm để thành lập một thành phố, họ tình cờ gặp Kapila tại am thất của ông ở Himavā bên cạnh một hồ nước. Ông thông thạo khoa học *Bhūmicāla*, và do đó, am hiểu về các đặc tính gắn liền với các địa điểm khác nhau. Ông biết rằng bất kỳ thành phố nào được xây dựng trên địa điểm am thất của ông sẽ trở thành thủ đô của Jambudīpa và rằng những cư dân của nó sẽ là vô địch. Do đó, ông khuyên họ nên thành lập một khu định cư ở đó. Họ đã làm theo lời khuyên của ông và đặt tên khu định cư là Kapilavatthu theo tên ông (*q.v.*). Một am thất đã được xây dựng gần đó cho Kapila sử dụng. DN­a.i.259f; Mhv­ṭ.132f; Snp-a.ii.353; xem thêm Mvu.i.348ff.
 
 ## Notes

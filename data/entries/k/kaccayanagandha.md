@@ -5,7 +5,7 @@ base_headword: "Kaccāyanagandha"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kaccāyanagandha. One of the six books ascribed to <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaccāyanagandha. Một trong sáu cuốn sách được cho là của Mahā Kaccāyana (Gv.59); nó có thể nói đến Kaccāyanavyākaraṇa.
 
 ## Notes

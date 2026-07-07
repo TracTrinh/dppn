@@ -5,7 +5,7 @@ base_headword: "Kalakacchagāma"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -28,6 +28,6 @@ Kalakacchagāma. A village in Ceylon, near <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kalakacchagāma. Một ngôi làng ở Tích Lan, gần Kalyāṇī. Tại Nāga Mahā Vihāra ở đó Trưởng lão Maliyadeva đã thuyết giảng Chachakkasutta; sáu mươi vị tỳ-kheo đã lắng nghe nó và trở thành các *Arahant*. MN­a.ii.1025.
 
 ## Notes

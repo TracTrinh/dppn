@@ -5,7 +5,7 @@ base_headword: "Suddhikasutta"
 disambiguator: "08"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Suddhikasutta 08. or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suddhikasutta 08. Hoặc Nirāmisasutta. Về hỷ có vật dục hay không có vật dục, lạc có vật dục hay không có vật dục, xả có vật dục hay không có vật dục. SN.iv.235f.
 
 ## Notes

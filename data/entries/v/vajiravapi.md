@@ -5,7 +5,7 @@ base_headword: "Vajiravāpi"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vajiravāpi. A tank in Ceylon near which was a fortress, once occupied by <span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vajiravāpi. Một hồ chứa nước ở Tích Lan, gần đó có một pháo đài, từng được Gokaṇṇa chiếm giữ. Cv.lxx.72.
 
 ## Notes

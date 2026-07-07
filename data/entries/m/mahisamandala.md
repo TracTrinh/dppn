@@ -5,7 +5,7 @@ base_headword: "Mahisamaṇḍala"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -28,6 +28,6 @@ Mahisamaṇḍala. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahisamaṇḍala. *v.l.* Mahiṁsamaṇḍala. Một đất nước, được cải đạo bởi Trưởng lão Mahā Deva, người đã thuyết bài kinh Devadūtasutta tại đó (Mhv.xii.4, 29; Dpv. viii.5; Vin-a.i.63). Đất nước này thường được xem là xứ Mysore ngày nay. Nhưng xem JRAS.1910, 429ff., ở đó tác giả nói rằng Māhissati là kinh đô của nó và nó là một hòn đảo nằm trên Sông Narbadā; cũng xem Mhv.Trs.84, n.5.
 
 ## Notes

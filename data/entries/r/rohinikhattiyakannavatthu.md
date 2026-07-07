@@ -5,7 +5,7 @@ base_headword: "Rohiṇīkhattiyakaññāvatthu"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rohiṇīkhattiyakaññāvatthu. The story of <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rohiṇīkhattiyakaññāvatthu. Câu chuyện về Rohiṇī, em gái của Anuruddha. Xem Rohiṇī (2).
 
 ## Notes

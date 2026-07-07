@@ -5,7 +5,7 @@ base_headword: "Paṅkavela"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Paṅkavela. A village in Ceylon where <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṅkavela. Một ngôi làng ở Tích Lan nơi Vikkamabāhu II đã đánh bại Jayabāhu I và các anh em của ông. Cv.lxi.16; xem thêm Cv.Trs.i.226, n.2.
 
 ## Notes

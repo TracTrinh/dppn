@@ -5,7 +5,7 @@ base_headword: "Parakkamabāhu"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -52,6 +52,6 @@ Parakkamabāhu 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parakkamabāhu 02. Parakkamabāhu II. Con trai của Vijayabāhu III và là anh em của Bhuvanekabāhu. Ông sinh ra tại Sirivaḍḍhana, và thuở thiếu thời, được giao phó cho sự chăm sóc của các tỳ-kheo dưới quyền Saṅgharakkhita. Khi cha qua đời, ông lên ngôi vương, và trị vì trong ba mươi ba năm (1236-68), tại Jambuddoṇi, với tước hiệu Parakkamabāhu II. Do học vấn uyên thâm, ông đã nhận được biệt danh là *Kāḷikāla Sāhicca sabbaññupaṇḍita* ("vị học giả am hiểu tường tận văn chương trong Kỷ nguyên Tăm tối"). Hành động đầu tiên trong triều đại của ông là mang Xá-lợi Răng từ ngọn núi Billa về kinh đô, giữa sự xuất hiện của nhiều phép màu khác nhau. Sau đó, ông bắt tay vào việc giành lại Pulatthipura từ tay người Tamil, với Māghinda và Jayabāhu đứng đầu, và việc này đã được hoàn thành vào năm 1244. Vào năm thứ mười một của triều đại ông, Tích Lan bị xâm lược bởi một *Jāvaka* (người Java) tên là Candabhānu, có thể là một hải tặc với một lực lượng lớn. Cuộc tấn công đã bị Vīrabāhu, cháu trai của nhà vua, đẩy lùi, nhưng Candabhānu đã xuất hiện trở lại sau đó. Phần đời còn lại của Parakkama được cống hiến cho các công trình đạo hạnh. Ông đã mời các tỳ-kheo Coḷa sang Tích Lan và tổ chức một kỳ Đại Kết Tập, với mục đích cải cách tăng đoàn, và dành sự tôn vinh đặc biệt cho Dhammakitti, một vị tỳ-kheo của Tambaraṭṭha. Trong số những công trình do ông xây dựng có Bhuvenakabāhu *pariveṇa* tại Billasela và Mahā Mahindabāhu *pariveṇa* tại Hatthiselapura. Ông cũng đã trùng tu các *vihāra* tại Kalyāṇi và tại Hatthavaṅgalla. Ông đã xây thêm vào Sirivijayasundara *vihāra* do cha mình xây dựng và khánh thành một lễ hội hàng năm ở Devanagara. Ông đã thực hiện một chuyến hành hương đến Samantakūṭa và dựng một cây cầu, để những người hành hương có thể đến đó dễ dàng hơn. Trong tất cả các công trình này, ông được hỗ trợ bởi bộ trưởng Devappatirāja của mình. Parakkama có năm người con trai: Vijayabāhu, Bhuvanekabāhu, Tibhuvanamalla, Parakkamabāhu và Jayabāhu. Khi về già, ông đã thoái vị để nhường ngôi cho con trai mình là Vijayabāhu, người vì đạo hạnh của mình nên được gọi là Bodhisatta. Cv., chaps. 81-9.
 
 ## Notes

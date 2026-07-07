@@ -5,7 +5,7 @@ base_headword: "Khandhakā"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -39,6 +39,10 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khandhakā, Khandhaka. Tên gọi được đặt cho một phần của Vinayapiṭaka. Phần này thường được chia thành hai phần nhỏ hơn, Mahā Vagga và Cūḷa Vagga. Nó chứa đựng một nỗ lực nhằm đưa ra một bức tranh mạch lạc về toàn bộ đời sống luật pháp của Saṅgha, với những bản ghi chép chi tiết và có sự liên kết về việc gia nhập Saṅgha, nghi lễ uposatha, những lễ nghi định kỳ hàng năm liên quan đến mùa an cư kiết hạ, v.v. Một bản tường thuật được đưa ra, trong trường hợp của mỗi quy định, về dịp mà nó được Đức Phật thiết lập. Các chương riêng biệt được sắp xếp theo trình tự thời gian, và nhằm mục đích trình bày một bản ghi chép có tính liên kết về lịch sử giáo hội từ thời điểm Giác ngộ của Đức Phật cho đến thời kỳ của Cuộc Kết tập lần thứ Hai, được triệu tập một trăm năm sau khi Đức Phật viên tịch (xem Oldenberg, Vinayapiṭaka I., Introd., xxii.f.; Law, Pāli Literature, i.14f).
+
+Về nhiều khía cạnh, Khandhakā có nét tương đồng với Suttavibhaṅga của Vinaya, nhưng trong khi trường hợp của Vibhaṅga, các câu chuyện được thêm vào sau này dựa trên một cơ sở ban đầu là các quy định, tức Pātimokkha, thì ở Khandhakā, các quy định và các câu chuyện có tính chất đồng thời.
+
+Các Khandhaka bao gồm tám mươi bhāṇavāra (DN­a.i.13), và được chia thành hai mươi hai chương, mười chương trong Mahā Vagga và mười hai chương trong Cūḷa Vagga. Mỗi chương được gọi là một khandhaka. Do đó, chương đầu tiên là Mahā Khandaka; chương thứ hai là Uposathakhandhaka, và cứ tiếp tục như vậy.
 
 ## Notes

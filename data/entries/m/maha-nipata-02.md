@@ -5,7 +5,7 @@ base_headword: "Mahā Nipāta"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -28,6 +28,6 @@ Mahā Nipāta 02. The last section of the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nipāta 02. Phần cuối cùng của Theragāthā và Therīgāthā. Phần trước chứa những bài kệ được cho là của Vaṅgīsa và phần sau là của Sumedhā.
 
 ## Notes

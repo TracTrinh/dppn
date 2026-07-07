@@ -5,7 +5,7 @@ base_headword: "Kallara"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -23,6 +23,6 @@ Kallara. A district in South India. Cv.lxxvi.246, 259.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kallara. Một quận ở Nam Ấn Độ. Cv.lxxvi.246, 259.
 
 ## Notes

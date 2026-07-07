@@ -5,7 +5,7 @@ base_headword: "Kappakandara"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -36,6 +36,8 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kappakandara (*v.l.* Kappukandara). Một ngôi làng, một con sông, và một tu viện, tất cả đều có cùng tên gọi. Ngôi làng là nơi sinh của Bharaṇa, một trong những vị tướng của Duṭṭhagāmaṇī (Mhv.xxiii.64). Trên sông có một bến cạn tên là Javamāla, được Duṭṭhagāmaṇī vượt qua trong khi chạy trốn khỏi anh trai Tissa của mình (Mhv.xxiv.22). Theo ngữ cảnh này, con sông ắt hẳn đã ở Rohaṇa, và Geiger (Mhv.Trs.165, n.5) nghĩ rằng nó có lẽ đồng nhất với Kumbukkan-Oya ngày nay. Mahā Vaṁsaṭīkā (p.593) nói rằng Malayamahādeva đã đến Kappakandara Piyaṅgudīpa để thọ nhận đồ khất thực từ Duṭṭhagāmaṇī.
+
+Theo Rasavāhinī (Ras.ii.160) ngôi làng nằm gần Cittalapabbatavihāra.
 
 ## Notes

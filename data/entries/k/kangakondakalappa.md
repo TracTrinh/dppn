@@ -5,7 +5,7 @@ base_headword: "Kaṅgakoṇḍakalappa"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kaṅgakoṇḍakalappa. A <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṅgakoṇḍakalappa. Một thủ lĩnh Damiḷa, đồng minh của Kulasekhara. Cv.lxxvii.75.
 
 ## Notes

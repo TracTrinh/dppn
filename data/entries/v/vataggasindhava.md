@@ -5,7 +5,7 @@ base_headword: "Vātaggasindhava"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vātaggasindhava. The Bodhisatta born as the state horse of the king of <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhisatta sinh ra làm con ngựa chiến của vua xứ Benares. Xem Vātaggasindhavajātaka (Ja 266).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kukkurajātaka"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -31,6 +31,8 @@ The king is identified with <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kukkurajātaka 01. (Ja 22). Bởi vì dây đai cỗ xe của ông, bị bỏ lại ngoài mưa, bị chính những con chó của mình gặm nhấm, vua của Benares đã ra lệnh giết tất cả những con chó ngoại trừ chó của mình không phân biệt. Bodhisatta, lúc đó là thủ lĩnh của bầy chó trong nghĩa địa, đã đến thăm nhà vua, chỉ ra cho ông sự bất công của mình, và phơi bày sự thật bằng cách khiến cho chó của nhà vua phải uống thuốc nôn. Sau khi thuyết phục được nhà vua, Bodhisatta đã dạy cho ông mười vần kệ về Sự công bằng được tìm thấy trong Tesakuṇajātaka (*dhammaṁ cara mahārāja*, v.v., Ja.v.123). Sau đó những phước báu lớn lao đã được ban cho loài chó. Giáo lý của Bodhisatta tồn tại trong mười ngàn năm dưới tên gọi Kukkurovāda.
+
+Nhà vua được đồng nhất với Ānanda (Ja.i.175ff). Dịp kể lại câu chuyện được đưa ra trong Bhaddasālajātaka.
 
 ## Notes

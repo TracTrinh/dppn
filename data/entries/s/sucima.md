@@ -5,7 +5,7 @@ base_headword: "Sucimā"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sucimā. One of the palaces occupied by <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sucimā. Một trong những cung điện nơi Maṅgala Buddha ngự trị trong kiếp sống tại gia cuối cùng của Ngài. Bv­a.116; nhưng xem Maṅgala.
 
 ## Notes

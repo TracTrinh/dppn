@@ -5,7 +5,7 @@ base_headword: "Piṭakattayalakkhaṇa"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -26,6 +26,6 @@ Piṭakattayalakkhaṇa. A treatise ascribed by the <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piṭakattayalakkhaṇa. Một chuyên luận được phái Pārupaṇa cho là của Buddhaghosa. PLC.189; Bode, 75.
 
 ## Notes

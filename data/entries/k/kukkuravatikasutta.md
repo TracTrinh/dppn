@@ -5,7 +5,7 @@ base_headword: "Kukkuravatikasutta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -34,6 +34,13 @@ Both <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kukkuravatikasutta. Được thuyết giảng tại Haliddavasana cho Puṇṇa, người thực hành Ngưu giới (sống như một con bò), và cho Acelaka Seniya, người thực hành Cẩu giới (sống như con chó). Để trả lời cho những câu hỏi liên tục của họ, Đức Phật nói rằng trạng thái tiếp theo của cả hai hoặc là đọa xứ (purgatory) hoặc tái sanh làm súc sanh (tương ứng vào loài bò và loài chó). Sau đó, ngài tiếp tục mô tả bốn loại hành động:
+
+- (1) Đen, mang lại quả báo đen;
+- (2) trắng, mang lại quả báo trắng;
+- (3) cả đen và trắng mang lại quả báo tương tự; và
+- (4) không đen cũng không trắng mang lại quả báo tương ứng.
+
+Cả Puṇṇa và Seniya đều quy y Đức Phật, Seniya sau đó trở thành một vị Arahant (MN.i.387ff).
 
 ## Notes

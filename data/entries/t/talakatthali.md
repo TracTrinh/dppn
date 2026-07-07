@@ -5,7 +5,7 @@ base_headword: "Taḷākatthalī"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,6 @@ Taḷākatthalī, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Taḷākatthalī, Taḷātthala. Một địa phương cách Pulatthipura không xa. Nó có một pháo đài mà từng bị chiếm giữ bởi *Laṅkādhinātha* Rakkha. Cv.lxx.107, 112, 174.
 
 ## Notes

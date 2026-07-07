@@ -5,7 +5,7 @@ base_headword: "Sudassana"
 disambiguator: "19"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sudassana 19. A king of seventy-one *kappas* ago; a previous birth of <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudassana 19. Một vị vua cách đây bảy mươi mốt kappa; là tiền kiếp của Ekasaṅkhiya Thera. Ap.ii.391.
 
 ## Notes

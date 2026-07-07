@@ -5,7 +5,7 @@ base_headword: "Vajirapāṇī"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -36,6 +36,8 @@ Vajirapāṇī. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vajirapāṇī. Một Yakkha. Người ta nói rằng ai từ chối trả lời một câu hỏi hợp lý do một vị Phật đặt ra, dù đến lần thứ ba được hỏi, thì đầu người đó sẽ vỡ tan ngay tại chỗ. Nhiệm vụ của Vajirapāṇī là dọa những người như vậy bằng cách xuất hiện trước họ trên bầu trời, vũ trang với sấm sét, sẵn sàng phóng xuống nếu cần. Vajirapāṇī chỉ hiện thân trước Đức Phật và người bị hỏi. Hai trường hợp về điều này được ghi lại trong các bộ kinh — một lần với Ambaṭṭha (DN.i.95; cf. the story in the Ayakūṭajātaka, Ja 347), và một lần với Saccaka Nigaṇṭhaputta (MN.i.231).
+
+Buddhaghosa nói (DN­a.i.264; MN­a.i.457; cp. Divy.130) rằng Vajirapāṇī đồng nhất với Sakka, và tiếp tục mô tả vẻ ngoài hung dữ mà Ngài hiện ra trong những dịp này. Sự sắp xếp này được thực hiện để thực hiện một lời hứa mà Sakka đã hứa trước Mahā Brahma, khi Đức Phật do dự không muốn thuyết Pháp (See Vin.i.5f), rằng nếu Đức Phật thiết lập vương quốc Pháp của Ngài (*Dhammacakka*), Sakka sẽ cung cấp sự bảo hộ cần thiết. Ở một số nơi (e.g., Cv.xcvi.37; see also JRAS. 1916, p.733f), việc Vajirapāṇī chinh phục các Asuras được đề cập, qua đó khẳng định Ngài đồng nhất với Indra. Xem thêm Vajirahattha.
 
 ## Notes

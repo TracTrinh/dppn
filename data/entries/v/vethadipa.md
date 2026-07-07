@@ -5,7 +5,7 @@ base_headword: "Veṭhadīpa"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -29,6 +29,8 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Veṭhadīpa, Veṭhadīpaka. Một khu định cư của Bà-la-môn, thủ lĩnh của nơi này đã thỉnh cầu một phần xá-lợi của Đức Phật; sau khi nhận được xá-lợi, ông đã xây dựng một bảo tháp (*Thūpa*) lên trên chúng (DN.ii.165, 167; Bv.xxviii.3).
+
+Theo Dhammapada Commentary, các vị vua của Veṭhadīpaka và Allakappa đã từng sống trong tình bằng hữu thân thiết (Dhp­a.i.161; xem JRAS. 1907, p. 1049).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Sāropamasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -27,6 +27,6 @@ Mahā Sāropamasutta. Preached at <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sāropamasutta. Được thuyết giảng tại Gijjhakūṭa, ngay sau sự ly khai của Devadatta. Một số thanh niên từ bỏ gia đình, bị lôi kéo bởi đời sống của một tỳ-kheo. Khi là những tỳ-kheo, họ nhận được những vật phẩm cúng dường, sự tôn kính, và danh tiếng. Những điều này khiến họ hài lòng và làm thỏa mãn những khát vọng của họ đến nỗi họ trở nên kiêu ngạo và gièm pha người khác. Do đó họ trở nên chểnh mảng và làm mồi cho khổ đau. Trường hợp của họ giống như trường hợp của một người đàn ông, cần loại gỗ tốt nhất, đi vào một khu rừng và hài lòng với việc chặt lấy những cành lá hay vỏ của các thân cây, không biết gì về các phẩm cấp của gỗ. Trái lại, vị tỳ-kheo nào chỉ cảm thấy hài lòng khi vị ấy đạt đến sự tận diệt của khổ đau thì giống như một người đàn ông chỉ lấy phần lõi gỗ tốt nhất, và bỏ qua những phần khác. MN.i.192-7.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kesi"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -26,6 +26,6 @@ Kesi 02. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kesi 02. biến thể Kesa. Cha của Buddhaghosa. Ông sống ở Ghosagāma. Gv.66; Buddhaghosuppatti, p.38; Sās.29.
 
 ## Notes

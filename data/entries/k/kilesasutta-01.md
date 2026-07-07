@@ -5,7 +5,7 @@ base_headword: "Kilesasutta"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -23,6 +23,6 @@ Kilesasutta 01. The five kinds of alloy which are used with gold – iron, coppe
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kilesasutta 01. Năm loại tạp chất được sử dụng cùng với vàng – sắt, đồng, thiếc, chì và bạc – và năm sự ô nhiễm tương tự của tâm – tham dục, sân hận, hôn trầm thụy miên, trạo cử hối quá, và hoài nghi (SN.v.92f).
 
 ## Notes

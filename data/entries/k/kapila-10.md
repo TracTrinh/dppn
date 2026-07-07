@@ -5,7 +5,7 @@ base_headword: "Kapila"
 disambiguator: "10"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kapila 10. A minister of King <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kapila 10. Một vị quan của Vua Vohārikatissa. Ông được nhà vua bổ nhiệm để đàn áp giáo lý Vetulya và kìm hãm những kẻ ngoại đạo. Mhv.xxxvi.41; Dpv.xxii.44.
 
 ## Notes

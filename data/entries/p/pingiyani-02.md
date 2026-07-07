@@ -5,7 +5,7 @@ base_headword: "Piṅgiyānī"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -29,6 +29,8 @@ The story is one of those related by <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piṅgiyānī 02. Vợ của Brahmadatta. Một ngày nọ khi mở cửa sổ, bà nhìn thấy một người giữ ngựa hoàng gia, người mà bà đã đem lòng yêu, và khi nhà vua ngủ say, bà đã trèo qua cửa sổ xuống, nằm với người giữ ngựa, và sau đó lại trèo lên, tắm rửa xức hương và nằm xuống bên cạnh nhà vua. Cuối cùng, nhà vua phát hiện ra hành vi sai trái của bà và tuyên bố điều đó với các quan đại thần, tước bỏ tước vị hoàng gia của bà.
+
+Câu chuyện này là một trong những câu chuyện được kể bởi Kuṇāla, người được đồng nhất với Brahmadatta (Ja.v.444). Có lẽ câu chuyện này chính là câu chuyện được nhắc đến với tên gọi Cūḷa Kuṇālajātaka (Ja 464).
 
 ## Notes

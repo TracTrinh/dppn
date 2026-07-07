@@ -5,7 +5,7 @@ base_headword: "Kesi"
 disambiguator: "03"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -24,6 +24,6 @@ Kesi 03. A noble steed belonging to <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kesi 03. Một con chiến mã cao quý thuộc về Ekarāja (Ja.vi.135).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Khemiyā"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -25,6 +25,6 @@ Khemiyā. A class of gods, present at the preaching of the <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khemiyā. Một hạng chư thiên, có mặt tại buổi giảng bài Mahā Samayasutta (DN.ii.261).
 
 ## Notes

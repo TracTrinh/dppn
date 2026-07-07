@@ -5,7 +5,7 @@ base_headword: "Soreyya"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -29,6 +29,8 @@ Some time after, he saw his former friend driving in a carriage through <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Soreyya 02. Một *seṭṭhiputta* (con trai của trưởng giả) ở Soreyya. Một lần nọ, khi vị ấy cùng một người bạn với một đoàn tùy tùng lớn đang lái xe ngựa ra khỏi thành phố để đi tắm, vị ấy nhìn thấy Mahā Kaccāyana đang chỉnh đốn y áo trước khi vào thành phố khất thực. Soreyya nhìn thấy thân hình của vị Trưởng lão, và ao ước rằng mình có thể biến ngài thành vợ mình, hoặc là làn da của vợ mình có thể trở nên giống màu da của ngài Trưởng lão. Ngay lập tức Soreyya bị biến thành một người phụ nữ, và, trốn tránh những người bạn đồng hành của mình, đã đi theo một đoàn thương buôn đến Takkasilā. Đến Takkasilā, vị ấy trở thành vợ của vị Thủ quỹ của thành phố đó và sinh ra hai người con trai. Vị ấy đã có hai người con trai ở Soreyya, được sinh ra trước khi vị ấy thay đổi hình hài.
+
+Một thời gian sau, vị ấy nhìn thấy người bạn cũ của mình đang lái xe ngựa ngang qua Takkasilā, và đã sai một nữ tì đến chỗ vị ấy, mời vị ấy đến nhà và thiết đãi. Người bạn không thể nhận ra vị ấy cho đến khi vị ấy tiết lộ sự thật. Thế là cả hai người cùng trở về Soreyya và thỉnh mời Mahā Kaccāyana đến dùng bữa. Soreyya sụp lạy dưới chân ngài, thú nhận lỗi lầm của mình, và xin được tha thứ. Khi ngài Trưởng lão tha thứ cho vị ấy, vị ấy một lần nữa trở lại thành đàn ông. Vị ấy đã gia nhập Tăng đoàn dưới sự chứng minh của ngài Trưởng lão và cùng ngài đi đến Sāvatthī. Tại đó, những người đã nghe câu chuyện của vị ấy cứ làm phiền vị ấy bằng những câu hỏi. Do đó, vị ấy đã lui vào nơi thanh vắng, và nhờ phát triển tuệ giác, đã trở thành một *Arahant*. Trước đó, khi mọi người hỏi vị ấy yêu thương những đứa con nào của mình nhất, vị ấy sẽ nói: "Những đứa con mà tôi sinh ra trong lúc làm phụ nữ"; nhưng sau khi đạt được quả vị *Arahant*, vị ấy lại nói: "Tình cảm của tôi không đặt vào bất cứ ai." Dhp­a.i.324ff.
 
 ## Notes

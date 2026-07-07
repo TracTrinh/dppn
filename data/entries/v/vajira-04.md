@@ -5,7 +5,7 @@ base_headword: "Vajira"
 disambiguator: "04"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vajira 04. One of the seven <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vajira 04. Một trong bảy Yakkha, những người canh giữ cung điện của Jotiya. Ông đứng ở cổng thứ ba và có ba nghìn tùy tùng. Dhp­a.iv.209.
 
 ## Notes

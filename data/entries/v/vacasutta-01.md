@@ -5,7 +5,7 @@ base_headword: "Vācāsutta"
 disambiguator: "01"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -24,6 +24,6 @@ Vācāsutta 01. A nun who is wrong in speech, wrong in action, and who rejects t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vācāsutta 01. Một tỳ-kheo-ni có lời nói sai trái, hành động sai trái, và từ chối bố thí phẩm vật của đức tin thì sẽ bị đọa vào địa ngục. AN.iii.141.
 
 ## Notes

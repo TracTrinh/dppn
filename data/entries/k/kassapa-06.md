@@ -5,7 +5,7 @@ base_headword: "Kassapa"
 disambiguator: "06"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -24,6 +24,6 @@ Kassapa 06. Another name for <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapa 06. Một tên gọi khác của Akitti (*q.v.*). Ja.iv.240, 241; xem thêm *Jātakamālā* vii.13.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Sukajātaka"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -35,6 +35,10 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sukajātaka (Ja 429). Bodhisatta từng có lần là vua của loài vẹt và sống trong một khu rừng cây vả ở Himālaya. Sau một thời gian, những quả của những cái cây nơi ngài sinh sống đã hết sạch, nhưng ngài vẫn tiếp tục sống ở đó, ăn vỏ cây hoặc những chồi non hoặc bất cứ thứ gì khác mà ngài có thể tìm thấy. Ngai vàng của Sakka trở nên nóng lên, và Sakka, hóa thân thành một con ngỗng và đi cùng với Sujā, đã đến thăm con vẹt và hỏi tại sao nó không đi nơi khác. Con vẹt trả lời rằng nó không muốn rời bỏ những người bạn cũ, và Sakka, hài lòng với câu trả lời này, đã hứa ban cho nó một ân huệ. Con vẹt yêu cầu cây vả được đơm hoa kết trái trở lại, và Sakka đã làm như vậy.
+
+Câu chuyện này được kể lại liên quan đến một tỳ-kheo có một chỗ ở dễ chịu gần một ngôi làng, nhưng người cảm thấy khó khăn trong việc khất thực, vì dân làng trở nên rất nghèo. Vị ấy trở nên rất bất mãn, nhưng Đức Phật đã yêu cầu vị ấy không nên rời bỏ chỗ ở của mình.
+
+Sakka trong câu chuyện được đồng nhất với Anuruddha (Ja.iii.490-4). Theo Chú giải Dhammapada (Dhp­a.i.283ff), câu chuyện được kể lại liên quan đến Nigamavāsītissa (*q.v.*) và Sakka được đồng nhất với Ānanda.
 
 ## Notes

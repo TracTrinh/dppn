@@ -5,7 +5,7 @@ base_headword: "Upanāhīsutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Upanāhīsutta. Preached in answer to the questions of <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upanāhīsutta. Được thuyết để trả lời các câu hỏi của Anuruddha. Năm phẩm chất, bao gồm cả sự hằn học, dẫn người phụ nữ đến tái sinh trong địa ngục. SN.iv.241.
 
 ## Notes

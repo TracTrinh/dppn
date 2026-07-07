@@ -5,7 +5,7 @@ base_headword: "Maṅgala"
 disambiguator: "13"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Maṅgala 13. A palace occupied by <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṅgala 13. Một cung điện nơi Asoka cư ngụ. Ras.ii.93.
 
 ## Notes

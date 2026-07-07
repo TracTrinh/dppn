@@ -5,7 +5,7 @@ base_headword: "Mahā Vyūha"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Vyūha. A gabled chamber erected by <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Vyūha. Một căn phòng có mái hồi được dựng lên bởi Mahā Sudassana để ngài có thể lui vào đó nghỉ ngơi trong lúc cái nóng của ban ngày. Nó được làm bằng bạc. DN.ii.182; DN­a.ii.632; xem Dial.ii.214, n.1.
 
 ## Notes

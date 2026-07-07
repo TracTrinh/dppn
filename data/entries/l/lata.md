@@ -5,7 +5,7 @@ base_headword: "Latā"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -36,6 +36,8 @@ Later, the story was related to <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Latā. Một người phụ nữ ở Sāvatthī. Bà tốt lành và thuần thành, và sau khi mất, tái sinh là con gái của Vessavaṇa. Các chị em của bà là Sajjā, Pavarā, Acchimatī và Sutā. Sakka đã cưới tất cả họ, và khi nảy sinh tranh luận về ai tài nghệ nhất trong ca múa, một cuộc thi được tổ chức trên bờ Anotatta, trong đó Latā đã chiến thắng. Sutā hỏi Latā bằng cách nào bà có được tài năng xuất sắc đó, và người sau đã kể về các việc thiện lành của mình khi còn là người.
+
+Sau này, câu chuyện được kể lại cho Moggallāna trong một trong những lần ông đến thăm các cõi Deva, và được ông kể lại cho Gotama Buddha. Vv.iii.4; Vv-a.131ff.
 
 ## Notes

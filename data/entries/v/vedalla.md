@@ -5,7 +5,7 @@ base_headword: "Vedalla"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -31,6 +31,8 @@ It includes such *Suttas* as the <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vedalla. Phần cuối cùng trong chín *aṅgas* hay các phần của *Tipiṭaka*, theo chủ đề. (MN.i.133; Pug.iv.9; Gv.27; Vin.iii.8; Mil. 263).
+
+Phần này bao gồm các *Sutta* như Cūḷa Vedalla, Mahā Vedalla, Sammādiṭṭhi, Sakkapañha, Saṅkhārabhājanīya, Mahā Puṇṇama, và những bài kinh khác, vốn được thuyết giảng để trả lời những câu hỏi được đặt ra thông qua sự hiểu biết và hoan hỷ (*sabbe pi vedañ-ca tutthiñ-ca laddhā pucchitasuttantā*). DN­a.i.24.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sonemi"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Sonemi. Name of a <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sonemi. Tên của một Pacceka Buddha. Ap­a.i.107.
 
 ## Notes

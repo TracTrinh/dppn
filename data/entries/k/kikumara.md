@@ -5,7 +5,7 @@ base_headword: "Kikumāra"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kikumāra. The name of a tribe mentioned in the <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kikumāra. Tên của một bộ tộc được nhắc đến trong Apadāna (Ap.ii.359).
 
 ## Notes

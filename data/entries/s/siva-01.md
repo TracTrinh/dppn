@@ -5,7 +5,7 @@ base_headword: "Siva"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -28,6 +28,6 @@ Siva 01. The name of a god (Cv.xciii. 9, 10). A *Devaputta*, named <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Siva 01. Tên của một vị thần (Cv.xciii. 9, 10). Một vị thiên tử tên là Siva được nhắc đến trong Saṁyutta (SN.i.56) là đã đến thăm Đức Phật và nói lên một số câu kệ về lợi ích của việc chỉ kết giao với người thiện. Điều thú vị là Buddhaghosa không có bình luận đặc biệt nào về cái tên này trong ngữ cảnh đó. Tuy nhiên, trong Samantapāsādikā, ngài có nhắc đến việc thờ phụng Sīvaliṅga. Vin-a.iii.626; cf. Ud­a.351, nơi có nhắc đến Khaṇḍadevasivādiparicaraṇaṁ.
 
 ## Notes

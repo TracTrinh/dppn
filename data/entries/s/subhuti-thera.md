@@ -5,7 +5,7 @@ base_headword: "Subhūti Thera"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -40,6 +40,10 @@ Verses attributed to him are included in the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subhūti Thera. Ngài là con trai của Sumana *seṭṭhī* (trưởng giả) và là em trai của Anāthapiṇḍika. Vào ngày dâng cúng Jetavana, ngài đã nghe Đức Phật thuyết pháp và rời bỏ thế tục. Sau khi xuất gia, ngài tinh thông hai hạng mục (của các học giới Vinaya), và, sau khi nhận được một đề mục thiền định, ngài đã sống trong rừng. Tại đó ngài đã phát triển tuệ giác, và đạt được quả vị *Arahant* dựa trên nền tảng của *mettā jhāna* (thiền tâm từ). Với việc giảng dạy Giáo pháp (Dhamma) không phân biệt hay giới hạn, ngài được tuyên bố là vị Đệ nhất trong số những người sống trong bình an (*araṇavihārinaṁ aggo*), và trong số những người xứng đáng nhận đồ cúng dường (*dakkhiṇeyyānaṁ*) (AN.i.24; cf. Ud.vi.7, nơi Đức Phật tán thán sự tinh thông của ngài trong thiền định). Có lời kể rằng khi ngài đi khất thực, ngài sẽ phát triển *mettā jhāna* tại mỗi cánh cửa, do đó mọi đồ cúng dường dâng lên ngài đều mang lại công đức cao tột. Trong suốt các chuyến du hành của mình ngài đã đến Rājagaha, và Bimbisāra hứa sẽ xây cho ngài một chỗ ở. Nhưng nhà vua đã quên mất lời hứa của mình, và Subhūti đã thiền định ở ngoài trời. Trời đã không mưa, và khi phát hiện ra nguyên nhân, nhà vua đã cho dựng một túp lều lợp lá cho ngài. Ngay khi Subhūti bước vào túp lều và ngồi vắt chéo chân trên chiếc giường bằng cỏ khô, trời bắt đầu đổ mưa.
+
+Vào thời Padumuttara Buddha ngài xuất thân từ một gia đình giàu có và được gọi là Nanda. Sau này ngài đã rời bỏ thế tục và sống đời đạo sĩ, đứng đầu bốn mươi tư ngàn người khác. Đức Phật đã đến thăm am thất của Nanda và nhận từ ngài một món đồ cúng dường gồm trái cây và hoa. Ngài đã yêu cầu một trong những vị tỳ-kheo của mình, một người tinh thông *mettā* và lỗi lạc trong việc nhận đồ cúng dường, thuyết bài pháp *anumodanā* (tùy hỷ công đức). Vào cuối thời pháp, tất cả những vị đạo sĩ khác đều trở thành những bậc *Arahant*, nhưng sự chú ý của Nanda lại tập trung vào sự uy nghi của vị tỳ-kheo đang thuyết pháp, và ngài đã không đạt được bất kỳ sự chứng đắc nào. Sau đó, khi khám phá ra những phẩm chất mà vị pháp sư đã đạt được sự lỗi lạc đó, Nanda quyết tâm rằng ngài cũng sẽ đạt được sự lỗi lạc tương tự. AN­a.i.124f.; Thag­a.i.17ff.; Ud­a.348f; xem thêm Ap.i.67f., nơi Nanda được gọi là Kosiya.
+
+Các bài kệ được gán cho ngài được bao gồm trong Theragāthā (vs.1) và cũng trong Milindapañha (pp.356,391). Xem thêm Subhūtisutta.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Pañcasataraṭṭha"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Pañcasataraṭṭha. A district in Ceylon (the modern Pansiyapattu to the North
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcasataraṭṭha. Một quận ở Tích Lan (Pansiyapattu thời hiện đại, ở phía đông bắc Kandy) nơi Vua Senāratna từng cất giữ Xá-lợi Răng để bảo vệ khỏi kẻ thù của mình. Cv.xcv.9.
 
 ## Notes

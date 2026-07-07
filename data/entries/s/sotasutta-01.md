@@ -5,7 +5,7 @@ base_headword: "Sotasutta"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -23,6 +23,6 @@ Sotasutta 01. The Ariyan disciple who really knows and understands the five *ind
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sotasutta 01. Vị đệ tử bậc Thánh, người thực sự biết và thấu hiểu năm *indriya*, là một bậc Dự lưu (*Sotāpanna*). SN.v.193.
 
 ## Notes

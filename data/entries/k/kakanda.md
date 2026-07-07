@@ -5,7 +5,7 @@ base_headword: "Kākanda"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -27,6 +27,6 @@ Kākanda, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kākanda, Kākandī. Các bản chú giải nói về Kākaṇḍa như một bậc hiền triết thời xưa và đề cập đến ông trong sự đồng hành cùng Savattha và Kusumba. Nơi ở của ông về sau được gọi là Kākandī. Snp-a.i.300; cp. Khp­a.110; Ud­a.55.
 
 ## Notes

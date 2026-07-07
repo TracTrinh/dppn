@@ -5,7 +5,7 @@ base_headword: "Kisa Vaccha"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -37,6 +37,10 @@ The story was evidently well-known in India and is often referred to (e.g., Ja.v
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kisa Vaccha (cũng được gọi là Vaccha Kisa, Ja.v.150, 267). Một đạo sĩ (*Isi*), đệ tử chính của Sarabhaṅga. Mong muốn sự cô độc, ông sống trong công viên của vua Daṇḍaki, gần Kumbhavatī ở Kaliṅga. Một kỹ nữ của thành phố đang đi dạo trong công viên, sau khi mất đi sự sủng ái của nhà vua, đã nhìn thấy Kisa Vaccha, và coi cảnh tượng này là một điềm gở, cô đã nhổ nước bọt vào ông và ném que tăm xỉa răng của mình vào đầu ông. Cùng ngày hôm đó, cô nhận lại được sự sủng ái của nhà vua và quyết định rằng đó là kết quả của việc nhổ nước bọt vào vị đạo sĩ. Sau đó, khi vị *Purohita* mất chức, cô khuyên ông ta làm như cô đã làm, và thật tình cờ, ông ta cũng được phục chức. Một thời gian sau, khi nhà vua đi dẹp một cuộc nổi dậy ở biên giới, được khuyên nên nhổ nước bọt vào vị đạo sĩ và ném que tăm xỉa răng của mình vào ông; bằng cách này nhà vua sẽ gặp may mắn. Nhà vua đã nghe theo lời khuyên này, tất cả binh lính của nhà vua cũng làm như vậy. Vị tướng của nhà vua, một người ủng hộ Kisa Vaccha, đã tắm cho vị thánh nhân, và khi được cho biết rằng các vị thần sẽ tiêu diệt vương quốc trừ khi một lời xin lỗi được đưa ra, đã thúc giục nhà vua xin lỗi. Tuy nhiên, nhà vua không sẵn lòng, và toàn bộ dải đất Kāliṅga, rộng sáu mươi do-tuần, đã biến thành một vùng hoang vu; chỉ có ba người trốn thoát bình an vô sự – Kisa Vaccha, vị tướng của nhà vua, và Matuposaka Rāma. Đích thân Kisa Vaccha được đưa lên một chiếc kiệu đến chỗ Sarabhaṅga bởi hai trong số các đệ tử của Sarabhaṅga (Ja.iii.463, 469; v.133-6; MN­a.ii.599ff).
+
+Câu chuyện này hiển nhiên rất nổi tiếng ở Ấn Độ và thường được nhắc đến (ví dụ: Ja.v.267; DN­a.i.266).
+
+Kisa Vaccha được đề cập trong một danh sách mười một nhà hiền triết (ví dụ: Ja.vi.99). Ông được đồng nhất với Kolita (Moggallāna, Ja.v.151).
 
 ## Notes

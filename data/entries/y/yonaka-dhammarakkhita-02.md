@@ -5,7 +5,7 @@ base_headword: "Yonaka Dhammarakkhita"
 disambiguator: "02"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -24,6 +24,6 @@ Yonaka Dhammarakkhita 02. Teacher of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yonaka Dhammarakkhita 02. Thầy của Punabbasukuṭumbikaputtatissa (*q.v.*).
 
 ## Notes

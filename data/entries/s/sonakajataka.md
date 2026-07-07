@@ -5,7 +5,7 @@ base_headword: "Sonakajātaka"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -27,6 +27,6 @@ Sonakajātaka (Ja 529). The story of the Bodhisatta in his birth as <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sonakajātaka (Ja 529). Câu chuyện về Bodhisatta trong kiếp sống làm Arindama và người bạn của ngài, Sonaka, vị đã trở thành một Pacceka Buddha (Ja.v.247-61; *cf.* Ntu.iii.450). Về câu chuyện, xem Arindama. Chuyện này được kể lại liên quan đến *Nekkhammapāramitā* (ba-la-mật xuất gia) của Đức Phật.
 
 ## Notes

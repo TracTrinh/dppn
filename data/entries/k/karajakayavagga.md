@@ -5,7 +5,7 @@ base_headword: "Karajakāyavagga"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Karajakāyavagga. The twenty-first chapter of the *Dasakanipāta* of the <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Karajakāyavagga. Chương thứ hai mươi mốt của *Dasakanipāta* thuộc Aṅguttaranikāya. Nó chứa các *Sutta* về mười điều kiện dẫn dắt chúng sinh đến địa ngục, mười điều kiện mang lại cho một nữ cư sĩ sự tự tin trong nhà của cô ấy, v.v. (AN.v.283-303).
 
 ## Notes

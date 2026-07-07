@@ -5,7 +5,7 @@ base_headword: "Sirikālakaṇṇipañha"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -30,6 +30,6 @@ Sirikālakaṇṇipañha. The name given to that section of the <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirikālakaṇṇipañha. Tên gọi cho phần của Mahā Ummaggajātaka nói về việc Vedeha đến giành lấy Udumbarā, khi nàng bị Piṅguttara ruồng bỏ. Nó cũng kể về việc Mahosadha đã có lần cứu nàng khỏi cơn thịnh nộ của nhà vua (Ja.vi.349). Điều này rõ ràng cũng được gọi là một Jātaka cùng tên, ví dụ, tại Ja.ii.115.
 
 ## Notes

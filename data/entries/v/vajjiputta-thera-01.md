@@ -5,7 +5,7 @@ base_headword: "Vajjiputta Thera"
 disambiguator: "01"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -33,6 +33,8 @@ Ninety-one *kappas* ago he had been a householder and had paid homage to <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vajjiputta Thera 01. Ông thuộc gia đình của một quan đại thần ở Vesālī, và khi thấy oai nghi của Đức Phật trong chuyến viếng thăm thành phố, ông gia nhập Tăng đoàn và sống trong một khu rừng gần đó. Một lễ hội diễn ra ở Vesālī với nhiều tiếng ca hát, múa nhảy và vui vẻ. Điều này làm Vajjiputta phân tâm, và ông thốt ra một bài kệ khinh thường đời sống trong rừng. Một thần cây trong rừng nghe thấy và quở trách ông, nói rằng: "Dù ngươi khinh thường đời sống trong rừng, các bậc hiền trí, mong muốn sự tịch mịch, lại xem trọng nó nhiều", và thần cây liền đọc một bài kệ ca ngợi đời sống ấy. Bài kệ này, mà vị tỳ-kheo sau đó đã đọc lại, được ghi trong Thag.vs.62. Được thôi thúc bởi lời của thần cây, Vajjiputta phát triển tuệ quán và trở thành Arahant.
+
+Chín mươi mốt *kappa* trước, ông đã là một cư sĩ và đã đảnh lễ Vipassī Buddha bằng phấn hoa từ những bông hoa *nāga*. Bốn mươi lăm *kappa* trước, ông là một vị vua tên là Reṇu. Thag­a.i.142f. Câu chuyện của Vajjiputta được kể rất vắn tắt trong SN.i.201f. Câu chuyện của Vajjiputta cũng được kể trong Dhammapada Commentary. Ở đó ông được gọi là *rājā*, và được nói là đã từ bỏ vương quốc khi đến lượt ông trị vì. Vào ngày lễ hội, ngày trăng tròn của Kattika, ông tràn đầy bất mãn. Sau cuộc đối thoại với thần cây, ông đi tìm Đức Phật, Đức Phật thuyết pháp cho ông. Ông đắc quả vị Arahant khi Đức Phật kết thúc bài pháp. Dhp­a.iii.460f.; see also SN­a.i.228, nơi ông cũng được gọi là *rājā*. Có thể có sự nhầm lẫn giữa Vajjiputta (1) và (2). Ông rõ ràng được đồng nhất với Reṇupūjaka trong Apadāna. Ap.i.146.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Upanemi"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Upanemi. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upanemi. Một Pacceka Buddha, được đề cập trong các danh sách tên. MN.iii.70; Ap­a.i.107.
 
 ## Notes

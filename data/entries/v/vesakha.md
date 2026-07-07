@@ -5,7 +5,7 @@ base_headword: "Vesākha"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/066.html"
@@ -29,6 +29,6 @@ Vesākha. The month of April-May. Tradition says that the Buddha’s birth, <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vesākha. Tháng Tư-Năm. Truyền thống nói rằng sự đản sinh, Giác ngộ và Viên tịch của Đức Phật, đều diễn ra vào ngày trăng tròn của tháng Vesākha (ví dụ, Ja.i.; Bv­a.248; Mhv.iii.2). Lễ *Vesākhapūjā* luôn được các vị vua của Tích Lan tổ chức (Xem, ví dụ, Mhv.xxxii.35; xxxv.100; Cv.li.84.). Ngày trăng tròn của tháng Vesākha được chọn cho những công việc rất trọng đại, chẳng hạn như lễ đăng quang của Devānampiyatissa (Mhv.xi.42), lễ đặt Viên Đá Nền của Mahā Thūpa (Mhv.xxix.1), v.v.
 
 ## Notes

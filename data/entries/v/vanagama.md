@@ -5,7 +5,7 @@ base_headword: "Vanagāma"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vanagāma. A locality in Ceylon where <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vanagāma. Một địa danh ở Tích Lan (Ceylon) nơi Sugalā bị bắt giữ. Cv.lxxv.174.
 
 ## Notes

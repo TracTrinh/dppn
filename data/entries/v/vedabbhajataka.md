@@ -5,7 +5,7 @@ base_headword: "Vedabbhajātaka"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -29,6 +29,10 @@ The story was told in reference to a self-willed monk who is identified with the
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vedabbhajātaka (Ja 48). Thuở xưa có một vị Bà-la-môn biết được chú Vedabbha, thần chú này nếu được tụng vào một thời điểm các hành tinh hội tụ nhất định, sẽ khiến bảy báu từ trên trời rơi xuống. Bodhisatta là học trò của ông, và một ngày nọ, khi đang du hành trong rừng, họ bị năm trăm tên cướp gọi là "những kẻ sai phái" (*pesanakacorā*) tấn công. Chúng được gọi như vậy vì khi bắt được hai tù nhân, chúng sẽ giữ lại một người và sai người kia đi lấy tiền chuộc.
+
+Những tên cướp này đã giữ vị Bà-la-môn lại và sai Bodhisatta đi lấy tiền chuộc. Bodhisatta, biết rằng đêm đó sự hội tụ của các vì sao sẽ xảy ra, đảm bảo sự hiệu nghiệm của câu thần chú, đã cảnh báo vị Bà-la-môn không được sử dụng nó. Nhưng khi đêm xuống, vị Bà-la-môn đã tụng thần chú, và bọn cướp quá đỗi vui mừng đến mức ông có thể thuyết phục chúng thả ông ra. Chúng khởi hành cùng với những báu vật từ trên trời rơi xuống, vị Bà-la-môn cũng đi cùng chúng, nhưng trên đường đi họ bị một băng cướp khác tấn công. Băng cướp này được cho biết rằng vị Bà-la-môn có thể khiến kho báu từ trên trời rơi xuống; do đó chúng được thả ra, chỉ có vị Bà-la-môn bị giữ lại. Nhưng khi được thông báo rằng chúng phải đợi một năm nữa để có được sự hội tụ cần thiết của các hành tinh, chúng tức giận, chém vị Bà-la-môn làm đôi, và truy đuổi băng cướp thứ nhất, tiêu diệt chúng hoàn toàn. Không thể thống nhất về việc chia chác chiến lợi phẩm mà chúng vừa đoạt được, băng cướp thứ hai đã tàn sát lẫn nhau cho đến khi chỉ còn lại hai tên. Hai tên này lấy kho báu và giấu trong một khu rừng gần làng. Một tên đứng gác trong khi tên kia đi vào làng lấy gạo. Khi tên kia trở về, hắn nấu cơm, ăn phần của mình và bỏ thuốc độc vào phần còn lại với hy vọng loại bỏ được bạn đồng hành của mình; tuy nhiên, tên này đã giết hắn, sau đó ăn cơm và tự chết. Bodhisatta quay lại với số tiền chuộc, tìm thấy tất cả các xác chết ở nhiều nơi khác nhau, và nhận ra những gì đã xảy ra. Ngài mang kho báu về nhà mình.
+
+Câu chuyện được kể liên quan đến một vị tỳ-kheo bướng bỉnh, người được đồng nhất với vị Bà-la-môn Vedabbha. Ja.i.253-6.
 
 ## Notes

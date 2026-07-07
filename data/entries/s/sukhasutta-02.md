@@ -5,7 +5,7 @@ base_headword: "Sukhasutta"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sukhasutta 02. Two discussions between <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sukhasutta 02. Hai cuộc thảo luận giữa Sāriputta và vị *Paribbājaka* Sāmaṇḍakāni tại Nālakagāmaka. AN.v.120.
 
 ## Notes

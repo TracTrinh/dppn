@@ -5,7 +5,7 @@ base_headword: "Uttiya"
 disambiguator: "07"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Uttiya 07. One of the seven warriors of King <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttiya 07. Một trong bảy chiến binh của vua Vaṭṭagāmaṇī. Ông đã xây dựng Dakkhiṇavihāra ở phía nam Anurādhapura. Mhv.xxxiii.88.
 
 ## Notes

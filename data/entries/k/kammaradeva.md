@@ -5,7 +5,7 @@ base_headword: "Kammāradeva"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kammāradeva. A locality in <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kammāradeva. Một địa phương ở Anurādhapura, được bao gồm trong ranh giới (*sīmā*) do Devānampiyatissa đánh dấu. Ở bên trái của nó là nghĩa trang dành cho các giai cấp thấp (Mbv.135; cũng xem Mhv.xv.13, xem ấn bản của Geiger, p.332).
 
 ## Notes

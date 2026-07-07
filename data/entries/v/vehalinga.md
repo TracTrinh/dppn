@@ -5,7 +5,7 @@ base_headword: "Vehaliṅga"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/066.html"
@@ -31,6 +31,6 @@ Vehaliṅga (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vehaliṅga (*v.l.* Vekaliṅga, Vebhaliṅga). Một thị trấn (*nigama*) nơi Ghaṭīkāra, bạn của Jotipāla, sinh sống (SN.i.34, 60). Thị trấn này nằm ở Kosala, và một lần nọ, trong thời gian lưu trú dài ngày ở Kosala, Đức Phật đã đến viếng thăm *ārāma* nơi Kassapa Buddha đã thuyết giảng cho Jotipāla, và tại đó đích thân ngài đã thuyết giảng kinh Ghaṭīkārasutta. MN.ii.45ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Yāgudāyaka Thera"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -25,6 +25,6 @@ Yāgudāyaka Thera. An *Arahant*. Thirty thousand *kappas* ago, while on his way
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yāgudāyaka Thera. Một vị Arahant. Ba mươi ngàn *kappa* trước, khi đang trên đường về nhà mang theo nhiều lễ vật, ngài thấy dòng sông không thể đi qua được và đã dùng bữa tối tại một tu viện. Ở đó, ngài hoan hỷ với oai nghi của các tỳ-kheo và đã cúng dường họ một bữa cháo với năm món mặn (? *pañcannayāgu*). Sau khi mạng chung, ngài được tái sinh ở Tāvatiṁsa, và đã làm vua chư thiên ba mươi ba lần và làm vua loài người ba mươi lần. Ap.ii.375f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vajira"
 disambiguator: "01"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vajira 01. A *senāpati* of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vajira 01. Một tướng quân của Dappula II. Ông đã xây dựng vihāra Kacchavāla cho các tu sĩ Paṁsukūlīs. Cv.xlix.80.
 
 ## Notes

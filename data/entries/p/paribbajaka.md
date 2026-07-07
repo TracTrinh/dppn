@@ -5,7 +5,7 @@ base_headword: "Paribbājakā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -77,6 +77,24 @@ The inhabitants of the towns and villages, near which the <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paribbājakā, Paribbājaka, Paribbājakas. Tên gọi dành cho những nhà khổ hạnh và sa-môn (không được phân loại theo cách khác) vào thời Đức Phật. Họ không chỉ hoàn toàn là Bà-la-môn. Sự hiện diện của họ dường như đã được công nhận và tôn trọng từ những thời kỳ trước đó. Nói chung, tín ngưỡng của họ được hệ thống hóa thành niềm tin vào sự an lạc hoàn hảo sau khi chết dành cho bản ngã đã gột sạch điều ác, và niềm xác tín rằng sự an lạc này có thể đạt được bằng *brahmacariyā*, bằng việc thoát khỏi mọi điều ác trong hành động, lời nói, mục tiêu, và phương tiện sinh kế (xem, ví dụ, MN.ii.24).
+
+Tất cả bốn tiêu chuẩn đạo đức này đã được đưa trọn vẹn vào Bát Thánh đạo của Đức Phật, và tiêu chuẩn cuối cùng trong bốn tiêu chuẩn đó đã mang lại cho những người Ājīvaka tên gọi cụ thể của họ với tư cách là một giáo phái riêng biệt. Các du sĩ ngoại đạo (Paribbājakas) cho rằng họ giống với những người đi theo Đức Phật trong các giáo điều và lời dạy của họ, nhưng Đức Phật khẳng định rằng hai giáo lý là hoàn toàn khác biệt (ví dụ, MN.i.64f, 84f). Điều này được chỉ ra rõ ràng (ví dụ, Vin.i.39.) liên quan đến sự cải đạo của Sāriputta và Moggallāna, những người vốn là du sĩ ngoại đạo (Paribbājakas) dưới trướng của Sañjaya. Mục tiêu của các Paribbājaka là sự bất tử (*amata*) điều mà, đối với họ, có lẽ có nghĩa là sự tái sinh vào thế giới của Phạm thiên (*Brahma*). Việc họ cải đạo sang Pháp của Đức Phật bắt nguồn từ nhận thức rằng Gotama không giải quyết những hệ quả mà giải quyết những nguyên nhân, và rằng Ngài đã đi đến tận gốc rễ của vấn đề bằng cách giảng dạy cách thức mà các trạng thái ý thức ngẫu nhiên phát sinh và cách chúng có thể bị đoạn trừ vĩnh viễn (Chalmers: *Further Dialogues* i. Introd. xxi. Về những cuộc thảo luận về quan điểm của các Paribbājaka khi so sánh với quan điểm của Đức Phật, xem thêm AN.iv.35ff., 378; i.215).
+
+Các Paribbājaka không phải là những nhà khổ hạnh ngoại trừ ở khía cạnh họ là những người sống độc thân; một số trong bọn họ là phụ nữ. Họ là những vị đạo sư hoặc ngụy biện gia, những người dành ra tám hoặc chín tháng mỗi năm đi lang thang từ nơi này sang nơi khác với mục đích tham gia vào những cuộc thảo luận thân mật, mang tính đối thoại về các vấn đề đạo đức học và triết học, tri thức tự nhiên và chủ nghĩa thần bí. Họ khác nhau rất nhiều về trí thông minh, sự tha thiết, và thậm chí cả sự chân thực. Một số quan điểm được thảo luận trong Brahmajālasutta, chẳng hạn, và được mô tả là của những "kẻ trườn uốn như lươn" và "những kẻ chẻ sợi tóc làm tư", chắc chắn đã được mô tả một cách chân thực như vậy. Các cuốn sách có đề cập đến những hội trường được dựng lên làm nơi lưu trú cho các Paribbājaka, chẳng hạn như những hội trường trong công viên của Mallikā tại Sāvatthī (DN.i.178), và Kūṭāgārasālā tại Vesālī.
+
+Đôi khi những địa điểm đặc biệt được dành riêng cho họ trong các khu rừng gần các khu dân cư, như tại Campā trên bờ hồ Gaggarā (DN.i.111), tại Moranivāpa ở Rājagaha (AN.v.326), và trên bờ sông Sappinikā (Sđd., i.185; ii.175). Chính ở những nơi như vậy, các Paribbājaka đã gặp gỡ nhau, và trong suốt các hành trình của mình, họ sẽ đến thăm nhau để trao đổi những lời chào hỏi lịch sự và tham gia vào những cuộc thảo luận hữu ích. Sự thân thiện cao nhất dường như đã chiếm ưu thế trong những dịp này, việc giao thiệp và thảo luận diễn ra tự do, không có sự hạn chế nào về tín ngưỡng, đẳng cấp hay niềm kiêu hãnh. Do đó
+
+- Dīghanakha đến thăm Đức Phật Gotama (MN.i.497),
+- Đức Phật đến thăm Sakuladāyī (MN.ii.29; cũng như AN.ii.175ff)
+- và Sarabha (AN.i.185).
+- Vekhanassa đến thăm Đức Phật (MN.ii.40),
+- Timbaruka (SN.ii.22), Vacchagotta (SN.iii.257),
+- và Sivaka Moliya (SN.iv. 230) cũng vậy.
+- Poṭaliputta đến thăm Samiddhi (MN.iii.207),
+- Susīma đến thăm Ānanda (SN.ii.119), và
+- Jambukhādaka đến thăm Sāriputta (SN.iv. 251).
+
+Cư dân của các thị trấn và làng mạc, gần nơi các Paribbājaka dừng chân, đã đến thăm họ, vừa để thể hiện sự tôn trọng vừa để hưởng lợi từ những lời giảng dạy của họ. Tên của một số lượng đáng kể các Paribbājaka, ngoài những người đã được đề cập, những người nổi tiếng vào thời Đức Phật, được đưa ra trong các văn bản (ví dụ, Annabhāra, Varadhara, v.v., AN.ii.175), cũng như Sāmaṇḍaka (SN.iv.26) và nữ du sĩ ngoại đạo (*Paribbājikā*) Sucimukhī (SN.iii.238f). Trong hầu hết các trường hợp, họ được phác họa là có một lượng lớn tín đồ theo sau, do đó rõ ràng họ được coi là những vị đạo sư xuất chúng.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vajagaragirivihāra"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -24,6 +24,6 @@ Vajagaragirivihāra. A monastery, probably in Ceylon, the residence of Kāḷade
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vajagaragirivihāra. Một tu viện, có lẽ ở Tích Lan, là nơi cư trú của Kāḷadeva Trưởng lão (*q.v.*). MN­a.i.100.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kassapa"
 disambiguator: "07"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -25,6 +25,6 @@ Kassapa 07. A Brahmin ascetic, the Bodhisatta, father of <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapa 07. Một tu sĩ khổ hạnh Bà-la-môn, là Bodhisatta, cha của Nārada, người mà câu chuyện của ông được kể trong Cūḷa Nāradajātaka (*q.v.*). Ja.iv.221f.
 
 ## Notes

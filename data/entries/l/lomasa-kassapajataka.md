@@ -5,7 +5,7 @@ base_headword: "Lomasa Kassapajātaka"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -35,6 +35,8 @@ The story was related to a passion-tossed monk. <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lomasa Kassapajātaka (Ja 433). Có một lần Bodhisatta sinh làm Kassapa, con trai của vị giáo sĩ của nhà vua xứ Benares. Ngài và con trai nhà vua có chung một vị thầy và đã trở thành bạn bè. Khi hoàng tử trở thành vua, Kassapa, không có ham muốn quyền lực, đã rời bỏ ông và trở thành một vị đạo sĩ. Bởi vì lớp lông dày trên cơ thể ngài, mọi người gọi ngài là Lomasa Kassapa. Sakka trở nên sợ hãi trước sức mạnh của Kassapa và, muốn tiêu diệt sức mạnh đó, đã xuất hiện trước mặt nhà vua vào lúc nửa đêm và gợi ý cho ông ta rằng nếu ông ta có thể thuyết phục được Kassapa dâng một lễ tế bằng những con thú bị giết, thì ông ta sẽ được làm vua của toàn cõi Ấn Độ. Nhà vua, do đó, đã phái vị quan Sayha của mình đi mời Kassapa đến. Khi Kassapa nghe về lời đề nghị đó, ngài đã từ chối đi, nhưng Sakka lại xuất hiện trước mặt nhà vua và nói rằng nếu con gái của nhà vua, Candavadī, được đưa ra như một phần thưởng, thì Kassapa sẽ đến. Lời đề nghị này đã được đồng ý, và Kassapa, bị cám dỗ bởi vẻ đẹp của công chúa, đã đồng ý đến. Dân chúng tập trung tại địa điểm hiến tế và cố gắng can ngăn Kassapa khỏi việc giết hại các loài vật, nhưng ngài từ chối lắng nghe. Nhiều loài thú đã bị giết, và khi ngài giương kiếm lên để chặt đầu con voi của hoàng gia, thì con voi đã cất lên một tiếng kêu mà tất cả các loài vật đều hòa vào. Thức tỉnh bởi sự náo động này, Kassapa nhớ lại lối sống khổ hạnh của mình và tràn ngập sự hối hận. Ngài khiển trách nhà vua, và, ngồi xếp bằng trong không trung, đã phát triển năng lực thần thông, giúp ngài có thể bay qua không trung.
+
+Câu chuyện được kể lại cho một vị tỳ-kheo đang bị dục vọng giằng xé. Sayha được đồng nhất với Sāriputta. Ja.iii.514ff.; câu chuyện này tạo thành một trong những thế tiến thoái lưỡng nan của Milindapañha, p. 219. Ở đó Kassapa được cho là đã thực hiện lễ tế Vājapeyya.
 
 ## Notes

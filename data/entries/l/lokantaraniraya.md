@@ -5,7 +5,7 @@ base_headword: "Lokantaranirayā"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -29,6 +29,6 @@ Lokantaranirayā. A series of hells, each one being bound by three *cakkavālas*
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lokantaranirayā. Một chuỗi địa ngục, mỗi địa ngục bị bao bọc bởi ba *cakkavāla*. (Cp. Vin-a.i.120; Snp­a.ii.443). Mỗi địa ngục rộng tám nghìn do-tuần. Chúng sinh sinh ở đó là kết quả của các tội ác cực trọng, "như những tội của Coranāga, hay Corābhaya, cả hai ở Tambaṇṇidīpa." Thân của họ cao ba *gāvuta* và với móng tay dài, họ bám vào *cakkavālapabbata*. Đôi khi họ rơi vào thế giới chứa nước (*lokasandhāraka-udaka*) và bị khô cạn vì độ mặn quá cao của nó (AN­a.ii.532). Ở chỗ khác (NidA.8; Snp­a.i.59) họ được nói là chịu đựng cái lạnh cực độ. Những người có tà kiến cũng tái sinh ở đó (Ja.vi.247). Theo Buddhavaṁsa Commentary (Bv­a., p. 26), Lokantara là địa ngục của Asurakāyā.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sīhasutta"
 disambiguator: "08"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -25,6 +25,6 @@ Sīhasutta 08. Contains details of the tenfold power of a <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhasutta 08. Chứa các chi tiết về mười lực của một Tathāgata. AN.v.32f.
 
 ## Notes

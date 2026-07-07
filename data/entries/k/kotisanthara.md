@@ -5,7 +5,7 @@ base_headword: "Koṭisanthāra"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -36,6 +36,12 @@ There were buildings in the <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koṭisanthāra. Trong các bản Jātaka có đề cập (ví dụ, Ja.iii.18; 375, 397; Ja.iv.113) việc Đức Phật khi muốn thuyết pháp cho các tỳ-kheo của Jetavana, đã yêu cầu Ānanda triệu tập họ đến Koṭisanthāra và ra lệnh chuẩn bị một chỗ ngồi cho ngài ở lối vào Gandhakuṭi.
+
+Koṭisanthāra có lẽ là tên được đặt cho phần đất của Jetavana ngay bên ngoài am thất của chính Đức Phật. Nó có thể được gọi như vậy vì Anāthapiṇḍika đã mua mảnh đất đó bằng cách rải lên đó một crore *kahāpaṇa* (*kahāpaṇa-koṭi-santhārena*, Ja.i.94). Hoặc cái tên này có thể bị giới hạn ở phần đất thực sự được che phủ bởi những đồng tiền, vì chúng ta được kể (Vin.ii.159) rằng số tiền đó không đủ để che phủ toàn bộ khu đất.
+
+Có những tòa nhà ở Koṭisanthāra, các tỳ-kheo sống trong những tòa nhà này được nhắc đến là “*Antokoṭisanthāre vasantā*.” (ví dụ, Ja.iv.113)
+
+Koṭisanthāra thường được dịch là The Golden Pavement (Ví dụ, Jātaka Trs.iii.12; iv.71), có vẻ như là một cách dịch sai.
 
 ## Notes

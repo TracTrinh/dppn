@@ -5,7 +5,7 @@ base_headword: "Rohitassā"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -29,6 +29,6 @@ Rohitassā. The legendary inhabitants of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rohitassā. Các cư dân huyền thoại của Rājagaha, vào thời Koṇāgamana Buddha. Vào thời đó, núi Vipula được gọi là Vaṅkaka. Tuổi thọ của một Rohitassa là ba mươi ngàn năm. Người dân mất ba ngày để leo lên Vipula và ba ngày để xuống núi. SN.ii.191.
 
 ## Notes

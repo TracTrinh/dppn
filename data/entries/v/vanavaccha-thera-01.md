@@ -5,7 +5,7 @@ base_headword: "Vanavaccha Thera"
 disambiguator: "01"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -34,6 +34,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vanavaccha Thera 01. Ông là con trai của Vacchagotta, một Bà-la-môn ở Kapilavatthu, và ông được sinh ra trong rừng, do mẹ của ông khao khát được ngắm nhìn khu rừng và trở dạ trong khi đi dạo ở đó. Tên của ông là Vaccha; nhưng vì tình yêu của ông đối với những khu rừng, nên ông được gọi là Vanavaccha. Ông xuất gia không lâu sau sự kiện Đại Từ Bỏ của đức Phật, và sống cuộc đời ẩn sĩ cho đến khi nghe tin đức Phật đã Giác ngộ. Bấy giờ ông gia nhập Tăng đoàn, và chính tại khu rừng đó, ông đã nỗ lực và đắc quả vị *Arahant*. Khi ông cùng đức Phật trở về Kapilavatthu, những người bạn đồng đạo hỏi ông vì sao ông lại yêu thích khu rừng đến vậy, và ông đã nói một bài kệ ca ngợi đời sống trong rừng (Thag.13).
+
+Vào thời đức Phật Atthadassī, ông là một con rùa lớn sống ở sông Vinatā. Thấy đức Phật chuẩn bị sang sông, con rùa đã cõng ngài trên lưng mình. Nhiều trăm lần sau đó, ông sống như một ẩn sĩ trong rừng. Vào thời đức Phật Kassapa, ông trở thành một con chim bồ câu, và trái tim của ông rất hoan hỷ khi nhìn thấy một vị tỳ-kheo đang thực hành tâm từ bi. Về sau, ông tái sinh làm một gia chủ ở Benares và đã xuất gia. Thag­a.i.58f.; Ap.ii.506f.
 
 ## Notes

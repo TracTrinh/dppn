@@ -5,7 +5,7 @@ base_headword: "Sukhattasutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -23,6 +23,6 @@ Sukhattasutta. A farmer must first plough and harrow his field and then grow his
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sukhattasutta. Một người nông dân trước tiên phải cày và bừa ruộng của mình rồi gieo hạt giống của mình vào đúng mùa vụ. Hơn nữa anh ta phải cho nước vào và tháo nước ra khi cần thiết. Một tỳ-kheo phải thực hiện ba bước chuẩn bị cho quả vị *Arahant*: rèn luyện trong giới hạnh bậc cao, tư duy bậc cao, tuệ minh sát bậc cao. AN.i.229.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kaṁsavaṁsa"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -26,6 +26,6 @@ Kaṁsavaṁsa. The race of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṁsavaṁsa. Dòng dõi của Mahā Kaṁsa; dòng dõi này đã bị tiêu diệt bởi những người con trai của Devagabbhā. Ja.iv.79.
 
 ## Notes

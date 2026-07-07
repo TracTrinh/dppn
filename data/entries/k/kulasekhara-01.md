@@ -5,7 +5,7 @@ base_headword: "Kulasekhara"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -33,6 +33,6 @@ Kulasekhara 01. A Cholian king of South India. He besieged the Paṇḍyan king,
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị vua Coḷa của Nam Ấn Độ. Ông đã bao vây vua Paṇḍu, Parakkama của Madhurā, và vị này đã cầu cứu Parakkamabāhu I của Tích Lan. Parakkamabāhu đã cử một lực lượng viễn chinh đến Nam Ấn Độ dưới quyền của Laṅkāpura, nhưng trong lúc đó vua Paṇḍu đã bị giết và thủ đô của ông đã bị thất thủ. Tuy nhiên, lực lượng Sinhalese đã đổ bộ và tiến hành một chiến dịch kéo dài chống lại Kulasekhara và các đồng minh của ông, những người có vẻ đông đảo và hùng mạnh. Kulasekhara đã bị đánh bại, và con trai của vua Paṇḍu, Vīra Paṇḍu, đã được đưa lên ngôi ở Madhurā. Những tù binh Coḷa bắt được trong cuộc chiến đã được đưa đến Tích Lan và được sử dụng vào việc tái thiết Mahā Thūpa ở Anurādhapura. Để biết chi tiết về cuộc chiến này xem Cv.lxxvi, và lxxvii. Về lịch sử sau này của Kulasekhara xem Cv.Trs.ii.100, n.1.
 
 ## Notes

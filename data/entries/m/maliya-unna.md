@@ -5,7 +5,7 @@ base_headword: "Māliya-unna"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Māliya-unna. A *vihāra* in Ceylon. <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māliya-unna. Một *vihāra* ở Tích Lan. Muṇḍagaṅgā là một ngôi làng ở khu vực lân cận của nó. Mhv­ṭ. 605.
 
 ## Notes

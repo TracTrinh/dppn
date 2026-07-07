@@ -5,7 +5,7 @@ base_headword: "Pattapāsāṇavāpī"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -28,6 +28,6 @@ Pattapāsāṇavāpī. A tank in Ceylon, formed by <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pattapāsāṇavāpī. Một bồn chứa nước ở Tích Lan, do Moggallāna II kiến tạo bằng cách đắp đập ngăn con sông Kadambanadī (Cv.xli.61). Bồn chứa này đã được phục tu bởi Vijayabāhu I. (Cv.lx.50) và sau đó là bởi Parakkamabāhu I. Cv.lxxix.34.
 
 ## Notes

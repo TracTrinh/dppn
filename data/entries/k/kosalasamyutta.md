@@ -5,7 +5,7 @@ base_headword: "Kosalasaṁyutta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -26,6 +26,6 @@ Kosalasaṁyutta. The third section of the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kosalasaṁyutta. Phần thứ ba của Saṁyuttanikāya (SN.i.68-102). Nó chứa các bài kinh liên quan đến Pasenadi Kosala.
 
 ## Notes

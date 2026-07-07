@@ -5,7 +5,7 @@ base_headword: "Mahā Ukkusajātaka"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -31,6 +31,8 @@ The story was told in reference to <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Ukkusajātaka (Ja 486). Không xa một ngôi làng nọ, một con chim ưng sống ở bờ nam của một cái hồ. Nó tán tỉnh một con chim ưng cái ở bờ tây, và, theo gợi ý của cô ưng cái, nó đã kết bạn với một con ó cá ở phía tây, một con sư tử ở phía bắc và một con rùa trên một hòn đảo trong hồ. Về sau, những con chim ưng có hai đứa con trai, sống trên đảo. Một ngày nọ, vài người đàn ông, đi lang thang xung quanh để tìm kiếm thức ăn, đã nằm nghỉ dưới gốc cây nơi những con chim ưng sinh sống và đốt một đống lửa để xua đuổi côn trùng. Khói làm phiền những con chim non và chúng bắt đầu kêu lên. Những người đàn ông, nghe thấy tiếng kêu, đã muốn bắt những con chim để làm thức ăn. Nhưng chim ưng cái, nhận ra mối nguy hiểm, đã bảo chồng mình đi triệu tập những người bạn của chúng. Đầu tiên là ó cá đi đến, nó mang nước trong đôi cánh của mình và dập tắt ngọn lửa mỗi khi nó được thắp lên; khi nó đã mệt mỏi, rùa đã sai con trai của mình mang bùn từ dưới hồ lên, và đặt bùn lên trên đống lửa. Những người đàn ông đã bắt lấy con rùa và trói nó bằng những sợi dây leo, nhưng nó lao xuống nước, kéo theo cả những người đàn ông. Sau đó sư tử xuất hiện, và ngay từ tiếng gầm đầu tiên của nó, những người đàn ông đã bỏ chạy, và những người bạn đã vui mừng vì sự vững chắc trong tình bạn của họ.
+
+Câu chuyện này được kể liên quan đến Mittagandhaka (*xem từ này*) và vợ của ông. Họ là những con chim ưng trong câu chuyện. Rāhula là rùa con và Moggallāna là rùa cha. Sāriputta là ó cá và Bodhisatta là sư tử. Ja.iv.288-97.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Vana"
 disambiguator: "04"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Vana 04. A forest on the banks of the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Vana 04. Một khu rừng ở bên bờ sông Nerañjarā. Dhp­a.i.86; Dhs-a.34, v.v.; Ja.i.77.
 
 ## Notes

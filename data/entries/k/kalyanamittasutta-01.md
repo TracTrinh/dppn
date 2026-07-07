@@ -5,7 +5,7 @@ base_headword: "Kalyāṇamittasutta"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -24,6 +24,6 @@ Kalyāṇamittasutta 01. Just as the dawn is the harbinger of the rising sun, so
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kalyāṇamittasutta 01. Giống như bình minh là dấu hiệu báo trước sự mọc lên của mặt trời, sự làm bạn với người tốt là điềm báo trước của Bát Thánh đạo. SN.v.29.
 
 ## Notes

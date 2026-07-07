@@ -5,7 +5,7 @@ base_headword: "Upasena"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -31,6 +31,6 @@ Upasena 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upasena 01. Trưởng lão Upasena. Cậu ruột của Trưởng lão Vijitasena và là anh/em trai của Sena. Ông là một người huấn luyện voi, và sau khi nghe Đức Phật thuyết pháp, ông gia nhập Tăng đoàn và, theo đúng tiến trình, trở thành một *Arahant*. Ông đã xuất gia cho Vijitasena (Thag­a.i.424). Theo Mahā Vastu (iii.60ff), Sāriputta cải đạo sang Phật giáo không phải bởi Assaji, như được ghi lại trong các Piṭaka, mà bởi một Trưởng lão tên là Upasena, người, có lẽ, được đồng nhất với Upasena này. Mahā Vastu (iii.431f) cũng đề cập đến một Upasena là cháu trai của các Tebhātikajaṭilas. Khi các Tebhātikas chấp nhận Đức Phật là bậc đạo sư của mình, họ đã ném những y phục, v.v., mà họ từng dùng với tư cách là những đạo sĩ, xuống dòng Nerañjarā, nơi có am thất của Upasena trên bờ sông. Khi Upasena nhìn thấy những chiếc y, v.v., ông biết rằng chắc hẳn đã có chuyện gì đó xảy ra với những người cậu của mình. Ngay lập tức, ông đi đến gặp họ và, sau khi nghe tin tốt lành về niềm hạnh phúc mới tìm thấy của họ, chính ông cũng trở thành một tỳ-kheo. Không có nói rõ liệu Upasena này có đồng nhất với vị Trưởng lão cùng tên được nhắc đến ở trên với tư cách là thầy của Sāriputta hay không.
 
 ## Notes

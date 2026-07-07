@@ -5,7 +5,7 @@ base_headword: "Sena"
 disambiguator: "15"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Sena 15. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sena 15. Con trai của Atthadassī Buddha. Bv.xv.16; Bva.178 gọi ông là Sela.
 
 ## Notes

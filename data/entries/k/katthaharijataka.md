@@ -5,7 +5,7 @@ base_headword: "Kaṭṭhahārijātaka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -34,6 +34,10 @@ Perhaps the story has some connection with that of Duṣyanta and Śakuntalā, a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṭṭhahārijātaka (Ja 7). Brahmadatta, vua của Benares, trong lúc đang đi dạo trong một khu rừng để tìm kiếm hoa quả, đã tình cờ gặp một người phụ nữ vừa đi nhặt củi vừa hát vui vẻ. Ông đã ân ái với nàng, và Bodhisatta đã được thụ thai ngay tại đó. Nhà vua trao cho người phụ nữ chiếc nhẫn ấn tín của mình, với lời dặn dò rằng nếu đứa trẻ sinh ra là con trai, nó phải được đưa đến triều đình cùng với chiếc nhẫn. Khi Bodhisatta lớn lên, những người bạn đồng trang lứa đã đặt biệt danh cho cậu là "Đứa trẻ không cha". Cảm thấy xấu hổ, cậu hỏi mẹ về điều đó và, khi biết được sự thật, cậu khăng khăng đòi được đưa đến gặp nhà vua. Khi đối mặt với đứa trẻ, nhà vua quá xấu hổ nên không dám thừa nhận dòng máu của mình, và người mẹ, vì không có người làm chứng, đã ném đứa trẻ lên không trung với lời cầu xin rằng đứa trẻ sẽ lơ lửng ở đó nếu lời nói của bà là sự thật. Cậu bé, ngồi vắt chéo chân giữa không trung, đã yêu cầu nhà vua nhận nuôi mình, yêu cầu này đã được chấp nhận, mẹ của cậu được phong làm hoàng hậu. Sau khi cha qua đời, cậu đã lên làm vua với tên gọi là Kaṭṭhavāhana.
+
+Câu chuyện được kể lại cho Pasenadi sau khi ông từ chối công nhận quyền thừa kế ngai vàng của Viḍūḍabha, người con trai của ông với Vāsabha Khattiyā (Ja.i.133ff; iv.148; Dhp­a.i.349).
+
+Có lẽ câu chuyện này có chút liên hệ với câu chuyện của Duṣyanta và Śakuntalā, như được kể trong Mahā Bhārata và sau này được Kālidāsa bổ sung thêm trong vở kịch của ông.
 
 ## Notes

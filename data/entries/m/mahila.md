@@ -5,7 +5,7 @@ base_headword: "Mahilā"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -24,6 +24,6 @@ Mahilā. An eminent Therī of Ceylon who kept the *dhutaṅgas*. Dpv.xviii.15.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahilā. Một vị Therī lỗi lạc của Ceylon người đã tuân giữ những *dhutaṅga* (đầu-đà). Dpv.xviii.15.
 
 ## Notes

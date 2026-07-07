@@ -5,7 +5,7 @@ base_headword: "Kohombagāma"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -27,6 +27,6 @@ Kohombagāma. A village near <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kohombagāma. Một ngôi làng gần Pulatthipura, nơi diễn ra một trận chiến giữa quân đội của Gajabāhu và quân đội của Parakkamabāhu I. (Cv.lxx.320).
 
 ## Notes

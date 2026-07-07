@@ -5,7 +5,7 @@ base_headword: "Kaddamadaha"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kaddamadaha. A lake, on the bank of which was <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaddamadaha. Một cái hồ, trên bờ hồ là Vāraṇā, nơi Mahā Kaccāna đã từng lưu trú, và là nơi ông được Bà-la-môn Ārāmadaṇḍa đến thăm. AN.i.65.
 
 ## Notes

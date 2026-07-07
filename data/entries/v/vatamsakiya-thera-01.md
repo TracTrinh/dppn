@@ -5,7 +5,7 @@ base_headword: "Vataṁsakiya Thera"
 disambiguator: "01"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vataṁsakiya Thera 01. An *Arahant*, probably identical with <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị *Arahant*, có lẽ đồng nhất với Abhaya Thera; xem Abhaya (1). Ap.i.174.
 
 ## Notes

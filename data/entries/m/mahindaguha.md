@@ -5,7 +5,7 @@ base_headword: "Mahindaguhā"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -27,6 +27,6 @@ Mahindaguhā. The cave occupied by <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahindaguhā. Hang động nơi Mahinda cư ngụ trong *vihāra* Cetiyagiri (Mhv.xx. 16; Mhv­ṭ. 416). Nó nằm trên núi Hatthikucchipabbhāra, được bao phủ bởi khu rừng, tại lối vào của một thung lũng sâu. Vsm., p. 110.
 
 ## Notes

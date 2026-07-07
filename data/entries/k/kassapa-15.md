@@ -5,7 +5,7 @@ base_headword: "Kassapa"
 disambiguator: "15"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -28,6 +28,6 @@ Kassapa 15. (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapa 15. (Kassapa III. 717-24 CN.). Một người em trai của Aggabodhi V (?); em trai của Kassapa là Mahinda I (Cv.xlviii.20-26) và con trai của ông là Aggabodhi (Cv.xlviii.32).
 
 ## Notes

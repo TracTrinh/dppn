@@ -5,7 +5,7 @@ base_headword: "Kekarājā"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kekarājā. The king of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kekarājā. Vua của Kekaka. Ja.vi.280, 281.
 
 ## Notes

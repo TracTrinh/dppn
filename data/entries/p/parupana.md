@@ -5,7 +5,7 @@ base_headword: "Pārupaṇā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Pārupaṇā, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pārupaṇā, Pārupaṇas. Tên gọi được đặt cho một trong hai phe tranh luận trong một cuộc tranh luận nổ ra ở Miến Điện vào thế kỷ mười tám, liên quan đến cách đắp y của các tỳ-kheo Phật giáo. Những người thuộc phe Pārupaṇas cho rằng phải đắp kín cả hai vai, trong khi những đối thủ của họ, phe *Ekaṁsikas*, khẳng định rằng chỉ đắp một vai là đủ. Để xem một báo cáo khá đầy đủ về cuộc tranh luận này, xem Sās. pp. 117 ff.
 
 ## Notes

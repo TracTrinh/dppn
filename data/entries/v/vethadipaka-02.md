@@ -5,7 +5,7 @@ base_headword: "Veṭhadīpaka"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -29,6 +29,6 @@ Veṭhadīpaka 02. The king of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Veṭhadīpaka 02. Vị vua của Veṭhadīpa và là bạn của vua Allakappa. Họ đã cùng nhau xuất gia và trở thành các ẩn sĩ ở Himālaya. Veṭhadīpaka qua đời và được tái sinh trong thế giới chư thiên (*Deva*). Sau đó, ngài đã đến thăm bạn mình, và khi biết rằng ông đang bị bầy voi quấy rầy, ngài đã dạy cho ông một câu thần chú để xua đuổi bất kỳ mối nguy hại nào có thể đến từ chúng. Câu chú này sau đó đã được Udena học từ Allakappa. Dhp­a.i.163f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vibhūsaka Brahmadatta"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,6 @@ Vibhūsaka Brahmadatta. A king of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vibhūsaka Brahmadatta. Một vị vua của Benares, được gọi như vậy vì sự yêu thích to lớn của ông đối với đồ trang sức. Ông đã phát triển thói quen ngủ vào ban ngày và phải chịu đựng bệnh do rối loạn mật. Điều này khiến ông nhận ra sự ngu ngốc của mình, và, bằng cách phát triển tuệ giác, ông đã trở thành một vị Pacceka Buddha. Vần kệ *udāna* của ông được bao gồm trong Khaggavisāṇasutta. Snp. vs. 59; Snp­a.i.111.
 
 ## Notes

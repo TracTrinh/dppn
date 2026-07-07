@@ -5,7 +5,7 @@ base_headword: "Yamakavagga"
 disambiguator: "01"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -24,6 +24,6 @@ Yamakavagga 01. The first section of the <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yamakavagga 01. Chương đầu tiên của Dhammapada.
 
 ## Notes

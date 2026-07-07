@@ -5,7 +5,7 @@ base_headword: "Velagāmivihāra"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Velagāmivihāra. A monastery in Ceylon, restored by <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Velagāmivihāra. Một tu viện ở Tích Lan, được trùng tu bởi Vijayabāhu I. Cv.lx.62.
 
 ## Notes

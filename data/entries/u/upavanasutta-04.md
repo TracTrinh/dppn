@@ -5,7 +5,7 @@ base_headword: "Upavāṇasutta"
 disambiguator: "04"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Upavāṇasutta 04. The conversation referred to elsewhere, between <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upavāṇasutta 04. Cuộc trò chuyện được nhắc đến ở nơi khác, giữa Sāriputta và Upavāṇa, trong đó người sau giải thích cách các *bojjhaṅga* dẫn đến một cuộc sống hạnh phúc. SN.v.76f.
 
 ## Notes

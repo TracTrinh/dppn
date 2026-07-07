@@ -5,7 +5,7 @@ base_headword: "Uttara"
 disambiguator: "22"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Uttara 22. One of the palaces occupied by <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttara 22. Một trong những cung điện được Paduma Buddha cư ngụ trước khi ngài Xuất Gia. Bv.ix.17.
 
 ## Notes

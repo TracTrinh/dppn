@@ -5,7 +5,7 @@ base_headword: "Pārāyaṇikabrāhmanā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -26,6 +26,6 @@ Pārāyaṇikabrāhmanā. The name given to the sixteen disciples of <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pārāyaṇikabrāhmanā. Tên gọi dành cho mười sáu đệ tử của Bāvarī (*q.v.*). Mỗi người trong số họ có một nghìn môn đồ. Khi kết thúc các bài *Sutta* có trong Pārāyaṇavagga, tất cả họ đều bày tỏ mong muốn được gia nhập Tăng đoàn, và Đức Phật đã thọ giới cho họ bằng nghi thức *ehi-bhikkhu pabbajjā*. Vin-a.i.241.
 
 ## Notes

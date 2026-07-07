@@ -5,7 +5,7 @@ base_headword: "Pārāyaṇasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -24,6 +24,6 @@ Pārāyaṇasutta. The Buddha teaches the goal (*pārāyaṇa*) and the path lea
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pārāyaṇasutta. Đức Phật giảng dạy về mục tiêu (*pārāyaṇa*) và con đường dẫn đến đó. SN.iv.373.
 
 ## Notes

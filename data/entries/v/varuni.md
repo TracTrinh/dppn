@@ -5,7 +5,7 @@ base_headword: "Vāruṇī"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vāruṇī. The name given to slave women, attendants of <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tên gọi dành cho các nữ tì, những người phục vụ của Varuṇa. Họ sống trong sự khiếp sợ ông. Ja.vi.500, 501. Tại Ja.vi.586 Vāruṇī được giải thích là *yakkhāviṭṭhā ikkhaṇikā* (những người bói toán bị một Yakkha nhập, vị Yakkha ở đây có lẽ là Varuṇa).
 
 ## Notes

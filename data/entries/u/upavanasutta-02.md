@@ -5,7 +5,7 @@ base_headword: "Upavāṇasutta"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Upavāṇasutta 02. The Buddha explains to <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upavāṇasutta 02. Đức Phật giải thích cho Upavāṇa về sự khởi lên của khổ đau (*dukkha-samuppāda*). SN.ii.41f.
 
 ## Notes

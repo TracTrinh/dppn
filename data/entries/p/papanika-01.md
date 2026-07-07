@@ -5,7 +5,7 @@ base_headword: "Pāpaṇika"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -24,6 +24,6 @@ Pāpaṇika 01. The shopkeeper who neglects his duties at early dawn, at midday,
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāpaṇika 01. Người chủ tiệm xao nhãng nhiệm vụ của mình vào lúc rạng đông, buổi trưa và buổi chiều tối sẽ không thể phát đạt; vị tỳ-kheo xao nhãng nhiệm vụ của mình theo cách tương tự cũng vậy. AN.i.115.
 
 ## Notes

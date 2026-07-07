@@ -5,7 +5,7 @@ base_headword: "Uttara"
 disambiguator: "11"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Uttara 11. A royal prince to whom <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttara 11. Một hoàng tử hoàng gia, người được Koṇāgamana Buddha thuyết pháp tại Surindavatī vào ngày trăng tròn của tháng Māgha. Về sau ông trở thành Aggasāvaka của Đức Phật. Bv.xxiv.22; Bv­a.215; Ja.i.43.
 
 ## Notes

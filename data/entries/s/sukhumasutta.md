@@ -5,7 +5,7 @@ base_headword: "Sukhumasutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sukhumasutta. A monk who can penetrate through the subtility of body, feeling, p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sukhumasutta. Một vị tỳ-kheo có thể thấu triệt sự vi tế của thân, thọ, tưởng, và của các *saṅkhāra*, đã vượt qua được Māra. AN.ii.17.
 
 ## Notes

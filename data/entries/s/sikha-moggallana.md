@@ -5,7 +5,7 @@ base_headword: "Sikhā Moggallāna"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -29,6 +29,8 @@ The Commentary explains (AN­a.ii.578; cf. <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sikhā Moggallāna. Một người Bà-la-môn từng đến thăm Đức Phật, nói rằng ông đã được Soṇakāyana cho biết rằng Đức Phật thuyết giảng về sự vô hiệu của mọi hành động và hỏi liệu điều này có đúng không. AN.ii.232.
+
+Chú giải giải thích (AN­a.ii.578; cf. Moliya) rằng ông là một người Bà-la-môn thuộc *gotta* Moggallāna và để một búi tóc lớn (*sikhā*) trên đỉnh đầu, do đó có tên gọi này.
 
 ## Notes

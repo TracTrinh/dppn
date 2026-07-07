@@ -5,7 +5,7 @@ base_headword: "Vassāvāsabhāṇavāra"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vassāvāsabhāṇavāra. The first chapter of the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chương đầu tiên của Vassūpanāyikakkhandhaka thuộc Mahā Vagga. Vin.i.137-48.
 
 ## Notes

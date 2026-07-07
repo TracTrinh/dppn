@@ -5,7 +5,7 @@ base_headword: "Suddhika"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Suddhika. A householder, one of the chief supporters of <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suddhika. Một nam cư sĩ, một trong những người bảo trợ chính của Metteyya Buddha. Anāg.vs.60.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Paññāsutta"
 disambiguator: "03"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Paññāsutta 03. Few are they blessed with insight; more numerous they that are
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paññāsutta 03. Ít người có được phước báu sở hữu tuệ giác; số người không có tuệ giác thì đông đúc hơn. SN.v.467.
 
 ## Notes

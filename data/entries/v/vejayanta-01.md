@@ -5,7 +5,7 @@ base_headword: "Vejayanta"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -42,6 +42,12 @@ The Vejayantapāsāda is illustrated on the Bharhut Tope. Cunningham, Bharhut To
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vejayanta 01. Vejayantapāsāda. Một *pāsāda* thuộc về Sakka. Khi Moggallāna đến thăm Sakka để tìm hiểu xem ngài đã thấu hiểu trọn vẹn giáo lý của Đức Phật trong Cūḷa Taṇhāsaṅkhayasutta hay chưa, Sakka đã cố lảng tránh những câu hỏi của ngài bằng cách dẫn ngài đi xem cung điện này. Cung điện có một trăm tòa tháp, mỗi tòa tháp cao bảy tầng, với bảy thiên nữ ở mỗi tầng, được hầu hạ bởi bảy người phục vụ. Cung điện xuất hiện ở Tāvatiṁsa vào ngày chiến thắng quyết định của Sakka trước Asuras. Moggallāna để cho Sakka dẫn đi tham quan, và sau đó, ngài dùng ngón chân cái làm cho cung điện rung chuyển và chao đảo. MN.i.252f.; cf. Thag. 1196f.; Thag­a.ii.184. Cung điện cũng bị làm cho rung chuyển bởi sa di Saṅgharakkhita (*q.v.*) vào ngày ngài gia nhập Tăng đoàn (DN­a.ii.558).
+
+Cung điện cao một ngàn do-tuần, và được gọi như vậy vì nó xuất hiện vào giờ chiến thắng (Ja.i.203). Nó được trang hoàng bằng những lá cờ, mỗi lá cờ dài ba trăm do-tuần, cờ bằng vàng cắm trên những cột cờ nạm ngọc và ngược lại; và toàn bộ cung điện được xây dựng bằng bảy loại đá quý. Nó xuất hiện như là phước báo của ngôi nhà nghỉ chân được xây dựng bởi Sakka, trong tiền kiếp của ngài là Magha, để cho nhiều người sử dụng (Dhp­a.i.273; cf. DN­a.iii.698). Khi Đức Phật đến thăm Tāvatiṁsa cùng với Nanda, Sakka đang ở trong cung điện với những thiên nữ gót son đỏ (*kakuṭapādiniyo*) của ngài và tiến đến cùng họ để chào đón ngài. Những thiên nữ đã dâng dầu để xoa bóp bàn chân của Kassapa Buddha, do đó bàn chân của họ có màu như vậy. Snp­a.i.274.
+
+Khi Vua Sādhīna của Mithilā đến Tāvatiṁsa, ông đã sống, theo cách tính của con người, bảy trăm năm ở Vejayanta (Ja.iv.357).
+
+Vejayantapāsāda được minh họa trên Tháp Bharhut. Cunningham, Bharhut Tope, p. 137.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Piliṁvatthu"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Piliṁvatthu. A village near <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piliṁvatthu. Một ngôi làng gần Badalatthalagāma. Cv.lxv.5.
 
 ## Notes

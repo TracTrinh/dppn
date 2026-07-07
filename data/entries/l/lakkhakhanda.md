@@ -5,7 +5,7 @@ base_headword: "Lakkhakhaṇḍa"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -27,6 +27,6 @@ Lakkhakhaṇḍa. The fourth section of the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lakkhakhaṇḍa. Phần thứ tư của Vidhurajātaka, mô tả cuộc chơi xúc xắc giữa Dhanañjaya và Puṇṇaka, kết thúc bằng sự thất bại của người đầu. Ja.iv.280-92.
 
 ## Notes

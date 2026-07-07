@@ -5,7 +5,7 @@ base_headword: "Kumārapabba"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,6 @@ Kumārapabba. The section of the <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phần của Vessantarajātaka đề cập đến việc giao những đứa con của Vessantara cho Jūjaka. Ja.vi.555.
 
 ## Notes

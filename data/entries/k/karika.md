@@ -5,7 +5,7 @@ base_headword: "Kārikā"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -26,6 +26,6 @@ Kārikā. A grammatical work in Pall, written by the Elder <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kārikā. Một tác phẩm ngữ pháp bằng tiếng Pāli, được viết bởi Trưởng lão Dhammasenāpati tại Ānandavihāra ở Pagan. Một bản *ṭīkā* về tác phẩm này được cho là của cùng một tác giả. Gv.p.63, 73; Bode, 16 và n.1.
 
 ## Notes

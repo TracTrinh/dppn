@@ -5,7 +5,7 @@ base_headword: "Kāḷapabbata"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -30,6 +30,6 @@ Kāḷapabbata. A mountain range in Himavā, sixty leagues in height. Here <span
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷapabbata. Một dãy núi ở Himavā, cao sáu mươi do-tuần. Tại đây Irandatī đã hát bài hát của mình, nghe thấy bài hát đó, Puṇṇaka, trên đường đến một cuộc họp của các Yakkha, đã hứa hôn với cô. Sau khi Puṇṇaka đã giành được Vidhura, ngài đã đưa ông đến Kāḷapabbata, và ở đó đã cố gắng bằng nhiều cách khác nhau để giết ông. Các nỗ lực của ngài đã thất bại, và Vidhura, khi biết được động cơ cho hành động của ngài, đã thuyết pháp cho ngài, khi đang ngồi trên đỉnh núi, và đã cảm hóa ngài (Ja.vi.255, 264, 302ff, 309, 326). Ở một số nơi ngọn núi được gọi là Kāḷagiri, ví dụ, ibid., 302, 304, 309, 326; xem thêm Mhv.ii.300.
 
 ## Notes

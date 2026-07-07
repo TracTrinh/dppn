@@ -5,7 +5,7 @@ base_headword: "Tamālapupphiya Thera"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tamālapupphiya Thera. An *Arahant*. In a previous birth he owned a *vimāna* wi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tamālapupphiya Thera. Một Arahant. Trong một kiếp quá khứ ngài sở hữu một *vimāna* (cung điện) với tám mươi ngàn cột trụ bằng vàng. Ngài đã dâng một bông hoa *tamāla* cho Sikhī Buddha. Cách đây hai mươi kappa, ngài là một vị vua tên Candatittha. Ap.i.197.
 
 ## Notes

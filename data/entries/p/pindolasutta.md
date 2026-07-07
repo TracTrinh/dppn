@@ -5,7 +5,7 @@ base_headword: "Piṇḍolasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -26,6 +26,6 @@ Piṇḍolasutta. The Buddha explains to some monks at the <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piṇḍolasutta. Đức Phật giải thích cho một số vị tỳ-kheo tại Ghositārāma rằng Piṇḍola Bhāradvāja đã chứng ngộ chân lý thông qua việc tu tập ba căn (*indriya*): niệm, định, và tuệ. Những điều này hoàn tất việc diệt tận sinh, già, và chết. SN.v.224f.
 
 ## Notes

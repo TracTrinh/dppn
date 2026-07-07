@@ -5,7 +5,7 @@ base_headword: "Kassapa"
 disambiguator: "16"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -31,6 +31,6 @@ Kassapa 16. One of the three younger brothers of <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapa 16. Một trong ba người em trai của Sena I, những người còn lại là Mahinda và Udaya (Cv.l.6). Kassapa được bổ nhiệm làm *Ādipāda* và đã chiến đấu dũng cảm chống lại quân đội của vua Paṇḍu, người lúc bấy giờ đang xâm lược Tích Lan, nhưng khi thấy những nỗ lực của mình không mang lại kết quả, ông đã bỏ trốn đến Koṇḍivāta (Cv.vv.25ff). Về sau, ông bị giết tại Pulatthipura theo lệnh của vua Paṇḍu (Cv.vv.46). Ông có bốn người con trai, người con cả tên là Sena (Cv.vv.47).
 
 ## Notes

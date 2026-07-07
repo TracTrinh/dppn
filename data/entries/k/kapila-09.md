@@ -5,7 +5,7 @@ base_headword: "Kapila"
 disambiguator: "09"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -23,6 +23,6 @@ Kapila 09. A great physician, mentioned in a list of eminent physicians of old. 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kapila 09. Một danh y vĩ đại, được đề cập trong danh sách những danh y xuất chúng thời xưa. Mil.272.
 
 ## Notes

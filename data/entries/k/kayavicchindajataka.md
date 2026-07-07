@@ -5,7 +5,7 @@ base_headword: "Kāyavicchindajātaka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -29,6 +29,8 @@ The story was told in reference to a man in <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāyavicchindajātaka (Ja 293). biến thể Kāyanibbindajātaka. Có một lần Bodhisatta là một người Bà-la-môn ở Benares và bị mắc bệnh vàng da. Các thầy thuốc đã thất bại trong việc chữa trị cho ngài, và gia đình ngài vô cùng tuyệt vọng. Ngài quyết tâm rằng nếu qua khỏi ngài sẽ xuất gia theo con đường tôn giáo; ngay sau đó ngài đã khỏi bệnh, trở thành một tu sĩ khổ hạnh và tu tập abhiññā và samāpatti.
+
+Câu chuyện này được kể liên quan đến một người đàn ông ở Sāvatthī đã có một trải nghiệm tương tự. Người này đã gia nhập Saṅgha và trở thành một vị Arahant (Ja.ii.436-8).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kuñjara"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kuñjara 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Con voi của Devānampiyatissa, được buộc vào chiếc cày đánh dấu *sīmā* của Mahā Vihāra. Dpv.xiv.28; Mbv.134; xem thêm Mhv., p.331.
 
 ## Notes

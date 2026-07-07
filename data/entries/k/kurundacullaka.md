@@ -5,7 +5,7 @@ base_headword: "Kurundacullaka"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kurundacullaka. A *pariveṇa* in the <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một *pariveṇa* trong Jetavanavihāra ở Ceylon, là nơi cư ngụ của Dāṭhāvedhaka. Mhv­ṭ.176.
 
 ## Notes

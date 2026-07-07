@@ -5,7 +5,7 @@ base_headword: "Pāyāgā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Pāyāgā. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāyāgā. Một nhóm Nāga (DN.ii.258). Chú giải giải thích (DN­a.ii.688) rằng họ đã sống ở Pāyāgapatiṭṭhāna.
 
 ## Notes

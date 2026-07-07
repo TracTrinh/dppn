@@ -5,7 +5,7 @@ base_headword: "Vamanasutta"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -23,6 +23,6 @@ Vamanasutta. Like a physician who administers an emetic for the curing of sickne
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vamanasutta. Giống như một vị y sĩ kê toa thuốc nôn mửa để chữa bệnh, đức Phật cũng chỉ định phương pháp nôn mửa của bậc Thánh (Ariyan) để thanh lọc chúng sinh khỏi sinh, lão, v.v. Bằng cách này, chánh kiến thanh lọc họ khỏi tà kiến, v.v. AN.v.219f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Khaggavisāṇasutta"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -77,6 +77,29 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="35" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khaggavisāṇasutta. Sutta thứ ba thuộc Uragavagga của Suttanipāta (Snp.vv.35-75), bao gồm bốn mươi mốt đoạn kệ, mỗi đoạn kệ đều kết thúc bằng điệp khúc: “eko care khaggavisāṇakappo.”
+
+Bản Chú giải (Snp­a.i.46ff) chia Sutta này thành bốn vagga và đặt cho mỗi phần một tên riêng (ngoại trừ phần đầu tiên), cái tên thường được bắt nguồn từ từ đầu tiên của đoạn kệ. Người ta kể rằng Đức Phật Gotama đã thuyết giảng bài Khaggavisāṇasutta này để trả lời một câu hỏi do Ānanda đặt ra cho ngài về việc đắc quả Giác ngộ của các vị Pacceka Buddha; Đức Phật đã đưa ra những chi tiết về abhinīhāra và patthanā của các vị đó, và minh họa chúng bằng cách tụng cho Ānanda nghe những đoạn kệ đã được thốt lên bởi các vị Pacceka Buddha thời xưa vào nhiều dịp và nhiều khoảng thời gian khác nhau như những bài ca hoan hỷ (udāna) của họ.
+
+Buddhaghosa đã đưa ra câu chuyện cuộc đời của từng vị Pacceka Buddha có đoạn kệ được bao gồm trong Sutta này. Tuy nhiên, chỉ trong một số ít trường hợp của các vị Pacceka Buddha thì những tên gọi thực sự mới được cung cấp – ví dụ,
+- Brahmadatta (v.33),
+- Anitthigandha (36),
+- Mahā Paduma (39),
+- Ekavajjika Brahmadatta (40),
+- Ekaputtika Brahmadatta (41),
+- Cātumāsika Brahmadatta (44, 64),
+- Sītāluka Brahmadatta (52),
+- Suta Brahmadatta (58),
+- Vibhūsaka Brahmadatta (59),
+- Pādalola Brahmadatta (61),
+- Anivatta Brahmadatta (62),
+- Cakkhulola Brahmadatta (63),
+- Mātaṅga (74).
+
+Các vị còn lại được mô tả là “vua của Benares,” hoặc “con trai của nhà vua,” v.v.
+
+Sutta này được chú giải trong Cūḷa Niddesa (pp.56ff), ngoài các chú giải của Pārāyaṇavagga, đây là một bằng chứng cho thấy, khi Cūḷa Niddesa được biên soạn, bài kinh này có lẽ đã được coi là một Sutta độc lập, không thuộc về bất kỳ nhóm cụ thể nào như Uragavagga, và rằng các chú giải về nó đã được viết vào một thời điểm trước khi biên soạn Suttanipāta thành một tuyển tập dưới hình thức như hiện tại. Quan điểm này càng được củng cố thêm bởi thực tế là phiên bản hỗn hợp tiếng Phạn của nó trong Mahā Vastu (i.357f) không được đặt vào bất kỳ nhóm cụ thể nào. Theo Mahā Vastu, các vị Pratyeka Buddha, với số lượng là năm trăm vị, đang sống ở Ṛṣipatana gần Benares, và khi họ nghe được từ các vị Suddhāvāsa Deva về sự xuất hiện của Đức Phật trong vòng mười hai năm tới, họ đã biến mất khỏi Ṛṣipatana, mỗi người lặp lại một trong những câu thơ của Sutta này.
+
+Apadāna (i.7ff) đã bao gồm các đoạn kệ của Khaggavisāṇasutta vào trong chương có tên là Paccekabuddhāpadāna và phần tựa đầu là một vài đoạn kệ giới thiệu. Một vài đoạn kệ cũng được thêm vào ở phần cuối như một cách kết luận. Trong phần chú giải của mình, Apadāna Commentary (Ap­a.i.106f) đưa ra tên của một vài vị Pacceka Buddha. Tuy nhiên, những cái tên này khác với những cái tên do Buddhaghosa cung cấp, và chúng tương ứng gần hơn với những cái tên được đề cập trong Isigilisutta.
 
 ## Notes

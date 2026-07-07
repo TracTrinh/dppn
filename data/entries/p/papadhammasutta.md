@@ -5,7 +5,7 @@ base_headword: "Pāpadhammasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -24,6 +24,6 @@ Pāpadhammasutta. On the man who is wicked by nature and the one who is more tha
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāpadhammasutta. Về người bản tính vốn độc ác và người còn tệ hơn cả độc ác; cũng nói về người bản tính tốt lành và người còn cao thượng hơn cả tốt lành. AN.ii.223.
 
 ## Notes

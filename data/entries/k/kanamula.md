@@ -5,7 +5,7 @@ base_headword: "Kāṇamūla"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -24,6 +24,6 @@ Kāṇamūla. A locality in Ceylon, near the *Kālavāpi*. Cv.lxxii.183.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāṇamūla. Một địa phương ở Tích Lan, gần *Kālavāpi*. Cv.lxxii.183.
 
 ## Notes

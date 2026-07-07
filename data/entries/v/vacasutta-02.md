@@ -5,7 +5,7 @@ base_headword: "Vācāsutta"
 disambiguator: "02"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -24,6 +24,6 @@ Vācāsutta 02. Speech is good if spoken in season, in truth, softly, about the 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vācāsutta 02. Lời nói là thiện lành khi được nói đúng thời, đúng sự thật, nhẹ nhàng, về điều tốt đẹp và trong tinh thần hữu nghị. AN.iii.243.
 
 ## Notes

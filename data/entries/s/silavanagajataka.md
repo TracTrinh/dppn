@@ -5,7 +5,7 @@ base_headword: "Sīlavanāgajātaka"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -34,6 +34,10 @@ The birth as <span class="dppn-term dppn-term-t14" data-dppn-term-pos="13" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīlavanāgajātaka (Ja 72). Bodhisatta từng là một con voi ở Himālaya, đứng đầu một đàn tám mươi nghìn con. Tên ông là Sīlava. Một ngày nọ ông thấy một người thợ rừng ở Benares bị lạc đường, và, cảm thấy thương xót ông ta, đã đưa ông ta về chỗ ở của mình, cho ăn đủ loại trái cây, rồi sau đó, dẫn ông ta đến bìa rừng, chỉ đường cho ông ta về Benares. Kẻ khốn khổ đó ghi nhớ mọi mốc đường, và, khi đến thành phố, đã thỏa thuận với những người thợ ngà voi để cung cấp cho họ ngà của Sīlava. Rồi ông ta quay lại rừng và xin Sīlava một phần ngà của mình, viện cớ nghèo khó và không có kế sinh nhai. Sīlava cho phép cưa đi phần đầu ngà của mình. Người đàn ông quay lại nhiều lần nữa, cho đến khi, cuối cùng, Sīlava cho phép ông ta đào luôn cả phần gốc ngà. Khi người đàn ông đang trên đường trở về Benares, mặt đất nứt ra và nuốt chửng ông ta vào trong lửa địa ngục. Một thọ thần, đã chứng kiến tất cả chuyện này, đã nói lên một bài kệ minh họa cho những điều xấu xa của lòng vô ơn.
+
+Câu chuyện được kể liên quan đến sự độc ác của Devadatta; ông được đồng nhất với người thợ rừng và Sāriputta với vị thọ thần (Ja.i.319-22; câu chuyện này được nhắc đến trong Milindapañha, p.202).
+
+Kiếp sinh làm Sīlava được nhắc đến trong số những kiếp mà Bodhisatta đã tu tập *sīlapāramitā* đến chỗ viên mãn, ví dụ, MN­a.ii.617.
 
 ## Notes

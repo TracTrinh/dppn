@@ -5,7 +5,7 @@ base_headword: "Kākātījātaka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -40,6 +40,12 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="23" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kākātījātaka (Ja 327). Kākātī là hoàng hậu chính của Vua xứ Benares (Bodhisatta). Một vị vua Garuḍa nọ đã cải trang thành một người đàn ông đến chơi xúc xắc với nhà vua. Phải lòng Kākātī, Garuḍa đã mang bà đi đến nơi ở của mình bên Hồ Simbalī và chung sống với bà tại đó. Nhà vua, vì nhớ hoàng hậu của mình, đã cử ngự y Naṭakuvera đi tìm kiếm bà. Vị ngự y đã giấu mình trong bộ lông của Garuḍa và do đó đã đến được cung điện nơi Kākātī đang ở. Tại đó, ông đã ân ái với bà và quay trở lại Benares trong cánh của Garuḍa. Trong khi Garuḍa và nhà vua đang chơi xúc xắc, Naṭakuvera đã hát một bài hát kể về những trải nghiệm của ông với Kākātī. Garuḍa, nhận ra chuyện gì đã xảy ra, đã mang hoàng hậu trở lại Benares.
+
+Câu chuyện được Đức Phật kể lại cho một vị tỳ-kheo không hài lòng vì một người phụ nữ. Vị tỳ-kheo này được đồng nhất với Naṭakuvera (Ja.iii.90-2).
+
+Câu chuyện nằm trong số những câu chuyện được kể bởi con chim Kuṇāla, trong Kuṇālajātaka (Ja 536). Ở đó (Ja.v.428), chúng ta biết được rằng tên của Garuḍa là Venateyya, người được đồng nhất với Kuṇāla.
+
+Kākātījātaka rất giống với Sussondījātaka (Ja 360). Ja.iii.187ff.
 
 ## Notes

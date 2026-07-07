@@ -5,7 +5,7 @@ base_headword: "Senaguttagāma"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Senaguttagāma. A village in <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Senaguttagāma. Một ngôi làng ở Rohaṇa, được nhắc đến trong ghi chép về các chiến dịch của Parakkamabāhu I. Cv.lxxv.6.
 
 ## Notes

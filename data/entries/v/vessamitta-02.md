@@ -5,7 +5,7 @@ base_headword: "Vessāmitta"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/066.html"
@@ -25,6 +25,6 @@ Vessāmitta 02. A king of old who led a good life and was reborn in <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vessāmitta 02. Một vị vua thời xưa đã có một cuộc sống tốt đẹp và được tái sinh vào cõi trời của Sakka. Ja.vi.251.
 
 ## Notes

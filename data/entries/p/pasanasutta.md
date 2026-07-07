@@ -5,7 +5,7 @@ base_headword: "Pāsāṇasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -26,6 +26,6 @@ Pāsāṇasutta. Once when the Buddha was in <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāsāṇasutta. Thuở xưa khi Đức Phật đang ở Gijjhakūṭa vào một đêm tối tăm và mưa bão, Māra đã làm cho nhiều tảng đá rơi xuống ầm ầm để dọa ngài, nhưng Đức Phật vẫn hoàn toàn bình thản (SN.i.109).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Pāvārika"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -27,6 +27,6 @@ Pāvārika 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāvārika 01. Pāvāriya. Một vị vua. Khi Pañcapāpā bị người chồng của mình là Baka thả trôi trên sông, Pāvāriya đã cứu cô và nhận cô làm vợ. Baka, nghe được chuyện này, đã đe dọa chiến tranh, và các quan đại thần của hai vị vua đã sắp xếp rằng Pañcapāpā nên sống như một người vợ của cả hai, dành một tuần tại nhà của mỗi người. Ja.v.443f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Parakkamapura"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Parakkamapura 01. A town built by <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parakkamapura 01. Một thị trấn do Parakkamabāhu I xây dựng. Đây rõ ràng là một tên gọi khác của Pulatthinagara, nơi mà Parakkambāhu đã thiết kế và tô điểm bằng nhiều cách khác nhau. Cv.lxxiv.15; xem thêm lxxii.151; để biết việc xác định, xem Cv.Trs.ii.22, n.1.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kāsumāriphaliya Thera"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -26,6 +26,6 @@ Kāsumāriphaliya Thera. An *Arahant*. The verses attributed to him are the same
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāsumāriphaliya Thera. Một vị Arahant. Các câu kệ được cho là của ngài cũng giống như các câu kệ của Kāsumāriphaladāyaka. Ngài có thể được xác định với Jotidāsa Thera (Ap.ii.445).
 
 ## Notes

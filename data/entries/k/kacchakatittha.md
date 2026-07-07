@@ -5,7 +5,7 @@ base_headword: "Kacchakatittha"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -47,6 +47,12 @@ See also <span class="dppn-term dppn-term-t14" data-dppn-term-pos="18" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kacchakatittha (Kacchatittha). Một khúc sông cạn ở Mahā Vālukagaṅgā, gần ngọn núi Dhūmarakkha. Chính tại đây Paṇḍukābhaya đã bắt giữ *Yakkhinī* Cetiyā (Mhv.x.59). Đây là một điểm chiến lược trong các cuộc chiến với người Tamil, và chúng ta thấy Kākavaṇṇatissa đã giao phó việc bảo vệ nó cho con trai mình là Dīghābhaya (Mhv.xxiii.17). Có khả năng là, một thời gian sau, nơi này đã rơi vào tay người Tamil, vì chúng ta thấy Duṭṭhagāmaṇī được nhắc đến là đã chiếm lại nó từ vị tướng Tamil Kapisīsa (Mhv.xxv.12). Theo Mahā Vaṁsaṭīkā (322, 366), nơi này cách Anurādhapura chín do-tuần, nhưng Nimila đã đi đến đó và trở về trong một ngày.
+
+Aṅguttara Commentary (i.367) có đề cập rằng một người tên là Mahā Vācakāla đã từng tái sinh tại đó làm một con cá sấu, dài một sải, vì đã gieo rắc sự nghi ngờ về tính hiệu lực của tôn giáo của Đức Phật. Có lần nó đã nuốt chửng sáu mươi chiếc xe bò chở đầy đá cùng với những con bò được cột vào đó.
+
+Khúc sông cạn này ngày nay được đồng nhất với Mahā Gantoṭa, điểm nơi sông Ambaṅgaṅga và Maha Veligaṅga gặp nhau (Geiger, Mhv.Trs., 72, n.2). Dòng Ambaṅgaṅga có lẽ được gọi là Kacchakanadī, và tại điểm nó gặp Maha Veligaṅga, Vua Subha đã xây dựng *vihāra* Nandigāmaka. Xem Mhv.xxxv.58, và Mhv­ṭ.472; về đoạn này xem thêm Geiger’s Trs., p.250, n.2; Mhv­ṭ.472.
+
+Xem thêm Assamaṇḍala.
 
 ## Notes

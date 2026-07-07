@@ -5,7 +5,7 @@ base_headword: "Sava"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sava. A stronghold in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sava. Một thành lũy ở Rohaṇa. Cv.lxxiv.60.
 
 ## Notes

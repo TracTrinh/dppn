@@ -5,7 +5,7 @@ base_headword: "Pāragaṅgā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Pāragaṅgā. The region beyond the <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāragaṅgā. Vùng đất bên kia sông Ganges (ví dụ, Ja.ii.333; vi.427), việc bị lưu đày đến đó là một hình phạt nặng nề, ví dụ, Snp. pp. 32, 47.
 
 ## Notes

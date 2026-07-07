@@ -5,7 +5,7 @@ base_headword: "Setudāyaka Thera"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Setudāyaka Thera. An *Arahant* (Ap.ii.408). He is evidently identical with <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Setudāyaka Thera. Một *Arahant* (Ap.ii.408). Ngài hiển nhiên đồng nhất với Uttarapāla (Thag­a.i.371) (*q.v.*).
 
 ## Notes

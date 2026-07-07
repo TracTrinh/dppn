@@ -5,7 +5,7 @@ base_headword: "Koṇḍañña"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -45,6 +45,15 @@ In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koṇḍañña 02. Tên một *gotta*. Rõ ràng nó phổ biến đối với cả Bà-la-môn và Sát-đế-lỵ, vì chúng ta thấy Bà-la-môn Aññāta Koṇḍañña thuộc dòng dõi này, và ở nơi khác (ví dụ: Vibh-a.464), nó được đề cập như một *khattiyagotta*.
+
+Trong số những người được cho là thuộc Koṇḍaññagotta có:
+
+- Koṇḍañña Buddha (Bà-la-môn),
+- Candakumāra (Ja.vi.137, 138) (Sát-đế-lỵ),
+- Sarabhaṅga (Ja.v.140,141, 142) (Bà-la-môn),
+- ba vị Phật Vipassī, Sikhī và Vessabhū, tất cả đều là Sát-đế-lỵ (DN.ii.3ff, xem bảng trong Dial.16).
+
+Trong Kacchapajātaka (Ja 178, Ja.ii.360f), có nói rằng loài rùa thuộc Kassapagotta và loài khỉ thuộc Koṇḍaññagotta, và giữa hai giai cấp này có sự kết hôn.
 
 ## Notes

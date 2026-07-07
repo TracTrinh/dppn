@@ -5,7 +5,7 @@ base_headword: "Pāṭimokkha"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -43,6 +43,18 @@ For a detailed account of the *Pātimokkha* rules see Law: *Pāli Literature*, 4
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāṭimokkha, Pātimokkha. Tên được đặt cho một tập hợp gồm hai trăm hai mươi bảy giới luật cần được tuân giữ bởi các thành viên của Tăng đoàn Phật giáo. Các giới luật này không đơn thuần chỉ thuộc về đạo đức mà chủ yếu là về phương diện kinh tế, điều chỉnh hành vi của các thành viên Tăng đoàn đối với nhau liên quan đến y phục, chỗ ở, vật dụng, v.v., được sở hữu chung. Trong bốn trường hợp thuộc hai trăm hai mươi bảy giới luật, hình phạt cho việc vi phạm một giới luật là bị trục xuất khỏi Tăng đoàn; trong mười ba trường hợp còn lại, đó chỉ là việc bị đình chỉ trong một khoảng thời gian (những giới luật còn lại là những vi phạm có thể sám hối).
+
+Các giới luật được sắp xếp thành bảy phần: *Pārājikā, Saṅghādisesā, Aniyatā, Nissaggiyāpācittiyā, Pācittiyā, Pāṭidesanīyā, Sekkhiyā* tương ứng một cách rất sơ lược với mức độ nặng nhẹ gắn liền với việc tuân giữ chúng.
+
+*Pātimokkha* không được bao gồm trong Kinh điển Phật giáo hiện còn. Các giới luật được bao gồm trong Suttavibhaṅga (ở đây "*Sutta*" có nghĩa là "giới luật"), phần này ngoài bản thân các giới luật, còn chứa một Chú giải cũ giải thích chúng và một Chú giải mới chứa thêm những thông tin bổ sung về chúng. Các giới luật được chia thành hai phần: một phần dành cho tỳ-kheo (*Bhikkhu Pātimokkha*) và phần kia dành cho tỳ-kheo-ni (*Bhikkhunī Pātimokkha*). Vẫn còn là một điểm tranh luận về việc liệu ban đầu các giới luật xuất hiện cùng với những phần chú thích giải thích (như trong Vibhaṅga), và sau đó *Pātimokkha* mới được trích xuất ra, hay liệu riêng phần *Pātimokkha* là phần cổ xưa hơn, và phần nội dung bổ sung của Vibhaṅga là công trình của một đợt chỉnh lý sau này. Để xem một cuộc thảo luận về vấn đề này, xem Vin.i. Introd.xvi; Law: *Pāli Literature* 2ff.; Hastings: Encyclopaedia dưới mục từ *Pātimokkha*.
+
+Đôi khi có người đề xuất (Law: *Pāli Literature* p.2) rằng số lượng các giới luật *Pātimokkha* ban đầu chỉ khoảng một trăm năm mươi. Một đoạn văn trong Aṅguttaranikāya (i.231-232) được trích dẫn để hỗ trợ cho đề xuất này (*sādhikaṁ diyaḍḍhasikkhāpadasataṁ*). Theo giả thuyết này, hai mươi lăm giới luật Sekhiyā đã được thêm vào sau đó. Xem Law: *Pāli Literature* 19f.; Tuy nhiên, lập luận của Law cho rằng các giới luật *Pātimokkha* nằm trong số các văn bản không được tụng đọc tại Cuộc kết tập đầu tiên, là do sự hiểu sai về đoạn văn Sumaṅgalavilāsinī (i.17).
+
+Các giới luật đã được tụng đọc tại những cuộc tụ họp của các thành viên Tăng đoàn (phần *Uposathakkhandhaka* của Mahā Vagga (Vin.i.101-36) cung cấp các chi tiết về thủ tục tại những cuộc họp này) ở các khu vực tương ứng của họ vào những ngày *uposatha* (ngày thứ mười bốn hoặc thứ mười lăm của tháng). Mỗi phần của các giới luật được tụng đọc và, khi kết thúc phần tụng đọc đó, người tụng hỏi các thành viên Tăng đoàn đang hiện diện xem liệu có bất kỳ ai trong số họ đã vi phạm bất kỳ giới luật nào hay không. Sự im lặng ngụ ý là không có tội lỗi. Thực hành ngắt quãng việc tụng đọc này dường như đã bị thay đổi sau đó (xem Vin.ii.240 ff.) mặc dù công thức cũ, yêu cầu các thành viên lên tiếng, vẫn tiếp tục như một phần của cuộc tụng đọc.
+
+Từ *Pātimokkha* được giải thích theo nhiều cách khác nhau, trong đó cách giải thích cổ xưa nhất là việc tuân giữ các giới luật là bộ mặt (*mukhaṁ*), là điều chính yếu (*pamukhaṁ*) của các phẩm chất tốt đẹp. Dạng Sanskrit hóa của từ này là *prātimokṣa*, điều này đã dẫn đến một sự thay đổi trong ý nghĩa của nó, việc hoàn tất buổi tụng đọc là bằng chứng cho thấy tất cả những người tham gia đều thanh tịnh liên quan đến các vi phạm được chỉ định – như vậy *Pātimokkha* có nghĩa là sự tha bổng, sự giải thoát hoặc sự miễn trừ. Nhưng trong hầu hết các ngữ cảnh, từ này đơn giản có nghĩa là bộ luật – tức là, bộ các giới điều dành cho các thành viên của Tăng đoàn.
+
+Để xem một bản giải trình chi tiết về các giới luật *Pātimokkha*, xem Law: *Pāli Literature*, 49 ff.
 
 ## Notes

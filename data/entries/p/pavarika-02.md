@@ -5,7 +5,7 @@ base_headword: "Pāvārika"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -31,6 +31,6 @@ Pāvārika 02. A *seṭṭhi* of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāvārika 02. Một *seṭṭhi* ở Kosambī, bạn của Ghosita và Kukkuṭa. Khi ba người này đến Sāvatthī để thỉnh mời Đức Phật đến Kosambī, họ đã cho xây dựng ba tu viện để cung cấp chỗ ở cho Đức Phật và các tỳ-kheo của ngài. Tu viện do Pāvārika xây dựng nằm trong vườn xoài (*ambavana*) của ông và được gọi là Pāvārikārāma và Pāvārikambavana. DN­a.i.319; AN­a.i.234f.; MN­a.i.541; Dhp­a.i.203ff.
 
 ## Notes

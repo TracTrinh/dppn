@@ -5,7 +5,7 @@ base_headword: "Makhādeva"
 disambiguator: "01"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -40,6 +40,10 @@ His dynasty was followed by that of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Makhādeva 01. Vua, con trai của Sāgaradeva, thuộc dòng dõi trực hệ của Mahā Sammata. Ông là một vị cai trị vĩ đại và rộng lượng, và các con trai cùng các cháu trai của ông, số lượng tám mươi bốn ngàn người, đã trị vì ở Mithilā, người cuối cùng trong số họ là Nemiya, con trai của Kāḷārajanaka (Dpv.iii.34 f.; Mhv.ii.10; Mhv­ṭ.129; DN­a.i.258 gọi ông là con trai của Upacara; cũng xem Snp­a.i.352).
+
+Triều đại của ông được tiếp nối bởi triều đại của Okkāka, cho nên ông là một trong những tổ tiên của tộc Sākiyan (DN­a.i.258; Snp­a.i.352). Xem thêm Makhādevajātaka (Ja 9) và Makhādevasutta.
+
+Makhādeva được đồng nhất với Bodhisatta. Trong một kiếp sống sau đó, ngài trở thành Nimi.
 
 ## Notes

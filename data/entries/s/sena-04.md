@@ -5,7 +5,7 @@ base_headword: "Sena"
 disambiguator: "04"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -27,6 +27,6 @@ Sena 04. Called *Mahā Lekhaka* <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sena 04. Được gọi là *Mahā Lekhaka* Sena. Ông là một đại thần của Kassapa V. và đã xây dựng ngôi nhà Mahā Lekhakapabbata trong Mahā Vihāra (Cv.lii.33). Mẹ ông là Nālā. Cv.Trs. i.138, n.3; 165, n.1.
 
 ## Notes

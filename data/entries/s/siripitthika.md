@@ -5,7 +5,7 @@ base_headword: "Siripiṭṭhika"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Siripiṭṭhika. A village in Ceylon, mentioned in the account of the wars of <
 
 ## Vietnamese translation
 
-Chưa dịch.
+Siripiṭṭhika. Một ngôi làng ở Tích Lan, được nhắc đến trong tường thuật về các cuộc chiến của Aggabodhi III. Cv.xliv.88.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Maṇikaṇṭha"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Maṇikaṇṭha. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇikaṇṭha. Một vua Nāga. Xem Maṇikaṇṭhajātaka (Ja 253). Nhà vua có tên gọi này vì ông đeo quanh cổ một viên ngọc như ý. (SP.iii.565.)
 
 ## Notes

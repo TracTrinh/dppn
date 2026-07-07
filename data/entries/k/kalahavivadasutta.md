@@ -5,7 +5,7 @@ base_headword: "Kalahavivādasutta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -40,6 +40,12 @@ Probably the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kalahavivādasutta. Một trong sáu *Sutta* được thuyết giảng tại Mahā Samaya tổ chức trong Mahā Vana gần Kapilavatthu. Nó đề cập đến nguồn gốc của những sự tranh cãi và xung đột. Các cuộc xung đột phát sinh xoay quanh những đối tượng mà một người yêu quý; sự ái luyến như vậy là kết quả của dục vọng, v.v. Nó tạo thành *Sutta* thứ mười một của Aṭṭhakavagga thuộc Suttanipāta (Sn.vv.862ff; Snp-a.361, 551ff).
+
+Người ta nói rằng bài thuyết giảng này đặc biệt dành cho những vị trong Hội chúng, những người có tâm tính sân hận (*dosacaritānaṁ*) (MNid-a.222).
+
+Chúng ta được kể lại rằng Mahā Pajāpatī đã nghe *Sutta* này và từ bỏ thế gian. Thīg­a.3, 141.
+
+Có lẽ Attadaṇḍasutta cũng được gọi bằng tên này. Xem AN­a.i.186, nơi câu chuyện về 500 thanh niên Sākiyan được đưa ra. Trong các bản tường thuật khác, *Sutta* dẫn đến việc họ gia nhập Tăng đoàn được gọi là Attadaṇḍa. Xem Rohiṇī (3).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahinda"
 disambiguator: "08"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -29,6 +29,6 @@ Mahinda 08. Son of the *Ādipāda* <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahinda 08. Con trai của *Ādipāda* Dāṭhāsīva của Rohaṇa. Ông đã cãi nhau với cha mình, phục vụ dưới quyền của Udaya I. và kết hôn với con gái của ông ta là Devā. Sau đó ông được cử đến Rohaṇa, nơi ông đã đánh đuổi cha mình. Hai người con trai của ông đã nổi dậy chống lại ông, và, với sự giúp đỡ của Udaya, đã dẫn một đội quân chống lại ông. Mahinda đã đánh bại họ, nhưng đã bị giết chết trong một trận chiến với một người họ hàng khác. Cv.xlix.10ff.; 66ff.
 
 ## Notes

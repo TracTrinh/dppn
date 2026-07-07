@@ -5,7 +5,7 @@ base_headword: "Vāseṭṭha"
 disambiguator: "04"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -31,6 +31,6 @@ Vāseṭṭha 04. A young Brahmin who, with his friend <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một nam thanh niên Bà-la-môn, cùng với người bạn của mình là Bhāradvāja, đã đến thăm Đức Phật và tổ chức các cuộc thảo luận với Ngài. Những cuộc thảo luận này được ghi lại trong Tevijjasutta, Vāseṭṭhasutta, và Aggaññasutta. Buddhaghosa nói rằng Vāseṭṭha là đệ tử chính của Pokkharasāti (DN­a.ii.399; Snp­a.ii.463; xem Snp., p.116). Cũng theo ngài, chuyến viếng thăm đầu tiên của Vāseṭṭha đến Đức Phật là nhân dịp thuyết giảng Vāseṭṭhasutta, vào cuối buổi giảng, ông đã chấp nhận Đức Phật làm đạo sư của mình (DN­a.ii.406; xem iii.860, 872). Ông lại làm như vậy, khi ở chuyến viếng thăm tiếp theo, Đức Phật đã thuyết giảng cho ông bài Tevijjasutta. Ngay sau đó, ông gia nhập Tăng đoàn, và vào cuối buổi thuyết giảng Aggaññasutta, ông được thọ tỳ-kheo giới và đạt được quả vị *Arahant*. Ông xuất thân từ một gia đình rất giàu có và đã từ bỏ bốn mươi crore khi xuất gia. Ông là một chuyên gia về ba bộ Vệ-đà.
 
 ## Notes

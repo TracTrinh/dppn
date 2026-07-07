@@ -5,7 +5,7 @@ base_headword: "Soṇa"
 disambiguator: "06"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Soṇa 06. An *Arahant* monk who was sent with <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Soṇa 06. Một tỳ-khưu *Arahant* được cử cùng với Uttara để hóa độ Suvaṇṇabhūmi. Dpv.viii.12; Vin-a.i.68, 69; Mhv.xii.6, 44ff.; chi tiết xem Suvaṇṇabhūmi.
 
 ## Notes

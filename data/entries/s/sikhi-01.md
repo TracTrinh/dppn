@@ -5,7 +5,7 @@ base_headword: "Sikhī"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -57,6 +57,8 @@ For a visit paid by him to the *Brahma* world see <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sikhī 01. Sikhī Buddha. Vị thứ hai mươi trong hai mươi bốn vị Phật. Ngài sinh ra tại khu vườn Nisabha ở Aruṇavatī, cha Ngài là vị *Khattiya* Aruṇa (Aruṇavā) và mẹ Ngài là Pabhāvatī. Ngài được đặt tên như vậy vì *uṇhīsa* của Ngài dựng đứng lên như một ngọn lửa (*sikhā*). Trong bảy nghìn năm, Ngài sống đời tại gia trong ba cung điện — *Sucanda*, *Giri*, *Vahana* (Bv­a.p.201 gọi chúng là *Sucandakasiri*, *Giriyasa* và *Nārivasabha*) — vợ Ngài là Sabbakāmā và con trai Ngài là Atula. Ngài rời nhà trên lưng một con voi, tu khổ hạnh trong tám tháng, được con gái của Piyadassī *seṭṭhi* ở *nigama* Sudassana dâng cơm sữa, và được Anomadassī dâng cỏ làm chỗ ngồi. Cây Bodhi của Ngài là một cây *puṇḍarīka*. Bài pháp đầu tiên của Ngài được thuyết tại khu vườn Migācira gần Aruṇavatī, và Song thông của Ngài được thực hiện gần Suriyavatī dưới một cây *campaka*. Bodhisatta khi ấy là Arindama, vua của Paribhutta. Abhibhū và Sambhava là hai đại đệ tử tỳ-kheo của Ngài, và Akhilā (Makhilā) và Padumā là hai đại đệ tử tỳ-kheo-ni. Thị giả thường trực của Ngài là Khemaṅkara. Trong số các thí chủ của Ngài có Sirivaḍḍha và Canda (Nanda) trong hàng nam giới, và Cittā và Suguttā trong hàng nữ giới. Thân Ngài cao sáu mươi cubit, và Ngài sống đến bảy mươi nghìn tuổi, viên tịch tại Dussārāma (Assārāma) ở Sīlavatī. Trên xá-lợi của Ngài, một *Thūpa* cao ba do-tuần đã được dựng lên (Bv.xxi.; Bv­a.201ff.; cf. DN.ii.7; iii.195f.; Ja.i.41, 94; Dhp­a.i.69; SN.ii.9; Divy.333). Sikhī Buddha chỉ tổ chức lễ *Pātimokkha* mỗi sáu năm một lần (Dhp­a.iii.236; cf. Vin-a.i.191).
+
+Về chuyến viếng thăm của Ngài đến cõi *Brahma*, xem Abhibhū. Tên Ngài cũng xuất hiện trong Aruṇavatīparitta (*q.v.*).
 
 ## Notes

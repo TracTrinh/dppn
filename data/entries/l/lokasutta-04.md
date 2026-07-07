@@ -5,7 +5,7 @@ base_headword: "Lokasutta"
 disambiguator: "04"
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -23,6 +23,6 @@ Lokasutta 04. The world is so-called because it crumbles away (*lujjati*). SN.iv
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lokasutta 04. Thế giới được gọi như vậy vì nó tan rã (*lujjati*). SN.iv.52.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Soṇuttara"
 disambiguator: "04"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Soṇuttara 04. The horse on which <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Soṇuttara 04. Con ngựa mà Tissa Buddha đã cưỡi khi rời bỏ đời sống thế tục. Bv­a.189.
 
 ## Notes

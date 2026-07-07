@@ -5,7 +5,7 @@ base_headword: "Vaṭṭakakārapiṭṭhi"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vaṭṭakakārapiṭṭhi. A village granted by <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngôi làng được ban tặng bởi Aggabodhi I. để duy trì *vihāra* Bhinnorudīpa. Cv.xlii.26.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Khemasutta"
 disambiguator: "01"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -25,6 +25,6 @@ Khemasutta 01. An account of the visit paid to the Buddha at <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khemasutta 01. Một tường thuật về chuyến viếng thăm Đức Phật tại Jetavana của Devaputta Khema và những bài kệ do Khema thốt lên vào dịp đó. SN.i.57.
 
 ## Notes

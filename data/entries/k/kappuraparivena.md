@@ -5,7 +5,7 @@ base_headword: "Kappūrapariveṇa"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -29,6 +29,6 @@ Kappūrapariveṇa. A building in the <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kappūrapariveṇa. Một tòa nhà trong Abhayagirivihāra, được dựng lên bởi Dāṭhopatissa II. (Cv.xlv.29). Về sau, Aggabodhi II. đã xây dựng một *pāsāda* ở đó (Cv.xlvi.21), và Sena I. đã dựng lên một *pariccheda* (có lẽ là những dãy phòng đơn). (Cv.l.77) (Xem thêm Kappūrarmūlāyatana).
 
 ## Notes

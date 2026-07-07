@@ -5,7 +5,7 @@ base_headword: "Uposathakhandhaka"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -25,6 +25,6 @@ Uposathakhandhaka. The second chapter of the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uposathakhandhaka. Chương thứ hai của Mahā Vagga thuộc Vinayapiṭaka. Vin.i.101-36.
 
 ## Notes

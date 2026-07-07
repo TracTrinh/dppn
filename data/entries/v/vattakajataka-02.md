@@ -5,7 +5,7 @@ base_headword: "Vaṭṭakajātaka"
 disambiguator: "02"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -29,6 +29,8 @@ The story was told in reference to a young man of <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaṭṭakajātaka 02. (Ja 118). Bodhisatta từng sinh ra làm một con chim cút, và bị bắt bởi một người bắt chim, người đã bán những con chim sau khi vỗ béo chúng. Bodhisatta, biết được điều này, đã bỏ đói bản thân, và khi người bắt chim lấy ngài ra khỏi lồng để kiểm tra tình trạng của ngài, con chim cút đã bay đi và đoàn tụ với những người bạn của mình.
+
+Câu chuyện được kể liên quan đến một thanh niên ở Sāvatthī tên là Uttara *seṭṭhiputta*. Ông đã giáng trần từ cõi Phạm thiên (*Brahma* world) và không có ham muốn đối với phụ nữ. Một lần, trong lễ hội Kattika, bạn bè của ông đã gửi cho ông một người phụ nữ được trang điểm lộng lẫy để dụ dỗ ông, nhưng ông đã đưa cho cô ấy một ít tiền và đuổi cô ấy đi. Khi cô ấy đi ra khỏi nhà ông, một nhà quý tộc nhìn thấy cô ấy và đưa cô ấy đi cùng ông ta. Khi cô ấy không trở về, mẹ cô ấy đã phàn nàn với nhà vua, và *seṭṭhiputta* được yêu cầu phải trả lại cô ấy. Do không làm được điều đó, ông đã bị đưa đi hành quyết. Ông quyết tâm rằng nếu bằng bất kỳ phương tiện nào có thể thoát khỏi sự hành quyết, ông sẽ trở thành một tu sĩ. Cô gái chú ý thấy đám đông đi theo thanh niên, và khi biết được lý do, cô đã tiết lộ danh tính của mình và ông được thả tự do. Ngay sau đó, ông gia nhập Tăng đoàn và không lâu sau đã trở thành một vị *Arahant*. Ja.i.432ff.
 
 ## Notes

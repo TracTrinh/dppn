@@ -5,7 +5,7 @@ base_headword: "Somadatta"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Somadatta 01. The Bodhisatta born as the son of the Brahmin <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Somadatta 01. Bodhisatta sinh làm con trai của vị Bà-la-môn Aggidatta (*q.v.*).
 
 ## Notes

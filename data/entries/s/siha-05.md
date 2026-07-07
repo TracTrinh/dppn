@@ -5,7 +5,7 @@ base_headword: "Sīha"
 disambiguator: "05"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -25,6 +25,6 @@ Sīha 05. The constant attendant (*upaṭṭhāka*) of <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīha 05. Thị giả thường trực (*upaṭṭhāka*) của Metteyya Buddha. Anāg. p.50, vs.97.
 
 ## Notes

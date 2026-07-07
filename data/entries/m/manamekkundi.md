@@ -5,7 +5,7 @@ base_headword: "Maṇamekkuṇḍi"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Maṇamekkuṇḍi. A locality of South India pillaged by <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇamekkuṇḍi. Một địa danh ở miền Nam Ấn Độ bị Laṅkāpura cướp phá. Cv.lxxvii.87.
 
 ## Notes

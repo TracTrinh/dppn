@@ -5,7 +5,7 @@ base_headword: "Pāsāṇadīpa"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -28,6 +28,6 @@ Pāsāṇadīpa. A *vihāra* in <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāsāṇadīpa. Một *vihāra* ở Rohaṇa, do Mahā Dāṭhika Mahā Nāga xây dựng, người đã dâng cúng một dải đất trải dài nửa do-tuần xung quanh để tôn vinh một sa-di sống tại đó và đã dâng cho vua một ngụm nước (Mhv.xxxiv.91). Silādāṭha đã nghe vị Trưởng lão của *vihāra* này thuyết giảng các bản kinh thánh, và, rất hài lòng với ngài, đã xây dựng cho ngài Rohaṇavihāra. Cv.xlv.53.
 
 ## Notes

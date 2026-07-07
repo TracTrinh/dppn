@@ -5,7 +5,7 @@ base_headword: "Sudassana"
 disambiguator: "05"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sudassana 05. The horse ridden by <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudassana 05. Con ngựa được Atthadassī Buddha cưỡi khi ngài xuất gia. Bv­a.178.
 
 ## Notes

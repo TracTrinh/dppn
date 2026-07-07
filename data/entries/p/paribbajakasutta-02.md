@@ -5,7 +5,7 @@ base_headword: "Paribbājakasutta"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -29,6 +29,6 @@ Paribbājakasutta 02. The Buddha visits the *Paribbājakārāma* on the banks of
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paribbājakasutta 02. Đức Phật đến thăm tu viện của các du sĩ ngoại đạo (*Paribbājakārāma*) trên bờ sông Sappinikā và trò chuyện với một số du sĩ ngoại đạo (Paribbājakas) xuất chúng – Annabhāra, Varadhara, Sakuludāyī và những người khác. Đức Phật nói với họ rằng có bốn yếu tố của Pháp mà không một vị sa-môn hay Bà-la-môn sáng suốt nào có thể coi thường – không tham ái, không ác ý, chánh niệm, và chánh định. AN.ii.31f.
 
 ## Notes

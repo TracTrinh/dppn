@@ -5,7 +5,7 @@ base_headword: "Kāḷakaṇṇī"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -25,6 +25,6 @@ Kāḷakaṇṇī 02. The name of the treasurer’s friend in the story of the p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷakaṇṇī 02. Tên của người bạn của vị trưởng khố trong câu chuyện về quá khứ, như được đưa ra trong Kāḷakaṇṇījātaka (xem ở mục từ tương ứng).
 
 ## Notes

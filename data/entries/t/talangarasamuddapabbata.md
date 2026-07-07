@@ -5,7 +5,7 @@ base_headword: "Talaṅgarasamuddapabbata"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,6 @@ Talaṅgarasamuddapabbata. Mentioned in the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Talaṅgarasamuddapabbata. Được đề cập trong Rasavāhinī (ii. 50) như là nơi lưu trú của Mahā Dhammadinna. Địa điểm này có lẽ cũng chính là Talaṅgara (*q.v.*).
 
 ## Notes

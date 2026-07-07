@@ -5,7 +5,7 @@ base_headword: "Sīlavaṁsa"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -29,6 +29,6 @@ Sīlavaṁsa 01. A monk of Ava, of the fifteenth century. He wrote the <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīlavaṁsa 01. Một vị tỳ-kheo ở Ava, vào thế kỷ mười lăm. Ông đã viết Buddhālaṅkāra, một bản diễn ca của Sumedhakathā, một bài thơ về quê hương ông, trong đó được gọi là Pabbatabbhantara. Ông cũng viết một *atthayojanā* về Nettippakaraṇa bằng tiếng Miến Điện, và Pārāyaṇavatthu. Bode, 43.
 
 ## Notes

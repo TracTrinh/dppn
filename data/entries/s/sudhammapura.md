@@ -5,7 +5,7 @@ base_headword: "Sudhammapura"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -23,6 +23,6 @@ Sudhammapura. The Pāli name for the city of Thaton. Bode, 12.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudhammapura. Tên Pāli của thành phố Thaton. Bode, 12.
 
 ## Notes

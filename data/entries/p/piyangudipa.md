@@ -5,7 +5,7 @@ base_headword: "Piyaṅgudīpa"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -29,6 +29,6 @@ Piyaṅgudīpa. An island, probably near Ceylon, the monks of which enjoyed a re
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piyaṅgudīpa. Một hòn đảo, có lẽ gần Tích Lan, các vị tỳ-kheo ở đây nổi tiếng là những người vô cùng thánh thiện. Khi Duṭṭhagāmaṇī, đang chạy trốn khỏi Cūḷaṅganiyapiṭṭhi, mong muốn được cúng dường mặc dù có quá ít thức ăn, một vị Thera *Arahant* đã đến từ Piyaṅgudīpa để thọ nhận nó ngay khi giờ cúng dường được vị quan Tissa thông báo (Mhv.xxiv.24ff). Một lần nữa, khi Duṭṭhagāmaṇī, sau cuộc chinh phạt những người Damiḷa, đã tràn ngập trong sự hối hận vì việc tàn sát con người của mình, các vị *Arahant* của Piyaṅgudīpa đã đọc được suy nghĩ của ông và đến để an ủi ông (Mhv.xxv.104ff). Có đề cập đến việc có tới mười hai ngàn vị tỳ-kheo sống trên Piyaṅgudīpa. Mhv.xxxii.55.
 
 ## Notes

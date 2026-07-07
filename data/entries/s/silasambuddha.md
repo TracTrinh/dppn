@@ -5,7 +5,7 @@ base_headword: "Silāsambuddha"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -33,6 +33,8 @@ It was referred to under various names: *Silāsatthā*, *Silāmayamuninda*, *Kā
 
 ## Vietnamese translation
 
-Chưa dịch.
+Silāsambuddha. Một pho tượng đá nổi tiếng ở Anurādhapura, rõ ràng được tôn kính rất mực. Ban đầu tượng đặt tại Abhayuttaravihāra, và Buddhadāsa đã gắn một viên ngọc Nāga làm một trong hai mắt tượng (Cv.xxxvii.123); nhưng viên ngọc này bị mất, và sau đó Dhātusena cho làm một cặp mắt quý giá khác (Cv.xxxviii.62).
+
+Tượng được nhắc đến dưới nhiều tên gọi khác nhau: *Silāsatthā*, *Silāmayamuninda*, *Kāḷaselasatthā*, v.v. Sena II. thấy ngôi đền chứa tượng đã đổ nát và cho trùng tu lại (Cv.li.77), trong khi hoàng hậu của ông, Saṅghā, đặt lên tượng một chiếc vương miện màu xanh thẫm (Cv.li.87).
 
 ## Notes

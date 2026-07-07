@@ -5,7 +5,7 @@ base_headword: "Sotasutta"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Sotasutta 02. (or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sotasutta 02. (hoặc Sotāpannasutta). Vị đệ tử bậc Thánh, người thực sự biết và thấu hiểu sáu căn, là một *Sotāpanna*. SN.v.205.
 
 ## Notes

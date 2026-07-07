@@ -5,7 +5,7 @@ base_headword: "Vatagāma"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vatagāma. A monastery in Ceylon, built by <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tu viện ở Ceylon, được xây dựng bởi Moggallāna III. Ông đã cúng dường ngôi làng cùng tên, vốn được gắn liền với tu viện, để duy trì nó. Cv.xliv.50.
 
 ## Notes

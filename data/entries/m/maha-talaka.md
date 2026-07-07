@@ -5,7 +5,7 @@ base_headword: "Mahā Talāka"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -25,6 +25,6 @@ Mahā Talāka. A monastery in Ceylon, the residence of <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Talāka. Một tu viện ở Ceylon, nơi cư ngụ của Āraññaka Mahā Abhaya. Ras.ii.5
 
 ## Notes

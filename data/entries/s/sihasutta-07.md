@@ -5,7 +5,7 @@ base_headword: "Sīhasutta"
 disambiguator: "07"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -24,6 +24,6 @@ Sīhasutta 07. Very similar to No. 1. SN.iii.84f.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhasutta 07. Rất giống với bài số 1. SN.iii.84f.
 
 ## Notes

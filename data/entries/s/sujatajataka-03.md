@@ -5,7 +5,7 @@ base_headword: "Sujātajātaka"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -28,6 +28,8 @@ The story was told to a lay follower of the Buddha who, after his father’s dea
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sujātajātaka 03. (Ja 352). Bodhisatta từng là một chủ đất của Benares, tên là Sujāta. Khi ông nội ông qua đời, cha của ông buông mình trong sự tuyệt vọng và, sau khi dựng một gò đất bên trên phần xương của người đã khuất, đã dành toàn bộ thời gian của mình để dâng cúng các loài hoa ở đó. Muốn chữa trị cho ông, Sujāta giả vờ điên loạn, và, nhìn thấy một con bò tót chết ở bên ngoài thành phố, ông đã đặt cỏ và nước gần nó rồi liên tục cố gắng làm cho nó ăn uống. Tin tức về điều này đã được mang đến cho cha ông, người vội vã đi đến nơi đó. Trong quá trình trò chuyện của họ Sujāta đã thuyết phục cha ông về sự ngu xuẩn của ông ấy.
+
+Câu chuyện đã được kể cho một cư sĩ đi theo Đức Phật người mà, sau cái chết của cha mình, đã buông mình trong sự đau buồn. Đức Phật đã đến thăm ông và kể cho ông nghe câu chuyện này. Ja.iii.155-7. Câu chuyện được đưa ra trong Pv-a.39f., nhưng ở đó nó được kể liên quan đến các tỳ-kheo và không phải người gia chủ; tuy nhiên, ông ấy đã trở thành một *Sotāpanna*.
 
 ## Notes

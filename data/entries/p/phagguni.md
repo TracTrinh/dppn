@@ -5,7 +5,7 @@ base_headword: "Phaggunī"
 disambiguator: ""
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -25,6 +25,6 @@ Phaggunī. One of the two *Aggasāvikā* of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phaggunī. Một trong hai vị *Aggasāvikā* của Đức Phật Nārada. Bv.x. 24; Ja.i.37.
 
 ## Notes

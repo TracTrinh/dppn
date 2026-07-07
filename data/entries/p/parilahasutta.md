@@ -5,7 +5,7 @@ base_headword: "Pariḷāhasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Pariḷāhasutta. Not to understand *dukkha* and its cessation is far more fears
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pariḷāhasutta. Không thấu hiểu *dukkha* và sự diệt tận của nó thì đáng sợ hơn nhiều so với việc bị tái sinh vào địa ngục (*niraya*) Pariḷāha. SN.v.450.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kitti"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -30,6 +30,6 @@ Kitti 01. A court official of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kitti 01. Một quan chức triều đình của Kassapa Vikkamabāhu, con trai của Mahinda V. Ông sống ở Makkhakudrūsa, và khi người Coḷas cướp phá Rohaṇa, ông, cùng với sự giúp đỡ của vị quan đại thần Buddha của Māragallaka, đã đánh bại họ và đánh đuổi họ đến Pulatthipura. Khi nhà vua đề nghị ban cho ông một ân huệ, ông mong muốn rằng phần doanh thu của ông bị các tỳ-kheo chiếm đoạt nên được hoàn lại. Cv.lv.26ff.
 
 ## Notes

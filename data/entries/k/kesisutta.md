@@ -5,7 +5,7 @@ base_headword: "Kesisutta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -28,6 +28,8 @@ Kesisutta. The horse-trainer <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kesisutta. Người huấn luyện ngựa Kesi đến thăm Đức Phật, và khi trả lời một câu hỏi, ông nói rằng ông huấn luyện một số con ngựa bằng sự ôn hòa, một số con bằng sự khắc nghiệt, và những con khác bằng cả hai cách; những con nào không chịu khuất phục sự huấn luyện thì ông sẽ giết chúng. Đức Phật nói rằng ngài cũng đối xử với con người theo cách tương tự. Ngài thu phục một số người bằng sự ôn hòa – nói cho họ biết điều gì là tốt đẹp và chỉ cho họ con đường lên thiên giới; những người khác bằng sự khắc nghiệt – lên án những điều xấu xa trong họ; những người khác nữa bằng cả hai cách. Những ai không chịu phục tùng kỷ luật này, ngài sẽ tiêu diệt, bằng cách từ chối khuyên bảo họ (AN.ii.112f).
+
+Buddhaghosa nói (Vin-a.i.120) rằng Kesisutta phải là một trong những bài kinh được dùng để giải thích thuật ngữ purisadamma-sārathī khi đề cập đến Đức Phật.
 
 ## Notes

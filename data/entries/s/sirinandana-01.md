@@ -5,7 +5,7 @@ base_headword: "Sirinandana"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sirinandana 01. A pleasaunce in <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirinandana 01. Một khu vườn ở Upakārī, nơi Sumedha Buddha đã thuyết pháp cho một đám đông lớn. Bv­a.166.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kakaṇṭakapañha"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kakaṇṭakapañha. The story, mentioned in the <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kakaṇṭakapañha. Câu chuyện, được đề cập trong Mahā Ummagajātaka (Ja.vi.346f), về con tắc kè hoa được nhà vua cho số thịt trị giá một nửa đồng xu mỗi ngày vì đã bày tỏ sự tôn kính đối với ngài. Vào một ngày ăn chay không có thịt để bán, và người cung cấp thịt đã buộc số tiền đó quanh cổ con tắc kè hoa. Lần tiếp theo khi con vật nhìn thấy nhà vua, nó từ chối chào hỏi ngài, vì nó cảm thấy mình ngang hàng với ngài nhờ vào sự giàu có quanh cổ nó.
 
 ## Notes

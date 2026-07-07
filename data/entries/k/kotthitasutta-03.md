@@ -5,7 +5,7 @@ base_headword: "Koṭṭhitasutta"
 disambiguator: "03"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -26,6 +26,6 @@ Koṭṭhitasutta 03. Three *Suttas*. <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koṭṭhitasutta 03. Ba bài *Sutta*. Mahā Koṭṭhita đến viếng thăm Đức Phật và yêu cầu một lời giải thích ngắn gọn về Dhamma. Đức Phật trả lời rằng nên từ bỏ tham ái đối với những gì là (1) vô thường, (2) khổ, (3) vô ngã. SN.iv.145f.
 
 ## Notes

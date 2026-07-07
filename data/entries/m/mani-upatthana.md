@@ -5,7 +5,7 @@ base_headword: "Maṇi-upaṭṭhāna"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Maṇi-upaṭṭhāna. One of the places appointed by King <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇi-upaṭṭhāna. Một trong những nơi được vua Bhātika chỉ định để phân phát sự hiếu khách cho các vị tăng sĩ ở Tích Lan. (Mhv.xxxiv.65; Mhv­ṭ. (633) gọi là Maṇi-upaṭṭhāna *pāsāda*.)
 
 ## Notes

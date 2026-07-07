@@ -5,7 +5,7 @@ base_headword: "Uparevata"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -32,6 +32,6 @@ Uparevata 01. A *Sāmaṇera*, son of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uparevata 01. Một Sāmaṇera, con trai của Đức Phật Padumuttara. Chính việc nhìn thấy sa-di này đã khiến cho Rāhula, lúc đó sinh ra làm vua Nāga Saṅkha, mong muốn trở thành con trai của một vị Phật (Snp-a.i.340; MN­a.ii.722). Tuy nhiên, theo Buddhavaṁsa (xi.21), con trai của Padumuttara được gọi là Uttara. Uparevata, mặc dù còn rất trẻ (*taruṇalalitadāraka*), lại sở hữu các thần thông to lớn và vua Nāga đã vô cùng ấn tượng với vị ấy (AN­a.i.142f. Ở đây vua *nāga* được gọi là Paṭhayindhara).
 
 ## Notes

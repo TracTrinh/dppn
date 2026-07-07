@@ -5,7 +5,7 @@ base_headword: "Mahā Soṇā Therī"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -24,6 +24,6 @@ Mahā Soṇā Therī. A teacher of the Vinaya in Ceylon. Dpv.xviii.27.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Soṇā Therī. Một vị nữ đạo sư về Vinaya ở Tích Lan. Dpv.xviii.27.
 
 ## Notes

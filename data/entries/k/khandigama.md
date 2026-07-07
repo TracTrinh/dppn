@@ -5,7 +5,7 @@ base_headword: "Khaṇḍigāma"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -27,6 +27,6 @@ Khaṇḍigāma. A village in Ceylon. It contained a narrow pass where a battle 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khaṇḍigāma. Một ngôi làng ở Tích Lan. Nó có một khe núi hẹp nơi diễn ra một trận chiến giữa Gajabāhu và Laṅkāpura, trong đó Gajabāhu đã bị đánh bại. Sau đó, Adhikārī Nātha cũng phải gánh chịu thất bại tại chính nơi này. Cv.lxx.216-81, 298; xem thêm Cv.Trs.i.305, n.6.
 
 ## Notes

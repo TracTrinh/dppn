@@ -5,7 +5,7 @@ base_headword: "Veyyākaraṇa"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Veyyākaraṇa. A portion of the *Tipiṭaka* in its arrangement according to ma
 
 ## Vietnamese translation
 
-Chưa dịch.
+Veyyākaraṇa. Một phần của *Tipiṭaka* trong sự sắp xếp của nó theo thể loại (*aṅga*). Theo Buddhaghosa, nó bao gồm toàn bộ Abhidhammapiṭaka và các *Sutta* không được sáng tác bằng thi kệ. DN­a.i.24; Pug.iv.9, 28.
 
 ## Notes

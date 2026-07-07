@@ -5,7 +5,7 @@ base_headword: "Uttara"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -35,6 +35,10 @@ He is evidently identical with <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttara 02. Một vị Trưởng lão (Thera). Ông là con trai của một Bà-la-môn ở Sāketa. Trong khi đang làm một số việc kinh doanh tại Sāvatthī, ông đã nhìn thấy Phép Lạ Kép (Twin Miracle) và, khi Đức Phật thuyết giảng Kāḷakārāmasutta tại Sāketa, ông đã gia nhập Tăng đoàn. Ông đã tháp tùng Đức Phật đến Rājagaha và tại đó ông đã trở thành một Arahant (Thag.vv.161-2; Thag­a.i.283f).
+
+Vào thời của Siddhattha Buddha, ông là một gia chủ và đã trở thành một tín đồ của Đức Phật. Khi Đức Phật viên tịch, ông đã triệu tập những người thân của mình lại và cùng nhau họ đã bày tỏ sự tôn kính lớn lao đối với xá-lợi.
+
+Ông rõ ràng đồng nhất với Dhātupūjaka của Apadāna (ii.425). Có lẽ chính vị Trưởng lão (Thera) này được đề cập đến trong Uttarasutta (AN.iv.162ff).
 
 ## Notes

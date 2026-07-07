@@ -5,7 +5,7 @@ base_headword: "Romasa"
 disambiguator: "04"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Romasa 04. A king of seventy-four *kappas* ago, a previous birth of <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Romasa 04. Một vị vua của bảy mươi bốn kappa trước, một tiền thân của Caṅkolapupphiya Thera. Ap.i.215.
 
 ## Notes

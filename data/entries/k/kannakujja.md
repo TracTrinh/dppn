@@ -5,7 +5,7 @@ base_headword: "Kaṇṇakujja"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -51,6 +51,12 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="24" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇṇakujja. Một quận ở Jambudīpa; nó được đề cập trong danh sách các địa điểm mà Đức Phật đã đi qua trên đường từ Verañjā đến Bārāṇasī, băng qua sông Ganges, tuyến đường đi qua Verañjā, Soreyya, Saṅkassa, Kaṇṇakujja, Payāgatittha, tại đây băng qua sông đến Benares (Vin.iii.11). Đây có thể là chính con đường mà Revata đã đi theo khi đi từ Saṅkassa đến Sahajāti, con đường này đi qua Kaṇṇakujja, Udumbara, và Aggaḷapura (Vin.ii.299).
+
+Trong Dīpavaṁsa (iii.26; Mhv-ṭ. (82) gọi nó là Kaṇṇagotta), thành phố được gọi là Kaṇṇagoccha, và được cho là thủ đô của chín vị vua thuộc dòng dõi Mahā Sammata, vị vua cuối cùng là Naradeva.
+
+Theo Huyền Trang, khoảng cách từ Saṅkassa đến Kaṇṇakujja là hai trăm dặm (*li*), hay ba mươi ba dặm (miles), theo hướng tây bắc. Pháp Hiển đưa ra khoảng cách là bốn mươi chín dặm (miles) (*Buddhist* Records, p.205; Giles, p.47. Để xem bài viết mô tả chi tiết, xem CAGI.433ff; xem thêm Mhv.ii.442f.; 459f.; 485 và iii.16, 34).
+
+Theo Buddhavaṁsa Commentary (p.193), chính tại Kaṇṇakujja, Phussa Buddha đã thuyết pháp lần đầu tiên cho hai đệ tử hàng đầu của ngài. Lại nữa (Bv-a.210), chính tại cổng thành Kaṇṇakujja, Kakusandha Buddha đã thể hiện Song thông.
 
 ## Notes

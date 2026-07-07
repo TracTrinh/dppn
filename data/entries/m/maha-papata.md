@@ -5,7 +5,7 @@ base_headword: "Mahā Papāta"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -27,6 +27,6 @@ Mahā Papāta. A mountain in the <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Papāta. Một ngọn núi ở dãy Himālaya nơi tất cả các vị Pacceka Buddha viên tịch. Khi thời điểm viên tịch của một vị Pacceka Buddha đến, ngài đi đến đó, ném xương của vị Pacceka Buddha viên tịch gần nhất xuống vách núi bên dưới, rồi ngồi xuống chỗ ngồi đặc biệt để tự mình viên tịch. Snp­a.i.129.
 
 ## Notes

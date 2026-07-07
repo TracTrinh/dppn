@@ -5,7 +5,7 @@ base_headword: "Vanappavesanakhaṇḍa"
 disambiguator: "02"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -29,6 +29,6 @@ Vanappavesanakhaṇḍa 02. A section of the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vanappavesanakhaṇḍa 02. Một phần của Vessantarajātaka, nói về hành trình của Vessantara và gia đình ông từ Jetuttara đến Vaṅkapabbata, và cuộc sống của họ trong am thất trước khi Jūjaka đến. Ja.vi.513-21.
 
 ## Notes

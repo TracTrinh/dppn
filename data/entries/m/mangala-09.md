@@ -5,7 +5,7 @@ base_headword: "Maṅgala"
 disambiguator: "09"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Maṅgala 09. A Thera of Ceylon, preceptor of <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṅgala 09. Một Trưởng lão ở Tích Lan, thầy tế độ của Vedeha. PLC. 223.
 
 ## Notes

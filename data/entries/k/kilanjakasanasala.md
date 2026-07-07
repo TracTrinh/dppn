@@ -5,7 +5,7 @@ base_headword: "Kilañjakāsanasālā"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kilañjakāsanasālā. A building in <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kilañjakāsanasālā. Một công trình kiến trúc ở Anurādhapura, được nhắc đến liên quan đến Pitamalla Thera.
 
 ## Notes

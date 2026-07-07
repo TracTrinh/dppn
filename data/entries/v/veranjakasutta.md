@@ -5,7 +5,7 @@ base_headword: "Verañjakasutta"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,6 @@ Verañjakasutta. Preached to the Brahmins of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Verañjakasutta. Được thuyết giảng cho những người Bà-la-môn của Verañjā, những người đã đến viếng thăm Đức Phật tại Sāvatthī. Đề tài của kinh này hoàn toàn giống với Sāleyyakasutta. MN.i.290.
 
 ## Notes

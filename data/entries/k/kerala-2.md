@@ -5,7 +5,7 @@ base_headword: "Keraḷā"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -36,6 +36,6 @@ Keraḷā. The people of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Keraḷā. Người dân xứ Keraḷa. Những người Keraḷa phục vụ với tư cách là lính đánh thuê cho các vị vua Tích Lan. Họ đã nổi loạn chống lại Mahinda V và cai trị một số khu vực của đất nước (Cv.iv.5, 12). Họ đã tham chiến trong đội quân của Parakkamabāhu I để chống lại Gajabāhu (Cv.lxix.18; lxx.230). Sau đó, khi lực lượng của Parakkamabāhu được huy động đến Rohaṇa, lính đánh thuê Keraḷa ở Koṭṭhasāra đã âm mưu với những người khác để chiếm đoạt Rājaraṭṭha, nhưng nỗ lực của họ đã bị phá tan (Cv.lxxiv.44f). Người Keraḷa chiếm phần lớn trong đội quân của Māgha đã tàn phá Tích Lan, và Māgha đã giao cho họ sử dụng tùy ý bất cứ thứ gì họ thèm muốn trong các vùng đất bị chinh phục. Họ tràn ngập khắp đất nước, gieo rắc sự hủy diệt đến bất cứ nơi nào họ đi qua (Cv.lxxx.61, 76; lxxi.4). Tuy nhiên, sau đó, họ đã phải chịu thất bại nặng nề dưới tay Parakkamabāhu II (Cv.lxxxiii.20). Đã có lần một vị vua Paṇḍu chạy trốn khỏi vua Coḷa và nương náu giữa những người Keraḷa (Cv.liii.9; Cv.Trs.i.172, n.3).
 
 ## Notes

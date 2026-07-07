@@ -5,7 +5,7 @@ base_headword: "Vāsudevavattikā"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vāsudevavattikā. Probably followers of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Có lẽ là những người đi theo Vāsudeva (? Kṛṣṇa); họ được nhắc đến cùng với Baladevavattikā và những người khác trong một danh sách các *samaṇabrāhmaṇāvattasuddhikā*. Nid.i.89; so sánh *Vāsudevāyatana* tại Dhs-a., p.141.
 
 ## Notes

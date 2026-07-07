@@ -5,7 +5,7 @@ base_headword: "Yasodhara"
 disambiguator: "04"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -25,6 +25,6 @@ Yasodhara 04. A preacher in the time of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yasodhara 04. Một vị giảng sư thời Kassapa Buddha (SN­a.i.148). Xem Andhavana.
 
 ## Notes

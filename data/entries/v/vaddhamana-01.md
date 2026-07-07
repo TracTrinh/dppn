@@ -5,7 +5,7 @@ base_headword: "Vaḍḍhamāna"
 disambiguator: "01"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -34,6 +34,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaḍḍhamāna 01. Vaḍḍhamāna Trưởng lão. Một Arahant. Ông thuộc dòng tộc của một vị *rājā* Licchavī ở Vesālī và là đệ tử sùng mộ của Đức Phật, vui lòng hầu hạ Ngài và bố thí cho các tỳ-kheo. Về sau, vì một lỗi phạm, Đức Phật ban hành bản án *pattanikkujjana* đối với ông. Ông vô cùng đau khổ và cầu xin Tăng đoàn tha thứ, và do sự xúc động, ông xuất gia gia nhập Tăng đoàn. Nhưng ông sa vào hôn trầm thụy miên, cho đến khi Đức Phật khuyến giới ông bằng một bài kệ (bài kệ này được tìm thấy trong Thag.vs.40; nơi khác (Thag.vs.1162) bài kệ này được gán cho Moggallāna là bài ông đã nói với một tỳ-kheo tên Tissa và sau đó lặp lại (vs. 1163) với Vaḍḍhamāna). Ông sau đó nỗ lực tinh tấn và trở thành Arahant. Ông có lẽ được đồng nhất với Vaḍḍha (1), dù không có đề cập nào về việc Vaḍḍha gia nhập Tăng đoàn.
+
+Vào thời Tissa Buddha, ông đã là một cư sĩ và đã dâng tặng những quả xoài tươi ngon cho Đức Phật. Thag­a.i.106.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Maṇimālaka"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -27,6 +27,6 @@ Maṇimālaka. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇimālaka. Một cetiya nơi Đức Phật lưu trú và nơi Ngài được Yakkha Maṇibhadda đến thăm. (SN.i.208.)
 
 ## Notes

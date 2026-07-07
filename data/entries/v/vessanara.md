@@ -5,7 +5,7 @@ base_headword: "Vessānara"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/066.html"
@@ -24,6 +24,6 @@ Vessānara. A name for the God of Fire. Ja.vi.203.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vessānara. Một tên gọi cho Thần Lửa. Ja.vi.203.
 
 ## Notes

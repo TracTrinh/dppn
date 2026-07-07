@@ -5,7 +5,7 @@ base_headword: "Yodhājīvasutta"
 disambiguator: "03"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -25,6 +25,6 @@ Yodhājīvasutta 03. Records the visit of the headman <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yodhājīvasutta 03. Ghi lại chuyến viếng thăm Đức Phật của trưởng thôn Yodhājīva. SN.iv.308.
 
 ## Notes

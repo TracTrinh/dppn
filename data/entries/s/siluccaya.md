@@ -5,7 +5,7 @@ base_headword: "Sīluccaya"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -25,6 +25,6 @@ Sīluccaya. Fifteen thousand *kappas* ago there were eight kings of this name, p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīluccaya. Mười lăm nghìn *kappa* trước có tám vị vua mang tên này, các tiền thân của Sīhāsanadāyaka Thera. Ap.i.189.
 
 ## Notes

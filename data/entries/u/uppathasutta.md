@@ -5,7 +5,7 @@ base_headword: "Uppathasutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -23,6 +23,6 @@ Uppathasutta. Questions asked by a *Deva* and the Buddha’s answers to them. Lu
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uppathasutta. Những câu hỏi do một thiên nhân (Deva) đặt ra và các câu trả lời của Đức Phật cho những câu hỏi đó. Ái dục là con đường dẫn đến lầm lạc, mạng sống lụi tàn cả ngày lẫn đêm, phụ nữ là người làm vấy bẩn phạm hạnh, đời sống cao thượng tẩy rửa sạch sẽ mà không cần tắm. SN.i.38.
 
 ## Notes

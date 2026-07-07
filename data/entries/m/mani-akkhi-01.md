@@ -5,7 +5,7 @@ base_headword: "Maṇi-akkhi"
 disambiguator: "01"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -36,6 +36,8 @@ He came to take part in the battle between <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇi-akkhi 01. Maṇi­akkhika. Một vua Nāga ở Kalyāṇi, cậu của Mahodara.
+
+Ông đến tham dự trận chiến giữa Mahodara và Cūḷodara, và sau khi nghe Đức Phật thuyết giảng nhân dịp đó, thỉnh cầu Ngài đến thăm vương quốc của mình. Đức Phật đồng ý, và ba năm sau, vào năm thứ tám sau Giác Ngộ, vào ngày rằm tháng Vesākha, Ngài đến Kalyāṇi. Vị Nāga đã thết đãi Ngài và năm trăm vị tỳ-kheo tại nơi mà về sau cetiya Kalyāṇi được xây dựng. (Mhv.i.63ff.; xv.162; Dpv.ii.42, 52; tương truyền rằng Maṇi-akkhika đã đến Jambudīpa để rước Đức Phật sang Tích Lan (Mhv­ṭ.111). Theo Mahā Vaṁsa Mở Rộng (i.700), ông là cậu (*mātula*) của Mahodara.
 
 ## Notes

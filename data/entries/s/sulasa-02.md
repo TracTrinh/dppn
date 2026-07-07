@@ -5,7 +5,7 @@ base_headword: "Sulasā"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -30,6 +30,6 @@ Sulasā 02. A *nagarasobhinī* (courtezan, lit.: town beauty) of <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sulasā 02. Một *nagarasobhinī* (kỹ nữ, nghĩa đen: người đẹp của thị trấn) của Rājagaha. Một ngày nọ cô nhìn thấy con trai của *seṭṭhi* Mahā Dhana đang bị dẫn đi hành quyết vì những tội ác của anh ta và, cảm thấy thương xót cho anh ta bởi vì cô đã từng được hưởng sự bảo trợ của anh ta, cô đã gửi cho anh ta bốn chiếc bánh ngọt và một ít đồ uống. Moggallāna đã xuất hiện trước mặt anh ta ngay khi những chiếc bánh được đưa cho anh ta, và người đàn ông bị kết án đã dâng chúng cho vị Trưởng lão. Sau khi chết, anh ta được sinh ra làm một *Devatā* trên một cây *nigrodha* trong khu vườn gần thành phố. Một ngày nọ, khi Sulasā bước vào công viên, vị chư thiên đó, tạo ra một bóng tối khổng lồ, đã mang cô đi. Bảy ngày sau anh ta đưa cô đến Veḷuvana và bỏ cô ở đó trên rìa của đám đông những người đang lắng nghe Giáo pháp. Khi cô kể lại những trải nghiệm của mình, mọi người lúc đầu có xu hướng cười nhạo cô; nhưng câu chuyện của cô đã được xác minh, và họ đã rất kinh ngạc. Câu chuyện đã được báo cáo lại cho Đức Phật, ngài đã lấy nó làm chủ đề cho một bài thuyết pháp. Pv.i.1; Pv-a.4f. Rất có thể đây chính là câu chuyện được lặp lại tại Milinda, p.350, là “hội chúng của Sulasā.”
 
 ## Notes

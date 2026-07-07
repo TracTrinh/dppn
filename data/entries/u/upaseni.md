@@ -5,7 +5,7 @@ base_headword: "Upasenī"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -28,6 +28,6 @@ Upasenī. Daughter of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upasenī. Con gái của Vasavatti, vua của Pupphavatī và là em gái của Candakumāra. Cô đã suýt chết khi nhà vua, theo lời khuyên của giáo sĩ của mình, muốn hiến tế con người. Câu chuyện được kể trong Khaṇḍahālajātaka (Ja 542). Ja.vi.134.
 
 ## Notes

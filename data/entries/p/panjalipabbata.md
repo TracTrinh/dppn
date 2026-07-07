@@ -5,7 +5,7 @@ base_headword: "Pañjalipabbata"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -28,6 +28,6 @@ Pañjalipabbata. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañjalipabbata. *v.l.* Pañcalipabbata, Pajjalitapabbata. Một ngọn núi ở miền Nam Tích Lan, tại thượng nguồn sông Karindanadī. Nơi đây Theraputtābhaya đã sinh sống sau khi từ bỏ thế gian và trở thành một vị *Arahant*. Mhv.xxxii.14; Thūpavaṁsa 77.
 
 ## Notes

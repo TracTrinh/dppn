@@ -5,7 +5,7 @@ base_headword: "Rucī"
 disambiguator: "01"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rucī 01. One of the chief lay women supporters of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rucī 01. Một trong những nữ thí chủ chính của Paduma Buddha. Bv.ix. 23.
 
 ## Notes

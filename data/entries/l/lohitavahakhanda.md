@@ -5,7 +5,7 @@ base_headword: "Lohitavāhakhaṇḍa"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -27,6 +27,6 @@ Lohitavāhakhaṇḍa. The field of battle on which <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lohitavāhakhaṇḍa. Chiến trường mà trên đó Canda, con của Paṇḍula, đã giết năm anh em của Suvaṇṇapālī. Mhv.x.43.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Paṭikkūlasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Paṭikkūlasutta. The idea of the repulsiveness of food, if cultivated and enco
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṭikkūlasutta. Ý tưởng về sự đáng tởm của thức ăn, nếu được tu tập và khuyến khích, sẽ dẫn đến lợi ích lớn lao. SN.v.132.
 
 ## Notes

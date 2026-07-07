@@ -5,7 +5,7 @@ base_headword: "Mahinda"
 disambiguator: "19"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mahinda 19. An officer of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahinda 19. Một viên chức của Kittisirimegha, được cử đi bởi ông ta để hộ tống chàng thanh niên trẻ Parakkamabāhu. Cv.lxvi. 66.
 
 ## Notes

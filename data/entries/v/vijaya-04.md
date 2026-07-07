@@ -5,7 +5,7 @@ base_headword: "Vijaya"
 disambiguator: "04"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vijaya 04. A king of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vijaya 04. Một vị vua của Benares, hậu duệ của Mahā Sammata. Con trai ông là Vijitasena. Dpv.iii.39.
 
 ## Notes

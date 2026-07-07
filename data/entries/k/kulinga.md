@@ -5,7 +5,7 @@ base_headword: "Kuliṅga"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,6 @@ Kuliṅga. The name of a clan, probably Sinhalese. <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tên của một thị tộc, có thể là của người Sinhalese. Mahinda VI thuộc về thị tộc này (Cv.lxxx.15). Những người Kuliṅga nằm trong số các bộ tộc được Asoka cử đến Tích Lan cùng với cây bodhi. Mhv.xix.2; xem thêm Mhv.Trs.128, n.2, và Cv.Trs.i.29, n.2, và ii.126, n.5.
 
 ## Notes

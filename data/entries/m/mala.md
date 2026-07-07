@@ -5,7 +5,7 @@ base_headword: "Mālā"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -24,6 +24,6 @@ Mālā. An eminent Therī of Ceylon. Dpv.xviii.30
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mālā. Một vị Therī xuất chúng của Tích Lan. Dpv.xviii.30
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Losakatissa Thera"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -29,6 +29,6 @@ Losakatissa Thera. He was the son of a fisherman of <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Losakatissa Thera. Ngài là con trai của một ngư dân xứ Kosala. Trong ngôi làng của ngài có một ngàn gia đình sinh sống, và vào ngày ngài được thụ thai, tất cả họ đều phải chết đói và nhiều tai ương khác nhau dần dần giáng xuống họ. Bằng phương pháp loại trừ, họ phát hiện ra rằng những tai ương của mình là do gia đình của Losaka, và do đó đã đuổi họ đi. Ngay khi Losaka có thể đi lại, mẹ ngài đã đặt một mảnh vỡ của cái nồi vào tay ngài và sai ngài đi ăn xin. Ngài đi lang thang không ai chăm sóc, nhặt những nắm cơm giống như một con quạ. Vào một ngày nọ, khi ngài lên bảy tuổi, Sāriputta đã nhìn thấy ngài và, cảm thấy thương xót cho ngài, đã xuất gia cho ngài. Nhưng ngài luôn gặp xui xẻo; dù đi đến đâu, khất thực, ngài chỉ nhận được rất ít và không bao giờ có được một bữa ăn thực sự. Theo thời gian, ngài đã trở thành một vị *Arahant*, và khi thời khắc ngài viên tịch đến gần, Sāriputta đã quyết định rằng ngài nên có một bữa ăn đàng hoàng. Ngài đi cùng Losaka đến Sāvatthī, nhưng thậm chí không ai thèm để ý đến họ. Sau đó, ngài đưa Losaka trở lại tu viện và, tự mình đi khất thực, ngài gửi thức ăn cho Losaka, nhưng những người đưa tin được giao nhiệm vụ mang thức ăn đã tự mình ăn hết. Trời đã về chiều khi Sāriputta phát hiện ra điều này; do đó ngài đã đến cung điện của nhà vua và, sau khi nhận được một chiếc bát đựng đầy *catumadhura* (mật ong, bơ trong, bơ và đường), ngài đã mang nó đến cho Losaka và yêu cầu ngài ăn trực tiếp từ trong bát trong khi ngài (Sāriputta) cầm nó, phòng trường hợp thức ăn biến mất. Đêm đó, Losaka đã viên tịch, và một ngôi đền đã được dựng lên trên tro cốt của ngài (Ja.i.234f). Khi Đức Phật được hỏi tại sao Losaka lại gặp nhiều xui xẻo đến vậy, ngài đã kể lại Losakajātaka (*q.v.*). Losaka được đồng nhất với Mittavindaka trong câu chuyện đó.
 
 ## Notes

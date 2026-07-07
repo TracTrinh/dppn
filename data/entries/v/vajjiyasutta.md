@@ -5,7 +5,7 @@ base_headword: "Vajjiyasutta"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -24,6 +24,6 @@ Vajjiyasutta. The story of the visit of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vajjiyasutta. Câu chuyện về cuộc viếng thăm của Vajjiyamāhita đến Đức Phật. AN.v.189ff.
 
 ## Notes

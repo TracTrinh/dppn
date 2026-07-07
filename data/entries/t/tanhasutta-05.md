@@ -5,7 +5,7 @@ base_headword: "Taṇhāsutta"
 disambiguator: "05"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Taṇhāsutta 05. Preached in answer to a question by a *Deva*. It is craving, a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Taṇhāsutta 05. Được giảng dạy để trả lời cho một câu hỏi của một vị *Deva*. Chính ái dục, trên hết mọi thứ, đã đưa vạn vật vào dưới quyền cai trị của nó. SN.i.39.
 
 ## Notes

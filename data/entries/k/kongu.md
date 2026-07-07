@@ -5,7 +5,7 @@ base_headword: "Koṅgu"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -26,6 +26,6 @@ Koṅgu. The name of two districts in South India (Cv.lxxvi.173). Elsewhere (Cv.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koṅgu. Tên của hai quận ở Nam Ấn Độ (Cv.lxxvi.173). Ở chỗ khác (Cv.lxxvi.288), chúng được nói đến là Teṅkongu và Vaḍakoṅgu.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vaṇṇupathajātaka"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -27,6 +27,8 @@ The story was related about a young man of <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaṇṇupathajātaka (Ja 2). Bodhisatta từng là người dẫn đầu một đoàn lữ hành gồm năm trăm cỗ xe. Một đêm nọ, khi đang băng qua một sa mạc rộng sáu mươi do-tuần (leagues), trong chặng cuối của cuộc hành trình, người hoa tiêu đã ngủ gật và bầy bò kéo đã quay đầu lại. Toàn bộ gỗ và nước đều đã cạn kiệt, nhưng Bodhisatta đã bảo những người tùy tùng đào một cái giếng. Sau khi đào sâu sáu mươi cubit, họ chạm phải một tảng đá. Những người tùy tùng vô cùng tuyệt vọng, nhưng Bodhisatta đã nhờ một cậu bé hầu hạ, người vẫn còn giữ được sự can đảm, đập vỡ tảng đá đó và nhờ vậy họ đã tìm thấy nước.
+
+Câu chuyện này được kể lại liên quan đến một thanh niên ở Sāvatthī, người đã gia nhập Tăng đoàn và thực hành thiền định, nhưng không thể đạt được tuệ minh sát. Anh ta tràn ngập tuyệt vọng và được các bạn đồng đạo dẫn đến gặp đức Phật. Anh ta được đồng nhất với cậu bé hầu hạ trong câu chuyện. Ja.i.106-110.
 
 ## Notes

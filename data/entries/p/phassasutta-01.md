@@ -5,7 +5,7 @@ base_headword: "Phassasutta"
 disambiguator: "01"
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -23,6 +23,6 @@ Phassasutta 01. Because of diversity in elements arises diversity of perceptions
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phassasutta 01. Do sự đa dạng của các giới nên phát sinh sự đa dạng của các tưởng, v.v. SN.ii.146.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Verañjasutta"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Verañjasutta. Describes the interview between the Buddha and the Brahmin <span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Verañjasutta. Tường thuật lại cuộc trò chuyện giữa Đức Phật và vị Bà-la-môn Verañja. Xem Verañjā. AN.iv.172ff.
 
 ## Notes

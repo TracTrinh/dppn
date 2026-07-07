@@ -5,7 +5,7 @@ base_headword: "Kanakadattā"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,6 @@ Kanakadattā. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kanakadattā. *các cách đọc khác:* Kaṇṭakānandā và Kandanandā. Một Tỳ-kheo-ni, đệ tử của Koṇāgamana, người đã mang một nhánh cây *udumbara*-*bodhi* của vị Phật này đến Tích Lan. Cô, cùng với những người đi theo mình, đã được Đức Phật để lại. Dpv.xvii.17.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vesāyī"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/066.html"
@@ -25,6 +25,6 @@ Vesāyī. A name for <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vesāyī. Một tên gọi cho Yama. Ja.ii.317, 318.
 
 ## Notes

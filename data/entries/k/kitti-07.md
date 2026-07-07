@@ -5,7 +5,7 @@ base_headword: "Kitti"
 disambiguator: "07"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -33,6 +33,6 @@ Kitti 07. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kitti 07. Kitti Ādipotthakī. Một quan đại thần của Parakkamabāhu I. Đầu tiên ông đóng quân tại bến cạn Assamaṇḍala và sau đó tại Maṅgalabegāma. Về sau, ông được phái đến Anurādhapura để chống lại Mahinda và đến Kyānagāma để chống lại Māṇābharaṇa (Cv.lxxii.27, 160, 207). Dường như ông cũng được biết đến với tên gọi là Bhaṇḍārapotthakī (Cv.lxxii.82) và Jīvitapotthakī. Cv.lxxiv.90.
 
 ## Notes

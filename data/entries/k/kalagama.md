@@ -5,7 +5,7 @@ base_headword: "Kāḷagāma"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -24,6 +24,6 @@ Kāḷagāma. A village in Ceylon. A minister of this village is given as an exa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷagāma. Một ngôi làng ở Tích Lan. Một quan đại thần của ngôi làng này được đưa ra như một ví dụ về một người đàn ông đã tự sát trong sự hối hận (*vippatisārī*). Snp-a.i.30.
 
 ## Notes

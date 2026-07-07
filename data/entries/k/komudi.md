@@ -5,7 +5,7 @@ base_headword: "Komudī"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -27,6 +27,8 @@ The Commentary (DN­a.i.139) says it was so-called because then the white water-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Komudī. Ngày trăng tròn của tháng thứ tư trong Mùa Mưa, Kattika, thường được tìm thấy trong cụm từ *Komudī Catumāsinī*.
+
+Chú giải (DN­a.i.139) nói rằng nó được gọi như vậy bởi vì khi đó hoa súng trắng nở rộ (*kumudāni supupphitāni honti*). Vin.i.155, 176f; DN.i.47; MN.iii.79, 80; Dhp­a.iii.461; Ja.v.262, v.v.
 
 ## Notes

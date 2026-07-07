@@ -5,7 +5,7 @@ base_headword: "Khandhaparitta"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -28,6 +28,6 @@ Khandhaparitta. One of the <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khandhaparitta. Một trong những bài Paritta được bao gồm trong tuyển tập các Paritta (Mil.150). Văn bản của bài Paritta này được trình bày trong Aṅguttaranikāya dưới dạng bài Ahindasutta. AN.ii.72f.; nó cũng được tìm thấy tại Vin.ii.109; xem thêm Khandhavattajātaka.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kaṇḍiyūru"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kaṇḍiyūru. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇḍiyūru. Một thủ lĩnh Damiḷa và là đồng minh của Kulasekhara. Cv.lxxvi.140.
 
 ## Notes

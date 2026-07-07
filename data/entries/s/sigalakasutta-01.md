@@ -5,7 +5,7 @@ base_headword: "Sigālakasutta"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Sigālakasutta 01. An old jackal, afflicted by mange, finds no pleasure in lonel
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sigālakasutta 01. Một con chó rừng già, mắc bệnh ghẻ, không tìm thấy niềm vui ở những nơi vắng vẻ, hay trong rừng, hay ngoài trời. Dù đi đến đâu nó cũng gặp phải bất hạnh và tai họa. Cũng vậy là một tỳ-kheo có tâm bị chi phối bởi lợi lộc, ân sủng, hay lời tâng bốc. SN.ii.230.
 
 ## Notes

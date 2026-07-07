@@ -5,7 +5,7 @@ base_headword: "Kāḷadevala"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -29,6 +29,8 @@ He was a frequent visitor at the palace, and the Buddha’s mother always took t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷadevala 02. Một đạo sĩ, bạn và người cố vấn của Suddhodana (Ja.i.54, 67, 88; vi.479). Xem Asita (1).
+
+Ông là một người thường xuyên ghé thăm cung điện, và mẹ của Đức Phật luôn thọ giới từ ông cho đến khi bà thụ thai Đức Phật Gotama. MN­a.ii.922.
 
 ## Notes

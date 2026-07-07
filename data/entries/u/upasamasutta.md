@@ -5,7 +5,7 @@ base_headword: "Upasamasutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -23,6 +23,6 @@ Upasamasutta. The Buddha explains to a monk, in answer to a question, how one ma
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upasamasutta. Đức Phật giải thích cho một tỳ-kheo, để trả lời cho một câu hỏi, về cách một người có thể trở nên hoàn hảo trong các *indriya*. SN.v.202. Về tựa đề, hãy xem KS, v.178, n.3.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kassapa"
 disambiguator: "22"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -30,6 +30,6 @@ Kassapa 22. Chief of the <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapa 22. Người đứng đầu các Kesadhātus (*xem mục này*). Trong một thời gian, ông điều hành chính sự tại Rohaṇa, nơi ông đã đánh bại những người Damiḷas. Ông từ chối thần phục Kitti (sau này là Vijayabāhu I), và sau sáu tháng cai trị ở Khadiraṅgaṇi, vì đầy phẫn nộ khi những công lao của mình chống lại người Damiḷas không được công nhận, ông đã hành quân chống lại Kitti và bị giết trong một trận chiến gần Kājaragāma. Cv.lvii.65-75.
 
 ## Notes

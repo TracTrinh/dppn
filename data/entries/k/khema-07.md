@@ -5,7 +5,7 @@ base_headword: "Khema"
 disambiguator: "07"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -25,6 +25,6 @@ Khema 07. A pleasance near <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khema 07. Một tịnh viên gần Usabhavatī; ở đó Vessabhū Buddha viên tịch. Bv.xxii.30; Bv­a.209.
 
 ## Notes

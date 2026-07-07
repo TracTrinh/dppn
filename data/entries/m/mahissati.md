@@ -5,7 +5,7 @@ base_headword: "Māhissati"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -34,6 +34,8 @@ In the Māhābhārata (ii.31, 10) <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māhissati. Một thành phố vào thời của Đức Phật, được đề cập như là nằm trên tuyến đường đi từ am thất của Bāvari đến Sāvatthī (Snp. vs. 1011). Theo bài kinh Mahā Govindasutta (DN.ii.) nó là kinh đô của Avanti và được lập ra cùng thời điểm với Campā. Có lẽ nó là kinh đô của Nam Avanti, Avanti Dakkhiṇāpatha, còn kinh đô của Bắc Avanti là Ujjenī.
+
+Trong Māhābhārata (ii.31, 10) Avanti và Māhismati được nói đến như hai quốc gia khác nhau.
 
 ## Notes

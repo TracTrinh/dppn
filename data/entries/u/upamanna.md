@@ -5,7 +5,7 @@ base_headword: "Upamañña"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Upamañña. The family (*gotta*) to which <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upamañña. Gia tộc (gotta) mà Pokkharasāti thuộc về. Do đó, ông được gọi là Opamañña. MN.ii.200; MN­a.ii.804.
 
 ## Notes

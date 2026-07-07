@@ -5,7 +5,7 @@ base_headword: "Setaketu"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Setaketu 02. A young man, son of an *Udicca Brahmin*. See the <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Setaketu 02. Một chàng trai trẻ, con trai của một *Udicca Brahmin*. Xem Setaketujātaka (Ja 377).
 
 ## Notes

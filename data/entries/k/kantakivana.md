@@ -5,7 +5,7 @@ base_headword: "Kaṇṭakīvana"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -33,6 +33,6 @@ Kaṇṭakīvana. A grove near <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇṭakīvana. Một khu rừng gần Sāketa. Cuộc trò chuyện diễn ra ở đó giữa Sāriputta và Moggallāna được ghi lại trong Padesasutta (SN.v.174f). Một cuộc thảo luận diễn ra ở đó vào một dịp khác giữa hai vị này và Anuruddha, được đưa ra trong Kaṇṭakīsutta (SN.v.298f). Khu rừng này dường như cũng được gọi là Tikaṇṭakī và Chú giải mô tả nó là Mahākaramaddavana, *karamadda* là một loại cây bụi (*carissa carandas*). Đức Phật cũng đã lưu trú trong khu rừng này, và một bài pháp do ngài thuyết cho các tỳ-kheo được ghi lại trong Tikaṇṭakīsutta (AN.v.169).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Khara"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -27,6 +27,6 @@ Khara. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khara. Một Yakkha, bạn của Suciloma. Hắn đang đi ngang qua Gayā cùng với Suciloma thì vị này đặt câu hỏi cho Đức Phật về giáo lý của ngài, như được ghi lại trong Sucilomasutta (SN.i.207f.; Snp., p.47f.; Snp­a.i.302). Khara từng là một tỳ-kheo trong một tiền kiếp, và có lần đã bôi lên người loại dầu thuộc về Saṅgha mà không xin phép các tỳ-kheo khác. Hậu quả là cơ thể hắn trở nên xấu xí, làn da thì thô ráp, sần sùi và giống như "một mái ngói". Bất cứ khi nào hắn muốn dọa nạt ai, da hắn sẽ dựng đứng lên như những viên ngói trên mái nhà. Vào cuối buổi tụng bài Sucilomasutta, Khara đã trở thành một Sotāpanna, và làn da của hắn trở nên xinh đẹp và có màu vàng óng. Ibid., 305.
 
 ## Notes

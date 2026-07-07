@@ -5,7 +5,7 @@ base_headword: "Koṭṭha"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -26,6 +26,6 @@ Koṭṭha. The drum of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koṭṭha. Cái trống của Narasīha, mà ông đã trao cho Māṇavamma để người này có thể thuyết phục dân chúng đi cùng mình trên các con tàu. Khi họ nghe tiếng trống, họ tưởng rằng nó do Narasīha đánh và ngay lập tức lên tàu. Cv.x1vii.51.
 
 ## Notes

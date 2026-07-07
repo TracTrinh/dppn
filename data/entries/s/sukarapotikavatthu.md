@@ -5,7 +5,7 @@ base_headword: "Sūkarapotikavatthu"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Sūkarapotikavatthu. The story of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sūkarapotikavatthu. Câu chuyện của Ubbarī.
 
 ## Notes

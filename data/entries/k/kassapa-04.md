@@ -5,7 +5,7 @@ base_headword: "Kassapa"
 disambiguator: "04"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -24,6 +24,6 @@ Kassapa 04. A sage (*Isi*); one of the famous sages of yore, of whom ten are sev
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapa 04. Một nhà hiền triết (*Isi*); một trong những nhà hiền triết nổi tiếng thời xưa, trong đó mười người đã vài lần được đề cập đến trong các cuốn sách (ví dụ, DN.i.104, 238; MN.ii.169, 200; AN.iii.224; iv.61; Ja.vi.99) như là những nhà hiền triết Bà-la-môn, những người đã biên soạn và truyền bá các câu chân ngôn (mantra) và mà những bài biên soạn của họ đang được ngâm tụng và lặp lại và thực hành bởi những người Bà-la-môn ngày nay. Để biết thêm chi tiết xem Aṭṭhaka.
 
 ## Notes

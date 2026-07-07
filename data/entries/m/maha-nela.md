@@ -5,7 +5,7 @@ base_headword: "Mahā Nela"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -25,6 +25,6 @@ Mahā Nela. A king of twenty *kappas* ago, a previous birth of <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nela. Một vị vua của hai mươi *kappa* về trước, một tiền kiếp của Trưởng lão Kotumbariya. Ap.i.192.
 
 ## Notes

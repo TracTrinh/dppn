@@ -5,7 +5,7 @@ base_headword: "Koṇḍaññasutta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -28,6 +28,6 @@ Koṇḍaññasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koṇḍaññasutta. Aññāta Koṇḍañña đến thăm Đức Phật tại Veḷuvana sau một khoảng thời gian rất dài (Chú giải SN­a.i.216 nói là mười hai năm), và phủ phục xuống đất hôn chân Đức Phật, tự xưng tên của mình, “Bạch Thế Tôn, con là Koṇḍañña.” Vaṅgīsa, người đang có mặt ở đó, sau khi nhận được sự cho phép của Đức Phật, đã thốt lên những vần kệ ca ngợi Koṇḍañña. SN.i.193.
 
 ## Notes

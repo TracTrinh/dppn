@@ -5,7 +5,7 @@ base_headword: "Maṇimekhalā"
 disambiguator: "01"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Maṇimekhalā 01. A goddess who presided over the ocean where she was placed by
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇimekhalā 01. Một nữ thần cai quản đại dương, được nhóm Cātummahārājikā đặt ở đó để bảo vệ những người đức hạnh có thể bị đắm tàu. Ja.iv.17; vi.35.
 
 ## Notes

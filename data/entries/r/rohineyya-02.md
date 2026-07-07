@@ -5,7 +5,7 @@ base_headword: "Rohiṇeyya"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -29,6 +29,6 @@ Rohiṇeyya 02. Minister of King <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rohiṇeyya 02. Vị đại thần của vua Vāsudeva và là anh em của Ghatapaṇḍita. Chính ông là người đã báo tin cho nhà vua về việc Ghata giả điên (Ja.iv.84; Pv-a.94; xem chi tiết tại Ghatajātaka). Ông được đồng nhất với Ānanda. Ja.iv.89.
 
 ## Notes

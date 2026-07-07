@@ -5,7 +5,7 @@ base_headword: "Kāḷakūṭa"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -25,6 +25,6 @@ Kāḷakūṭa. One of the five mountain ranges surrounding <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷakūṭa. Một trong năm dãy núi bao quanh Anotatta. Nó có màu của *añjana* (phấn xoa mắt). Snp-a.ii.437; Ud­a.300; AN­a.ii.759; MN­a.ii.585.
 
 ## Notes

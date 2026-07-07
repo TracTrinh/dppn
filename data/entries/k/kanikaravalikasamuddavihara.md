@@ -5,7 +5,7 @@ base_headword: "Kaṇikāravālikasamuddavihāra"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kaṇikāravālikasamuddavihāra. The residence of the Thera <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇikāravālikasamuddavihāra. Nơi cư ngụ của vị Thera Sāketatissa, trong suốt một mùa mưa. AN­a.i.44; MN­a.i.350; DN­a.iii.1061.
 
 ## Notes

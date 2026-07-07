@@ -5,7 +5,7 @@ base_headword: "Khuddakañcakuṇḍa"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -26,6 +26,6 @@ Khuddakañcakuṇḍa. A <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khuddakañcakuṇḍa. Một tù trưởng Damiḷa, thường được gọi là Cūḷa Kañcakunda. Cv.lxxvi.170.
 
 ## Notes

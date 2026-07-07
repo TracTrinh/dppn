@@ -5,7 +5,7 @@ base_headword: "Siggava"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -30,6 +30,6 @@ Siggava 02. A minister’s son of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Siggava 02. Con trai một vị quan đại thần ở Pāṭaliputta, sống trong ba cung điện với cuộc sống xa hoa tột bậc. Khi ông mười tám tuổi, ông cùng người bạn Candavajjī đến thăm Soṇaka Thera tại Kukkuṭārāma và gia nhập Saṅgha cùng năm trăm người bạn. Trong bảy năm, Siggava đến khất thực tại ngôi nhà nơi Moggaliputtatissa (*q.v.*) đã sinh ra, mà không hề nhận được một lời chào đón nào, nhưng, cuối cùng, ông đã cải hóa và xuất gia cho vị ấy, dạy cho vị ấy *Tipiṭaka* (Mhv.v.99,120-51; Dpv.iv.40, 57, 89; Vin-a.i.32, 235; Dhs-a.32). Cha của Siggava là Sirivaḍḍha. Mhv­ṭ. 215.
 
 ## Notes

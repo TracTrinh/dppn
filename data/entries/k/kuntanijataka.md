@@ -5,7 +5,7 @@ base_headword: "Kuntanijātaka"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -29,6 +29,8 @@ The story was told in reference to a heron of the <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Trong cung điện của vị vua Benares có một con chim diệc chuyên đưa tin. Một lần, khi cô ấy đi vắng, những cậu bé trong hoàng cung đã giết chết hai con non của cô ấy. Để trả thù, cô ấy đã thuyết phục một con hổ ăn thịt những cậu bé đó, và kể cho nhà vua nghe những gì cô ấy đã làm. Sau đó cô ấy bay đến Himālaya bởi vì, cô ấy nói, không thể có tình bạn giữa kẻ làm sai và người bị tổn thương.
+
+Câu chuyện được kể liên quan đến một con chim diệc của vua Kosala, người đã hành động theo một cách tương tự (Ja.iii.311f).
 
 ## Notes

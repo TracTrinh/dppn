@@ -5,7 +5,7 @@ base_headword: "Mahosadha"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mahosadha. The Bodhisatta born as minister to King <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahosadha. Bodhisatta sinh ra làm quan đại thần cho Vua Videha. Về chi tiết xem Mahā Ummaggajātaka (Ja 546).
 
 ## Notes

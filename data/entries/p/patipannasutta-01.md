@@ -5,7 +5,7 @@ base_headword: "Paṭipannasutta"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Paṭipannasutta 01. The Buddha teaches about those that are wrongly conducted a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṭipannasutta 01. Đức Phật giảng dạy về những người có hành vi sai trái và những người có hành vi đúng đắn. SN.v.23.
 
 ## Notes

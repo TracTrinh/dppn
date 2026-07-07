@@ -5,7 +5,7 @@ base_headword: "Mahinda"
 disambiguator: "03"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Mahinda 03. King, father of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahinda 03. Vị vua, cha của Phussa Buddha (AN­a.i.165; SN­a.iii.4; Dhp­a.i.84). Ở những nơi khác ông được gọi là Jayasena. Xem Phussa.
 
 ## Notes

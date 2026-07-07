@@ -5,7 +5,7 @@ base_headword: "Vedanāsutta"
 disambiguator: "04"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vedanāsutta 04. The Noble Eightfold Path is the way to the comprehension of the
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vedanāsutta 04. Bát Thánh đạo là con đường dẫn đến sự liễu tri ba loại thọ. SN.iv.255.
 
 ## Notes

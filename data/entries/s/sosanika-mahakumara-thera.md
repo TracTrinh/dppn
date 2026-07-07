@@ -5,7 +5,7 @@ base_headword: "Sosānika Mahākumāra Thera"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Sosānika Mahākumāra Thera. An Elder who lived in a charnel field for sixty ye
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sosānika Mahākumāra Thera. Một vị Trưởng lão đã sống trong một bãi tha ma suốt sáu mươi năm. Không một vị tỳ-kheo nào khác biết đến ngài. AN­a.i.44.
 
 ## Notes

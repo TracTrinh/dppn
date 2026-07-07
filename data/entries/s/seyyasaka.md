@@ -5,7 +5,7 @@ base_headword: "Seyyasaka"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Seyyasaka. A monk of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Seyyasaka. Một tỳ-khẻo ở Sāvatthī bị phát giác về nhiều tội danh Vinaya, vì thế được áp dụng biện pháp *Nissayakamma*. Udāyī (Lāḷudāyi) là bạn thân và là hung tinh của ông. Vin.iii.110f.
 
 ## Notes

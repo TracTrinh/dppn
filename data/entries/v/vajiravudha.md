@@ -5,7 +5,7 @@ base_headword: "Vajirāvudha"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vajirāvudha. The weapon of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vajirāvudha. Vũ khí của Sakka. Nếu Ngài giáng vũ khí đó xuống núi Sineru *pabbata*, vũ khí sẽ xuyên thấu qua ngọn núi cao một trăm sáu mươi tám nghìn *yojanas*. Snp­a.i.225.
 
 ## Notes

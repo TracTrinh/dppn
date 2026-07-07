@@ -5,7 +5,7 @@ base_headword: "Vālagāmavihāra"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vālagāmavihāra. A monastery near <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vālagāmavihāra. Một tu viện gần Cūḷa Tavālagāma. Xem Tambasumana.
 
 ## Notes

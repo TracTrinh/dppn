@@ -5,7 +5,7 @@ base_headword: "Vataṁsaka"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -28,6 +28,6 @@ Vataṁsaka. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị Pacceka Buddha trong tương lai. Một người đàn ông có lần đã dâng cúng một bông hoa *vataṁsaka* cho Đức Phật khi Ngài đang đi khất thực ở Sāvatthī. Đức Phật đã nhận món quà và mỉm cười. Khi Ānanda hỏi lý do cho nụ cười, Đức Phật trả lời rằng người đàn ông đó sẽ hưởng hạnh phúc trong tám mươi tư *kappa* và sau đó sẽ trở thành một vị Pacceka Buddha tên là Vataṁsaka. Netti, p.138f.
 
 ## Notes

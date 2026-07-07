@@ -5,7 +5,7 @@ base_headword: "Upāsikāvihāra"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -35,6 +35,6 @@ Upāsikāvihāra. A nunnery in <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upāsikāvihāra. Một ni viện ở Anurādhapura, được xây dựng bởi Devānampiyatissa, để cung cấp chỗ ở cho Anulā và những người đi theo cô, trong khi chờ đợi sự xuất hiện của Saṅghamittā (Mhv.xviii.12). Sau đó, Saṅghamittā đã đến cư ngụ tại đó và nó được mở rộng bằng cách thêm vào mười hai tòa nhà, ba trong số đó đạt được sự thiêng liêng đặc biệt vì tại đó có dựng cột buồm, bánh lái và bánh lái tay của con tàu đã mang cây Bodhi đến Ceylon, và những tòa nhà này được gọi tên tương ứng là Kūpayaṭṭhithapitaghara, Piyaṭhapitaghara và Arittaṭhapitaghara. Ngay cả khi các bộ phái khác nổi lên, mười hai tòa nhà này vẫn bị chiếm đóng bởi các tỳ-kheo-ni Hatthāḷhaka (hay chính thống). Mhv.xix.68ff; *Ṭīkā* (p.408) nói rằng các tòa nhà ban đầu được gọi là Cūḷa Ganāgāra, Mahā Ganāgāra và Sirivaḍḍhāgāra.
 
 ## Notes

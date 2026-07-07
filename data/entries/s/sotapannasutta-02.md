@@ -5,7 +5,7 @@ base_headword: "Sotāpannasutta"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Sotāpannasutta 02. The same as *Sutta* (1), but addressed to <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sotāpannasutta 02. Giống như *Sutta* (1), nhưng được giảng cho Rādha. SN.iii.192.
 
 ## Notes

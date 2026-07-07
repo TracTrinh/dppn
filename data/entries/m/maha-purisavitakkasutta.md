@@ -5,7 +5,7 @@ base_headword: "Mahā Purisavitakkasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -32,6 +32,8 @@ Mahā Purisavitakkasutta. The books say that <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Purisavitakkasutta. Các bộ sách nói rằng Anuruddha đã trở thành một vị *Arahant* sau khi lắng nghe bài *Sutta* này (ví dụ, Dhp­a.i.117). Không có bài *Sutta* nào mang tên gọi này, nhưng sự dẫn chiếu này rõ ràng là nhắm đến Anuruddhasutta (AN.iv.227ff), bài kinh mà Đức Phật đã thuyết giảng cho Anuruddha, người lúc bấy giờ đang cư ngụ giữa những người Ceti ở Pācīnavaṁsamigadāya.
+
+Anuruddha đang suy ngẫm về bảy *purisavitakkā*, và Đức Phật đã xuất hiện trước ông và dạy cho ông về đề mục thứ tám – rằng Pháp là dành cho người chính xác và dành cho người hoan hỷ trong sự chính xác, không phải dành cho sự dài dòng hay dành cho người hoan hỷ trong sự dài dòng. Đức Phật sau đó ngỏ lời với các tỳ-kheo ở Suṁsumāragiri và kể cho họ nghe về tám *mahāpurisavitakkā*.
 
 ## Notes

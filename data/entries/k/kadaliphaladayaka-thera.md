@@ -5,7 +5,7 @@ base_headword: "Kadalīphaladāyaka Thera"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kadalīphaladāyaka Thera. An *Arahant*. Thirty-one *kappas* ago he saw a Buddha
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kadalīphaladāyaka Thera. Một vị *Arahant*. Ba mươi mốt *kappa* trước, ông đã nhìn thấy một vị Phật và dâng lên Ngài một quả chuối (Ap.i.297). Ông có lẽ đồng nhất với Trưởng lão Cūḷaka (Thag­a.i.334).
 
 ## Notes

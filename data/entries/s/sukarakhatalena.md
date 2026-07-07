@@ -5,7 +5,7 @@ base_headword: "Sūkarakhatalena"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -35,6 +35,10 @@ A forest dweller saw it and looked after it, thinking it to be the dwelling of h
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sūkarakhatalena. Một hang động ở bên sườn Gijjhakūṭa, nơi Đức Phật đã lưu trú. Ở đó ngài thuyết giảng Dīghanakhasutta (hoặc Vedanāpariggahasutta) cho Dīghanakha. Sāriputta cũng có mặt, và bài *Sutta* đã dẫn đến sự thành tựu quả vị *Arahant* của ông (MN.i.497, 501; Dhp­a.i.79; Ud­a.189).
+
+Một cuộc trò chuyện mà Đức Phật đã có ở đó với Sāriputta được ghi lại trong Saṁyuttanikāya (SN.v.233f). Bản chú giải nói rằng, vào thời của Kassapa Buddha, hang động này đã được tìm thấy như một chỗ rỗng trên mặt đất khi trái đất vẫn đang phát triển, trong khoảng thời gian giữa hai vị Phật (SN­a.iii.197). Một ngày nọ một con lợn rừng đã đào xới lớp đất ở khu vực lân cận của nền đất che giấu hang động. Vị thần bầu trời đã làm mưa rửa trôi lớp đất, và hang động đã lộ ra.
+
+Một người cư trú trong rừng đã nhìn thấy nó và chăm sóc nó, nghĩ rằng nó là nơi ở của những con người thánh thiện. Anh ta đã loại bỏ lớp đất xung quanh nó, rào nó lại, dọn dẹp sạch sẽ, và, làm cho nó trở nên xinh đẹp như một chiếc bát vàng, trang bị cho nó chỗ nằm và ghế đẩu rồi dâng tặng nó lên Đức Phật. Hang động rất sâu và chỉ có thể tiếp cận được bằng cách leo trèo.
 
 ## Notes

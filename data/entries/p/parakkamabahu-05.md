@@ -5,7 +5,7 @@ base_headword: "Parakkamabāhu"
 disambiguator: "05"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Parakkamabāhu 05. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parakkamabāhu 05. Parakkamabāhu IV. Con trai của Bhuvanekabāhu II. Ông lên ngôi ở Hatthiselapura với tước hiệu Parakkamabāhu IV vào khoảng năm 1325 CN. Thời gian trị vì của ông không được rõ. Ông đã dành sự tôn kính lớn lao cho Xá-lợi Răng và được cho là đã viết bằng tiếng Sinhalese một tác phẩm gọi là Nghi thức Xá-lợi Răng (*Dāṭhādhātucāritta*). Cv. xc.64f.
 
 ## Notes

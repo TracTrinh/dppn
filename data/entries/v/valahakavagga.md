@@ -5,7 +5,7 @@ base_headword: "Valāhakavagga"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Valāhakavagga. The eleventh chapter of the *Catukkanipāta* of the <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Valāhakavagga. Chương thứ mười một của *Catukkanipāta* trong Aṅguttaranikāya. AN.ii.102-111; cp. SN.iii.254ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Suddhaṭṭhakasutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Suddhaṭṭhakasutta. The fourth of the <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suddhaṭṭhakasutta. Bài kinh thứ tư của Aṭṭhakavagga thuộc Suttanipāta. Bài kinh (*Sutta*) được thuyết liên quan đến Candābha (*q.v.*) (Snp­a.ii.523f). Đơn thuần kiến thức về các hệ thống triết lý khác nhau không thể thanh lọc một con người, vì mỗi người khởi xướng một hệ thống đều tự nhận quan điểm của mình là vượt trội, và tất cả cứ đi từ đạo sư này sang đạo sư khác mà không bao giờ tĩnh lặng và sâu sắc. Nhưng bậc trí giả, những người đã hiểu được Pháp (Dhamma), thì không bao giờ bị cuốn đi bởi đam mê. Họ không bám chấp vào bất cứ điều gì trên thế gian như là tối thượng. Snp.vss.788-95.
 
 ## Notes

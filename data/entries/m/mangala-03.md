@@ -5,7 +5,7 @@ base_headword: "Maṅgala"
 disambiguator: "03"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -27,6 +27,6 @@ Maṅgala 03. The Bodhisatta born as an ascetic in the time of <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṅgala 03. Bodhisatta sinh làm đạo sĩ khổ hạnh vào thời Đức Phật Siddhattha (Bv.xvii.8; MN.T.62). Ngài là một Bà-la-môn rất giàu có ở Surasena, và về sau đã bố thí toàn bộ tài sản rồi trở thành đạo sĩ. Một lần, bằng thần thông *iddhi*, Ngài lấy được quả mọc trên cây *jambu* (cây đặt tên cho Jambudīpa) và dâng cúng tại *vihāra* Surasena cho Đức Phật Siddhattha và chín mươi crore tỳ-kheo. Bv­a.187.
 
 ## Notes

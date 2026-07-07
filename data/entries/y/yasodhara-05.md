@@ -5,7 +5,7 @@ base_headword: "Yasodharā"
 disambiguator: "05"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -29,6 +29,6 @@ Yasodharā 05. Daughter of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yasodharā 05. Con gái của Vijayabāhu I. và Līlāvatī. Bà kết hôn với Vīravamma và có hai cô con gái, Līlāvatī và Sugalā (Cv.lix.26). Về sau bà được Vijayabāhu nâng lên bậc *rājinī* (? nữ hoàng), và đã xây dựng một tòa nhà đồ sộ, được gọi là *Pāsādapāda*, trong *Kappūramūlāyatana*. Cv.lx.83.
 
 ## Notes

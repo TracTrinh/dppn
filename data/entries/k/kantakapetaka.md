@@ -5,7 +5,7 @@ base_headword: "Kaṇṭakapeṭaka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kaṇṭakapeṭaka. A district on the frontier of the <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇṭakapeṭaka. Một quận trên biên giới của Dakkhiṇadesa của Tích Lan, có thể ở phía đông hoặc đông bắc của Matale (Cv.lxix.10; Cv.Trs.283, n.2).
 
 ## Notes

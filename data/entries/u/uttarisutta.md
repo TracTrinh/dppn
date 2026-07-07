@@ -5,7 +5,7 @@ base_headword: "Uttarisutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,8 @@ Those things are forgetfulness, want of discrimination, lack of control of the s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttarisutta (Uttarimanussadhammasutta). Có sáu điều mà nếu không từ bỏ thì không thể đạt được các phẩm chất mang tính siêu thế (*uttarimanussadhammā*), chứ chưa nói đến tuệ giác và trí tuệ của bậc Thánh.
+
+Sáu điều đó là: hay quên, thiếu phân biệt, thiếu kiểm soát các căn, không điều độ trong ăn uống, gian dối và nói chuyện tầm phào. AN.iii.430.
 
 ## Notes

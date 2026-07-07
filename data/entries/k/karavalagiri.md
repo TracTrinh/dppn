@@ -5,7 +5,7 @@ base_headword: "Karavāḷagiri"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Karavāḷagiri. A locality in Ceylon where once <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Karavāḷagiri. Một địa phương ở Tích Lan nơi Parakkamabāhu I. từng thiết lập doanh trại của mình. Cv.lxxii.134.
 
 ## Notes

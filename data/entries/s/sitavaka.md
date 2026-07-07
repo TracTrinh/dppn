@@ -5,7 +5,7 @@ base_headword: "Sītāvaka"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sītāvaka. A town in Ceylon, the capital of King <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sītāvaka. Một thị trấn ở Tích Lan, kinh đô của vua Rājasīha I. Cv.xciii.5; xem Cv.Trs.ii.224, n.1.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Savāraka"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -27,6 +27,6 @@ Savāraka. A village where <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Savāraka. Một ngôi làng nơi Rukkha, một người bà con của Kassapa IV., xây dựng một *vihāra*, rồi giao lại cho Mahā Vihāra. Cv.lii.31.
 
 ## Notes

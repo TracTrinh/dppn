@@ -5,7 +5,7 @@ base_headword: "Sikhaddi"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -28,6 +28,6 @@ Sikhaddi, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sikhaddi, Sikhaṇḍī. Một Gandhabba, con trai của Mātali; *Bhaddā* Suriyavaccasā ban đầu yêu ông, nhưng sau đó nàng bị Pañcasikha chinh phục. DN.ii.268; cf. Mvu.ii.190.
 
 ## Notes

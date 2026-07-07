@@ -5,7 +5,7 @@ base_headword: "Sīhāsanavagga"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -25,6 +25,6 @@ Sīhāsanavagga. The second chapter of the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhāsanavagga. Chương thứ hai của Apadāna. Ap.i.55ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Paṭipadāsutta"
 disambiguator: "03"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Paṭipadāsutta 03. The Buddha teaches both wrong practice and right practice. 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṭipadāsutta 03. Đức Phật giảng dạy cả thực hành sai lầm và thực hành đúng đắn. SN.v.18.
 
 ## Notes

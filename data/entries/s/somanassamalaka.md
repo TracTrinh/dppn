@@ -5,7 +5,7 @@ base_headword: "Somanassamālaka"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -28,6 +28,6 @@ Somanassamālaka. A sacred spot in <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Somanassamālaka. Một địa điểm linh thiêng ở Anurādhapura, nơi Kassapa Buddha thuyết pháp trong chuyến viếng thăm Tích Lan (Mhv.xv.159). Về sau, Uttiya, anh em của Devānampiyatissa, đã xây một *cetiya* ở đó. Mhv­ṭ. 358.
 
 ## Notes

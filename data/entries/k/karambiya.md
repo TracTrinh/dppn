@@ -5,7 +5,7 @@ base_headword: "Karambiya"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -34,6 +34,8 @@ The story is given in the <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Karambiya (*v.l.* Karambhiya). Một hải cảng. Ở đó có một người đàn ông, được cứu sống từ một vụ đắm tàu, không có quần áo nào, người đã tự thiết lập như một tu sĩ khổ hạnh lõa thể và được biết đến với tên gọi là Karambiya. Trong số những tín đồ của ông ta có một vị vua Nāga, Paṇḍara, và cũng có một vị vua Garuḍa. Theo yêu cầu của người sau, ông ta đã thuyết phục Paṇḍara cho ông ta biết làm thế nào những Nāga thoát khỏi sự tiêu diệt bởi những *Garuḍa*, và sau đó ông ta tiết lộ bí mật cho vị vua Garuḍa. Sự phản bội của vị tu sĩ khổ hạnh đã bị phát hiện, và khi ông ta thề về sự vô tội của mình thì đầu của ông ta vỡ ra làm bảy mảnh và ông ta bị kéo xuống Avīci.
+
+Câu chuyện được đưa ra trong Paṇḍarajātaka (Ja.v.75ff), và được tham chiếu đến trong Milindapañha (p.201).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vammikasutta"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -37,6 +37,10 @@ According to the Commentary (MN­a.i.340), <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vammikasutta. Một vị chư thiên xuất hiện trước Kumāra Kassapa ở Andhavana và đưa ra một câu đố: “Có một gò mối cháy suốt ngày đêm. Vị Bà-la-môn nói: ‘Này Sumedha (hiền trí), hãy lấy công cụ của ngươi và đào.’ Khi vị Bà-la-môn đào xuống, ông lần lượt thấy một cái chốt cửa, một con ếch, một khúc quanh, một cái lọc nước, một con rùa, một cái dao phay, một miếng thịt – tất cả những thứ đó ông đều được bảo ném ra ngoài và tiếp tục đào. Rồi ông thấy một con rắn hổ mang, ông được bảo không làm hại nó, mà hãy tôn thờ.”
+
+Theo lời đề nghị của vị chư thiên, Kassapa đã thuật lại câu chuyện này với đức Phật, và ngài đã giải đáp câu đố. Gò mối là thân thể, vị Bà-la-môn là bậc *Arahant*, công cụ là trí tuệ, việc đào là sự nỗ lực, chốt cửa là vô minh, khúc quanh là sự hoài nghi, cái lọc nước là năm triền cái (*nīvaraṇas*), con rùa là năm thủ uẩn (*upādānakkhandhas*), cái dao phay là năm thú vui nhục dục, miếng thịt là sự đắm say trong tham ái (*nandīrāga*), và con rắn hổ mang (*nāga*) là vị tỳ-kheo *Arahant* (MN.i.142ff).
+
+Theo Chú giải (MN­a.i.340), Kumāra Kassapa chưa phải là một vị *Arahant* tại thời điểm bài *Sutta* này được thuyết. Vị chư thiên đó là một vị chư thiên cõi Phạm thiên Suddhāvāsa. Vị chư thiên này là một trong năm người bạn vốn đã gia nhập Tăng đoàn vào thời đức Phật Kassapa, và để thiền định không bị gián đoạn, họ đã leo lên một vách đá bằng thang sau đó dỡ bỏ cái thang, cắt đứt đường lui của họ. Vị lớn tuổi nhất đã trở thành một vị *Arahant* trong ba ngày, người thứ hai (*anuthera*) chính là vị chư thiên này, người đã trở thành một vị *Anāgāmī*. Người thứ ba là Pukkusāti, người thứ tư là Bāhiya Dārucīriya và người cuối cùng là Kumāra Kassapa. Vị chư thiên này là nguyên nhân dẫn đến quả vị *Arahant* của cả Bāhiya và Kassapa, vì Kassapa đã lấy bài Vammīkasutta làm đề mục thiền định và qua đó phát triển được tuệ minh sát.
 
 ## Notes

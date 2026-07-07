@@ -5,7 +5,7 @@ base_headword: "Vāpivāṭaka"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vāpivāṭaka. A locality in the <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vāpivāṭaka. Một địa phương thuộc tỉnh Malaya của Tích Lan (Ceylon), được nhắc đến trong bản ghi chép về các chiến dịch của Gajabāhu. Cv.lxx.21.
 
 ## Notes

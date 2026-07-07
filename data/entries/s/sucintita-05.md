@@ -5,7 +5,7 @@ base_headword: "Sucintita"
 disambiguator: "05"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sucintita 05. A king of eight *kappas* ago, a previous birth of <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sucintita 05. Một vị vua cách đây tám kappa, là một tiền kiếp của Veyyāvaccaka Thera (hoặc Sañjaya Thera). Ap.i.138; Thag­a.i.120.
 
 ## Notes

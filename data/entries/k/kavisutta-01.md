@@ -5,7 +5,7 @@ base_headword: "Kavisutta"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -23,6 +23,6 @@ Kavisutta 01. Contains a question asked by a *Deva* about poets, and the Buddha�
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kavisutta 01. Chứa đựng một câu hỏi do một Deva hỏi về những nhà thơ, và câu trả lời của Đức Phật cho câu hỏi đó. SN.i.38.
 
 ## Notes

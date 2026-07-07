@@ -5,7 +5,7 @@ base_headword: "Phudhamanakamanta"
 disambiguator: ""
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -23,6 +23,6 @@ Phudhamanakamanta. Mentioned among the *dhammika vijjā*. Vibh­a. 410.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phudhamanakamanta. Được đề cập trong số các *dhammika vijjā*. Vibh­a. 410.
 
 ## Notes

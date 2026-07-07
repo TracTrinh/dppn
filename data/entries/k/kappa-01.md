@@ -5,7 +5,7 @@ base_headword: "Kappa"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kappa 01. One of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kappa 01. Một trong những đệ tử của Bāvarī. Những câu hỏi mà ông đã hỏi Đức Phật được ghi lại trong Kappamāṇavapucchā (*q.v.*). Ông trở thành một Arahant. Sn.vv.1007, 1092-5; Snp-a.ii.597.
 
 ## Notes

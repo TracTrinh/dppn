@@ -5,7 +5,7 @@ base_headword: "Sotthija"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Sotthija, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sotthija, Sotthiya. Vị thị giả thường trực của Koṇāgamana Buddha. Bv.xxiv.22; Ja.i.43; DN.ii.6.
 
 ## Notes

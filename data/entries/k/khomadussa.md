@@ -5,7 +5,7 @@ base_headword: "Khomadussa"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -26,6 +26,8 @@ The village was so-called because of the preponderance (*ussannatā*) of *khomad
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khomadussa. Một thị trấn (của những người Bà-la-môn?) thuộc quốc gia của người Sākyan. Đức Phật đã từng ở lại đó và thuyết pháp cho một hội chúng các gia chủ Bà-la-môn. Người ta nói rằng ban đầu các Bà-la-môn tỏ ra thù địch với Đức Phật, nhưng ngài đã thu phục được họ (SN.i.184).
+
+Ngôi làng được gọi như vậy vì có sự phong phú (*ussannatā*) về *khomadussā* (vải lanh). SN­a.i.207.
 
 ## Notes

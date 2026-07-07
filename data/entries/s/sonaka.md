@@ -5,7 +5,7 @@ base_headword: "Sonaka"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Sonaka. Son of a chaplain of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sonaka. Con trai của một vị giáo sĩ ở Rājagaha. Sau này vị ấy đã trở thành một Pacceka Buddha. Xem Sonakajātaka (Ja 529).
 
 ## Notes

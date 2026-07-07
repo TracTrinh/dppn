@@ -5,7 +5,7 @@ base_headword: "Veṇumatī"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Veṇumatī. A channel branching off from the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Veṇumatī. Một con kênh rẽ nhánh từ Toyavāpi ở bờ phía tây của nó. Nó được xây dựng bởi Parakkamabāhu I. Cv.lxxix.46.
 
 ## Notes

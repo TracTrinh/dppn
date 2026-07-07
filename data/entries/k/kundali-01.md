@@ -5,7 +5,7 @@ base_headword: "Kuṇḍalī"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,6 @@ Kuṇḍalī 01. The *sārikā*-bird of the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Con chim *sārikā* của Mahā Ummaggajātaka được đồng nhất với Kuṇḍalī (Ja.vi.478). Sự liên hệ này có lẽ là ám chỉ đến Bhaddā Kuṇḍalakesī.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vāyodevā"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vāyodevā. A class of deities present at the preaching of the <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tầng lớp chư thiên có mặt tại buổi thuyết giảng Mahā Samayasutta. DN.ii.259.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vijayā Therī"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -29,6 +29,6 @@ Vijayā Therī. She belonged to a household in <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vijayā Therī. Bà thuộc về một gia đình ở Rājagaha và là bạn của Khemā. Khi Khemā từ bỏ thế gian, Vijayā đã tìm đến bà, và, sau khi lắng nghe những lời dạy của bà, đã gia nhập Tăng đoàn dưới sự hướng dẫn của bà, đạt được quả vị *Arahant* không lâu sau đó (Thīg­a.159f.; các vần kệ Udāna của bà được bao gồm trong Thīg.169-74.). Bà có thể đồng nhất với Vijayā, được đề cập trong Saṁyuttanikāya (SN.i.130) một tỳ-kheo-ni (*Bhikkhunī*) mà Māra, hóa thân thành một chàng thanh niên, đã cố gắng cám dỗ nhưng không thành công.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Koṇḍañña"
 disambiguator: "03"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -25,6 +25,6 @@ Koṇḍañña 03. The name of the apprentice in the <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koṇḍañña 03. Tên của người học việc trong Vāruṇījātaka (Ja 47).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sudhammasāmaṇera"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sudhammasāmaṇera. Given as an example (Vibh­a.389) of one whose *paṭisambh
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudhammasāmaṇera. Được đưa ra làm ví dụ (Vibh­a.389) về một người mà các tuệ phân tích (*paṭisambhidā*) trở nên rõ ràng (*visada*) nhờ vào việc lắng nghe Pháp (Dhamma).
 
 ## Notes

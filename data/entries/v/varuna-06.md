@@ -5,7 +5,7 @@ base_headword: "Varuṇa"
 disambiguator: "06"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Varuṇa 06. A disciple of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Varuṇa 06. Một đệ tử của đức Phật Piyadassī. Thag­a.i.75, 273.
 
 ## Notes

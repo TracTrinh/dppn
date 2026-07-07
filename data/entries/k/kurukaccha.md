@@ -5,7 +5,7 @@ base_headword: "Kurukaccha"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -24,6 +24,6 @@ Kurukaccha. Probably a wrong reading for <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Có lẽ là một cách đọc sai của Bhārukaccha.
 
 ## Notes

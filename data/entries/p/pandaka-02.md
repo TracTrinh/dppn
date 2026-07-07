@@ -5,7 +5,7 @@ base_headword: "Paṇḍaka"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -29,6 +29,6 @@ Paṇḍaka 02. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇḍaka 02. Một Yakkha ở vùng Himālaya. Vị này, vợ là Hāritā, và năm trăm người con trai, đã trở thành những vị *Sotāpanna* khi Majjhantika thuyết pháp cho Aravāḷa. Mhv.xii.21.
 
 ## Notes

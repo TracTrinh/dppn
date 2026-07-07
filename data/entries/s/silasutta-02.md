@@ -5,7 +5,7 @@ base_headword: "Sīlasutta"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -24,6 +24,6 @@ Sīlasutta 02. On four persons, as regards their completeness in virtue, concent
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīlasutta 02. Về bốn hạng người, xét theo sự viên mãn của họ trong giới, định và tuệ. AN.ii.136.
 
 ## Notes

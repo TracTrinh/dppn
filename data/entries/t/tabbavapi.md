@@ -5,7 +5,7 @@ base_headword: "Tabbāvāpī"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tabbāvāpī. A tank in the <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tabbāvāpī. Một hồ nước ở Dakkhiṇadesa của Tích Lan (Cv.lxviii.3).
 
 ## Notes

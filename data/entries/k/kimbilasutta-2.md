@@ -5,7 +5,7 @@ base_headword: "Kimbilāsutta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -29,6 +29,8 @@ The *Sutta* deals with the method of breathing and the results thereof. SN.v.322
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kimbilāsutta. Được thuyết tại Kimbilā. Đức Phật hỏi Kimbila (*q.v.*) một câu hỏi về thực hành quán niệm hơi thở, và khi ngài không thể trả lời, Ānanda thỉnh cầu Đức Phật dạy câu trả lời đó cho các tỳ-kheo.
+
+*Sutta* bàn về phương pháp thở và những kết quả của nó. SN.v.322f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vasabha"
 disambiguator: "02"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -44,6 +44,12 @@ Once when Vasabha’s queen was ill, she was cured by medicines suggested by <sp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vua của Ceylon (127-171 CE.). Ông là một người Lambakaṇṇa của Uttarapassa và phục vụ dưới quyền chú của mình, vị tướng quân của Vua Subha. Vì các nhà tiên tri đã tuyên bố rằng một người tên Vasabha sẽ làm vua, nên Subha ra lệnh tàn sát tất cả những ai mang tên đó và chú của Vasabha đã đưa ông đến triều đình để giao nộp ông. Nhưng vợ của vị tướng quân, Potthā, đã đưa cho chồng trầu không có vôi để mang theo, và trên đường đến cung điện, Vasabha được sai quay lại để lấy vôi. Ở đó Potthā đã nói cho ông biết về âm mưu lấy mạng ông, đưa cho ông một ngàn đồng và giúp ông trốn thoát. Khi các kế hoạch của mình đã sẵn sàng, ông chiến đấu chống lại Subha, giết chết cả ông ta và người chú của mình trong trận chiến và trở thành vua. Potthā được phong làm hoàng hậu của ông. Các nhà tiên tri đã nói với ông rằng ông sẽ chỉ sống được mười hai năm, và sau khi tham khảo ý kiến với các tu sĩ, Vasabha đã làm nhiều hành động công đức để kéo dài tuổi thọ của mình; ông đã trị vì trong bốn mươi bốn năm. Trong số các công trình được ông xây dựng có *vihāra* Mahā Valligotta, *vihāra* Anurārāma và *vihāra* Mucela. Ông cũng xây dựng mười hai hồ chứa nước và nâng cao bức tường của Anurādhapura. Con trai và người kế vị của ông là Vaṅkanāsikatissa. Để biết chi tiết về triều đại và các công trình của Vasabha, xem Dpv.xxii.1ff. và Mhv.xxxv.59ff.
+
+Người ta nói rằng (DN­a.ii.635) đã có lần Vasabha lắng nghe các tu sĩ *Dīghabhāṇaka* tụng Mahā Sudassanasutta tại *pāsāda* Ambalaṭṭhika, gần Lohapāsāda, và tán thành lời tuyên bố của Đức Phật trong *Sutta* rằng mọi pháp hữu vi đều vô thường. Vào một dịp khác, ông đi đến *pariveṇa* Katthakasāla để đảnh lễ một vị Trưởng lão tên là Mahā Saṭṭhivassa (đây có thể chỉ là một danh xưng mô tả), nhưng khi đến gần cửa phòng của vị ấy, ông nghe thấy tiếng rên rỉ đau đớn của vị Trưởng lão, và thất vọng vì vị ấy vẫn chưa phát triển được khả năng chế ngự cơn đau ngay cả sau sáu mươi năm đời sống tu viện, nhà vua đã quay đi. Vị Trưởng lão được người hầu cận nói cho biết điều này, và với sự nỗ lực lớn lao, đã đạt được quả vị *Arahant*; sau đó vị ấy cho người gọi nhà vua đến. Nhà vua nằm rạp xuống đất và đảnh lễ vị ấy, nói rằng: “Không phải quả vị *Arahant* của ngài mà trẫm đảnh lễ, mà là *sīla* ngài đã thọ trì khi còn là một phàm phu.” (DN­a.i.291)
+
+Một câu chuyện khác được kể về Vasabha, về việc có lần, để thử nghiệm một tu sĩ, ông ngồi gần vị ấy và bắt đầu nghiền một quả táo ta. Miệng vị tu sĩ chảy nước miếng, và Vasabha biết rằng vị ấy không phải là một *Arahant* (MN­a.ii.869).
+
+Một lần khi hoàng hậu của Vasabha bị ốm, bà đã được chữa khỏi bằng các phương thuốc do Mahā Paduma Thera đề xuất. Vin-a.ii.471.
 
 ## Notes

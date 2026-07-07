@@ -5,7 +5,7 @@ base_headword: "Kaddūravaḍḍhamāna"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -33,6 +33,10 @@ It formed part of the irrigation schemes of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaddūravaḍḍhamāna. Một cái hồ ở Tích Lan.
+
+Nó được nối với hồ Giritālaka bằng kênh Kāverī, và với hồ Arimaddavijayaggāma bằng kênh Somavatī.
+
+Nó là một phần trong các dự án thủy lợi của Parakkamabāhu I. Cv.lxxix.55f.
 
 ## Notes

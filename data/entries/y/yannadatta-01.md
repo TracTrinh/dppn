@@ -5,7 +5,7 @@ base_headword: "Yaññadatta"
 disambiguator: "01"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -25,6 +25,6 @@ Yaññadatta 01. A Brahmin, father of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yaññadatta 01. Một Bà-la-môn, cha của Koṇāgamana Buddha. DN.ii.7; Ja.i.43; Bv.xxiv.17.
 
 ## Notes

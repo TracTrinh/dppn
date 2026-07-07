@@ -5,7 +5,7 @@ base_headword: "Kesadhātuvaṁsa"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -30,6 +30,8 @@ The *Kesadhātuvaṁsa* is not now available. It was evidently easily obtainable
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kesadhātuvaṁsa. Một cuốn sách ghi chép về lịch sử Xá-lợi Tóc của Đức Phật. Xá-lợi này được Silākāla mang từ Ấn Độ đến Tích Lan dưới triều đại Moggallāna I. Nhà vua đã tôn trí Xá-lợi trong một chiếc tháp bằng pha lê bên trong một tòa nhà xinh đẹp với một bức tranh vẽ thành phố của Đức Phật Dīpaṅkara (?) và thiết lập một lễ hội để tôn vinh nó. Silākāla được chỉ định làm người bảo vệ Xá-lợi (Cv.xxxix.49ff).
+
+Hiện tại không còn tìm thấy Kesadhātuvaṁsa nữa. Hiển nhiên là nó có thể dễ dàng tìm thấy vào thời điểm viết phần đầu của Cūḷa Vaṁsa (Xem ví dụ, Cv.xxxix.56). Có vẻ như nó là một tác phẩm hoàn toàn khác biệt so với Chakesadhātuvaṁsa (xem mục này).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Upassaṭṭhasutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -24,6 +24,6 @@ Upassaṭṭhasutta. Everything is oppressed: eye, ear, etc. SN.iv.29.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upassaṭṭhasutta. Mọi thứ đều bị áp bức: mắt, tai, v.v. SN.iv.29.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Pañhambamālaka"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -30,6 +30,8 @@ After <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañhambamālaka. Một địa điểm ở Anurādhapura, nơi Devānampiyatissa dâng cho Mahinda một quả xoài, ngài đã ăn ngay tại chỗ, và cho gieo hạt của nó. Ngay lập tức từ đó mọc lên một cây cao, trĩu quả xoài. Nơi này sau đó trở thành trung tâm phân phát các vật phẩm cúng dường cho các tỳ-kheo (Mhv.xv.38).
+
+Sau khi Mahinda viên tịch, quan tài chứa di hài của ngài được đặt ở đây trong một tuần lễ, và nhiều sự tôn kính đã được dành cho di hài ngài trước khi hỏa táng (Sđd., xx.39). Đây có lẽ cũng chính là Pañcambamālaka (*q.v.*).
 
 ## Notes

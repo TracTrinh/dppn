@@ -5,7 +5,7 @@ base_headword: "Valabhāmukha"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -27,6 +27,6 @@ Valabhāmukha, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Valabhāmukha, Valabhāmukhī. Một vùng biển (*samudda*), vùng biển cuối cùng mà Suppāraka nhìn thấy trong chuyến hải hành của ông. Tại đây nước bị hút đi và dâng lên tứ phía, để lại ở trung tâm một cái gì trông như một hố sâu. Suppāraka, bằng Lời Nguyện Sự Thật, đã ngăn con thuyền của mình không bị đắm tại đó (xem Suppārakajātaka, Ja 463). Nơi này còn được gọi là Valabhāmukhī. Ja.iv.142.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Korabya"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -24,6 +24,6 @@ Korabya. One of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Korabya. Một trong mười người con trai của Kāḷāsoka.
 
 ## Notes

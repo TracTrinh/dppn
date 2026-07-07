@@ -5,7 +5,7 @@ base_headword: "Kukkuṭamitta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -29,6 +29,8 @@ In a previous existence, a county treasurer bid against a city treasurer for the
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kukkuṭamitta. Một người thợ săn. Con gái của một người đàn ông giàu có ở Rājagaha nhìn ra cửa sổ ở tầng bảy và thấy người thợ săn đi ngang qua đường, liền nảy sinh tình cảm với anh ta. Biết được từ người nữ tỳ của mình rằng anh ta sẽ rời khỏi thành phố vào ngày hôm sau, cô bí mật rời khỏi nhà, theo Kukkuṭamitta trên đường và bỏ trốn cùng anh ta. Họ có với nhau bảy người con trai, theo thời gian, những người con này đều kết hôn và lập gia đình riêng. Một ngày nọ, nhận thấy toàn bộ gia đình đã chín muồi để hóa độ, Đức Phật đi đến nơi giăng lưới của Kukkuṭamitta, để lại dấu chân của ngài ở đó và ngồi xuống dưới một gốc cây. Người thợ săn, không bắt được gì, nghi ngờ rằng ai đó đã thả các con thú ra và khi nhìn thấy Đức Phật đã giương cung của mình. Nhờ thần lực của Đức Phật, anh ta bị chôn chân tại chỗ, và các con trai của anh ta cũng vậy khi họ cùng vợ đến tìm anh. Vợ của Kukkuṭamitta cũng đến, và khi nhìn thấy những gì đã xảy ra, bà đã thốt lên một câu nói đầy ẩn ý: “Đừng giết cha tôi.” (Thực ra bà đã trở thành một vị *Sotāpanna* (Tu-đà-hoàn) khi còn là một thiếu nữ.) Cả gia đình cầu xin Đức Phật tha thứ, và tất cả đều trở thành những vị *Sotāpanna*. Khi các tỳ-kheo nghe về điều này, họ phàn nàn rằng vợ của Kukkuṭamitta, mặc dù là một *Sotāpanna*, nhưng từ trước đến nay đã tiếp tay cho chồng mình sát sanh. Đức Phật đảm bảo với họ rằng sự việc không phải như vậy. Một người có thể cầm thuốc độc trong tay, nhưng nếu không có vết thương thì thuốc độc không thể làm hại người đó.
+
+Trong một kiếp quá khứ, một quan thủ quỹ của tỉnh đã đấu giá với một quan thủ quỹ của thành phố để giành quyền cúng dường phần chính trong việc xây dựng một ngôi tháp cho xá-lợi của Kassapa Buddha. Khi quan thủ quỹ của thành phố trả giá cao hơn số tiền mà quan thủ quỹ của tỉnh sở hữu, người sau đã đề nghị cống hiến bản thân mình để phục vụ ngôi tháp, cùng với vợ mình, bảy người con trai của mình và vợ của họ. Kukkuṭamitta chính là quan thủ quỹ của tỉnh. Dhp­a.iii.24-31.
 
 ## Notes

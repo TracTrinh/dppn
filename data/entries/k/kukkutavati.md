@@ -5,7 +5,7 @@ base_headword: "Kukkuṭavatī"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -32,6 +32,6 @@ Kukkuṭavatī. According to some accounts the city, where <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Theo một số bản kể, thành phố nơi Mahā Kappina trị vì trước khi xuất gia không được gọi là Kukkuṭa (*q.v.*) mà là Kukkuṭavatī. Có lẽ tên trước là tên của đất nước và tên sau là tên của thủ đô. Từ đây đến Sāvatthī là một khoảng cách một trăm hai mươi do-tuần, và có một tuyến đường buôn bán giữa hai thành phố mà các thương nhân đi bộ (*jaṅghavānijā*), và cũng có một tuyến đường từ Majjhimadesa. Ba con sông phải vượt qua trên đường đi: sông Aravacchā, sông Nīlavāhanā và sông Candabhāgā. Dhp­a.ii.116ff; một bản kể chi tiết ít hơn được đưa ra trong SN­a.ii.177f và AN­a.i.175f.
 
 ## Notes

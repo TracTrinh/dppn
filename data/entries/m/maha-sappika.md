@@ -5,7 +5,7 @@ base_headword: "Mahā Sappika"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Sappika. One of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sappika. Một trong những cung điện của Asoka. Ras.i.93.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Selā"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -29,6 +29,6 @@ Selā 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Selā 03. Selā Therī. Một *Arahant*. Vào thời Kassapa Buddha, bà thuộc gia đình một cư sĩ tại gia ở Sāvatthī. Bà nghe Đức Phật thuyết pháp và học hỏi Pháp. Sau khi mất, bà sinh lên cõi Tāvatiṁsa. Trong đời cuối, bà là con gái của một *seṭṭhi*, và khi nghe Đức Phật thuyết pháp, bà gia nhập Tăng đoàn và chứng đắc *Arahant*. Ap.ii.614f.
 
 ## Notes

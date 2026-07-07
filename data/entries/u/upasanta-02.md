@@ -5,7 +5,7 @@ base_headword: "Upasanta"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Upasanta 02. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upasanta 02. Một vị Pacceka Buddha mà Trưởng lão Vajjita, trong một tiền kiếp ba mươi mốt kappa trước đây, đã cúng dường một bông hoa *campaka*. Thag­a.i.336; Ap.i.288.
 
 ## Notes

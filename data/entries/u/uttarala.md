@@ -5,7 +5,7 @@ base_headword: "Uttarāla"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uttarāla. A tank repaired by <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttarāla. Một hồ chứa nước được Parakkamabāhu I trùng tu. Cv.lxviii.47.
 
 ## Notes

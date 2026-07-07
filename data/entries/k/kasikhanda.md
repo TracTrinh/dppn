@@ -5,7 +5,7 @@ base_headword: "Kāsikhanda"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -24,6 +24,6 @@ Kāsikhanda. A district in Ceylon; in it was the *Mahā Devarattakuraravihāra*.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāsikhaṇḍa. Một quận ở Tích Lan; trong nó có *Mahā Devarattakuraravihāra*. Cv.xli.101.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kaṇhājinā"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -39,6 +39,10 @@ Kaṇhājinā. Daughter of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇhājinā. Con gái của Vessantara và Maddī. Cô được gọi như vậy vì, khi chào đời, cô đã được đặt trên một tấm da đen (Ja.vi.487). Khi Vessantara lui vào rừng, vợ và các con của ngài đã đi cùng ngài đến Vaṅkagiri. Về sau, cả Kaṇhājinā và anh trai Jāli của cô đều được giao cho Jūjaka làm nô lệ và đã bị ông ta ngược đãi. Trong sáu mươi do-tuần họ đã đi cùng ông ta, được dẫn dắt và bảo vệ bởi chư thiên, cho đến khi họ đến được cung điện của ông nội Sañjaya, vua xứ Sivi, và tại đó họ đã được giải thoát, giá của Kaṇhājinā là một trăm con voi, một trăm nam nữ nô lệ, v.v. Những đứa trẻ sau đó đã đoàn tụ với cha mẹ mình và sống hạnh phúc trong cung điện (Ja.vi.513ff).
+
+Kaṇhājinā được đồng nhất với Uppalavaṇṇā (Ja.vi.593). Trong các bài kệ cô đôi khi được gọi là Kaṇhā (ví dụ, 546, 548, 553).
+
+Việc Vessantara cho đi những đứa con của mình được coi là vĩ đại nhất trong số những món quà của ngài, ví dụ, Milinda, 117, 275, 284; Cp p.80; Dhp­a.i.406; AN­a.i.64.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sudassana"
 disambiguator: "30"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sudassana 30. The personal attendant of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudassana 30. Vị thị giả riêng của Piyadassī Buddha. Thag­a.i.230.
 
 ## Notes

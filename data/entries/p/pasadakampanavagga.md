@@ -5,7 +5,7 @@ base_headword: "Pāsādakampanavagga"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -27,6 +27,6 @@ Pāsādakampanavagga. The second chapter of the <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāsādakampanavagga. Phẩm thứ hai của Iddhipādasaṁyutta (SN.v.263ff). Nó lấy tên từ Pāsādakampanasutta (hoặc Moggallānasutta) (*q.v.*).
 
 ## Notes

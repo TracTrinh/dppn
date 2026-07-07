@@ -5,7 +5,7 @@ base_headword: "Koñcā"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -25,6 +25,6 @@ Koñcā. One of the palaces occupied by <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koñcā. Một trong những cung điện được Dīpaṅkara Buddha cư ngụ trong kiếp sống tại gia cuối cùng của ngài. Bv.ii.208.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sudhañña"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sudhañña 02. The city of birth of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudhañña 02. Thành phố đản sinh của Piyadassī Buddha; nhưng xem Anoma (11). Bv.xiv.15.
 
 ## Notes

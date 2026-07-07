@@ -5,7 +5,7 @@ base_headword: "Kapiṭṭha"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,6 @@ Kapiṭṭha, (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kapiṭṭha, (*v.l.* Gaviṭa). Một ngôi làng gần Cittalapabbatavihāra, nơi cư trú của Phussadeva. Mhv.xxiii.82.
 
 ## Notes

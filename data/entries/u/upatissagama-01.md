@@ -5,7 +5,7 @@ base_headword: "Upatissagāma"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -29,6 +29,6 @@ Upatissagāma 01. A Brahmin village near <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upatissagāma 01. Một ngôi làng của Bà-la-môn gần Rājagaha. Đó là nơi sinh của Sāriputta (Thag­a.ii.93; Dhp­a.i.73). Tên thật của nó là Nālaka (*q.v.*), nhưng nó được gọi là Upatissagāma, rõ ràng là do các thủ lĩnh của nó thuộc về gia tộc Upatissa. Rất có khả năng cha của Sāriputta, người là trưởng làng (*gāmasāmi*), cũng được gọi là Upatissa. Xem Snp-a.i.326.
 
 ## Notes

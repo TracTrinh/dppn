@@ -5,7 +5,7 @@ base_headword: "Kaṇḍanagara"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kaṇḍanagara. A locality in Ceylon; to the north of it was the <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇḍanagara. Một địa phương ở Tích Lan; ở phía bắc của nó là Girinelavāhanakavihāra, được xây dựng bởi Sūratissa. Mhv.xxi.8.
 
 ## Notes

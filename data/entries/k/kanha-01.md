@@ -5,7 +5,7 @@ base_headword: "Kaṇha"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kaṇha 01. A name for <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇha 01. Một cái tên gọi Māra (*xem bài này*), ví dụ, Sn.vs.355; MN.i.377; DN.ii.262; Thag.v.1189.
 
 ## Notes

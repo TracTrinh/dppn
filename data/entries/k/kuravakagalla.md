@@ -5,7 +5,7 @@ base_headword: "Kuravakagalla"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kuravakagalla. A place in <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một địa danh ở Rohaṇa nơi *Damiḷādhikārī* Rakkha đánh bại kẻ thù của mình. Cv.lxxv.137.
 
 ## Notes

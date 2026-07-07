@@ -5,7 +5,7 @@ base_headword: "Kosiyāyana"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -27,6 +27,6 @@ Kosiyāyana. A Brahmin of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kosiyāyana. Một Bà-la-môn của Kāsi, người vợ của ông được gọi là Kosiyāyanī. Câu chuyện của họ được đưa ra trong Rādhajātaka. Ja.i.495f.
 
 ## Notes

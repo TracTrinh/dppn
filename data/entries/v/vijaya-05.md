@@ -5,7 +5,7 @@ base_headword: "Vijaya"
 disambiguator: "05"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -23,6 +23,6 @@ Vijaya 05. A householder, mentioned as an exemplary layman. AN.iii.451.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vijaya 05. Một gia chủ, được nhắc đến như là một cư sĩ gương mẫu. AN.iii.451.
 
 ## Notes

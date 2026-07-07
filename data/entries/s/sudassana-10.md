@@ -5,7 +5,7 @@ base_headword: "Sudassana"
 disambiguator: "10"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sudassana 10. A city where <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudassana 10. Một thành phố nơi Sobhita Buddha thi triển Yamakapāṭihāriya dưới gốc cây *cittapāṭali*; vua Jayasena đã xây cho ngài một *vihāra* rộng một do-tuần ở đó. Bv­a.138.
 
 ## Notes

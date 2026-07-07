@@ -5,7 +5,7 @@ base_headword: "Kubukandanadī"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kubukandanadī. A river in Ceylon. On its banks was the <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kubukandanadī. Một con sông ở Tích Lan. Trên bờ sông là Samuddavihāra (Mhv.xxxiv.90).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vedisa"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -31,6 +31,6 @@ Vedisa, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vedisa, Vedisagiri. Một thành phố, quê hương của Devī, mẹ của Mahinda. Ngài và Saṅghamittā được sinh ra tại đó, và, ngay trước khi rời đi Tích Lan, ngài đã đến đó để thăm mẹ mình và lưu lại một tháng trong tu viện, tu viện này cũng được gọi là Vedisagiri (Dpv.vi.15; xii.14, 35; Vin-a.i.70, 71; Mhv.xiii.6-9,18). Vedisa cách Pāṭaliputta năm mươi do-tuần và được thành lập bởi những người Sākiyans chạy trốn khỏi cuộc thảm sát của Viḍūḍabha (Mbv., p. 98). Vedisa được đồng nhất với Bhilsa thời hiện đại ở Bang Gwalior, cách Bhopal hai mươi sáu dặm về phía đông bắc. Mhv.Trs. 88, n.4.
 
 ## Notes

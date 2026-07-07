@@ -5,7 +5,7 @@ base_headword: "Pāṭaliputta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Pāṭaliputta. A *Paribbājaka*; see <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāṭaliputta. Một *Paribbājaka*; xem Poṭaliputta, mà nó là một cách đọc sai.
 
 ## Notes

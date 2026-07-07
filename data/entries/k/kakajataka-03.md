@@ -5,7 +5,7 @@ base_headword: "Kākajātaka"
 disambiguator: "03"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -33,6 +33,10 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kākajātaka 03. (Ja 395). Bodhisatta từng là một con chim bồ câu và sống trong một chiếc giỏ đan bằng lưới ở nhà bếp của một thương gia xứ Benares. Một con quạ tham lam, sau khi trở nên thân thiết với ngài, đã đến sống ở đó. Người đầu bếp phát hiện ra con quạ đang cố ăn trộm một ít thức ăn, và, sau khi nhổ sạch lông của nó, rắc bột lên người nó, treo một cái chổi lông quanh cổ nó và ném nó vào giỏ.
+
+Câu chuyện rất giống với những câu chuyện trong Kapotajātaka và Lolajātaka (*q.v.*), và được kể lại liên quan đến một vị tỳ-kheo tham lam (Ja.iii.314-16; xem thêm Cunningham: *Bharhut Stūpa*, xlv. Pl.7).
+
+Kapotajātaka (Ja.i.241) có nhắc đến một Kākajātaka của *Nava-nipāta*. Không có câu chuyện nào như vậy trong Cuốn Thứ Chín; có lẽ đó là một cách đọc sai cho Cakkavākajātaka (Ja 434), nơi câu chuyện cũng được kể lại liên quan đến một vị tỳ-kheo tham lam.
 
 ## Notes

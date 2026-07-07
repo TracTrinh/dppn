@@ -5,7 +5,7 @@ base_headword: "Kālasutta"
 disambiguator: "03"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -24,6 +24,6 @@ Kālasutta 03. There are five gifts which, if given, are seasonable: gifts to a 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kālasutta 03. Có năm món quà mà, nếu được ban tặng, là hợp thời: những món quà tặng cho một vị khách, một khách lữ hành, một người ốm, một người đang trong cảnh thiếu thốn, và những hoa trái đầu mùa dâng cho một vị thánh. AN.iii.41.
 
 ## Notes

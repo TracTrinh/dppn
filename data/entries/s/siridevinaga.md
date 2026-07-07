@@ -5,7 +5,7 @@ base_headword: "Siridevinaga"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Siridevinaga. A mountain in the <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Siridevinaga. Một ngọn núi ở Dakkhiṇadesa của Tích Lan. Nó nằm gần Buddhagāma, và được nhắc đến trong tường thuật về các cuộc chinh chiến thời kỳ đầu của Parakkamabāhu I. Cv.lxvi.19.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kusaṇālivagga"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kusaṇālivagga. The thirteenth chapter of the *Ekanipāta* of the <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chương thứ mười ba của *Ekanipāta* thuộc Jātaka Commentary Ja.i.441-65.
 
 ## Notes

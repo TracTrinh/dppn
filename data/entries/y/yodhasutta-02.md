@@ -5,7 +5,7 @@ base_headword: "Yodhasutta"
 disambiguator: "02"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -23,6 +23,6 @@ Yodhasutta 02. Similar to (1), but four qualities are given, the fourth being th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yodhasutta 02. Tương tự như (1), nhưng đưa ra bốn phẩm chất, phẩm chất thứ tư là người lính phải am hiểu kiến thức về các vị trí có lợi thế. AN.ii.170f.
 
 ## Notes

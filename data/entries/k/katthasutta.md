@@ -5,7 +5,7 @@ base_headword: "Kaṭṭhasutta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -24,6 +24,6 @@ Kaṭṭhasutta. On the five evil results of not using a toothbrush, and the fiv
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṭṭhasutta. Bàn về năm kết quả tai hại của việc không dùng tăm xỉa răng, và năm lợi ích của việc sử dụng tăm. AN.iii.250.
 
 ## Notes

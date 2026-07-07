@@ -5,7 +5,7 @@ base_headword: "Parakkama"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -32,6 +32,6 @@ Parakkama 02. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parakkama 02. Một vị vua Paṇḍu của Madhurā. Khi bị Kulasekhara tấn công, ông đã thỉnh cầu sự viện trợ từ Parakkamabāhu I của Tích Lan. Parakkamabāhu đã cử một đội quân dưới quyền chỉ huy của Laṅkāpura đến giúp ông, nhưng khi quân đội Sinhalese đến nơi, Kulasekhara đã sát hại vị vua cùng gia đình ông và chiếm lấy Madhurā. Con trai út của Parakkama, người đã thoát chết, là Vīrapaṇḍu (Cv.lxxvi.76ff., 142, 193, 200). Parakkama bị sát hại tại ngôi làng Tirimalakka. Cv.lxxvii.52.
 
 ## Notes

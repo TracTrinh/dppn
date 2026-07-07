@@ -5,7 +5,7 @@ base_headword: "Sobhita"
 disambiguator: "09"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Sobhita 09. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sobhita 09. Sobhita Thera. Một vị *Arahant* (Ap.i.163). Ngài rõ ràng đồng nhất với Rakkhita Thera. Thag­a.i.173.
 
 ## Notes

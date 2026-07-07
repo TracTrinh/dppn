@@ -5,7 +5,7 @@ base_headword: "Kañcana"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kañcana 01. One of the three palaces used by <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kañcana 01. Một trong ba cung điện được Sumedha Buddha sử dụng trong đời sống cư sĩ cuối cùng của ngài (Bv.xii.19). Bản chú giải (Bv­a.163) gọi nó là Koñca.
 
 ## Notes

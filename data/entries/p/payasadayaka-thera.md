@@ -5,7 +5,7 @@ base_headword: "Pāyāsadāyaka Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -27,6 +27,6 @@ Pāyāsadāyaka Thera. An *Arahant*. Ninety-one *kappas* ago he offered a bronze
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāyāsadāyaka Thera. Một *Arahant*. Chín mươi mốt *kappa* trước, ngài đã cúng dường một chiếc bát đồng chứa đầy cơm sữa cho Đức Phật Vipassī. Bốn mươi mốt *kappa* trước, ngài là một vị vua tên là Buddha (Ap.i.157). Ngài có lẽ đồng nhất với Vacchapāla Thera. Thag­a.i.159f.
 
 ## Notes

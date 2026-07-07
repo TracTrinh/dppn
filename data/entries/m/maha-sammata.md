@@ -5,7 +5,7 @@ base_headword: "Mahā Sammata"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -34,6 +34,12 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sammata. Một vị vua sống vào thuở sơ khai của kỷ nguyên hiện tại. Biên niên sử Pāli đề cập đến ông như là thủy tổ của gia tộc Sākiyan, mà Đức Phật thuộc về, và đưa ra một danh sách các triều đại từ thời của ông cho đến thời của Đức Phật, để chứng minh rằng dòng dõi này là "không bị gián đoạn." (Mhv.ii.1ff.; Dpv.iii.1ff.; Mhv­ṭ. 122ff.; xem thêm Ja.ii.311; iii.454, v.v.)
+
+Mahā Sammata thuộc về Thái Dương Tộc và được đồng nhất với Bodhisatta, vị đã được sinh ra giữa loài người sau khi lưu trú ở các cõi *Brahma* (Mhv­ṭ. 121 f). Ông được gọi là Mahā Sammata, bởi vì, khi sự tà ác khởi sinh trên thế gian, ông đã được dân chúng bầu chọn để thể hiện sự phẫn nộ chống lại và sự phản đối những kẻ đáng bị khiển trách (*sannipatitvā samaggajātehi mahājañchi sammannitvā kato Mahā Sammato*; Mhv­ṭ.122; cp. DN.iii.92f.; Mvu.i.248; Dhs-a. 390, 392). Để đáp lại những sự phụng sự của ông, ông đã được trao cho một phần thu hoạch của họ.
+
+Người ta nói (Ja.iv.192) rằng trong triều đại của Mahā Sammata, ý tưởng về việc trừng phạt, như tra tấn, phạt tiền, trục xuất, là không được biết đến. Những điều này được phát minh về sau cùng với sự tiến bộ của nền văn minh!
+
+Chú giải Vimānavatthu (p.15) giải thích rằng Mahā Sammata là tên gọi được đưa ra trong các kinh điển thánh (*sāsane*) dành cho Manu. Một số, ít nhất là, các vị vua Tích Lan đã truy nguyên dòng dõi của họ từ Mahā Sammata. Xem, ví dụ, Cv.xlvii.2.
 
 ## Notes

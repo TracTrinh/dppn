@@ -5,7 +5,7 @@ base_headword: "Kuṇḍakakumāra"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kuṇḍakakumāra. The lay name of the ascetic <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tên gọi khi còn là cư sĩ của vị đạo sĩ Khantivādī. Ja.iii.39.
 
 ## Notes

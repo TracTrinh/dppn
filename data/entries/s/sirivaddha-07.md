@@ -5,7 +5,7 @@ base_headword: "Sirivaḍḍha"
 disambiguator: "07"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sirivaḍḍha 07. A palace occupied by <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirivaḍḍha 07. Một cung điện mà Sumedha Buddha ở trong kiếp làm cư sĩ cuối cùng của Ngài. Bv.xii.19.
 
 ## Notes

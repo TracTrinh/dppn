@@ -5,7 +5,7 @@ base_headword: "Kaṭṭhavāhana"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -42,6 +42,12 @@ The envoys arrived at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṭṭhavāhana 01. Một vị vua. Một tiền kiếp của Bāvarī. Kaṭṭhavāhana từng là một thợ mộc rất giỏi ở Benares, có dưới quyền mười sáu ngàn không trăm mười sáu người phụ tá. Họ thường định kỳ đến các khu rừng Himālaya, đốn cây, và sau khi chuẩn bị xong loại gỗ thích hợp cho việc xây dựng, họ chở gỗ theo sông Ganges về và dựng nhà cho nhà vua cũng như cho dân chúng.
+
+Cảm thấy mệt mỏi với công việc này, những người thợ mộc này đã chế tạo những cỗ máy bay bằng loại gỗ nhẹ, và đi về phía bắc từ Benares đến Himavā, thành lập một vương quốc bằng cách chinh phạt, người thợ mộc trưởng trở thành vua. Ông được gọi là Kaṭṭhavāhana, thủ đô được đặt tên là Kaṭṭhavāhananagara và đất nước là Kaṭṭhavāhanaraṭṭha. Nhà vua là người đạo đức và dân chúng rất hạnh phúc, đất nước vô cùng phồn vinh. Về sau Kaṭṭhavāhana và vua của Benares trở thành những người bạn chân thành, và giao thương tự do, miễn mọi loại thuế, đã được thiết lập giữa hai quốc gia. Các vị vua đã gửi cho nhau những món quà rất giá trị và lộng lẫy.
+
+Có một lần Kaṭṭhavāhana gửi cho vua Benares tám tấm thảm vô giá được đặt trong tám chiếc rương bằng ngà voi sơn mài, mỗi tấm thảm dài mười sáu cubit và rộng tám cubit, mang vẻ đẹp lộng lẫy vô song. Vua Benares, tự hỏi làm thế nào ông có thể đền đáp tương xứng sự thịnh tình này, đã quyết định cho bạn mình biết tin tức trọng đại về sự xuất hiện trên thế gian của Đức Phật (Kassapa), Dhamma và Saṅgha. Thông điệp này được viết trên một lá vàng và lá vàng được đặt vào trong nhiều chiếc rương, chiếc rương này nằm trong chiếc rương khác, chiếc rương trong cùng được làm bằng bảy loại châu báu và chiếc ngoài cùng làm bằng loại gỗ quý. Những chiếc rương được đặt trên một chiếc kiệu lộng lẫy và được đưa đi trên lưng của một con voi hoàng gia, kèm theo tất cả các phù hiệu của hoàng gia. Dọc theo đường đi, những vinh dự dành cho một vị vua đã được trao cho chiếc rương, và đích thân Kaṭṭhavāhana đã hộ tống con voi từ biên giới vương quốc của mình về thủ đô. Khi Kaṭṭhavāhana khám phá ra thông điệp, ông vô cùng vui sướng, và đã phái cháu trai của mình cùng với mười sáu vị đại thần và mười sáu ngàn người tùy tùng đi điều tra vấn đề và chuyển lời chào của ông đến Đức Phật.
+
+Các phái viên đã đến Benares chỉ sau khi Đức Phật đã viên tịch, nhưng được nghe từ các đệ tử của Đức Phật về Dhamma mà ngài đã tuyên thuyết cho thế gian, các đại thần và những người tùy tùng của họ đã gia nhập Saṅgha, trong khi cháu trai của Kaṭṭhavāhana được phái trở về báo tin cho nhà vua, mang theo bình bát của Đức Phật, một nhánh của cây Bodhi và một vị tỳ-kheo tinh thông Dhamma. Nhà vua, sau khi học hỏi Dhamma, đã tham gia vào nhiều công việc thiện nguyện cho đến lúc qua đời, sau đó ông được tái sinh vào số các Kāmāvacara Deva. Snp-a.ii.675ff.
 
 ## Notes

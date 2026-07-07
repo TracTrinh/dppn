@@ -5,7 +5,7 @@ base_headword: "Kammahārattaka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kammahārattaka. General of King <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kammahārattaka. Tướng quân của Vua Khallāṭanāga. Ông ta đã lãnh đạo một cuộc nổi loạn chống lại nhà vua và giết ngài tại thủ đô. Tuy nhiên, em trai của nhà vua là Vaṭṭagāmaṇī đã giết vị tướng quân và tiếp quản chính quyền (Mhv.xxxiii.33; xem thêm Mhv­ṭ.612).
 
 ## Notes

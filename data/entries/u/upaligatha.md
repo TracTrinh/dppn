@@ -5,7 +5,7 @@ base_headword: "Upāligāthā"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -26,6 +26,6 @@ Upāligāthā. The stanzas in which <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upāligāthā. Các vần kệ mà gia chủ Upāli xướng lên để ca ngợi Đức Phật khi Nātaputta hỏi ông rằng người thầy mới tìm thấy của ông là hạng người nào (MN.i.386f). Các vần kệ này thường được trích dẫn; chúng chứa một trăm danh xưng áp dụng cho Đức Phật (Vin-a.i.257).
 
 ## Notes

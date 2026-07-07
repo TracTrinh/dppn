@@ -5,7 +5,7 @@ base_headword: "Pāṭaliputtaka."
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -33,6 +33,8 @@ One died on the way, the other went to <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāṭaliputtaka. Một vị Bà-la-môn của Pāṭaliputta. Ông và một người bạn, cả hai đều thuộc thành phố đó, sau khi nghe nói về các đức hạnh của Mahā Nāga Thera thuộc Kāḷavallimaṇḍapa ở Tích Lan, đã đi bằng tàu đến Mahā Tittha.
+
+Một người đã chết trên đường đi, người còn lại đi đến Anurādhapura, và từ đó đến Rohaṇa, nơi ông dựng chỗ ở tại Cūḷa Nagaragāma và đến thăm vị Trưởng lão trong tu viện của ngài. Dưới sự chỉ dạy của ngài, ông đã gia nhập Tăng đoàn và trở thành một *Arahant*. AN­a.i.384.
 
 ## Notes

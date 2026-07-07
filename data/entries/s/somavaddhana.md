@@ -5,7 +5,7 @@ base_headword: "Somavaḍḍhana"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Somavaḍḍhana. One of the palaces occupied by <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Somavaḍḍhana. Một trong các cung điện mà Sumana Buddha ở trước khi xuất gia. Bv­a.186; nhưng xem Sumana (1).
 
 ## Notes

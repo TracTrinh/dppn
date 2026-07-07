@@ -5,7 +5,7 @@ base_headword: "Rohanta"
 disambiguator: "01"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Rohanta 01. A lake in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rohanta 01. Một hồ nước ở Himavā. Ja.iv.4131.
 
 ## Notes

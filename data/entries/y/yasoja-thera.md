@@ -5,7 +5,7 @@ base_headword: "Yasoja Thera"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -48,6 +48,14 @@ The Vinaya relates how once, when Yasoja was ill, drugs were brought for his use
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yasoja Thera (*v.l.* Yasojoti Thera). Ngài sinh ra bên ngoài cổng thành Sāvatthī trong một ngôi làng chài, nơi cha ngài là trưởng thôn của năm trăm gia đình. Khi đến tuổi trưởng thành, vào một ngày nọ ngài đang đánh cá trên sông Aciravatī, và khi quăng lưới, đã bắt được một con cá lớn màu vàng. Yasoja và những người bạn của ngài đã mang con cá đến cho Pasenadi, người đã gửi họ đến gặp Đức Phật. Đức Phật nói với họ rằng con cá từng là một tỳ-kheo độc ác vào thời Kassapa Buddha, và kể từ đó đã phải chịu đau khổ trong địa ngục, nơi mẹ và các chị gái của vị này vẫn đang ở đó. Sau đó, Ngài thuyết giảng cho họ bài kinh Kapilasutta, và Yasoja cùng những người bạn của mình vô cùng xúc động, đã từ bỏ thế gian (Thag­a.i.356f.).
+
+Kinh Udāna có đề cập (Ud.iii.3) cách mà sau này, Yasoja và năm trăm người bạn của ngài đã đến thăm Đức Phật tại Jetavana. Ở đó, họ đứng nói chuyện với các tỳ-kheo sống tại đó và làm ồn ào. Đức Phật đã cử Ānanda ra ngoài tìm họ, yêu cầu họ rời khỏi chỗ Ngài, vì họ đang cư xử như những người đánh cá. Ghi nhớ lời quở trách của Ngài, họ quay trở lại bờ sông Vaggumudā thuộc đất nước Vajjī, và tại đó họ quyết tâm sống những cuộc sống khiến họ được Đức Phật ngợi khen. Trong mùa an cư kiết hạ, tất cả họ đều nỗ lực và chứng quả *Arahant*. Một thời gian sau, trong một chuyến hành trình, Đức Phật đã đến thăm Vesālī và yêu cầu Ānanda cho người gọi Yasoja và những người bạn của ngài vì Ngài mong muốn được gặp họ. Ānanda đã gửi một thông điệp. Khi các tỳ-kheo đến nơi, họ thấy Đức Phật đang đắm mình trong thiền định, và họ cũng ngồi xuống và đi vào *samādhi* (định), duy trì trạng thái đó suốt đêm. Ānanda không thể hiểu tại sao Đức Phật, sau khi đã cho gọi Yasoja và những người bạn của ngài, lại đắm chìm vào *samādhi* mà không chào hỏi họ, và ba lần trong đêm, ngài đã cố gắng nhắc Đức Phật về sự xuất hiện của họ; nhưng Đức Phật phớt lờ những lời nhắc nhở của ngài và vào buổi sáng đã giải thích cho ngài rằng sống trong niềm hỷ lạc của *samādhi* mang lại nhiều niềm vui hơn cho tất cả họ thay vì chỉ đắm chìm vào những cuộc trò chuyện đơn thuần. Có nói trong Ud­a.185 rằng Đức Phật đã qua đêm trong *samādhi* để cho Yasoja và những người bạn của ngài thấy rằng Ngài coi họ như những người ngang hàng.
+
+Người ta kể (Thag­a.i.357) rằng khi Yasoja và những người khác đến thăm Đức Phật tại Vesālī, họ trông rất gầy gò và tiều tụy do những khổ hạnh của họ. Đức Phật đã khen ngợi sự xả kỷ của họ bằng một bài kệ, và Yasoja, cảm kích trước lời ngợi khen của Đức Phật, đã thốt ra hai bài kệ khác, đề cao tình yêu sự tĩnh lặng (Thag.243-5).
+
+Vào thời Vipassī Buddha Yasoja thuộc một gia đình của những người giữ công viên (*ārāmagopakā*), và một ngày nọ, khi nhìn thấy Đức Phật du hành xuyên qua không trung, ngài đã dâng cúng cho Ngài một trái *labuja* (Thag­a.i.356). Vào thời Kassapa Buddha, Yasoja là thủ lĩnh của một toán cướp gồm năm trăm người. Chúng bị dân làng truy đuổi và đã chạy trốn vào rừng để tìm kiếm sự an toàn. Ở đó, chúng nhìn thấy một vị tỳ-kheo đang ngồi trên một tảng đá và cầu xin ông bảo vệ. Ông khuyên chúng thọ năm giới, và khi chúng đã làm như vậy, ông khuyên chúng đừng bao giờ vi phạm những giới luật này ngay cả khi việc giữ giới đồng nghĩa với việc mất mạng. Ngay sau đó, chúng bị bắt và bị giết. Nhưng nhờ nhớ lời khuyên của vị tỳ-kheo vào thời điểm hấp hối, chúng không ôm lòng thù hận với bất kỳ ai, và sau khi chết đã được tái sinh vào cõi *Deva* (Ud­a.179f).
+
+Vinaya kể lại rằng có lần, khi Yasoja bị ốm, người ta đã mang thuốc đến cho ngài sử dụng, nhưng vì Đức Phật đã cấm việc sử dụng một nơi đặc biệt để cất giữ những vật dụng như vậy (*kappiyabhūmi*), nên chúng bị để ngoài trời và một phần bị sâu bọ ăn mất, phần còn lại bị bọn cướp lấy đi (Vin.i.239). Khi vấn đề được báo cáo lên Đức Phật, Ngài đã cho phép sử dụng một *kappiyabhūmi* được lựa chọn hợp lý. Các bài kệ Apadāna được quy cho Yasoja trong Theragāthā, trong chính Apadāna, được tìm thấy ở hai chỗ: một phần dưới bài Labujadāyaka (Ap.ii.409) và phần còn lại, với một vài thay đổi nhỏ, dưới bài Labujaphaladāyaka. Ap.i.295.
 
 ## Notes

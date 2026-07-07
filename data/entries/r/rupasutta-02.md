@@ -5,7 +5,7 @@ base_headword: "Rūpasutta"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Rūpasutta 02. He who realizes the impermanence of the body and the other *khand
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rūpasutta 02. Người nhận ra sự vô thường của thân và các uẩn khác sẽ trở thành một *Sotāpanna*. SN.iii.225.
 
 ## Notes

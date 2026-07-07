@@ -5,7 +5,7 @@ base_headword: "Kāsika"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -25,6 +25,6 @@ Kāsika. The name of a tribe; probably the inhabitants of <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāsika. Tên của một bộ tộc; có lẽ là những cư dân của Kāsi. Ap.ii.359.
 
 ## Notes

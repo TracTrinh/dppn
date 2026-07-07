@@ -5,7 +5,7 @@ base_headword: "Kālussa"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -26,6 +26,6 @@ Kālussa. A village given by <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kālussa. Một ngôi làng được Udaya I trao tặng cho Nīlārāma (Cv.xlix.16).
 
 ## Notes

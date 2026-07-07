@@ -5,7 +5,7 @@ base_headword: "Lokissara"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -26,6 +26,6 @@ Lokissara. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lokissara. Một thủ lĩnh người Damiḷa đến từ Ấn Độ với một vết thương do giáo đâm trên vai. Ông đã đánh bại Līlāvatī ở Tích Lan và trị vì ở đó trong chín tháng (1210-11 CE.), cho đến khi ông bị đánh bại bởi vị tướng quân Parakkama. Cv.lxxx.47f.
 
 ## Notes

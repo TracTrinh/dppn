@@ -5,7 +5,7 @@ base_headword: "Uttara"
 disambiguator: "03"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uttara 03. A *Devaputta* who visits the Buddha at the <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttara 03. Một vị thiên tử (Devaputta) đã đến thăm Đức Phật tại Añjanavana ở Sāketa. Vị này thốt lên một bài kệ, và Đức Phật, trong một bài kệ khác, đã làm rõ thêm những gì vị này đã nói. SN.i.54.
 
 ## Notes

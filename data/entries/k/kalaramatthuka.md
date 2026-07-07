@@ -5,7 +5,7 @@ base_headword: "Kaḷāramatthuka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -35,6 +35,6 @@ Kaḷāramatthuka *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaḷāramatthuka *v.l.* Kandaramasuka, Kalāra, Kaḷāramatthaka. Một nam du sĩ lõa thể ở Vesālī, được những người Vajjian vô cùng kính trọng. Ông ta đã thực hiện bảy lời thệ nguyện: không mặc y phục, sống độc thân, chỉ nuôi sống bản thân bằng các thức uống có cồn và thịt, không ăn cơm hay cháo, không bao giờ đi quá đền thờ Udena, đền thờ Gotamaka, đền thờ Sattamba, và đền thờ Bahuputta. Có lần Sunakkhatta đã đến thăm ông ta và hỏi ông ta những câu hỏi, nhưng Kaḷāramatthuka đã không muốn nghe, và đã tỏ thái độ bực bội khi bị tra hỏi. Khi Sunakkhatta kể lại chuyện này cho Đức Phật, Đức Phật đã tiên đoán rằng vị du sĩ này, không lâu nữa, sẽ mặc y phục, sẽ kết hôn, sẽ ăn cơm và cháo, sẽ đi quá những giới hạn mà cho đến nay ông ta vẫn luôn tuân thủ, và sẽ bị sụp đổ danh tiếng. Và điều đó đã xảy ra (DN.iii.9ff).
 
 ## Notes

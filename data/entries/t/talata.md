@@ -5,7 +5,7 @@ base_headword: "Talatā"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -38,6 +38,10 @@ She had a son by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Talatā, Talatādevī. Mẹ của Cūḷanī Brahmadatta, vua xứ Pañcāla, phu quân của bà là Mahā Cūḷanī.
+
+Bà là một người phụ nữ vô cùng thông thái, thông tuệ hơn cả mười nhà hiền triết trong triều đình. Có một câu chuyện được kể lại về việc làm thế nào, bằng sự khôn ngoan của mình, bà đã xoay xở để dành được một phần thưởng xứng đáng cho một người đàn ông đã liều mình cứu một người khác khỏi chết đuối (Ja.vi.398). Chúng ta được biết rằng, khi con trai bà vẫn còn nhỏ, bà đã ngoại tình với vị tư tế Chambhī, hạ độc phu quân mình, và đưa vị tư tế lên làm vua. Về sau, Chambhī muốn giết Cūḷanī, nhưng Talatā đã cứu mạng ông bằng cách gửi ông cho người đầu bếp hoàng gia (Ja.vi.471f).
+
+Bà có một người con trai với Chambī, tên là Tikhiṇamantī (Ja.vi.474). Bà được nhận diện là Cūḷa Nandikā (Ja.vi.478).
 
 ## Notes

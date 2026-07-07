@@ -5,7 +5,7 @@ base_headword: "Yamaka"
 disambiguator: "03"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -25,6 +25,6 @@ Yamaka 03. A man belonging to the retinue of King <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yamaka 03. Một người đàn ông thuộc đoàn tùy tùng của Vua Eḷeyya. Ông là một người theo Uddaka Rāmaputta. AN.ii.180; AN­a.ii.554.
 
 ## Notes

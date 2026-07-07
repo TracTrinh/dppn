@@ -5,7 +5,7 @@ base_headword: "Kāsika"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -28,6 +28,6 @@ Kāsika. A city. Sixty-five *kappas* ago the Thera <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāsika. Một thành phố. Sáu mươi lăm *kappa* trước vị Thera Bodhighariya đã sống ở đó với tư cách là một Cakkavatti. Thành phố được xây dựng bởi Vissakamma và có chiều dài mười do-tuần và chiều rộng tám do-tuần. Nó được xây dựng hoàn toàn bằng những kim loại quý. Cung điện của nhà vua được gọi là Maṅgala. Ap.ii.401.
 
 ## Notes

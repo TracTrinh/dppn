@@ -5,7 +5,7 @@ base_headword: "Vaḍḍhamātā Therī"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vaḍḍhamātā Therī. An *Arahant*, mother of <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaḍḍhamātā Therī. Một Arahant, mẹ của Vaḍḍha Trưởng lão. Sau khi sinh Vaḍḍha, bà nghe một tỳ-kheo thuyết pháp, gia nhập Tăng đoàn và trở thành Arahant. Bà quở trách Vaḍḍha khi ông đến thăm bà một mình và không mặc y, và sau đó, khi ông hỏi xin lời khuyên, bà đã chỉ dạy và khích lệ ông. Sau đó Vaḍḍha phát triển tuệ quán và trở thành Arahant. Thīg­a.171f.; cuộc đối thoại của bà với Vaḍḍha và lời tuyên bố của ông trước bà sau khi trở thành Arahant được ghi trong Thīg.vs.204-12.
 
 ## Notes

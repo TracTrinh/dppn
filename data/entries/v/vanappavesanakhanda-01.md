@@ -5,7 +5,7 @@ base_headword: "Vanappavesanakhaṇḍa"
 disambiguator: "01"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -28,6 +28,6 @@ Vanappavesanakhaṇḍa 01. The third section of the <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vanappavesanakhaṇḍa 01. Phần thứ ba của Bhūridattajātaka, kể về sự trở về của Alambāyana và Somadatta từ thế giới Nāga và việc họ đi vào rừng để kiếm kế sinh nhai. Ja.vi.170-7.
 
 ## Notes

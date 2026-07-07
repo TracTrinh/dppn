@@ -5,7 +5,7 @@ base_headword: "Mahā Pariveṇa"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -31,6 +31,6 @@ Mahā Pariveṇa. A building attached to the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Pariveṇa. Một tòa nhà trực thuộc *vihāra* Jetavana tại Anurādhapura (Cv.l.67). Aggabodhi I đã xây dựng *vihāra* Bhinnorudīpa và ban tặng nó, cùng với những khoản tài trợ, cho một vị trụ trì của Mahā Pariveṇa (Cv.xlii.26) trong khi Aggabodhi VII đã mở rộng *pariveṇa* bằng cách thêm vào một *pāsāda* (Cv.xlviii.65). Nó về sau đã bị thiêu rụi bởi hỏa hoạn và được xây dựng lại bởi Sena I. (Cv.l.67).
 
 ## Notes

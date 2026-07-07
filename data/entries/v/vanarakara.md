@@ -5,7 +5,7 @@ base_headword: "Vānarākara"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vānarākara. A park in Ceylon, laid out by <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vānarākara. Một khu công viên ở Tích Lan (Ceylon), do Parakkamabāhu I thiết kế. Cv.lxxix.8.
 
 ## Notes

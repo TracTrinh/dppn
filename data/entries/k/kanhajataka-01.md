@@ -5,7 +5,7 @@ base_headword: "Kaṇhajātaka"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -34,6 +34,10 @@ The story is also given in the <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇhajātaka 01. (Ja 29). Câu chuyện về Ayyakālaka (*xem bài này*). Câu chuyện được Đức Phật kể cho các tỳ-kheo, những người đã bày tỏ sự kinh ngạc lớn trước những phép lạ mà ngài đã thực hiện tại Saṅkassa. Không phải chỉ trong lần giáng sinh cuối cùng ngài mới thực hiện những phép lạ.
+
+Bà lão trong câu chuyện được đồng nhất với Uppalavaṇṇā (Ja.i.193ff).
+
+Câu chuyện cũng được đưa ra trong Bản chú giải Aṅguttara (i.415), với một vài chi tiết bổ sung. Bản chú giải Dhammapada (Dhp-a.iii.213) gọi nó là Kaṇha-usabhajātaka.
 
 ## Notes

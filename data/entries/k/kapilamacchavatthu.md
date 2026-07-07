@@ -5,7 +5,7 @@ base_headword: "Kapilamacchavatthu"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -24,6 +24,6 @@ Kapilamacchavatthu. The story of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kapilamacchavatthu. Câu chuyện về Kapilamaccha. Dhp­a.iv.37ff.
 
 ## Notes

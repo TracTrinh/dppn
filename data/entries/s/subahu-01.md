@@ -5,7 +5,7 @@ base_headword: "Subāhu"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -28,6 +28,6 @@ Subāhu 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subāhu 01. Subāhu Thera. Ngài là con trai của một gia đình *seṭṭhi* ở Benares, và là bạn của Yasa. Khi Yasa và những người bạn đồng hành gia nhập Tăng đoàn, Subāhu đã noi gương vị ấy, và tất cả họ đều trở thành những bậc *Arahant*. Vin.i.19f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Maṅgala"
 disambiguator: "06"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Maṅgala 06. A locality in South India mentioned in the account of the campaign
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṅgala 06. Một địa danh ở miền Nam Ấn Độ được đề cập trong các ghi chép về các chiến dịch của Parakkamabāhu. Cv.lxxvi.297.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vibhaṅgasutta"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vibhaṅgasutta 02. An analysis of the Ariyan Eightfold Path. SN.v.12.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vibhaṅgasutta 02. Một sự phân tích về Bát Thánh đạo (Ariyan Eightfold Path). SN.v.12.
 
 ## Notes

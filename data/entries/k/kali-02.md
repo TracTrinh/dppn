@@ -5,7 +5,7 @@ base_headword: "Kāḷī"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -44,6 +44,12 @@ A conversation between her and <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷī 02. được gọi là Kāḷī Kururagharikā. Bà được miêu tả trong số các nữ cư sĩ là người đệ nhất trong số những người có niềm tin ngay cả khi chỉ nghe nói đến (*anussavappasannānaṁ*) (AN.i.26).
+
+Bà là mẹ của Soṇa Kuṭikaṇṇa, và chồng bà thuộc về Kururaghara ở Avanti. Khi đang mang thai, bà đến thăm cha mẹ mình ở Rājagaha, và tại đó, trong lúc đang tận hưởng làn gió mát trên ban công phía trên mái nhà (*sīhapañjare*), bà đã tình cờ nghe được cuộc trò chuyện diễn ra giữa Sātāgira và Hemavata về những ân đức của Đức Phật và về giáo pháp của Ngài; khi bà lắng nghe, niềm tin vào Đức Phật lớn dần trong bà và bà đã trở thành một *Sotāpanna*. Ngay đêm đó Soṇa chào đời. Về sau, Kāḷī quay trở lại Kururaghara và ở đó đã hầu hạ Mahā Kaccāna. Khi Soṇa gia nhập Tăng đoàn dưới sự tế độ của Kaccāna và đến thăm Đức Phật, bà đã đưa cho tôn giả một tấm thảm trải đắt tiền để trải trong phòng của Đức Phật. Khi Soṇa trở về nhà sau chuyến đi này, Kāḷī đã yêu cầu tôn giả thuyết pháp cho bà theo cùng cách mà tôn giả đã thuyết giảng cho Đức Phật trước đó, và đã giành được lời khen ngợi của chính Đức Phật và của chư thiên trong mười ngàn thế giới.
+
+Kāḷī được coi là người thâm niên nhất trong số những phụ nữ đã trở thành các *Sotāpanna* (*sabbamātugāmānaṁ antare paṭhamakasotāpannā sabbajeṭṭhikā*) (AN­a.i.133ff; Snp-a.i.208f). Bà là người bạn đồng hành thường xuyên và là người bạn kiên trung của Kātiyānī (AN­a.i.245). Mong ước của Kāḷī muốn đạt được vị trí lỗi lạc mà bà đã đạt đến trong kiếp này đã được thực hiện vào thời của Padumuttara Buddha khi bà nghe một nữ cư sĩ được tuyên bố là đệ nhất trong số những người đã phát sinh niềm tin nhờ nghe nói đến (AN­a.i.247).
+
+Một cuộc trò chuyện giữa bà và Mahā Kaccāna được thuật lại trong Kāḷīsutta (xem ở mục từ tương ứng).
 
 ## Notes

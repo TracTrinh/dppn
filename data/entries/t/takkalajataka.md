@@ -5,7 +5,7 @@ base_headword: "Takkaḷajātaka"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,8 @@ The story was related to a man who had looked after his father; but the wife, wh
 
 ## Vietnamese translation
 
-Chưa dịch.
+Takkaḷajātaka (Ja 446). Thuở nọ trong một ngôi làng có một người tên là Vasiṭṭhaka, một người con một, hết lòng hiếu thảo chăm sóc cha mình, cho đến khi người cha, trái với mong muốn của anh, tìm cho anh một người vợ. Cặp vợ chồng sinh được một đứa con trai và, khi đứa bé lên bảy tuổi, nó nghe lỏm mẹ mình lên kế hoạch dùng mưu mẹo đưa ông lão ra nghĩa trang rồi giết và chôn ông trong một cái hố. Sáng hôm sau, khi người cha khởi hành ra nghĩa trang trên một chiếc xe đẩy, đứa trẻ nằng nặc đòi đi theo. Nhìn cha đào một cái hố, nó hỏi hố này để làm gì, và được cho biết rằng ông lão vô dụng là một gánh nặng phải nuôi dưỡng và cái hố đó là dành cho ông lão. Cậu bé im lặng, và khi cha cậu dừng tay để nghỉ ngơi, cậu cầm lấy cái cuốc và bắt đầu đào một cái hố khác. Khi bị hỏi lý do, cậu đáp rằng hố này dành cho cha cậu khi ông trở nên quá già không ai nuôi dưỡng nổi. Lời bình phẩm này đã làm sáng mắt Vasiṭṭhaka; anh trở về nhà và đuổi người vợ đi. Sau đó, anh đón cô trở lại khi cô hứa sẽ từ bỏ thói lừa lọc của mình.
+
+Câu chuyện này được kể cho một người đàn ông đã luôn chăm sóc cha mình; nhưng người vợ, mà anh cưới theo ý nguyện của cha anh, muốn loại bỏ ông cụ, và cô ta đã gợi ý điều đó với chồng mình. Nhưng câu trả lời của anh là nếu cô cảm thấy căn nhà này không còn chỗ trống thì cô có thể đi nơi khác. Đức Phật nói rằng các nhân vật của cả hai câu chuyện là đồng nhất, và bản thân ngài là chàng thanh niên trong *atītavatthu* (câu chuyện tiền thân). Ja.iv.43-50.
 
 ## Notes

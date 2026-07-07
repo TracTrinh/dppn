@@ -5,7 +5,7 @@ base_headword: "Lokappadīpakasāra"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -25,6 +25,6 @@ Lokappadīpakasāra. A religious treatise of the fourteenth century by <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lokappadīpakasāra. Một luận thư tôn giáo thế kỷ mười bốn của Medhaṅkara, *Saṅgharāja* của Myanmar. Bode, 35f.
 
 ## Notes

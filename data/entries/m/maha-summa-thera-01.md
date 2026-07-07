@@ -5,7 +5,7 @@ base_headword: "Mahā Summa Thera"
 disambiguator: "01"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -26,6 +26,6 @@ Mahā Summa Thera 01. An incumbent of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Summa Thera 01. Vị trú trì của tu viện Koṭapabbata. Cha của Theraputtābhaya là người hộ độ của ngài và đã được ngài truyền giới xuất gia. Mhv.xxiii.60f.
 
 ## Notes

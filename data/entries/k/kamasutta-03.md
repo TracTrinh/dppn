@@ -5,7 +5,7 @@ base_headword: "Kāmasutta"
 disambiguator: "03"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -25,6 +25,6 @@ Kāmasutta 03. or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāmasutta 03. hoặc Kāmaguṇasutta. Về năm loại dục lạc. AN.iv.458; SN.v.60.
 
 ## Notes

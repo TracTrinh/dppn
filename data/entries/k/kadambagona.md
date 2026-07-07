@@ -5,7 +5,7 @@ base_headword: "Kadambagona"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kadambagona. A *vihāra* built by <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kadambagona. Một *vihāra* do Aggabodhi V. xây dựng ở Mahā Thala, và có lẽ đã được dâng cúng cho các Paṁsukūlī. Cv.xlviii.3; Cv.Trs.i.110, n.1.
 
 ## Notes

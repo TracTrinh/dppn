@@ -5,7 +5,7 @@ base_headword: "Kaccānī"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kaccānī 01. The old woman whose story is related in the story of the past in t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaccānī 01. Bà lão mà câu chuyện của bà được kể lại trong câu chuyện quá khứ ở Kaccānijātaka (Ja 417).
 
 ## Notes

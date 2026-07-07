@@ -5,7 +5,7 @@ base_headword: "Kaccāyanavyākaraṇa"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -38,6 +38,8 @@ Kaccāyanavyākaraṇa. A treatise on Pāli grammar by <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaccāyanavyākaraṇa. Một luận thư về ngữ pháp Pāli của Kaccāyana. Luận thư gồm tám phần, mỗi phần bao gồm các *Sutta* hoặc quy tắc, được diễn đạt rất ngắn gọn; *vutti* hoặc phần bổ sung, để làm cho các *Sutta* có thể hiểu được; *payoga* hoặc các phân tích ngữ pháp, cùng với các ví dụ, và *nyāsa* hoặc các chú giải phụ, là các ghi chú giải thích về các hình thức ngữ pháp chính dưới dạng câu hỏi và câu trả lời. Phần *nyāsa* thường tồn tại như một cuốn sách riêng biệt, được gọi là Mukhamattadīpanī. Truyền thống chính thống quy toàn bộ tác phẩm này cho Mahā Kaccāna, nhưng một truyền thống khác, được ghi lại trong Kaccāyanabheda, nói rằng các câu châm ngôn là của Kaccāyana, phần *vutti* là của Saṅghānandī, các ví dụ minh họa là của Brahmadatta và phần *nyāsa* là của Vimalabuddhi – tất cả có lẽ cùng thuộc về trường phái Avanti (xem ở trên, Kaccāna).
+
+Tác phẩm của Kaccāyana cho thấy rõ ràng sự ảnh hưởng của ngữ pháp Sanskrit, chủ yếu là *Kātantra*. Nhiều tác phẩm sau này đã được viết về Kaccāyana (được gọi như vậy) hoặc dựa trên nó, các tác phẩm chính trong số đó là Rūpasiddhi, Kaccāyanabheda, Kaccāyanasāra và Kaccāyanavaṇṇanā (*q.v.*). Về chi tiết, xem PLC.179ff; Bode, 21.
 
 ## Notes

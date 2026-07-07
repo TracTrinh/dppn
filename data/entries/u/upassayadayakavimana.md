@@ -5,7 +5,7 @@ base_headword: "Upassayadāyakavimāna"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -25,6 +25,6 @@ Upassayadāyakavimāna. The abode of a pious man who was born in <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upassayadāyakavimāna. Chỗ ở của một người đàn ông mộ đạo người đã sinh ra ở Tāvatiṁsa như là kết quả của việc dâng chỗ nghỉ qua đêm cho một tỳ-kheo thánh thiện. *Vimāna* đó bằng vàng và cao mười hai *yojana*. Vv.64; Vv-a.291f.
 
 ## Notes

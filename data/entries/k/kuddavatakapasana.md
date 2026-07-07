@@ -5,7 +5,7 @@ base_headword: "Kuḍḍavāṭakapāsāṇa"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kuḍḍavāṭakapāsāṇa. A rock in <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kuḍḍavāṭakapāsāṇa. Một tảng đá ở Pāsāṇatittha (*xem mục này*).
 
 ## Notes

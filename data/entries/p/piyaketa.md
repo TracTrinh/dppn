@@ -5,7 +5,7 @@ base_headword: "Piyaketa"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -24,6 +24,6 @@ Piyaketa. One of the three palaces of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piyaketa. Một trong ba cung điện của Vidhurapaṇḍita. Ja.vi.289.
 
 ## Notes

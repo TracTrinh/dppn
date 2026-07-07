@@ -5,7 +5,7 @@ base_headword: "Pāricchattaka"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -38,6 +38,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="16" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāricchattaka. Một cái cây ở Tāvatiṁsa, mọc lên trong Nandanavana như là kết quả từ cây Kovilāra do Magha trồng bên ngoài Sudhammāsālā. Nó có chu vi một trăm do-tuần và dưới gốc cây là Paṇḍukambalasilāsana (Dhp­a.i.273). Cây Cittapāṭalī trong cõi thế giới Asura tương ứng với cây Pāricchattaka ở Tāvatiṁsa, nhưng hoa thì khác nhau (Sđd., 280; Snp­a.485). Màu sắc của hoa có thể nhìn thấy được từ cách xa năm mươi do-tuần, trong khi hương thơm của chúng bay xa một trăm do-tuần. Chư thiên háo hức theo dõi từng giai đoạn phát triển của lá và hoa, và mỗi giai đoạn đều được đánh dấu bằng những lễ hội vui mừng lớn lao (AN.iv.117f). Khi những bông hoa nở rộ, chúng tỏa sáng như mặt trời buổi sáng. Chúng không bao giờ bị hái; một cơn gió nổi lên cuốn đi những bông hoa đã tàn và rải những bông hoa tươi mới lên chỗ ngồi của Sakka và các vị thần khác của Tāvatiṁsa. Cơ thể của chư thiên được bao phủ hoàn toàn bằng phấn hoa tỏa hương thơm ngọt ngào, khiến họ trông giống như những chiếc tráp vàng. Nghi lễ đùa nghịch với những bông hoa kéo dài trong bốn tháng (AN­a.ii.730f). Cây Pāricchattaka là một trong bảy cái cây tồn tại trong suốt cả một kappa (*kappa*) (AN­a.i.264).
+
+Cây Pāricchattaka thường được mô tả như một cây Kovilāra (ví dụ, Vv-a.174). Nó cũng được gọi là Pārijāta, tên tiếng Phạn là Pāriyātra, ví dụ, Divy.184, 195, 219.
 
 ## Notes

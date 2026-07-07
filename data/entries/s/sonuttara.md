@@ -5,7 +5,7 @@ base_headword: "Sonuttara"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Sonuttara. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sonuttara. Devadatta sinh ra làm một người thợ săn. Xem Chaddantajātaka (Ja 514).
 
 ## Notes

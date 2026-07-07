@@ -5,7 +5,7 @@ base_headword: "Malayappa"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Malayappa. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Malayappa. Một thủ lĩnh Damiḷa, đồng minh của Kulasekhara. Cv.lxxvii.18, 55, 91; Mhv­ṭ. 593.
 
 ## Notes

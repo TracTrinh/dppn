@@ -5,7 +5,7 @@ base_headword: "Rucakaviṭṭhi"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Rucakaviṭṭhi. A village in Ceylon; near it was a large monastery. Ras.ii.148
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rucakaviṭṭhi. Một ngôi làng ở Tích Lan; gần đó có một tu viện lớn. Ras.ii.148, 151
 
 ## Notes

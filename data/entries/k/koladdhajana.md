@@ -5,7 +5,7 @@ base_headword: "Koladdhajana"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -24,6 +24,6 @@ Koladdhajana. An ancient work, a Commentary (probably in Sanskrit?); it was writ
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koladdhajana. Một tác phẩm cổ, một bản Chú giải (có lẽ bằng tiếng Phạn?); nó được viết bởi một vị đại thần nào đó theo yêu cầu của Trưởng lão Pāsādika (Gv., p.63, 73).
 
 ## Notes

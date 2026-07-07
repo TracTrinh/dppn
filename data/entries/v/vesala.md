@@ -5,7 +5,7 @@ base_headword: "Vesālā"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/066.html"
@@ -27,6 +27,6 @@ Vesālā. The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vesālā. Những người Nāga của Vesālī, những người đã có mặt tại buổi thuyết giảng kinh Mahā Samayasutta. DN.ii.258; DN­a.ii.688.
 
 ## Notes

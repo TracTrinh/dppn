@@ -5,7 +5,7 @@ base_headword: "Somadattajātaka"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -27,6 +27,6 @@ Somadattajātaka 01. (Ja 211). The story of the Bodhisatta when he was born as t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Somadattajātaka 01. (Ja 211). Câu chuyện về Bodhisatta khi ngài sinh làm con trai của Aggidatta. Chi tiết xem Aggidatta (Ja.ii.164-7). Câu chuyện được kể liên quan đến Lāḷudāyi, người được đồng nhất với Aggidatta, và được lặp lại trong Dhammapada Commentary, Dhp­a.iii.123ff.
 
 ## Notes

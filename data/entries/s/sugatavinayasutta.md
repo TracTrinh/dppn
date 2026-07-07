@@ -5,7 +5,7 @@ base_headword: "Sugatavinayasutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sugatavinayasutta. The benefits which accrue to the world through a <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sugatavinayasutta. Những lợi ích mang lại cho thế gian thông qua một Tathāgata và Vinaya của ngài cùng bốn điều dẫn đến sự rối loạn của Saddhamma. AN.ii.147f.
 
 ## Notes

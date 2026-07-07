@@ -5,7 +5,7 @@ base_headword: "Paṭilābhasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Paṭilābhasutta. A description of the five *indriyas*. SN.v.199f.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṭilābhasutta. Một mô tả về năm *indriya*. SN.v.199f.
 
 ## Notes

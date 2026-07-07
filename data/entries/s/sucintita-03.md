@@ -5,7 +5,7 @@ base_headword: "Sucintita"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sucintita 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sucintita 03. Sucintita Thera. Một vị *Arahant*. Ngài là một nông dân ở Haṁsavatī trong thời của Padumuttara Buddha và đã cúng dường những trái cây đầu mùa từ ruộng của mình cho Đức Phật và các tỳ-kheo của ngài. Ap.ii.385f.
 
 ## Notes

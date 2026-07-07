@@ -5,7 +5,7 @@ base_headword: "Kakudha"
 disambiguator: "05"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kakudha 05. A bird in the time of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kakudha 05. Một con chim vào thời Đức Phật Padumuttara và là một kiếp trước của Trưởng lão Malitavambha. Con chim này đã dâng cúng cho Đức Phật một bông sen. Thag­a.i.211; Ap.i.180.
 
 ## Notes

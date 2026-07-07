@@ -5,7 +5,7 @@ base_headword: "Takkarā"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Takkarā. A city in the time of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Takkarā. Một thành phố thời Sumana Buddha. Thag­a.i.303; Ap.ii.416.
 
 ## Notes

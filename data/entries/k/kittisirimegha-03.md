@@ -5,7 +5,7 @@ base_headword: "Kittisirimegha"
 disambiguator: "03"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -28,6 +28,6 @@ Kittisirimegha 03. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kittisirimegha 03. Con trai của Māṇābharaṇa với người vợ thứ hai của ông là Pabhāvatī. Ông nội của ông là Sirivallabha (Cv.lxiv.24). Cha của ông, trên giường bệnh, đã ăn năn về những tác hại mà ông ta đã gây ra cho tôn giáo của Đức Phật và yêu cầu con trai mình chuộc lỗi bằng cách gia nhập cùng Parakkamabāhu I. Người sau, khi nghe được điều này, đã cho gọi Kittisirimegha và biến ông thành một thành viên trong triều đình của ngài (Cv.lxxii.303, 311).
 
 ## Notes

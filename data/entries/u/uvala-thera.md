@@ -5,7 +5,7 @@ base_headword: "Uvāḷa Thera"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -25,6 +25,6 @@ Uvāḷa Thera (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uvāḷa Thera (*v.l.* Upavāla Thera). Ông bị Tăng đoàn thẩm tra liên quan đến một lỗi phạm mà ông đã phạm. Lúc đầu ông phủ nhận, sau đó thú nhận, rồi lại phủ nhận, và đưa ra các phản tố cáo và nói dối trong khi biết chúng là dối trá. Đức Phật yêu cầu các vị tỳ-kheo thực hiện *tassa-pāpiyyasikā-kamma* đối với ông. Vin.ii.85f; trong đó các chi tiết của thủ tục cũng được nêu.
 
 ## Notes

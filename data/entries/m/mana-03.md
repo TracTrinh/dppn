@@ -5,7 +5,7 @@ base_headword: "Māna"
 disambiguator: "03"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -36,6 +36,6 @@ Māna 03. (also called <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māna 03. (còn gọi là Māṇavamma). Ông là cháu của Kassapa II. và là con trai của Dappula I. Kassapa đã trao vương quốc cho ông trước khi qua đời, vì con cái của ông còn quá nhỏ. Khi Kassapa mất, người Damiḷas tấn công Tích Lan, nhưng Māna, với sự trợ giúp của cha mình, đã đẩy lui họ và tôn cha lên ngôi vua. Khi Hatthadāṭha nghe tin này, ông ta kéo quân lớn đến và chiếm ngôi dưới danh hiệu Dāṭhopatissa II. Māna lui về Tỉnh Phía Đông, còn Dappula trở về Rohaṇa. Sau đó, Māna dẫn quân nổi dậy chống lại Dāṭhopatissa và bị tử trận (Cv.xlv.1ff.; 52, 77ff). Mẹ của ông là chị của Kassapa II. và là con gái của vua Silāmeghavaṇṇa. Cv.Trs.i.94, n.1.
 
 ## Notes

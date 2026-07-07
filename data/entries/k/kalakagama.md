@@ -5,7 +5,7 @@ base_headword: "Kāḷakagāma"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -27,6 +27,6 @@ Kāḷakagāma. A village in Ceylon in which was the <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷakagāma. Một ngôi làng ở Tích Lan, trong đó có Maṇḍalārāma, nơi ở của Trưởng lão Mahā Soṇa (xem ở mục từ tương ứng). Vibh­a.448. Rõ ràng nó cũng chính là Kallagama (xem ở mục từ tương ứng).
 
 ## Notes

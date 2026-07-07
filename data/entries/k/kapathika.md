@@ -5,7 +5,7 @@ base_headword: "Kāpaṭhika"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -30,6 +30,6 @@ Kāpaṭhika (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāpaṭhika (*v.l.* Kāpaṭika). Một thanh niên Bà-la-môn, mười sáu tuổi, thông thạo kinh Veda, và cạo đầu. Anh ta "xuất thân từ một dòng dõi tốt, am hiểu, một người ăn nói lưu loát và một học giả có năng lực." Anh ta đã đến thăm Đức Phật tại Opasāda, nơi anh ta đã ngắt lời một cuộc trò chuyện mà Đức Phật đang trao đổi với một số Bà-la-môn lớn tuổi; họ đã quở trách anh ta vì ngắt lời những người lớn tuổi hơn mình, nhưng Caṅkī (*q.v.*), người tình cờ đến vào thời điểm đó, đã nói đỡ cho anh ta. Đức Phật, biết rằng Kāpaṭhika có những câu hỏi muốn hỏi ngài, đã cho anh ta một cơ hội để làm như vậy, và sau đó diễn ra một cuộc thảo luận về nhiều điểm khác nhau, được trình bày chi tiết trong Caṅkīsutta. Cuối cuộc thảo luận, chàng thanh niên tuyên bố mình là một đệ tử của Đức Phật (MN.ii.168ff). Trong *Sutta*, Đức Phật gọi Kāpaṭhika là Bhāradvāja, có lẽ vì anh ta thuộc về *gotta* đó.
 
 ## Notes

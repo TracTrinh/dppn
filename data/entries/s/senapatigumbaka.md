@@ -5,7 +5,7 @@ base_headword: "Senāpatigumbaka"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Senāpatigumbaka. The name given to the spot to which the general of <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Senāpatigumbaka. Tên gọi cho địa điểm mà vị tướng quân của các người chú của Paṇḍukābhaya đã chạy đến khi các vị này bị đánh bại. Mhv.x.71.
 
 ## Notes

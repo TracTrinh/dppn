@@ -5,7 +5,7 @@ base_headword: "Kaṇḍarijātaka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -35,6 +35,10 @@ The story was among those related by the bird <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇḍarijātaka (Ja 341). Kaṇḍari, một vị vua xứ Benares, rất khôi ngô; mỗi ngày ông nhận được một nghìn hộp hương liệu để sử dụng, và thức ăn của ông được nấu bằng gỗ thơm. Vợ của ông, Kiṇṇarā, rất xinh đẹp; vị tư tế của ông là Pañcālacaṇḍa. Một ngày nọ, Kiṇṇarā, khi nhìn ra ngoài, đã thấy một người tàn tật gớm ghiếc dưới bóng một cây *jambu* gần cửa sổ của cô, và nảy sinh nhục dục với người đàn ông này. Kể từ đó, cô sẽ đợi cho nhà vua ngủ say và sau đó, hằng đêm, đến thăm người tàn tật, mang cho hắn những thức ăn ngon lành và ân ái với hắn. Một ngày nọ nhà vua, khi trở về từ một đám rước, đã nhìn thấy sinh vật dị dạng đó, và hỏi vị tư tế liệu một người đàn ông như vậy có bao giờ giành được tình yêu của một người phụ nữ hay không. Người tàn tật, nghe thấy câu hỏi, đã tự hào khoe khoang về sự thân mật của mình với hoàng hậu. Theo gợi ý của vị tư tế, nhà vua đã theo dõi mọi động tĩnh của hoàng hậu trong cùng đêm đó, và chứng kiến người tàn tật nhục mạ cô và đánh cô vì tội đến muộn. Cú đánh giáng xuống tai cô làm gãy món đồ trang sức trên tai, thứ mà nhà vua đã nhặt lên.
+
+Ngày hôm sau ông ra lệnh cho hoàng hậu phải xuất hiện trước mặt ông với tất cả đồ trang sức của mình, và sau khi chứng minh rằng ông biết về sự không chung thủy của cô, ông đã giao cô cho vị tư tế để hành quyết. Pañcālacaṇḍa, thương hại người phụ nữ, đã cầu xin để cô được ân xá, bởi vì trong việc trở nên không đoan chính, cô chỉ tuân theo những bản năng chung của tất cả phụ nữ. Để chứng minh cho lập luận của mình, Pañcālacaṇḍa đã đưa nhà vua đi cùng mình và, trong lớp cải trang, họ đã đi lang thang khắp Jambudīpa, thử thách đức hạnh của nhiều phụ nữ khác nhau, bao gồm cả đức hạnh của một cô dâu trẻ đang được đưa đến nhà chồng. Tin chắc rằng tất cả phụ nữ đều giống nhau, nhà vua đã tha mạng cho Kiṇṇarā, nhưng đuổi cô ra khỏi cung điện cùng với người tàn tật, và sai người đốn hạ cây *jambu*.
+
+Câu chuyện nằm trong số những câu chuyện được con chim Kuṇāla kể cho người bạn Puṇṇamukha của mình, làm chứng cho sự không chung thủy của phụ nữ. Kuṇāla được đồng nhất với Pañcālacaṇḍa. Ja.v.437-40; Ja.iii.132.
 
 ## Notes

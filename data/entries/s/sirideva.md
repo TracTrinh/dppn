@@ -5,7 +5,7 @@ base_headword: "Sirideva"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sirideva. A minister of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirideva. Một vị quan của Duṭṭhagāmaṇī, người, cùng với Visākha, phụ trách việc sắp đặt Lễ Đặt Nền Móng của Mahā Thūpa. Mhv­ṭ. 517.
 
 ## Notes

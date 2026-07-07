@@ -5,7 +5,7 @@ base_headword: "Majjhantika Thera"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -36,6 +36,8 @@ This same Elder is referred to elsewhere as an example of one who practised *par
 
 ## Vietnamese translation
 
-Chưa dịch.
+Majjhantika Thera. Một vị Arahant. Ngài đã tụng kammavācā (hay hành sự Tăng sự) trong lễ thọ giới của Mahinda, người mà sau đó ngài đã truyền cho thọ giới upasampadā (Mhv.v.207; Vin-a.i.51; Dpv.vii.24). Về sau, khi kết thúc Kết tập lần thứ Ba, Majjhantika đã đi đến Kasmīra-Gandhāra với tư cách là một nhà truyền giáo. Tại đó, bằng thần thông iddhi vĩ đại của mình, ngài đã hàng phục vua loài Nāga là Aravāḷa và cảm hóa ông theo Đức tin, trong khi Paṇḍaka và vợ ông là Hāritā cùng năm trăm người con của họ đã trở thành Sotāpanna. Majjhantika đã thuyết bài kinh Āsīvisopamasutta cho quần chúng tụ tập và sau đó đã cho một trăm ngàn người xuất gia (Mhv.xii.3, 9ff.; Vin-a.i.64ff.; Dpv.viii.4; Mbv.113; đối với bản Tây Tạng xem Rockhill, sách đã dẫn, 167ff.). Bài giảng do Majjhantika thuyết được dẫn chiếu trong bản Chú giải cho Sarabhaṅgajātaka (Ja.v.142).
+
+Cùng vị Trưởng lão này được dẫn chiếu ở một chỗ khác như là một ví dụ về một người thực hành pariyatti appicchatā (Snp­a.ii.494; DN­a.iii.1061, nhưng ở AN­a.i.263 ngài được gọi là Majjhantika Tissa). Ngài là vị thủ lãnh của hội chúng Tỳ-kheo (saṅghathera). Vào ngày dâng cúng vihāra của vua Asoka, vị Trưởng lão đã là một khīṇāsava và cũng có mặt, nhưng bình bát và y của ngài thì cũ kỹ hầu như không đáng một đồng xu. Mọi người, khi thấy ngài ở đó, đã yêu cầu ngài nhường chỗ; nhưng ngài đã lặn xuống lòng đất, nổi lên để nhận lãnh đồ khất thực được ban cho người đứng đầu các Tỳ-kheo, ngài biết rằng chỉ có mình ngài mới xứng đáng nhận nó. Câu chuyện này được đưa ra tại AN­a.i.43; MN­a.i.350.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Uruvelapāṭihāriyabhāṇavāra"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -27,6 +27,6 @@ Uruvelapāṭihāriyabhāṇavāra. The twenty-first chapter of the first <span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uruvelapāṭihāriyabhāṇavāra. Chương thứ hai mươi mốt của phần Khandhaka đầu tiên thuộc Mahā Vagga trong Vinayapiṭaka.ZZ
 
 ## Notes

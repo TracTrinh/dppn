@@ -5,7 +5,7 @@ base_headword: "Velāmasutta"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,6 @@ Velāmasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Velāmasutta. Anāthapiṇḍika mất toàn bộ tài sản, và một ngày nọ than thở với Đức Phật rằng ông chỉ có khả năng dâng cúng cho các tỳ-kheo một hỗn hợp thô sơ gồm gạo tấm và cháo chua. Chất lượng của thức ăn không quan trọng, Đức Phật nói, mà chỉ có tâm của người cho, cho dù việc cho đi được thực hiện một cách tình cờ hay chu đáo và với lòng thành kính, và cho dù những người nhận có xứng đáng hay không. Sau đó ngài kể về những món quà to lớn được trao tặng bởi Velāma. Mặc dù những món quà rất to lớn, Velāma không thể tìm thấy những bậc thánh nhân nào làm người nhận. Sau đó, Đức Phật nói tiếp rằng điều cao quý hơn việc bố thí, hoặc thậm chí là xây dựng các tu viện, là việc nương tựa Tam bảo, giữ gìn giới luật, thực hành tâm từ, và quán chiếu sự vô thường, mỗi điều này đều cao quý hơn điều trước đó. (AN.iv.392ff.; *Sutta* này được nhắc đến tại Dhp­a.iii.11; Khp­a.222; DN­a.i.234 Vibh­a.414). Chính vào dịp này kinh Khadiraṅgārajātaka (Ja 40) đã được thuyết giảng.
 
 ## Notes

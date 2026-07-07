@@ -5,7 +5,7 @@ base_headword: "Veḷuka"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Veḷuka. A viper. See the <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Veḷuka. Một con rắn lục. Xem Veḷukajātaka (Ja 43).
 
 ## Notes

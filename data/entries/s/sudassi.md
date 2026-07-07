@@ -5,7 +5,7 @@ base_headword: "Sudassī"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sudassī. A *Brahma* world, one of the <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudassī. Một cõi Phạm thiên (*Brahma*), một trong những cõi Suddhāvāsā. Cư dân của cõi này rất thân thiện với cư dân của cõi Akaniṭṭhā. (DN.ii.52; MN.i.259; DN.iii.237; MN.iii.103; Khp­a.120; Vsm.473). Một số hạng *Anāgāmī* (Bất lai) đạt được *Parinibbāna* ở Sudassī. Paṭis-a.319.
 
 ## Notes

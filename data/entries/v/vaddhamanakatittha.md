@@ -5,7 +5,7 @@ base_headword: "Vaḍḍhamānakatittha"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -27,6 +27,6 @@ Vaḍḍhamānakatittha. A ford on the <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaḍḍhamānakatittha. Một bến đò trên sông Mahā Vālukanadī; về sau được gọi là Sahassatittha và Assamaṇḍalatittha. Ras.ii.61, 63.
 
 ## Notes

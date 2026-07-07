@@ -5,7 +5,7 @@ base_headword: "Lokavivaraṇa"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -35,6 +35,8 @@ It was performed by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lokavivaraṇa. Tên của một phép thần thông (*pāṭihāriya*). Nó cho phép tất cả chúng sinh, từ cõi Akaniṭṭhā ở trên cho đến Avīci ở dưới, có thể nhìn thấy nhau, bởi vì toàn bộ vũ trụ được chiếu sáng. Nó cũng được gọi là Lokappasādaka hoặc Lokappasādana (Bv­a.40; Mhv­ṭ. 226f. giới hạn nó chỉ trong thế giới này).
+
+Nó được thực hiện bởi Sāriputta để tôn vinh Gotama Buddha, trước khi thuyết giảng Buddhavaṁsa (Bv.i.47), và một lần nữa bởi các vị *Arahant*, dẫn đầu bởi Indagutta, để giúp cho Dhammāsoka nhìn thấy đồng thời các lễ kỷ niệm được tổ chức tại buổi lễ cúng dường tám mươi tư ngàn *vihāra* của ông. Mhv.v.188; Mhv­ṭ. 226f.
 
 ## Notes

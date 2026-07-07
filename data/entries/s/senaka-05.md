@@ -5,7 +5,7 @@ base_headword: "Senaka"
 disambiguator: "05"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Senaka 05. A monkey, born as the nephew of the Bodhisatta. See the <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Senaka 05. Một con khỉ, sinh làm cháu trai của Bodhisatta. Xem Tindukajātaka (Ja 177). Vị này được đồng nhất với Mahā Nāma người Sākyan. Ja.ii.79.
 
 ## Notes

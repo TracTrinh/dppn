@@ -5,7 +5,7 @@ base_headword: "Uposathavagga"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -24,6 +24,6 @@ Uposathavagga. The fifth chapter of the *Aṭṭhakanipāta* of the <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uposathavagga. Chương thứ năm của *Aṭṭhakanipāta* thuộc Aṅguttaranikāya, bao gồm các *Sutta* về *Uposatha*, trong số những thứ khác. AN.iv.248-73.
 
 ## Notes

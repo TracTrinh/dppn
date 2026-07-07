@@ -5,7 +5,7 @@ base_headword: "Sudassana"
 disambiguator: "28"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sudassana 28. Nephew of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudassana 28. Cháu trai của Pasenadi. Đức Phật đã dạy cho anh ta một bài kệ để đọc tụng mỗi khi Pasenadi ngồi xuống dùng bữa, nhằm giúp nhà vua có thể tuân thủ sự tiết độ trong ăn uống. Nhờ sự phục vụ này, Pasenadi đã trả cho anh ta một trăm *kahāpaṇa* mỗi ngày. SN.i.82; Dhp­a.iii.264f. Câu chuyện này cũng được kể ở Dhp­a.iv.15f., nhưng ở đó người cháu trai có tên là Uttara.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Valāhaka"
 disambiguator: "02"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Valāhaka 02. The name of the horse of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Valāhaka 02. Tên con ngựa của Mahā Sudassana. Con ngựa toàn thân trắng, với đầu đen như quạ và bờm sẫm màu. DN.ii.174; cp. SN.iii.145.
 
 ## Notes

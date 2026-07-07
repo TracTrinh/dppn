@@ -5,7 +5,7 @@ base_headword: "Sumanā"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sumanā 02. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumanā 02. Vợ của Sirivaḍḍhaka và là mẹ của Mahosadha. Ja.vi.331.
 
 ## Notes

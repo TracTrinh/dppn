@@ -5,7 +5,7 @@ base_headword: "Upaṭṭhānasutta"
 disambiguator: "03"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Upaṭṭhānasutta 03. On five qualities requisite for an attendant on the sick
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upaṭṭhānasutta 03. Về năm phẩm chất cần thiết đối với một người chăm sóc bệnh nhân. AN.iii.144-5.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Parisāsutta"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Parisāsutta 02. On the three companies: the company trained in bombast, the com
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parisāsutta 02. Về ba hội chúng: hội chúng được huấn luyện bằng những lời lẽ khoa trương, hội chúng được huấn luyện trong sự tìm tòi học hỏi, và hội chúng được huấn luyện theo khuynh hướng của nó. AN.i.285.
 
 ## Notes

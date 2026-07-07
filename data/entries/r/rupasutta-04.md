@@ -5,7 +5,7 @@ base_headword: "Rūpasutta"
 disambiguator: "04"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Rūpasutta 04. Desire and lust, which arise from forms, sounds, etc., are corrup
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rūpasutta 04. Dục và tham, khởi lên từ hình sắc, âm thanh, v.v., là sự cấu uế của tâm; việc từ bỏ chúng dẫn đến trí tuệ cao hơn. SN.iii.232.
 
 ## Notes

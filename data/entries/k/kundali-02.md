@@ -5,7 +5,7 @@ base_headword: "Kuṇḍalī"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kuṇḍalī 02. The name of the she­ass in the <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tên của con lừa cái trong Vātaggasindhavajātaka (*q.v.*). Ja.ii.338f.
 
 ## Notes

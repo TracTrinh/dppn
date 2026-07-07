@@ -5,7 +5,7 @@ base_headword: "Vidhātā"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vidhātā. Given as the name of a god to whom sacrifices should be offered as a 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vidhātā. Được đưa ra như là tên của một vị thần mà các tế lễ nên được hiến dâng như một phương tiện để đạt được hạnh phúc. Ja.vi.201.
 
 ## Notes

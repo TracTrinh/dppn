@@ -5,7 +5,7 @@ base_headword: "Vejayanta"
 disambiguator: "03"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vejayanta 03. The chief of the eighty-four thousand chariots owned by <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vejayanta 03. Cỗ xe chính trong tám vạn bốn ngàn cỗ xe thuộc sở hữu của Mahā Sudassana (SN.iii.145; DN.ii.187). Trục bánh xe được làm bằng ngọc bích, các căm xe bằng bảy loại đá quý, vành xe bằng san hô, trục xe bằng bạc, v.v. SN­a.ii.237.
 
 ## Notes

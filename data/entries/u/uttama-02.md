@@ -5,7 +5,7 @@ base_headword: "Uttama"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uttama 02. The name given to a *cetiya* connected with <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttama 02. Tên gọi được đặt cho một cetiya có liên quan đến Sikhī Buddha. Āsanatthavika Thera, trong một kiếp trước, đã tình cờ bắt gặp cetiya này khi đang lang thang trong rừng và đã đảnh lễ nó. Ap.i.255.
 
 ## Notes

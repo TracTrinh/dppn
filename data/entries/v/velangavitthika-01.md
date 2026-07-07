@@ -5,7 +5,7 @@ base_headword: "Velaṅgaviṭṭhika"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Velaṅgaviṭṭhika 01. A monastery built by <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Velaṅgaviṭṭhika 01. Một tu viện được xây dựng bởi Saddhatissa. Mhv.xxxiii.8.
 
 ## Notes

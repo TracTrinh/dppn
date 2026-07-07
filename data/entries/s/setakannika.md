@@ -5,7 +5,7 @@ base_headword: "Setakaṇṇika"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Setakaṇṇika. A village forming the southern boundary of <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Setakaṇṇika. Một làng hình thành ranh giới phía nam của Majjhimadesa. Vin.i.197; DN­a.i.173; Ja.i.49; Khp­a.133, v.v...; AN­a.i.55, 265; MN­a.i.397.
 
 ## Notes

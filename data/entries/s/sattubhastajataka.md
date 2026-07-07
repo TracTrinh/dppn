@@ -5,7 +5,7 @@ base_headword: "Sattubhastajātaka"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -34,6 +34,10 @@ The story was related in reference to the Buddha’s wisdom. <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sattubhastajātaka (Ja 402). Bodhisatta khi ấy là Senaka, quân sư của Janaka, vua xứ Benares. Ông thuyết Pháp nửa tháng một lần, vào những ngày trai giới, và đông đảo dân chúng, kể cả nhà vua, đến nghe ông giảng. Một Bà-la-môn già, đi khất thực, được cho một ngàn đồng tiền. Ông đưa số tiền này cho một Bà-la-môn khác giữ hộ, nhưng người này đã tiêu hết, và khi chủ tiền đến đòi lại, ông ta đưa cô con gái nhỏ của mình làm vợ thay cho số tiền. Cô gái này có một người tình, và để có thể gặp anh ta, cô nhờ chồng đi tìm một người hầu gái giúp việc nhà. Cô chuẩn bị một túi lương thực cho chuyến đi. Trên đường về, sau khi kiếm được bảy trăm đồng tiền, người Bà-la-môn mở túi ra, và sau khi ăn một ít thức ăn, đi đến một dòng suối để uống nước, để túi mở. Một con rắn bò vào túi và nằm trong đó.
+
+Một thọ thần, nghĩ cách cảnh báo người Bà-la-môn, nói rằng, "Nếu ngươi dừng lại dọc đường ngươi sẽ chết, nếu ngươi trở về nhà vợ ngươi sẽ chết," rồi biến mất. Vô cùng hoảng sợ, người Bà-la-môn đi về phía Benares, vừa đi vừa khóc, và vì đó là ngày trai giới, những người đang đi nghe Senaka thuyết pháp đã chỉ đường cho ông đến gặp Senaka. Senaka, nghe câu chuyện của người Bà-la-môn, đoán ra sự thật, và cho mở túi trước mặt mọi người. Con rắn bò ra và bị bắt giữ. Để tỏ lòng biết ơn, người Bà-la-môn đưa cho Senaka bảy trăm đồng tiền của mình, nhưng Senaka trả lại và còn cho thêm ba trăm đồng nữa, dặn người Bà-la-môn đừng mang tiền về nhà. Ông chôn số tiền dưới một gốc cây, nhưng không giữ được bí mật với vợ. Cô kể cho người tình, và số tiền bị đánh cắp. Người Bà-la-môn lại tìm đến Senaka, người đã bày cho ông một kế để phát hiện người tình, và khi tìm ra anh ta, Senaka cho gọi anh ta đến và buộc anh ta thú nhận tội lỗi.
+
+Câu chuyện được kể liên quan đến trí tuệ của Đức Phật. Ānanda là người Bà-la-môn và Sāriputta là thọ thần (Ja.iii.341-51). Câu chuyện này thường được nhắc đến như một minh chứng cho việc Đức Phật thực hành Ba-la-mật *paññā*, ví dụ, Ja.i.46; Bv­a.50f.
 
 ## Notes

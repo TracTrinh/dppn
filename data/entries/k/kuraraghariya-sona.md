@@ -5,7 +5,7 @@ base_headword: "Kuraraghariya Soṇa"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kuraraghariya Soṇa. The name by which <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tên thỉnh thoảng dùng để gọi Soṇa Kuṭikaṇṇa, ví dụ, Ja.vi.15.
 
 ## Notes

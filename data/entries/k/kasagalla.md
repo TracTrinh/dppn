@@ -5,7 +5,7 @@ base_headword: "Kāsagalla"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -26,6 +26,6 @@ Kāsagalla. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāsagalla. *v.l.* Kāyagalla. Một tu viện đã được Vijayabāhu I sửa chữa. Cv.lx.61.
 
 ## Notes

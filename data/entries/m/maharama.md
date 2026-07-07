@@ -5,7 +5,7 @@ base_headword: "Mahārāma"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahārāma. A king of sixty-three *kappas* ago, a previous birth of <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahārāma. Một vị vua của sáu mươi ba *kappa* trước đây, một kiếp sống trước của Tālavantadāyaka Thera. Ap.i.211.
 
 ## Notes

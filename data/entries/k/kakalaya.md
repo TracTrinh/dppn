@@ -5,7 +5,7 @@ base_headword: "Kākālaya"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -26,6 +26,6 @@ Kākālaya. A village in Ceylon where there was a <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kākālaya. Một ngôi làng ở Tích Lan nơi có một thành trì của người Damiḷa bị Parakkamabāhu II chiếm giữ. Cv.lxxxiii.12.
 
 ## Notes

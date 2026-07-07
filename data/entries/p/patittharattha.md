@@ -5,7 +5,7 @@ base_headword: "Patiṭṭhāraṭṭha"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Patiṭṭhāraṭṭha. Another name for <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Patiṭṭhāraṭṭha. Một tên gọi khác của Rājaraṭṭha (*q.v.*), một phân khu của Tích Lan.
 
 ## Notes

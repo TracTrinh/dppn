@@ -5,7 +5,7 @@ base_headword: "Kāpi"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -28,6 +28,6 @@ Kāpi. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāpi. Con trai của Kotūhalaka và người vợ Kāḷī. Khi cha mẹ cậu chạy trốn từ Ajitaraṭṭha đến Kosambī vì sợ dịch bệnh, họ, trong tình trạng chết đói, thấy rất khó khăn để mang theo đứa bé. Bảy lần người cha đã cố gắng bỏ rơi đứa bé, nhưng người mẹ đã ngăn cản ông. Dhp­a.i.169f.
 
 ## Notes

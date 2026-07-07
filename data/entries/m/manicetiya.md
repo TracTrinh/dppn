@@ -5,7 +5,7 @@ base_headword: "Maṇicetiya"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Maṇicetiya. A *Thūpa* in <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇicetiya. Một Thūpa trong Rāja Mahāvihāra tại Mahā Gāma. (Ras.ii.3.)
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kusumanagara"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -24,6 +24,6 @@ Kusumanagara. The Pāli name for the city now known as Bassein, in Burma (Bode, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tên tiếng Pāli của thành phố hiện được biết đến là Bassein, ở Miến Điện (Bode, 24). Gần thành phố là nơi sinh của Chapaṭa. Sās.74; xem thêm pp.41, 43, 147; Ind.An. 1893, xxi.17.
 
 ## Notes

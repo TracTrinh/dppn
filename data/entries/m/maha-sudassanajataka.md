@@ -5,7 +5,7 @@ base_headword: "Mahā Sudassanajātaka"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -28,6 +28,6 @@ Mahā Sudassanajātaka (Ja 95). Relates the story of the death of <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sudassanajātaka (Ja 95). Kể lại câu chuyện về cái chết của Mahā Sudassana. Về phần còn lại trong câu chuyện của nhà vua, người đọc được đề nghị tham khảo Mahā Sudassanasutta. Hoàng hậu của Mahā Sudassana được gọi là Subhaddā và được đồng nhất với Rāhulamātā. Ja.i.391-3.
 
 ## Notes

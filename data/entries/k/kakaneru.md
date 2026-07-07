@@ -5,7 +5,7 @@ base_headword: "Kākaneru"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -29,6 +29,6 @@ Kākaneru. One of the highest mountains in the world; mentioned together with <s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kākaneru. Một trong những ngọn núi cao nhất thế giới; được đề cập cùng với Mālāgiri, Himavā, Gijjha, Sudassana và Nisabha. Ja.vi.204, 212.
 
 ## Notes

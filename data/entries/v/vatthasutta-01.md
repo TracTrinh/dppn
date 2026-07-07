@@ -5,7 +5,7 @@ base_headword: "Vatthasutta"
 disambiguator: "01"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -24,6 +24,6 @@ Vatthasutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tấm vải của Benares có màu sắc đẹp, khi chạm vào rất dễ chịu và có giá trị lớn khi còn mới hoặc khi đã hao mòn một nửa, hoặc thậm chí là khi đã sờn rách. Một vị tu sĩ tốt cũng như vậy, dù cho ngài là một sa-di, một vị tu sĩ ở bậc trung, hay một vị trưởng lão. AN.i.247; so sánh Pp. 34.
 
 ## Notes

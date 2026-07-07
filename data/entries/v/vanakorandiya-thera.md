@@ -5,7 +5,7 @@ base_headword: "Vanakoraṇḍiya Thera"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vanakoraṇḍiya Thera. An *Arahant*. Ninety-four *kappas* ago he gave a *vanak
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vanakoraṇḍiya Thera. Một vị *Arahant*. Chín mươi bốn *kappa* trước ông đã cúng dường một bông hoa *vanakoraṇḍa* cho đức Phật Siddhattha. Ap.i.404.
 
 ## Notes

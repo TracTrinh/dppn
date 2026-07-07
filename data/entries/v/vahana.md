@@ -5,7 +5,7 @@ base_headword: "Vahana"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -24,6 +24,6 @@ Vahana. One of the three palaces of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vahana. Một trong ba cung điện của Sikhī Buddha trước khi xuất gia. Bv.xxi.16; nhưng Bv­a. (p. 201) gọi nó là Nārivasabha.
 
 ## Notes

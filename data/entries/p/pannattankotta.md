@@ -5,7 +5,7 @@ base_headword: "Pannaṭṭankoṭṭa"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Pannaṭṭankoṭṭa. A locality in South India, mentioned in the account of <
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pannaṭṭankoṭṭa. Một địa danh ở miền Nam Ấn Độ, được nhắc đến trong bản tường thuật về các chiến dịch của Laṅkāpura. Cv.lxxvi.313.
 
 ## Notes

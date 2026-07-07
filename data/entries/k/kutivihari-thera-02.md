@@ -5,7 +5,7 @@ base_headword: "Kuṭivihārī Thera"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -29,6 +29,8 @@ In the past he gave a fan of split reeds to <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một Arahant. Câu chuyện của ngài cũng tương tự như ở trên. Ngài đã theo đuổi những buổi thiền định của mình trong một túp lều rất cũ kỹ và có ý nghĩ xây dựng một cái khác; nhưng một vị thần, mong muốn lợi ích cho ngài, đã chỉ ra cho ngài bằng những từ ngữ, mặc dù đơn giản, nhưng mang ý nghĩa sâu sắc, rằng một túp lều mới sẽ đồng nghĩa với nỗi đau mới. Nhờ sự thúc giục đó, Kuṭivihāri đã trở thành một *Arahant*.
+
+Trong quá khứ ngài đã cúng dường một chiếc quạt làm bằng cây sậy chẻ nhỏ cho Padumuttara Buddha (Thag.v.57; Thag­a.i.130f). Ngài có lẽ đồng nhất với Naḷamāliya Thera của Apadāna. Ap.i.143f.
 
 ## Notes

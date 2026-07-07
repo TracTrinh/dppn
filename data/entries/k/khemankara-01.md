@@ -5,7 +5,7 @@ base_headword: "Khemaṅkara"
 disambiguator: "01"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -26,6 +26,6 @@ Khemaṅkara 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khemaṅkara 01. Khemaṅkara Thera. Thị giả thường xuyên của Sikhī Buddha (DN.ii.6; Bv.xxi.20; Ja.i.41).
 
 ## Notes

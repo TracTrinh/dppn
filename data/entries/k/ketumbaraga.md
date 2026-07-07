@@ -5,7 +5,7 @@ base_headword: "Ketumbarāga"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Ketumbarāga. The name of a <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ketumbarāga. Tên của một vị Pacceka Buddha (MN.iii.70; Ap.i.107).
 
 ## Notes

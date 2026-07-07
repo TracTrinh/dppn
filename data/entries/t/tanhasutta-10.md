@@ -5,7 +5,7 @@ base_headword: "Taṇhāsutta"
 disambiguator: "10"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Taṇhāsutta 10. A discussion between <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Taṇhāsutta 10. Một cuộc thảo luận giữa Sāriputta và Jambukhādaka về ba loại ái dục – ái dục đối với dục lạc (dục ái), ái dục đối với sự trở thành (hữu ái), ái dục đối với sự không-trở-thành (phi hữu ái). SN.iv.257.
 
 ## Notes

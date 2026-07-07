@@ -5,7 +5,7 @@ base_headword: "Kappiṭaka Thera"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -33,6 +33,8 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kappiṭaka Thera. Ông là *upajjhāya* của Upāli, và từng sống trong một nghĩa trang gần Vesālī. Trong nghĩa trang những tỳ-kheo ni thuộc nhóm *Chabbaggiya* đã chôn cất tro cốt của một trong những người lãnh đạo của họ và dựng lên một *Thūpa* gần cốc của Kappiṭaka. Vị Trưởng lão, bị quấy rầy bởi âm thanh của những lời than thở của họ, đã phá vỡ *Thūpa* và ném rải rác các vật liệu. Những vị ni, vô cùng tức giận, đã âm mưu giết ông, nhưng ông đã được cảnh báo bởi Upāli, và nằm ẩn náu ở nơi khác cho đến khi các tỳ-kheo ni đã phá hủy cốc của ông và rời đi với ấn tượng rằng ông đã chết. Những tỳ-kheo ni đã đổ lỗi cho Upāli vì đã làm đảo lộn những sự sắp xếp của họ (Vin.iv.308).
+
+Theo Petavatthu và Chú giải của nó (Pv.50; Pv-a.229ff), Kappiṭaka sống ở Kapinaccāna (gần Vesālī), và ở đó Licchavī Ambasakkhara đã cúng dường thức ăn cho ông nhân danh một *Peta*. Ông dường như đã từng có thời là một Jaṭila, với một đoàn tùy tùng đông đảo là những *Jaṭila*, vì ông được mô tả là "*jaṭilasahassassa abbhantaro Thero*." Vin-a.iv.937; Pv-a.230.
 
 ## Notes

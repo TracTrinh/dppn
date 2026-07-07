@@ -5,7 +5,7 @@ base_headword: "Kosinārakā"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -25,6 +25,6 @@ Kosinārakā. Inhabitants of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kosinārakā. Những cư dân của Kusinārā, ví dụ, Vin.i.247; AN­a.ii.637.
 
 ## Notes

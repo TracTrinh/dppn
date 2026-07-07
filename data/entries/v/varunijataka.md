@@ -5,7 +5,7 @@ base_headword: "Vāruṇījātaka"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -28,6 +28,8 @@ The story was told in reference to a friend of <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhisatta từng có một người bạn làm nghề chủ quán rượu. Một ngày nọ, người chủ quán chuẩn bị một mẻ rượu mạnh và đi tắm, để lại người học việc là Koṇḍañña trông coi. Người này đã từng thấy khách hàng sai lấy muối và đường thốt nốt để làm cho thức uống của họ ngon miệng hơn, nên đã giã một ít muối và bỏ vào rượu, hy vọng sẽ làm cho nó ngon hơn.
+
+Câu chuyện được kể liên quan đến một người bạn của Anāthapiṇḍika cũng làm nghề chủ quán rượu, người học việc của ông ta cũng làm điều tương tự. Ja.i.251ff.
 
 ## Notes

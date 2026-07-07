@@ -5,7 +5,7 @@ base_headword: "Kuṇḍadhānavana"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -38,6 +38,8 @@ It was once the residence of the <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một khu rừng gần ngôi làng Kuṇḍiya của người Koḷiyan. (Dhp­a.iv.192 gọi nó là Kuṇḍikoliya. *v.l.* Kuṇḍikeliya).
+
+Nơi đây từng là nơi cư trú của Yakkha Kuṇḍa, người ưu ái những lễ vật được cúng dường cho ông với *kuṇḍadhāna* (những chiếc chậu chứa bột gạo?). Một người phụ nữ, là trưởng làng (*gāmapatikā*), đã thành lập một khu định cư trên một địa điểm được chỉ định bởi Yakkha và được ông bảo vệ. Do đó, bà được biết đến với tên gọi Kuṇḍiyā, và khi, sau đó, các quý tộc Koḷiyan xây dựng một thành phố trên cùng địa điểm đó, thành phố được gọi là Kuṇḍiya. Trong khu vực rừng, các quý tộc Koḷiyan đã xây dựng một tu viện cho Đức Phật và các vị tỳ-kheo của Ngài. Chính trong lúc Đức Phật đang cư trú tại tu viện này mà Suppavāsā đã sinh ra Sīvalī, sau những cơn đau đẻ kéo dài, điều chỉ chấm dứt sau khi bà nhận được sự ban phước của Đức Phật (Ud.ii.8; Ud­a.122; Dhp­a.iv.192f; Ja.i.407).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kacchakadaha"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kacchakadaha. A lake, evidently near the <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kacchakadaha. Một cái hồ, rõ ràng là gần Kāḷavallimaṇḍapa. Trưởng lão Mahā Nāga xứ Kāḷavallimaṇḍapa đã ngậm đầy nước từ hồ này vào miệng trước khi đi vào làng khất thực, nhờ đó đảm bảo rằng các cuộc thiền định của ông sẽ không bị gián đoạn bởi những cuộc chuyện trò không cần thiết. Vibh­a.352.
 
 ## Notes

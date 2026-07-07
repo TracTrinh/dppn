@@ -5,7 +5,7 @@ base_headword: "Khemaka"
 disambiguator: "02"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -31,6 +31,8 @@ The Commentary (SN­a.ii.230f) explains that the monks wished to hear Khemaka be
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khemaka 02. Khemaka Thera. Một vị Arahant. Một lần nọ, khi ngài đang ốm rất nặng tại Badarikārāma, gần Kosambī, một số tỳ-kheo đang ở Ghositārāma đã cử một người trong số họ, tên là Dāsaka, mang một thông điệp đến cho Khemaka, hỏi thăm xem ngài có xoay sở chịu đựng được những cơn đau của mình hay không. Dāsaka trở về với câu trả lời rằng ngài không thể; Dāsaka lại được cử đi hỏi xem Khemaka đã thấy tự ngã trong năm uẩn hay chưa; khi Dāsaka trở về với câu trả lời rằng ngài chưa thấy, vị này lại được cử đi lần thứ ba để hỏi xem Khemaka có phải là một Arahant hay không. "Không," câu trả lời đưa ra, và Dāsaka phải đến thăm ngài lần thứ tư với câu hỏi, Khemaka định nghĩa thế nào là tự ngã? Bực mình, đích thân Khemaka đã đến Ghositārāma và giải thích rằng, ngay cả khi một vị Thánh đệ tử đã dứt bỏ năm kiết sử hạ phần, thì nơi vị ấy vẫn còn bám víu một tàn dư vi tế của ngã mạn "Tôi là". Người ta nói rằng nhờ bài pháp này, bản thân Khemaka và sáu mươi người khác đã trở thành những Arahant (SN.iii.126ff).
+
+Chú giải (SN­a.ii.230f) giải thích rằng các tỳ-kheo muốn nghe Khemaka giảng vì họ biết năng lực của ngài, và họ cũng biết rằng nếu họ tỏ ra khao khát muốn học, ngài sẽ đến với họ. Họ không đến chỗ ngài vì túp lều của ngài rất nhỏ, và họ không thực sự yêu cầu ngài đến với họ vì ngài đang ốm.
 
 ## Notes

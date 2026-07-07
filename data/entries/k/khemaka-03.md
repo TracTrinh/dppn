@@ -5,7 +5,7 @@ base_headword: "Khemaka"
 disambiguator: "03"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -31,6 +31,6 @@ Khemaka 03. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khemaka 03. *v.l.* Khema, Khemanesāda. Tên được đặt cho người thợ săn chim đã bắt được con ngỗng vàng từ Cittakūṭa, theo yêu cầu của vua Seyya (*v.l.* Saṁyama), như được kể trong Mahā Haṁsajātaka (*q.v.*). Khemaka có được cái tên này từ hồ Khema mà anh ta trông coi. Anh ta được đồng nhất với Channa (Ja.v.356ff).
 
 ## Notes

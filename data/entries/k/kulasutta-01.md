@@ -5,7 +5,7 @@ base_headword: "Kulasutta"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -23,6 +23,6 @@ Kulasutta 01. Families consisting of many women and few men are molested by robb
 
 ## Vietnamese translation
 
-Chưa dịch.
+Các gia đình có nhiều phụ nữ và ít đàn ông thường bị bọn cướp quấy rầy; tương tự như vậy, một vị tỳ-kheo không tu tập tâm giải thoát thông qua lòng từ sẽ dễ bị các loài phi nhân quấy rầy (SN.ii.263).
 
 ## Notes

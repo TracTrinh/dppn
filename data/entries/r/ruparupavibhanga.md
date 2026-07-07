@@ -5,7 +5,7 @@ base_headword: "Rūpārūpavibhaṅga"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rūpārūpavibhaṅga. An <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rūpārūpavibhaṅga. Một chuyên luận Abhidhamma của Trưởng lão Buddhadatta. PLC., 108.
 
 ## Notes

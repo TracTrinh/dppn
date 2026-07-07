@@ -5,7 +5,7 @@ base_headword: "Sukha"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sukha 03. A *Jīvitapotthakī*, one of the generals of <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sukha 03. Một *Jīvitapotthakī*, một trong những vị tướng của Parakkamabāhu I. Cv.lxx.174.
 
 ## Notes

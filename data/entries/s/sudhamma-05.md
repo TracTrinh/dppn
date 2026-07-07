@@ -5,7 +5,7 @@ base_headword: "Sudhamma"
 disambiguator: "05"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -31,6 +31,6 @@ Sudhamma 05. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudhamma 05. Sudhamma Thera. Ngài sống ở Macchikāsaṇḍa, trong một tu viện (Ambāṭakārāma) do Citta cúng dường. Citta thường mời Sudhamma đến nhà dùng bữa. Một ngày nọ, Sāriputta, dẫn đầu một số tỳ-kheo xuất chúng, đã đến thăm Macchikāsaṇḍa và ngụ tại tu viện này. Citta nghe Sāriputta thuyết pháp (và trở thành một bậc Nhất lai [*Sakadāgāmī*], theo Chú giải Dhammapada), và khi bài thuyết pháp kết thúc, ông đã mời Sāriputta cùng các tỳ-kheo đến nhà mình vào ngày hôm sau. Ông cũng mời Sudhamma, nhưng vì được mời sau những người khác, Sudhamma đã từ chối đi. Sáng sớm hôm sau ngài đến thăm nhà Citta để xem những lễ vật nào đã được chuẩn bị, và sau khi nhìn thấy chúng, ngài nhận xét rằng còn thiếu một thứ: bánh mè (*tilasaṅgulikā*). Khi đó Citta quở trách ngài, so sánh ngài với một con quạ, là con lai giữa con gà trống và con quạ. Sudhamma giận dữ rời khỏi nhà, và đi đến Sāvatthī, thuật lại sự việc với Đức Phật. Đức Phật khiển trách Sudhamma và nói rằng Tăng đoàn nên thi hành *paṭisārānīyakamma* đối với ngài. Sudhamma, sau đó, đã đi đến Macchikāsaṇḍa để xin Citta tha lỗi, nhưng Citta không chịu tha thứ cho ngài. Đức Phật bèn cử một người đồng hành đi cùng ngài, và họ cùng nhau đến gặp Citta, và Sudhamma lại một lần nữa xin tha thứ cho lỗi lầm của mình. Citta đã tha thứ cho ngài và cũng xin ngài tha lỗi cho mình (Vin.i.15-20; cf. Dhp­a.ii.74ff). Về sau Sudhamma trở thành một vị *Arahant*. AN­a.i.210.
 
 ## Notes

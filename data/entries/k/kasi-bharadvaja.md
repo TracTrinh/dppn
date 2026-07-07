@@ -5,7 +5,7 @@ base_headword: "Kasī Bhāradvāja"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -32,6 +32,8 @@ The Buddha answers that he, too, is a farmer, and explains his meaning to the be
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kasī Bhāradvāja. Một Bà-la-môn của gia tộc Bhāradvāja, sinh sống tại Ekanāḷā, ở Dakkhiṇāgiri. Đức Phật đã đến thăm ông vào năm thứ mười một sau khi Giác ngộ (Thomas: *Life and Legend of the Buddha*, p.117). Vị Bà-la-môn được gọi như vậy là vì nghề nghiệp nông nghiệp của ông. Vào ngày diễn ra lễ gieo hạt (*maṅgalavappa*) của ông, Đức Phật đã một mình đến thăm ông (sau khi nhìn thấy *upanissaya* (tiềm năng) đạt đạo quả Arahant của ông), và đứng gần nơi mà thức ăn đang được phân phát cho một số lượng người rất lớn đang tham gia vào lễ hội. Vị Bà-la-môn, nhìn thấy Đức Phật đang đi khất thực, đã đề nghị rằng Đức Phật nên làm việc để kiếm sống - cày bừa và gieo hạt giống hệt như ông đang làm. (Sūtrālaṅkāra nói rằng vị Bà-la-môn đã ném nước vào Đức Phật để xua đuổi ngài đi; Sylvain Levy, JA.1908, xii.99).
+
+Đức Phật trả lời rằng ngài cũng là một người nông dân, và giải thích ý của ngài cho vị Bà-la-môn đang bối rối, người mà, vô cùng hoan hỉ, đã dâng cho ngài một cái bát lớn chứa đầy cơm sữa. Đức Phật đã từ chối món quà với lý do rằng chư Phật không bao giờ nhận tiền công cho những bài pháp của họ. Theo đề nghị của chính Đức Phật, thức ăn đã được ném xuống sông bởi vì không ai có khả năng tiêu hóa thức ăn một khi đã dâng lên cho một Tathāgata. (Thức ăn đã trở nên quá phong phú bởi vì các vị thần đã thêm *ojā* vào nó; xem thêm Mil.231). Khi cơm chạm vào nước nó kêu xèo xèo và bốc khói và vị Bà-la-môn, vô cùng kinh ngạc, đã phủ phục dưới chân Đức Phật và tuyên bố từ nay về sau mình là một đệ tử của Đức Phật. Ngay sau đó, ông gia nhập Tăng đoàn, và theo thời gian trở thành một Arahant. Sn.12ff; Snp-a.131ff; Saṁyutta không đề cập đến việc đắc quả Arahant của ông (SN.i.171ff), mặc dù Chú giải có nhắc đến (SN­a.i.188ff).
 
 ## Notes

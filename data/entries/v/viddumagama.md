@@ -5,7 +5,7 @@ base_headword: "Viddumagāma"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Viddumagāma. A village in Ceylon in which was the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Viddumagāma. Một ngôi làng ở Tích Lan, nơi có Sirighanānandapariveṇa. Cv.xc.98.
 
 ## Notes

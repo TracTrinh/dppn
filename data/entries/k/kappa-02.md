@@ -5,7 +5,7 @@ base_headword: "Kappa"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -29,6 +29,6 @@ Kappa 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kappa 02. Kappa Thera. Một Arahant. Ông là con trai của một vị quan tỉnh ở Magadha và đã nghiện sự buông thả bản thân. Đức Phật, nhìn thấy ông trong lưới trí tuệ của mình, đã đến thăm ông và răn dạy ông, giảng cho ông về bản chất ô uế của thân thể, minh họa bài pháp của ngài với vô số so sánh và ẩn dụ. Kappa đã bị ấn tượng sâu sắc và gia nhập Tăng đoàn. Ông trở thành một Arahant, khi đầu của ông đang được cạo. Vào thời của Siddhattha Buddha ông là một gia chủ giàu có, và đã dâng cúng tại điện thờ của Đức Phật một *kapparukkha* chứa đựng những đồ vật có giá trị to lớn. Bất cứ nơi nào ông sinh ra những cây thiên đường sẽ mọc bên ngoài cửa nhà ông. Bảy *kappa* trước ông từng tám lần làm vua dưới tên gọi Sucela (Thag.567-76; Thag­a.i.521ff). Ông có lẽ đồng nhất với Kapparukkhiya của Apadāna. Ap.i.91.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Verījātaka"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Verījātaka (Ja 103). The Bodhisatta was once a rich merchant, and one day, whi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Verījātaka (Ja 103). Bodhisatta có một lần là một thương gia giàu có, và một ngày nọ, trên đường về nhà từ một ngôi làng nơi ngài vừa thu tiền nợ, ngài nhận thấy có những tên cướp xung quanh. Do đó, ngài hối thúc những con bò của mình chạy với tốc độ nhanh nhất và về đến nhà an toàn. Câu chuyện được kể cho Anāthapiṇḍika, người cũng từng trải qua một kinh nghiệm tương tự. Ja.i.412f.
 
 ## Notes

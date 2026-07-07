@@ -5,7 +5,7 @@ base_headword: "Tamotamasutta"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tamotamasutta. A name given in the <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tamotamasutta. Một tên gọi được đặt trong Suttasaṅgaha (No. 49) cho Puggalasutta (3). Xem thêm Tamosutta.
 
 ## Notes

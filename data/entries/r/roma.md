@@ -5,7 +5,7 @@ base_headword: "Roma"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Roma. There were four kings of this name sixty thousand *kappas* ago, all previo
 
 ## Vietnamese translation
 
-Chưa dịch.
+Roma. Có bốn vị vua mang tên này sáu mươi ngàn kappa trước, tất cả đều là tiền thân của Sataraṁsika Thera. Ap.i.104.
 
 ## Notes

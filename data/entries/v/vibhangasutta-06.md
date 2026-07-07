@@ -5,7 +5,7 @@ base_headword: "Vibhaṅgasutta"
 disambiguator: "06"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vibhaṅgasutta 06. An analysis of the four bases of psychic power. SN.v.276f.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vibhaṅgasutta 06. Một sự phân tích về bốn nền tảng của thần thông (*iddhipāda*). SN.v.276f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahinda"
 disambiguator: "06"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -24,6 +24,6 @@ Mahinda 06. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahinda 06. Con trai của Aggabodhi VII. Ông đã được phong làm phó vương, nhưng đã qua đời khi còn trẻ. Cv.xlviii.69, 75.
 
 ## Notes

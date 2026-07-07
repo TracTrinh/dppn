@@ -5,7 +5,7 @@ base_headword: "Kiṭāgiri"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -39,6 +39,8 @@ According to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="15" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kiṭāgiri (*v.l.* Kīṭāgiri). Một ngôi làng của những người Kāsi, nằm trên đường từ Kāsi đến Sāvatthī. Đó là đại bản doanh của những người theo Assaji và Punabbasu, những người sống ở đó, cư xử một cách vô liêm sỉ và độc ác. Một vị tỳ-kheo nọ, trên đường đến Jetavana, đã đi ngang qua nơi này và được một cư sĩ sùng đạo yêu cầu than phiền với Đức Phật về hành vi tồi tệ của họ. Khi nghe về điều đó, Đức Phật đã cử Sāriputta và Moggallāna đến để tuyên bố về họ một lệnh trục xuất (Ja.ii.387; Vin.ii.9f; iii.179f; Dhp­a.ii.108f). Một thời gian sau, khi Đức Phật đến thăm nơi này cùng với một đoàn tùy tùng đông đảo các tỳ-kheo, bao gồm Sāriputta và Moggallāna, nhóm Assaji-Punabbasukā, đã được yêu cầu cung cấp chỗ ở cho các du khách. Họ đồng ý làm như vậy cho Đức Phật, nhưng sẽ không dính líu gì đến Sāriputta và Moggallāna (Vin.ii.171).
+
+Theo Buddhaghosa (MN­a.ii.668), Kiṭāgiri là tên của một *nigama* (thị trấn). Trong Samantapāsādikā (iii.613f), nó được gọi là một *janapada*, được ưu ái bởi lượng mưa vừa đủ và mùa màng tươi tốt, và do đó được nhóm *Assaji-Punabbasukas* lựa chọn.
 
 ## Notes

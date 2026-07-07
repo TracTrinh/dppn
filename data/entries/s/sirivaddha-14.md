@@ -5,7 +5,7 @@ base_headword: "Sirivaḍḍha"
 disambiguator: "14"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sirivaḍḍha 14. Father of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirivaḍḍha 14. Cha của Siggava Thera (xem từ này). Mhv­ṭ. 215.
 
 ## Notes

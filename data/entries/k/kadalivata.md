@@ -5,7 +5,7 @@ base_headword: "Kadalīvāta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kadalīvāta. One of the <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kadalīvāta. Một trong những vị vua Vanni của Tích Lan, thủ lĩnh của những người lính đánh thuê đã bị Bhuvanekabāhu I đánh đuổi khỏi Tích Lan. (Cv.xc.33).
 
 ## Notes

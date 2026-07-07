@@ -5,7 +5,7 @@ base_headword: "Valāhaka"
 disambiguator: "01"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Valāhaka 01. A family of horses from which the *Assaratana* of a <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Valāhaka 01. Một dòng ngựa mà *Assaratana* của một Cakkavatti được cung cấp từ đó (Khp-a. 172; MN.iii.174). Loài ngựa này đứng đầu trong các loài thú, vì nó chở người cưỡi ra khỏi mọi nguy hiểm (MN­a.ii.616). Những tuấn mã quý phái xuất thân từ dòng Valāhaka. Dhp­a.iii.248.
 
 ## Notes

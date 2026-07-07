@@ -5,7 +5,7 @@ base_headword: "Siggava"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Siggava 01. A king of long ago, who was destroyed by the gods because be insulte
 
 ## Vietnamese translation
 
-Chưa dịch.
+Siggava 01. Một vị vua thời xưa, bị chư thiên tiêu diệt vì đã sỉ nhục các bậc khổ hạnh thánh thiện. Ông là một tiền thân của Upāli Thera. Thag­a.i.368.
 
 ## Notes

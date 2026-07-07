@@ -5,7 +5,7 @@ base_headword: "Kosumbaphaliya Thera"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -25,6 +25,6 @@ Kosumbaphaliya Thera. An *Arahant*. Thirty-one *kappas* ago he saw the <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kosumbaphaliya Thera. Một vị Arahant. Ba mươi mốt *kappa* trước, ngài đã nhìn thấy Buddha Sikhī và dâng cúng cho ngài một quả *kosumba* (Ap.ii.449). Rõ ràng ngài chính là Usabha Thera (Thag­a.i.320).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Pāṭalipupphiya Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -26,6 +26,6 @@ Pāṭalipupphiya Thera. An *Arahant*. Ninety-two *kappas* ago he was a *seṭ�
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāṭalipupphiya Thera. Một vị *Arahant*. Chín mươi hai *kappa* trước, ngài là một *seṭṭhiputta* người, khi nhìn thấy Tissa Buddha, đã dâng cúng cho ngài một vạt áo đầy hoa *pāṭalī*. Sáu mươi ba *kappa* trước, ngài là một vị vua tên là Abhisammata. Ap.i.122f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sumana"
 disambiguator: "13"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sumana 13. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumana 13. Một vị Pacceka Buddha của ba mươi mốt *kappa* trước, người mà, trong một tiền kiếp, Bhalliya (Thag­a.i.49) và Bhāradvāja Thera (Thag­a.i.303; cf. Ap.ii.416) đã dâng quả *vallikāra* cho ngài.
 
 ## Notes

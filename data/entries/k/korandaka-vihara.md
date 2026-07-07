@@ -5,7 +5,7 @@ base_headword: "Koraṇḍaka Vihāra"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -31,6 +31,8 @@ This monastery was once the residence of an Elder named <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koraṇḍaka Vihāra *v.l.* Corakaṇḍaka Vihāra. Một tu viện ở Tích Lan. Cuốn Visuddhimagga (p.91) có chứa câu chuyện về một vị tỳ-kheo trẻ, cháu trai của vị Trưởng lão của *Vihāra* (tu viện), người đã đến Rohaṇa để học; sau đó ông trở về *Vihāra*, và trong ba tháng được cha mẹ mình hầu hạ, nhưng ông đã không tiết lộ danh tính của mình, vì sợ rằng cha mẹ sẽ là một sự cản trở đối với ông.
+
+Tu viện này đã từng là nơi cư ngụ của một vị Trưởng lão tên là Mahā Saṅgharakkhita. Mhv­ṭ.606.
 
 ## Notes

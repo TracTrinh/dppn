@@ -5,7 +5,7 @@ base_headword: "Somadevī"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -30,6 +30,6 @@ Somadevī. Second queen of King <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Somadevī. Hoàng hậu thứ hai của vua Vaṭṭagāmaṇī. Trong lúc ông đang chạy trốn khỏi các Damiḷa trên một chiếc xe ngựa, Somadevī, thấy xe quá nặng, tự xuống xe và nhà vua trao cho bà viên ngọc vương miện. Một trong các thủ lĩnh Damiḷa bắt bà và đem bà sang Ấn Độ. Về sau, khi Vaṭṭagāmaṇī lấy lại vương quốc, ông sai người đón Somadevī về, và phục hồi địa vị cũ cho bà, xây dựng nhân danh bà Somārāma (Maṇisomārāma). Mhv.xxxiii.46, 54, 84.
 
 ## Notes

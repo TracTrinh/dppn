@@ -5,7 +5,7 @@ base_headword: "Mahā Pajāpatīsutta"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -24,6 +24,6 @@ Mahā Pajāpatīsutta. Contains details of the events which led to the admission
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Pajāpatīsutta. Chứa đựng các chi tiết về những sự kiện đã dẫn đến việc thu nhận phụ nữ vào Tăng đoàn. AN.iv.274ff.; cp. Vin.ii.253ff.
 
 ## Notes

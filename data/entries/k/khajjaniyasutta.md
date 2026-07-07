@@ -5,7 +5,7 @@ base_headword: "Khajjanīyasutta"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -35,6 +35,10 @@ In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khajjanīyasutta. Vị Thánh đệ tử được khéo léo giáo huấn, khi nhớ lại các kiếp quá khứ của mình, sẽ liễu ngộ được trong quá khứ, vị ấy đã từng là nạn nhân của thân thể, các cảm thọ, tri giác, các ý muốn (volitions) và thức như thế nào; vị ấy hiện tại vẫn đang là nạn nhân của chúng, và trong tương lai cũng sẽ như thế, nếu vị ấy bị chúng mê hoặc. Nhận thức được như vậy, vị ấy khởi sinh sự nhàm chán đối với thân thể, v.v., trở nên xa lìa chúng, và đạt được sự giải thoát khỏi chúng. Nhờ đó, vị ấy đạt được tự do và nhận thức được rằng mình đã tự do. SN.iii.86-91; Sutta này bị đặt nhầm tiêu đề là Sīha trong văn bản của Saṁyutta; xem KS.iii.72, n.3.
+
+Sutta này cũng được Mahinda thuyết giảng trong khu rừng Nandana vào ngày thứ năm của chuyến viếng thăm Tích Lan của ngài (Mhv.xv.195).
+
+Trong Chú giải Vibhaṅga (Vibh­a.32), Sutta này được gọi là Khajjanīyapariyāya.
 
 ## Notes

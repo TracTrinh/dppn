@@ -5,7 +5,7 @@ base_headword: "Maliya"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -23,6 +23,6 @@ Maliya. Perhaps the name of a dog, or it may be an adjective describing its colo
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maliya. Có lẽ là tên của một con chó, hoặc nó có thể là một tính từ mô tả màu sắc của con chó. Xem Ja.iii.535.
 
 ## Notes

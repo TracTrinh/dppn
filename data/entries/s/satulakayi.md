@@ -5,7 +5,7 @@ base_headword: "Satulakāyī"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Satulakāyī. The wife of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Satulakāyī. Vợ của Jotika. Bà đến với ông từ Uttarakuru và mang theo một nồi gạo nhỏ một panh cùng ba tấm thủy tinh hội tụ ánh sáng (pha lê). Bất cứ khi nào muốn dùng bữa, chiếc nồi được đặt lên trên các viên pha lê và các viên pha lê bùng cháy lên. Thức ăn nấu theo cách này không bao giờ cạn. Khi Jotika gia nhập Tăng đoàn, chư thiên đưa Satulakāyī trở về Uttarakuru. Dhp­a.iv.209, 223.
 
 ## Notes

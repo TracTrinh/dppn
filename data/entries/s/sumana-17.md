@@ -5,7 +5,7 @@ base_headword: "Sumana"
 disambiguator: "17"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sumana 17. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumana 17. Một vị thủ lĩnh Yakkha, sẽ được các tín đồ của Đức Phật cầu khẩn khi cần thiết. DN.iii.205.
 
 ## Notes

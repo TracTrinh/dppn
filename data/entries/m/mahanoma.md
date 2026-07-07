@@ -5,7 +5,7 @@ base_headword: "Mahānoma"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -28,6 +28,6 @@ Mahānoma. The name of the <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahānoma. Tên gọi của Mahā Meghavana trong thời của Koṇāgamana Buddha. Thủ đô, Vaḍḍhamāna, nằm ở phía nam của nó, và công viên đã được trao tặng cho Đức Phật bởi Vua Samiddha. Mhv.xv. 92,107ff.
 
 ## Notes

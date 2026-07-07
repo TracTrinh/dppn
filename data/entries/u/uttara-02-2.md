@@ -5,7 +5,7 @@ base_headword: "Uttarā"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -29,6 +29,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttarā 02. Bà là con gái của gia đình một thiện nam tử ở Sāvatthī. Sau khi nghe Paṭācārā thuyết pháp, bà đã gia nhập Tăng đoàn và trở thành một Arahant.
+
+Therīgāthā có chứa bảy bài kệ được thốt lên bởi bà sau khi trở thành một Arahant, kết quả từ sự quyết tâm của bà là không rời khỏi tư thế ngồi cho đến khi bà giành được sự giải thoát. Về sau bà đã lặp lại những bài kệ này cho Paṭācārā. Thīg.vv.175-81; Thīg­a.161-2.
 
 ## Notes

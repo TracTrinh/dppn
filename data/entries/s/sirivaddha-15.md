@@ -5,7 +5,7 @@ base_headword: "Sirivaḍḍha"
 disambiguator: "15"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sirivaḍḍha 15. The name by which <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirivaḍḍha 15. Tên mà Soṇa Koḷivisa (xem từ này) được biết đến vào thời Padumuttara Buddha. AN­a.i.130.
 
 ## Notes

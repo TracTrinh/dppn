@@ -5,7 +5,7 @@ base_headword: "Khema"
 disambiguator: "11"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -25,6 +25,6 @@ Khema 11. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khema 11. Khema Thera. Một vị Arahant. Xem Khemasutta (2). AN.iii.358.
 
 ## Notes

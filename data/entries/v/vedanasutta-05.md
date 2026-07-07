@@ -5,7 +5,7 @@ base_headword: "Vedanāsutta"
 disambiguator: "05"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vedanāsutta 05. The cultivation of the Noble Eightfold Path is for the full com
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vedanāsutta 05. Sự tu tập Bát Thánh đạo là vì sự liễu tri trọn vẹn ba loại thọ. SN.v.57.
 
 ## Notes

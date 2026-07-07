@@ -5,7 +5,7 @@ base_headword: "Vasudattā"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vasudattā. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vợ của Padumuttara Buddha trong kiếp sống cư sĩ cuối cùng của Ngài. Bv.xi.21.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kuṇāla"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -29,6 +29,6 @@ Kuṇāla 01. One of the seven great lakes in the region of the <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một trong bảy hồ nước lớn ở vùng Himālaya. Một lần, Đức Phật đã đến thăm nơi đây cùng với một nhóm đông đảo các thanh niên Sākiyan đã gia nhập Tăng đoàn, và trong dịp đó Ngài đã thuyết giảng Kuṇālajātaka (Ja 536, Ja.v.415; MN­a.ii.692, 1021; AN­a.ii.759, vân vân). Tia nắng mặt trời không bao giờ chiếu tới vùng nước của hồ, do đó nước hồ không bao giờ ấm (Snp-a.ii.407). Theo Buddhaghosa (Snp-a.i.358; DN­a.ii.675), Kuṇālajātaka thực sự được thuyết giảng trên bờ Kuṇāladaha.
 
 ## Notes

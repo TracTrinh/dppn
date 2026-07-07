@@ -5,7 +5,7 @@ base_headword: "Kuhakajātaka"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,8 @@ The occasion for the telling of the story is given in the <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kuhakajātaka (Ja 89). Xưa kia có một điền chủ, vô cùng tin tưởng vào sự thánh thiện của một vị đạo sĩ bện tóc, đã chôn cất một số tài sản của mình trong am thất mà chính ông đã cung cấp cho vị đạo sĩ. Vị đạo sĩ, vì thèm khát số vàng đó, đã giấu nó ở một nơi khác, và nói lời từ biệt với điền chủ như thể ông ta sắp đi đến một vùng khác của đất nước. Điền chủ, sau khi nài nỉ đạo sĩ ở lại nhưng vô ích, đã hộ tống ông ta một đoạn đường. Đột nhiên đạo sĩ dừng lại và nói rằng ông ta tìm thấy một cọng rơm từ mái của am thất dính trên tóc mình và muốn trả lại vì nó không thuộc về ông ta. Điền chủ vô cùng ấn tượng trước sự thể hiện không tham lam này, nhưng một đạo sĩ khác, chính là Bodhisatta, quan sát thấy những gì đã xảy ra và đoán được lý do, đã nói cho điền chủ biết những nghi ngờ của mình. Khi họ tìm kiếm số vàng thì không thấy đâu, nhưng đạo sĩ đã thú nhận tội lỗi của mình sau khi bị đánh một trận nhừ tử (Ja.i.375ff).
+
+Dịp kể lại câu chuyện được đưa ra trong Uddālajātaka.
 
 ## Notes

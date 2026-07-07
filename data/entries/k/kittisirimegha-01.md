@@ -5,7 +5,7 @@ base_headword: "Kittisirimegha"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,6 @@ Kittisirimegha 01. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kittisirimegha 01. Con trai của Moggallāna II và là vua của Tích Lan từ năm 656 CN. Thời gian trị vì của ngài không chắc chắn; ngài bị Mahā Nāga sát hại (Cv.xli.65-92; cũng xem Cv.Trs.i.61, n.2). Rūpavatī, vương hậu của Parakkamabāhu I, có lẽ là một hậu duệ trực hệ của vị vua này. Cv.lxxiii.136, 142.
 
 ## Notes

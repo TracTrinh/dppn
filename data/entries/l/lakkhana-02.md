@@ -5,7 +5,7 @@ base_headword: "Lakkhaṇa"
 disambiguator: "02"
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -25,6 +25,6 @@ Lakkhaṇa 02. One of the eight Brahmins who recognized the auspicious signs at 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lakkhaṇa 02. Một trong tám vị Bà-la-môn nhận ra các điềm tốt lành lúc Bodhisatta đản sinh (Ja.i.56). Milinda (Mil. 236) nhắc đến ông như một trong những vị thầy đầu tiên của Đức Phật.
 
 ## Notes

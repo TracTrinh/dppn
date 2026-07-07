@@ -5,7 +5,7 @@ base_headword: "Kāyavicchandanakasutta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -26,6 +26,6 @@ Kāyavicchandanakasutta. Another name for the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāyavicchandanakasutta. Một tên gọi khác của Vijayasutta thuộc Suttanipāta. Snp-a.i.241.
 
 ## Notes

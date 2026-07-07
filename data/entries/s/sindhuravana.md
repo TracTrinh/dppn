@@ -5,7 +5,7 @@ base_headword: "Sindhūravāna"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -30,6 +30,6 @@ Sindhūravāna. A place in Ceylon, between <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sindhūravāna. Một địa điểm ở Tích Lan, giữa Hatthiselapura và Gaṅgāsiripura, trên đường đến Sumanakūṭa. Tại đó Vijayabāhu IV. đã xây dựng *vihāra* Vanaggāmapāsāda và Abhayarājapariveṇa. Cv.lxxxviii.50.
 
 ## Notes

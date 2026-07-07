@@ -5,7 +5,7 @@ base_headword: "Sujātā"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sujātā 02. An *Aggasāvikā* of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sujātā 02. Một vị *Aggasāvikā* của Piyadassī Buddha. Ja.i.39; Bv.xiv.21.
 
 ## Notes

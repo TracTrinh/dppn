@@ -5,7 +5,7 @@ base_headword: "Pipphalivihāra"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -31,6 +31,6 @@ Pipphalivihāra. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pipphalivihāra. *v.l.* Sabbagirivihāra, Pañcālavihāra, Pacelivihāra. Một tu viện ở Soṇagiripāda, Tích Lan (Ceylon). Đây từng là nơi cư trú của một vị tỳ-kheo tên là Soṇa (Vibh­a.439) (*q.v.*). AN­a.i.225 gọi nó là Pañcāla và MN­a.ii.887 gọi là Paceli.
 
 ## Notes

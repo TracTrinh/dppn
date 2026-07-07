@@ -5,7 +5,7 @@ base_headword: "Tantavāyikacāṭikā"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tantavāyikacāṭikā. A village assigned by <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tantavāyikacāṭikā. Một ngôi làng được Potthakuṭṭha chỉ định cho *padhānaghara* (thiền đường) tại Māṭambiya. Cv.xlvi.20.
 
 ## Notes

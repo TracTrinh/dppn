@@ -5,7 +5,7 @@ base_headword: "Kālasutta"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -24,6 +24,6 @@ Kālasutta 02. The above explained with an illustration. AN.ii.140.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kālasutta 02. Những điều trên được giải thích cùng với một ví dụ minh họa. AN.ii.140.
 
 ## Notes

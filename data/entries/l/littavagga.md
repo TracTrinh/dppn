@@ -5,7 +5,7 @@ base_headword: "Littavagga"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -24,6 +24,6 @@ Littavagga. The tenth chapter of the *Ekanipāta* of the <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Littavagga. Chương thứ mười của *Ekanipāta* của Jātaka. Ja.i.379-410.
 
 ## Notes

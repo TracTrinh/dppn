@@ -5,7 +5,7 @@ base_headword: "Vāseṭṭha"
 disambiguator: "06"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vāseṭṭha 06. A Brahmin; see <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một Bà-la-môn; xem Dhūmakāri. Nhà chú giải giải thích (Ja.iii.402) rằng ông thuộc về *gotta* Vāseṭṭha.
 
 ## Notes

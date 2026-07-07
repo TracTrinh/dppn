@@ -5,7 +5,7 @@ base_headword: "Sīha"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -43,6 +43,10 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="22" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīha 01. Một tướng quân Licchavī ở Vesālī. Ông là một tín đồ của các Nigaṇṭha. Khi Gotama Buddha đến thăm Vesālī, Sīha, sau khi nghe những lời đồn về sự vĩ đại của Ngài, muốn đến gặp Ngài, nhưng Nigaṇṭha Nātaputta đã can ngăn ông, nói rằng Gotama phủ nhận kết quả của hành động và không đáng để đến thăm. Nhưng cuối cùng Sīha, cùng với năm trăm cỗ xe, đã đến gặp Đức Phật. Khi phát hiện qua cuộc trò chuyện với Đức Phật rằng mình đã bị vu cáo là thuyết giảng những giáo lý sai lầm, Sīha tuyên bố mình là đệ tử của Đức Phật. Đức Phật chấp nhận sự quy y của ông với điều kiện ông vẫn tiếp tục bố thí cho bất kỳ Nigaṇṭha nào đến xin tại nhà ông. Sự rộng lượng này khiến Sīha càng tôn kính Đức Phật hơn nữa, và ông đã mời Ngài cùng chư tăng dùng bữa vào ngày hôm sau. Thịt là một trong các món ăn, và các Nigaṇṭha đi khắp Vesālī la lối rằng Sīha đã giết một con bò lớn để lấy thịt cho Đức Phật và chư tăng và món ăn đó đã được nhận. Đây là dịp để hình thành giới luật rằng không tỳ-kheo nào được ăn thịt khi có lý do để tin rằng con vật đã bị giết riêng cho mình (Vin.i.233f.; AN.iv.179f.; xem thêm Telovādajātaka (Ja 246).
+
+Sīha, có một thời, là một trong những thí chủ nổi tiếng nhất của các Nigaṇṭha, những người khác là Upāli *gahapati* ở Nālandā, và Vappa, người Sākiyan ở Kapilavatthu (AN­a.ii.751).
+
+Aṅguttaranikāya (AN.iii.38f; iv.79f) chứa hai cuộc thảo luận, với những lời lẽ ít nhiều giống nhau, trong đó Sīha hỏi Đức Phật liệu có thể chỉ ra những kết quả hữu hình của việc bố thí hay không. Đức Phật, bằng một câu hỏi ngược lại, khiến Sīha nhận ra rằng người cho nhận được phần thưởng của mình ngay trong đời này, và cuối cùng Sīha thừa nhận rằng ông đã trải nghiệm những lợi ích mà Đức Phật đã trình bày. Sīha có một người cháu gái, Sīhā.
 
 ## Notes

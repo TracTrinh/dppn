@@ -5,7 +5,7 @@ base_headword: "Subhadda"
 disambiguator: "04"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Subhadda 04. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subhadda 04. Con trai của Upaka thuộc tà giáo Ājīvaka và nàng Cāpā. Thīg­a.221; Snp­a.i.260.
 
 ## Notes

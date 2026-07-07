@@ -5,7 +5,7 @@ base_headword: "Sīhaghosa"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -26,6 +26,6 @@ Sīhaghosa. An eminent monk in the time of <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhaghosa. Một vị tỳ-kheo lỗi lạc vào thời Padumuttara Buddha. Chính sự lỗi lạc của vị tỳ-kheo này đã khiến Uruvelā Kassapa mong muốn có được vinh dự tương tự cho bản thân. Ap.ii.481.
 
 ## Notes

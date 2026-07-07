@@ -5,7 +5,7 @@ base_headword: "Pārāsariya"
 disambiguator: "04"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -27,6 +27,6 @@ Pārāsariya 04. The Bodhisatta born as a teacher of <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pārāsariya 04. Bodhisatta khi được sinh ra làm một đạo sư của Takkasilā (Ja.iii.160). Tên dòng họ của ngài là Pārāsariya (Sđd., 161). Để biết chi tiết, xem Dhonasākhajātaka (Ja 353).
 
 ## Notes

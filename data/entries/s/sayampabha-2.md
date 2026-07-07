@@ -5,7 +5,7 @@ base_headword: "Sayampabhā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -27,6 +27,8 @@ From the Commentary (Snp­a. p. 379) it would appear that Sayampabhā is probabl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sayampabhā. Một loại chư thiên, trong số đó những người đức hạnh, như những người phụng dưỡng cha mẹ và làm những nghề nghiệp vô hại, được sinh vào (Snp.vs.404).
+
+Theo Chú giải (Snp­a. p. 379) thì có vẻ như Sayampabhā có lẽ là một tên gọi chung cho tất cả chư thiên (*ye te attano ābhāya andhakāraṁ vidhamitvā ālokakaraṇena Sayampabhā ti laddhanāmā cha kāmāvacaradevā*, sáu loại chư thiên cõi dục ấy, nhờ ánh sáng của chính mình xua tan bóng tối và tạo ra ánh sáng, mà nhận được tên gọi Tự Chiếu Sáng (*Sayampabhā*).
 
 ## Notes

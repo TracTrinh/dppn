@@ -5,7 +5,7 @@ base_headword: "Khulū"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -25,6 +25,6 @@ Khulū. Probably a wrong reading for <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khulū. Có lẽ là một cách đọc sai của Bhumū. DN.iii.6.
 
 ## Notes

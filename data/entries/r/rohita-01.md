@@ -5,7 +5,7 @@ base_headword: "Rohita"
 disambiguator: "01"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rohita 01. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rohita 01. *v.l.* Rohiṇī. Mười bốn ngàn kappa trước có mười ba vị vua mang tên này, tất cả đều là tiền thân của Sīha (hay Candanapūjaka) Thera (Thag­a.i.182; Ap.i.165).
 
 ## Notes

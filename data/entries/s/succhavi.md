@@ -5,7 +5,7 @@ base_headword: "Succhavi"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Succhavi. A king of twenty-four *kappas* ago, a, previous birth of <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Succhavi. Một vị vua của hai mươi bốn *kappa* trước đây, một kiếp quá khứ của Telamakkhiya Thera. Ap.i.231.
 
 ## Notes

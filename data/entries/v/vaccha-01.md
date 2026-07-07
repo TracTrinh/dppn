@@ -5,7 +5,7 @@ base_headword: "Vaccha"
 disambiguator: "01"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -30,6 +30,8 @@ This story was among those related by <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaccha 01. Một vị ẩn sĩ Bà-la-môn thời xưa, gần lều của ông có một số *Kinnaras* sinh sống. Một con nhện thường giăng tơ quanh chúng, cắn đầu chúng và hút máu chúng. Các *Kinnaras* cầu xin sự giúp đỡ của Vaccha, nhưng Vaccha từ chối giết con nhện, cho đến khi bị cám dỗ bởi lời đề nghị tặng một cô gái *Kinnarī* tên Rathavatī làm tùy tùng. Vaccha đã giết con nhện và sống với Rathavatī như vợ chồng.
+
+Câu chuyện này nằm trong số những câu chuyện được con vẹt Māthara của Mahosadha kể cho chim sáo ở cung điện của vị vua Pañcāla nghe, để chứng minh rằng trong tình yêu không có sự khác biệt — một người có thể kết đôi với một *Kinnarī*, một con vẹt với một con sáo. Ja.vi.422.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kittisīhasūra"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kittisīhasūra. An important officer of state in Burma who, in 1531, wrote a *S
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kittisīhasūra. Một quan chức nhà nước quan trọng ở Miến Điện, người mà vào năm 1531, đã viết một *Saṁvaṇṇanā* về Abhidhānappadīpikā. Bode, 67.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Lalāṭadhātuvaṁsa"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -24,6 +24,6 @@ Lalāṭadhātuvaṁsa. A Pāli work containing the history of the frontal bone 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lalāṭadhātuvaṁsa. Một tác phẩm Pāli chứa đựng lịch sử về xá-lợi xương trán của Đức Phật. Để thảo luận xem PLC.255.
 
 ## Notes

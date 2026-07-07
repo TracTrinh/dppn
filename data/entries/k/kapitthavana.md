@@ -5,7 +5,7 @@ base_headword: "Kapiṭṭhavana"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -34,6 +34,6 @@ Kapiṭṭhavana *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kapiṭṭhavana *v.l.* Kaviṭṭhavana, Kapiṭṭhakavana. Một công viên trên hai bờ của Godhāvarī và là nơi cư trú của Bāvarī (Thag­a.i.73). Theo Buddhaghosa (Snp-a.ii.581) nó là một hòn đảo (*antaradīpa*) ở chỗ rẽ nhánh của dòng sông, và có chiều dài là ba do-tuần. Nó nằm giữa vương quốc Assaka và Aḷaka, và được mua lại từ hai vị vua này với giá hai ngàn đồng tiền. Hai vị vua đã ban tặng thêm hai do-tuần nữa cho Bāvarī như một món quà. Công viên từng là nơi cư trú của những bậc thánh nhân ngày xưa, chẳng hạn như Sarabhaṅga (Ja.v.132) và Sālissara (Ja.iii.463; xem thêm Mvu.iii.363), và nó được gọi là Kapiṭṭhavana bởi vì nó được bao phủ bằng những cây *kapiṭṭha* (quả táo voi).
 
 ## Notes

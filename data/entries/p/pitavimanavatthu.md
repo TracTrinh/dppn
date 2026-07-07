@@ -5,7 +5,7 @@ base_headword: "Pītavimānavatthu"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -28,6 +28,6 @@ Pītavimānavatthu. The story of a woman of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pītavimānavatthu. Câu chuyện về một người phụ nữ ở Rājagaha. Khi Ajātasattu xây dựng một *Thūpa* (bảo tháp) trên xá-lợi của Đức Phật tại Rājagaha, bà bắt đầu đi vào một buổi sáng sớm với bốn bông hoa *kosātakī* để dâng cúng tại *Thūpa*. Trên đường đến đó, bà bị một con bò húc chết, và được tái sinh ở Tāvatiṁsa, mặc y phục màu vàng. Tại đó Moggallāna đã gặp bà và biết được câu chuyện của bà. Vv.iv.9; Vv-a.200f.
 
 ## Notes

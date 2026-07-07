@@ -5,7 +5,7 @@ base_headword: "Kalasigāma"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kalasigāma. The birthplace of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kalasigāma. Nơi sinh của Milinda trên Đảo Alasandā (hoặc Alexandria) ở sông Indus (Mil.83). Rhys Davids (*Milinda Questions*, i., p.xxiii) nghĩ rằng tên này đồng nhất với tên của khu định cư Karisi của người Hy Lạp.
 
 ## Notes

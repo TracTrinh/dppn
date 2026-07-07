@@ -5,7 +5,7 @@ base_headword: "Veṇḍusutta"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Veṇḍusutta. The question asked by <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Veṇḍusutta. Câu hỏi do Veṇḍu (*q.v.*) đặt ra và câu trả lời của Đức Phật. SN.1.52.
 
 ## Notes

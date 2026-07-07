@@ -5,7 +5,7 @@ base_headword: "Kaṁsabhoga"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -27,6 +27,6 @@ Kaṁsabhoga. A division of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṁsabhoga. Một vùng của Uttarāpatha, thủ đô của nó là Asitañjana, nơi Mahā Kaṁsa và những người kế vị của ông trị vì. Ja.iv.79; Pv-a.111.
 
 ## Notes

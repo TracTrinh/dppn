@@ -5,7 +5,7 @@ base_headword: "Parisāsutta"
 disambiguator: "03"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Parisāsutta 03. On the eight assemblies: *Khattiya*, *Brāhmaṇa*, householder
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parisāsutta 03. Về tám hội chúng: Sát-đế-lỵ (*Khattiya*), Bà-la-môn (*Brāhmaṇa*), gia chủ, sa-môn (*samaṇa*), Tứ Đại Thiên Vương (*Cātummahārājika*), Đao-lợi (*Tāvatiṁsa*), Ma vương (*Māra*) và Phạm thiên (*Brahma*). Đức Phật đến thăm tất cả họ và thuyết pháp cho họ. AN.iv.307f.
 
 ## Notes

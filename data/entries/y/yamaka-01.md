@@ -5,7 +5,7 @@ base_headword: "Yamaka"
 disambiguator: "01"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -27,6 +27,6 @@ Yamaka 01. The sixth book of the <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yamaka 01. Cuốn sách thứ sáu của Abhidhammapiṭaka. Cuốn sách này được chia thành mười chương (gọi là Yamaka): *Mūla*, *Khandha*, *Āyatana*, *Dhātu*, *Sacca*, *Saṅkhārā*, *Anusaya*, *Citta*, *Dhamma* và *Indriya*. Phương pháp trình bày của mỗi chương trong mười phần có xu hướng bao gồm ba bước. Đầu tiên, một *Paññattivāra* hoặc phần phân định thuật ngữ và khái niệm, được chia thành một *Uddesavāra*, chỉ nêu ra các câu hỏi, và một *Niddesavāra*, trong đó các câu hỏi được lặp lại cùng với những câu trả lời khác nhau của chúng. Thứ hai, và chủ yếu, là *Pavattivāra*, không đề cập đến quy trình nói chung, mà nói đến các quá trình sinh sống, và, cuối cùng, *Pariññāvāra*, giải quyết mức độ mà một cá nhân cụ thể (nghĩa là, một nhóm chúng sinh) hiểu được phạm trù đang được xem xét. Có một bản Chú giải cho Yamaka do Buddhaghosa biên soạn, được đưa vào Pañcappakaraṇaṭṭhakathā. Xem ấn bản của PTS, i.xix ff.; Yamaka đã được PTS xuất bản vào năm 1911, 1913.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sujātā"
 disambiguator: "04"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sujātā 04. Mother of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sujātā 04. Mẹ của Koṇḍañña Buddha. Bv.iii.25; Ja.i.30.
 
 ## Notes

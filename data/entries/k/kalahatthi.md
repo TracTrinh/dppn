@@ -5,7 +5,7 @@ base_headword: "Kāḷahatthi"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -30,6 +30,8 @@ Kāḷahatthi is identified with <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷahatthi. Vị tổng tư lệnh của *Porisāda*, vị vua ăn thịt người, được nhắc đến trong Sutasomajātaka (Ja 537). Khi Kāḷahatthi phát hiện ra sự độc ác của nhà vua, ông đã thuyết phục vua rời khỏi thành phố và giao lại quyền cai trị cho con trai của vua. Một thời gian sau, khi Sutasoma đã chữa khỏi thói quen ăn thịt người của *Porisāda*, Kāḷahatthi đồng ý khôi phục ngôi vị cho vua (Ja.v.460-70; 508ff).
+
+Kāḷahatthi được nhận diện là Sāriputta (Ja.v.511). Ở một vài nơi (ví dụ, Ja.v.461, 465, 468), ông được gọi là Kāḷa.
 
 ## Notes

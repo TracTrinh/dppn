@@ -5,7 +5,7 @@ base_headword: "Kāka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -30,6 +30,8 @@ Kāka. Slave of King <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāka. Nô lệ của Vua Caṇḍappajjota. Cha của ông là người phi nhân, và bản thân ông có thể đi bộ sáu mươi do-tuần một ngày. Khi Caṇḍappajjota phát hiện ra Jīvaka đã bỏ trốn, sau khi đã đưa cho vua một số loại thuốc có chứa bơ sữa trâu, ông đã phái Kāka đuổi theo Jīvaka và bắt ông ta trở lại, ban cho Kāka những mệnh lệnh nghiêm ngặt là không được ăn bất cứ thứ gì do Jīvaka dâng cúng.
+
+Kāka bắt gặp vị thầy thuốc tại Kosambī khi ông đang dùng bữa sáng. Jīvaka mời Kāka ăn, nhưng ông từ chối. Tuy nhiên, cuối cùng ông cũng đồng ý ăn một nửa quả myrobalan, thứ mà ông nghĩ sẽ vô hại, nhưng Jīvaka đã tẩm vào đó một ít thuốc giấu trong móng tay của mình. Kāka đã bị xổ dữ dội và rất hoảng sợ. Jīvaka nói với Kāka rằng tất cả những gì ông muốn là để Kāka bị trì hoãn một chút và rời đi, sau khi đã giao nộp lại cho Kāka con voi Bhaddavatikā, con voi mà ông đã sử dụng trong cuộc tẩu thoát của mình. Vin.i.277f; Dhp­a.i.196.
 
 ## Notes

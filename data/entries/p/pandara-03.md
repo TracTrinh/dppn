@@ -5,7 +5,7 @@ base_headword: "Paṇḍara"
 disambiguator: "03"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Paṇḍara 03. A clan of elephants, each having the strength of one thousand me
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇḍara 03. Một dòng dõi voi, mỗi con có sức mạnh bằng một ngàn người đàn ông. Ud­a.403; Vibh­a.397; AN­a.ii.822.
 
 ## Notes

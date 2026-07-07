@@ -5,7 +5,7 @@ base_headword: "Kukkuvagga"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kukkuvagga. The first section of the <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phần đầu tiên của Sattanipāta của Jātaka Commentary. Ja.iii.317-63.
 
 ## Notes

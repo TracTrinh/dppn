@@ -5,7 +5,7 @@ base_headword: "Paṇḍavavāpī"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Paṇḍavavāpī. A tank and a monastery in Ceylon, restored by <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇḍavavāpī. Một hồ nước và một tu viện ở Tích Lan, được Vijayabāhu I phục hồi (Cv.lx.48, 58). Hồ nước sau đó được Parakkamabāhu I mở rộng và chuyển thành Parakkamasamudda. Sđd., lxviii.39; để biết cách xác định nó, xem Cv.Trs.i.219, n.1.
 
 ## Notes

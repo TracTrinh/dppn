@@ -5,7 +5,7 @@ base_headword: "Mahālisutta"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -28,6 +28,6 @@ Mahālisutta 02. The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahālisutta 02. Vị Licchavī là Mahāli đến viếng thăm Đức Phật tại Kūṭāgārasālā và đặt câu hỏi cho Ngài liên quan đến học thuyết của Pūraṇa Kassapa rằng không có nguyên nhân hay điều kiện nào cho sự ô uế của các chúng sinh. Đức Phật bác bỏ quan điểm này, và giải thích rằng chính bởi vì các chúng sinh tìm kiếm sự thỏa mãn trong cơ thể, v.v., nên họ trở nên ô uế. Khi họ cảm thấy sự ghê tởm đối với cơ thể, v.v., họ trở nên thanh tịnh. SN.iii.68f.
 
 ## Notes

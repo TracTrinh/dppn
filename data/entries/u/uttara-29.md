@@ -5,7 +5,7 @@ base_headword: "Uttara"
 disambiguator: "29"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uttara 29. A banker of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttara 29. Một chủ ngân hàng ở Uttaragāma, cha của Uttarā (13). Bv­a.116.
 
 ## Notes

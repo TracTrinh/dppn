@@ -5,7 +5,7 @@ base_headword: "Kittigāma"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,6 @@ Kittigāma. A village in Ceylon, near <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kittigāma. Một ngôi làng ở Tích Lan, gần Koṭapabbata. Đó là nơi sinh của Theraputtābhaya, một trong những chiến binh chủ chốt của Duṭṭhagāmaṇī. Mhv.xxiii.55.
 
 ## Notes

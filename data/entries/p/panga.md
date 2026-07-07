@@ -5,7 +5,7 @@ base_headword: "Paṅga"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Paṅga. The name of a <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṅga. Tên của một vị Pacceka Buddha, được tìm thấy trong một danh sách tên. MN.iii.70; Ap­a.i.107.
 
 ## Notes

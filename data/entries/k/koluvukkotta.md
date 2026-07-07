@@ -5,7 +5,7 @@ base_headword: "Koḷuvukkoṭṭa"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -25,6 +25,6 @@ Koḷuvukkoṭṭa. A stronghold in South India, once occupied by <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koḷuvukkoṭṭa. Một thành trì ở miền Nam Ấn Độ, từng bị chiếm đóng bởi Paṇḍiyāṇḍāra. Cv.lxxvi.170, 172.
 
 ## Notes

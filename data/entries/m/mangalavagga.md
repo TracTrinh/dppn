@@ -5,7 +5,7 @@ base_headword: "Maṅgalavagga"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Maṅgalavagga. The fifteenth chapter of the *Tikanipāta* of the <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṅgalavagga. Chương thứ mười lăm của *Tikanipāta* trong Aṅguttaranikāya. (AN.i.292-4.)
 
 ## Notes

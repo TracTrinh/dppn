@@ -5,7 +5,7 @@ base_headword: "Mahā Saṭṭhivassa Thera"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -26,6 +26,6 @@ Mahā Saṭṭhivassa Thera. A resident of <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Saṭṭhivassa Thera. Một người trú ngụ tại *pariveṇa* Kaṭṭhakasālā. Vua Vasabha đã đi đến tu viện, trong khi vị Tỳ-kheo đang nằm hấp hối, định để đảnh lễ ngài, nhưng ở trước cửa, ông nghe tiếng rên rỉ của người bệnh, và chán nản vì, sau sáu mươi năm sống đời tu viện, ngài lại không thể chế ngự được cơn đau của mình, nên nhà vua không bước vào. Điều này được báo lại cho Trưởng lão, và bằng việc dốc sức nỗ lực lớn lao, ngài đã khắc phục cơn đau của mình và cho người nhắn nhà vua hãy vào với ngài. Vasabha bước vào, và sấp mình xuống trước mặt Trưởng lão, nói rằng: "Trẫm đảnh lễ ngài, không phải vì quả vị *Arahant* của ngài, mà vì sự nỗ lực ngài đã dốc ra khi vẫn còn là một phàm phu (*puthujjana*)." DN­a.i.291.
 
 ## Notes

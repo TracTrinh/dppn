@@ -5,7 +5,7 @@ base_headword: "Malavagga"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -24,6 +24,6 @@ Malavagga. The twenty-first chapter of the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Malavagga. Phẩm thứ hai mươi mốt của Dhammapada.
 
 ## Notes

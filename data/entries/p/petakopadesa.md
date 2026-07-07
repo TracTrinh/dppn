@@ -5,7 +5,7 @@ base_headword: "Peṭakopadesa"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -29,6 +29,8 @@ A *ṭīkā* on this work is ascribed to a teacher named <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Peṭakopadesa. Một luận thư về phương pháp luận văn bản và chú giải, thường được gán cho Mahā Kaccāyana (Gv.59) và được (người Miến Điện) đưa vào Khuddakanikāya (Bode, 5).
+
+Một bản *ṭīkā* về tác phẩm này được gán cho một đạo sư tên là Udumbara. Gv.65.
 
 ## Notes

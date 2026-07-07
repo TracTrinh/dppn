@@ -5,7 +5,7 @@ base_headword: "Pihitasutta"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -23,6 +23,6 @@ Pihitasutta. The world is shut in by death. SN.i.40.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pihitasutta. Thế giới bị bao bọc bởi sự chết. SN.i.40.
 
 ## Notes

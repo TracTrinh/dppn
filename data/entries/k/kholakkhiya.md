@@ -5,7 +5,7 @@ base_headword: "Kholakkhiya"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -25,6 +25,6 @@ Kholakkhiya. An image of the Buddha in Ceylon. King <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kholakkhiya. Một bức tượng Đức Phật ở Tích Lan. Vua Udaya I đã ban ngôi làng Mahā Maga để bảo trì tượng này. Cv.xlix.14.
 
 ## Notes

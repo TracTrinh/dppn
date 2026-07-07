@@ -5,7 +5,7 @@ base_headword: "Varamandhātā"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -27,6 +27,6 @@ Varamandhātā. A primeval king, son of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Varamandhātā. Một vị vua thời thượng cổ, con trai của Mandhātā. Con trai của ông là Cara. Ja.iii.454, nhưng theo DN­a.i.258 và Snp­a.i.352, con trai của ông là Uposatha.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kārapiṭṭhi"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -26,6 +26,6 @@ Kārapiṭṭhi. A village in Ceylon. <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kārapiṭṭhi. Một ngôi làng ở Tích Lan. Moggallāna III. đã xây dựng Moggallānavihāra tại đó. Cv.xliv.50.
 
 ## Notes

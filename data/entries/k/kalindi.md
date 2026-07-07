@@ -5,7 +5,7 @@ base_headword: "Kālindī"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -26,6 +26,6 @@ Kālindī. A channel in the irrigation system of <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kālindī. Một con kênh trong hệ thống thủy lợi của Parakkamabāhu I., chảy về phía nam từ hồ chứa nước Maṇihīra. Cv.lxxix.54.
 
 ## Notes

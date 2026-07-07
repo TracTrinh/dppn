@@ -5,7 +5,7 @@ base_headword: "Līlāvatī"
 disambiguator: "03"
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -34,6 +34,6 @@ Līlāvatī 03. Daughter of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Līlāvatī 03. Con gái của Sirivallabha và Sugalā, và là em gái của Māṇābharaṇa (Cv.lxii.2). Bà là hoàng hậu đầu tiên của Parakkamabāhu I., và sau khi ông mất, bà cai trị Tích Lan trong ba năm (1197-1200 CN), với sự trợ giúp của tướng quân Kitti, cho đến khi bị Sāhasamalla truất phế. Sau đó bà lại trị vì thêm một năm, lần này với sự trợ giúp của Vikkantacamūnakka. Lokissara truất phế bà và cai trị chín tháng, khi đó tướng quân Parakkama một lần nữa đưa Līlāvatī lên ngôi, lần này bà cai trị khoảng bảy tháng. Cv.lxxx.31, 46, 50; cũng Cv.Trs.ii.131, n.5.
 
 ## Notes

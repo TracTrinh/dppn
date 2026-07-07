@@ -5,7 +5,7 @@ base_headword: "Sudhammā"
 disambiguator: "05"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Sudhammā 05. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudhammā 05. Sudhammā Therī. Một vị *Arahant*. Bà sống trong thời của Kassapa Buddha. Theo ý nguyện của Đức Phật, bà đã mang theo một nhánh của cây Bodhi và trồng nó tại Mahā Sāgaruyyāna ở Tích Lan. Dpv.xvii.19f.; Mhv.xv.147f.
 
 ## Notes

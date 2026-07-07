@@ -5,7 +5,7 @@ base_headword: "Sīdā"
 disambiguator: "03"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sīdā 03. A canal flowing eastwards from the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīdā 03. Một kênh đào chảy về hướng đông từ Aciravatī (Cv.lxxix.53) (luồng chảy của Mahā Vālukanadī).
 
 ## Notes

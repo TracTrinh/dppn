@@ -5,7 +5,7 @@ base_headword: "Soma"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Soma 03. A *Yavapāla* who offered grass for his seat to <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Soma 03. Một *Yavapāla* đã dâng cỏ làm nệm ngồi cho Kassapa Buddha. Bv­a.218; cf. Mvu.iii.105,106.
 
 ## Notes

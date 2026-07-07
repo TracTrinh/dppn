@@ -5,7 +5,7 @@ base_headword: "Vācissara"
 disambiguator: "03"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -28,6 +28,6 @@ Vācissara 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vācissara 03. Vācissara Trưởng lão. Có lẽ đồng nhất với vị (2) ở trên. Ông đứng đầu Tăng đoàn dưới triều đại Vijayabāhu III, và đã giấu bình bát và Xá-lợi Răng của Đức Phật tại Kotthumala để bảo quản chúng. Sau đó, ông đến Nam Ấn Độ để tìm nơi trú ẩn. Về sau, ông được Vijayabāhu thỉnh về và giúp đỡ trong việc cải tổ Tăng đoàn. Cv.lxxxi.18ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kukkujātaka"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -30,6 +30,8 @@ The king is identified with <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kukkujātaka (Ja 396). Bao gồm một vài dụ ngôn mà Bodhisatta, với tư cách là một cố vấn cho Brahmadatta, vua xứ Benares, đã sử dụng để răn dạy nhà vua. Giống như nóc của một mái nhà sẽ sụp đổ trừ khi được giữ chặt bởi các rui mè, một vị vua phải được ủng hộ bởi những thần dân mà ông đã thu phục bằng sự công bằng của mình. Giống như một quả thanh yên phải được ăn mà không có vỏ của nó, thuế khóa cũng phải được thu mà không có bạo lực. Giống như hoa sen, không bị ô nhiễm bởi nước mà nó mọc lên, người đạo đức không bị vấy bẩn bởi thế gian.
+
+Nhà vua được đồng nhất với Ānanda (Ja.iii.317ff). Dịp kể lại câu chuyện được đưa ra trong Tesakuṇajātaka.
 
 ## Notes

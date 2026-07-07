@@ -5,7 +5,7 @@ base_headword: "Mallikāsutta"
 disambiguator: "01"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -27,6 +27,8 @@ Mallikāsutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mallikāsutta 01. Mallikā đến gặp Đức Phật và hỏi ngài tại sao một số phụ nữ thì xinh đẹp, số khác thì xấu xí, một số thì giàu có, số khác lại nghèo khổ. Đức Phật giải thích rằng nếu một người phụ nữ tính tình nóng nảy và dễ cáu gắt, hay ghen tị và chậm chạp trong việc bố thí, thì người đó sẽ trở nên nghèo khó và xấu xí, bất kể cô ta được sinh ra ở đâu. Tuy nhiên, một người phụ nữ không bao giờ nổi giận hay kích động ngay cả khi bị khiêu khích mạnh mẽ, và lại rất rộng lượng, thì người đó sẽ trở nên xinh đẹp và giàu có.
+
+Mallikā tuyên bố quyết tâm của mình cho tương lai, đó là trở nên nhu hòa trong tính tình, không bao giờ thù dai hay nuôi dưỡng sự oán hận, mà luôn đáng yêu và rộng lượng. AN.ii.202ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Takkapaṇḍita"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Takkapaṇḍita. The name given to the Bodhisatta in the <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Takkapaṇḍita. Tên được đặt cho Bodhisatta trong Takkajātaka (Ja 63).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vijayapāla"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vijayapāla. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vijayapāla. Con trai của Vimaladhammasūriya I. và hoàng hậu Doṇa Catherina. Ông là thống đốc của tỉnh Mātula. Cv.xcv.22.
 
 ## Notes

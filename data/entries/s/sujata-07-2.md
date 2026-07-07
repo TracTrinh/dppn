@@ -5,7 +5,7 @@ base_headword: "Sujātā"
 disambiguator: "07"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sujātā 07. An *upāsikā* of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sujātā 07. Một nữ *upāsikā* của Ñātikā. Đức Phật nói rằng bà đã trở thành một vị *Sotāpanna* và do đó đã đảm bảo cho chính mình đạt được quả vị *Arahant*. DN.ii.92; SN.v.356f.
 
 ## Notes

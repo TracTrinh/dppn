@@ -5,7 +5,7 @@ base_headword: "Piyadassī"
 disambiguator: "06"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Piyadassī 06. A name for <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piyadassī 06. Một tên gọi của Dhammāsoka.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Rohantāmigajātaka"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -40,6 +40,8 @@ The story was related in reference to <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rohantāmigajātaka (Ja 501). Bodhisatta có lần sinh làm Rohanta, một con nai vàng, vua của tám mươi ngàn con nai, sống gần hồ Rohanta. Ngài có một người em trai, Cittamiga, và một em gái, Sutanā. Một hôm, Khemā, vợ của vua xứ Benares, nằm mơ thấy một con nai vàng thuyết pháp cho bà, và bà nài xin nhà vua khiến giấc mơ ấy thành sự thật. Nhà vua treo thưởng hậu hĩ, và một người thợ săn, biết về sự tồn tại của Rohanta, nhận lời đưa nó về triều. Ông ta đặt bẫy tại chỗ lội qua sông nơi đàn nai đến uống nước, và Rohanta bị mắc bẫy. Khi Rohanta báo động, tất cả đàn nai đều bỏ chạy trừ Cittamiga và Sutanā. Chúng nói với người thợ săn rằng chúng thà chết cùng anh mình còn hơn bỏ rơi anh, và người thợ săn, cảm động trước lòng trung thành ấy, đã thả Rohanta ra. Khi Rohanta biết được lý do vì sao mình bị bắt, nó đề nghị sẽ đến Benares, nhưng bị người thợ săn khuyên can vì những hiểm nguy mà nó sẽ gặp phải. Rohanta bèn thuyết Pháp cho người thợ săn và gửi ông ta trở về cùng một sợi lông vàng từ thân mình. Người thợ săn kể lại câu chuyện cho vua và hoàng hậu và thuyết Pháp cho họ. Sau đó, từ chối những phần thưởng mà họ đề nghị, ông trở thành một vị khổ hạnh ở Himālaya.
+
+Câu chuyện này được kể ra liên quan đến việc Ānanda toan lao mình ra trước con voi Dhanapāla, kẻ được cử đến để giết Đức Phật. Ānanda được đồng nhất với Cittamiga, Channa với người thợ săn, Sāriputta với nhà vua và Uppalavaṇṇā với Sutanā. Ja.iv.413ff.; một số câu kệ của Jātaka này cũng được tìm thấy trong Tesakuṇajātaka (Ja.v.123f.).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sobhita"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Sobhita 02. The constant attendant of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sobhita 02. Thị giả thường trực của Piyadassī Buddha. Bv.xiv.20; Ja.i.34.
 
 ## Notes

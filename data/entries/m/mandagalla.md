@@ -5,7 +5,7 @@ base_headword: "Maṇḍagalla"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Maṇḍagalla. A village near <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇḍagalla. Một ngôi làng gần Anurādhapura, được đề cập trong các ghi chép về các chiến dịch của Parakkamabāhu I. Cv.Iviii.43; Cv.Trs.i.206, n.5.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Rujā"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -28,6 +28,6 @@ Rujā. The daughter of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rujā. Con gái của Aṅgati, vua xứ Mithilā. Câu chuyện của cô được đưa ra trong bài kinh Mahā Nāradakassapajātaka (Ja 544, *q.v.*). Cô được đồng nhất với Ānanda. Ja.vi.255.
 
 ## Notes

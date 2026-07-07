@@ -5,7 +5,7 @@ base_headword: "Kāmajātaka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -36,6 +36,12 @@ The story was told in reference to the Brahmin to whom the <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāmajātaka (Ja 467). Brahmadatta, vua xứ Benares, có hai người con trai. Khi nhà vua qua đời, người con cả từ chối vương miện và lui về một ngôi làng biên giới. Người dân ở đó, khi phát hiện ra danh tính của vị vương tử, đã đề nghị nộp thuế cho vị ấy thay vì cho nhà vua, và nhà vua, theo yêu cầu của vị ấy, đã đồng ý.
+
+Khi quyền lực của mình tăng lên, vị vương tử trở nên tham lam hơn và đòi hỏi vương quốc, điều mà người em trai vui vẻ từ bỏ. Nhưng lòng tham của người anh là không thể thỏa mãn, và Sakka, để dạy cho vị ấy một bài học, đã đến trong hình dáng của một thanh niên và đề nghị chiếm lấy cho vị ấy ba thành phố. Nhà vua quyết định chấp nhận lời đề nghị; nhưng sau đó, người thanh niên không thể được tìm thấy, và nhà vua lâm bệnh vì lòng tham.
+
+Bodhisatta, vừa trở về từ Takkasilā, nghe nói về chuyện này, và sau khi được sự cho phép của nhà vua để chữa trị cho ngài, đã chữa khỏi căn bệnh này cho ngài bằng cách cho ngài thấy sự vô ích của những mong muốn của mình. Sau đó nhà vua trở thành một vị vua anh minh (Ja.iv.167ff).
+
+Câu chuyện được kể liên quan đến vị Bà-la-môn mà bài kinh Kāmasutta được thuyết giảng cho vị ấy. Kāmanītajātaka (Ja 228) cũng được thuyết giảng trong bối cảnh này.
 
 ## Notes

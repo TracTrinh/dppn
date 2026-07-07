@@ -5,7 +5,7 @@ base_headword: "Pañcālavihāra"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Pañcālavihāra. A monastery in <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcālavihāra. Một tu viện ở Soṇṇagiripāda (ở Tích Lan); nơi cư trú của tỳ-kheo Soṇa, con trai của một thợ săn. AN­a.i.255. Xem thêm Pipphalivihāra.
 
 ## Notes

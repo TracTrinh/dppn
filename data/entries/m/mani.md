@@ -5,7 +5,7 @@ base_headword: "Maṇi"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Maṇi. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇi. Một tù trưởng Yakkha, mà Phật tử có thể cầu khẩn khi cần thiết. DN.iii.205.
 
 ## Notes

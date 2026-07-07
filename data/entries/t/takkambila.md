@@ -5,7 +5,7 @@ base_headword: "Takkambila"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Takkambila. A *pāsāda* attached to a *vihāra* in <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Takkambila. Một *pāsāda* trực thuộc một *vihāra* ở Rohaṇa. Nó đã được trùng tu bởi Dappula, người cũng đã an trí các vị tỳ-kheo vào đó lưu trú. Cv.xlv.56.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Suddhikasutta"
 disambiguator: "04"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Suddhikasutta 04. The different kinds of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suddhikasutta 04. Các loài *Gandhabba* khác nhau: những vị trú ngụ trong hương thơm của rễ cây, lõi cây, giác cây, vỏ cây, nhựa cây, lá, hoa, mùi vị, và hương thơm nói chung. SN.iii.249.
 
 ## Notes

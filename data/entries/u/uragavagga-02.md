@@ -5,7 +5,7 @@ base_headword: "Uragavagga"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -25,6 +25,6 @@ Uragavagga 02. The first section of the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uragavagga 02. Phần đầu tiên của Petavatthu. Câu chuyện cuối cùng trong phần này được gọi là Uraga Petavatthu. Pv., p.11.
 
 ## Notes

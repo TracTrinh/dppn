@@ -5,7 +5,7 @@ base_headword: "Mahā Yasa Thera"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -26,6 +26,6 @@ Mahā Yasa Thera. Of Thāton, author of the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Yasa Thera. Của Thāton, tác giả của Kaccāyanabheda và Kaccāyanasāra. Ngài có lẽ đã thuộc về thế kỷ mười bốn. Bode, 36f.; Svd.1250.
 
 ## Notes

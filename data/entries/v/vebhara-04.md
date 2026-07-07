@@ -5,7 +5,7 @@ base_headword: "Vebhāra"
 disambiguator: "04"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,6 @@ Vebhāra 04. A city built by <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một thành phố được xây dựng bởi Vissakamma, nơi Valliya Thera (Candanamāliya) sinh sống trong một tiền kiếp. Thag­a.i.294; Ap.ii.424.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sirivaḍḍha"
 disambiguator: "08"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sirivaḍḍha 08. A palace that will be occupied by <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirivaḍḍha 08. Một cung điện sẽ được Metteyya Buddha ở trước khi Ngài xuất gia. Anāg.p.46.
 
 ## Notes

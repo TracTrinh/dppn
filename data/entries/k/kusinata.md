@@ -5,7 +5,7 @@ base_headword: "Kusināṭā"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kusināṭā. One of the cities of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một trong các thành phố của Uttarakuru (DN.iii.200).
 
 ## Notes

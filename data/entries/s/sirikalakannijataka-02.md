@@ -5,7 +5,7 @@ base_headword: "Sirikālakaṇṇijātaka"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -36,6 +36,8 @@ Sirikālakaṇṇijātaka 02. (Ja 382). The Bodhisatta was once a merchant of <s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirikālakaṇṇijātaka 02. (Ja 382). Bodhisatta từng là một thương nhân ở Benares, và, vì gia đình ông tuân giữ các quy tắc đạo hạnh, ông được gọi là Suciparivāra ("gia đình thanh khiết"). Ông luôn giữ một chiếc ghế dài và giường chưa dùng cho bất kỳ ai đến nhà ông mà thanh khiết hơn chính ông. Một ngày kia, Kāḷakaṇṇī, con gái của Virūpakka, và Sirī, con gái của Dhataraṭṭha, đi tắm ở Anotatta, và một cuộc tranh cãi nổ ra về việc ai nên tắm trước. Vì cả Tứ Đại Thiên Vương lẫn Sakka đều không muốn phân xử, họ giới thiệu hai nữ thần đến Suciparivāra. Kāḷakaṇṇī xuất hiện trước ông trước tiên trong xiêm y xanh và trang sức, và, khi được hỏi về những phẩm chất của mình, nàng đã kể cho ông nghe, và bị yêu cầu biến khỏi tầm mắt ông. Rồi Sirī đến, tỏa ra ánh sáng vàng rực, và Bodhisatta, khám phá ra thân phận và các đức hạnh của nàng, đã đón chào nàng và mời nàng chiếc ghế dài chưa dùng của mình. Như vậy cuộc tranh chấp được giải quyết. Chiếc giường mà Sirī đã dùng trở thành tên gọi Sirisaya, từ đó có nguồn gốc của Sirisayana.
+
+Sirī được đồng nhất với Uppalavaṇṇā. Ja.iii. 257-64.
 
 ## Notes

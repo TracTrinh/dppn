@@ -5,7 +5,7 @@ base_headword: "Mahā Ratha"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -26,6 +26,6 @@ Mahā Ratha 02. A *Devaputta* in <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Ratha 02. Một *Devaputta* ở Tāvatiṁsa. Nhờ vào những thiện sự của mình, ngài đã vượt trội hơn cả chính Sakka về sự uy nghiêm. Dhp­a.i.426; Ud­a.i.199.
 
 ## Notes

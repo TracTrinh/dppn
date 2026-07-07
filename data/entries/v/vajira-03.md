@@ -5,7 +5,7 @@ base_headword: "Vajira"
 disambiguator: "03"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -23,6 +23,6 @@ Vajira 03. A teacher who wrote a commentary to the work of Jaṅghadāsaka. Gv.7
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vajira 03. Một học giả đã soạn chú giải cho tác phẩm của Jaṅghadāsaka. Gv.74.
 
 ## Notes

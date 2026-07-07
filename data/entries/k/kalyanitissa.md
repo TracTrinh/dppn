@@ -5,7 +5,7 @@ base_headword: "Kalyāṇitissa"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -29,6 +29,6 @@ Kalyāṇitissa. A king of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kalyāṇitissa. Một vị vua của Kalyāṇī, cha của Vihāramahādevī (Mhv.xxii.12ff). Ông là chắt nội của Muṭasīva và là cháu nội của Uttiya. Em trai của ông được gọi là Ayyauttiya (Mhv­ṭ.431).
 
 ## Notes

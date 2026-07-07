@@ -5,7 +5,7 @@ base_headword: "Loka"
 disambiguator: "02"
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -27,6 +27,6 @@ Loka 02. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Loka 02. Con trai của Kassapa (sau là Vikkamabāhu I.) và Lokitā. Người anh em của ông là Moggallāna. Cv.lvii.29; Cv.Trs.i.195, n.3.
 
 ## Notes

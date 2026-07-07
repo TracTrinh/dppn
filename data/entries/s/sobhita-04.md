@@ -5,7 +5,7 @@ base_headword: "Sobhita"
 disambiguator: "04"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Sobhita 04. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sobhita 04. Một Pacceka Buddha (MN.iii.71). Chín mươi bốn kappa trước, ngài sống ở Cittakūṭa, và Kaṇhadinna, trong một tiền kiếp, đã dâng ngài những đóa hoa *punnāga* (Thag­a.i.304; cf. Ap.ii.416).
 
 ## Notes

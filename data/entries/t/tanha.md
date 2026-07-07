@@ -5,7 +5,7 @@ base_headword: "Taṇhā"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,6 @@ Taṇhā. One of the three daughters of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Taṇhā. Một trong ba người con gái của Māra, người đã cố gắng cám dỗ Đức Phật dưới cây Ajapālanigrodha, ngay sau khi ngài Giác ngộ. Snp. p.163; SN.i.124f; Ja.i.78, 469; Dhp­a.i.252; iii.196, 199.
 
 ## Notes

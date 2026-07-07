@@ -5,7 +5,7 @@ base_headword: "Mahā Pañhasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Pañhasutta. A number of lay devotees of <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Pañhasutta. Một số cư sĩ tại Kajaṅgalā đã đến viếng thăm vị tỳ-kheo-ni Kajaṅgalā (*q.v.*) và yêu cầu bà giải thích chi tiết Mahā Pañhā như đã được Đức Phật tuyên thuyết. Bà trả lời rằng bà chưa từng nghe lời giải thích của Đức Phật cũng như của các vị *Arahant*, nhưng bà sẽ giải thích chúng theo những kiến thức của riêng mình, và bà đã tiến hành làm như vậy. Các cư sĩ thuật lại lời giải thích của bà cho Đức Phật, Ngài ca ngợi trí tuệ của bà và tuyên bố rằng lời giải thích của Ngài cũng sẽ giống hệt như thế. AN.v.54ff.
 
 ## Notes

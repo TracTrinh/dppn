@@ -5,7 +5,7 @@ base_headword: "Peḷagāmavihāra"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Peḷagāmavihāra. A monastery in Ceylon, built by <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Peḷagāmavihāra. Một tu viện ở Tích Lan, được xây dựng bởi Kuṭakaṇṇatissa. Mhv.xxxiv.32; xem thêm Mhv.Trs.240, n.1.
 
 ## Notes

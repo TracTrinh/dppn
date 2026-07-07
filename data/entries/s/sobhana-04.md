@@ -5,7 +5,7 @@ base_headword: "Sobhana"
 disambiguator: "04"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Sobhana 04. A city, built by <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sobhana 04. Một thành phố, do Vissakamma xây dựng để Ukkāsatika sử dụng, trong kiếp ông là một Cakkavatti, năm mươi lăm kappa trước. Ap.ii.414.
 
 ## Notes

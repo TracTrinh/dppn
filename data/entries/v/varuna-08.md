@@ -5,7 +5,7 @@ base_headword: "Varuṇa"
 disambiguator: "08"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Varuṇa 08. A king of fifty-one *kappas* ago, a previous birth of <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Varuṇa 08. Một vị vua của năm mươi mốt *kappa* trước, là tiền kiếp của Sayanadāyaka Thera. Ap.i.99.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Paradārikasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Paradārikasutta. About a man of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paradārikasutta. Về một người đàn ông ở Rājagaha, một kẻ ngoại tình, bị tái sinh thành một ngạ quỷ trong hố phân và được Mahā Moggallāna nhìn thấy. SN.ii.258.
 
 ## Notes

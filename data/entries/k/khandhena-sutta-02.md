@@ -5,7 +5,7 @@ base_headword: "Khandhena Sutta"
 disambiguator: "02"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -23,6 +23,6 @@ Khandhena Sutta 02. The arising of suffering is due to the arising of the body, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khandhena Sutta 02. Sự phát sinh của đau khổ là do sự phát sinh của cơ thể, v.v.; sự chấm dứt của nó được mang lại bởi sự đoạn diệt của chúng (SN.iii.231).
 
 ## Notes

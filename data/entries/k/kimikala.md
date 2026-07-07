@@ -5,7 +5,7 @@ base_headword: "Kimikālā"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -31,6 +31,8 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kimikālā *v.l.* Kipillikā. Một dòng sông gần Jantugāma. Meghiya Thera đã bị thu hút bởi một vườn xoài trên bờ sông và xin Đức Phật cho phép ngài thiền định ở đó. Hai lần Đức Phật từ chối; lần thứ ba ngài đã cho phép. Meghiya đã đi, nhưng rồi nhanh chóng quay lại, nhận thấy rằng ngài không thể tập trung tâm trí ở đó. Con sông hiển nhiên là nằm ở khu vực lân cận của Cālikā (AN.iv.354f; Thag­a.i.149; Ud.iv.1).
+
+Theo Chú giải Udāna (Ud­a.217), nó được gọi như vậy vì nó có rất nhiều loài giun đen (*kālakimīnaṁ bahulatāya*).
 
 ## Notes

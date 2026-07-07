@@ -5,7 +5,7 @@ base_headword: "Mahā Rabbhakalena"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -26,6 +26,6 @@ Mahā Rabbhakalena. Once the residence of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Rabbhakalena. Nơi từng là chỗ ở của Mahā Dhammadinna thuộc Talaṅgatissapabbata. Xem Ras.ii.131f.
 
 ## Notes

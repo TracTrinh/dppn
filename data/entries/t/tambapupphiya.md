@@ -5,7 +5,7 @@ base_headword: "Tambapupphiya"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -32,6 +32,12 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tambapupphiya. Một Thera. Cách đây chín mươi mốt kappa, ngài đã trốn vào rừng sau khi phạm một tội lỗi nào đó.
+
+Ở đó ngài nhìn thấy cây bodhi của Piyadassī Buddha, và sau khi quét dọn mặt đất xung quanh, ngài đã rải hoa cúng dường.
+
+Cách đây ba kappa, ngài là một vị vua tên Samphusita (Ap.i.176).
+
+Ngài có lẽ cũng chính là Vanavaccha Thera. Thag­a.i.222f.
 
 ## Notes

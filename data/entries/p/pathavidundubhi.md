@@ -5,7 +5,7 @@ base_headword: "Paṭhavidundubhi"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Paṭhavidundubhi. A king of ninety-one *kappas* ago, a previous birth of <span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṭhavidundubhi. Một vị vua của chín mươi mốt *kappa* trước, một tiền kiếp của Māṇava (Sammukhāthavika). Thag­a.i.163; Ap.i.159.
 
 ## Notes

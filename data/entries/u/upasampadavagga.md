@@ -5,7 +5,7 @@ base_headword: "Upasampadāvagga"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Upasampadāvagga. The sixteenth chapter of the *Pañcakanipāta* of the <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upasampadāvagga. Chương thứ mười sáu của Pañcakanipāta thuộc Aṅguttaranikāya. Các Kinh của chương này đề cập đến các phẩm chất cần thiết đối với một tỳ-kheo mong muốn thọ nhận *upasampadā*, để ban *nissaya*, để thiết lập một sa-di, để trở thành một quan chức trong Tăng đoàn, v.v. AN.iii.271-8.
 
 ## Notes

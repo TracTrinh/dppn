@@ -5,7 +5,7 @@ base_headword: "Kalandavihāra"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -30,6 +30,6 @@ Kalandavihāra. A *vihāra* built in <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kalandavihāra. Một *vihāra* được xây dựng ở Kālāyanakaṇṇikā tại Rohaṇa, bởi Vua Mahā Dāṭhika Mahā Nāga (Mhv.xxxiv.89; Mhv­ṭ.635). Aggabodhi VII cũng được cho là đã xây dựng một Kalandavihāra (Cv.xlviii.70), nhưng có thể vị ấy chỉ đã trùng tu một *vihāra* đã tồn tại trước đó. Gần *vihāra* là Brāhmaṇagāma. Mhv­ṭ.685.
 
 ## Notes

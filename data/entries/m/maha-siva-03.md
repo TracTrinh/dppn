@@ -5,7 +5,7 @@ base_headword: "Mahā Sīva"
 disambiguator: "03"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Sīva 03. A famous Commentator, sometimes called *Dīghabhāṇaka* <span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sīva 03. Một vị Chú giải sư nổi tiếng, đôi khi được gọi là *Dīghabhāṇaka* Mahā Sīva. Những lời giải thích của ông được trích dẫn, với sự tôn trọng, trong các Chú giải, ví dụ, DN­a.ii.430, 511, 543, 554, 805, 881, 883; SN­a.iii.171, 198; Vin-a.iii.711; Dhs-a. 405; Paṭis-a.80; AN­a.ii.490.
 
 ## Notes

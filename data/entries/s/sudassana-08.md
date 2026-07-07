@@ -5,7 +5,7 @@ base_headword: "Sudassana"
 disambiguator: "08"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sudassana 08. A palace occupied by <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudassana 08. Một cung điện mà Dhammadassī Buddha trú ngụ (Bv.xvi.14; Bv­a.182) trong đời sống thế tục cuối cùng của ngài; ngài đã xuất gia từ cung điện này.
 
 ## Notes

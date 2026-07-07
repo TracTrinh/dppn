@@ -5,7 +5,7 @@ base_headword: "Kosalaraññoparājayavatthu"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -26,6 +26,6 @@ Kosalaraññoparājayavatthu. The story of <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kosalaraññoparājayavatthu. Câu chuyện về Pasenadi và sự bối rối, chán nản lớn của ông khi bị Ajātasattu đánh bại ba lần. Dhp­a.iii.259f.
 
 ## Notes

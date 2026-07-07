@@ -5,7 +5,7 @@ base_headword: "Kuppasutta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -23,6 +23,6 @@ Kuppasutta. The monk who has the four *paṭisambhidā* and has an emancipated m
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vị tỳ-kheo có được bốn *paṭisambhidā* và có một tâm trí giải thoát sẽ chứng ngộ được những gì không thể lay chuyển (*akuppa*). AN.iii.119f.
 
 ## Notes

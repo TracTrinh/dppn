@@ -5,7 +5,7 @@ base_headword: "Vessavaṇa"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/066.html"
@@ -94,6 +94,26 @@ An ascetic named <span class="dppn-term dppn-term-t14" data-dppn-term-pos="68" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vessavaṇa. Một trong những tên gọi của Kuvera, được ban cho ông bởi vì vương quốc của ông được gọi là Visāṇā (DN.iii.201; Snp­a.i.369, v.v.). Ông là một trong những vị thuộc Cātummahārājikā và cai trị các Yakkha, vương quốc của ông nằm ở phương Bắc (vd, DN.ii.207). Trong Āṭānāṭiyasutta ông là người phát ngôn, và ông đã tụng bài chú Āṭānāṭiya để bảo vệ Đức Phật và các đệ tử của Ngài khỏi những Yakkha không có đức tin vào Đức Phật. DN.iii.194; ông là người phát ngôn bởi vì "ông rất thân cận với Đức Phật, thành thạo trong đàm đạo, khéo được huấn luyện" (DN­a.iii.962).
+
+Ông cưỡi cỗ xe Nārīvāhana, dài mười hai do-tuần (*yojana*), có ghế ngồi làm bằng san hô. Tùy tùng của ông bao gồm mười ngàn crore Yakkha. (Snp­a.i.379; pháp tòa của vị giảng pháp trong Lohapāsāda ở Anurādhapura được làm theo thiết kế của Nārīvāhana, Mhv.xxvii.29). Ông là một bậc Dự lưu (*Sotāpanna*) và tuổi thọ của ông là chín mươi ngàn năm (AN­a.ii.718). Các sách ghi lại một cuộc đàm đạo giữa ông và Veḷukaṇṭakī Nandamātā (*xem đề mục*), khi ông nghe bà tụng Pārāyaṇavagga và đã ở lại để lắng nghe. Khi Cūḷa Subhaddā muốn thỉnh Đức Phật và các tỳ-kheo đến nhà mình ở Sāketa, và cảm thấy do dự về điều đó, Vessavaṇa đã xuất hiện trước mặt bà và nói rằng Đức Phật sẽ đến theo lời thỉnh cầu của bà (AN­a.ii.483).
+
+Trong một dịp khác (AN.iv.162; trên đường đi yết kiến Đức Buddha) ông nghe Trưởng lão Uttara đang thuyết pháp cho các tỳ-kheo ở Dhavajālikā trên Núi Saṅkheyya, gần Mahisavatthu, và đã đi kể lại với Sakka, vị này sau đó đã đến thăm Uttara và đàm luận cùng ngài.
+
+Có một lần khi Vessavaṇa đang du hành xuyên qua không trung, ông nhìn thấy Sambhūta Thera đang chìm đắm trong *samādhi*. Vessavaṇa bước xuống cỗ xe, đảnh lễ vị Trưởng lão*,* và để lại hai Yakkha với mệnh lệnh là phải chờ cho đến khi vị Trưởng lão xuất khỏi *jhāna* của ngài. Các Yakkha sau đó đã chào vị Trưởng lão nhân danh Vessavaṇa và thưa với ngài rằng họ được lệnh ở lại để bảo vệ ngài. Vị Trưởng lão gửi lời cảm tạ Vessavaṇa, nhưng cũng báo cho ông biết, thông qua các Yakkha, rằng Đức Phật đã dạy các đệ tử của Ngài cách tự bảo vệ mình bằng chánh niệm, và do đó không cần thêm sự bảo vệ nào nữa. Vessavaṇa đã viếng thăm Sambhūta trên đường ông trở về, và nhận thấy vị Trưởng lão đã trở thành một bậc *Arahant*, ông bèn đi đến Sāvatthī và mang tin này báo cho Đức Phật. Thag­a.i.46f. Đúng như cách ông khích lệ người tốt, ông cũng thể hiện sự phẫn nộ của mình đối với kẻ ác; xem, vd, Revatī.
+
+Có nhắc đến binh khí Gadāvudha của Vessavaṇa và cây xoài của ông, cây Atulamba. Snp­a.i.225; các sách (vd, SN­a.i.249; Vin-a.ii.440) rất cẩn thận khi đề cập rằng ông chỉ sử dụng binh khí Gadāvudha của mình khi ông còn là một phàm phu (*puthujjana*). Atulamba cũng được gọi là Abbhantaramba (xem Abbhantarajātaka, Ja 281, Ja.iv.324). Nơi trú ngụ của Āḷavaka nằm gần nơi ở của Vessavaṇa (Snp­a.i.240).
+
+Bimbisāra, sau khi chết, đã bảy lần được sinh ra làm một trong những vị đại thần (*paricaraka*) của Vessavaṇa, và, trong lúc đang trên đường mang một thông điệp từ Vessavaṇa đến cho Virūḷhaka, ông đã viếng thăm Đức Phật và thuật lại cho Ngài nghe về một buổi hội họp của chư thiên (Devas) mà Vessavaṇa đã tham dự và trong buổi họp đó Sanaṅkumāra đã nói lời ca ngợi Đức Phật và giáo pháp của Ngài (DN.ii.206f). Vessavaṇa dường như đã được thờ cúng bởi những người mong cầu con cái, xem, vd, câu chuyện về Rājadatta (Thag­a.i.403). Đã từng có ở Anurādhapura một cây đa được hiến cúng làm đền thờ Vessavaṇa vào thời của Paṇḍukābhaya (Mhv.x.89). Vessavaṇa được đề cập là đã hiện tiền trong thời kỳ của Vipassī Buddha. Khi Vipassī viên tịch, có một trận động đất lớn khiến người dân khiếp sợ, nhưng Vessavaṇa đã xuất hiện và làm dịu đi nỗi sợ hãi của họ (Thag­a.i.149). Vessavaṇa đã đi cùng Sakka khi vị này dẫn Moggallāna đi tham quan quanh cung điện Vejayantapāsāda. MN.i.253; bởi vì ông là một người bạn rất thân của Sakka (MN­a.i.476).
+
+Là chúa tể của các Yakkha, Vessavaṇa có quyền hạn ban cho bất kỳ ai trong số họ những đặc quyền, chẳng hạn như quyền ăn thịt bất cứ người nào bước xuống một cái ao cụ thể, v.v. Xem, vd, Dhp­a.iii.74; Ja.i.128; iii.325 (Makhādevajātaka, Ja 9). Đôi khi, vd, trong trường hợp của Avaruddhaka (Dhp­a.ii.237), một Yakkha phải phục vụ Vessavaṇa trong mười hai năm để đạt được một đặc ân (cf. Ja.ii.16,17, ở Ja.iii.502 nói là ba năm.) Vessavaṇa thỉnh thoảng sử dụng sự phục vụ của những con người man rợ chưa được khai hóa (*paccantamilakkhavāsika*) DN­a.iii.865f. Các Yakkha rất sợ hãi ông. Nếu ông tức giận và chỉ cần liếc nhìn một lần, một ngàn Yakkha sẽ bị vỡ nát và văng tung tóe "giống như những hạt đậu rang nảy bật trên chiếc chảo nóng" (Ja.ii.399). Điều này có lẽ diễn ra trước khi ông trở thành một bậc Dự lưu (*Sotāpanna*).
+
+Vessavaṇa, giống như Sakka, không phải là tên của một chúng sinh cụ thể, mà là của người giữ một tước vị. Khi một vị Vessavaṇa qua đời, Sakka sẽ chọn một người khác làm người kế vị của ông. Vị tân vương, khi lên ngôi, sẽ gửi lời nhắn đến tất cả các Yakkha, yêu cầu họ lựa chọn nơi ở đặc biệt cho mình (Ja.i.328). Nhiệm vụ của các dạ-xoa nữ (*Yakkhinī*) là phải đi lấy nước từ hồ Anotatta cho Vessavaṇa sử dụng. Mỗi *Yakkhinī* phục vụ theo phiên của mình, đôi khi trong bốn, đôi khi trong năm tháng. Nhưng đôi khi họ chết vì kiệt sức trước khi kết thúc phiên phục vụ của mình (Dhp­a.i.40; cũng xem Ja.iv.492; v.21).
+
+Vợ của Vessavaṇa là Bhuñjatī (*xem đề mục*), người mà, cũng giống như chính ông, là một tín đồ thành tâm của Đức Phật (DN.ii.270). Họ có năm người con gái: Latā, Sajjā, Pavarā, Acchimatī, và Sutā. Về một câu chuyện liên quan đến họ, xem Vv-a.131f.
+
+Puṇṇaka là cháu trai của Vessavaṇa. Ja.vi.265, 326. Những thú vui và sự xa hoa mà Vessavaṇa thụ hưởng đã trở thành câu ngạn ngữ. Xem, vd, Vv.iv. 3, 46 (*bhuñjāmi kāmakāmī rājā Vessavaṇo yathā*, ta tận hưởng như vị Vua Vessavaṇa tìm cầu dục lạc); Mhv­ṭ. 676 (*Vessavaṇassa rājaparihārasadisaṁ*); cf. Ja.vi.313.
+
+Một vị ẩn sĩ tên là Kañcanapatti (Ja.ii.399) được đề cập là nhân vật yêu thích của Vessavaṇa. Xem thêm Yakkha.
 
 ## Notes

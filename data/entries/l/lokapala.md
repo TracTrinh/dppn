@@ -5,7 +5,7 @@ base_headword: "Lokapālā"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -25,6 +25,6 @@ Lokapālā. The name given to the kings of the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lokapālā. Tên gọi dành cho các vị vua của Cātummahārājika *Devā*.
 
 ## Notes

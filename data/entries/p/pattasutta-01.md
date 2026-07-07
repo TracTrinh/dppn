@@ -5,7 +5,7 @@ base_headword: "Pattasutta"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -23,6 +23,6 @@ Pattasutta 01. Eight reasons for which the Saṅgha is entitled to turn their be
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pattasutta 01. Tám lý do khiến cho Tăng đoàn có quyền úp ngược bình bát của mình (như một dấu hiệu của sự khiển trách), hoặc bưng chúng lên (thể hiện thiện ý của họ) khi bước vào nhà của một cư sĩ. AN.iv.344f.
 
 ## Notes

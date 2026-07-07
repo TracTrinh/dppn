@@ -5,7 +5,7 @@ base_headword: "Khitaka Thera"
 disambiguator: "02"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -32,6 +32,10 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khitaka Thera 02. Một vị Arahant. Ngài sinh ra trong một gia đình Bà-la-môn xứ Kosala và, sau khi nghe Đức Phật thuyết pháp, ngài đã gia nhập Tăng đoàn, rồi dần dần đắc quả vị Arahant. Về sau ngài sống trong rừng, khơi dậy lòng nhiệt thành nơi các vị tỳ-kheo sống ở rừng.
+
+Vào thời của Vipassī Buddha ngài là một người giữ công viên, và khi thấy Đức Phật đi ngang qua trên không trung, ngài đã dâng cúng một trái dừa, Đức Phật đã dừng lại để nhận (Thag.vv.191-2; Thag­a.315f).
+
+Ngài có lẽ đồng nhất với Nāḷikeradāyaka Thera trong Apadāna (Ap.ii.447f). Các bài kệ Apadāna của ngài cũng được tìm thấy dưới tên của Kuṇḍala Thera. Thag­a.i.72.
 
 ## Notes

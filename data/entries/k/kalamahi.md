@@ -5,7 +5,7 @@ base_headword: "Kāḷamahī"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -25,6 +25,6 @@ Kāḷamahī. A branch of the river <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷamahī. Một nhánh của con sông Mahā Mahī, mà sau đó nó nhập lại. Snp-a.i.27.
 
 ## Notes

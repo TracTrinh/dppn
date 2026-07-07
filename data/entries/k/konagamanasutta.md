@@ -5,7 +5,7 @@ base_headword: "Koṇāgamanasutta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -26,6 +26,6 @@ Koṇāgamanasutta. The thoughts that came to <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koṇāgamanasutta. Những suy nghĩ đã đến với Koṇāgamana trước khi Giác ngộ (Awakening) của ngài, liên quan đến sinh, lão và tử. SN.ii.9.
 
 ## Notes

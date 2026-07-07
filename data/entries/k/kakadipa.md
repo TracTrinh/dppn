@@ -5,7 +5,7 @@ base_headword: "Kākadīpa"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -27,6 +27,6 @@ Kākadīpa. An island to the east of Ceylon. A part of the expeditionary force s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kākadīpa. Một hòn đảo ở phía đông Tích Lan. Một bộ phận của lực lượng viễn chinh do Parakkamabāhu I. phái đến Rāmañña đã đổ bộ lên hòn đảo này, bắt giữ một số cư dân và đưa họ đến Tích Lan, nơi họ được dâng lên nhà vua (Cv.lxxvi.57). Kākadīpa có thể là tên của một trong những Quần đảo Andaman.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kiñjakesara"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kiñjakesara (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kiñjakesara (*v.l.* Kiñcakesara). Sáu mươi tám *kappa* trước có bốn vị vua mang tên này, tất cả đều là các kiếp trước của Bimbijāliya Thera. Ap.i.225.
 
 ## Notes

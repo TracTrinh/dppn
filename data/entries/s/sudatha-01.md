@@ -5,7 +5,7 @@ base_headword: "Sudāṭha"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sudāṭha 01. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudāṭha 01. Một Pacceka Buddha nằm trong một danh sách tôn danh. MN.iii.70.
 
 ## Notes

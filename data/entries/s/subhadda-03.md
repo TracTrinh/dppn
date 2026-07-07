@@ -5,7 +5,7 @@ base_headword: "Subhadda"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Subhadda 03. A *yavapālaka* who gave grass for his seat to <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subhadda 03. Một *yavapālaka* (người canh giữ lúa mạch) đã cúng dường cỏ cho Kakusandha Buddha làm chỗ ngồi. Bv­a.210.
 
 ## Notes

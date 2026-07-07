@@ -5,7 +5,7 @@ base_headword: "Pariḷāha"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Pariḷāha. A *niraya* where all objects of the senses, even when really attrac
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pariḷāha. Một địa ngục (*niraya*) nơi mọi đối tượng của các giác quan, ngay cả khi thực sự hấp dẫn, đều có vẻ hoàn toàn đáng ghê tởm đối với những ai trải nghiệm chúng. SN.v.450.
 
 ## Notes

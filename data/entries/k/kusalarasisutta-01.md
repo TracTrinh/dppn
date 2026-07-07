@@ -5,7 +5,7 @@ base_headword: "Kusalarāsisutta"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -24,6 +24,6 @@ Kusalarāsisutta 01. The five hindrances (*nīvaraṇa*) could rightly be called
 
 ## Vietnamese translation
 
-Chưa dịch.
+Năm triền cái (*nīvaraṇa*) hoàn toàn có thể được gọi là một đống bất thiện và năm *satipaṭṭhāna* là một đống thiện. SN.v.145.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kuṭidāyaka Thera"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kuṭidāyaka Thera. An *Arahant*. Ninety-one *kappas* ago he made a hut for a B
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một *Arahant*. Chín mươi mốt *kappa* trước, ngài đã làm một túp lều cho một vị Phật. Ba mươi tám *kappa* trước, ngài từng mười sáu lần làm vua dưới tên gọi Sabbattha-abhivassī. Ap.i.229.
 
 ## Notes

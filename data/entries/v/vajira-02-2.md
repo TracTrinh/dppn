@@ -5,7 +5,7 @@ base_headword: "Vajirā"
 disambiguator: "02"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -33,6 +33,8 @@ Vajirā 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vajirā 02. Vajirā Therī. Saṁyuttanikāya (SN.i.134f) kể rằng một ngày, khi bà đang nghỉ trưa tại Adhavana ở Sāvatthī, Māra đã chất vấn bà về nguồn gốc của "chúng sinh" (*satta*), đấng tạo hóa của nó, nguồn gốc của nó, số phận của nó. Vajirā trả lời rằng không có thứ gì gọi là "chúng sinh" tách rời khỏi các yếu tố có điều kiện nhất định, như một chiếc xe, vốn chỉ tồn tại nhờ các bộ phận của nó. Māra rút lui trong thất bại.
+
+Các bài kệ của Vajirā thường được trích dẫn (E.g Kv. 240, 626; Mil. p.28; Vsm.ii.593) cả trong Kinh điển lẫn trong các tác phẩm về sau, nhưng chúng không được đưa vào Therīgāthā, và chúng ta cũng không biết gì thêm về bà.
 
 ## Notes

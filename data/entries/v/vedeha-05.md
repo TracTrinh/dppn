@@ -5,7 +5,7 @@ base_headword: "Vedeha"
 disambiguator: "05"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vedeha 05. A rich householder of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vedeha 05. Một gia chủ giàu có của Haṁsavatī, trong thời của Padumuttara Buddha. Ông là một tiền kiếp của Mahā Kassapa (*q.v.*). AN­a.i.93; Thag­a.ii.134; SN­a.ii.135; Ap­a.i.209.
 
 ## Notes

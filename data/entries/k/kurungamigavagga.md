@@ -5,7 +5,7 @@ base_headword: "Kuruṅgamigavagga"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kuruṅgamigavagga. The third section of the *Ekanipāta* of the <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phần thứ ba của *Ekanipāta* thuộc Jātaka Commentary Ja.i.173-98.
 
 ## Notes

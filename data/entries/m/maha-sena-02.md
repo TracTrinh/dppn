@@ -5,7 +5,7 @@ base_headword: "Mahā Sena"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -28,6 +28,6 @@ Mahā Sena 02. A Brahmin, friend of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sena 02. Một vị Bà-la-môn, là bạn của Vaṅganta, cha của Sāriputta. Ông rất nghèo, và, vì lòng bi mẫn đối với ông, Sāriputta đã đến nhà ông để khất thực. Hai lần Mahā Sena đã đi trốn, do không có gì để cho, nhưng, một ngày nọ, khi nhận được một bát cháo gạo và một mảnh vải nhỏ, ông đã nghĩ đến Sāriputta. Trưởng lão khi đó vừa xả thiền (*jhāna*), và, khi biết được ý nguyện của Mahā Sena, ngài đã đi đến thăm ông, và được cúng dường món cháo cùng mảnh vải kèm theo lời cầu nguyện từ Mahā Sena: "Mong cho con liễu ngộ được Chân lý mà ngài đã thấy." Sau khi qua đời, Mahā Sena sinh ra làm một sa-di và được gọi là Vanavāsītissa. Dhp­a.ii.84.
 
 ## Notes

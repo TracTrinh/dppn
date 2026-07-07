@@ -5,7 +5,7 @@ base_headword: "Tambalagāma"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tambalagāma. A village in <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tambalagāma. Một ngôi làng ở Rohaṇa, từng là trụ sở của Vijayabāhu I. Cv.lviii.10, 38; see also Cv.Trs.i.202, n.5.
 
 ## Notes

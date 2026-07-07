@@ -5,7 +5,7 @@ base_headword: "Soṇadinnā"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -27,6 +27,6 @@ Soṇadinnā. An *upāsikā* of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Soṇadinnā. Một *upāsikā* ở Nālandā, một người phụ nữ rất đức hạnh. Bà nghe Đức Phật thuyết pháp và trở thành Sotāpanna. Sau khi mất, bà được sinh lên cõi Tāvatiṃsa, nơi Moggallāna gặp và biết câu chuyện của bà. Vv.ii.6; Vv-a.114f.
 
 ## Notes

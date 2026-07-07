@@ -5,7 +5,7 @@ base_headword: "Khema"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -25,6 +25,6 @@ Khema 12. A monk of Ceylon, pupil of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khema 12. Một tỳ-kheo của Tích Lan, đệ tử của Dhammapālita vùng Rohaṇa. Ngài thông thạo *Tipiṭaka* (“*tepiṭakī*”), và được nhắc đến trong số những người truyền lại giáo pháp của Đức Phật ở Tích Lan theo hệ thống truyền thừa của đệ tử. Vin.v.3; Smp.i.63.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Rūpavatīcetiya"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rūpavatīcetiya. A *Thūpa* in <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rūpavatīcetiya. Một bảo tháp ở Pulatthipura, được xây dựng bởi Parakkamabāhu I. Cv.lxxviii.51; cũng xem Cv.Trs.ii.107, n.3. Bảo tháp này có lẽ là *Kiri Vehera* hiện nay.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Siṁsapāvana"
 disambiguator: "03"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -28,6 +28,6 @@ Siṁsapāvana 03. A grove to the north of <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Siṁsapāvana 03. Một khu rừng về phía bắc của Setavyā, nơi Kumāra Kassapa từng lưu trú. Gotama Buddha cũng từng lưu trú ở đó trong một chuyến du hành (Dhp­a.i.59). Đây là nơi diễn ra việc thuyết giảng Pāyāsisutta. DN.ii.316.
 
 ## Notes

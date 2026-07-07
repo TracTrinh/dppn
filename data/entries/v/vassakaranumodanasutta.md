@@ -5,7 +5,7 @@ base_headword: "Vassakārānumodanāsutta"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -28,6 +28,6 @@ Vassakārānumodanāsutta. A *Sutta* quoted in the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một bài *Sutta* được trích dẫn trong Suttasaṅgaha (No.62) từ Vinayapiṭaka (i.229f.), nơi Đức Phật nói lời cảm tạ đến Sunīdha và Vassakāra, vì một bữa ăn đã dâng cúng cho Ngài.
 
 ## Notes

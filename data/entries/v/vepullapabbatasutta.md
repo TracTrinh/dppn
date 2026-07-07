@@ -5,7 +5,7 @@ base_headword: "Vepullapabbatasutta"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -23,6 +23,6 @@ Vepullapabbatasutta. It gives the particulars (names, etc.) regarding Mt. Vepull
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vepullapabbatasutta. Kinh này đưa ra các chi tiết (tên gọi, v.v.) liên quan đến núi Vepulla trong thời đại của bốn vị Phật cuối cùng. SN.ii.190ff.
 
 ## Notes

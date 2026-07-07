@@ -5,7 +5,7 @@ base_headword: "Vajjīvagga"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vajjīvagga. The third chapter of the *Sattakanipāta* of the <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vajjīvagga. Chương thứ ba của *Sattakanipāta* trong Aṅguttaranikāya. AN.iv.16ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Varuṇa"
 disambiguator: "03"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Varuṇa 03. The personal attendant of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Varuṇa 03. Vị thị giả của đức Phật Anomadassī. Ja.i.36; Bv.viii.22; Dhp­a.i.88, v.v.
 
 ## Notes

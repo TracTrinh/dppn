@@ -5,7 +5,7 @@ base_headword: "Kāṇagāma"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -28,6 +28,6 @@ Kāṇagāma. A village and tank in <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāṇagāma. Một ngôi làng và hồ chứa nước ở Rohaṇa. Tại đó Aggabodhi xứ Rohaṇa đã xây dựng ba bệnh viện dành cho người mù và người bệnh cùng một ngôi nhà đặt tượng lớn trong Patimāvihāra (Cv.xlv.43). Parakkamabāhu I đã sửa chữa hồ chứa nước này. Cv.lxxix.35.
 
 ## Notes

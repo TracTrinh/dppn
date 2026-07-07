@@ -5,7 +5,7 @@ base_headword: "Māna"
 disambiguator: "02"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -43,6 +43,6 @@ Māna 02. Eldest son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māna 02. Con trai cả của Kassapa II. (Cv.xlv.6) Tên đầy đủ của ông là Māṇavamma (về các tên Māna và Māṇavamma, xem Cv.Trs.i.192, n.3.). Khi cha ông mất, ông còn rất nhỏ, và khi chính quyền rơi vào tay Dappula I. và sau đó là Dāṭhopatissa II., ông rời Uttaradesa — nơi ông đang sống ẩn dật cùng vợ là Saṅghā — và đến Jambudīpa, ở đó phụng sự dưới trướng vua Pallava là Narasīha (xem chi tiết tại Cv.xivii.9ff., 15ff). Ông được nhà vua sủng ái và trung thành giúp vua đánh bại vua Vallabha. Ông rồi chiêu mộ quân đội với sự trợ giúp của Narasīha, đổ bộ lên Tích Lan và giành lại vương quốc từ tay Dāṭhopatissa. Nhưng sau đó quân của ông bỏ chạy khi nghe tin Narasīha lâm bệnh, và Māna lại một lần nữa trở về Jambudīpa. Một thời gian sau ông lại kéo đại quân tới Tích Lan, đánh bại vua đương nhiệm Hatthadāṭha cùng tướng Potthakuṭṭha. Trong cuộc hỗn loạn tiếp theo, Hatthadāṭha bị giết và Potthakuṭṭha bị đầu độc tại Merukandara. Māna bèn lên ngôi vua và thực hiện nhiều công đức, trong đó có việc xây dựng các *vihāra* Padhānarakkha và Sirisaṅghabodhi, cũng như các *pāsāda* Sepaṇṇi và Siri. Māna là người hộ trì phái Paṁsukūlīs. Cv.xlvii.1ff. Māṇavamma trị vì khoảng năm 676–711 CN.
 
 ## Notes

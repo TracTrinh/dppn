@@ -5,7 +5,7 @@ base_headword: "Verocana"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -28,6 +28,6 @@ Verocana 02. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Verocana 02. Một vị vua Nāga, sống ở sông Ganges. Khi Nārada Buddha hóa độ cho Nāga Mahā Doṇa, Verocana đã mời Đức Phật đến một cung điện mà ông đã xây dựng trên sông và thết đãi ngài cùng các tỳ-kheo bằng một buổi lễ lớn. Tám mươi ngàn người đã gia nhập Saṅgha sau khi nghe Đức Phật nói lời cảm tạ trong dịp này. Bv.x.12; Bv­a.154f.
 
 ## Notes

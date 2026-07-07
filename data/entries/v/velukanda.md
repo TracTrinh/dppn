@@ -5,7 +5,7 @@ base_headword: "Veḷukaṇḍa"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -33,6 +33,6 @@ Veḷukaṇḍa, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Veḷukaṇḍa, Veḷukaṇṭa. Một thành phố ở Avanti, nơi sinh của Nanda Kumāputta (Thag­a.i.100). Moggallāna và Sāriputta đã đến thăm nơi này trong chuyến du hành ở Dakkhiṇāgiri và được Nandamātā đón tiếp (AN.iv.62f). Xem Veḷukaṇṭakī. Buddhaghosa nói (AN­a.ii.717; Snp­a.i.370) rằng thành phố được gọi như vậy vì có những cây tre được trồng dày đặc để bảo vệ xung quanh các bức tường và công sự.
 
 ## Notes

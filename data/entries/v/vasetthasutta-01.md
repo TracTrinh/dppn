@@ -5,7 +5,7 @@ base_headword: "Vāseṭṭhasutta"
 disambiguator: "01"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -29,6 +29,6 @@ Vāseṭṭhasutta 01. The young Brahmins, <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngày nọ, tại Icchānaṅkala, những thanh niên Bà-la-môn là Vāseṭṭha và Bhāradvāja đã rơi vào một cuộc tranh luận về việc điều gì làm nên một Bà-la-môn chân chính. Bhāradvāja quả quyết rằng đó là nguồn gốc dòng dõi thuần khiết từ bảy đời tổ tiên, không có sự gián đoạn hay tì vết nào trong dòng dõi, trong khi Vāseṭṭha lập luận rằng đức hạnh và hành vi đạo đức mới làm nên một Bà-la-môn chân chính. Vì không ai có thể thuyết phục được người kia, họ đồng ý trình vấn đề lên Đức Phật, Ngài nói rằng không phải do dòng dõi mà là do hành động mới làm nên một Bà-la-môn chân chính. MN.ii.196ff. Bài *Sutta* này cũng xuất hiện trong Snp., p.115ff.; nhiều vần kệ được bao gồm trong Brāhmaṇavagga của Dhammapada.
 
 ## Notes

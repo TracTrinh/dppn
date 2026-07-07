@@ -5,7 +5,7 @@ base_headword: "Valliya Thera"
 disambiguator: "01"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -36,6 +36,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Valliya Thera 01. Ông là con trai của một thủ lĩnh người Malla ở Pāvā và đã gia nhập Tăng đoàn cùng những người bạn của mình là Godhika, Subāhu và Uttiya, khi họ thực hiện một chuyến sứ mệnh đến Kapilavatthu và chứng kiến phép Song thông (Yamakapāṭihāriya) tại Nigrodhārāma. Bimbisāra sau đó đã cho xây cất những túp lều cho họ, nhưng nhà vua quên không lợp mái, vì thế trời đã không mưa cho đến khi những mái lợp được thêm vào.
+
+Vào thời kỳ của đức Phật Siddhattha, Valliya đã dâng lên ngài một nắm hoa. Thag­a.i.123; bài kệ của ông được ghi nhận trong Thag. (vs. 53).
 
 ## Notes

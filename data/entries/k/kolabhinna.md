@@ -5,7 +5,7 @@ base_headword: "Koḷabhinna"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -25,6 +25,6 @@ Koḷabhinna. A river in Ceylon, near <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koḷabhinna. Một con sông ở Tích Lan, gần Subhagiri (*Yapahu*). Cv.xc.11.
 
 ## Notes

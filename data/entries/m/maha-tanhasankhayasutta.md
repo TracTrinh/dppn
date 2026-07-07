@@ -5,7 +5,7 @@ base_headword: "Mahā Taṇhāsaṅkhayasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -29,6 +29,8 @@ There are four substances (*āhārā*), which either maintain existing organisms
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Taṇhāsaṅkhayasutta. Sāti Thera, con trai của một ngư dân, đã đi quanh quẩn nói rằng, theo giáo lý của Đức Phật, thức của một người trôi chảy và tiếp tục mà không có sự đứt quãng về danh tính. Nghe được điều này, một vài tỳ-kheo đã phản đối, nhưng không thuyết phục được vị ấy về lỗi lầm của mình. Sāti do đó đã được đưa đến trước Đức Phật và đã thừa nhận rằng vị ấy đã lan truyền một quan điểm như vậy. Đức Phật giải thích rằng Ngài đã luôn luôn dạy rằng thức chỉ phát sinh bởi nhân duyên và rằng, nếu không có điều kiện được chỉ định, thức không thể sinh khởi.
+
+Có bốn loại thực liệu (*āhārā*), thứ duy trì những sinh vật đang tồn tại hoặc trợ giúp những sinh vật sẽ sinh ra: chất liệu vật chất, xúc, tư niệm, và nhận thức. Nguồn gốc và sự sinh ra của cả bốn loại thực liệu này là ái – ái phát sinh từ thọ và cứ thế. Ba điều phải kết hợp lại để một sự thọ thai diễn ra: sự giao hợp của cha mẹ, thời kỳ kinh nguyệt, vào lúc đó, của người mẹ, và sự hiện diện của một chúng sinh đang chờ tái sinh (Gandhabba). MN.i.256-71.
 
 ## Notes

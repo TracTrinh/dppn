@@ -5,7 +5,7 @@ base_headword: "Khānu Koṇḍañña"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -28,6 +28,8 @@ Khānu Koṇḍañña. A Thera. He became an *Arahant* while living in the fores
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khānu Koṇḍañña. Một vị Thera. Ngài đắc quả Arahant trong khi đang sống trong rừng. Một ngày nọ, khi đang ngồi trên một phiến đá phẳng, ngài nhập vào một tầng jhāna. Một toán trộm, nhầm tưởng ngài là gốc cây, đã chất những bao tải của chúng lên đầu và cơ thể ngài rồi ngủ xung quanh ngài. Đến sáng, phát hiện ra sai lầm của mình, chúng đã xin tha thứ và, sau khi nghe ngài thuyết pháp, đã xuất gia làm tỳ-kheo. Chính sự việc này đã mang lại cho ngài cái tên Khānu ("gốc cây"). Đức Phật đã ca ngợi ngài vì thành tựu của ngài (Dhp­a.ii.254f).
+
+Samādhi của Khānu Koṇḍañña được phân loại vào vipphārā iddhi, vì ngay cả tiếng ồn ào do bọn trộm gây ra khi chất các bao tải lên cũng không thể làm nhiễu loạn nó, ví dụ, Bv-a.24; Paṭis-a.497.
 
 ## Notes

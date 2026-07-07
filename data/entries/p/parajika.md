@@ -5,7 +5,7 @@ base_headword: "Pārājikā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -26,6 +26,6 @@ Pārājikā. The first of the two divisions of the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pārājikā. Phần đầu tiên trong hai phần của Suttavibhaṅga thuộc Vinayapiṭaka.
 
 ## Notes

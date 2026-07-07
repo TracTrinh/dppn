@@ -5,7 +5,7 @@ base_headword: "Sitā"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -30,6 +30,6 @@ Sitā. Daughter of King <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sitā. Con gái của vua Dasaratha và em gái của Rāmapaṇḍita và Lakkhaṇa. Xem Dasarathajātaka (Ja 461). Nàng được đồng nhất với Rāhulamātā. Ja.iv.130; lòng tận tụy của nàng đối với Rāma đôi khi được nhắc đến, ví dụ, Ja.vi.557.
 
 ## Notes

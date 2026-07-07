@@ -5,7 +5,7 @@ base_headword: "Khemā"
 disambiguator: "04"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -27,6 +27,6 @@ Khemā 04. Queen of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khemā 04. Hoàng hậu của Brahmadatta, vua xứ Benares. Bà mơ thấy một con công vàng đang thuyết pháp, và ao ước giấc mơ của mình thành sự thật. Dù nhà vua đã cố gắng dùng mọi cách trong khả năng của mình, nhưng ước muốn đó không thể được thỏa mãn và hoàng hậu đã qua đời. Xem Morajātaka. (Ja 539) Ja.ii.36.
 
 ## Notes

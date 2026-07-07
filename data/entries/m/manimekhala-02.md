@@ -5,7 +5,7 @@ base_headword: "Maṇimekhalā"
 disambiguator: "02"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -27,6 +27,6 @@ Maṇimekhalā 02. A dam erected by <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇimekhalā 02. Một con đập do Aggabodhi I. xây dựng ngang qua sông Mahā Vālukagaṅgā (Cv.xlii.34). Được Sena II. trùng tu (Cv.li.72.)
 
 ## Notes

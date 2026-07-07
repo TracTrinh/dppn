@@ -5,7 +5,7 @@ base_headword: "Kāḷanāgara"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -25,6 +25,6 @@ Kāḷanāgara. The family to which the general <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷanāgara. Dòng họ mà vị tướng quân Parakkama thuộc về. Cv.lxxx.49.
 
 ## Notes

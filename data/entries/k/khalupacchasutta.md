@@ -5,7 +5,7 @@ base_headword: "Khalupacchāsutta"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -24,6 +24,6 @@ Khalupacchāsutta. On the five kinds of monks found among those who refuse food 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khalupacchāsutta. Bàn về năm hạng tỳ-kheo được tìm thấy trong số những người từ chối thức ăn được dâng cúng cho họ sau thời gian quy định ("Khalupacchābhattikā"). AN.iii.220.
 
 ## Notes

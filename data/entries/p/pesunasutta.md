@@ -5,7 +5,7 @@ base_headword: "Pesunasutta"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -23,6 +23,6 @@ Pesunasutta. Few are they who abstain from slander. SN.v.469.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pesunasutta. Rất ít những người tránh xa lời vu khống. SN.v.469.
 
 ## Notes

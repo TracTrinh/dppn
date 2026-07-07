@@ -5,7 +5,7 @@ base_headword: "Kassapasaṁyutta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -28,6 +28,6 @@ Kassapasaṁyutta. The sixteenth section of the <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapasaṁyutta. Phẩm thứ mười sáu của Saṁyuttanikāya (SN.ii.192-225). Phẩm này chứa đựng nhiều Sutta liên quan đến Mahā Kassapa (xem chi tiết ở mục này). Các bài kệ của Mahā Kassapa trong Theragāthā phản ánh những tình cảm được chứa đựng trong những Sutta này. Phần thảo luận về khía cạnh lokiya của sammappadhānā, như được trình bày trong Kassapa Saṁyutta, cũng được nhắc đến trong các Chú giải, ví dụ: Vibh-a.291.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kāvīra"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -29,6 +29,6 @@ Kāvīra. A seaport in the <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāvīra. Một hải cảng ở đất nước của người Damiḷa. Akitti đã sống trong một công viên gần đó (Ja.iv.238). Sumanā, vợ của Lakuṇṭaka Atimbara, đã từng có một kiếp sinh ra ở Kāvīra trong một gia đình thủy thủ. Dhp­a.iv.50.
 
 ## Notes

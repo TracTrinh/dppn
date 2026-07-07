@@ -5,7 +5,7 @@ base_headword: "Upasanta"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,6 @@ Upasanta 01. One of the two chief disciples of <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upasanta 01. Một trong hai đại đệ tử của Đức Phật Atthadassī (Bv.xv.19; Ja.i.39). Ông là con trai của vị giáo sĩ của Sucandaka và là bạn của Santa. Santa và Upasanta đã đến thăm Đức Phật và trong bảy ngày đã thết đãi Đức Phật và các tỳ-kheo của Ngài. Hai người đã gia nhập Tăng đoàn với chín mươi tám ngàn người đi theo. Bv­a.179f.
 
 ## Notes

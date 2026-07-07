@@ -5,7 +5,7 @@ base_headword: "Yasavaḍḍhanavatthu"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -25,6 +25,6 @@ Yasavaḍḍhanavatthu. A book by <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yasavaḍḍhanavatthu. Một cuốn sách do Tipiṭakālaṅkāra Thera viết, được viết theo yêu cầu của Nyaung Ram Min. Bode, 53.
 
 ## Notes

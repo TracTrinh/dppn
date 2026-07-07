@@ -5,7 +5,7 @@ base_headword: "Saviṭṭha Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -36,6 +36,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Trưởng lão Saviṭṭha. Trong Aṅguttara (AN.i.118f) ông được thuật lại là đã nói, trong một cuộc đàm luận giữa ông, Sāriputta và Koṭṭhita, rằng ông ưa thích người đạt được sự giải thoát nhờ đức tin (*saddhā*) hơn là người chứng thực chân lý bằng thân hay người đã đạt được kiến giải. Chú giải (AN­a.i.353) giải thích rằng chính Saviṭṭha đã đạt quả vị *Arahant* nhờ đức tin, và vì vậy ông ca ngợi đức tin.
+
+Tương Ưng (SN.ii.115) chứa đựng hai cuộc đàm luận của Saviṭṭha, cả hai đều diễn ra tại Ghositārāma ở Kosambī. Cuộc đầu tiên là với Musīla và bàn về *paṭiccasamuppāda*. Musīla, trả lời câu hỏi của Saviṭṭha, nói rằng ông đã tự mình chứng ngộ chân lý của *paṭiccasamuppāda*. "Vậy thì ông là một *Arahant*," Saviṭṭha nói, và Musīla im lặng. Trong cuộc đàm luận kia, Nārada, có mặt tại buổi thảo luận, cùng với Ānanda, yêu cầu rằng những câu hỏi tương tự được đặt ra cho mình. Saviṭṭha làm như vậy, và Nārada nói với Saviṭṭha rằng ông đã chứng ngộ chân lý của *paṭiccasamuppāda* bằng chánh kiến, nhưng dù vậy, ông không phải là một *Arahant*. Ông giống như một người thấy một giếng nước, nhưng không có dây thừng cũng không có vật đựng nước. "Vậy thì ông sẽ nói gì về Nārada?" Ānanda hỏi. "Không gì ngoài những điều tốt đẹp và đáng yêu," Saviṭṭha đáp.
 
 ## Notes

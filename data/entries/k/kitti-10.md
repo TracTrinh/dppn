@@ -5,7 +5,7 @@ base_headword: "Kitti"
 disambiguator: "10"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,6 @@ Kitti 10. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kitti 10. Kitti Kesadhātu. Một vị tướng của Parakkamabāhu I. Ông là một trong những người chỉ huy quân đội Sinhalese chiến đấu chống lại người Damiḷas (Cv.lxxvi.255, 269). Ông có thể đồng nhất với Kitti (9).
 
 ## Notes

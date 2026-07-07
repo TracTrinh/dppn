@@ -5,7 +5,7 @@ base_headword: "Pavattā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Pavattā. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pavattā. Một vị Pacceka Buddha. MN.iii.70; MN­a.ii.890.
 
 ## Notes

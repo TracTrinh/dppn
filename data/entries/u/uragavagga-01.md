@@ -5,7 +5,7 @@ base_headword: "Uragavagga"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -24,6 +24,6 @@ Uragavagga 01. The first chapter of the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uragavagga 01. Chương đầu tiên của Suttanipāta. Nó bao gồm mười hai bài kinh (Sutta). Sn.1ff.
 
 ## Notes

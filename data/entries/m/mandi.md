@@ -5,7 +5,7 @@ base_headword: "Mandī"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Mandī. A general of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mandī. Một vị tướng của Parakkamabāhu I., được nhắc đến trong số những người chỉ huy các chiến dịch của ông (Cv.lxx. 318; lxxii.161). Ông mang danh hiệu "*Jīvitapotthakī*". Xem Cv.Trs.i. Introd. xxix. về giải thích danh hiệu này.
 
 ## Notes

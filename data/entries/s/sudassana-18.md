@@ -5,7 +5,7 @@ base_headword: "Sudassana"
 disambiguator: "18"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Sudassana 18. A city near <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudassana 18. Một thành phố gần Isipatana nơi Koṇāgamana Buddha đã thuyết pháp (Bv­a.214). Sudassana là một tên gọi cũ của Benares. Xem Ja.iv.119; v.177.
 
 ## Notes

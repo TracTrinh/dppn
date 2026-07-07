@@ -5,7 +5,7 @@ base_headword: "Viggāhitasutta"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Viggāhitasutta. The Buddha exhorts the monks not to engage in wordy warfare, su
 
 ## Vietnamese translation
 
-Chưa dịch.
+Viggāhitasutta. Đức Phật khuyên các tỳ-kheo không nên tham gia vào những cuộc chiến tranh ngôn từ, những cuộc nói chuyện như vậy chẳng mang lại lợi ích cũng không dẫn đến *Nibbāna*. Họ nên đàm luận về khổ (*dukkha*), nguyên nhân của nó, v.v. SN.v.419.
 
 ## Notes

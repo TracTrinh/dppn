@@ -5,7 +5,7 @@ base_headword: "Paññāsutta"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Paññāsutta 02. On eight reasons and causes which strengthen elementary wisdom
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paññāsutta 02. Về tám nguyên nhân và điều kiện giúp củng cố trí tuệ căn bản (*ādibrahmacariyakā paññā*).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Keniya"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,6 @@ Keniya 02. In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Keniya 02. Trong Apadāna (ii.469, v.16), Mahā Kappina được nhắc đến như là thuộc về dòng dõi Keniyajāti. Có lẽ đây là một cách đọc sai; câu thơ tương ứng trong Thag­a.i.510 ghi là Koḷiya.
 
 ## Notes

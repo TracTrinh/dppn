@@ -5,7 +5,7 @@ base_headword: "Mahā Paññākathā"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Paññākathā. The first chapter of the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Paññākathā. Chương đầu tiên của Paññāvagga thuộc Paṭisambhidāmagga.
 
 ## Notes

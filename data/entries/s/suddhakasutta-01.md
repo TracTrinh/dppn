@@ -5,7 +5,7 @@ base_headword: "Suddhakasutta"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -23,6 +23,6 @@ Suddhakasutta 01. On the benefits of the four *satipaṭṭhāna*s. SN.v.173.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suddhakasutta 01. Về lợi ích của bốn niệm xứ (*satipaṭṭhāna*). SN.v.173.
 
 ## Notes

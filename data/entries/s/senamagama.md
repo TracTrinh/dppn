@@ -5,7 +5,7 @@ base_headword: "Senāmagāma"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Senāmagāma. A village given by <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Senāmagāma. Một ngôi làng do Dāṭhopatissa II. ban cho Kassapavihāra. Cv.xlv.27.
 
 ## Notes

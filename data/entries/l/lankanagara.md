@@ -5,7 +5,7 @@ base_headword: "Laṅkānagara"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -31,6 +31,6 @@ Laṅkānagara, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Laṅkānagara, Laṅkāpura. Một trong những thành phố chính của các Yakkha ở Tích Lan. Polamittā, vợ của Mahā Kāḷasena, thủ lĩnh Yakkha của Tích Lan, là một công chúa của Laṅkāpura (Mhv.vii.33; Mhv­ṭ. 260). Kuveṇī rõ ràng cũng xuất thân từ Laṅkāpura, vì đó là nơi bà đến sau khi bị Vijaya bỏ rơi. Mhv.vii.62; Mhv­ṭ. 265.
 
 ## Notes

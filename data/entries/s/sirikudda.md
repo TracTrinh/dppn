@@ -5,7 +5,7 @@ base_headword: "Sirikuḍḍa"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -28,6 +28,6 @@ Sirikuḍḍa, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirikuḍḍa, Sirikūṭa. Rõ ràng là tên khác của Mahā Nāma, vua xứ Tích Lan, người bảo trợ của Buddhaghosa. Buddhaghosa nói, trong lời bạt của một số tác phẩm của ngài (ví dụ, Dhp­a.iv.235), rằng ngài đã soạn chúng trong tu viện được xây dựng cho ngài bởi vị quân vương Sirikuḍḍa (Sirikūṭa).
 
 ## Notes

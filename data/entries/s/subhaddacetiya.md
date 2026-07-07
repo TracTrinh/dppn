@@ -5,7 +5,7 @@ base_headword: "Subhaddācetiya"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Subhaddācetiya. A *cetiya* in <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subhaddācetiya. Một *cetiya* (bảo tháp) ở Pulatthipura được xây dựng bởi Parakkamabāhu I. Cv.lxxviii.51.
 
 ## Notes

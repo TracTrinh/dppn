@@ -5,7 +5,7 @@ base_headword: "Lāla"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -26,6 +26,6 @@ Lāla. A country in India, the capital of which was <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lāla. Một quốc gia ở Ấn Độ, thủ đô là Sīhapura; đây là quê hương của Vijaya, người sáng lập vương triều Sinhalese (Dpv.ix.5; Mhv.vi.5, 36). Quốc gia này hiện thường được đồng nhất với Gujarat ngày nay, tức Larika của Ptolemy.
 
 ## Notes

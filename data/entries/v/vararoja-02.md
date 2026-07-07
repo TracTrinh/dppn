@@ -5,7 +5,7 @@ base_headword: "Vararoja"
 disambiguator: "02"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vararoja 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vararoja 02. Buddhaghosa nói (DN­a.ii.656) rằng những kẻ ngoại đạo từng trả cho Vararoja một ngàn đồng để nói xấu về dung mạo của đức Phật. Vararoja đã đi đến diện kiến đức Phật và bị choáng ngợp trước sự hoàn mỹ của từng đường nét; ông đã tán thán đức Phật bằng một bài kệ dài hơn một ngàn dòng.
 
 ## Notes

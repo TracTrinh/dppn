@@ -5,7 +5,7 @@ base_headword: "Paṇḍula"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Paṇḍula. A Brahmin of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇḍula. Một Bà-la-môn ở Paṇḍulagāma, giàu có và uyên bác trong kinh Veda. Ông đã dạy Paṇḍukābhaya, khuyên ngài trong việc chọn vợ, tặng ngài một trăm ngàn đồng để xây dựng quân đội, và cho phép con trai ông là Canda đi theo ngài làm bạn và làm cố vấn. Mhv.x.20ff.
 
 ## Notes

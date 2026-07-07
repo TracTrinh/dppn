@@ -5,7 +5,7 @@ base_headword: "Uttara"
 disambiguator: "16"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uttara 16. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttara 16. Con trai của Padumuttara Buddha trong kiếp sống cuối cùng của ngài (Bv.xi.21). Ông chính là Bodhisatta. SN­a.ii.67; DN­a.ii.488; nhưng xem Ja.i.37 và Bv.xi.11, nơi tên của Bodhisatta được cho là Jaṭila Raṭṭhika.
 
 ## Notes

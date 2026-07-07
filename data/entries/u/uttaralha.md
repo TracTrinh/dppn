@@ -5,7 +5,7 @@ base_headword: "Uttarāḷha"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,6 @@ Uttarāḷha. A dwelling-house (*pariveṇa*) which probably belonged to the <sp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttarāḷha. Một khu nhà ở (*pariveṇa*) có lẽ thuộc về Abhayagirivihāra. Trong đó, Sena I., khi còn là *Mahādipāda*, đã xây dựng các tăng phòng mang tên ông (Cv.l.77). Sena II. đã xây một *pāsāda* tại đây (Cv.li.75; xem thêm Cv.Trs.i.145, n.2).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Paṇḍurājā"
 disambiguator: "03"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Paṇḍurājā 03. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇḍurājā 03. Một thủ lĩnh Damiḷa, đồng minh của Kulasekhara. Cv.lxxvi.126.
 
 ## Notes

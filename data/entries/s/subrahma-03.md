@@ -5,7 +5,7 @@ base_headword: "Subrahmā"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -29,6 +29,6 @@ Subrahmā 03. A Brahmin who will be the father of <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subrahmā 03. Một vị Bà-la-môn, người sẽ là cha của Metteyya Buddha. Vợ của ông sẽ là Brahmavatī (Dhs-a.415; Vsm.434). Ông sẽ là vị giáo sĩ của Vua Saṅkha (Anāg.vs.96). Theo Mahā Vaṁsa (Mhv.xxxii.82), ông được nhận diện với Kākavaṇṇatissa.
 
 ## Notes

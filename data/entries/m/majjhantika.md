@@ -5,7 +5,7 @@ base_headword: "Majjhantika"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Majjhantika or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Majjhantika hoặc Sanikasutta. Có lần một vị Tỳ-kheo trú ngụ trong một khu rừng ở Kosala và được một vị Deva của khu rừng kể cho nghe sự tĩnh lặng buổi trưa đã làm vị ấy sợ hãi như thế nào. Nhưng vị Tỳ-kheo đáp lại rằng đối với ngài thì nó lại rất quyến rũ. SN.i.203.
 
 ## Notes

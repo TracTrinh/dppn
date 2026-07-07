@@ -5,7 +5,7 @@ base_headword: "Sumana"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Sumana 03. Step brother of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumana 03. Người anh em cùng cha khác mẹ của Padumuttara Buddha. Ông đã nhận được, như một đặc ân từ nhà vua, đặc quyền được hầu hạ Đức Phật trong ba tháng. Ông đã xây dựng một *vihāra* trong khu vườn của Sobhana. Khu vườn thuộc về gia chủ Sobhana, và ông đã xây dựng *vihāra* đó, trên mảnh đất mà ông đã trả một trăm ngàn để mua. Tại đó ông đã khoản đãi Đức Phật và các tỳ-kheo của ngài. Sunanda được đồng nhất với Ānanda. Thag­a.ii.122f.; AN­a.i.160f.; SN­a.ii.168f.
 
 ## Notes

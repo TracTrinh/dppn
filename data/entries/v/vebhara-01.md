@@ -5,7 +5,7 @@ base_headword: "Vebhāra"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -28,6 +28,6 @@ Vebhāra 01. One of the five hills surrounding <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một trong năm ngọn đồi bao quanh Rājagaha (ví dụ, MN.iii.68). Dưới chân nó là Sattapaṇṇiguhā, nơi Đại hội kết tập lần thứ nhất được tổ chức (Vin.ii.76; W. 159; Vin-a.i.10, v.v.). Con sông Tapodā (*q.v.*) bắt nguồn từ một hồ nước dưới chân núi Vebhāra. SN­a.i.30f.
 
 ## Notes

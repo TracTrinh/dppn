@@ -5,7 +5,7 @@ base_headword: "Kadalīpattagāma"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kadalīpattagāma. A village in <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kadalīpattagāma. Một ngôi làng ở Rohaṇa gần khúc sông cạn có tên là Nīlavalā, và gần Mātara ngày nay. Cv.lxxv.49; Cv.Trs.ii.48, n.2.
 
 ## Notes

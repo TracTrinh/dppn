@@ -5,7 +5,7 @@ base_headword: "Sīhasinānatittha"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -26,6 +26,6 @@ Sīhasinānatittha. A place in <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhasinānatittha. Một địa điểm ở Anurādhapura, nơi ranh giới của Mahā Vihāra đi qua. Mbv.136.
 
 ## Notes

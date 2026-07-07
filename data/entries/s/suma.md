@@ -5,7 +5,7 @@ base_headword: "Sumā"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sumā. An eminent Therī of India who came over to <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumā. Một vị Therī xuất chúng của Ấn Độ đã đi qua Anurādhapura vào thời của Devānampiyatissa và giảng dạy Luật tạng ở đó. Dpv.xviii.24.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Paṭhamasuddhiyasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Paṭhamasuddhiyasutta. The four *jhānas*, which, when cultivated, flow to *Nib
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṭhamasuddhiyasutta. Bốn *jhāna*, mà khi được tu tập, sẽ chảy về phía *Nibbāna*, giống như sông Hằng chảy về phía đông. SN.v.307.
 
 ## Notes

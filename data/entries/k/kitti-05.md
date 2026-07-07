@@ -5,7 +5,7 @@ base_headword: "Kitti"
 disambiguator: "05"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -34,6 +34,6 @@ Kitti 05. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kitti 05. Kitti Laṅkādhinātha. Một vị tướng của Parakkamabāhu I. Con trai ông là Laṅkāpura. Cả hai người đều tham gia vào trận chiến vĩ đại chống lại Gajabāhu. Để ghi nhận các công lao của ông, ông được trao chức vụ *Laṅkādhikāri*; trước đó ông được biết đến là *Saṅkhanāyaka*. Ông đã giúp giải phóng Gajabāhu khỏi quyền lực của Māṇābharaṇa, và sau đó đánh bại quân đội của Gajabāhu khi họ tấn công Parakkamabāhu (Cv.lxx.205, 215-20, 278, 300, 316). Kitti đã tham gia vào các chiến dịch của Parakkamabāhu chống lại kẻ thù của mình, những kẻ thù sau này đã bị đánh bại tại bến cạn Yakkhasūkara và tại Billagāma. Về sau, do coi thường các chỉ thị của nhà vua, Kitti đã rơi vào tay kẻ thù ở Surulla (Cv.lxxii.21, 122, 138). Tuy nhiên, ông đã được tha thứ và được phái đến Dīghavāpi, nơi ông đã giúp giành được cho Parakkamabāhu chiếc Bình Bát Thiêng và Xá-lợi Răng (Cv.lxxiv.90, 110, 119, 136ff).
 
 ## Notes

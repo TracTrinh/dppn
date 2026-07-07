@@ -5,7 +5,7 @@ base_headword: "Silāmegha"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Silāmegha 01. A nunnery (Mhv­ṭ.117; Cv.xlviii.139), restored by the queen of
 
 ## Vietnamese translation
 
-Chưa dịch.
+Silāmegha 01. Một ni viện (Mhv­ṭ.117; Cv.xlviii.139), được trùng tu bởi hoàng hậu của Udaya I. Cv.xlix.25.
 
 ## Notes

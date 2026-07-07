@@ -5,7 +5,7 @@ base_headword: "Kakudha"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,6 @@ Kakudha 02. A *Deva*. He visited the Buddha at the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kakudha 02. Một vị *Deva*. Ông đã đến thăm Đức Phật tại Añjanavana ở Sāketa, và hỏi Ngài liệu Ngài có trải qua những cảm giác vui sướng và buồn bã hay không. Đức Phật trả lời rằng Ngài đã vượt qua những cảm giác đó và hoàn toàn tự do, ngay sau đó Kakudha đã thốt lên những lời ca ngợi Ngài (SN.i.54f). Chú giải (SN­a.i.89) nói rằng Kakudha này là một *Brahma* và ông từng là một thị giả của Moggallāna, do đó đồng nhất ông với Kakudha (3 bên dưới). Ông đã sống cùng vị Trưởng lão trong thời niên thiếu của mình, qua đời trong trạng thái *Jhāna* và được tái sinh vào thế giới *Brahma*.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ruhaka"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Ruhaka. Chaplain of the king of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ruhaka. Vị tế sư của vua xứ Benares. Xem Ruhakajātaka.
 
 ## Notes

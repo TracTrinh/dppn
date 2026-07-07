@@ -5,7 +5,7 @@ base_headword: "Kusaṇālijātaka"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -30,6 +30,10 @@ The story was told in reference to one of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhisatta sinh ra làm một vị thần, trong một bụi cỏ *kusa*. Gần đó là một cây *mukkhaka* nơi một thọ thần cư ngụ. Một ngày nọ người thợ mộc của vua, đang tìm kiếm một cột trụ phù hợp cho tòa lâu đài một cột của vua, đã miễn cưỡng quyết định đốn hạ cây *mukkhaka*. Biết được mối nguy hiểm sắp xảy ra của vị thọ thần, Bodhisatta đã hóa thành hình dáng một con tắc kè hoa và đánh lừa người thợ mộc theo cách khiến ông ta nhìn thấy cây *mukkhaka* như đã mục nát toàn bộ và không còn hữu dụng cho mục đích của ông ta.
+
+Câu chuyện được kể liên quan đến một trong những người bạn của Anāthapiṇḍika. Ông ta có địa vị thấp kém và nghèo khổ, và những người bạn khác của Anāthapiṇḍika đã phản đối sự thân thiết như vậy. Nhưng một ngày nọ người bạn nghèo đã cứu ngôi nhà của Anāthapiṇḍika khỏi bị trộm. Đức Phật kể lại câu chuyện để cho thấy làm thế nào mỗi người, tùy theo khả năng của mình, có thể giúp đỡ một người bạn khi hoạn nạn (Ja.i.441ff).
+
+Ānanda là vị thọ thần. Câu chuyện thường được trích dẫn (ví dụ, Ja.iv.77) để cho thấy giá trị của một người bạn tốt.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vaṅgīsasutta"
 disambiguator: "02"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vaṅgīsasutta 02. A set of ten verses, spoken by <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaṅgīsasutta 02. Một tập hợp mười bài kệ, do Vaṅgīsa thốt lên tại Jetavana, ngay sau khi ông đắc quả vị *Arahant*, khi ông đang ngồi cảm nhận niềm hỷ lạc của sự giải thoát. Ông tự chúc mừng bản thân mình vì đã trở thành một đệ tử của đức Phật. SN.i.196; những bài kệ này được bao gồm trong Thag.1253-62.
 
 ## Notes

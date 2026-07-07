@@ -5,7 +5,7 @@ base_headword: "Vijaya"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -54,6 +54,12 @@ According to Dpv.ix.26, <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vijaya 01. Vị vua Ariyan (thánh thiện) đầu tiên của Tích Lan. Ông là con cả trong số ba mươi hai người con trai của Sīhabāhu, vua xứ Lāḷa, và của Sīhasīvalī. Vì hành vi độc ác của mình, ông, cùng với bảy trăm người khác, đã bị nhà vua trục xuất, với cái đầu bị cạo phân nửa. Vợ và con cái của họ cũng bị trục xuất cùng với họ. Những đứa trẻ đổ bộ lên Naggadīpa và những người phụ nữ thì ở Mahilādīpaka (Mhv­ṭ. 264). Vijaya và những người đàn ông khác đã đổ bộ lên Suppāraka, nhưng buộc phải rời đi do sự bạo lực của những người ủng hộ ông.
+
+Theo Dpv.ix.26, Vijaya đi từ Suppāraka đến Bhārukaccha, nơi ông ở lại trong ba tháng. Họ đã đến Tích Lan vào ngày Đức Phật viên tịch, nhận được sự bảo vệ của vị *Deva* Uppalavaṇṇa, và nhờ đó thoát khỏi sự tàn sát của các Dạ-xoa (Yakkha). Dạ-xoa nữ (*Yakkhinī*), Kuveṇī, đã phải lòng Vijaya, và ông, với sự giúp đỡ của bà, đã giết chết các Dạ-xoa của Laṅkāpura và Sirīsavatthu, và lập nên thành phố Tambapaṇṇi. Các vị đại thần chính của Vijaya, Anurādha, Upatissa, Ujjena, Uruvela và Vijita, đã thành lập những vùng lãnh thổ riêng biệt, được đặt theo tên của họ.
+
+Vijaya có hai người con với Kuveṇī, Jīvahattha và Dīpellā; nhưng khi ông muốn được phong vương, ông đã sai người đi cầu hôn và cưới được một cô con gái của vua Paṇḍu xứ Madhurā làm vợ. Kuveṇī, do đó, đã rời bỏ ông và bị các Dạ-xoa giết chết. Vijaya trị vì trong ba mươi tám năm và người kế vị là Paṇḍuvāsudeva. Để biết chi tiết về cuộc đời của Vijaya, xem Mhv.vi.38ff.; vii.6ff.; viii.1-3; Dpv.ix.6ff.
+
+Ajātasattu và Vijaya là những người sống cùng thời, năm trị vì thứ hai mươi bốn của Ajātasattu tương ứng với năm thứ mười sáu của Vijaya. Dpv.iv.27; v.77.
 
 ## Notes

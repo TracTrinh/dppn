@@ -5,7 +5,7 @@ base_headword: "Mālāgāmatittha"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Mālāgāmatittha. A ford in the <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mālāgāmatittha. Một bến cạn trên sông Mahā Vālukagaṅgā, được đề cập trong bản tường thuật về các chiến dịch của Parakkamabāhu I. Cv.lxii.50; Cv.Trs.i.323, n.2.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sujātā"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sujātā 01. An *Aggasāvikā* of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sujātā 01. Một vị *Aggasāvikā* của Sobhita Buddha. Ja.i.35; Bv.vii.22.
 
 ## Notes

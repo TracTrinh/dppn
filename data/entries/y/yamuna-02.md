@@ -5,7 +5,7 @@ base_headword: "Yamunā"
 disambiguator: "02"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -25,6 +25,6 @@ Yamunā 02. A channel branching off westward from the <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yamunā 02. Một kênh đào rẽ nhánh về phía tây từ Hồ chứa nước Puṇṇavaḍḍhana. Cv.lxxix.47.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kuṇḍalakesittherivatthu"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kuṇḍalakesittherivatthu. The story of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Câu chuyện về Bhaddā Kuṇḍalakesī (*q.v.*). Dhp­a.ii.217ff.
 
 ## Notes

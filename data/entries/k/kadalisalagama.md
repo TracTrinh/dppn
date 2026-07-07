@@ -5,7 +5,7 @@ base_headword: "Kadalisālagāma"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kadalisālagāma. A village in Ceylon, the residence of <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kadalisālagāma. Một ngôi làng ở Tích Lan, là nơi ở của Vilasa (*q.v.*).
 
 ## Notes

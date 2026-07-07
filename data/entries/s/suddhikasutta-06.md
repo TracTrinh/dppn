@@ -5,7 +5,7 @@ base_headword: "Suddhikasutta"
 disambiguator: "06"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -23,6 +23,6 @@ Suddhikasutta 06. On the five *indriyas*: ease, discomfort, happiness (*somanass
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suddhikasutta 06. Về năm căn (*indriya*): lạc, khổ, hỷ (*somanassa*), ưu, xả. SN.v.207.
 
 ## Notes

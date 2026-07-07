@@ -5,7 +5,7 @@ base_headword: "Kittī"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -29,6 +29,6 @@ Kittī 02. Queen of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kittī 02. Vương hậu của Mahinda IV. Bà đã xây dựng một *pariveṇa* ở phía tây của Thūpārāma, và đã cho xây dựng các nhà tắm ở đó và ở Kappāsagāma và Cīvaracetiya. Bà đã cúng dường một lá cờ vàng dài mười hai cubit cho Mahā Thūpa. Cv.liv.50ff.
 
 ## Notes

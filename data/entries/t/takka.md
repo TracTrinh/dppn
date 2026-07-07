@@ -5,7 +5,7 @@ base_headword: "Takka"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Takka. A city in India twelve leagues from <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Takka. Một thành phố ở Ấn Độ cách Kāvīrapaṭṭana mười hai do-tuần. Đó là nơi lưu trú của các vị tỳ-kheo. Ras.ii.108.
 
 ## Notes

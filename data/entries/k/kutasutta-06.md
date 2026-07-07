@@ -5,7 +5,7 @@ base_headword: "Kūṭasutta"
 disambiguator: "06"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -24,6 +24,6 @@ Kūṭasutta 06. Of the five powers, (*saddhā*, *viriya*, *sati*, *samādhi*, *
 
 ## Vietnamese translation
 
-Chưa dịch.
+Trong năm sức mạnh, (*saddhā*, *viriya*, *sati*, *samādhi*, *paññā*), sức mạnh cuối cùng là đỉnh cao. AN.iii.12.
 
 ## Notes

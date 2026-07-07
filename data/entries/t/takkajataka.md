@@ -5,7 +5,7 @@ base_headword: "Takkajātaka"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -35,6 +35,10 @@ The story was related to a passion-tossed monk (Ja.i.295-99). The <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Takkajātaka (Ja 63). Thuở nọ Bodhisatta là một tu sĩ trên bờ sông Ganges, người đã giải cứu cho Duṭṭhakumārī, con gái của *seṭṭhi* vùng Benares, người đã bị quăng xuống dòng nước lũ trong một trận bão bởi những gia nhân chịu nhiều oan ức của cô. Tu sĩ đã gục ngã trước những cám dỗ của Duṭṭhakumārī và sống chung với cô ở một ngôi làng, nơi họ kiếm sống bằng nghề bán *takka* (sữa đông hoặc chà là). Do đó ông được gọi là Takkapaṇḍita. Một ngày nọ, ngôi làng bị cướp bóc bởi bọn cướp, và chúng bắt người phụ nữ đi cùng với chiến lợi phẩm của chúng. Sống hạnh phúc với tướng cướp, cô sợ người chồng cũ có thể đến đòi lại mình; do đó cô sai người mang lời đường mật đến gặp ông, với âm mưu thủ tiêu ông.
+
+Trong lúc bị tướng cướp đánh đập, Takkapaṇḍita liên tục nhắc lại, "Những kẻ vô ơn bạc nghĩa," và, khi bị hỏi lý do, ông đã kể lại câu chuyện. Tướng cướp nghe xong bèn giết chết người phụ nữ. Ānanda được nhận diện là tướng cướp.
+
+Câu chuyện được kể lại cho một vị tỳ-kheo đang bị dục tình khuấy động (Ja.i.295-99). Jātaka này đôi khi được gọi là Takkāriyajātaka, E.g., Ja.v.446 (16).
 
 ## Notes

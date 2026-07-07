@@ -5,7 +5,7 @@ base_headword: "Vālakkoṇḍa"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -24,6 +24,6 @@ Vālakkoṇḍa. A place in South India. Cv.lxxvi.187.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vālakkoṇḍa. Một địa danh ở Nam Ấn Độ. Cv.lxxvi.187.
 
 ## Notes

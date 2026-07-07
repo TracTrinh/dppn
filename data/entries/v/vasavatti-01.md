@@ -5,7 +5,7 @@ base_headword: "Vasavattī"
 disambiguator: "01"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vasavattī 01. A name given to <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tên được đặt cho Māra (*q.v.*), ví dụ, Ja.i.63, 232; iii.309; MN­a.ii.538, v.v.
 
 ## Notes

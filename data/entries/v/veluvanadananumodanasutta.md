@@ -5,7 +5,7 @@ base_headword: "Veḷuvanadānānumodanāsutta"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/066.html"
@@ -28,6 +28,6 @@ Veḷuvanadānānumodanāsutta. A *Sutta* quoted in the <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Veḷuvanadānānumodanāsutta. Một *Sutta* được trích dẫn trong Suttasaṅgaha (Số 64) từ phần giới thiệu của chú giải Buddhavaṁsa, kể lại việc cúng dường Veḷuvana bởi Bimbisāra.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Karerikuṭikā"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -34,6 +34,8 @@ Here was preached the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Karerikuṭikā. Một trong bốn tòa nhà chính của Jetavana, những tòa nhà khác là Kosambakuṭi, Gandhakuṭi, và Salaḷaghara, mỗi cái được xây dựng với chi phí là một trăm ngàn. Karerikuṭikā được xây dựng bởi Anāthapiṇḍika và được nâng lên bằng những cây cột. Một *maṇḍapa* của những cây Kareri (*varuṇa*) đứng ở lối vào *kuṭikā*, do đó mới có tên gọi của nó. DN­a.ii.407. Tuy nhiên, bức phù điêu Bharhut thể hiện nó là một túp lều một phòng, Dial.ii.4, n.1. Snp-a.ii.403 có Candanamālā cho Salaḷaghara.
+
+Tại đây Mahāpadānasutta (DN.ii.1ff) đã được thuyết giảng.
 
 ## Notes

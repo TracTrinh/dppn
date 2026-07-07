@@ -5,7 +5,7 @@ base_headword: "Mahā Padhānaghara"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -29,6 +29,6 @@ Mahā Padhānaghara. A monastic building in <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Padhānaghara. Một tòa nhà của tu viện ở Anurādhapura, nơi Buddhaghosa đã đến để học các Chú giải tiếng Sinhalese dưới sự hướng dẫn của Saṅghapāla (Cv.xxxvii.232). Dāṭhopatissa II đã ban ngôi làng Mahā Galla cho việc bảo trì tòa nhà này. Cv.xlv.27.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kaṇḍaraggisāma"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -24,6 +24,6 @@ Kaṇḍaraggisāma. A celebrated physician, mentioned in a list of such. Mil.27
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇḍaraggisāma. Một danh y, được nhắc đến trong một danh sách các vị danh y. Mil.272.
 
 ## Notes

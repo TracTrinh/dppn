@@ -5,7 +5,7 @@ base_headword: "Sena"
 disambiguator: "11"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -28,6 +28,6 @@ Sena 11. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sena 11. Một kẻ tiếm vị người Damiḷa, cùng với người bạn đồng hành Guttika, cả hai đều là lái buôn ngựa, đã đánh bại Sūratissa và chiếm ngôi tại Anurādhapura trong hai mươi hai năm (177-55 B.C.). Cuối thời gian đó, họ bị Asela đánh bại. Mhv.xxi.10f.; Dpv.xviii.47f.; Cv.lxxxii.21.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vālikapiṭṭhivihāra"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vālikapiṭṭhivihāra. A monastery, probably in Ceylon, the residence of Ābh
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vālikapiṭṭhivihāra. Một tu viện, có lẽ ở Tích Lan, là nơi cư trú của Ābhidhammika Abhaya Trưởng lão. Vào đầu mùa an cư, ông cùng một số lượng lớn các đồng sự tụng đọc Mahā Suññatāsutta, và nhờ đó họ sống cách xa nhau trong mùa an cư, chứng đắc quả vị Arahant trước khi kết thúc mùa an cư. MN­a.ii.907.
 
 ## Notes

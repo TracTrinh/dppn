@@ -5,7 +5,7 @@ base_headword: "Sucandaka"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sucandaka 01. A palace occupied by <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sucandaka 01. Một cung điện nơi Rāmapaṇḍita ngự trị. Ja.iv.130.
 
 ## Notes

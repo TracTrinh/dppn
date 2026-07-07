@@ -5,7 +5,7 @@ base_headword: "Videha"
 disambiguator: "03"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Videha 03. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Videha 03. *v.l.* Vedeha. Tên của một vị vua xứ Videha, cha của Bồ-tát trong Vinīlakajātaka (Ja 160) (*xem đề mục*).
 
 ## Notes

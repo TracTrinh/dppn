@@ -5,7 +5,7 @@ base_headword: "Sudassana"
 disambiguator: "32"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -23,6 +23,6 @@ Sudassana 32. The name given to the city of the gods (*Devanagara*). Ja.ii.114; 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudassana 32. Tên gọi dành cho thành phố của chư thiên (*Devanagara*). Ja.ii.114; Bv­a.67, etc.
 
 ## Notes

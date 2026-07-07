@@ -5,7 +5,7 @@ base_headword: "Subhaddā"
 disambiguator: "08"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Subhaddā 08. One of the five daughters of <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subhaddā 08. Một trong năm người con gái của Vijayabāhu I. và Tilokasundarī. Cô kết hôn với Vīrabāhu. Cv.lix.31, 43.
 
 ## Notes

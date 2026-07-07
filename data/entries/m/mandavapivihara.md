@@ -5,7 +5,7 @@ base_headword: "Maṇḍavāpivihāra"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Maṇḍavāpivihāra. <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇḍavāpivihāra. Một tu viện do Mahā Cullitissa xây dựng (Mhv.xxxiv.8). Mahā Dāṭhika Mahā Nāga đã cấp đất cho các tỳ-kheo của *vihāra* này để tỏ lòng biết ơn một sa-di đang sống ở đó (Mhv.xxxiv.93).
 
 ## Notes

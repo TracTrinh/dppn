@@ -5,7 +5,7 @@ base_headword: "Kulaputtena dukkhā Suttā"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -24,6 +24,6 @@ Kulaputtena dukkhā Suttā. Three *Suttas*. A clansman who goes forth should liv
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ba Sutta. Một người thiện nam tử xuất gia nên sống (1) trong sự yếm ly đối với sắc vân vân, hoặc (2) thấy vô thường trong chúng, hoặc (3) thấy vô ngã trong chúng. SN.iii.179.
 
 ## Notes

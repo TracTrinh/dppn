@@ -5,7 +5,7 @@ base_headword: "Makhilā"
 disambiguator: "02"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Makhilā 02. One of the two chief women disciples of <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Makhilā 02. Một trong hai nữ đệ tử hàng đầu của Sikhī Buddha. Ja.i.41; Bv­a.204; xem thêm Akhilā.
 
 ## Notes

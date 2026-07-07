@@ -5,7 +5,7 @@ base_headword: "Keḷivāta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Keḷivāta. A district or village in Ceylon. <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Keḷivāta. Một quận hoặc làng mạc ở Tích Lan. Aggabodhi I đã xây dựng Sumanapabbatavihāra tại đó. Cv.xlii.19.
 
 ## Notes

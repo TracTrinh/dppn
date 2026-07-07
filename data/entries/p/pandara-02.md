@@ -5,7 +5,7 @@ base_headword: "Paṇḍara"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Paṇḍara 02. The name of the horse ridden by <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇḍara 02. Tên con ngựa mà Maṅgala Buddha đã cưỡi khi Ngài rời bỏ cuộc sống gia đình. Bv­a.116.
 
 ## Notes

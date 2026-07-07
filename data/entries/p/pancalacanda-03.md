@@ -5,7 +5,7 @@ base_headword: "Pañcālacaṇḍa"
 disambiguator: "03"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -29,6 +29,6 @@ Pañcālacaṇḍa 03. A former birth of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcālacaṇḍa 03. Một tiền kiếp của Kuṇāla. Ông là giáo sĩ của Kaṇḍari, vua nước Benares, và đã giúp nhà vua khám phá ra những âm mưu tình ái của hoàng hậu Kinnarā với một người tàn tật dị dạng. Khi Kaṇḍari muốn đem hoàng hậu đi chém đầu, Pañcālacaṇḍa đã can thiệp thay cho bà và thuyết phục nhà vua, bằng cách gợi lại trong tâm trí nhà vua một vài trải nghiệm mà họ đã cùng nhau trải qua, rằng tội lỗi của hoàng hậu là do bản tính phụ nữ của bà. Ja 536, Ja.v.437ff.
 
 ## Notes

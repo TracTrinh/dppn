@@ -5,7 +5,7 @@ base_headword: "Vallabhā"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -31,6 +31,6 @@ Vallabhā, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vallabhā, Vallabha, Vallabhas. Một bộ tộc ở Nam Ấn Độ. Vị thủ lĩnh của họ được Biên niên sử mô tả đơn giản là người Vallabha. Māṇavamma một lần liên minh với Narasīha để chống lại vua Vallabha và đánh bại ông ta (Cv.xlvii.15ff). Lần khác, vua Vallabha cử một đội quân đến khuất phục Nāgadīpa vào triều đại Mahinda IV. Mahinda IV gửi một đội quân dưới quyền tướng Sena, đánh bại những người Vallabhas và ký kết một hiệp ước thân hữu với họ. Cv.liv.12ff.
 
 ## Notes

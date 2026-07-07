@@ -5,7 +5,7 @@ base_headword: "Upanisāsutta"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Upanisāsutta 01. On causal association. SN.ii.29f.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upanisāsutta 01. Về sự liên kết nhân quả. SN.ii.29f.
 
 ## Notes

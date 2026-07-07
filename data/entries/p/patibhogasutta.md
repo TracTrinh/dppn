@@ -5,7 +5,7 @@ base_headword: "Pāṭibhogasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -24,6 +24,6 @@ Pāṭibhogasutta. Four things against which there can be no surety: decay, dise
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāṭibhogasutta. Bốn điều không thể có sự bảo đảm để chống lại: sự suy tàn, bệnh tật, cái chết và sự tái sinh. AN.ii.112; Cp.iii.54; Kv.457.
 
 ## Notes

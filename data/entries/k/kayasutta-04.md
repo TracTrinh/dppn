@@ -5,7 +5,7 @@ base_headword: "Kāyasutta"
 disambiguator: "04"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -24,6 +24,6 @@ Kāyasutta 04. There are certain things that should be got rid of by action, oth
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāyasutta 04. Có những điều nhất định nên loại bỏ bằng hành động, những điều khác bằng lời nói, còn những điều khác nữa bằng tâm ý. Sutta giải thích những điều này là gì và làm thế nào để loại bỏ chúng. AN.v.39f.
 
 ## Notes

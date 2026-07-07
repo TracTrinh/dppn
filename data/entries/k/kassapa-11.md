@@ -5,7 +5,7 @@ base_headword: "Kassapa"
 disambiguator: "11"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -39,6 +39,8 @@ Kassapa 11. A *seṭṭhi*, probably of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapa 11. Một *seṭṭhi*, có lẽ là ở Rājagaha, người đã xây dựng Kassapakārāma, được đặt theo tên của ông. SN­a.ii.230. 28. Kassapa. Xem thêm Acela Kassapa, Uruvelā Kassapa, Kumāra Kassapa, Gayā Kassapa, Dasabala Kassapa, Nadī Kassapa, Nārada Kassapa, Pūraṇa Kassapa, Mahā Kassapa và Lomasa Kassapa.
+
+Kassapa rõ ràng là một tên *gotta* nổi tiếng (ví dụ, MN­a.i.584) và những người được sinh ra trong một gia đình mang tên đó thường được gọi là Kassapa - ví dụ, Uruvelā Kassapa (AN­a.i.165) và, một lần nữa, Nāgita Thera (DN.i.151).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sīhala"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -30,6 +30,8 @@ The word, thereafter, became the name of the inhabitants of Ceylon, as opposed t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhala, Sīhalā. Tên gọi dành cho Vijaya và các bạn đồng hành của ông, những người sáng lập chủng tộc Sinhalese ở Tích Lan. Có nói rằng (Mhv.vii.42; cf. Dpv.ix.1) Sīhala là tên được đặt cho Sīhabāhu vì ông đã giết con sư tử (*sīhaṁ adinnavā iti*), và vì có liên hệ với ông, Vijaya và các bạn đồng hành cũng được gọi là Sīhalā.
+
+Sau đó, từ này trở thành tên gọi của cư dân Tích Lan, để phân biệt với người Damiḷa và các dân tộc khác. Người Sīhalā có một cây *vīnā* với dây đàn rất mảnh. Khp­a.47.
 
 ## Notes

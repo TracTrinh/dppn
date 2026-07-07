@@ -5,7 +5,7 @@ base_headword: "Suddhāvāsā"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -34,6 +34,10 @@ The Buddha is mentioned as having visited the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suddhāvāsā. "Tịnh Cư thiên" (Pure Abodes); tên được đặt cho một nhóm cõi Phạm thiên (*Brahma*) – năm cõi Sắc giới (*Rūpa*) cao nhất – bao gồm: Avihā, Atappā, Sudassā, Sudassī và Akaniṭṭhā (vd., DN.iii.237). Nơi đó các bậc Bất lai (*Anāgāmī*) được sinh ra, và tại đó họ đạt được quả vị *Arahant*; những bậc *Anāgāmī* này được chia thành hai mươi bốn hạng (Xem, vd., Khp­a.182f.; of. Paṭis-a.319; Vsm.710). Các vị Bodhisatta không bao giờ sinh ra ở đó (Snp­a.i.50; Bv­a.224).
+
+Suddhāvāsā được miêu tả là *Buddhānaṁ khandhāvāraṭṭhānasadisā*, giống như những di tích chứa xá-lợi của chư Phật. Đôi khi, trong nhiều *asaṅkheyya* của các kappa, khi không có chư Phật ra đời, những cõi này vẫn trống rỗng (AN­a.ii.808; cf. MN­a.i.30).
+
+Đức Phật được nhắc đến là đã từng viếng thăm Suddhāvāsā (vd., DN.ii.50). Khi một vị Phật sắp đản sinh, cư dân của Suddhāvāsā đưa kiến thức về các dấu hiệu của một Bậc Vĩ Nhân vào trong kinh Vệ-đà và truyền dạy điều này giữa loài người dưới lớp áo của những Bà-la-môn, gọi kiến thức đó là *buddhamanta*. Con người học được kiến thức này và nhờ đó có thể nhận ra một Bậc Vĩ Nhân (MN­a.ii.761; Snp­a.ii.448). Cư dân của Suddhāvāsā biết được bao nhiêu vị Phật sẽ ra đời trong bất kỳ kappa cụ thể nào bằng cách quan sát số lượng hoa sen mọc lên trên nền của Bồ-đề đạo tràng (*Bodhipallaṅka*) khi trái đất dần trồi lên sau sự hủy diệt của thế giới (DN­a.ii.411). Chính các vị Phạm thiên Suddhāvāsā là người tạo ra bốn điềm báo dẫn đến sự xuất gia của Bodhisatta trong đời sống thế tục cuối cùng của ngài. Xem, vd., DN­a.ii.455f.
 
 ## Notes

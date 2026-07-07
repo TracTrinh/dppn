@@ -5,7 +5,7 @@ base_headword: "Sirika"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -27,6 +27,6 @@ Sirika. The name of the elephant which <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirika. Tên con voi mà Sunanda (Upāli trong kiếp này) đã cưỡi khi ông xúc phạm Pacceka Buddha Devala bằng cách lùa con voi xông vào vị ấy. Thag­a.i.368.
 
 ## Notes

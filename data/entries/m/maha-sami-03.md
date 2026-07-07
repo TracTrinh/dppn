@@ -5,7 +5,7 @@ base_headword: "Mahā Sāmi"
 disambiguator: "03"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Sāmi 03. A Thera of Ceylon, to whom tradition ascribes the authorship of 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sāmi 03. Một vị Trưởng lão của Tích Lan, người mà truyền thống cho là tác giả của Mūlasikhā. PLC. 77.
 
 ## Notes

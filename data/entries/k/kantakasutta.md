@@ -5,7 +5,7 @@ base_headword: "Kaṇṭakasutta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -34,6 +34,6 @@ Kaṇṭakasutta. When the Buddha was staying at the <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇṭakasutta. Khi Đức Phật đang lưu trú tại Kūṭāgārasālā ở Vesālī, những người Licchavī, cùng với đoàn tùy tùng của họ, đã đến thăm ngài với số lượng lớn và gây ra một sự náo động lớn. Do đó, một số đệ tử xuất chúng của Đức Phật đang ở cùng với Đức Phật, chẳng hạn như Cāla, Upacāla, Kakkaṭa, Kalimbha, Nikaṭa và Kaṭissaha, đã lui vào các khu rừng vắng vẻ khác nhau, chẳng hạn như Gosiṅgasālavana, ở gần đó. Đức Phật đã ca ngợi họ, nói rằng tiếng ồn là một chướng ngại cho thiền định, và thuyết *Sutta* này về mười loại chướng ngại (AN.v.133-5).
 
 ## Notes

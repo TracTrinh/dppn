@@ -5,7 +5,7 @@ base_headword: "Kalikāla"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kalikāla. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kalikāla. Một thủ lĩnh người Damiḷa, bị đánh bại bởi Laṅkāpura. Cv.lxxvi.214f.
 
 ## Notes

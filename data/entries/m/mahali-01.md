@@ -5,7 +5,7 @@ base_headword: "Mahāli"
 disambiguator: "01"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -49,6 +49,12 @@ This <span class="dppn-term dppn-term-t14" data-dppn-term-pos="29" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahāli 01. Một vị thủ lĩnh của tộc Licchavī, được nhắc đến là đã đến viếng thăm Đức Phật tại Kūṭāgārasālā để hỏi xem Ngài đã từng nhìn thấy Sakka hay chưa (SN.i.230; Dhp­a.i.263ff. nói thêm rằng Đức Phật ở đây đã kể cho ông nghe câu chuyện về Magha) và cũng để cầu xin thông tin liên quan đến những lời giảng dạy của Pūraṇa Kassapa (SN.iii.68). Cuộc trò chuyện này là kết quả từ việc Mahāli đã được nghe Sakkapañhasutta (xem Mahālisutta.)
+
+Mahāli đã được giáo dục tại Takkasilā. Sau khi ông trở về Vesālī, ông đã cống hiến bản thân mình cho việc giáo dục của những người đàn ông Licchavī trẻ tuổi, nhưng, thông qua sự nỗ lực quá mức, đã bị mất đi thị lực của mình. Dẫu vậy, ông vẫn tiếp tục chỉ dạy cho họ, và đã được trao cho một ngôi nhà ở cạnh cổng thành, lối đi dẫn từ Sāvatthī vào trong Vesālī. Doanh thu từ cổng thành này, trị giá một trăm ngàn, đã được trao cho ông (Dhp­a.i.338). Khi Bandhula đến Vesālī, để thỏa mãn những ham muốn ốm nghén của người vợ của ông là Mallikā, Mahāli, khi nghe thấy tiếng ầm ầm từ chiếc xe ngựa của ông, đã ngay lập tức nhận ra nó. Ông đã cảnh báo những người Licchavī không được can thiệp vào chuyện của Bandhula, và, khi nhận thấy rằng họ vẫn khăng khăng đòi truy đuổi ông, đã thúc giục họ hãy quay trở lại khi họ nhìn thấy cỗ xe ngựa của Bandhula chìm sâu cho đến tận trục bánh xe, hoặc ít nhất là khi họ nghe thấy một âm thanh giống như tiếng rền vang của một tia sét, hoặc khi họ nhìn thấy một cái lỗ hổng ở trên các ách của cỗ xe ngựa. Nhưng họ đã không chú ý đến những lời cảnh báo của ông và đã tất cả đều bị giết chết (Dhp­a.i.350f.; Ja.iv.148f).
+
+Khi những người Licchavī quyết định thỉnh mời Đức Phật đến Vesālī, để giải thoát thành phố khỏi những bệnh dịch của nó, chính Mahāli là người đã đi cùng với con trai của vị *Purohita* (quốc sư) đến Veḷuvana để thỉnh cầu Bimbisāra, rằng ông có thể thuyết phục Đức Phật quang lâm đến. Mahāli đã là một người được yêu mến của Bimbisāra và là một thành viên trong đoàn tùy tùng của ông. Ông đã chứng đạt *Sotāpatti* (Tu-đà-hoàn) cùng một lúc với nhà vua (Dhp­a.iii.438).
+
+Mahāli này có lẽ là đồng nhất với Mahāli được nhắc đến trong Apadāna (Ap.ii.494, vs.28) như là cha của Sīvalī. Vợ của ông là Suppavāsā.
 
 ## Notes

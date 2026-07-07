@@ -5,7 +5,7 @@ base_headword: "Kassapa"
 disambiguator: "12"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -31,6 +31,6 @@ Kassapa 12. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapa 12. Con trai của Dhātusena trong một cuộc hôn nhân quý tiện kết hôn (morganatic marriage). Ông đã sát hại cha mình và trở thành vua của Tích Lan với vương hiệu là Kassapa I. (478-96 CE.). Sợ sự trả thù của anh trai Moggallāna, ông đã dựng lên pháo đài tại Sīhagiri và cư ngụ ở đó. Về sau, sám hối tội giết cha, ông đã làm nhiều việc phước thiện như một cách để chuộc lỗi (để biết chi tiết xem Cv.xxxix.8ff), phần chính trong đó là sự phục hồi Issarasamaṇārāma, nơi mà ông đã xây thêm các tòa nhà được đặt theo tên những người con gái của mình, Bodhī và Uppalavaṇṇā. Trong một trận chiến với quân đội của anh trai ông, quân đội của ông đã bỏ chạy trong sự hỗn loạn, và Kassapa đã tự cứa cổ mình bằng một con dao găm. Cv.xxxviii.80ff.; xxxix.1ff.
 
 ## Notes

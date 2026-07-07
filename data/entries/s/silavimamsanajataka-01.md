@@ -5,7 +5,7 @@ base_headword: "Sīlavīmaṁsanajātaka"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -29,6 +29,8 @@ The story was related in reference to a learned and pious Brahmin, in the servic
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīlavīmaṁsanajātaka 01. (Ja 86). Bodhisatta là quân sư của vua Benares và muốn thử sức mạnh tương ứng của đức hạnh và học vấn (như đã nói ở trên trong Sīlavīmaṁsajātaka (Ja 330)). Khi đang bị dẫn đến trước vua, ông thấy những người bắt rắn đang biểu diễn với con rắn của họ và cảnh báo họ coi chừng bị nó cắn. "Nó không giống ông đâu," họ đáp, "vì ông là người tốt lành." Vua ra lệnh xử tử vị quân sư; nhưng, khi nghe được ý định của vua, ông được cho phép trở thành một ẩn sĩ.
+
+Câu chuyện được kể liên quan đến một người Bà-la-môn học rộng và mộ đạo, phục vụ vua Kosala, người đã thực hiện một phép thử tương tự. Sau đó ông gia nhập Saṅgha và trở thành một *Arahant*. Ja.i.369-71.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sudatta"
 disambiguator: "11"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -37,6 +37,10 @@ He is evidently identical with <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudatta 11. Sudatta Thera (*v.l.* Sudanta Thera). Ngài xuất thân từ một gia đình giàu có ở Veḷukaṇṭaka. Một số tài liệu cho tên ngài là Vāsula. Ngài là một người bạn thân của Kumāputta, và khi nghe tin người bạn này đã xuất gia, ngài cũng đến viếng thăm Đức Phật với mục đích tương tự. Đức Phật đã thuyết pháp cho ngài, và ngài gia nhập Tăng đoàn rồi sống trên một ngọn đồi cùng với Kumāputta, chuyên tâm vào việc hành thiền. Nhưng họ đã bị quấy rầy bởi sự đến và đi của vô số tỳ-kheo, và chính nhờ sự quấy rầy đó đã thúc đẩy ngài nỗ lực lớn hơn, Sudatta đã tinh tấn và trở thành một vị *Arahant*.
+
+Chín mươi bốn kappa trước, trong thời của Siddhattha Buddha, ngài là một nam cư sĩ, và khi đi vào rừng, ngài đã làm những cây gậy chống để cúng dường cho các tỳ-kheo (Thag.vs.37; Thag­a.i.101f).
+
+Ngài rõ ràng được đồng nhất với Daṇḍadāyaka trong Apadāna, và thường được biết đến với tên là Kumāputtasahāya Thera. Ap.i.283.
 
 ## Notes

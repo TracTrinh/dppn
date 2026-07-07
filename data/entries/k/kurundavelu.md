@@ -5,7 +5,7 @@ base_headword: "Kurundavelu"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -24,6 +24,6 @@ Kurundavelu. A *vihāra* in Ceylon, where was compiled the <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một *vihāra* ở Ceylon, nơi Kurundī-aṭṭhakathā được biên soạn.
 
 ## Notes

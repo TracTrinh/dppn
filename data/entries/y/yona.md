@@ -5,7 +5,7 @@ base_headword: "Yonā"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -47,6 +47,10 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="23" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yonā, Yavanā, Yonakā, Yonas, Yonakas. Một đất nước và người dân của nó. Tên gọi này có lẽ là từ Pāli tương đương với người Ionian, tức là người Hy Lạp ở Baktria. Những Yonas được nhắc đến cùng với những Kambojas trong các Chỉ dụ Khắc đá thứ V và thứ XII của Asoka, như một nhóm người thuộc quyền cai trị, tạo thành một khu vực biên giới trong đế chế của ông. Đất nước này đã được Thera Mahā Rakkhita cải đạo, ngài được cử đến đó sau Cuộc Kết Tập Lần Thứ Ba (Mhv.xii.5; Dpv.viii.9; Vin-a.i.67). Vào thời đại của Milinda, thủ đô của vương quốc Yona là Sāgala (Mil.1). Người ta kể lại (Mhv.xxix.39) rằng tại Lễ Đặt Nền Móng cho Mahā Thūpa, ba mươi ngàn tỳ-kheo, dưới sự lãnh đạo của Yona Mahā Dhammarakkhita, đã từ Alasandā ở đất nước Yona đến tham dự. Alasandā rõ ràng là trụ sở của các tỳ-kheo Phật giáo vào thời điểm đó. Alasandā thường được đồng nhất (Xem, ví dụ, Geiger, Mhv.Trs.194, n.3) với thành phố Alexandria do vua Macedonia (Alexander) thành lập tại đất nước của người Paropanisadae gần Kābul.
+
+Trong Assalāyanasutta (MN.ii.149), Yona và Kamboja được nhắc đến như là những vùng đất chỉ có hai tầng lớp người, đó là chủ nhân và nô lệ, và một chủ nhân có thể trở thành nô lệ hoặc *ngược lại*. Chú giải (MN­a.ii.784) giải thích điều này bằng cách nói rằng giả sử một Bà-la-môn đến đó và chết, những đứa con của ông ta có thể kết hôn với nô lệ, trong trường hợp đó, những đứa con của họ sẽ là nô lệ. Vào những thời kỳ sau này, tên gọi Yavanā hay Yonā dường như bao gồm tất cả người phương Tây sống ở Ấn Độ và đặc biệt là những người gốc Ả Rập (Cv.Trs.ii.87, n.1). Những bức tượng Yonaka, cầm đèn, nằm trong số những vật trang trí được sử dụng bởi những người Sākiyans ở Kapilavatthu (MN­a.ii.575). Ngôn ngữ của người Yavanas được xếp loại là *Milakkhabhāsā* (ví dụ, DN­a.i.276; Vibh­a.388).
+
+Aṅguttara Commentary (AN­a.i.51) ghi chép rằng từ thời của Kassapa Buddha, những người Yonakas thường đi lại trong những bộ y phục màu trắng, do ký ức về tôn giáo từng thịnh hành ở đó.
 
 ## Notes

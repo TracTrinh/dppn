@@ -5,7 +5,7 @@ base_headword: "Phalika"
 disambiguator: ""
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -24,6 +24,6 @@ Phalika. One of the peaks of the <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phalika. Một trong những ngọn núi của Himālaya (Ja.v.415). Phalikaguhā hiển nhiên nằm ở ngọn núi này. Ja.ii.6, 7, 8.
 
 ## Notes

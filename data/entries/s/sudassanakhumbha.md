@@ -5,7 +5,7 @@ base_headword: "Sudassanakhumbha"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sudassanakhumbha. A water pot, set on <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudassanakhumbha. Một bình nước, đặt trên Erāvaṇa, dành cho Sakka sử dụng. Nó có chu vi ba mươi do-tuần, và phía trên nó là một tán lọng rộng mười hai do-tuần làm bằng các loại đá quý. Bao quanh nó là ba mươi hai bình nước khác. Dhp­a.i.273; Snp­a.i.369.
 
 ## Notes

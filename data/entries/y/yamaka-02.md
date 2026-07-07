@@ -5,7 +5,7 @@ base_headword: "Yamaka"
 disambiguator: "02"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -25,6 +25,6 @@ Yamaka 02. A Thera holding heretical views, refuted by <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yamaka 02. Một vị Thera giữ những tà kiến, đã bị Sāriputta bác bỏ. Xem Yamakasutta.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Uttiya"
 disambiguator: "04"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,6 @@ Uttiya 04. In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttiya 04. Trong Kathāvatthu (i.268) có đề cập đến một người cư sĩ tên Uttiya, cùng với Yasa *kulaputta* và Setu *māṇava*, là những người đã đắc quả *Arahant* khi vẫn còn sống trong hoàn cảnh của một cư sĩ.
 
 ## Notes

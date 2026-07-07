@@ -5,7 +5,7 @@ base_headword: "Kumārapañha"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -44,6 +44,16 @@ See also SN­a.iii.99, where <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chương thứ tư của Khuddakapāṭha (Khp.p.2).
+
+Nó bao gồm mười câu hỏi mà, theo các Chú giải (Khp-a.76; Thag­a.i.479), Đức Phật đã hỏi cậu bé Sopāka, lúc đó là một vị *Arahant* mặc dù mới bảy tuổi, với ý định truyền *upasampadā* cho cậu.
+
+Cậu bé *Arahant* đã trả lời các câu hỏi và cuộc trò chuyện này tạo thành lễ xuất gia của cậu (xem thêm Thag.v.485; Ap.i.64f).
+
+Những câu hỏi này đã được vị tỳ-kheo-ni của Kajaṅgalā phát triển thêm (xem AN.v.54ff). (*q.v.*).
+
+Majjhima Commentary (MN­a.ii.636) về Ambalaṭṭhika Rāhulovādasutta dường như chỉ ra một bộ câu hỏi được gọi là Kumārapañha liên quan đến Rāhula khi cậu lên bảy tuổi.
+
+Xem thêm SN­a.iii.99, nơi Buddhaghosa nói rằng Cittagahapati, trong một cuộc thảo luận với Nigaṇṭha Nātaputta, đã nhắc đến Kumārapañha.
 
 ## Notes

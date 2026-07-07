@@ -5,7 +5,7 @@ base_headword: "Sīhapura"
 disambiguator: "03"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -26,6 +26,6 @@ Sīhapura 03. A suburb of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhapura 03. Một vùng ngoại ô của Pulatthipura, nơi có Kusinārāvihāra. Cv.lxxviii.84.
 
 ## Notes

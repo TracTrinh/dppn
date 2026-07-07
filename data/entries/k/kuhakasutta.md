@@ -5,7 +5,7 @@ base_headword: "Kuhakasutta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -23,6 +23,6 @@ Kuhakasutta. Five qualities, such as deceitfulness, which make a monk disagreeab
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kuhakasutta. Năm phẩm chất, chẳng hạn như sự gian dối, làm cho một vị tỳ-kheo trở nên khó chịu đối với các đồng tu của mình. AN.iii.111f.
 
 ## Notes

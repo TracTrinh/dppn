@@ -5,7 +5,7 @@ base_headword: "Rucagattī"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rucagattī. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rucagattī. Vợ của Koṇāgamana Buddha trong đời cư sĩ cuối cùng của Ngài. DN­a.ii.422; nhưng Bv.xxiv.19 gọi bà là Rucigattā.
 
 ## Notes

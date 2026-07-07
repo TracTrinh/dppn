@@ -5,7 +5,7 @@ base_headword: "Maṇibhadda"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Maṇibhadda. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇibhadda. Một Yakkha đến thăm Đức Phật tại cetiya Maṇimālaka và đàm đạo với Ngài về sự thù hận và sự giải thoát khỏi sự thù hận. (SN.i.208; cf. Avś.ii.179.)
 
 ## Notes

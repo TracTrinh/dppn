@@ -5,7 +5,7 @@ base_headword: "Maṇḍavya"
 disambiguator: "02"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -28,6 +28,6 @@ Maṇḍavya 02. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇḍavya 02. Con trai của Mātaṅga và Diṭṭhamaṅgalikā. Xem câu chuyện của ông trong Mātaṅgajātaka. Maṇḍavya được dẫn ra như một ví dụ về sự thụ thai qua tiếp chạm vào rốn. Mil.123f.; Vin-a.i.214.
 
 ## Notes

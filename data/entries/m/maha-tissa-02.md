@@ -5,7 +5,7 @@ base_headword: "Mahā Tissa"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -30,6 +30,6 @@ Mahā Tissa 02. Called <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Tissa 02. Được gọi là Vanavāsī Mahā Tissa. Ngài là một người bạn đồng tu của *Alindakavāsī* Mahā Phussadeva của Ceylon, và đã chứng kiến Sakka cùng những vị thần khác đang chầu chực để hầu hạ Mahā Phussadeva để ghi nhận sự thánh thiện của ngài ấy. Mahā Tissa chỉ nhận thấy được ánh hào quang của chư thiên và đã hỏi Phussadeva, tuy nhiên, ngài ấy đã không đưa ra một câu trả lời trực tiếp. Snp­a.i.55f.; Vibh-a.352.
 
 ## Notes

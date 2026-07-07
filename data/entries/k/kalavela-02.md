@@ -5,7 +5,7 @@ base_headword: "Kāḷavela"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -34,6 +34,8 @@ Kāḷavela 02. A servant of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷavela 02. Một người hầu của Dīghagāmaṇi. Ông đã từ chối hứa với các anh trai của Ummādacittā rằng ông sẽ giết bà nếu bà sinh ra một bé trai, và vì thế ông đã bị họ giết chết và tái sinh làm một Yakkha (Mhv.ix.22f). Về sau ông đã cứu mạng cậu bé này, Paṇḍukābhaya, người đang được mang đi trong một chiếc giỏ (Mhv.x.4), và khi Paṇḍukābhaya lên ngôi, ngài đã thành lập một khu định cư cho Kāḷadeva ở phía đông của Anurādhapura (Mhv.vs.84). Người ta nói rằng vào những ngày lễ hội, Yakkha này đã xuất hiện dưới hình dáng có thể nhìn thấy được cùng với Paṇḍukābhaya (Mhv.vs104).
+
+Mahā Sena sau này đã xây dựng một bảo tháp trên nền đền thờ của Kāḷavela. Mhv.xxxvii.44.
 
 ## Notes

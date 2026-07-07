@@ -5,7 +5,7 @@ base_headword: "Patodasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -23,6 +23,6 @@ Patodasutta. Four kinds of thoroughbred steeds in the world and the correspondin
 
 ## Vietnamese translation
 
-Chưa dịch.
+Patodasutta. Bốn loại tuấn mã trên thế gian và bốn loại bậc trượng phu tương ứng. Loại tuấn mã đầu tiên bị kích động ngay cả khi chỉ nhìn thấy bóng của chiếc roi thúc ngựa, tương tự như vậy, các bậc trượng phu bị khuấy động trước tin tức về nỗi thống khổ của người khác. AN.ii.114f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Tālipabbata"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tālipabbata. The Brahmin who accompanied <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tālipabbata. Vị Bà-la-môn đã tháp tùng Mahā Ariṭṭha trong chuyến đi sứ của ông từ Tích Lan đến triều đình Asoka. Mhv­ṭ.302.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vellināba"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vellināba. A stronghold in South India. Cv.lxxvii.39.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vellināba. Một thành lũy ở Nam Ấn Độ. Cv.lxxvii.39.
 
 ## Notes

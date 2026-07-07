@@ -5,7 +5,7 @@ base_headword: "Vajira"
 disambiguator: "02"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vajira 02. A minister of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vajira 02. Một quan đại thần của Sena I. Ông đã xây dựng cho các tỳ-kheo một nhà cư trú gọi là Vajirasenaka. Cv.i.84.
 
 ## Notes

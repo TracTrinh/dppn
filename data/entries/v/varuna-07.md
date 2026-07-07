@@ -5,7 +5,7 @@ base_headword: "Varuṇa"
 disambiguator: "07"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Varuṇa 07. A Brahmin, a former birth of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Varuṇa 07. Một vị Bà-la-môn, là tiền kiếp của Suppiya Thera. Thag­a.i.93; Ap.ii.452.
 
 ## Notes

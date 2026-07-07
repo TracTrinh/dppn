@@ -5,7 +5,7 @@ base_headword: "Soṇagiri"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -30,6 +30,6 @@ Soṇagiri, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Soṇagiri, Soṇṇagiri. Một vùng núi ở Tích Lan. Vua Mahā Cūḷi Mahā Tissa một lần làm thợ trong một nhà máy đường ở đó ba năm để kiếm tiền cúng dường (Mhv.xxxiv.4). Gần Soṇṇagiri là *vihāra* Pipphali (Vibh­a.439). Theo Mahā Vaṃsaṭīkā (Mhv­ṭ.624; xem cũng Mhv.Trs.238, n.1), Sonnagiri là một phần của dãy Ambaṭṭhakola.
 
 ## Notes

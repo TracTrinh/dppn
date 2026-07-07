@@ -5,7 +5,7 @@ base_headword: "Vāsabhagāmī Thera"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -29,6 +29,6 @@ Vāsabhagāmī Thera, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vāsabhagāmī Thera, Vāsabhagāmika Thera. Đệ tử của Anuruddha Thera. Ngài là một trong bốn tu sĩ Pācīnaka được chỉ định vào ủy ban (*ubbāhikā*) xem xét Mười Điểm do nhóm Vajjiputtakā nêu ra. Người đồng môn của ngài là Sumana, và cả hai đều đã gặp Đức Phật. Vin.ii.305; Dpv.iv.51; v. 22, 24; Vin-a.i.35; Mhv.iv.48, 58.
 
 ## Notes

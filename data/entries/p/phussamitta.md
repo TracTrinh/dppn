@@ -5,7 +5,7 @@ base_headword: "Phussamitta"
 disambiguator: ""
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -23,6 +23,6 @@ Phussamitta. A monk of the Kurundaka *vihāra* in Ceylon; he was evidently a com
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phussamitta. Một vị tỳ-kheo của Kurundaka *vihāra* ở Tích Lan; ngài hiển nhiên là một vị chú giải sư. AN­a.i.31.
 
 ## Notes

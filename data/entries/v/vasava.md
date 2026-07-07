@@ -5,7 +5,7 @@ base_headword: "Vāsava"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -33,6 +33,10 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tên gọi của Sakka. SN.i.221, 223, 229-30, 234-7; DN.ii.260, 274; Snp.vs.384; Dhp­a.iii.270; Ja.i.65, v.v.; Cv.xxxvii.151, v.v.
+
+Nhiều lời giải thích được đưa ra cho tước vị này. Trong Saṁyuttanikāya (SN.i.229; so sánh Dhp­a.i.264), người ta nói rằng khi ông còn là một con người, trong tiền kiếp của mình, ông đã trao tặng những nơi ở (*āvasathaṁ adāsi*) – do đó có tên này.
+
+Tuy nhiên, theo Dīghanikāya (DN.ii.260), ông là Vāsava vì ông là người đứng đầu của những người Vasu (*Vasūnaṃ seṭṭho*), những người mà Buddhaghosa (DN­a.ii.690) gọi là *Vasudevatā*.
 
 ## Notes

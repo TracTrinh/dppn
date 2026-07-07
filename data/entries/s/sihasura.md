@@ -5,7 +5,7 @@ base_headword: "Sīhasūra"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -24,6 +24,6 @@ Sīhasūra. Name of a king (Gv.73).
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhasūra. Tên của một vị vua (Gv.73).
 
 ## Notes

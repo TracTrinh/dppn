@@ -5,7 +5,7 @@ base_headword: "Upālivagga"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -27,6 +27,6 @@ Upālivagga. The fourth chapter of the *Dasakanipāta* of the <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upālivagga. Chương thứ tư của Dasakanipāta thuộc Aṅguttaranikāya. Nó chứa những ghi chép về các cuộc thảo luận khác nhau giữa Upāli (1) và Đức Phật, và hai cuộc thảo luận giữa Ānanda và Đức Phật, liên quan đến các vấn đề thuộc Vinaya. AN.v.70-7.
 
 ## Notes

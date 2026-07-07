@@ -5,7 +5,7 @@ base_headword: "Sirivaḍḍha"
 disambiguator: "13"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -27,6 +27,6 @@ Sirivaḍḍha 13. A householder of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirivaḍḍha 13. Một gia chủ ở Rājagaha. Khi ông bị bệnh, ông đã nhắn tin cho Ānanda xin ngài đến thăm mình. Ānanda đã đến và thuyết giảng cho ông về bốn *satipaṭṭhāna*. Sirivaḍḍha trở thành một *Anāgāmī*. SN.v.176f.
 
 ## Notes

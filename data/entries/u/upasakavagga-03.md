@@ -5,7 +5,7 @@ base_headword: "Upāsakavagga"
 disambiguator: "03"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -25,6 +25,6 @@ Upāsakavagga 03. The tenth chapter of the *Dasakanipāta* of the <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upāsakavagga 03. Chương thứ mười của Dasakanipāta thuộc Aṅguttaranikāya. AN.v.176-206.
 
 ## Notes

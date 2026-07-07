@@ -5,7 +5,7 @@ base_headword: "Tālacatukka"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tālacatukka. A place included in the *sīmā* of the <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tālacatukka. Một nơi thuộc phạm vi *sīmā* (ranh giới) của Mahā Vihāra. Mbv.135.
 
 ## Notes

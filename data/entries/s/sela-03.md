@@ -5,7 +5,7 @@ base_headword: "Sela"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Sela 03. A mountain in <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sela 03. Một ngọn núi ở Himavā. Ap­a.i.96.
 
 ## Notes

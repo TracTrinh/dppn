@@ -5,7 +5,7 @@ base_headword: "Yasodharā"
 disambiguator: "04"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -33,6 +33,6 @@ Yasodharā 04. Daughter of King <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yasodharā 04. Con gái của Vua Jayasena. Bà kết hôn với Añjana người dòng Sākiyan, và những người con của họ là Māyā và Pajāpatī cùng Daṇḍapānī và Suppabuddha (Mhv.ii.16ff). Yasodharā là chị gái của Sīhahanu. Mhv­ṭ. 35; xem thêm Mvu.i.355.
 
 ## Notes

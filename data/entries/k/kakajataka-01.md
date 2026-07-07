@@ -5,7 +5,7 @@ base_headword: "Kākajātaka"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -28,6 +28,8 @@ The circumstances which led to the recital of the story are described in the <sp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kākajātaka 01. (Ja 140). Bodhisatta từng tái sinh làm một con quạ. Một ngày nọ, một con quạ vô tình đánh rơi chất bẩn lên người vị pháp sư của nhà vua khi ông ta đang trở về từ phòng tắm với tất cả vẻ lộng lẫy của mình. Do đó, ông ta nảy sinh lòng căm thù đối với tất cả các loài quạ. Ngay sau đó, một nữ nô lệ, đang canh chừng một ít gạo trải ra phơi nắng cho khô, đã nổi giận với một con dê vì ngay khi cô ta ngủ thiếp đi, con dê bắt đầu ăn gạo. Trong lúc bực tức, cô ta đã lấy một ngọn đuốc và đập vào cái lưng xù xì của con dê, khiến nó bốc cháy. Để làm dịu cơn đau, con dê chạy vào kho cỏ khô gần chuồng voi của nhà vua và lăn lộn trong cỏ khô. Trong trận hỏa hoạn xảy ra sau đó, nhiều con voi đã bị bỏng nặng, và khi vị pháp sư được hỏi ý kiến, vì nhớ lại sự tức giận của mình đối với bầy quạ, ông ta nói rằng phương pháp chữa bỏng là dùng mỡ quạ. Theo đó, những con quạ đã bị tàn sát không thương tiếc; Bodhisatta, nghe được điều này đã tìm đến nhà vua và giải thích cho ông ta biết động cơ của vị pháp sư. Ngài nói rằng quạ không có mỡ, vì cuộc sống của chúng luôn trôi qua trong nỗi sợ hãi không ngừng. Nhà vua, rất hài lòng với hành động của Bodhisatta, đã ban quyền miễn trừ cho tất cả chúng sinh, đặc biệt ưu ái đối với loài quạ.
+
+Những tình tiết dẫn đến việc kể lại câu chuyện được mô tả trong Bhaddasālajātaka (*q.v.*). Vị vua trong câu chuyện là Ānanda.
 
 ## Notes

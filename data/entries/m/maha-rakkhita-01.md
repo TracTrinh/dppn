@@ -5,7 +5,7 @@ base_headword: "Mahā Rakkhita"
 disambiguator: "01"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -27,6 +27,6 @@ Mahā Rakkhita 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Rakkhita 01. Trưởng lão Mahā Rakkhita. Ngài đã đi đến quốc độ Yona sau Kỳ Kết Tập thứ Ba, và thuyết giảng Kāḷakārāmasutta tại đó. Một trăm bảy mươi ngàn người đã theo đức tin của Đức Phật và mười ngàn người đã gia nhập Tăng đoàn. Mhv.xii.5, 39; Dpv.viii.9; Vin-a.i.64, 67.
 
 ## Notes

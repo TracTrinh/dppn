@@ -5,7 +5,7 @@ base_headword: "Yavakalāpiya Thera"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -25,6 +25,6 @@ Yavakalāpiya Thera. An *Arahant*. He was a barley reaper (? *yavasika*) in the 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yavakalāpiya Thera. Một vị *Arahant*. Ngài là một người gặt lúa mạch (? *yavasika*) vào thời của Sikhī Buddha, và một ngày nọ, khi nhìn thấy Đức Phật trên đường, ngài đã rải một bó lúa mạch để làm chỗ ngồi cho Ngài. Ap.i.282.
 
 ## Notes

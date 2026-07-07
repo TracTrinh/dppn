@@ -5,7 +5,7 @@ base_headword: "Makākarañjiya"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Makākarañjiya. A monastery, the residence of the Elder <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Makākarañjiya. Một tu viện, nơi trú ngụ của Trưởng lão Mahā Tissa. Vsm.292.
 
 ## Notes

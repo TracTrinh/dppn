@@ -5,7 +5,7 @@ base_headword: "Vaṭṭanahānakoṭṭha"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vaṭṭanahānakoṭṭha. One of the eight bath houses erected in <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một trong tám nhà tắm được xây dựng ở Pulatthipura bởi Parakkamabāhu I. Cv.lxxviii.45.
 
 ## Notes

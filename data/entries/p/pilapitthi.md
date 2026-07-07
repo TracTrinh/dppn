@@ -5,7 +5,7 @@ base_headword: "Pīlapiṭṭhi"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -25,6 +25,6 @@ Pīlapiṭṭhi. A monastery in Ceylon, built by king <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pīlapiṭṭhi. Một tu viện ở Tích Lan, do vua Kaniṭṭhatissa xây dựng. Mhv.xxxvi.15.
 
 ## Notes

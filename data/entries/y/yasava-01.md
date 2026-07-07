@@ -5,7 +5,7 @@ base_headword: "Yasavā"
 disambiguator: "01"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -27,6 +27,6 @@ Yasavā 01. A *Khattiya* of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yasavā 01. Một người thuộc giai cấp *Khattiya* của Candavatī, cha của Anomadassī Buddha. Bv.viii.17; Ja.i.36; Dhp­a.i.105 gọi ông là Yasavanta.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kadamba"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -47,6 +47,12 @@ See also <span class="dppn-term dppn-term-t14" data-dppn-term-pos="19" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kadamba 01. Kadambaka Dòng sông chảy qua Anurādhapura, ở phía đông, ngày nay được gọi là Malvatu Oya (Mhv.vii.43; và Trs.58, n.3). Gần dòng sông là Nivattacetiya (Mhv.xv.10). Khúc sông cạn, Gaṅgalatittha (Mhv­ṭ.361), tạo thành điểm bắt đầu của đường ranh giới của *sīmā* thuộc Mahā Vihāra, và đường này cũng kết thúc tại bờ sông (Mhv.xv.191). Con đường từ Anurādhapura đến Cetiyagiri nằm vắt ngang qua Kadambanadī, và những vị vua mộ đạo, chẳng hạn như Mahā Dāṭhika Mahā Nāga, đã trải thảm từ dòng sông lên tận ngọn núi để những khách hành hương có thể rửa chân dưới sông và đến gần các đền thờ trên núi với đôi chân sạch sẽ (Mhv.xxxiv.78).
+
+Con đường từ sông Kadamba đến Thūpārāma đi qua Rājamātudvāra (SN­a.i.173). Moggallāna II. đã đắp đập ngăn sông giữa những ngọn núi và do đó tạo thành ba cái hồ, Pattapāsāṇavāpi, Dhanavāpi, và Garītara (Cv.xli.61), và Udaya II. đã xây dựng một đập tràn cho dòng nước tràn của con sông (Cv.li.130).
+
+Vào thời Đức Phật Kakusandha, thủ đô của Tích Lan, Abhayanagara, nằm ở phía đông của Kadambanadī (Mhv.xv.59; Dpv.xv.39; xvii.12; xem thêm Mbv.120, 134f).
+
+Xem thêm Kalamba.
 
 ## Notes

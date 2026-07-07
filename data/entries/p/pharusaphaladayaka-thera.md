@@ -5,7 +5,7 @@ base_headword: "Phārusaphaladāyaka Thera"
 disambiguator: ""
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -25,6 +25,6 @@ Phārusaphaladāyaka Thera. An *Arahant*. Ninety-one *kappas* ago he saw <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phārusaphaladāyaka Thera. Một vị *Arahant*. Chín mươi mốt *kappa* trước, ngài đã nhìn thấy Vipassī Buddha và dâng cúng một trái *phārusa* cho Ngài. Ap.i.296.
 
 ## Notes

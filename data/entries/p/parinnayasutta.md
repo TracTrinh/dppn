@@ -5,7 +5,7 @@ base_headword: "Pariññāyasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Pariññāyasutta. By fully understanding body, feeling, etc., deathlessness is 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pariññāyasutta. Bằng cách thấu hiểu đầy đủ về cơ thể, cảm thọ, v.v., sự bất tử được chứng ngộ. SN.v.182.
 
 ## Notes

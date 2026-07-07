@@ -5,7 +5,7 @@ base_headword: "Uttiya"
 disambiguator: "05"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uttiya 05. One of the Theras who accompanied <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttiya 05. Một trong những Trưởng lão đã tháp tùng Mahinda trong chuyến truyền giáo đến Tích Lan (Mhv.xii.8; Dpv.xii.12; Vin-a.i.70; Mbv.116). Vua Sirimeghavaṇṇa đã cho đúc một tượng của Uttiya và đặt trong nhà thờ tượng mà ông xây ở góc đông nam cung điện. Cv.xxxvii.87.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Maṅgala"
 disambiguator: "12"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Maṅgala 12. A monk of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṅgala 12. Một vị tăng sĩ ở Khaṇḍasīmā và là thầy của Vedeha (*q.v.*).
 
 ## Notes

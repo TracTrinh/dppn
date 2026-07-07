@@ -5,7 +5,7 @@ base_headword: "Pañcapāpā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -33,6 +33,10 @@ Afterwards, owing to the jealousy of the other queens, she was cast adrift in a 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcapāpā. Con gái của một người nghèo ở Benares. Bàn tay, bàn chân, miệng, mắt và mũi của nàng đều gớm ghiếc, do đó có cái tên của nàng (“Năm Khiếm Khuyết”); nhưng cái chạm của nàng lại mang đến sự ngây ngất. Lý do của tất cả những điều này là vì trong một tiền kiếp, nàng đã dâng đất sét cho một vị Pacceka Buddha để làm sạch chỗ ở của Ngài, nhưng ngay từ cái nhìn đầu tiên, nàng đã nhìn Ngài một cách giận dữ.
+
+Một ngày nọ, nàng tình cờ chạm vào Baka, vua nước Benares, và ông trở nên say đắm nàng. Ông cải trang đến thăm nhà nàng và cưới nàng. Sau đó, với mong muốn phong nàng làm chánh cung hoàng hậu, nhưng sợ người khác chế nhạo vì sự xấu xí của nàng, ông đã vạch ra một kế hoạch để giúp các công dân nhận thức được cái chạm thần tiên của nàng.
+
+Sau đó, do sự ghen tị của các hoàng hậu khác, nàng bị thả trôi dạt trên một chiếc thuyền và được Vua Pāvāriya nhận về. Baka, nghe tin này, muốn giao chiến với Pāvāriya, nhưng họ đã đồng ý thỏa hiệp, và từ đó Pañcapāpā sống lần lượt mỗi tuần trong cung điện của mỗi vị vua. Câu chuyện này tạo thành một trong những câu chuyện do Kuṇāla, người được đồng nhất với Baka, kể lại. Ja 536, Ja.v.440ff.
 
 ## Notes

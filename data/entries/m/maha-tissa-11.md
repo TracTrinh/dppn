@@ -5,7 +5,7 @@ base_headword: "Mahā Tissa"
 disambiguator: "11"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -28,6 +28,6 @@ Mahā Tissa 11. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Tissa 11. Mahā Tissa Thera. Vị trú trì của tu viện Kambugallaka. Ngài là một người bạn đồng tu của *Kupikkala* Mahā Tissa, và đã nói giúp thay mặt cho Vaṭṭagāmaṇī khi các đại thần của nhà vua muốn rời bỏ ông. Về sau, các đại thần đã chỉ định ngài chăm sóc tất cả những tu viện do họ xây dựng. Mhv.xxxiii.76, 89ff.; Mhv­ṭ. 619, 622.
 
 ## Notes

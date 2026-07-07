@@ -5,7 +5,7 @@ base_headword: "Kulasutta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,6 @@ Kulasutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Asibandhakaputta đến thăm Đức Phật tại Pāvārika-ambavana ở Nālandā theo yêu cầu của Nigaṇṭha Nātaputta, và nói với Đức Phật rằng Ngài đã làm sai khi nhận đồ khất thực từ vùng Nālandā đang bị nạn đói. Đức Phật trả lời rằng việc khất thực của Ngài không nằm trong tám nguyên nhân gây tổn hại cho các gia đình: cụ thể là hành động của các vị vua và bọn cướp, lửa, nước, mất trắng của cải dành dụm, sự lười biếng, những kẻ phá gia chi tử và sự vô thường.
 
 ## Notes

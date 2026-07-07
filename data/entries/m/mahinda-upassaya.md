@@ -5,7 +5,7 @@ base_headword: "Mahinda-upassaya"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mahinda-upassaya. A nunnery built by <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahinda-upassaya. Một ni viện được xây dựng bởi Mahinda I. Ngôi làng Nagaragalla nằm ở ngay bên ngoài ranh giới của nó, và ông đã trao tặng nó cho việc bảo trì của nó. Cv.xlviii.36.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sudhammā"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -32,6 +32,8 @@ After death, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudhammā 03. Một trong bốn người vợ của Magha. Khi Magha và những người bạn của ông đang xây dựng một nhà nghỉ cho những khách lữ hành, họ không muốn phụ nữ có bất kỳ phần đóng góp nào trong công việc đó. Nhưng Sudhammā đã hối lộ người thợ mộc, người này đã làm một cái chóp mái bằng loại gỗ đã được phơi sấy kỹ cho tòa nhà và đặt nó sang một bên với dòng chữ: “*Sudhammā nāma ayaṁ sālā*, hội trường này tên là Sudhammā.” Khi đến lúc dựng chóp mái, ông ta nói với Magha và những người khác rằng lúc bấy giờ không thể làm chóp mái được nữa, vì nó phải được làm bằng gỗ đã phơi sấy kỹ. Một cuộc tìm kiếm chóp mái bằng gỗ phơi sấy kỹ bắt đầu. Sudhammā đồng ý giao chóp mái của mình nếu bà được phép có một phần đóng góp trong tòa nhà. Những người đàn ông lúc đầu không bằng lòng, nhưng cuối cùng cũng đồng ý.
+
+Sau khi chết, Sudhammā được tái sinh ở Tāvatiṁsa, và do phước báu của bà trong quá khứ, Sudhammā, Hội trường Nghị sự của chư thiên (*Deva*), rộng chín trăm do-tuần, đã xuất hiện dành cho bà (Dhp­a.i.269f., 274f.; Ja.i.201f). Tại đó chư thiên tổ chức các cuộc họp của họ vào ngày mồng tám mỗi tháng, hoặc khi Pháp (Dhamma) được thuyết giảng, và cũng là nơi diễn ra tất cả các lễ hội quan trọng và những cuộc tụ họp của họ (xem, vd., DN.ii.268; MN.ii.79; SN.i.221; Ja.vi.97, 126; Thag.vs.1198). Tất cả chư Phật đều thuyết giảng Abhidhamma trong hội trường Sudhammā. Có nói rằng (Thag­a.ii.185) mỗi cõi trời (*Devaloka*) đều có một Sudhammāsabhā; danh hiệu này thường được sử dụng trong các phép so sánh để biểu thị một hội trường tuyệt đẹp.
 
 ## Notes

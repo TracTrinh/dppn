@@ -5,7 +5,7 @@ base_headword: "Lohiccasutta"
 disambiguator: "01"
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -26,6 +26,6 @@ Lohiccasutta 01. The account of the visit of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lohiccasutta 01. Bản tường thuật về chuyến thăm của Lohicca (1) (*q.v.*) ở Makkarakaṭa đến gặp Mahā Kaccāna. SN.iv.117ff.
 
 ## Notes

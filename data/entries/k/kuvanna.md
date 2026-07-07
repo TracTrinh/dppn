@@ -5,7 +5,7 @@ base_headword: "Kuvaṇṇā"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -42,6 +42,10 @@ Mhv­ṭ.255.
 
 ## Vietnamese translation
 
-Chưa dịch.
+*v.l.* Kuveṇī. Một thiếu nữ Yakkha, người mà Vijaya đã kết hôn khi ngài đến Ceylon. Nhờ sự trợ giúp của cô ngài đã giết được những người Yakkha tại bữa tiệc của họ ở Sirīsivatthu. Về sau Vijaya đã ruồng bỏ cô để sủng ái một thiếu nữ hoàng gia từ Madhurā, và cô đã rời đi, cùng với hai người con của cô là Jīvahattha và Dipellā, đến Laṅkāpura, nơi cô bị sát hại vì bị xem là gián điệp. Những đứa trẻ của cô đã bỏ trốn đến Malaya và hậu duệ của họ trở thành người Pulindas (Mhv.vii.9-68).
+
+Kuvaṇṇā có một người hầu làm bầu bạn tên là Sīsapātī (Sīsapātikā).
+
+Mhv­ṭ.255.
 
 ## Notes

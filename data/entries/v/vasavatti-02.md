@@ -5,7 +5,7 @@ base_headword: "Vasavattī"
 disambiguator: "02"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vasavattī 02. One of the palaces of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một trong những cung điện của Padumuttara Buddha trước sự Xuất gia của Ngài. Bv.xi.20.
 
 ## Notes

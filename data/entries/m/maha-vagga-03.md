@@ -5,7 +5,7 @@ base_headword: "Mahā Vagga"
 disambiguator: "03"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Vagga 03. The third section of the <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Vagga 03. Phần thứ ba của Suttanipāta, chứa mười hai *Sutta*.
 
 ## Notes

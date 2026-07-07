@@ -5,7 +5,7 @@ base_headword: "Kolitasutta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -25,6 +25,6 @@ Kolitasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kolitasutta. Mahā Moggallāna kể cho các tỳ-kheo ở Jetavana nghe về việc, khi ngài nhập vào *jhāna* thứ hai, trong nỗ lực của ngài để đạt đến “Sự tĩnh lặng của bậc Thánh” (“Ariyan Silence”), Đức Phật đã hiện ra trước ngài và khích lệ ngài kiên trì với điều đó (SN.ii.273).
 
 ## Notes

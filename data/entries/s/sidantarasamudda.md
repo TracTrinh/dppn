@@ -5,7 +5,7 @@ base_headword: "Sīdantarasamudda"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sīdantarasamudda. The sea between every two ranges round <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīdantarasamudda. Biển nằm giữa mỗi hai dãy núi bao quanh Sineru; các Nāga sống trong biển này. Ja.vi.125.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vibhaṅgavagga"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vibhaṅgavagga. The fourteenth *vagga* of the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vibhaṅgavagga. *Vagga* thứ mười bốn của Majjhimanikāya (các *Sutta* 131-42). MN.iii.187-257.
 
 ## Notes

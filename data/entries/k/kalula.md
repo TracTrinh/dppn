@@ -5,7 +5,7 @@ base_headword: "Kālūla"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -25,6 +25,6 @@ Kālūla. A monastery in Ceylon. <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kālūla. Một tu viện ở Tích Lan. Aggabodhi VIII, đã tặng một ngôi làng cho việc duy trì tu viện. Cv.xlix.47.
 
 ## Notes

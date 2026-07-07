@@ -5,7 +5,7 @@ base_headword: "Pāṭika"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Pāṭika 02. Chief of the *Vinayadharas* in the time of <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāṭika 02. Người đứng đầu trong số các *Vinayadhara* vào thời của Đức Phật Padumuttama. Thag.i.362, 365; nhưng xem Ap.i.38.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kiṭāgirisutta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kiṭāgirisutta. Preached at <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kiṭāgirisutta. Được thuyết tại Kiṭāgiri cho nhóm Assaji-Punabbasukā, những người bị báo cáo với Đức Phật là đã chế giễu ý tưởng rằng bản thân họ chỉ nên dùng một bữa ăn mỗi ngày bởi vì Đức Phật và những đệ tử trung thành của ngài đã làm như vậy. Đức Phật đã cho gọi họ đến và khắc sâu vào tâm trí họ rằng tất cả những lời dạy của ngài đều dựa trên kinh nghiệm và kiến thức và do đó họ nên tuân theo. Việc mặc cả như của họ không phù hợp với người tìm kiếm chân lý (MN.i.473ff).
 
 ## Notes

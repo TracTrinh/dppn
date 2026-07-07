@@ -5,7 +5,7 @@ base_headword: "Sīlasutta"
 disambiguator: "05"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -24,6 +24,6 @@ Sīlasutta 05. A monk who has achieved virtue, concentration, insight, emancipat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīlasutta 05. Một tỳ-kheo đã đạt được giới, định, tuệ, giải thoát và tri kiến giải thoát – một vị như vậy xứng đáng nhận cúng dường và lễ kính. AN.iii.134.
 
 ## Notes

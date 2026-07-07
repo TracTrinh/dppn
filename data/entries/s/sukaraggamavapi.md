@@ -5,7 +5,7 @@ base_headword: "Sūkaraggāmavāpi"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Sūkaraggāmavāpi. A tank restored by <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sūkaraggāmavāpi. Một bể chứa nước được trùng tu bởi Parakkamabāhu I. Cv.lxviii.46.
 
 ## Notes

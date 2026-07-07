@@ -5,7 +5,7 @@ base_headword: "Kallitasutta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -23,6 +23,6 @@ Kallitasutta. A man may be skilled in ease in concentration, but not in the rang
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kallitasutta. Một người có thể thành thạo về sự dễ dàng trong định tâm, nhưng không thành thạo trong phạm vi của nó, cũng như không trong sự quyết tâm, sự nhiệt tâm, sự kiên trì, hoặc lợi ích. SN.iii.275.
 
 ## Notes

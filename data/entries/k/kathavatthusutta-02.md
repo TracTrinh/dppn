@@ -5,7 +5,7 @@ base_headword: "Kathāvatthusutta"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -24,6 +24,6 @@ Kathāvatthusutta 02. Monks should not indulge in idle talk, as of kings, robber
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kathāvatthusutta 02. Các tỳ-kheo không nên nói những chuyện phù phiếm, như về các vị vua, những tên cướp, các quan đại thần, v.v. Có mười chủ đề đàm luận phù hợp đối với các tỳ-kheo, chẳng hạn như sự biết đủ, giới hạnh, tinh tấn, trí tuệ, v.v. AN.v.128f.
 
 ## Notes

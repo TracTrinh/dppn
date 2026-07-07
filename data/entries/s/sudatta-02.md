@@ -5,7 +5,7 @@ base_headword: "Sudatta"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sudatta 02. A *Khattiya* of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudatta 02. Một Sát-đế-lỵ (*Khattiya*) của Mekhala, cha của Sumana Buddha. Bv.v.32; Ja.i.34.
 
 ## Notes

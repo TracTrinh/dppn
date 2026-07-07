@@ -5,7 +5,7 @@ base_headword: "Yasavatī"
 disambiguator: "08"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -26,6 +26,6 @@ Yasavatī 08. A Therī. The <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yasavatī 08. Một nữ Thera. Apadāna có chứa một nhóm các bài kệ được cho là của một nhóm tỳ-kheo ni, người đứng đầu trong số đó là Yasavatī. Ap.ii.597.
 
 ## Notes

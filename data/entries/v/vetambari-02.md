@@ -5,7 +5,7 @@ base_headword: "Vetambarī"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vetambarī 02. The name of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vetambarī 02. Tên cha của Buddhūpaṭṭhāyaka trong kiếp sống của ngài ba mươi mốt *kappa* trước. Ap.i.242.
 
 ## Notes

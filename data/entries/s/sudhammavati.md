@@ -5,7 +5,7 @@ base_headword: "Sudhammavatī"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sudhammavatī. A city in whose park where <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudhammavatī. Một thành phố mà tại công viên của nó, Sujāta Buddha đã tổ chức buổi hội chúng đầu tiên gồm các tỳ-kheo của ngài. Bv­a.169.
 
 ## Notes

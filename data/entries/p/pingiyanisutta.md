@@ -5,7 +5,7 @@ base_headword: "Piṅgiyānīsutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -27,6 +27,6 @@ Piṅgiyānīsutta. The story of the Brahmin <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piṅgiyānīsutta. Câu chuyện về vị Bà-la-môn Piṅgiyānī (*q.v.*) cất lời ngợi ca Đức Phật trước những người Licchavī. Khi Piṅgiyānī kết thúc bài hát ca ngợi của mình, Đức Phật nói với những người Licchavī về năm loại báu vật hiếm có: Như Lai (Tathāgata), người có thể giảng dạy Dhammavinaya, người nhận ra Dhamma, người đi theo Dhamma, và người có lòng biết ơn. AN.iii.239 ff.
 
 ## Notes

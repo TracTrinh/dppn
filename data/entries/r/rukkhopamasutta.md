@@ -5,7 +5,7 @@ base_headword: "Rukkhopamasutta"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Rukkhopamasutta. This *Sutta* is included in a list of *Suttas* dealing with *ar
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rukkhopamasutta. *Sutta* này được bao gồm trong một danh sách các *Sutta* liên quan đến đề mục *arūpakammaṭṭhāna* (ví dụ, Vibh-a.267). Cho đến nay chưa có tựa đề nào như vậy được tìm thấy. Tên này có lẽ đề cập đến một trong những bài kinh Rukkhasutta nêu trên.
 
 ## Notes

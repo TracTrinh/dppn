@@ -5,7 +5,7 @@ base_headword: "Valāhasaṁyutta"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Valāhasaṁyutta. The thirty-second section of the <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Valāhasaṁyutta. Phần thứ ba mươi hai của Saṁyuttanikāya. SN.iii.254-57; cf. AN.ii.102ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Taraṇiya Thera"
 disambiguator: "04"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Taraṇiya Thera 04. An Arahant. In a previous birth he was a tortoise in the ri
 
 ## Vietnamese translation
 
-Chưa dịch.
+Taraṇiya Thera 04. Một Arahant. Trong một kiếp quá khứ ngài là một con rùa ở sông Vinatā, và, nhìn thấy Atthadassī Buddha muốn sang sông, ngài đã chở ngài trên lưng mình. Ap.ii.428f.
 
 ## Notes

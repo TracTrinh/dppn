@@ -5,7 +5,7 @@ base_headword: "Kassapagiri"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -41,6 +41,10 @@ The name <span class="dppn-term dppn-term-t14" data-dppn-term-pos="14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapagiri. Một tu viện ở Tích Lan. Jeṭṭhatissa III đã ban tặng ngôi làng Ambilāpika để cung cấp vật thực cho các tỳ-kheo của Kassapagiri (Cv.xliv.98), và Kassapa III đã dành cho tu viện này sự ân sủng đặc biệt của ngài (Cv.xlviii.24).
+
+Tu viện này có thể là một phần của nơi – mà trong một bản khắc của Mahinda IV được tìm thấy tại Vessagiri – được gọi là “*Isuramenu Bo-Upulvan-Kasubgiri-Vihāra*.” Dường như Kassapa I đã thành lập một cơ sở tu viện lớn từ các Vessagiri và Issarasamaṇa Vihāra và tu viện được mở rộng này được đặt tên theo hai người con gái của ngài là Bodhī và Uppalavaṇṇā đồng thời cũng được đặt tên theo chính ngài là Kassapa. Cơ sở này hiển nhiên được gọi một cách ngắn gọn là Kassapagiri. (Ep.Zey.i.31ff; i.216; và Cv.Trs.i.43, n.7).
+
+Cái tên Kacchapagiri (*xem mục này*) được tìm thấy trong Mahā Vaṁsaṭīkā (p.652; xem thêm 407, trong đó ghi là Kassapagiri) dường như là một cách đọc sai của Kassapagiri, trong trường hợp đó việc xác định này rất quan trọng, vì ở đây chúng ta có cụm từ “*Issarasamaṇasaṅkhāte Kacchapagirivihāre*.” Xem thêm Kassapavihāra.
 
 ## Notes

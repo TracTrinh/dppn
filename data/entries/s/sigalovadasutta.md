@@ -5,7 +5,7 @@ base_headword: "Sigālovādasutta"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -35,6 +35,10 @@ The *Sutta* is an exposition of the whole domestic and social duty of a layman, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sigālovādasutta, Siṅgālovādasutta. Sigāla (Siṅgāla), một thanh niên gia chủ ở Rājagaha, có thói quen dậy sớm, tắm rửa, và, với mái tóc và y phục còn ướt, lễ bái các phương của đất trời. Đức Phật một lần trông thấy anh và hỏi lý do của việc này. Câu trả lời của Sigāla là cha anh, đã qua đời, từng dặn anh làm như vậy. Đức Phật khi đó dạy anh rằng, trong giáo pháp của Ngài, cũng có việc lễ bái sáu phương, nhưng những phương đó khác nhau. Được Sigāla thúc giục giải thích, Đức Phật dạy anh sáu điều xấu trong hành vi, bốn động cơ dẫn đến hành động xấu ác như vậy, sáu con đường làm tiêu tán tài sản, và các loại bạn bè khác nhau. Sau đó Ngài dạy anh về sáu phương cần được tôn kính bằng cách thực hiện các bổn phận đối với chúng — cha mẹ là phương đông, thầy dạy là phương nam, vợ con là phương tây, bạn bè và đồng sự là phương bắc, người giúp việc và thợ thuyền là phương dưới, các bậc thầy tôn giáo và Bà-la-môn là phương trên. Sau đó chi tiết được đưa ra về các bổn phận đối với những người này và các bổn phận đáp lại của họ.
+
+*Sutta* này là một sự trình bày về toàn bộ bổn phận gia đình và xã hội của một người cư sĩ, theo quan điểm Phật giáo, và, như vậy, nó nổi tiếng dưới tên gọi *Gihivinaya* (DN.iii.180-93).
+
+Sigālaka trở thành đệ tử của Đức Phật. Theo Apadāna (Ap.ii.604), chính mẹ của Sigālaka này được biết đến với tên Sigālakamātā (*q.v.*).
 
 ## Notes

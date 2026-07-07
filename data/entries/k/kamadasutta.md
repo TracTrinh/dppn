@@ -5,7 +5,7 @@ base_headword: "Kāmadasutta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -26,6 +26,6 @@ Kāmadasutta. Contains the account of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāmadasutta. Chứa đựng câu chuyện về chuyến viếng thăm Đức Phật của Kāmada (SN.i.48). Kinh này được trích dẫn trong Nettippakaraṇa (p.148).
 
 ## Notes

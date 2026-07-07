@@ -5,7 +5,7 @@ base_headword: "Khambhakatavagga"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -25,6 +25,6 @@ Khambhakatavagga. The Third Section of the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khambhakatavagga. Phần thứ ba của Sekhiyā thuộc Vinayapiṭaka. Vin.iv.188-91.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Suvaṇṇadīpa"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -28,6 +28,6 @@ Mahā Suvaṇṇadīpa. Son of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Suvaṇṇadīpa. Con trai của *bahalarājā* Parakkama và là *ācariya* của Nữ hoàng Sīvalī của Haṁsavatī, ở Pegu. Ông là tác giả của Apheggusāradīpanī. Bode, 36, n.2.
 
 ## Notes

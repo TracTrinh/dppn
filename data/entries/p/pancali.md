@@ -5,7 +5,7 @@ base_headword: "Pañcālī"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -31,6 +31,8 @@ The scholiast says (Ibid., 486) that she was called Pañcālī because she was t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcālī. Vợ của Esukārī, vua nước Benares. Khi Esukārī khao khát của cải, bà đã chỉ cho ông thấy sự ngu xuẩn của lòng tham lam và thuyết phục ông trở thành một đạo sĩ, sau này chính bà cũng bước vào đời sống xuất gia. Câu chuyện được kể lại trong Hatthipālajātaka (Ja 509, *q.v.*). Pañcālī được đồng nhất với Mahā Māyā (Ja.iv.491).
+
+Nhà chú giải nói (Sđd., 486) rằng bà được gọi là Pañcālī vì bà là con gái của vua nước Pañcāla.
 
 ## Notes

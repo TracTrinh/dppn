@@ -5,7 +5,7 @@ base_headword: "Vedeha"
 disambiguator: "04"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,6 @@ Vedeha 04. The personal name of the king of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vedeha 04. Tên cá nhân của vị vua của Mithilā, có vị quan đại thần là Mahosadha. Để xem câu chuyện của ông, hãy xem Mahā Ummaggajātaka (Ja 546). Ông được đồng nhất với Lāḷudāyī. Ja.vi.478.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Pāṭaligāmiyavagga"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Pāṭaligāmiyavagga. The eighth section of the <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāṭaligāmiyavagga. Phẩm thứ tám của Udāna pp.80ff.
 
 ## Notes

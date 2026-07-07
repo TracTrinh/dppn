@@ -5,7 +5,7 @@ base_headword: "Soṇakāyana"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Soṇakāyana. A youth who, according to <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Soṇakāyana. Một thanh niên mà theo lời Sikhā Moggallāna, đã đi khắp nơi rêu rao rằng Đức Phật tuyên bố sự vô hiệu của tất cả mọi hành động, và do đó thuyết giảng về sự hủy diệt của thế giới. Đức Phật nói rằng Ngài không biết Soṇakāyana, thậm chí chưa từng nhìn thấy mặt. AN.ii.232.
 
 ## Notes

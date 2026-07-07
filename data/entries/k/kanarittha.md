@@ -5,7 +5,7 @@ base_headword: "Kāṇāriṭṭha"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -36,6 +36,8 @@ Kāṇāriṭṭha. One of the four sons of the <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāṇāriṭṭha. Một trong bốn người con trai của vua Nāga là Dhataraṭṭha và hoàng hậu của ông là Samuddajā, những người khác là Sudassana, Bhūridatta và Subhaga. Khi Kāṇāriṭṭha nghe nói rằng mẹ mình là một con người, mong muốn kiểm tra bà vào một ngày nọ khi đang bú sữa của bà, cậu đã mang hình dạng một con rắn và dùng đuôi quất vào chân bà. Samuddajā đã ném cậu xuống đất với một tiếng hét và vô tình đâm móng tay của mình vào mắt cậu, làm cho cậu bị mù. Từ đó trở đi cậu, người có tên là Ariṭṭha, được biết đến với tên gọi Kāṇāriṭṭha (Ja.vi.168). Khi, sau sự biến mất của Bhūridatta (xem Bhūridattajātaka) khỏi thế giới Nāga, các anh em của cậu lên đường đi tìm cậu, Kāṇāriṭṭha đã được gửi đến thế giới của chư thiên, vì cậu có bản tính tàn ác đến mức họ biết rằng nếu cậu đi đến thế giới loài người thì cậu sẽ dùng lửa tiêu diệt nó (Ja.vi.190). Khi, sau cuộc tìm kiếm của mình, cậu trở về thế giới Nāga, cậu đã được chỉ định làm người gác cửa cho phòng bệnh của Bhūridatta; ở đó, khi nhìn thấy Subhaga đang kéo lê một cách thô bạo một vị Bà-la-môn vào thế giới Nāga, cậu đã ngăn không cho Subhaga ngược đãi người đàn ông và kể cho anh nghe về sự vĩ đại của tất cả các Bà-la-môn, minh họa cho lời nói của mình bằng nhiều câu chuyện khác nhau (Ja.vi.197; chi tiết xem pp.200ff). Người ta nói rằng trong tiền kiếp ngay trước đó của mình, cậu từng là một vị Bà-la-môn, thông thạo về những kiến thức hiến tế. Bhūridatta đã nghe (từ trên giường của mình) lời ca ngợi thái quá của Ariṭṭha dành cho các Bà-la-môn và đã bác bỏ các tuyên bố của cậu (Ja.vi.205ff).
+
+Kāṇāriṭṭha được đồng nhất với Sunakkhatta (Ja.vi.219).
 
 ## Notes

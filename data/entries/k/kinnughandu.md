@@ -5,7 +5,7 @@ base_headword: "Kinnughaṇḍu"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,6 @@ Kinnughaṇḍu. One of the great <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kinnughaṇḍu. Một trong những Yakkha vĩ đại, được đề cập trong Āṭānāṭiyasutta, sẽ được triệu thỉnh khi các đệ tử của Đức Phật bị các ác linh quấy rối (DN.iii.204). Ông là một trong những chư hầu của Tứ Đại Thiên Vương (DN.ii.258).
 
 ## Notes

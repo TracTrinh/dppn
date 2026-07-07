@@ -5,7 +5,7 @@ base_headword: "Roja"
 disambiguator: "01"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -29,6 +29,8 @@ Once Roja forced on <span class="dppn-term dppn-term-t14" data-dppn-term-pos="15
 
 ## Vietnamese translation
 
-Chưa dịch.
+Roja 01. Một người Malla, cư dân của Kusinārā. Khi Đức Phật và Ānanda đến thăm Kusinārā, các tù trưởng Malla ra lệnh rằng ai không đến đảnh lễ Đức Phật sẽ bị phạt năm trăm đồng tiền. Roja là bạn của Ānanda, và Ānanda vui mừng khi thấy ông đến đảnh lễ Đức Phật, nhưng khi Roja nói rằng ông làm vậy chỉ vì tuân theo lệnh của những người đồng tộc, Ānanda vô cùng thất vọng và xin Đức Phật tìm cách nào đó để khiến Roja trở thành một tín đồ của Ngài. Đức Phật đồng ý làm việc này, và nhờ oai lực từ bi của Ngài, Roja được cảm hóa để đến gặp Ngài lần nữa. Đức Phật thuyết pháp cho Roja, và ông xin, như một ân huệ, rằng chỉ mình ông được cung cấp vật thực cho chư tăng. Yêu cầu này bị Đức Phật từ chối, Ngài nói rằng Roja phải chờ đến lượt mình cùng với những người khác trong việc hộ trì Ngài và chư tăng. Thấy rằng mình còn phải chờ lâu mới đến lượt, Roja dò hỏi, và phát hiện ra rằng chư tăng không có nguồn cung cấp rau xanh (*dāka*) hay bánh ngọt (*pittakhādaniya*), ông bèn hỏi ý Ānanda, và, được Đức Phật cho phép, dâng cúng những thứ này lên Đức Phật và chư tăng (Vin.i.247ff). Có nói rằng (Ja.ii.231f) Roja có lần mời Ānanda đến nhà mình, và, sau khi tiếp đãi ngài hết sức thịnh soạn, đã cố thuyết phục ngài rời khỏi Tăng đoàn bằng cách đề nghị chia cho ngài một nửa gia sản của mình. Nhưng Ānanda từ chối lời đề nghị này, giải thích cho ông về những khổ não trong đời sống gia đình. Sau đó, Ānanda kể lại cuộc trò chuyện này cho Đức Phật, và Ngài đã kể Vacchanakhajātaka (Ja 235, *q.v.*) để cho thấy rằng Roja và Ānanda đã từng là bạn bè trong một kiếp quá khứ.
+
+Một lần, Roja nài ép Ānanda nhận một tấm vải lanh (*khomapilotikā*); Ānanda đang cần đến nó, nên đã nhận với sự cho phép của Đức Phật (Vin.i.296).
 
 ## Notes

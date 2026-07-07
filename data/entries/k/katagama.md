@@ -5,7 +5,7 @@ base_headword: "Kaṭagāma"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kaṭagāma. A village in which the <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṭagāma. Một ngôi làng, nơi vị Ādipāda Vikkamabāhu đã đánh bại Jayabāhu cùng các anh em của ông ta. Cv.lxi.16.
 
 ## Notes

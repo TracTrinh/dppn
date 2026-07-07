@@ -5,7 +5,7 @@ base_headword: "Mahindataṭavāpi"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -27,6 +27,6 @@ Mahindataṭavāpi. A tank built by <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahindataṭavāpi. Một hồ chứa nước được cất bởi Aggabodhi I. Bức tượng của Trưởng lão Mahinda (*xem mục từ này*) đã được mang đến đó bởi những người Taraccha và dựng trên đê đập của nó vào thời điểm diễn ra lễ hội Mahinda. Cv.xlii.29.
 
 ## Notes

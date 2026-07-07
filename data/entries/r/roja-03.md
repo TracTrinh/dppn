@@ -5,7 +5,7 @@ base_headword: "Roja"
 disambiguator: "03"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -28,6 +28,6 @@ Roja 03. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Roja 03. *v.l.* Roma, Jāna. Một thành phố ở Ấn Độ, là kinh đô của Naradeva và sáu người hậu duệ của ông (Mhv­ṭ.128; Dpv.iii.27 gọi đó là Rojanā. KMhv. gọi đó là Thūna.
 
 ## Notes

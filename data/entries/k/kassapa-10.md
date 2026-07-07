@@ -5,7 +5,7 @@ base_headword: "Kassapa"
 disambiguator: "10"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -28,6 +28,6 @@ Kassapa 10. An ascetic, also called <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapa 10. Một tu sĩ khổ hạnh, cũng được gọi là Nārada, người đã sống trong một am thất gần Núi Kosika ở Himavā. Ông đã nhìn thấy Buddha Padumuttara trong rừng, thỉnh mời ngài vào am thất, cung cấp một chỗ ngồi và cầu xin những lời khuyên. Ông là một tiền kiếp của Ekāsanadāyaka Thera. Ap.ii.381.
 
 ## Notes

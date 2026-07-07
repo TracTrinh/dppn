@@ -5,7 +5,7 @@ base_headword: "Roliyajanapada"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Roliyajanapada. A district in Ceylon, forty-four leagues from <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Roliyajanapada. Một vùng ở Tích Lan, cách Mahā Gāma bốn mươi bốn do-tuần. Trong vùng này có Mātulavihāra. Ras.ii.51, 52
 
 ## Notes

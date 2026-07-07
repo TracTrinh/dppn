@@ -5,7 +5,7 @@ base_headword: "Somayāga"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Somayāga. One of the seven great sages (*isī*) of great power. Ja.vi.99.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Somayāga. Một trong bảy bậc ẩn sĩ thần thông (*isī*) lớn. Ja.vi.99.
 
 ## Notes

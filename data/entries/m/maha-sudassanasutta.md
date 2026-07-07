@@ -5,7 +5,7 @@ base_headword: "Mahā Sudassanasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -54,6 +54,14 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="33" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sudassanasutta. Được thuyết giảng giữa hai cây *Sāla* đôi ở Upavattana, khu rừng của những người Malla. Ānanda thỉnh cầu Đức Phật không nên viên tịch tại thị trấn "phên trát bùn nhỏ bé" Kusināra, mà nên ở một thành phố quan trọng nào đó, như Campā, Rājagaha hay Sāvatthī. Đức Phật bảo ông rằng Kusinārā từng là Mahā Sammata, kinh thành của Vua Mahā Sudassana, và được bao quanh bởi bảy bức tường thành, một thành phố chứa đựng tất cả các đặc điểm của một thủ đô lớn.
+
+Mahā Sudassana sở hữu bảy báu vật của một vị Cakkavatti: *cakkaratana*, *hatthiratana* (có tên là Uposatha), *assaratana* (có tên là Valāhaka), *maṇiratana*, *itthiratana* (viên ngọc quý trong số những người phụ nữ), *gahapatiratana*, và *parināyakaratana*. Ngài cũng sở hữu bốn sức mạnh *iddhi*: ngài có ngoại hình khôi ngô, sống lâu, không bệnh tật, và được mọi tầng lớp nhân dân yêu mến. Ngài đã cho tạo ra những hồ sen trên khắp vương quốc của mình, vật thực và y phục được đặt trên bờ hồ dành cho bất kỳ ai có nhu cầu. Với số tiền mà dân chúng mang đến cho nhà vua, Vissakamma, dưới mệnh lệnh của Sakka, đã xây dựng Cung điện Dhammapāsāda, tràn ngập mọi sự tráng lệ và xa hoa. Nhà vua sở hữu một tòa nhà có mái đầu hồi tên là Mahā Vyūha, nơi ngài dành phần thời gian nóng bức trong ngày ở đó. Phía trước Dhammapāsāda là Dhammapokkharaṇī.
+
+Nhận ra rằng sức mạnh và vinh quang của mình là kết quả của những thiện sự trong quá khứ, Mahā Sudassana đã thực hành hạnh bố thí, tự chiến thắng bản thân và tự kiềm chế, và đã phát triển bốn *jhāna*, tỏa khắp mọi phương hướng với những tư tưởng từ bi, hỷ và xả.
+
+Mahā Sudassana có tám mươi tư ngàn thành phố, đứng đầu là Mahā Sammata; tám mươi tư ngàn cung điện, đứng đầu là Dhammapāsāda; tám mươi tư ngàn ngôi nhà có mái đầu hồi, đứng đầu là Mahā Vyūha; tám mươi tư ngàn voi nhà nước, dẫn đầu bởi Uposatha; và tám mươi tư ngàn con ngựa, dẫn đầu bởi Valāhaka. Ngài có tám mươi tư ngàn cỗ xe dẫn đầu bởi Vejayanta, và tám mươi tư ngàn người vợ, trong đó Subhaddā là người đứng đầu. Một ngày nọ, nhà vua nhận ra rằng cái chết của mình đang đến gần, và, khi Subhaddā đến thăm ngài để cố gắng thuyết phục ngài hưởng thụ những thú vui của mình, ngài đã ngăn bà lại, bảo bà hãy nói với ngài về sự vô thường của vạn vật và sự cần thiết của việc từ bỏ mọi dục vọng. Trong khi bà nói với ngài về những điều này, ngài đã băng hà và được tái sinh vào cõi *Brahma*. Trong tám mươi tư ngàn năm, ngài lần lượt là một hoàng tử, một phó vương và một vị vua, và sau đó, trong bốn mươi tám ngàn năm, là một nam cư sĩ sùng đạo trong Dhammapāsāda. Mahā Sudassana được đồng nhất với Bodhisatta (DN.ii.169-99; câu chuyện cũng được nhắc đến tại SN.iii.144).
+
+Vào thời của Đức Phật Kassapa, Sudassana đã từng là một người thợ rừng. Ông gặp một tỳ-kheo trong rừng và xây một túp lều cho vị ấy. Ông cũng thỉnh cầu vị tỳ-kheo nhận vật thực mỗi ngày tại nhà ông hoặc, ít nhất, là dùng bữa tại đó. Vị tỳ-kheo đồng ý, và Sudassana đã làm cho túp lều của ngài trở nên thoải mái về mọi mặt, xây dựng những con đường đi dạo, những nơi tắm rửa, những khu vườn, v.v., ở bên ngoài. Ông cũng đã cúng dường cho ngài vô số tặng phẩm, với nhiều chủng loại và kiểu dáng khác nhau. DN­a.ii.631f.
 
 ## Notes

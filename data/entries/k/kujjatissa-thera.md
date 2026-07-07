@@ -5,7 +5,7 @@ base_headword: "Kujjatissa Thera"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -33,6 +33,8 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kujjatissa Thera. Một vị Arahant. Ngài sống ở Maṅgana tại Tích Lan, và được Tăng đoàn giới thiệu cho Vua Saddhātissa là người xứng đáng với sự cúng dường đặc biệt của nhà vua. Nhà vua đã đi năm do-tuần để diện kiến ngài, nhưng vị Thera (Trưởng lão), vì sợ nhà vua sẽ mời mình về cung điện, đã nằm xuống một chiếc giường vào lúc nhà vua đến và bắt đầu cào những nét chữ lên sàn nhà. Nhà vua cho rằng vị Thera không phải là một vị Arahant và bỏ đi. Khi ngài bị quở trách vì đã làm phật lòng một vị vua ngoan đạo như vậy, vị Thera hứa sẽ chuộc lỗi. Ngài yêu cầu rằng, sau khi ngài viên tịch, thi hài của ngài nên được đặt trong một chiếc kiệu có mái che, bên trong có chứa một chiếc giường thứ hai. Điều này đã được thực hiện và chiếc kiệu bay trên không trung đến Anurādhapura, thực hiện nhiều phép lạ, được dân chúng tán dương. Tại Anurādhapura, nó đã bay vòng quanh Thūpārāma và Silācetiya và, khi nó bay đến Lohapāsāda, vị Thera Mahā Vyaggha bước vào kiệu, nằm xuống chiếc giường dự phòng và nhập *Nibbāna*. Nhà vua đã dâng cúng hoa và hương phẩm lên chiếc kiệu và nó hạ phàm xuống đất, vì đó là nguyện vọng của Kujjatissa. Hai thi hài đã được hỏa thiêu và các *Thūpa* (tháp) đã được dựng lên trên những viên xá-lợi. AN­a.i.384f.
+
+Ngài có lẽ chính là Khuddakatissa (*xem mục này*).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kitti"
 disambiguator: "08"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -28,6 +28,6 @@ Kitti 08. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kitti 08. Kitti Laṅkāpura. Một vị tướng của Parakkamabāhu I và là con trai của Kitti Laṅkādhinātha (Cv.lxx.218). Trong chiến dịch của nhà vua chống lại những kẻ thù của mình, Kitti được phân công gác tại Balapāsaṇa (Cv.lxxiv.178).
 
 ## Notes

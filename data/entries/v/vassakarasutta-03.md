@@ -5,7 +5,7 @@ base_headword: "Vassakārasutta"
 disambiguator: "03"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -29,6 +29,6 @@ Vassakārasutta 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vassakāra đến thăm Đức Phật tại Gijjhakūṭa, theo yêu cầu của Ajātasattu, và nói cho Ngài biết về mong muốn của nhà vua muốn tiêu diệt những người Vajjī. Đức Phật nói với ông rằng chừng nào những người Vajjī còn thực hành bảy điều kiện của sự hưng thịnh, được Ngài giảng dạy tại Sārandadacetiya thì họ sẽ không suy tàn, mà trái lại sẽ hưng thịnh. Ajātasattu có thể đạt được chiến thắng, không phải bằng trận chiến, mà bằng cách gây chia rẽ. AN.iv.17ff.; so sánh DN.ii.72f.
 
 ## Notes

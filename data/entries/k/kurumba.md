@@ -5,7 +5,7 @@ base_headword: "Kurumba"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kurumba. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một thủ lĩnh người Damiḷa, bị Laṅkāpura khuất phục. Cv.lxxvii.14f.
 
 ## Notes

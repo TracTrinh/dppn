@@ -5,7 +5,7 @@ base_headword: "Kālikarakkhiya"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -30,6 +30,6 @@ Kālikarakkhiya. An ancient sage mentioned in a list of sages, together with <sp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kālikarakkhiya. Một vị ẩn sĩ cổ đại được nhắc đến trong một danh sách các ẩn sĩ, cùng với Samudda, Bharata, Aṅgīrasa, Kassapa, Kisavaccha và Akitti. Ja.vi.99.
 
 ## Notes

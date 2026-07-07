@@ -5,7 +5,7 @@ base_headword: "Kapisīsa"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -28,6 +28,6 @@ Kapisīsa 02. A minister of King <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kapisīsa 02. Một vị quan của Vua Vaṭṭagāmaṇī. Một ngày nọ khi nhà vua, cùng với hoàng hậu của mình, đi lên những bậc thang của Ākāsacetiya tại Acchagallavihāra, ông nhìn thấy vị quan, người vừa đi xuống sau khi quét dọn *cetiya*, đang ngồi bên vệ đường. Bởi vì Kapisīsa không chịu phủ phục trước nhà vua, nên người sau đã giết chết anh ta (Mhv.xxxiii.68f).
 
 ## Notes

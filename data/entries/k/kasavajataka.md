@@ -5,7 +5,7 @@ base_headword: "Kāsāvajātaka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -32,6 +32,8 @@ A trader, coming to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāsāvajātaka (Ja 221). Một người đàn ông nghèo ở Benares, sau khi ký hợp đồng với những thợ chế tác ngà voi để cung cấp ngà voi, đã đi vào rừng, mặc chiếc y màu vàng của một Pacceka Buddha, và đứng trên đường đi của bầy voi, đã giết chết con voi đi cuối cùng của đàn mỗi ngày. Bodhisatta, là con voi dẫn đầu của đàn, khi phát hiện ra chuyện gì đang xảy ra, đã đe dọa sẽ giết chết người đàn ông; nhưng sau khi nhận được lời hứa của anh ta sẽ không bao giờ đến khu rừng nữa, ngài đã để anh ta tự do vì nể chiếc y của anh ta.
+
+Một thương gia, đến Rājagaha để kinh doanh, đã đóng góp một chiếc y màu vàng lộng lẫy cho một buổi lễ cúng dường được tổ chức bởi những người dân thị trấn. Có một vài tranh cãi về việc Sāriputta hay Devadatta sẽ nhận chiếc y; nhưng đa số ủng hộ Devadatta, nên ông ta đã cắt chiếc y thành từng dải và mặc nó một cách đầy kiểu cách. Khi sự việc được báo cáo lên Đức Phật, ngài đã kể lại câu chuyện Jātaka trên, trong đó Devadatta được đồng nhất với người thợ săn. Ja.ii.196ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Māna"
 disambiguator: "04"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -29,6 +29,6 @@ Māna 04. Called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māna 04. Được gọi là Mūlapotthakī. Ông là một võ quan của Parakkamabāhu I. và trong một chiến dịch đã đánh bại Lokagalla Vikkama tại Mahā Gāma. Cv.lxxv.139f.
 
 ## Notes

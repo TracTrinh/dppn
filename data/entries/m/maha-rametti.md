@@ -5,7 +5,7 @@ base_headword: "Mahā Rāmetti"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Rāmetti. A tank constructed by <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Rāmetti. Một hồ chứa nước được xây dựng bởi Vasabha. Mhv.xxxv.94.
 
 ## Notes

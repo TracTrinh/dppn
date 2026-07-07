@@ -5,7 +5,7 @@ base_headword: "Vassakārasutta"
 disambiguator: "01"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -42,6 +42,18 @@ The Buddha acknowledges, in answer to <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vassakāra đến thăm Đức Phật tại Veḷuvana và nói với Ngài rằng, trong số các Bà-la-môn, một người được coi là vĩ đại và khôn ngoan nếu:
+
+- người ấy hiểu một điều gì đó ngay khi nó được thốt ra,
+- có một trí nhớ tốt,
+- khéo léo và siêng năng trong công việc,
+- và tháo vát và có năng lực trong việc điều tra.
+- Đức Phật đề cập đến bốn phẩm chất vĩ đại khác:
+- hết lòng vì hạnh phúc của số đông,
+- làm chủ được tâm trí trong lãnh vực của suy nghĩ (*cetovasippatta*),
+- có khả năng nhập vào bốn *jhāna* theo ý muốn,
+- đã thấu hiểu Nibbāna bằng việc đoạn tận các *āsava*.
+
+Đức Phật xác nhận, để trả lời cho câu hỏi của Vassakāra, rằng chính Ngài sở hữu bốn phẩm chất này. AN.ii.35f.
 
 ## Notes

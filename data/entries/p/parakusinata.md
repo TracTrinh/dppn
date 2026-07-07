@@ -5,7 +5,7 @@ base_headword: "Parakusināṭā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Parakusināṭā. One of the cities of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parakusināṭā. Một trong những thành phố của Uttarakuru, được mô tả là được xây dựng trên một nền móng lơ lửng giữa không trung. DN.iii.200.
 
 ## Notes

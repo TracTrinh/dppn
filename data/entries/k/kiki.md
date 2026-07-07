@@ -5,7 +5,7 @@ base_headword: "Kikī"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -61,6 +61,12 @@ In the Sanskrit books he is called Kṛkī, and is mentioned as owning a palace 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kikī. Vua xứ Benares vào thời của Kassapa Buddha. Khi Đức Phật đến Benares, nhà vua, sau khi nghe ngài thuyết pháp, đã thỉnh mời Đức Phật cùng chúng tăng dùng bữa tại cung điện. Khi Đức Phật được yêu cầu an cư mùa mưa ở đó, ngài đã từ chối, vì ngài đã nhận lời mời của Ghaṭīkāra xứ Vehaliṅga. Kikī ban đầu cảm thấy bị tổn thương vì sự từ chối, nhưng khi Đức Phật mô tả những đức hạnh của Ghaṭīkāra, nhà vua cảm thấy hoan hỷ và gửi năm trăm xe bò chở lương thực đến cho Ghaṭīkāra, người mà, tuy nhiên, đã cộc lốc từ chối món quà (DN.ii.7; MN.ii.49ff).
+
+Một trong những người con gái của Kikī là Uracchadā, người đã đắc quả vị Arahant vào năm mười sáu tuổi. Ông có bảy người con gái khác – Samaṇī, Samaṇā, Guttā, Bhikkhudāsikā, Dhammā, Sudhammā và Saṅghadāsī – những người, trong thời kỳ của vị Phật này, lần lượt trở thành Khemā, Uppalavaṇṇā, Paṭācārā, Gotamā, Dhammadinnā, Mahā Māyā và Visākhā. Ja.iv.481; trong Ap.ii.561f, những cái tên là Samaṇī, Samaṇaguttā, Bhikkhunī, Bhikkhadāyikā, Dhammā, v.v., và họ được đề cập là đã sống cuộc đời độc thân; xem thêm Sattamba; cả Apadāna và Thīg­a.17, 103f, đều bỏ qua tên của Mahā Māyā khỏi danh sách này và thay vào đó, có tên của Bhaddā Kuṇḍalakesā, đồng nhất bà với Bhikkhadāyikā. Mvu.i.303f đề cập đến một người con gái khác là Mālinī Kisā Gotamī.
+
+Ông cũng có một người con trai, Paṭhavindhara (Puthuvindhara), người đã kế vị ông lên ngôi (Thag­a.i.151). Trong suốt cuộc đời của Kassapa Buddha, Kikī đã hầu hạ ngài với nhiều loại phẩm vật cúng dường (Snp-a.i.281, 283), và khi ngài viên tịch, ông đã xây một trong bốn cánh cổng bên ngoài *cetiya* của Đức Phật. Cánh cổng rộng một do-tuần (Snp-a.i.194). Theo Chú giải Aṅguttara (AN­a.i.420), Kikī là *aggupaṭṭhāka* của Kassapa.
+
+Trong các sách tiếng Phạn, ông được gọi là Kṛkī, và được nhắc đến như là chủ nhân của một cung điện có tên là Kokanada (ví dụ, Mvu.i.325; Divy.22f; Avś.i.338, v.v.).
 
 ## Notes

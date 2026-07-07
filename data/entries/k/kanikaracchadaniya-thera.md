@@ -5,7 +5,7 @@ base_headword: "Kaṇikāracchadaniya Thera"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -28,6 +28,8 @@ Twenty *kappas* ago he became king eight times under the name of <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇikāracchadaniya Thera. Một vị Arahant. Có lần ngài đã gặp Đức Phật Vessabhū đang ngủ trưa trong rừng, và vì hài lòng với dung mạo của ngài, đã tạo ra một chiếc tán bằng hoa *kaṇikāra* phía trên đầu Đức Phật.
+
+Hai mươi *kappa* trước ngài đã làm vua tám lần dưới cái tên Soṇṇābha. Ap.i.183.
 
 ## Notes

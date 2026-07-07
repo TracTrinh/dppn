@@ -5,7 +5,7 @@ base_headword: "Mahavāpivihāra"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Mahavāpivihāra. A monastery in <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahavāpivihāra. Một tu viện ở Mahā Gāma. Về một câu chuyện liên quan đến nó xin xem Ras.ii.4f.
 
 ## Notes

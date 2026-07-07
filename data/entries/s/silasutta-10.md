@@ -5,7 +5,7 @@ base_headword: "Sīlasutta"
 disambiguator: "10"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -28,6 +28,6 @@ Sīlasutta 10. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīlasutta 10. Ānanda nói với Bhadda, tại Kukkuṭārāma ở Pāṭaliputta, rằng các thói quen đạo đức mà Đức Phật đã nói đến là những thói quen có được nhờ tu tập bốn *satipaṭṭhāna*. SN.v.171.
 
 ## Notes

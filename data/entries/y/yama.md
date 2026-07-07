@@ -5,7 +5,7 @@ base_headword: "Yama"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -44,6 +44,12 @@ In the Jātakas the *Nirayas* are particularly mentioned as <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yama. Vị thần chết (ví dụ, xem Dhp­a.iii.337; *Yamassa santikaṁ = Maraṇasantikaṁ*). Khi chúng sinh chết đi, họ bị dẫn đến trước ông để bị phán xét theo những hành động của mình. Sinh ra, già yếu, bệnh tật, hình phạt cho tội lỗi và cái chết, được coi là những sứ giả của ông, được cử đến giữa loài người như một lời cảnh báo để tránh xa cái ác và làm điều thiện. Yama tra hỏi những chúng sinh bị đưa đến trước ông xem họ đã nhìn thấy những sứ giả này chưa và có hưởng lợi từ chúng không. Nếu câu trả lời là không, những ngục tốt (*nirayapālas*) sẽ đưa họ đi đến những địa ngục khác nhau (MN.iii.179ff).
+
+Trong kinh Mahā Samayasutta (DN.ii.259) có đề cập đến hai Yama (*duve Yamā*), mà Chú giải (DN­a.ii.690) giải thích là “*dve Yamakadevatā*” (cặp sinh đôi, những vị mà Rhys Davids gọi là Castor và Pollux của Thần thoại Ấn Độ, trong Dial.ii.290, n.1). Ở một nơi khác (AN­a.i.374; MN­a.ii.953) Buddhaghosa nói về bốn Yama (*na cesa eko va hoti, catusu pana dvāresu cattāro janā honti*) ở bốn cổng (của các *Nirayas*?). Ngài nói rằng Yama là một vị *Vemānikapetarājā*, người đôi khi tận hưởng mọi thú vui của cõi trời, trong một tòa thiên cung, bao quanh bởi những cây như ý (*kapparukkhas*), và vào những lúc khác lại phải gánh chịu những quả báo từ nghiệp (*kamma*) của mình. Ông là một vị vua tốt.
+
+Trong các câu chuyện Bổn sinh, các địa ngục (*Nirayas*) được đặc biệt đề cập đến như là nơi ở của Yama (*Yamakkhaya*, *Yamanivesana*, *Yamasādana*, v.v...), ví dụ, Ja.ii.318; iv.273; v.268, 274, 304. Sông Vetaraṇī được đề cập là ranh giới vương quốc của Yama (Ja.i.21; Ja.ii.317; iii.472; nhưng xem ii.318). Tại Ja.iv.405, nơi ở của Yama được gọi là Ussadaniraya. Dhp­a.i.334 giải thích Yamaloka bằng *Catubbidhaṁ apāyalokaṁ*. Cp. Pv-a.33 (*Yamaloko ti petaloko*); Pv-a.107 (*Yamavisayaṁ = Petalokaṁ*). Nhưng, nói chung hơn, toàn thể luân hồi (*Saṁsāra*) được coi là phải chịu sự cai trị của Yama, và việc thoát khỏi luân hồi (*Saṁsāra*) có nghĩa là thoát khỏi ảnh hưởng của Yama, do Yama là vị thần của Cái chết. Rõ ràng theo ý nghĩa này mà Yama được gọi là Vesāyi (*q.v.*, Ja.ii.317, 318).
+
+Yama đôi khi được đề cập cùng với Indra, Varuṇa, Soma, Pajāpatī, v.v..., như một vị thần được dâng đồ cúng tế (ví dụ, Ja.vi.201; DN.i.244; tại Mil.37 danh sách này bao gồm Kuvera, Suyāma và Santusita; cp. *Mahā Vastu* Mvu.i.265; Mvu.iii.68, 77; 77, 307). Có một truyền thuyết (AN.i.142) nói rằng đã có lúc Yama mong muốn được sinh ra làm con người và được ngồi dưới chân một vị Tathāgata. Nayanāyudha của Yama được đề cập (Snp­a.i.225) như là một trong những vũ khí hủy diệt nhất.
 
 ## Notes

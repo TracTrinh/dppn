@@ -5,7 +5,7 @@ base_headword: "Kisā Gotamīvatthu"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kisā Gotamīvatthu 02. The story of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kisā Gotamīvatthu 02. Câu chuyện về Kisā Gotamī (1). Phần giới thiệu cung cấp một lời kể lại về cuộc hôn nhân của bà. Dhp­a.ii.270ff.
 
 ## Notes

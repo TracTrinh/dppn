@@ -5,7 +5,7 @@ base_headword: "Mahā Sākyamunigotamasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -26,6 +26,6 @@ Mahā Sākyamunigotamasutta. The Buddha describes how, before reaching <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sākyamunigotamasutta. Đức Phật mô tả cách thức Ngài, trước khi đạt được sự Giác ngộ, đã truy nguyên lại, từng bước một, nguyên nhân của khổ đau trên thế gian và Con Đường thoát khỏi nó. SN.ii.10f.
 
 ## Notes

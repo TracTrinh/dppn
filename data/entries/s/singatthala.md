@@ -5,7 +5,7 @@ base_headword: "Siṅgatthala"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Siṅgatthala. A village in Ceylon, given by <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Siṅgatthala. Một ngôi làng ở Tích Lan, được Kittisirirājasīha ban cho Majjhavelavihāra. Cv.c.230.
 
 ## Notes

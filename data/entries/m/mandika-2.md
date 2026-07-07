@@ -5,7 +5,7 @@ base_headword: "Maṇḍikā"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Maṇḍikā. Mother of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇḍikā. Mẹ của Maṇḍikāputta (*q.v.*).
 
 ## Notes

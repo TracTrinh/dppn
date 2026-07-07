@@ -5,7 +5,7 @@ base_headword: "Vakkalisutta"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vakkalisutta. The account, given in the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vakkalisutta. Tường thuật trong Saṁyuttanikāya (SN.iii.119ff) về sự chứng đắc quả vị Arahant và cái chết của Vakkali (1) (*q.v.*).
 
 ## Notes

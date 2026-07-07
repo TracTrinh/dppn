@@ -5,7 +5,7 @@ base_headword: "Kaccāyana"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -49,6 +49,21 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaccāyana 01. Trưởng lão Kaccāyana. Tác giả của Kaccāyanavyākaraṇa, tài liệu ngữ pháp Pāli cổ nhất hiện còn. Truyền thống chính thống đồng nhất ông với Mahā Kaccāna.
+
+Ông có thể là người Nam Ấn và thuộc trường phái Avanti do Mahā Kaccāna sáng lập (PLC.179ff; Gv.66; Svd.1233f). Có lẽ ông cũng là tác giả của Nettippakaraṇa.
+
+Kaccāyana có thể thuộc vào thế kỷ thứ năm hoặc thứ sáu CE
+
+Gandhavaṁsa (p.59) quy cho Kaccāyana tư cách tác giả của các cuốn:
+
+- Kaccāyanagandha,
+- Mahā Niruttigandha,
+- Cūḷaniruttigandha,
+- Peṭakopadesagandha,
+- Nettigandha và
+- Vaṇṇanītigandha.
+
+Kaccāyana 02. Trưởng lão Kaccāyana. Một vị *Arahant*. Ông là đệ tử của Đức Phật Padumuttara, và được Ngài tuyên bố là đệ nhất trong số những người có thể giảng giải chi tiết những điều Đức Phật đã nói tóm tắt. Lời tuyên bố này được đưa ra trước sự hiện diện của Mahā Kaccāna, điều đó đã khiến cho vị này, trong kiếp sống đó là một đạo sĩ ở Himavā, phát nguyện có được một khả năng tương tự cho chính mình dưới thời một vị Phật trong tương lai. Ap.ii.464; Thag­a.i.484.
 
 ## Notes

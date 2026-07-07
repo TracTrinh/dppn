@@ -5,7 +5,7 @@ base_headword: "Vessamittā"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/066.html"
@@ -25,6 +25,6 @@ Vessamittā. Queen of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vessamittā. Hoàng hậu xứ Kosambī. Khi chồng bà tử trận, người chiến thắng muốn kết hôn với bà, nhưng bà từ chối. Hắn ra lệnh thiêu sống bà, nhưng nhờ vào sự đạo đức của mình, bà không bị thương tổn và nhận được sự tôn vinh lớn lao. Ras.i.18f.
 
 ## Notes

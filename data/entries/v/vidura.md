@@ -5,7 +5,7 @@ base_headword: "Vidurā"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vidurā. One of the wives of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vidurā. Một trong những người vợ của Udaya IV. Bà đã gắn một vầng hào quang (*pādajāla* - mandorla) lên một bức tượng Phật trong Mahā Vihāra. Cv.liii.50.
 
 ## Notes

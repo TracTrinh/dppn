@@ -5,7 +5,7 @@ base_headword: "Mahā Vālukavīthi"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Vālukavīthi. A street in <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Vālukavīthi. Một con đường ở Anurādhapura. Ras.ii.49.
 
 ## Notes

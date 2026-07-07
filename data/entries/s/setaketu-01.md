@@ -5,7 +5,7 @@ base_headword: "Setaketu"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Setaketu 01. The Bodhisatta, born in <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Setaketu 01. Bodhisatta, sinh ở Tusita trong đời kế cuối cùng của ngài. Vin-a.i.161; MN­a.i.103.
 
 ## Notes

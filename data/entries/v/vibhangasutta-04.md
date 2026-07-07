@@ -5,7 +5,7 @@ base_headword: "Vibhaṅgasuttā"
 disambiguator: "04"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vibhaṅgasuttā 04. Two *Suttas* containing an analysis of the five *indriyas*.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vibhaṅgasuttā 04. Hai bài *Sutta* chứa đựng sự phân tích về năm *indriya*. SN.v.196f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Selā"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -41,6 +41,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Selā 02. Selā Therī. Bà sinh ở Āḷavi là con gái của vua, vì thế bà còn được gọi là Āḷavikā. Khi bà vẫn chưa lấy chồng, Đức Phật đến thăm Āḷavi cùng với Āḷavaka, người mà Ngài đã hóa độ, tay mang bát và y. Nhân dịp đó, Selā cùng cha đi nghe Đức Phật thuyết pháp. Bà trở thành nữ cư sĩ tại gia, nhưng về sau, với tâm trí dao động, bà gia nhập Tăng đoàn và chứng đắc *Arahant*. Sau đó bà sống tại Sāvatthī. Một ngày nọ, khi bà đang nghỉ trưa trong rừng Andhavana dưới bóng cây, Māra, giả dạng một người lạ, đến gần và cố gắng cám dỗ bà. Nhưng bà đã bác bỏ những lập luận của hắn về sức hấp dẫn của đời sống tại gia, và Māra phải rút lui thất bại (SN.i.134; Thīg.vss.57-9).
+
+Vào thời Padumuttara Buddha, Selā sinh trong gia đình một cư sĩ tại Haṃsavatī và đã lập gia đình. Sau khi chồng qua đời, bà chuyên tâm tìm cầu điều lành, và đi từ *ārāma* này đến *ārāma* khác, từ *vihāra* này đến *vihāra* khác, giảng dạy Pháp cho những người theo đạo. Một ngày nọ bà đến cây bodhi của Đức Phật và ngồi xuống đó nghĩ rằng: “Nếu một vị Phật là vô song trong nhân loại, xin nguyện cây này biểu hiện kỳ tích của Giác ngộ.” Ngay lập tức, cây tỏa sáng rực rỡ, các cành cây hiện ra màu vàng, và bầu trời tất cả đều sáng ngời. Được cảnh tượng đó truyền cảm hứng, bà cúi đầu đảnh lễ cây bodhi và ngồi ở đó bảy ngày. Vào ngày thứ bảy, bà tổ chức một lễ cúng dưỡng và tôn kính lớn đối với Đức Phật (Thīg­a.61f). Các bài kệ Apadāna của bà, được trích dẫn trong Therīgāthā Commentary, trong chính Apadāna lại được gán cho một Therī tên là Pañcadīpikā, và được lặp lại hai lần trong các bài kệ này (Ap.ii.519, lặp lại ở 527f); tuy nhiên, bà được đề cập là đã chứng đắc quả vị *Arahant* lúc bảy tuổi, và không có đề cập đến cuộc đời bà là con gái của vua Āḷavi. Xem thêm Selā (3).
 
 ## Notes

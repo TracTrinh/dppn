@@ -5,7 +5,7 @@ base_headword: "Kapotajātaka"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -24,6 +24,6 @@ Kapotajātaka 02. (Ja 375). The same as above, except for a few details. When th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kapotajātaka 02. (Ja 375). Tương tự như trên, ngoại trừ một vài chi tiết. Khi vụ trộm bị phát hiện, người đầu bếp đã làm một hỗn hợp từ gừng tươi và mù tạt trắng, giã với một quả chà là thối, và sau khi làm con quạ bị thương bằng một mảnh vỡ của cái nồi đất, đã chà xát thứ đó vào vết thương và buộc mảnh vỡ quanh cổ nó. Ja.iii.224ff.
 
 ## Notes

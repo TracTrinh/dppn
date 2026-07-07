@@ -5,7 +5,7 @@ base_headword: "Paṇṇadāyaka Thera"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Paṇṇadāyaka Thera 02. An *Arahant*. Ninety-four *kappas* ago he gave a hand
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇṇadāyaka Thera 02. Một vị *Arahant*. Chín mươi bốn *kappa* trước, ngài đã dâng một nắm lá mà ngài đang ăn cho Siddhattha Buddha và trải cho Ngài một chỗ ngồi bằng lá. Ap.i.239.
 
 ## Notes

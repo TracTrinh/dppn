@@ -5,7 +5,7 @@ base_headword: "Pariyādinnasuttā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Pariyādinnasuttā. Two *Suttas* on how attachments arise and on how they can be
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pariyādinnasuttā. Hai *Sutta* về cách các sự bám víu khởi sinh và cách chúng có thể được tận diệt hoàn toàn. SN.iv.33f.
 
 ## Notes

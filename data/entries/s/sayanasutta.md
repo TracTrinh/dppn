@@ -5,7 +5,7 @@ base_headword: "Sayanasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -23,6 +23,6 @@ Sayanasutta. Few are they who abstain from high and low beds. SN.v.471.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sayanasutta. Ít người kiêng tránh giường cao và giường thấp. SN.v.471.
 
 ## Notes

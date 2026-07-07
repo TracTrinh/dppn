@@ -5,7 +5,7 @@ base_headword: "Sukhitasutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -23,6 +23,6 @@ Sukhitasutta. Incalculable is *Saṁsāra*; everyone has enjoyed prosperity in t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sukhitasutta. Không thể đếm xuể là *Saṁsāra*; mọi người đều đã từng tận hưởng sự thịnh vượng trong suốt quá trình lang thang của mình. SN.ii.186.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Subrahmāsutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Subrahmāsutta. Describes the visit of the *Devaputta* <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subrahmāsutta. Mô tả về chuyến viếng thăm của *Devaputta* (thiên tử) Subrahmā đến yết kiến Đức Phật. SN.i.53.
 
 ## Notes

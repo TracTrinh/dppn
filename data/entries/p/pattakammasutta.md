@@ -5,7 +5,7 @@ base_headword: "Pattakammasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Pattakammasutta. Preached to <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pattakammasutta. Được thuyết giảng cho Anāthapiṇḍika. Bốn điều khó có thể đạt được trên thế gian: tài sản kiếm được một cách hợp pháp, danh tiếng tốt, tuổi thọ dài lâu, sự tái sinh an vui. Bốn điều dẫn đến việc đạt được những điều đó: sự hoàn thiện của đức tin, của giới hạnh, của sự rộng lượng và của trí tuệ. AN.ii.65ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vāseṭṭhasutta"
 disambiguator: "02"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -27,6 +27,6 @@ Vāseṭṭhasutta 02. The lay disciple <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nam cư sĩ Vāseṭṭha đến thăm Đức Phật tại Kūṭāgārasālā ở Vesālī và trình bày rằng sẽ là một điều tốt đẹp cho họ, trong nhiều ngày, nếu những người thân, các Bà-la-môn, thương nhân, người lao động của ông, v.v., thọ trì *uposatha* với tám chi phần. Đức Phật đồng ý, và nói thêm rằng, sẽ là một điều tốt đẹp nếu không chỉ chư thiên và loài người mà ngay cả cây cối cũng thọ trì nó. AN.iv.258.
 
 ## Notes

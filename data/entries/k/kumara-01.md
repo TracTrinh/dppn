@@ -5,7 +5,7 @@ base_headword: "Kumāra"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kumāra 01. Father of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cha của Bhāraṇa. Ông sống ở Kappakandara. Mhv.xxiii.64.
 
 ## Notes

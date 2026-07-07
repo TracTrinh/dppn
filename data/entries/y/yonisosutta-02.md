@@ -5,7 +5,7 @@ base_headword: "Yonisosutta"
 disambiguator: "02"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -23,6 +23,6 @@ Yonisosutta 02. Mindfulness comes by *yoniso manasikāra* and goes through it to
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yonisosutta 02. Chánh niệm đến nhờ *yoniso manasikāra* và đi qua nó để đạt được sự viên mãn. SN.v.93f.
 
 ## Notes

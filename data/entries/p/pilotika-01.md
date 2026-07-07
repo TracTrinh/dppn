@@ -5,7 +5,7 @@ base_headword: "Pilotika"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -32,6 +32,6 @@ Pilotika 01. A *Paribbājaka*. <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pilotika 01. Một vị *Paribbājaka*. Jāṇussoṇī có lần gặp ngài đang trở về từ Jetavana, nơi ngài đã đến sớm để hầu hạ Đức Phật. Pilotika, khi được hỏi, đã hết lời ca ngợi Đức Phật. Chính cuộc trò chuyện này, khi được Jāṇussoṇī thuật lại cho Đức Phật nghe, đã dẫn đến việc thuyết giảng Cūḷa Hatthipadopamasutta (MN.i.175 ff). Jāṇussoṇī xưng hô với Pilotika là Vacchāyana, điều này, theo Chú giải (MN­a.i.393), đó là tên gia tộc của ngài. Từ cùng một nguồn tư liệu, chúng ta được biết rằng tên gọi riêng của vị *Paribbājaka* này là Pilotikā; ngài còn trẻ tuổi, da có màu vàng như vàng, và thích hầu hạ Đức Phật cùng các đệ tử xuất chúng của Đức Phật. Ngài được gọi, cùng với Sabhiya (SN­a.ii.188), như là một vị *Paribbājaka* thông tuệ. Pilotika được đồng nhất với Devinda trong Mahā Ummaggajātaka. Ja 546, Ja.vi.478.
 
 ## Notes

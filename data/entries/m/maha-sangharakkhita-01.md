@@ -5,7 +5,7 @@ base_headword: "Mahā Saṅgharakkhita"
 disambiguator: "01"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -28,6 +28,6 @@ Mahā Saṅgharakkhita 01. <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Saṅgharakkhita 01. Trưởng lão Mahā Saṅgharakkhita. Một vị *Arahant*. Ngài đã đến, cùng với bốn mươi ngàn vị khác, từ *vihāra* Dakkhiṇāgiri ở Ujjenī, để tham dự Lễ Đặt Nền Móng của Mahā Thūpa (Mhv.xxix.35) và đã đảm nhận vị trí của mình ở lối vào phía tây. Mhv­ṭ. 530.
 
 ## Notes

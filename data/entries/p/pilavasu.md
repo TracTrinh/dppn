@@ -5,7 +5,7 @@ base_headword: "Pilavasu"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -24,6 +24,6 @@ Pilavasu. A fortress erected by <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pilavasu. Một pháo đài do Parakkamabāhu I xây dựng. Cv.lxx.93, 97.
 
 ## Notes

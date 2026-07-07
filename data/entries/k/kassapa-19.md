@@ -5,7 +5,7 @@ base_headword: "Kassapa"
 disambiguator: "19"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -40,6 +40,6 @@ Kassapa 19. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapa 19. Con trai của Sena II. Nhà vua đã ban cho ông một phần đặc biệt từ các nguồn thu nhập của chính mình và một phần từ những nguồn thu nhập bất thường của hòn đảo (Cv.li.18, 20). Hai người vợ của ông được nhắc đến: Saṅghā và Senā (Cv.li.18, 92). Ông trở thành *Yuvarāja* dưới thời Kassapa IV và cai trị Dakkhiṇadesa (Cv.lii.1), và khi nhà vua qua đời, ông trở thành người cai trị Tích Lan với tước hiệu Kassapa V (có thể từ 913-23 CN) (Cv.lii.37ff). Đôi khi ông được nhắc đến là con trai của vị hoàng hậu được tấn phong hai lần (*dvayābhisekajāta*), mẹ ông là Saṅghā, con gái của Kittaggabodhi (1) và Devā. Trong các bản khắc, Kassapa được gọi là Abhayasilāmeghavaṇṇa (Cv.Trs.i.165, n.3). Rõ ràng ông là một người uyên bác, và một bản Chú giải tiếng Sinhalese cho Dhammapada Commentary được cho là của ông (được biên tập bởi DN. B. Jayatilaka, Colombo 1933). Ông có một người vợ là Vajirā (Cv.lii.62), người vợ thứ hai là Devā (Cv.lii.64), và người vợ thứ ba là Rājinī (Cv.lii.67). Ông có một người con trai là Siddhattha, người đã chết yểu, và một người con trai khác được ban tước vị Sakkasenāpati. Người con trai này đã dẫn đầu một cuộc viễn chinh để giúp vua Paṇḍu chống lại Vua nước Coḷa, nhưng ông đã chết vì bệnh dịch ở Coḷa (Cv.lii.72-8).
 
 ## Notes

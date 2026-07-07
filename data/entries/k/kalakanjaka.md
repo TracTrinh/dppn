@@ -5,7 +5,7 @@ base_headword: "Kāḷakañjakā"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -32,6 +32,6 @@ Kāḷakañjakā, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷakañjakā, Kāḷakañjaka, Kāḷakañjakas. Một hạng Asura (xem ở mục từ tương ứng). Họ đã có mặt tại Mahā Samaya, và được cho là có một hình dáng đáng sợ (DN.ii.259; xem thêm DN­a.iii.789.820). Họ là nhóm thấp kém nhất trong số các Asura, và Đức Phật đã cảnh báo Sunakkhatta rằng Korakkhattiya, sau khi chết vì bệnh động kinh, sẽ được tái sinh ở trong số họ; và điều đó đã xảy ra (DN.iii.7f; Ja.i.389). Các Bodhisatta không bao giờ được sinh ra ở trong số những người Kāḷakañjaka (Ja.i.44; Bv­a.224). Đôi khi (ví dụ, Ja.v.187; Pv-a.272), khi Asura được nhắc đến, các Chú giải giải thích từ này có nghĩa là những người Kāḷakañjaka. Các chúng sinh tái sinh ở trong số họ phải chịu đựng sự khát nước tột độ, điều mà họ không thể thỏa mãn ngay cả khi ngâm mình dưới sông Ganges. (Về một câu chuyện của một trong số họ, xem Vibh­a.5). Những người Kājakañjaka giống các ngạ quỷ về hình dáng, đời sống tình dục, chế độ ăn uống và tuổi thọ, và họ kết hôn với các ngạ quỷ (Kv.360).
 
 ## Notes

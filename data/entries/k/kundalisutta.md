@@ -5,7 +5,7 @@ base_headword: "Kuṇḍalīsutta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kuṇḍalīsutta. Records the visit of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ghi chép về chuyến thăm của Kuṇḍaliya đến Đức Phật. SN.v.73ff.
 
 ## Notes

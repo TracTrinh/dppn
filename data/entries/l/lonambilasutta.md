@@ -5,7 +5,7 @@ base_headword: "Loṇambilasutta"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -25,6 +25,6 @@ Loṇambilasutta. Given as an example of a *Sutta* in which the Buddha expands t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Loṇambilasutta. Được đưa ra như một ví dụ của một *Sutta* mà trong đó Đức Phật mở rộng ý nghĩa thông qua các phép so sánh (AN­a.i.32). Sự liên hệ này, có lẽ, là nói đến Loṇaphalasutta.
 
 ## Notes

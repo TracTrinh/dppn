@@ -5,7 +5,7 @@ base_headword: "Mahā Rājaghara"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Rājaghara. A monastery enlarged by <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Rājaghara. Một tu viện được mở rộng bởi Potthakuṭṭha. Cv.xivi.21.
 
 ## Notes

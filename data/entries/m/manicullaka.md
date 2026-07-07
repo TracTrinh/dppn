@@ -5,7 +5,7 @@ base_headword: "Maṇicullaka"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Maṇicullaka. A headman of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇicullaka. Một trưởng thôn ở Rājagaha. Xem Maṇicullasutta.
 
 ## Notes

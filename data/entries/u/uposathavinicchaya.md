@@ -5,7 +5,7 @@ base_headword: "Uposathavinicchaya"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -23,6 +23,6 @@ Uposathavinicchaya. A Vinaya treatise, written in Burma. Bode, 44.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uposathavinicchaya. Một chuyên luận về Vinaya, được viết ở Miến Điện. Bode, 44.
 
 ## Notes

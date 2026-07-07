@@ -5,7 +5,7 @@ base_headword: "Veghanasā"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Veghanasā. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Veghanasā. Một hạng chư thiên có mặt tại buổi thuyết giảng kinh Mahā Samayasutta. DN.ii.261.
 
 ## Notes

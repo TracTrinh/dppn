@@ -5,7 +5,7 @@ base_headword: "Yāgudānānumodanāsutta"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -28,6 +28,6 @@ Yāgudānānumodanāsutta. A *Sutta* quoted in the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yāgudānānumodanāsutta. Một bài kinh được trích dẫn trong Suttasaṅgaha (Số 61) từ Mahā Vagga của Vinayapiṭaka (Vin.i.220f.) về những phước báu của việc cúng dường cháo (*yāgu*). Mhv­ṭ. (p.666) gọi bài kinh này là Andhakavindasutta.
 
 ## Notes

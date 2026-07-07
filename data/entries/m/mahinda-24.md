@@ -5,7 +5,7 @@ base_headword: "Mahinda"
 disambiguator: "24"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Mahinda 24. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahinda 24. Con trai của Sumanadevī và Bodhigutta. Ông đã đến trong đoàn hộ tống của cây Bodhi. Devānampiyatissa đã trao cho ông tước hiệu *Cūḷa Jayamahālekhaka*. Mbv.169.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Pāvārikambavana"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -36,6 +36,8 @@ The grove belonged to a *seṭṭhi* named <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāvārikambavana 02. Một vườn xoài tại Nālandā nơi Đức Phật đã lưu trú trong một chuyến viếng thăm ở đó (ví dụ, DN.ii.81). Tại đây ngài đã thuyết giảng Kevaṭṭasutta, Sampasādaniyasutta và Upālisutta. Trong số những người đã đến thăm Đức Phật tại đây có đề cập đến Kevaḍḍha, Upāli *gahapati* và Asibandhakaputta.
+
+Vườn xoài thuộc về một *seṭṭhi* tên là Pāvārika, người được phân biệt với vị *seṭṭhi* cùng tên ở Kosambī bằng cách được mô tả là Dussapāvārika (ví dụ, DN­a.ii.873; MN­a.i.540; SN­a.iii.169). (? Pāvārika thợ may y phục, *q.v.*).
 
 ## Notes

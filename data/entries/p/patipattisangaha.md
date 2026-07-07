@@ -5,7 +5,7 @@ base_headword: "Paṭipattisaṅgaha"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Paṭipattisaṅgaha. A Pāli work by an unknown author. Gv.62, 72.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṭipattisaṅgaha. Một tác phẩm tiếng Pāli của một tác giả vô danh. Gv.62, 72.
 
 ## Notes

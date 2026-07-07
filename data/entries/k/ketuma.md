@@ -5,7 +5,7 @@ base_headword: "Ketumā"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Ketumā. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ketumā. Một vị Pacceka Buddha, được nhắc đến trong một danh sách tên của các vị đó. MN.iii.70; Ap­a.i.107.
 
 ## Notes

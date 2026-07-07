@@ -5,7 +5,7 @@ base_headword: "Parakkamabāhu"
 disambiguator: "09"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Parakkamabāhu 09. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parakkamabāhu 09. Parakkamabāhu VIII. Còn được gọi là Vīra Parakkamabāhu, chú của Parakkamabāhu VII (Cv.xcii.3). Ông dường như đã trị vì từ khoảng năm 1484-1509 CN. Ông thường xuyên gặp rắc rối với những người thân của mình. Tên người kế vị của ông không chắc chắn. Codr.94f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Khemasutta"
 disambiguator: "02"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -27,6 +27,6 @@ Khemasutta 02. Two monks, <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khemasutta 02. Hai vị tỳ-kheo, Khema và Sumana, sống tại Andhavana gần Sāvatthī, đã đến viếng thăm Đức Phật. Khema đã thưa trước Đức Phật rằng, khi một tỳ-kheo đã đạt được quả vị Arahant, ý nghĩ rằng mình thấp kém hơn bất kỳ ai hay rằng mình có người ngang hàng sẽ không khởi lên trong vị ấy. Nói như vậy xong, Khema từ biệt Đức Phật và rời đi; Sumana cũng làm như vậy. Khi họ đã đi, Đức Phật tuyên bố với các tỳ-kheo rằng, bằng lời phát biểu của mình, Khema và Sumana đã hiển lộ quả vị Arahant của họ. AN.iii.358f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Phalasutta"
 disambiguator: "02"
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -23,6 +23,6 @@ Phalasutta 02. Same as (1), only substituting the four *iddhipādas* for the fiv
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phalasutta 02. Giống như (1), chỉ thay năm *indriya* bằng bốn *iddhipāda*. SN.v.285f.
 
 ## Notes

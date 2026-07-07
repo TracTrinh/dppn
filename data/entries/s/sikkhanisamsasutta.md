@@ -5,7 +5,7 @@ base_headword: "Sikkhānisaṁsasutta"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Sikkhānisaṁsasutta. *Brahmacariya* is lived for the sake of the profit of the
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sikkhānisaṁsasutta. *Brahmacariya* được sống là vì lợi ích của sự tu tập, của tuệ giác cao hơn, của cốt lõi giải thoát, của sự thông thạo chánh niệm. AN.ii.243f.
 
 ## Notes

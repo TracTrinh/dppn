@@ -5,7 +5,7 @@ base_headword: "Uttiyasutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uttiyasutta or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttiyasutta hay Uttikasutta 02. Uttiya cầu xin Đức Phật một bài dạy ngắn gọn để ông có thể thiền định khi sống trong cô tịch. Đức Phật bảo ông phải thanh lọc "nền tảng trong các thiện pháp" (*ādim-eva visodhehi kusalesu dhammesu*), và tiếp tục đề cập đến bốn *satipaṭṭhāna*. Nhờ tu tập những điều này, Uttiya đắc quả *Arahant*. SN.v.166.
 
 ## Notes

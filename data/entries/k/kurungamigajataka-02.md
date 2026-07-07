@@ -5,7 +5,7 @@ base_headword: "Kuruṅgamigajātaka"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -32,6 +32,10 @@ This <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Trong một khu rừng có ba người bạn sống: một con linh dương, một con chim gõ kiến và một con rùa. Một đêm, linh dương bị mắc vào thòng lọng của thợ săn, và rùa bắt đầu cắn đứt các sợi thòng lọng trong khi chim gõ kiến, phát ra tiếng kêu báo điềm gở, kìm chân người thợ săn trong túp lều của ông ta. Linh dương trốn thoát, nhưng rùa, kiệt sức vì công việc, đã bị thợ săn bắt. Do đó, linh dương đã dụ người thợ săn vào rừng và, sau khi lảng tránh ông ta, đã giải thoát cho rùa. Linh dương là Bodhisatta, chim gõ kiến là Sāriputta, rùa là Moggallāna và người thợ săn là Devadatta.
+
+Câu chuyện được kể liên quan đến sự độc ác của Devadatta (Ja.ii.152ff; Dhp­a.iii.152f).
+
+*Jātaka* này được khắc họa trên bảo tháp *Bharhut*. Cunningham: p.67 và Tấm xxvii.9.
 
 ## Notes

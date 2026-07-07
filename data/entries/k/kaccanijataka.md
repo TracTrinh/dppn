@@ -5,7 +5,7 @@ base_headword: "Kaccānijātaka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -31,6 +31,8 @@ The story was related to a young man of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaccānijātaka (Ja 417). Một thanh niên đã cống hiến hết mình, sau cái chết của cha, hoàn toàn cho người mẹ của mình, cho đến khi người mẹ, trái với ý muốn của anh ta, mang về cho anh một người vợ. Người vợ đã âm mưu chia rẽ mẹ và con trai, và bà lão đã phải rời khỏi nhà. Người vợ, sau khi sinh một đứa con trai, đã đi rêu rao rằng nếu mẹ chồng ở với mình thì một phước lành như vậy sẽ là điều không thể. Khi bà lão nghe được điều này, bà cảm thấy rằng những điều như vậy chỉ có thể được nói ra vì Lẽ Phải (*Dhamma*) đã chết và, đi vào nghĩa trang, bà bắt đầu thực hiện một nghi lễ hiến tế để tưởng nhớ Lẽ Phải đã chết. Ngai vàng của Sakka trở nên nóng lên, ngài giáng trần và, nghe câu chuyện của bà, đã hòa giải bà lão với con trai và con dâu của bà bằng oai lực to lớn của mình. Trong bài kệ do Sakka nói, bà lão được gọi là Kaccāni và Kātiyānī. Chú giải giải thích rằng bà thuộc dòng dõi Kaccānagotta.
+
+Câu chuyện được kể lại liên quan đến một thanh niên ở Sāvatthī, người đã chăm sóc người mẹ già của mình cho đến khi vợ anh ta đến; sau đó người vợ đảm nhận việc chăm sóc bà và trong một thời gian đã làm tốt các bổn phận của mình. Về sau, cô ta đâm ra ghen tị với tình yêu của chồng dành cho mẹ anh, và bằng nhiều cách khác nhau đã tìm cách làm cho người con trai tức giận với bà lão. Cuối cùng, cô ta yêu cầu chồng chọn lựa giữa bản thân cô và mẹ anh. Người thanh niên, không chút do dự, đã đứng về phía mẹ mình, và người vợ, nhận ra sự ngu ngốc của mình, đã sửa đổi tâm tính. Ja.iii.422-8.
 
 ## Notes

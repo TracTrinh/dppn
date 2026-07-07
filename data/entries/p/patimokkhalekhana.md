@@ -5,7 +5,7 @@ base_headword: "Pāṭimokkhalekhana"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Pāṭimokkhalekhana. A book for Vinaya students, by <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāṭimokkhalekhana. Một cuốn sách dành cho những học giả nghiên cứu về Vinaya, bởi Ñāṇavara. Bode, 67.
 
 ## Notes

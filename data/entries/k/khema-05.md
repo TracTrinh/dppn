@@ -5,7 +5,7 @@ base_headword: "Khema"
 disambiguator: "05"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -29,6 +29,8 @@ This <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khema 05. Vườn lộc uyển gần Bandhumatī (Ja.vi.480; Bv.xx.4; AN­a.i.80, 169). Ở đó Vipassī Buddha đản sanh, và ở đó ngài đã giảng bài pháp đầu tiên cho các đệ tử hàng đầu của mình, và sau đó là một bài pháp khác cho tám mươi bốn ngàn môn đồ của họ (Bv­a.196f).
+
+Khema này đồng nhất với Isipatana hiện nay. DN­a.ii.471.
 
 ## Notes

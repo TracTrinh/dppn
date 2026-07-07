@@ -5,7 +5,7 @@ base_headword: "Makuṭabandhana"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -32,6 +32,8 @@ Xuanzang’s description (Beal-Xuan, op.cit., ii.37) of the *stūpa* erected at 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Makuṭabandhana. Một "điện thờ" của những người Malla nằm ở phía đông Kusināra, nơi thi hài của Gotama Buddha được hỏa táng (DN.ii.160-1). Buddhaghosa giải thích rằng Makuṭabandhana là một Sảnh đường, trong đó các thủ lĩnh Malla mang các đồ trang sức của họ vào những ngày lễ hội. Nó được gọi là *cetiya* bởi vì nó được trang hoàng (*cittakatthena pan’esa cetiyaṁ*). DN­a.ii.596; xem thêm Divy.201.
+
+Sự mô tả của Huyền Trang (Xuanzang) (Beal-Xuan, sách đã dẫn, ii.37) về *stūpa* được dựng tại nơi rõ ràng là Makuṭabandhana đã gợi ý một lời giải thích khác. Chính tại đó, những người Malla đã tháo bỏ đồ trang sức của mình (*makuṭa*) và phủ phục xuống đất với sự sầu muộn trước sự viên tịch của Đức Phật.
 
 ## Notes

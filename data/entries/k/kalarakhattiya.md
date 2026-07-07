@@ -5,7 +5,7 @@ base_headword: "Kalārakhattiya"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,6 @@ Kalārakhattiya. A monk. He visits <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kalārakhattiya. Một vị tỳ-kheo. Tôn giả đến thăm Sāriputta và kể cho tôn giả nghe về việc Moliya Phagguna ly khai khỏi Tăng đoàn. Bản tường thuật về sự việc này được đưa vào Kalārasutta (xem ở mục từ tương ứng).
 
 ## Notes

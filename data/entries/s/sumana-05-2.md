@@ -5,7 +5,7 @@ base_headword: "Sumanā"
 disambiguator: "05"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sumanā 05. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumanā 05. Vợ của Sumedha Buddha trong kiếp sống cư sĩ cuối cùng của ngài. Bv.xii.20.
 
 ## Notes

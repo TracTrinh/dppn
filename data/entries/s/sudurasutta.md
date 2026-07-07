@@ -5,7 +5,7 @@ base_headword: "Sudūrasutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sudūrasutta. Four pairs of things which are very far from each other: the sky a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudūrasutta. Bốn cặp sự vật ở rất xa nhau: bầu trời và mặt đất, bờ bên này và bờ bên kia của đại dương, vị trí của mặt trời mọc và mặt trời lặn, các Pháp của những tỳ-kheo tốt và xấu. AN.ii.50.
 
 ## Notes

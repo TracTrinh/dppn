@@ -5,7 +5,7 @@ base_headword: "Vajirā"
 disambiguator: "03"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -29,6 +29,6 @@ Vajirā 03. A city in which reigned twenty-six kings, descendants of *Deva*. The
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vajirā 03. Một thành phố nơi hai mươi sáu vị vua là con cháu của *Deva* trị vì. Vị cuối cùng trong số họ tên là Sādhīna (Dpv.iii.20). Mahā Vaṁsaṭīkā (p.128, 130) gọi thành phố này là Vajiravutti. Theo Buddhavaṁsa (Bv.xxviii.8), bình bát và gậy của Đức Phật được đặt tại Vajirā sau khi Ngài viên tịch.
 
 ## Notes

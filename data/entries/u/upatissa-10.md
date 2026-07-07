@@ -5,7 +5,7 @@ base_headword: "Upatissa"
 disambiguator: "10"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Upatissa 10. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upatissa 10. Trưởng lão Upatissa. Ông đã viết một bản chú giải cho Anāgatavaṁsa 10 của Kassapa. Gv.p.72.
 
 ## Notes

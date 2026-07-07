@@ -5,7 +5,7 @@ base_headword: "Paññāvuddhisutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Paññāvuddhisutta. The four states which conduce to growth in wisdom: associat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paññāvuddhisutta. Bốn trạng thái dẫn đến sự phát triển của trí tuệ: kết giao với người hiền thiện, lắng nghe Dhamma, suy ngẫm chân chánh, và hành xử chân chánh phù hợp với Dhamma. AN.ii.245.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Tālacchiggalūpamasutta"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tālacchiggalūpamasutta. It is said that, after hearing this *Sutta*, <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tālacchiggalūpamasutta. Có thuyết nói rằng, sau khi nghe *Sutta* này, Abhayarājakumāra đã trở thành một *Sotāpanna* (Thag­a.i.83). *Sutta* này có lẽ là bài kinh về con rùa và bẫy trôi. Cp. MN.iii.169, and Chiggalasutta, SN.v.455.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Tissa"
 disambiguator: "06"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -25,6 +25,6 @@ Mahā Tissa 06. An Elder of the <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Tissa 06. Một vị Trưởng lão của tu viện Mahā Karañjiya. Ngài đã trở thành một *Arahant* bằng cách phát triển *ānāpānasati*, và nhờ đó ngài có thể giới hạn tuổi thọ của mình. Vsm.292.
 
 ## Notes

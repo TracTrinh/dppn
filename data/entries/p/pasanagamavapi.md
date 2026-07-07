@@ -5,7 +5,7 @@ base_headword: "Pāsāṇagāmavāpī"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Pāsāṇagāmavāpī. A tank restored by <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāsāṇagāmavāpī. Một hồ chứa nước được phục hồi bởi Parakkamabāhu I. Cv.lxxix.36.
 
 ## Notes

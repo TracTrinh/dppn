@@ -5,7 +5,7 @@ base_headword: "Uttarakurukā"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uttarakurukā. The inhabitants of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttarakurukā. Dân cư của Uttarakuru. AN.iv.396.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mālavatthu"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -28,6 +28,6 @@ Mālavatthu. A village in <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mālavatthu. Một ngôi làng ở Rohaṇa, được Dappula ban tặng cho Ariyākarivihāra (Cv.xiv.60). Nó được đề cập (Cv.lxx.66) trong bản tường thuật về các chiến dịch của Parakkamabāhu I.
 
 ## Notes

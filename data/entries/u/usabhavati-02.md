@@ -5,7 +5,7 @@ base_headword: "Usabhavatī"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -26,6 +26,6 @@ Usabhavatī 02. The city in which the <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Usabhavatī 02. Thành phố nơi Đức Phật Vessabhū đã viên tịch, tại Khemārāma. Bv­a.209.
 
 ## Notes

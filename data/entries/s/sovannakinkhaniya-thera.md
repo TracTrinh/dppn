@@ -5,7 +5,7 @@ base_headword: "Sovaṇṇakiṅkhaṇiya Thera"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Sovaṇṇakiṅkhaṇiya Thera. An *Arahant*. In the time of <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sovaṇṇakiṅkhaṇiya Thera. Một vị *Arahant*. Vào thời Atthadassī Buddha, ngài là một đạo sĩ, và đã xây dựng một *Thūpa* (bảo tháp) bằng cát nhân danh Đức Phật. Bởi vì quá ốm yếu để đến đảnh lễ Đức Phật, ngài đã cúng dường cho bảo tháp đó những bông hoa *soṇṇakiṅkhanika*. Ap.ii.388.
 
 ## Notes

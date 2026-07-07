@@ -5,7 +5,7 @@ base_headword: "Sīlasutta"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -24,6 +24,6 @@ Sīlasutta 01. The Buddha exhorts the monks to live perfect in virtue; then will
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīlasutta 01. Đức Phật khuyên các tỳ-kheo sống trọn vẹn trong giới hạnh; như vậy họ sẽ nhiệt tâm, cẩn trọng và kiên định. AN.ii.14.
 
 ## Notes

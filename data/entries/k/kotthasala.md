@@ -5,7 +5,7 @@ base_headword: "Koṭṭhasāla"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -25,6 +25,6 @@ Koṭṭhasāla. A village in Ceylon, probably the same as <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koṭṭhasāla. Một ngôi làng ở Tích Lan, có lẽ cũng chính là Koṭṭhasāra. Ras.ii.24.
 
 ## Notes

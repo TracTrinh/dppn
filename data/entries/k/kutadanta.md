@@ -5,7 +5,7 @@ base_headword: "Kūṭadanta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -33,6 +33,8 @@ The conversion of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một Bà-la-môn rất thông thái của Khānumata, ngôi làng đã được Vua Bimbisāra ban cho ông như một *brahmadeyya*. Đức Phật đã đến Khānumata khi Kūṭadanta đang chuẩn bị cho một buổi hiến tế lớn và, mong muốn buổi hiến tế này thành công, ông đã thỉnh giáo Đức Phật về việc tổ chức hiến tế. Đức Phật đã thuyết giảng cho ông bài kinh Kūṭadantasutta. Cuối bài thuyết pháp ông đã trở thành một *Sotāpanna* (DN.i.127ff).
+
+Việc cảm hóa Kūṭadanta được coi là một trong những thắng lợi tâm linh vĩ đại mà Đức Phật đã giành được (ví dụ, Ja.vi.329). Như một nhà tranh biện, Kūṭadanta được xếp cùng nhóm với Ambaṭṭhaka, Soṇadaṇḍa và Saccaka, ví dụ, MN­a.ii.697.
 
 ## Notes

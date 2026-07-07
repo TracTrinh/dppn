@@ -5,7 +5,7 @@ base_headword: "Kaṇhajātaka"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -38,6 +38,10 @@ The story was related to <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇhajātaka 02. (Ja 440). Câu chuyện về Kaṇhatāpasa. Ngài là con trai duy nhất của một Bà-la-môn ở Benares và đã thừa kế khối tài sản lớn; ngài được giáo dục tại Takkasilā. Khi cha mẹ ngài qua đời, ngài đã cho đi tất cả tài sản của mình và lui về Himālaya, nơi ngài thực hành lối khổ hạnh nghiêm ngặt, không bao giờ bước vào một ngôi làng nào, chỉ ăn sản vật của duy nhất một cái cây, và thậm chí không sống trong một túp lều nào. Ngài đã đạt được những quyền năng thần bí lớn lao, và ngai vàng của Sakka đã bị hun nóng bởi đức hạnh của ngài. Sakka đã đến thăm ngài và, sau khi thử thách ngài cũng như hỏi ngài những câu hỏi khác nhau, đã ban cho ngài sáu ân huệ. Vị đạo sĩ chỉ chọn những thứ liên quan đến cuộc sống xuất gia. Sakka đã ban lệnh rằng cái cây mà vị đạo sĩ đang sống dưới đó sẽ luôn ra trái quanh năm.
+
+Sakka trong câu chuyện là Anuruddha. Người ta nói rằng vị đạo sĩ được gọi là Kaṇha do nước da ngăm đen của ngài.
+
+Câu chuyện được kể cho Ānanda để giải thích về nụ cười của Đức Phật khi ngài đang đi ngang qua một địa điểm nhất định trong Nigrodhārāma ở Kapilavatthu; đó là nơi vị đạo sĩ Kaṇha từng thực hành những bài thiền định của mình. Ja.iv.6ff.
 
 ## Notes

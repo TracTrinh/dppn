@@ -5,7 +5,7 @@ base_headword: "Sumana"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sumana 02. Attendant of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumana 02. Vị thị giả của Padumuttara Buddha (Ja.i.37; Bv.xi.24). Sự xuất chúng của ông đã thúc đẩy Ānanda (là Sumana trong kiếp sống đó) quyết tâm trở thành một vị thị giả của một vị Phật tương lai nào đó. Thag­a.ii.122; xem thêm Ap.i.195.
 
 ## Notes

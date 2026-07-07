@@ -5,7 +5,7 @@ base_headword: "Sirijātaka"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -28,6 +28,8 @@ The story was told in reference to a Brahmin who tried to steal <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirijātaka (Ja 284). Bodhisatta từng là một vị khổ hạnh, có một người quản tượng làm thí chủ. Một người kiếm củi, đang ngủ đêm trong một ngôi đền, nghe thấy hai con gà trống, đậu trên một cây gần đó, mắng chửi nhau. Trong lúc cãi vã, một con gà trống khoe rằng ai ăn thịt nó sẽ làm vua; ai ăn phần da nó sẽ làm tổng tư lệnh hoặc hoàng hậu; ai ăn xương nó sẽ làm thủ quỹ hoàng gia hoặc tế sư. Người kia giết con gà và vợ ông nấu nó; rồi, mang nó theo, họ đi ra sông tắm. Họ để thịt và cơm trên bờ, nhưng, trong lúc họ tắm, một cơn gió đã thổi cái nồi đựng thức ăn xuống sông. Nó trôi theo dòng nước, và được người quản tượng vớt lên. Bodhisatta thấy hết chuyện này bằng thiên nhãn của mình và đến thăm người quản tượng vào giờ ăn. Tại đó Ngài được mời ăn thịt và đã chia phần, cho thịt cho người quản tượng, phần da cho vợ ông ta, còn xương thì Ngài giữ lại cho mình. Ba ngày sau, thành phố bị quân địch vây hãm. Nhà vua yêu cầu người quản tượng khoác hoàng bào và cưỡi voi, trong khi chính nhà vua ra trận chiến đấu trong hàng ngũ binh lính. Tại đó nhà vua bị tên bắn chết, và người quản tượng, sau khi thắng trận, được lập làm vua, vợ ông làm hoàng hậu, còn vị khổ hạnh làm tế sư.
+
+Câu chuyện được kể liên quan đến một người Bà-la-môn đã cố đánh cắp vận may (*siri*) của Anāthapiṇḍika. Ông ta nhận ra rằng vận may ấy nằm trong một con gà trống trắng, nên đã xin nó. Anāthapiṇḍika cho ông ta, nhưng vận may đã rời khỏi con gà và chuyển vào một viên ngọc. Ông ta xin luôn viên ngọc và cũng được cho. Nhưng vận may lại chuyển vào một cây gậy. Cây gậy cũng được xin, và Anāthapiṇḍika cho nó, rồi bảo người Bà-la-môn hãy lấy nó mà đi. Nhưng vận may giờ lại chuyển sang vợ của Anāthapiṇḍika. Người Bà-la-môn khi đó nhận thua, và thú nhận ý định của mình với Anāthapiṇḍika, người đã kể lại câu chuyện này cho Đức Phật. Ja.ii.409ff.; cf. Khadiraṅgārajātaka (Ja 40).
 
 ## Notes

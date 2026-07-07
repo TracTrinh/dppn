@@ -5,7 +5,7 @@ base_headword: "Veḷuvana"
 disambiguator: "05"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/066.html"
@@ -27,6 +27,6 @@ Veḷuvana 05. A monastery erected by <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Veḷuvana 05. Một tu viện do Parakkamabāhu I. xây dựng ở vùng ngoại ô Vijita thuộc Pulatthipura. Nó bao gồm ba ngôi nhà hình tượng, mỗi ngôi nhà cao ba tầng, một *Thūpa*, một hàng hiên, một *pāsāda* hai tầng, bốn cổng chính, bốn *pāsāda* dài, tám cái nhỏ, một phòng ăn, một sảnh thuyết pháp, bảy nhà sưởi ấm và mười hai nhà vệ sinh. Cv.lxxiii.152, lxxviii.87f.; xem thêm Cv.Trs.ii.113, n.1.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Parosatajātaka"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Parosatajātaka (Ja 101). This story is analogous in all respects to the <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parosatajātaka (Ja 101). Câu chuyện này tương tự về mọi mặt với Parosahassajātaka (Ja 99, *q.v.*).
 
 ## Notes

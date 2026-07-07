@@ -5,7 +5,7 @@ base_headword: "Maṅgalavīthi"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Maṅgalavīthi. A street in <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṅgalavīthi. Một con phố ở Mahā Gāma. Ras.ii.34
 
 ## Notes

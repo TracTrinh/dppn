@@ -5,7 +5,7 @@ base_headword: "Kohāla"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -26,6 +26,6 @@ Kohāla. A tank in Ceylon, built by <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kohāla. Một hồ nước ở Tích Lan, được xây dựng bởi Vasabha (Mhv.xxxv.95). Nó nằm gần Mahā Titthapaṭṭana (Mhv­ṭ.653).
 
 ## Notes

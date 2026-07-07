@@ -5,7 +5,7 @@ base_headword: "Uttara"
 disambiguator: "18"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Uttara 18. A banker, a very rich man of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttara 18. Một chủ ngân hàng, một người rất giàu có ở Sāvatthī. Ông có một người con trai, được gọi là Uttaraseṭṭhiputta, người mà câu chuyện của anh ta được đưa ra trong Vaṭṭakajātaka. Ja.i.432ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sigālakamātā Therī"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -34,6 +34,10 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sigālakamātā Therī. Bà thuộc một gia đình *seṭṭhi* ở Rājagaha và, sau khi kết hôn, có một người con trai tên là Sigālaka. Bà nghe Đức Phật thuyết pháp và gia nhập Saṅgha. Bà tràn đầy đức tin, và, mỗi khi đến nghe Đức Phật thuyết pháp, thường ngắm nhìn vẻ đẹp của Ngài. Đức Phật, nhận ra bản tính của bà, đã thuyết giảng sao cho đức tin của bà đạt đến chỗ viên mãn, và, theo thời gian, bà trở thành một *Arahant*. Sau đó bà được tuyên bố là vị đứng đầu trong số các tỳ-kheo-ni đã đạt giải thoát nhờ đức tin (*saddhādhimuttānaṁ*).
+
+Vào thời Padumuttara Buddha, bà thuộc một gia đình quan đại thần, và từng cùng cha đến nghe Đức Phật thuyết pháp. Tràn đầy đức tin, bà gia nhập Saṅgha, và, nghe một tỳ-kheo-ni được tuyên bố là bậc đứng đầu về đức tin, bà đã ước nguyện đạt được địa vị tương tự (AN.i.25; AN­a.i.206f).
+
+Theo Apadāna (Ap.ii.603f), bà là mẹ của Sigāla (Sigālaka), người mà Đức Phật đã thuyết giảng *Sutta* về việc lễ bái các phương hướng (rõ ràng là Sigālovādasutta). Bà nghe bài pháp và trở thành một *Sotāpanna*.
 
 ## Notes

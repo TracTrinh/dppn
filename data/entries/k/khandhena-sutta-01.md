@@ -5,7 +5,7 @@ base_headword: "Khandhena Sutta"
 disambiguator: "01"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -23,6 +23,6 @@ Khandhena Sutta 01. All the *khandhas* are impermanent. He who has faith in the 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khandhena Sutta 01. Tất cả các khandha đều là vô thường. Người nào có niềm tin vào giáo lý này thì là một saddhānusāri (người tùy tín hành); người nào đã thấu hiểu nó một cách vừa phải thì là một dhammānusāri (người tùy pháp hành); người nào liễu tri và nhìn thấy được giáo lý thì là một Sotāpanna. SN.iii.227f.
 
 ## Notes

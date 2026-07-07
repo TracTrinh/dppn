@@ -5,7 +5,7 @@ base_headword: "Sīhadvāra"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -25,6 +25,6 @@ Sīhadvāra. One of the fourteen gates of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhadvāra. Một trong mười bốn cổng của Pulatthipura. Cv.lxxiii.160.
 
 ## Notes

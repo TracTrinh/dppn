@@ -5,7 +5,7 @@ base_headword: "Khānu"
 disambiguator: "01"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -26,6 +26,6 @@ Khānu 01. A Tamil general whom <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khānu 01. Một vị tướng người Tamil đã bị Duṭṭhagāmaṇī đánh bại trong chiến dịch của mình. Đồn lũy của ông ta nằm ở Khānugāma. Mhv.xxv.14.
 
 ## Notes

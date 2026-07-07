@@ -5,7 +5,7 @@ base_headword: "Parihānasutta"
 disambiguator: "04"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -28,6 +28,6 @@ Parihānasutta 04. A conversation between <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parihānasutta 04. Cuộc trò chuyện giữa Ānanda và Bhadda tại Kukkuṭārāma ở Pāṭaliputta, liên quan đến sự suy đồi và không suy đồi. SN.v.173.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Pañcālacaṇḍī"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -33,6 +33,8 @@ Pañcālacaṇḍī. Daughter of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcālacaṇḍī. Con gái của Cūḷanī Brahmadatta. Cuộc hôn nhân của nàng với Vua Videha, được hoàn thành nhờ trí tuệ và tài ngoại giao của Mahosadha, tạo thành chủ đề chính của Mahā Ummaggajātaka. Nàng sinh cho Videha một người con trai, người đã kế vị ông mười năm sau cuộc hôn nhân.
+
+Pañcālacaṇḍī được đồng nhất với Sundarī (Nandā). Ja.vi.409, 410, 426, 427, 434, 438, 445, 453, 454; 466, 478.
 
 ## Notes

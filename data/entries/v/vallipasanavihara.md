@@ -5,7 +5,7 @@ base_headword: "Vallipāsāṇavihāra"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -28,6 +28,6 @@ Vallipāsāṇavihāra. A monastery to the west of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vallipāsāṇavihāra. Một tu viện nằm ở phía tây Anurādhapura, gần Maṅgalavitāna. Tu viện này bao gồm Indasālakalena, nơi Mahā Nāgasena từng sinh sống. Mhv­ṭ. 552.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sīva"
 disambiguator: "03"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -26,6 +26,6 @@ Sīva 03. King of Ceylon (522 CE.). He was the maternal uncle of <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīva 03. Vua Tích Lan (522 CE.). Ông là cậu của Kumāradhātusena, người mà ông đã giết để chiếm đoạt ngai vàng. Ông chỉ trị vì hai mươi lăm ngày, và bị Upatisssa giết chết. Cv.xli.1-5.
 
 ## Notes

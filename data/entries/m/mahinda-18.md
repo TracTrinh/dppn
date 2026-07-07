@@ -5,7 +5,7 @@ base_headword: "Mahinda"
 disambiguator: "18"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -36,6 +36,6 @@ Mahinda 18. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahinda 18. Con trai của Vikkamabāhu II. và là anh em trai của Gajabāhu. Ông đã chiến đấu chống lại *Deva*, vị tướng của Parakkamabāhu I. tại Hedillakhaṇḍagāma, nhưng đã bị đánh bại, và đã chạy trốn đến Billagāma. Từ đó ông đi đến Vallitittha, và lại một lần nữa bị đánh bại. Sau đó ông đã gia nhập với Māṇābharaṇa, và được ông ta cử đến Moravāpi, từ đó đến Anurādhapura, nơi ông đã đánh bại Mahā Lekharakkha và Bhaṇḍārapotthakī, những người đã hành quân chống lại ông. Từ Anurādhapura, Mahinda đã tiến đến *Kālavāpi* nơi mà, trong ba tháng, ông đã chiến đấu chống lại Bhaṇḍārapotthakī Bhūta, và cuối cùng đã bị đánh bại bởi ông ta. Đây là lần cuối cùng chúng ta nghe nói về ông. Cv.lxii.59; lxxii.46, 82, 123ff., 176ff., 191f., 198ff.
 
 ## Notes

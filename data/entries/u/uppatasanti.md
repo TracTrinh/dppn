@@ -5,7 +5,7 @@ base_headword: "Uppātasanti"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -24,6 +24,6 @@ Uppātasanti. A Pāli work written by an unknown Thera of Laos in the sixteenth 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uppātasanti. Một tác phẩm tiếng Pāli được viết bởi một Trưởng lão (Thera) vô danh xứ Lào vào thế kỷ mười sáu. Nó dường như đã đề cập đến các nghi thức hoặc bùa chú nhằm xua đuổi những điềm xấu hoặc những tai ương chung. Bode, 47, và n.5.
 
 ## Notes

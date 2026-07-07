@@ -5,7 +5,7 @@ base_headword: "Kusalāsutta"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -24,6 +24,6 @@ Kusalāsutta 01. Conditions which are on the side of goodness have their root in
 
 ## Vietnamese translation
 
-Chưa dịch.
+Các điều kiện thuộc về phần thiện đều bắt rễ từ sự không phóng dật (*appamāda*); vị tỳ-kheo không phóng dật trau dồi bảy *bojjhaṅga*. SN.v.91.
 
 ## Notes

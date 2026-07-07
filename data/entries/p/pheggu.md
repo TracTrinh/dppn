@@ -5,7 +5,7 @@ base_headword: "Pheggū"
 disambiguator: ""
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -25,6 +25,6 @@ Pheggū. A Therī of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pheggū. Một vị Therī (Trưởng lão ni) của Jambudīpa đã đến Tích Lan (Ceylon), nơi bà đã giảng dạy Vinaya. Dpv.xviii.12.
 
 ## Notes

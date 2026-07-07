@@ -5,7 +5,7 @@ base_headword: "Vasantaguhā"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vasantaguhā. A cave in the park of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một hang động trong khu vườn của Parakkamabāhu I. ở Pulatthipura. Cv.lxxiii.112.
 
 ## Notes

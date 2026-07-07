@@ -5,7 +5,7 @@ base_headword: "Vasabha"
 disambiguator: "04"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -24,6 +24,6 @@ Vasabha 04. One of the chief lay supporters of <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một trong những nam cư sĩ hộ độ chính của Nārada Buddha. Bv.x.25; Ja.i.37.
 
 ## Notes

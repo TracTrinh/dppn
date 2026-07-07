@@ -5,7 +5,7 @@ base_headword: "Pañcaverabhayasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Pañcaverabhayasutta. Preached at <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcaverabhayasutta. Được thuyết tại Jetavana cho Anāthapiṇḍika. Vị Thánh đệ tử thoát khỏi nỗi sợ hãi tội lỗi về năm phương diện: vị ấy biết rằng mình không phạm tội sát sinh, trộm cắp, tà dâm, nói dối, và sử dụng các chất say, và vị ấy không có nỗi sợ hãi về tội lỗi gắn liền với những điều này. Vị ấy cũng có niềm tin bất động vào Phật, Pháp và Tăng, và thấy được Thánh lý Duyên Khởi. Từ đó, vị ấy sinh khởi sự tự tin về điểm đến cuối cùng của mình. SN.ii.68ff.
 
 ## Notes

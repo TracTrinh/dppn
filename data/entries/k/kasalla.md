@@ -5,7 +5,7 @@ base_headword: "Kasālla"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kasālla. A tank in South Ceylon repaired by <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kasālla. Một cái hồ ở Nam Tích Lan được sửa chữa bởi Parakkamabāhu I. (Cv.lxviii.48) Một pháo đài mang tên này cũng được nhắc đến, nơi Gokaṇṇa đã bị đánh bại (Cv.lxx.72).
 
 ## Notes

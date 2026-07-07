@@ -5,7 +5,7 @@ base_headword: "Rohanta"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Rohanta 02. The Bodhisatta born as king of deer. See the <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rohanta 02. Bodhisatta sinh làm vua loài nai. Xem Rohantamigajātaka (Ja 501).
 
 ## Notes

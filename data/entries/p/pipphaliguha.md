@@ -5,7 +5,7 @@ base_headword: "Pipphaliguhā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -33,6 +33,8 @@ On another occasion, when <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pipphaliguhā. Một hang động gần Rājagaha, rõ ràng là một nơi thường lui tới yêu thích của Mahā Kassapa. Có lần khi ngài nằm bệnh nặng ở đó, Đức Phật đã đến thăm và an ủi ngài bằng cách nói với ngài về bảy giác chi (*bojjhaṅga*) (SN.v.79). Vào một dịp khác, Mahā Kassapa dành nhiều ngày ở đó trong *jhāna*, và khi kết thúc khoảng thời gian đó, ngài vào Rājagaha để khất thực, Sakka, cùng với Sujātā, đã đợi ngài trong bộ dạng của một người thợ dệt, và vợ ông đã dâng lên ngài một bữa ăn. Khi Kassapa phát hiện ra điều này, ngài đã yêu cầu Sakka không được làm như vậy nữa; nhưng Đức Phật đã nghe thấy bài hát chiến thắng của Sakka khi bữa ăn của ông được thọ nhận và Ngài đã khen ngợi ông vì sự cúng dường đó (Ud.iii.7; Ud­a.195f.; Dhp­a.i.427f.; xem thêm Ud.i.6).
+
+Vào một dịp khác, khi Kassapa đang ở Pipphaliguhā, ngài có hai sa-di đang hầu hạ ngài. Một người lười biếng và hay nói dối, và luôn giành công trạng trong công việc, mà thực chất tất cả đều do người kia làm. Kassapa quở trách người này, và sau đó anh ta đã châm lửa đốt chòi của vị Trưởng lão rồi bỏ chạy (Dhp­a.ii.19f). Một ngày nọ, khi Kassapa đang ngồi trong Pipphaliguhā, ngài cố gắng quán chiếu sự sinh diệt của chúng sinh, nhưng Đức Phật khuyên ngài không nên làm thế, nói rằng nhiệm vụ như vậy vượt quá khả năng của ngài (Dhp­a.i.258f). Thiên nữ Lājā (*q.v.*), người được sinh vào cõi Tāvatiṁsa như một phần thưởng cho bữa ăn mà bà đã từng dâng cúng cho Kassapa, đã cố gắng quét dọn liêu phòng của ngài trong Pipphaliguhā và chăm sóc nó, nhưng Kassapa đã từ chối sự phục vụ của bà. Dhp­a.iii.6ff.
 
 ## Notes

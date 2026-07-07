@@ -5,7 +5,7 @@ base_headword: "Kassapa"
 disambiguator: "23"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -27,6 +27,6 @@ Kassapa 23. A prince of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapa 23. Một vị vương tử của Jambudīpa, người đã gửi những món quà đắt giá cho vua nước Rāmañña trong triều đại của Parakkamabāhu I nước Tích Lan; nhà vua nước Rāmañña cấm các sứ giả lên bờ và lăng mạ họ. Đây được cho là một trong những hành động khiến Parakkamabāhu phải phái một đoàn viễn chinh tấn công Rāmañña. Cv.lxxvi.28f.
 
 ## Notes

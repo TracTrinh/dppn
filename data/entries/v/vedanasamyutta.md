@@ -5,7 +5,7 @@ base_headword: "Vedanāsaṁyutta"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vedanāsaṁyutta. The thirty-sixth section of the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vedanāsaṁyutta. Phần thứ ba mươi sáu của Saṁyuttanikāya. SN.iv.204-37.
 
 ## Notes

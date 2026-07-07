@@ -5,7 +5,7 @@ base_headword: "Upasanta"
 disambiguator: "03"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,6 @@ Upasanta 03. (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upasanta 03. (Upasantaka, Upasaññaka). Người thị giả của Đức Phật Vessabhū (DN.ii.6; Bv.xxii.23; Ja.i.42). Ông là vua của thành phố Nārivāhana và đã được Đức Phật hóa độ, mang theo ông một đoàn tùy tùng đông đảo. Bv­a.206.
 
 ## Notes

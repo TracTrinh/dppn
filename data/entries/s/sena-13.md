@@ -5,7 +5,7 @@ base_headword: "Sena"
 disambiguator: "13"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Sena 13. Elder brother of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sena 13. Anh trai của Jotika, khi vị này sinh ra là Aparājita. Ông xuất gia vào Tăng đoàn dưới thời Vipassī Buddha và trở thành một *Arahant*. Dhp­a.iv.201f.
 
 ## Notes

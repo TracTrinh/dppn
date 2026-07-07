@@ -5,7 +5,7 @@ base_headword: "Sirivijayarājasīha"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -32,6 +32,6 @@ Sirivijayarājasīha. King of Ceylon (1739-47 CE.). He was <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirivijayarājasīha. Vua Tích Lan (1739-47 CE.). Ông là anh rể của Narindasīhā và kế vị vị ấy. Các vương phi của ông đến từ Madhurā và ông trị vì tại Sirivaḍḍhanapura. Ông rất kính trọng Saraṇaṅkara *Sāmaṇera* (xem từ này), và mời vị ấy viết một bộ chú giải về Catubhāṇavāra. Ông đã tổ chức một đại lễ để tôn vinh Xá-lợi Răng, dựng các pho tượng tại Alokalena, và với sự giúp đỡ của người Olandā (Hà Lan), ông đã gửi một phái đoàn đến Xiêm (Sāminda) để rước các vị tăng từ Ayojjhā, nhưng qua đời trước khi họ đến nơi. Cv.xcviii.2ff.
 
 ## Notes

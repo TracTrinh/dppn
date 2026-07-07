@@ -5,7 +5,7 @@ base_headword: "Mahinda"
 disambiguator: "13"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -34,6 +34,6 @@ Mahinda 13. Son of the *Ādipāda* <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahinda 13. Con trai của *Ādipāda* Kassapa và là anh em trai của Sena II. Ông đã kết hôn với Tissā và Kittī. Ông đã trở thành phó vương dưới quyền của Sena II. và cai trị ở Dakkhiṇadesa. Sau đó ông đã bị phát hiện là có tội về một âm mưu ở trong hậu cung của nhà vua, và đã bỏ trốn, không được ai nhận ra, cùng với gia đình mình, đến Malaya. Tuy nhiên, sau đó ông đã giành lại được những tước vị danh dự của mình và tiếp tục làm phó vương, con gái của ông là Saṅghā được gả cho Kassapa, con trai của Sena II. Mahinda đã xây dựng một ngôi đền dưới cây Bodhi, và, trong quá trình xây dựng của nó, một người thợ đã phát hiện ra rằng một trong những cái dầm nhà sẽ làm tổn hại đến một nhánh của cái cây. Mahinda, khi được báo cáo về điều này, đã đến và thực hiện một *saccakiriyā*, mà như là một kết quả của nó thì nhánh của cái cây đã tự duỗi thẳng ra trong đêm, để cho tòa nhà được tự do. Mahinda cũng đã xây dựng *pariveṇa* Mahindasena, và đã qua đời vào năm thứ hai mươi ba trong triều đại của Sena (Cv.l.59; li.7, 13, 15ff., 53ff). *Ādipāda* Kittaggabodhi là con trai của ông. Cv.l.94.
 
 ## Notes

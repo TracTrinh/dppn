@@ -5,7 +5,7 @@ base_headword: "Pāpasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -24,6 +24,6 @@ Pāpasutta. The wicked man is he who takes life, steals, etc., and is of malicio
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāpasutta. Kẻ ác là kẻ sát sinh, trộm cắp, v.v., và có tâm hiểm độc; còn ác hơn kẻ ác là kẻ khuyến khích người khác làm những điều này. Đối với người tốt và người tốt hơn người tốt cũng tương tự như vậy. AN.ii.222f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Uragapura"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -29,6 +29,8 @@ Uragapura. The residence of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uragapura. Nơi cư ngụ của Buddhadatta, tác giả của Jinālaṅkāra và một vài cuốn sách khác.
+
+Uragapura có lẽ nằm ở Nam Ấn Độ trên bờ sông Kāveri. PLC.106f.
 
 ## Notes

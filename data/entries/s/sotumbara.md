@@ -5,7 +5,7 @@ base_headword: "Sotumbarā"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Sotumbarā. A river on whose banks buffaloes live. Ja.vi.507.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sotumbarā. Một con sông mà trên bờ của nó có bầy trâu sinh sống. Ja.vi.507.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Pañcasikha"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -68,6 +68,20 @@ It was <span class="dppn-term dppn-term-t14" data-dppn-term-pos="44" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcasikha. Một vị Gandhabba. Nhạc cụ yêu thích của vị ấy là Beluvapaṇḍuvīnā (*q.v.*). Vị ấy được coi là một người được Đức Phật yêu mến (DN­a.iii.699), và khi Sakka đến thăm Đức Phật tại Indasālaguhā để hỏi Ngài một số câu hỏi, Pañcasikha đã được phái đi trước để xin phép cho cuộc phỏng vấn. Tình tiết này được kể chi tiết trong kinh Sakkapañhasutta (DN.ii.263ff.).
+
+Pañcasikha tiến đến gần Đức Phật và vừa chơi cây đàn *vinā* của mình, vừa hát về vẻ đẹp của Đức Phật, Pháp (Dhamma), các bậc Arahant và Tình Yêu. Các câu kệ thực sự tạo thành một bài thơ tình gửi cho người mình yêu, nàng Bhaddā Suriyavaccasā, con gái của Gandhabba Timbarū. Đức Phật khen ngợi âm nhạc và bài hát của vị ấy và hỏi vị ấy về bài thơ. Vị ấy thú nhận rằng khi Đức Phật đang ngự dưới cây Ajapālanirgodha, trước khi Giác ngộ, ông (Pañcasikha) đã gặp nàng Suriyavaccasā đang cùng cha đi múa trước mặt Sakka. Pañcasikha liền phải lòng nàng; nhưng nàng lại thiên vị lời cầu hôn của Sikhaṇḍi, con trai của Mātali. Pañcasikha sau đó đã sáng tác một bài hát và hát cho nàng nghe. Nàng rất hài lòng với những chi tiết đề cập trong bài hát về vị ẩn sĩ Sākyan mà nàng đã từng nghe nói đến khi đến Sudhammāsabhā (trong dịp này, Sakka, đã đọc lời ca ngợi Đức Phật gồm 8 phần của mình, điều có trong kinh Mahā Govindasutta, theo lời Buddhaghosa, DN­a.ii.704), và nàng đã đồng ý kết hôn với Pañcasikha. Người ta nói rằng Sakka đã ban phước cho cuộc hôn nhân này để đền đáp việc Pañcasikha đã thay mặt mình can thiệp với Đức Phật.
+
+Trong kinh Janavasabhasutta (DN.ii.211; cũng có trong kinh Mahā Govindasutta, DN.ii.230), có nói rằng khi Phạm thiên Sanaṅkumāra xuất hiện trước hội chúng chư thiên cõi Tāvatiṁsa và thị hiện hình tướng, vị ấy đã mang hình dáng của Pañcasikha. Buddhaghosa nói (DN­a.ii.640), như một cách giải thích, rằng tất cả chư thiên đều yêu mến Pañcasikha và muốn được giống như vị ấy. Trong kinh Mahā Govindasutta, Pañcasikha được miêu tả như là người truyền đạt đến Đức Phật một báo cáo đầy đủ về những sự việc xảy ra trong hội chúng chư thiên, khi Sakka nói những lời ca ngợi Đức Phật (DN.i.220; so sánh Mvu.iii.197ff).
+
+Không có lời giải thích nào thực sự thỏa đáng được tìm thấy trong các Chú giải về tên gọi của Pañcasikha. Buddhaghosa nói (DN­a.ii.647) *Pañcasikho ti pañcacūḷo, pañcakuṇḍaliko*, và tiếp tục nói rằng Pañcasikha từng sinh ra làm người, và trong khi vẫn còn là một cậu bé với mái tóc buộc thành năm chỏm (*pañcacūḷakadārakakāle*), ông đã trở thành thủ lĩnh của những người chăn bê.
+
+Điều này thậm chí vẫn được thực hiện cho đến nay ở Tích Lan, nơi tóc của các cậu bé được buộc quanh đầu thành nhiều chỏm. Nhưng ở một chỗ, Buddhaghosa nói rằng một cách để lăng mạ một người là cạo đầu người đó, chừa lại cho anh ta năm lọn tóc (*garahāyā ti pañcasikhā muṇḍakaraṇaṁ*) (DN­a.i.296). Và một lần nữa, ngài đề cập rằng Sanaṅkumāra vẫn giữ được tuổi trẻ vĩnh cửu vì trong một kiếp quá khứ, ông đã phát triển *jhāna* khi vẫn còn là một cậu bé (*pañcasikhakumārakāle*) (SN­a.i.171). Xem thêm Ja.vi.496, nơi một kẻ phản quốc bị buộc tóc thành năm chỏm như một dấu hiệu của sự ô nhục.
+
+Cùng với các cậu bé khác, ông đã tham gia vào các công trình tiện ích công cộng, như sửa đường, đào giếng, xây nhà nghỉ, v.v., và ông đã qua đời khi còn trẻ. Ông tái sinh vào cõi Cātummahārājika, với định mệnh sống thọ chín mươi nghìn năm, cơ thể của ông cao ba *gāvuta*. Ông đeo trên người một trăm xe bò đồ trang sức và xoa chín hũ hương thơm lên cơ thể. Ông mặc áo choàng đỏ, và trên đầu đội một vòng hoa bằng vàng đỏ, quanh đó tóc của ông được sắp xếp thành năm lọn (*kuntalikehi*), xõa xuống phía sau giống như trường hợp của một cậu bé trẻ tuổi (*pañcacūḷikadārakaparihāren’eva*).
+
+Chính Pañcasikha là người đầu tiên nhận từ vị vua của cõi Cātummahārājika và các bộ trưởng của họ những báo cáo về những việc làm tốt của con người. Những báo cáo này, ông sẽ truyền lại cho Mātali, người đến lượt mình, lại trình bày chúng với Sakka (DN­a.ii.650). Vào ngày Devorohaṇa, khi Đức Phật hạ giới từ cõi Tāvatiṁsa, Pañcasikha đã có mặt để tôn vinh Bậc Đạo Sư bằng bài hát và âm nhạc (Dhp­a.iii.225; AN­a.i.72; Vsm.392). Theo các truyền thuyết, ông cũng đã có mặt với Đức Phật trong những dịp khác (ví dụ, Mhv.xxx.75; xxxi.82).
+
+Pañcasikha hiển nhiên không chỉ là tên của một người, mà còn là tên của một chức vụ (giống như Sakka), vì trong Biḷārikosiyajātaka (Ja 450, *q.v.*) Ānanda được cho là đã sinh ra làm Pañcasikha và đã giúp Sakka và những người khác để biến Bīlārakosiya thành một người hào phóng (Ja.iv.69). Tương tự, trong Sudhābhojanajātaka (Ja 535, *q.v.*), Anuruddha được đồng nhất với Pañcasikha. Ja.v.412.
 
 ## Notes

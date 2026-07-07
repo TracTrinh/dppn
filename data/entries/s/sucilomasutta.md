@@ -5,7 +5,7 @@ base_headword: "Sucilomasutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sucilomasutta. Describes the visit of the Buddha to <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sucilomasutta. Mô tả về chuyến viếng thăm của Đức Phật đến chỗ ở của Suciloma. SN.i.207f.; Snp.p.47f.
 
 ## Notes

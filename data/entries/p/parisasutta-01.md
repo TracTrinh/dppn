@@ -5,7 +5,7 @@ base_headword: "Parisāsutta"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Parisāsutta 01. The four corrupters of a company: a monk, a nun, a male discipl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parisāsutta 01. Bốn kẻ làm bại hoại một hội chúng: một tỳ-kheo, một tỳ-kheo-ni, một nam đệ tử và một nữ đệ tử, nếu họ là những người vô đạo đức. AN.ii.225.
 
 ## Notes

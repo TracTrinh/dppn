@@ -5,7 +5,7 @@ base_headword: "Paṭṭhānappakaraṇa"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Paṭṭhānappakaraṇa. The last “book” of the <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṭṭhānappakaraṇa. “Cuốn sách” cuối cùng của Abhidhammapiṭaka. Nó có thể được mô tả như cuốn sách về các “nhân duyên”, và bàn về hai mươi tư *paccaya* hay những phương thức của các mối quan hệ giữa các pháp, thuộc tinh thần và vật chất. Bản Chú giải của nó được viết bởi Buddhaghosa theo lời thỉnh cầu của một vị tỳ-kheo tên là Cūḷa Buddhaghosa.
 
 ## Notes

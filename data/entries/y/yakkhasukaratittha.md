@@ -5,7 +5,7 @@ base_headword: "Yakkhasūkaratittha"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -25,6 +25,6 @@ Yakkhasūkaratittha. A ford on the <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yakkhasūkaratittha. Một bến sông trên sông Mahā Vālukagaṅgā. Cv.lxxii.21; Cv.Trs.i.321, n.1.
 
 ## Notes

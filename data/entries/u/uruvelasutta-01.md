@@ -5,7 +5,7 @@ base_headword: "Uruvelasutta"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -27,6 +27,6 @@ Uruvelasutta 01. Preached at <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uruvelasutta 01. Được thuyết giảng tại Jetavana. Đức Phật nói với các tỳ-kheo về việc làm thế nào, khi ngài đang ở tại Uruvelā, dưới cây Ajapāla, ngài đã nhận ra rằng trên thế giới không có một ai xứng đáng để làm bậc đạo sư của ngài. Do đó ngài quyết định quy thuận và phục vụ Pháp (Dhamma). Sahampati xuất hiện và nói với ngài rằng đó cũng đã từng là phong tục của chư Phật trong quá khứ (AN.ii.20f).
 
 ## Notes

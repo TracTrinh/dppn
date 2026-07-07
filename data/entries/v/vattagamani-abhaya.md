@@ -5,7 +5,7 @@ base_headword: "Vaṭṭagāmaṇī Abhaya"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -69,6 +69,16 @@ It was in the reign of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vua của Ceylon (29-17 B.C.). Ông là con trai của Saddhātissa, và lên ngôi sau khi giết chết kẻ tiếm quyền Mahā Rattaka (*v.l.* Kammahārattaka).
+
+Ông kết hôn với Anulā, vợ của Khallāṭanāga, và nhận nuôi Mahā Cūḷika làm con trai của chính mình; vì điều này Vaṭṭagāmaṇī được biết đến với tên gọi Pitirājā (tên này xuất hiện vài lần trong các Bản chú giải – ví dụ, Vibh­a. *passim*, xem Pitirājā).
+
+Vaṭṭagāmaṇī có một người vợ thứ hai, Somadevī, và cũng có một người con trai của chính mình, tên là Coranāga. Vào tháng thứ năm trong triều đại của ông, một Bà-la-môn, tên là Tissa, đã nổi dậy chống lại ông, nhưng đã bị đánh bại bởi bảy người Damiḷa đã đổ bộ tại Mahā Tittha. Sau đó, những người Damiḷa tiến hành chiến tranh chống lại nhà vua và đánh bại ông tại Kolambālaka. Chính một lời nhận xét được đưa ra bởi *Nigaṇṭha* Giri đối với Vaṭṭagāminī, khi ông chạy trốn khỏi trận chiến, đã dẫn đến việc thành lập Abhayagiri (*q.v.*) sau này. Nhà vua trốn trong rừng ở Vessagiri và được cứu bởi *Kupikkala* Mahā Tissa, người đã giao ông cho Tanasīva chăm sóc. Trong lúc chạy trốn của mình, ông đã bỏ lại Somadevī, và bà đã bị những người Damiḷa bắt giữ.
+
+Trong mười bốn năm, Vaṭṭagāmaṇī và hoàng hậu Anulā của mình đã sống dưới sự bảo vệ của Tanasīva, và, trong suốt khoảng thời gian này, năm người Damiḷa đã lần lượt cai trị tại Anurādhapura; họ là Pulahattha, Bāhiya, Panayamāra, Pilayamāra và Dāṭhika.
+
+Sau một thời gian, Anulā đã cãi vã với vợ của Tanasīva, và nhà vua, trong sự tức giận của mình, đã giết chết Tanasīva. Sau đó, khi ông cũng giết chết Kapisīsa, các đại thần của ông đã rời bỏ ông trong sự chán ghét, nhưng đã được Mahā Tissa thuyết phục quay trở lại. Khi những sự chuẩn bị của mình đã hoàn tất, nhà vua tấn công Dāṭhika, giết chết ông ta, và chiếm lấy ngai vàng. Sau đó ông thành lập Abhayagirivihāra và giành lại Somadevī. Ông cũng xây dựng Silāsobbhakaṇḍakacetiya. Ông có bảy quan đại thần, bản thân những người này đã xây dựng một vài *vihāra*; trong số đó Uttiya, Mūla, Sāliya, Pabbata và Tissa được nhắc đến tên.
+
+Theo truyền thống, Kinh điển Phật giáo và các Bản chú giải của nó đã được ghi chép lại lần đầu tiên tại Ceylon vào triều đại của Vaṭṭagāmaṇī, tại Ālokavihāra. Để biết chi tiết về triều đại của Vaṭṭagāmaṇī, xem Dpv.xx.14ff.; Mhv.xxxiii.34ff. Sự thành lập Abhayagirivihāra đã tạo thành sự khởi đầu của những bất đồng trong hàng ngũ các tu sĩ (Cv.lxxiii.18). Tuy nhiên, Vaṭṭagāmaṇī đã được các thế hệ sau này xem như một người bảo vệ vĩ đại của đức tin (Cv.lxxxii.23). Nhiều tu viện khác nhau, chủ yếu là các ngôi đền trong hang đá, theo truyền thống được quy cho Vaṭṭagāmaṇī, và được cho là do ông xây dựng trong thời gian lưu đày; trong số này có *vihāra* Dambulla thời hiện đại. Cūḷa Vaṁsa gọi ông là người thành lập Majjhavelavihāra. Cv.c.229.
 
 ## Notes

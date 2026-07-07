@@ -5,7 +5,7 @@ base_headword: "Karoṭi"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -31,6 +31,6 @@ Karoṭi. A class of spirits, associated with the <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Karoṭi. Một nhóm các linh hồn, có liên kết với những Nāga và tạo thành một trong năm tuyến phòng thủ của những Deva chống lại các Asura. Chú giải Jātaka nói rằng Karoti là tên gọi của những Supaṇṇa (một loài Garuḍa), và chúng được gọi như vậy là vì thức ăn và đồ uống của chúng được gọi là Karoti (*tesaṁ karoti nāma pānabhojanaṁ*). Ja.i.204; cp. *Karoṭapānayah*, được đưa ra như là tên của một nhóm *Yakṣa* (Mvu.i.30, 394); cũng Divy.218.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Vana"
 disambiguator: "01"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -27,6 +27,6 @@ Mahā Vana 01. A wood near <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Vana 01. Một khu rừng ở gần Vesālī. Nó là một nửa tự nhiên, một nửa do con người tạo ra, và kéo dài cho đến Himālaya (MN­a.i.298; DN­a.i.309). Xem Kūṭāgārasālā.
 
 ## Notes

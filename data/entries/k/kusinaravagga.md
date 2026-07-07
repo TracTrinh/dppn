@@ -5,7 +5,7 @@ base_headword: "Kusinārāvagga"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kusinārāvagga. The thirteenth chapter of the *Tikanipāta* of the <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chương thứ mười ba của *Tikanipāta* thuộc Aṅguttaranikāya. AN.i.274-84; để xem tóm tắt nội dung của nó hãy xem AN.v.381.
 
 ## Notes

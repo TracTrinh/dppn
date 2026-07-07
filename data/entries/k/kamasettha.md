@@ -5,7 +5,7 @@ base_headword: "Kāmaseṭṭha"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -28,6 +28,8 @@ In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāmaseṭṭha. Một trong những đại Yakkha cần được cầu khẩn nếu bất kỳ đồ đệ nào của Đức Phật bị một ác linh quấy rối (DN.iii.204).
+
+Trong Mahā Samayasutta (DN.ii.258), vị này được nhắc đến trong số các chư hầu của Tứ Đại Thiên Vương — thông thạo thủ đoạn, lừa gạt các phù thủy, khéo léo trong việc giả đò.
 
 ## Notes

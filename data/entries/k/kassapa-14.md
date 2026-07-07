@@ -5,7 +5,7 @@ base_headword: "Kassapa"
 disambiguator: "14"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -36,6 +36,8 @@ His children all being young at the time of his death, he entrusted the governme
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapa 14. Em trai của Aggabodhi III; ông được lập làm phó vương khi Māna bị giết (Cv.xliv.123f). Khi Aggabodhi giành lại vương quốc từ kẻ soán ngôi Dāṭhopatissa, điều mà ông chỉ làm được sau nhiều lần thăng trầm, Kassapa đã lạm dụng thế lực của mình và cướp bóc nhiều công trình thiêng liêng để chu cấp cho quân đội của mình (Cv.xliv.137f). Khi Aggabodhi qua đời trong lúc lưu vong ở Rohaṇa, Kassapa đã đánh bại Dāṭhopatissa, người đang tranh giành ngai vàng, và trở thành vua thay thế (vị trí đó) (Kassapa II. 641-50). Tuy nhiên, ông không đội vương miện, có lẽ vì các vương quyền đã bị đánh cắp. Khi làm vua, ông đã ăn năn về những tội lỗi trước đây của mình và làm nhiều việc thiện (Cv.xliv.147ff; xlv.1ff). Ông đặc biệt tôn kính Trưởng lão Mahā Dhammakathī ở Nāgasālā và Trưởng lão ở Katandhakāra.
+
+Vì tất cả các con của ông đều còn nhỏ vào thời điểm ông qua đời, ông đã giao lại việc triều chính cho con trai của em gái mình là Māna (Cv.xlv.8). Theo các biên niên sử, Māṇavamma là con trai của Kassapa (Cv.xlvii.2). Ông cũng có một người con trai tên là Māna (Cv.lvii.4).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kakkaṭa"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -33,6 +33,6 @@ Kakkaṭa 01. An eminent monk mentioned, with <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kakkaṭa 01. Một vị tỳ-kheo xuất chúng được đề cập đến, cùng với Cāla, Upacāla, Kalimbha, Nikaṭa và Kaṭissaha, đang ở cùng Đức Phật tại Kūṭāgārasālā ở Vesālī. Khi những người Licchavī bắt đầu đến đó để đảnh lễ Đức Phật, các tỳ-kheo, vì mong muốn sự yên tĩnh, đã đi vào những khu rừng gần đó, chẳng hạn như Gosiṅgasālavana. AN.v.133f.
 
 ## Notes

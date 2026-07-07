@@ -5,7 +5,7 @@ base_headword: "Pāsāṇapabbata"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -27,6 +27,6 @@ Pāsāṇapabbata. A hill near <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāsāṇapabbata. Một ngọn đồi gần Anurādhapura, ở phía bắc của Nīcasusāna, do Paṇḍukābhaya quy hoạch. Mhv.x.35.
 
 ## Notes

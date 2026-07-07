@@ -5,7 +5,7 @@ base_headword: "Paṇḍita"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Paṇḍita 01. The Bodhisatta born as a merchant. See the <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇḍita 01. Bodhisatta sinh ra làm một thương nhân. Xem Kūṭavāṇijajātaka (Ja 98).
 
 ## Notes

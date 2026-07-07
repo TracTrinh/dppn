@@ -5,7 +5,7 @@ base_headword: "Kāṇamātā"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -26,6 +26,6 @@ Kāṇamātā. A pious lay woman of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāṇamātā. Một nữ cư sĩ sùng đạo ở Sāvatthī, mẹ của Kāṇā (*xem bài này*).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Seniya"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -28,6 +28,6 @@ Seniya 02. The personal name, according to <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Seniya 02. Theo Buddhaghosa, đây là tên riêng của vua Bimbisāra, người hầu như luôn được gọi là Seniya Bimbisāra (MN­a.i.292; nhưng xem Snp­a.ii.448, *mahatiyā senāya samannāgatattā*). Tuy nhiên, Dhammapāla nói (Ud­a.104) rằng Bimbisāra được gọi là Seniya hoặc vì ông có một đạo quân lớn, hoặc vì ông thuộc *gotta* Seniya (*mahatiyā senāya samannāgātatta vā Seniyagottatā vā*).
 
 ## Notes

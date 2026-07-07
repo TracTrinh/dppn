@@ -5,7 +5,7 @@ base_headword: "Sukhindriyavagga"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sukhindriyavagga or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sukhindriyavagga hoặc Uppaṭivagga. Phẩm thứ tư của Indriyasaṁyutta. SN.v.207-16.
 
 ## Notes

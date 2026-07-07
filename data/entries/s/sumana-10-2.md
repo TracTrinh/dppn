@@ -5,7 +5,7 @@ base_headword: "Sumanā"
 disambiguator: "10"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sumanā 10. An *Aggasāvikā* of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumanā 10. Một vị *Aggasāvikā* của Metteyya Buddha. Anāg.vs.98.
 
 ## Notes

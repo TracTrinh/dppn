@@ -5,7 +5,7 @@ base_headword: "Tālaphaliya Thera"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,6 @@ Tālaphaliya Thera. An *Arahant*. Ninety-four *kappas* ago he saw the <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tālaphaliya Thera. Một Arahant. Cách đây chín mươi tư kappa, ngài đã gặp Pacceka Buddha Sataraṁsī và dâng ngài một quả cọ (Ap.ii.447). Ngài có lẽ cũng chính là Sambula Kaccāyana. Thag­a.i.314.
 
 ## Notes

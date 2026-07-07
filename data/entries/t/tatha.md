@@ -5,7 +5,7 @@ base_headword: "Tatha"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Tatha. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tatha. Một Pacceka Buddha. MN.iii.69; Ap­a.i.106.
 
 ## Notes

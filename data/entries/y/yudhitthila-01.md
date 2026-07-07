@@ -5,7 +5,7 @@ base_headword: "Yudhiṭṭhila"
 disambiguator: "01"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -26,6 +26,6 @@ Yudhiṭṭhila 01. Son of the <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yudhiṭṭhila 01. Con trai của vua Paṇḍu và là một trong năm người chồng của Kaṇhā. Ja.v.424, 426.
 
 ## Notes

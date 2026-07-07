@@ -5,7 +5,7 @@ base_headword: "Kaṭāhaka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kaṭāhaka. The son of a female slave of the Bodhisatta when he was a rich trea
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṭāhaka. Con trai của một nữ tỳ của Bodhisatta khi ngài còn là một vị trưởng giả giàu có ở Benares. Để biết câu chuyện của người này, xem Kaṭāhakajātaka (Ja 125).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Khema"
 disambiguator: "03"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -26,6 +26,6 @@ Khema 03. The city in which <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khema 03. Thành phố nơi Kakusandha Buddha đản sanh (Ja.i.42; Bv.xxiii.13 gọi thành phố này là Khemavatī). Nó là thủ đô của vua Khemaṅkara. Xem thêm Số 6 bên dưới. Cũng xem Divy.242.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Khuddakanikāya"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -93,6 +93,48 @@ According to Burmese tradition four other later books are added to this list: <s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khuddakanikāya. Đôi khi được gọi là Khuddakagantha DN-a.i.16.. Phần thứ năm và cũng là phần cuối cùng của Suttapiṭaka.
+
+Nó bao gồm mười lăm bộ tác phẩm độc lập, một số thuộc về thời kỳ đầu, trong khi những bộ khác có thể được xếp vào tầng sau của Kinh tạng Pāli. Phần *Nikāya* này được sáng tác chủ yếu bằng thơ kệ, và chứa đựng tất cả các tập thơ Pāli quan trọng nhất.
+
+Mười lăm bộ sách đó là:
+
+(1) Khuddakapāṭha
+
+(2) Dhammapada
+
+(3) Udāna
+
+(4) Itivuttaka
+
+(5) Suttanipāta
+
+(6) Vimānavatthu
+
+(7) Petavatthu
+
+(8) Theragāthā
+
+(9) Therīgāthā
+
+(10) Jātaka
+
+(11) Niddesa (Mahā Niddesa và Cūḷa Niddesa)
+
+(12) Paṭisambhidāmagga
+
+(13) Apadāna
+
+(14) Buddhavaṁsa
+
+(15) Cariyāpiṭaka (Vin-a.i.18; DN­a.i.17).
+
+Theo một cách phân loại khác, toàn bộ Vinayapiṭaka và Abhidhammapiṭaka cùng tất cả những lời dạy của Đức Phật, không nằm trong bốn *Nikāya* còn lại, được xem là hình thành nên Khuddakanikāya (DN­a.i.23; Vin-a.i.27).
+
+Các *Dīghabhāṇaka* từ chối chấp nhận tính xác thực của Khuddakapāṭha, Cariyāpiṭaka, và Apadāna, và xếp các cuốn sách khác làm một phần của Abhidhammapiṭaka.
+
+Các *Majjhimabhāṇaka* không chấp nhận Khuddakapāṭha nhưng thừa nhận phần còn lại, và xếp chúng vào Suttapiṭaka (DN­a.i.15).
+
+Theo truyền thống Miến Điện, bốn cuốn sách ra đời muộn hơn được thêm vào danh sách này: Milindapañha, Suttasaṅgaha, Peṭakopadesa, và Nettippakaraṇa. Bode, 4.
 
 ## Notes

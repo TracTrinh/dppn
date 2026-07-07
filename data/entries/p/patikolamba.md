@@ -5,7 +5,7 @@ base_headword: "Patikolamba"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Patikolamba. A cook. He refused to listen to <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Patikolamba. Một người đầu bếp. Ông đã từ chối nghe lời của Sattigumba, người đã đề nghị giết vị vua Pañcāla (Ja.iv.431f.). Xem Sattigumbajātaka.
 
 ## Notes

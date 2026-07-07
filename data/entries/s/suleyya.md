@@ -5,7 +5,7 @@ base_headword: "Suleyyā"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Suleyyā. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suleyyā. Một tầng lớp Deva có mặt tại buổi thuyết giảng Mahā Samayasutta. DN.ii.260.
 
 ## Notes

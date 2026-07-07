@@ -5,7 +5,7 @@ base_headword: "Mahindatalāka"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Mahindatalāka. A tank built by <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahindatalāka. Một hồ chứa nước được xây bởi Parakkamabāhu I. (Cv.lxxix. 28). Nó có lẽ chính là Mahindataṭa (ở trên), trong trường hợp đó thì nhà vua chỉ thuần túy là khôi phục lại nó.
 
 ## Notes

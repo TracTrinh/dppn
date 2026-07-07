@@ -5,7 +5,7 @@ base_headword: "Kumbhīlasobbha"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kumbhīlasobbha. A tank restored by <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một hồ chứa nước được Vijayabāhu I phục hồi (Cv.lx.50), và sau đó được Parakkamabāhu I phục hồi. Cv.lxxix.33.
 
 ## Notes

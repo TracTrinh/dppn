@@ -5,7 +5,7 @@ base_headword: "Vessabhū"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/066.html"
@@ -27,6 +27,6 @@ Vessabhū 02. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vessabhū 02. Vua của xứ Avanti vào thời của Reṇu. Thủ đô của ông là Māhissatī. DN.ii.236.
 
 ## Notes

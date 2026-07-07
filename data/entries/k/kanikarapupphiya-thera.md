@@ -5,7 +5,7 @@ base_headword: "Kaṇikārapupphiya Thera"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -28,6 +28,6 @@ Kaṇikārapupphiya Thera. An *Arahant*. Ninety-two *kappas* ago he saw <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇikārapupphiya Thera. Một vị Arahant. Chín mươi hai *kappa* trước, ngài đã nhìn thấy Tissa Buddha và dâng lên cho ngài một bông hoa *kaṇikāra*. Ba mươi lăm *kappa* trước, ngài từng là một vị vua tên là Aruṇapāla (*cách đọc khác:* Aruṇabala) (Ap.i.203). Ngài có lẽ là đồng nhất với Ujjaya Thera. Thag­a.i.118f.
 
 ## Notes

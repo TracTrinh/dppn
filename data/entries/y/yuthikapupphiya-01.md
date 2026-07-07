@@ -5,7 +5,7 @@ base_headword: "Yūthikapupphiya"
 disambiguator: "01"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -28,6 +28,6 @@ Yūthikapupphiya 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yūthikapupphiya 01. Yūthikapupphiya Thera. Một vị *Arahant*. Chín mươi bốn *kappa* trước, ngài đã nhìn thấy Đức Phật (? Siddhattha) trên bờ sông Candabhāgā, và đã dâng cúng cho Ngài một bông hoa *yūthika* (hoa nhài). Sáu mươi bảy *kappa* trước, ngài là một vị vua tên là Samuddhara. Ap.i.184.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sirigutta"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sirigutta 01. Maternal uncle of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirigutta 01. Cậu của Sirimitta Thera (Thag­a.i.488). Ông là một *Sotāpanna* và là bạn của Garahadinna (DhS.i.434f). Về câu chuyện của ông, xem Garahadinna.
 
 ## Notes

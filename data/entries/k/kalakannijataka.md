@@ -5,7 +5,7 @@ base_headword: "Kāḷakaṇṇījātaka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -30,6 +30,6 @@ Kāḷakaṇṇījātaka (Ja 83). The story of a *seṭṭhi* of <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷakaṇṇījātaka (Ja 83). Câu chuyện về một trưởng giả xứ Benares, người có một người bạn tên là Kāḷakaṇṇī. Phần còn lại của câu chuyện tương tự như câu chuyện được đưa ra ở trên, về Kāḷakaṇṇī, người bạn của Anāthapiṇḍika (Ja.i.364f). Trong cùng bối cảnh đó, Kusaṇālijātaka (Ja.i.441f) đã được thuyết giảng. Ở đó, Kāḷakaṇṇījātaka được nhắc đến là Kāḷakaṇṇīvatthu.
 
 ## Notes

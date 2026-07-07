@@ -5,7 +5,7 @@ base_headword: "Pīṭhiya"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -27,6 +27,6 @@ Pīṭhiya. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pīṭhiya. Một kẻ tiếm quyền người Damiḷa, đã trị vì tại Anurādhapura trong bảy tháng, vào thời của Dhātusena. Cv.xxxviii.34.
 
 ## Notes

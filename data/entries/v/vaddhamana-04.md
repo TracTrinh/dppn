@@ -5,7 +5,7 @@ base_headword: "Vaḍḍhamāna"
 disambiguator: "04"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vaḍḍhamāna 04. The name of a Bodhi-tree in Ceylon. Attached to it was a tem
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaḍḍhamāna 04. Tên của một cây bodhi ở Tích Lan. Gắn với nó là một ngôi đền, được Aggabodhi IV trùng tu. (Cv.xlviii.5) và sau đó lại được Udaya V trùng tu. (Cv.xlix.15).
 
 ## Notes

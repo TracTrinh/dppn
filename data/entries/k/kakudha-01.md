@@ -5,7 +5,7 @@ base_headword: "Kakudha"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,6 @@ Kakudha 01. (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kakudha 01. (*v.l.* Kakkaṭa). Một nam cư sĩ của Đức Phật, sống tại Nādikā. Khi Đức Phật đến Nādikā trong chuyến hành trình cuối cùng của Ngài, Ānanda đã hỏi Ngài điều gì đã xảy ra với Kakudha, người khi ấy đã qua đời. Đức Phật trả lời rằng Kakudha đã tìm được nơi tái sinh ở những tầng trời cao nhất, và tại đó sẽ nhập diệt hoàn toàn (DN.ii.92).
 
 ## Notes

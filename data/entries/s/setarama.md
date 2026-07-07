@@ -5,7 +5,7 @@ base_headword: "Setārāma"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -27,6 +27,6 @@ Setārāma. A park (in <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Setārāma. Một khu vườn (tại Setavyā) nơi Kassapa Buddha viên tịch. Bv­a.195; Bv.xix.52 gọi nơi đó là Soṇārāma.
 
 ## Notes

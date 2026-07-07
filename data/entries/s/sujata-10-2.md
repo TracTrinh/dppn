@@ -5,7 +5,7 @@ base_headword: "Sujātā"
 disambiguator: "10"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Sujātā 10. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sujātā 10. Sujātā Therī. Cô là con gái của một *seṭṭhi* ở Sāketa và được gả cho một người chồng có địa vị ngang bằng, người mà cô đã chung sống hạnh phúc. Một ngày nọ, khi đang trên đường về nhà từ một lễ hội, cô đã nhìn thấy Đức Phật tại Añjanavana và lắng nghe lời thuyết pháp của ngài. Ngay cả khi cô ngồi đó tuệ minh sát của cô đã được hoàn thiện, và cô đã trở thành một *Arahant*. Cô về nhà, xin phép chồng, và gia nhập Tăng đoàn. Thīg.145-50; Thīg­a.136f.
 
 ## Notes

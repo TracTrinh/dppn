@@ -5,7 +5,7 @@ base_headword: "Maṅgala"
 disambiguator: "02"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Maṅgala 02. The Bodhisatta born as an ascetic in the time of <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṅgala 02. Bodhisatta sinh làm đạo sĩ khổ hạnh vào thời Đức Phật Dhammadassī Ja.i.40; nhưng Bv.xvi.9 nói rằng lúc bấy giờ Ngài được sinh làm Sakka.
 
 ## Notes

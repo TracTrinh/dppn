@@ -5,7 +5,7 @@ base_headword: "Vaḍḍhamāna"
 disambiguator: "02"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -27,6 +27,6 @@ Vaḍḍhamāna 02. The capital of Ceylon (<span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaḍḍhamāna 02. Thủ đô của Tích Lan (Varadīpa) vào thời Koṇāgamana Buddha. Vị vua của nó là Samiddha. Mhv.xv.92; Dpv.xv.48; xvii.6; Vin-a.i.86.
 
 ## Notes

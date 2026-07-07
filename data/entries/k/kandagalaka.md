@@ -5,7 +5,7 @@ base_headword: "Kandagalaka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kandagalaka. A bird, a former birth of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kandagalaka. Một con chim, một tiền kiếp của Devadatta. Xem Kandagalakajātaka (Ja 210).
 
 ## Notes

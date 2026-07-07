@@ -5,7 +5,7 @@ base_headword: "Subha"
 disambiguator: "05"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Subha 05. A palace occupied by <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subha 05. Một cung điện nơi Gotama Buddha ngự trị trước khi Ngài xuất gia. Bv­a.230; nhưng Bv.xxvi.14 gọi nó là Subhata.
 
 ## Notes

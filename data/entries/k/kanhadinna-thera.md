@@ -5,7 +5,7 @@ base_headword: "Kaṇhadinna Thera"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -33,6 +33,8 @@ He is evidently the same as <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇhadinna Thera. Một vị Arahant. Ngài thuộc một gia đình Bà-la-môn ở Rājagaha. Sau khi nghe Sāriputta thuyết pháp, ngài đã gia nhập Tăng đoàn và trở thành một Arahant. Trong quá khứ ngài đã gặp Sobhita Buddha và dâng lên cho ngài một bông hoa *punnāga* (Thag.v.179; Thag­a.i.304).
+
+Ngài rõ ràng là cùng một người với Kaṇhadinna, con trai của Bhāradvāja Thera (Thag­a.i.303), và có lẽ là đồng nhất với Giripunnāgiya của Apadāna (ii.416).
 
 ## Notes

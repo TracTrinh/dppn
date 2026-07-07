@@ -5,7 +5,7 @@ base_headword: "Kakudhasutta"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,6 @@ Kakudhasutta 02. Records the visit of the *Devaputta* <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kakudhasutta 02. Ghi lại chuyến thăm của *Devaputta* Kakudha đến Đức Phật tại Añjanavana ở Sāketa. Xem Kakudha (2). Theo các nguồn tài liệu Tây Tạng (ví dụ Rockhill, p.89), Kakudha là con trai của Kauṇḍinya (Koṇḍañña). Không thể biết được Koṇḍañña nào được đề cập đến ở đây.
 
 ## Notes

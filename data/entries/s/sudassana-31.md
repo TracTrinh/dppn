@@ -5,7 +5,7 @@ base_headword: "Sudassana"
 disambiguator: "31"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sudassana 31. A king of the dynasty of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudassana 31. Một vị vua thuộc triều đại của Mahā Sammata. Mhv.ii.5; Dpv.iii.7.
 
 ## Notes

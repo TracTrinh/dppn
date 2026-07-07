@@ -5,7 +5,7 @@ base_headword: "Rūpasutta"
 disambiguator: "03"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Rūpasutta 03. The cessation of suffering, disease, decay and death, is identica
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rūpasutta 03. Sự đoạn diệt của đau khổ, bệnh tật, sự suy tàn và cái chết, đồng nhất với sự đoạn diệt của năm đối tượng giác quan hình sắc, âm thanh, v.v. SN.iii.229.
 
 ## Notes

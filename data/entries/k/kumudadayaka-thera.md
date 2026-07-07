@@ -5,7 +5,7 @@ base_headword: "Kumudadāyaka Thera"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -33,6 +33,10 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị *Arahant*. Vào thời của Padumuttara, ông là một con chim tên là Kakudha ở một cái hồ thuộc Himavā và đã cúng dường Đức Phật một bông hoa sen.
+
+Một nghìn sáu trăm *kappa* trước, ông đã làm vua tám lần dưới cái tên Varuṇa (Ap.i.180).
+
+Có lẽ ông đồng nhất với Malitavambha. Thag­a.i.211f.
 
 ## Notes

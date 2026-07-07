@@ -5,7 +5,7 @@ base_headword: "Kurudhamma"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -23,6 +23,6 @@ Kurudhamma. = the *pañcasīla*
 
 ## Vietnamese translation
 
-Chưa dịch.
+= *pañcasīla*
 
 ## Notes

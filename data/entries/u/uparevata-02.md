@@ -5,7 +5,7 @@ base_headword: "Uparevata"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Uparevata 02. Nephew of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uparevata 02. Cháu trai của Sāriputta. Khi Sāriputta đi đến Nālaka trong chuyến viếng thăm cuối cùng của mình, để viên tịch ở đó, Uparevata đã nhìn thấy ngài ở bên ngoài ngôi làng, ngồi dưới một cây đa. Vị ấy được yêu cầu thông báo việc đến nơi của Sāriputta cho mẹ của ngài, và thực hiện các sự chuẩn bị để cung cấp chỗ ở cho năm trăm người đi theo Sāriputta (DN­a.ii.551; SN­a.iii.175).
 
 ## Notes

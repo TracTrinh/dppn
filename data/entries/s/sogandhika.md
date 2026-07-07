@@ -5,7 +5,7 @@ base_headword: "Sogandhika"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Sogandhika. A *Niraya*, or, more probably, a period of suffering in <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sogandhika. Một *Niraya*, hoặc đúng hơn là một giai đoạn đau khổ trong Avīci. SN.i.102; Snp.126; Snp­a.ii.476.
 
 ## Notes

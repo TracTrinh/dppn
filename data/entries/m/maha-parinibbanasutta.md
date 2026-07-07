@@ -5,7 +5,7 @@ base_headword: "Mahā Parinibbānasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -57,6 +57,23 @@ Mahā Parinibbānasutta. The sixteenth *Sutta* of the <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Parinibbānasutta. Bài kinh (*Sutta*) thứ mười sáu của Dīghanikāya. Nó chứa đựng một tường thuật ít nhiều chi tiết về năm cuối đời của Đức Phật. Nó cũng chứa đựng, bên cạnh những vấn đề khác,
+
+- một lời tiên tri về sự vĩ đại của Pāṭaliputta và
+- dự định tấn công những người Vajjian bởi Ajātasattu,
+- các chi tiết về bảy điều kiện thịnh vượng của Tăng đoàn,
+- dòng dõi của niềm tin (ariyavaṁsa),
+- tám nguyên nhân của động đất,
+- bữa ăn cuối cùng của Đức Phật,
+- bốn thánh tích hành hương,
+- bốn đại uy quyền (mahāpadesa),
+- tang lễ của một vị vua,
+- việc dựng các cetiya,
+- lịch sử trước đó của Kusinārā,
+- sự viên tịch và lễ hỏa táng của Đức Phật,
+- việc phân chia Xá-lợi bởi Doṇa, và
+- việc cất các Thūpa bên trên Xá-lợi. DN.ii.72ff.
+
+Mahā Parivāra Thera. Một *Arahant*. Vào thời của Đức Phật Vipassī, ngài là một thủ lĩnh Yakkha và, khi thấy Đức Phật đi vào Bandhumatī cùng với một hội chúng đông đảo các Tỳ-kheo, ngài đã dâng thượng y của mình và đảnh lễ Đức Phật. Mặt đất rung chuyển do mãnh lực từ lời nguyện của ngài. Mười lăm *kappa* trước, ngài từng làm vua mười sáu lần dưới tên gọi là Vāhana (Ap.i.146f). Ngài có lẽ chính là Pakkha Thera. Thag­a.i.144f.
 
 ## Notes

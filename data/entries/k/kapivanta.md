@@ -5,7 +5,7 @@ base_headword: "Kapīvantā"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kapīvantā. A city to the north of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kapīvantā. Một thành phố ở phía bắc của Uttarakuru. DN.iii.201.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kuṭajapupphiya Thera"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kuṭajapupphiya Thera 01. An Arahant. Ninety-two *kappas* ago he offered a *ku�
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một Arahant. Chín mươi hai *kappa* trước, ngài đã dâng cúng một bông hoa *kuṭaja* cho Phussa Buddha. Mười bảy *kappa* trước, ngài từng ba lần làm vua dưới tên gọi là Pupphita. Ap.i.191.
 
 ## Notes

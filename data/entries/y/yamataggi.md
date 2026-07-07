@@ -5,7 +5,7 @@ base_headword: "Yamataggi"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -24,6 +24,6 @@ Yamataggi (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yamataggi (Yāmataggi). Một hiền triết thời xưa đã sống một cuộc đời tốt đẹp và thuyết phục những người theo mình cũng làm như vậy. Ông là một trong những người sáng lập ra các bài thánh ca Vệ-đà. Vin.i.245; DN.i.238, 239; MN.ii.169, 200; AN.iii.224, 229; iv. 61; cũng xem Ja.vi.251, nơi ông được gọi là Yāmataggi và được mô tả là một vị vua thời xưa. Cp. Vedic Index, xem *Jamadagni*.
 
 ## Notes

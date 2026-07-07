@@ -5,7 +5,7 @@ base_headword: "Sīhalacetikā"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -24,6 +24,6 @@ Sīhalacetikā. It is said that once sixty monks heard a Sinhalese girl singing 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhalacetikā. Có nói rằng một lần sáu mươi vị tỳ-kheo nghe một cô gái Sinhalese hát bằng tiếng của mình, về sinh, già, và chết. Họ suy ngẫm về lời hát của cô và trở thành *Arahant*. Snp­a.ii.397.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kañcanadevī"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -34,6 +34,12 @@ She was a previous birth of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kañcanadevī 01. Con gái của vua xứ Benares và là em gái của Bodhisatta, Mahā Kañcana.
+
+Cùng với các anh em trai của mình, cô đã từ bỏ thế gian và sống trong một ẩn thất sau khi cha mẹ cô qua đời.
+
+Câu chuyện của cô được kể trong Bhisajātaka (Ja.iv.305ff).
+
+Cô là tiền kiếp của Uppalavaṇṇā (Ja.iv.314).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vessantara"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/066.html"
@@ -25,6 +25,6 @@ Vessantara 02. The Bodhisatta, born as king of <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vessantara 02. Bodhisatta, sinh ra làm vua xứ Sivi. Xem Vessantarajātaka (Ja 547).
 
 ## Notes

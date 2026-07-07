@@ -5,7 +5,7 @@ base_headword: "Kaṇḍadevamālava"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -29,6 +29,6 @@ Kaṇḍadevamālava. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇḍadevamālava. Một thủ lĩnh Damiḷa đã chiến đấu chống lại vị tướng Laṅkāpura của Parakkamabāhu, và bị đánh bại tại Muṇḍikkāra. Về sau, khi Kaṇḍadevamālava bày tỏ lòng trung thành với Parakkamabāhu, Laṅkāpura đã khôi phục lại Muṇḍikkāra cho ông và bổ nhiệm ông làm thủ lĩnh của hai quận thuộc Maṅgala. Cv.lxxvi.187, 208, 210.
 
 ## Notes

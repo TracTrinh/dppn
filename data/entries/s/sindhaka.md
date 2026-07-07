@@ -5,7 +5,7 @@ base_headword: "Sindhaka"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Sindhaka. A servant of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sindhaka. Một người hầu của Aṅkura. Pv.ii.9 (vs. 39, 40); Pv-a.127.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vibhattyattha"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vibhattyattha 02. Pāli grammatical treatise by <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vibhattyattha 02. Chuyên luận ngữ pháp Pāli của Saddhammañāṇa. Bode, op.cit., 26.
 
 ## Notes

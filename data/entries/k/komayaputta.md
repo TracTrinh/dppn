@@ -5,7 +5,7 @@ base_headword: "Komāyaputta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -25,6 +25,6 @@ Komāyaputta. A Brahmin; see <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Komāyaputta. Một vị Bà-la-môn; xem Komāyaputtajātaka (Ja 299).
 
 ## Notes

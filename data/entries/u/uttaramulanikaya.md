@@ -5,7 +5,7 @@ base_headword: "Uttaramūlanikāya"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -42,6 +42,14 @@ In later years this *Nikāya* produced many an illustrious star in Celyon’s li
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttaramūlanikāya. Một trong các hội chúng tỳ-kheo ở Tích Lan, là một nhánh tách ra từ phái Abhayagiri. Trụ sở của họ có lẽ ở tại Vihāra Uttaroḷa, do vua Māṇavamma xây dựng và tặng cho các vị tỳ-kheo thuộc Abhayagiri Vihāra, vì đã đồng ý nhận người anh của nhà vua vào Tăng đoàn, mặc dù người anh đó đã mù một mắt do một số pháp tu yoga.
+
+Vị thủ lĩnh đầu tiên của Uttaroḷa chính là người anh của nhà vua và ông cai quản sáu trăm vị tỳ-kheo. Ông được ban nhiều danh dự và đặc quyền cùng năm loại người hầu phục vụ ông. Ông cũng được bổ nhiệm giám sát các người canh giữ Xá-lợi Răng (Cv.lvii.7-11, và 16-26; xem thêm Geiger's Trs.i.194, n.2 và 3).
+
+Từ một văn khắc tiếng Tamil của Māṇavamma, chúng ta thấy rằng ông vẫn tiếp tục bảo hộ Uttaramūlanikāya, và được ghi lại rằng ông đã trao quyền trông coi Xá-lợi Răng cho một vị tỳ-kheo thuộc hội chúng này, có tên là Moggallāna (Epi. Zey., vol.ii., pt. vi., pp.250ff).
+
+Anuruddha, tác giả của *Anuruddhaśataka* và Abhidhammatthasaṅgaha, tự mô tả trong lời đề tựa của tác phẩm trước là một "*Upasthavira*" của Uttaramūlanikāya.
+
+Trong những năm về sau, *Nikāya* này đã sản sinh ra nhiều ngôi sao lỗi lạc trong văn đàn của Tích Lan, trong đó có nhà ngữ pháp học Moggallāna, Vilgammūla *Mahā* Thera và Sri Rāhula. Để biết thêm chi tiết về họ, xem PLC., *passim*.
 
 ## Notes

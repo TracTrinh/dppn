@@ -5,7 +5,7 @@ base_headword: "Kūṭālivihāra"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -29,6 +29,6 @@ Kūṭālivihāra. A monastery in <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tu viện ở Rohaṇa, được thành lập bởi Kākavaṇṇatissa (Mhv.xxii.23). Tại đó Malayadeva Thera có lần đã thuyết giảng Chacakkasutta, và sáu mươi tỳ-kheo đã lắng nghe ngài đều trở thành các *Arahant* (MN­a.ii.1024). Địa điểm này có thể đồng nhất với Kuṭelitissa Vihāra (*xem từ này*).
 
 ## Notes

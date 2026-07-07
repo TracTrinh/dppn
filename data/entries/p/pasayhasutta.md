@@ -5,7 +5,7 @@ base_headword: "Pasayhasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -23,6 +23,6 @@ Pasayhasutta. Five powers – beauty, wealth, kin, sons, virtue – the possessi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pasayhasutta. Năm sức mạnh – sắc đẹp, tài sản, bà con, con cái, đức hạnh – mà sự sở hữu chúng giúp một người phụ nữ có thể sống trong nhà, lấn lướt (*pasayha*) chồng mình. SN.iv.246.
 
 ## Notes

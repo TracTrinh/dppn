@@ -5,7 +5,7 @@ base_headword: "Kaṭāhakajātaka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -32,6 +32,10 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṭāhakajātaka (Ja 125). Có một lần khi Bodhisatta là một trưởng giả giàu có ở Benares, ngài sinh được một người con trai. Một nữ tỳ trong nhà cũng sinh một người con trai vào cùng ngày hôm đó. Những đứa trẻ lớn lên cùng nhau, người con trai của nữ tỳ tên là Kaṭāhaka. Kaṭāhaka đã học được nhiều loại nghệ thuật khác nhau trong thời gian làm bạn với chủ của mình. Khi lớn lên, cậu được bổ nhiệm làm thư ký riêng của vị trưởng giả. Một ngày nọ, cậu đến thăm một thương gia ở vùng biên giới, mang theo một bức thư được cho là của vị trưởng giả (trong đó cậu được cho là con trai của vị trưởng giả), để xin cưới con gái của thương gia. Vị thương gia vô cùng vui mừng, và cuộc hôn nhân đã diễn ra. Kaṭāhaka rất tự phụ và nói với vẻ khinh miệt về mọi thứ thuộc về "tỉnh lẻ". Vị trưởng giả, sau khi phát hiện ra những gì đã xảy ra, quyết định đến thăm vị thương gia, nhưng Kaṭāhaka đã đi đón ngài trên đường, và dành cho ngài tất cả sự tôn kính mà một người hầu phải có, đồng thời cầu xin ngài đừng vạch trần mình. Trong khi đó, cậu đã đánh lừa họ hàng của vợ mình để họ tin rằng sự cung kính mà cậu dành cho vị trưởng giả chẳng qua là sự tôn trọng mà một người con trai phải có đối với cha mình. Cậu không giống như con trai của các bậc cha mẹ khác, mà cậu biết những gì phải làm đối với cha mình. Bodhisatta cảm thấy hài lòng nên đã không vạch trần người nô lệ, nhưng khi biết được từ vợ của Kaṭāhaka rằng Kaṭāhaka luôn luôn phàn nàn về thức ăn của mình, ngài đã dạy cho cô một câu kệ chứa đựng lời đe dọa – cô thì không hiểu được, nhưng lại rất rõ ràng đối với Kaṭāhaka – rằng nếu Kaṭāhaka tiếp tục gây phiền toái, vị trưởng giả sẽ quay lại và vạch trần cậu. Kể từ đó, Kaṭāhaka đã giữ im lặng.
+
+Câu chuyện được kể lại liên quan đến một tỳ-kheo thường hay khoe khoang về dòng dõi cao quý và sự giàu có của gia đình mình cho đến khi những lời nói dối của ông bị vạch trần (Ja.i.451ff).
+
+Theo Dhammapada Commentary (Dhp­a.iii.357ff), câu chuyện này được kể lại liên quan đến một vị tỳ-kheo tên là Tissa, người sẽ phàn nàn bất kể ông nhận được sự quan tâm chú ý nào.
 
 ## Notes

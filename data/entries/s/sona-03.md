@@ -5,7 +5,7 @@ base_headword: "Soṇa"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -27,6 +27,6 @@ Soṇa 03. A fierce horse belonging to the king of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Soṇa 03. Một con ngựa hung hãng thuộc vua Benares; nó cũng được gọi là Mahā Soṇa. Xem Suhanujātaka (Ja 158).
 
 ## Notes

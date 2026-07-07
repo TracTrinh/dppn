@@ -5,7 +5,7 @@ base_headword: "Pāṭimokkhasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Pāṭimokkhasutta, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāṭimokkhasutta, Pātimokkhasutta. Một tỳ-kheo yêu cầu Đức Phật ban cho một bài giảng ngắn. Đức Phật bảo ông ấy rằng ông nên sống trong sự tự chủ của *Pātimokkha*, trang bị đầy đủ trong phạm vi thực hành của mình (*ācāragocarasampanno*), thấy sự nguy hiểm trong những lỗi lầm nhỏ nhặt nhất và thọ trì các học giới. Như vậy, ông ấy sẽ có thể phát triển bốn *satipaṭṭhāna*. SN.v.187.
 
 ## Notes

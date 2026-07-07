@@ -5,7 +5,7 @@ base_headword: "Suhanu"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Suhanu. A horse belonging to the king of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suhanu. Một con ngựa thuộc về nhà vua của Benares. Xem Suhanujātaka (Ja 158).
 
 ## Notes

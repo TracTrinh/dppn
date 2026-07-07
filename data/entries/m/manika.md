@@ -5,7 +5,7 @@ base_headword: "Maṇikā"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -24,6 +24,6 @@ Maṇikā. The name of a *vijjā*, whereby thoughts can be read. (DN­a.ii.389.)
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇikā. Tên của một *vijjā* (minh chú), nhờ đó có thể đọc được suy nghĩ của người khác. (DN­a.ii.389.)
 
 ## Notes

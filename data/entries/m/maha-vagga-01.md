@@ -5,7 +5,7 @@ base_headword: "Mahā Vagga"
 disambiguator: "01"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -27,6 +27,6 @@ Mahā Vagga 01. A section of the <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Vagga 01. Một phần của Vinayapiṭaka, được chia thành các chương gọi là Khandhaka. Các chương mở đầu đưa ra một lời tường thuật về những sự kiện diễn ra ngay sau khi Đức Phật Giác ngộ, dẫn đến việc thành lập Tăng đoàn. Sau đó, nó đưa ra nhiều quy định khác nhau cho các thành viên của Tăng đoàn, cùng với những hoàn cảnh đã dẫn đến việc hình thành của mỗi quy định.
 
 ## Notes

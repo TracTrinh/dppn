@@ -5,7 +5,7 @@ base_headword: "Piṅgala Koccha"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -34,6 +34,10 @@ He visited the Buddha at <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piṅgala Koccha. Một Bà-la-môn ở Sāvatthī.
+
+Ông đến thăm Đức Phật tại Jetavana và Đức Phật đã thuyết giảng cho ông Cūḷa Sāropamasutta, cuối bài pháp ông đã tuyên bố mình là người đi theo Đức Phật (MN.i.198ff).
+
+Buddhaghosa cho biết (MN­a.i.422) rằng tên người đàn ông này là Koccha, và ông được gọi là Piṅgala vì ông có nước da ngăm đen (*piṅgaladhātuko*).
 
 ## Notes

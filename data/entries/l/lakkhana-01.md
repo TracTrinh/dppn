@@ -5,7 +5,7 @@ base_headword: "Lakkhaṇa"
 disambiguator: "01"
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -30,6 +30,6 @@ Lakkhaṇa 01. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lakkhaṇa 01. Con trai của Dasaratha và em trai của Rāma, Sītā và Bharata. Ông được đồng nhất với Sāriputta. Ja.iv.130; để biết chi tiết xem Dasarathajātaka (Ja 461).
 
 ## Notes

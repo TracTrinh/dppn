@@ -5,7 +5,7 @@ base_headword: "Taṅguttavaṅkapariveṇa"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,6 @@ Taṅguttavaṅkapariveṇa. A monastery, probably in Ceylon; the residence of <
 
 ## Vietnamese translation
 
-Chưa dịch.
+Taṅguttavaṅkapariveṇa. Một tu viện, có lẽ ở Tích Lan; nơi lưu trú của Raṭṭhapāla, tác giả bản gốc của cuốn Rasavāhinī. PLC.224. *Pariveṇa* (trú xá) này trực thuộc Mahā Vihāra. Ras.i.1.
 
 ## Notes

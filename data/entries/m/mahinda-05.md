@@ -5,7 +5,7 @@ base_headword: "Mahinda"
 disambiguator: "05"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -35,6 +35,8 @@ He gave ten cartloads of food to the <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahinda 05. Mahinda I. Em trai của Kassapa III. và là vua của Ceylon (724-27 Công Nguyên). Ông đã từ chối được đăng quang, do bởi nỗi đau buồn vì cái chết của người bạn của mình là Nīla, và đã điều hành việc chính sự như là một *Ādipāda*. Do đó ông đã được biết đến như là *Ādipāda* Mahinda. Con trai của người anh trai ông, Aggabodhi, là vị phó vương của ông, trong khi người con trai của chính ông đã được phong làm người cai trị của Dakkhiṇadesa.
+
+Ông đã cúng dường mười xe đồ ăn cho Mahā Pāli và sẽ không ăn bất cứ thứ gì mà không ban phát một phần của nó cho những người ăn xin trước. Ông đã xây dựng một ni viện cho các *bhikkhunī* (được gọi là Mahinda-upassaya) và đã trao tặng cho nó ngôi làng Nagaragalla. Ông cũng đã xây dựng *vihāra* Mahindataṭa. Cv.xiviii.26ff.
 
 ## Notes

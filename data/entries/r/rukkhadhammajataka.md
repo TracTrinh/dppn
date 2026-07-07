@@ -5,7 +5,7 @@ base_headword: "Rukkhadhammajātaka"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -36,6 +36,8 @@ For another <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rukkhadhammajātaka (Ja 74). Bodhisatta từng là một thọ thần trong một khu rừng *sāla*. Một vị vua Vessavaṇa mới đã được chỉ định bởi Sakka, và nhà vua đã ra lệnh cho các thọ thần tự chọn nơi ở của mình. Bodhisatta khuyên bà con của mình chọn những cây ở gần cây của ông. Một số người không làm theo lời khuyên của ông và đến cư ngụ tại những cái cây đơn độc. Một cơn bão ập đến và nhổ bật rễ những cái cây đơn độc, trong khi để lại những cái cây trong khu rừng không hề hấn gì. Câu chuyện này là một trong những câu chuyện được Đức Phật kể cho người Sākiyan và Koḷiyan, những người đã tranh giành vùng nước sông Rohiṇī. Ngài muốn chỉ cho họ thấy giá trị của sự hòa hợp (Ja.i.327ff).
+
+Về một bài kinh Jātaka khác, không được tìm thấy trong Chú giải Jātaka, nhưng được trích dẫn trong Aṅguttaranikāya và đôi khi (ví dụ, Thag­a.i.397) được gọi là kinh Rukkhadhammajātaka, xem Suppatiṭṭha.
 
 ## Notes

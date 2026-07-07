@@ -5,7 +5,7 @@ base_headword: "Lakkhī"
 disambiguator: "02"
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -27,6 +27,6 @@ Lakkhī 02. Daughter of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lakkhī 02. Con gái của Dhataraṭṭha. Bà thường được gọi là Siri. Về câu chuyện của bà xem Sirikālakaṇṇijātaka.
 
 ## Notes

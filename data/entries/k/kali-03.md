@@ -5,7 +5,7 @@ base_headword: "Kāḷī"
 disambiguator: "03"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -27,6 +27,6 @@ Kāḷī 03. Maidservant of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷī 03. Tớ gái của Videhikā xứ Sāvatthī. Videhikā nổi tiếng là người dịu dàng và hiền lành, nhưng Kāḷī, một cô gái thông minh và làm việc giỏi, nghĩ rằng cô sẽ thử thách nữ chủ nhân của mình. Một ngày nọ, cô dậy muộn và, khi bị khiển trách, cô đã nói rất nhẹ nhàng về lỗi lầm của mình. Nhận thấy Videhikā mất bình tĩnh, Kāḷī lặp lại lỗi lầm của mình nhiều lần, cho đến một ngày nữ chủ nhân của cô đã đánh cô bằng một cái chốt trục xe, làm cho đầu cô chảy máu. Kāḷī chạy ra ngoài và đánh thức cả khu phố bằng những tiếng la hét của mình. Danh tiếng về sự hiền lành của Videhikā không còn nữa. Câu chuyện được thuật lại trong Kakacūpamasutta. MN.i.125f.
 
 ## Notes

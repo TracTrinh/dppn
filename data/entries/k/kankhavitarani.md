@@ -5,7 +5,7 @@ base_headword: "Kaṅkhāvitaraṇī"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -34,6 +34,6 @@ Kaṅkhāvitaraṇī. A commentary, also called <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṅkhāvitaraṇī. Một bản chú giải, còn được gọi là Mātikaṭṭhakathā, do Buddhaghosa viết về Pātimokkha của Vinayapiṭaka. Phần kết cũng chứa một phần tóm tắt, một dạng *uddāna*, về các nội dung. Người ta nói rằng tác phẩm được viết theo yêu cầu của một Thera tên là Soṇa, và Buddhaghosa tuyên bố một cách rất dứt khoát rằng không có dù chỉ một từ trong cuốn sách không phù hợp với Chánh tạng hoặc các Chú giải của Mahā Vihāra (p.204, ed. *Hewavitarane Bequest Series*; Gv.59, 69.). Gandhavaṁsa (61f, 71; cũng Svd.1212) đề cập đến một *ṭīkā* về Kaṅkhāvitaraṇī có tên là Vinayatthamañjūsā, do Buddhanāga viết theo yêu cầu của Sumedha.
 
 ## Notes

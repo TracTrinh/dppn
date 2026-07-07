@@ -5,7 +5,7 @@ base_headword: "Vidhurapaṇḍitajātaka"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -58,6 +58,12 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="65" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vidhurapaṇḍitajātaka *v.l.* Vidhūrapaṇḍitajātaka (Ja 545). Bốn vị vua: Dhanañjaya Korabba, vua xứ Indapatta; Sakka; Long vương Varuṇa; và Venateyya, vua của loài Supaṇṇa, sau khi thọ trì các giới *uposatha*, đã gặp nhau tại một khu vườn và ở đó có một cuộc tranh luận về việc ai trong số họ là người có đức hạnh nhất. Họ không thể quyết định giữa họ với nhau và do đó đồng ý giao vấn đề này cho vị đại thần của Dhanañjaya là Vidhurapaṇḍita (Bồ-tát). Vị đại thần lắng nghe lý lẽ của mỗi người và sau đó tuyên bố rằng tất cả đều bình đẳng; đức hạnh của họ giống như những chiếc nan hoa của một bánh xe. Họ rất hài lòng, và Sakka tặng cho vị đại thần một chiếc áo choàng bằng lụa, Varuṇa tặng một viên ngọc, vua Supaṇṇa tặng một vòng hoa vàng, và Dhanañjaya tặng một ngàn con bò.
+
+Vimalā, vợ của Varuṇa, khi nghe chồng kể về sự thông thái của Vidhura, đã bị mê hoặc đến mức khao khát được gặp ngài, và để làm được điều đó, bà đã giả vờ ốm, và nói rằng bà phải có được trái tim của Vidhura. Con gái của Varuṇa, Irandatī, được hứa gả cho bất kỳ ai có thể đoạt được trái tim của Vidhura, và dạ-xoa (Yakkha) Puṇṇaka, cháu trai của Vessavaṇa, người đã nhìn thấy cô và bị quyến rũ bởi sắc đẹp của cô, đã chấp nhận điều kiện. Bằng một mưu mẹo, ông giành được sự đồng ý của Vessavaṇa và viếng thăm triều đình của Dhanañjaya. Ở đó, ông thách đấu với nhà vua một ván xúc xắc, xưng tên là Kaccāyana, và đưa ra phần cá cược là con tuấn mã tuyệt vời và viên ngọc thấu thị của mình, với điều kiện nhà vua sẽ đưa Vidhura ra làm phần cá cược của mình. Dhanañjaya đồng ý, chơi và thua cuộc. Vidhura đồng ý đi với Puṇṇaka; nhà vua hỏi ngài những câu hỏi liên quan đến đời sống cư sĩ để lấy làm kim chỉ nam cho bản thân, và Vidhura được cho phép nghỉ phép ba ngày để thăm gia đình. Sau khi từ biệt họ, ngài ra đi cùng Puṇṇaka. Trên đường đi, Puṇṇaka cố gắng giết ngài bằng cách hù dọa ngài nhưng vô ích. Khi Vidhura khám phá ra ý đồ của Puṇṇaka, ngài đã thuyết pháp cho vị này khi ngài đang ngồi trên đỉnh Kāḷapabbata, và Dạ-xoa đã cảm động đến mức đề nghị đưa Vidhura quay lại Indapatta. Nhưng bất chấp sự phản kháng của ông, Vidhura khăng khăng muốn đi tiếp đến thế giới Nāga. Họ đến nơi ở của Varuṇa; Vidhura thuyết pháp trước tiên cho Varuṇa và sau đó là cho Vimalā. Cả hai đều vô cùng hoan hỉ, và Puṇṇaka đã giành được bàn tay của Irandatī. Trong niềm vui sướng tột độ, Puṇṇaka trao cho Vidhura viên ngọc tuyệt vời của mình và đưa ngài trở về Indapatta. Tại đó Vidhura kể lại những cuộc phiêu lưu của mình và trao viên ngọc cho nhà vua. Một lễ hội kéo dài một tháng được tổ chức để vinh danh sự trở về của Vidhura.
+
+Câu chuyện được kể lại liên quan đến trí tuệ của Đức Phật. Người vợ chính của Vidhura, Anujjā, được đồng nhất với Rāhulamātā; con trai cả của ngài, Dhammapāla, với Rāhula; Varuṇa với Sāriputta; vua Supaṇṇa với Moggallāna; Sakka với Anuruddha, và Dhanañjaya với Ānanda (Ja.vi.255-329).
+
+Jātaka này cũng được gọi là Puṇṇakajātaka (vd, Ja.iv.14, 182). Bốn bối cảnh từ Jātaka này được tìm thấy trên tháp Bharhut (Bharhut Tope). Cunningham, *Bharhut*, p.82.
 
 ## Notes

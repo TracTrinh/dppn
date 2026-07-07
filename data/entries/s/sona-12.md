@@ -5,7 +5,7 @@ base_headword: "Soṇa"
 disambiguator: "12"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Soṇa 12. A Thera of the <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Soṇa 12. Một Thera của Mahā Vihāra, theo yêu cầu của ngài mà Kaṅkhāvitaraṇī được viết. Knv., p.1.
 
 ## Notes

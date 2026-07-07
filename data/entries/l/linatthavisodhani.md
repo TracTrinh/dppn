@@ -5,7 +5,7 @@ base_headword: "Līnatthavisodhanī"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -24,6 +24,6 @@ Līnatthavisodhanī. A Commentary on the Saddabiṇḍu by Ñāṇavilāsa of Pa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Līnatthavisodhanī. Một Chú giải về Saddabiṇḍu của Ñāṇavilāsa xứ Pagan. Bode, 25, n.4.
 
 ## Notes

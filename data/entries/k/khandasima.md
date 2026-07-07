@@ -5,7 +5,7 @@ base_headword: "Khaṇḍasīmā"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -26,6 +26,6 @@ Khaṇḍasīmā. A sacred space in <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khaṇḍasīmā. Một không gian linh thiêng ở Pulatthipura, được bao gồm trong sīmā do Parakkamabāhu I đánh dấu cho Saṅgha. Cv.lxxviii.68; xem thêm Cv.Trs.ii. 110, n.5.
 
 ## Notes

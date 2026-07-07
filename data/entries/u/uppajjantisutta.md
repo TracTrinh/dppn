@@ -5,7 +5,7 @@ base_headword: "Uppajjantisutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -23,6 +23,6 @@ Uppajjantisutta. On the power of earnestness (*appamāda*). AN.i.11.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uppajjantisutta. Về sức mạnh của sự nhiệt tâm (*appamāda*). AN.i.11.
 
 ## Notes

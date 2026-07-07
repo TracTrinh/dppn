@@ -5,7 +5,7 @@ base_headword: "Kāḷasena"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -31,6 +31,6 @@ Kāḷasena 02. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷasena 02. *v.l.* Mahā Kāḷasena. Một trong những thủ lĩnh của các Yakkha ở Tích Lan. Ông là người cai trị của thành phố Yakkha Sirīsavatthu. Ông đã kết hôn với Polamittā, và chính tại bữa tiệc cưới của hai người này, Vijaya đã tấn công thành phố với sự giúp đỡ của Kuveni và đã tiêu diệt các Yakkha. Mhv.vii.32ff Mhv­ṭ.259.
 
 ## Notes

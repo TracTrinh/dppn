@@ -5,7 +5,7 @@ base_headword: "Sirimaṅgala"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sirimaṅgala 02. A monk of Laos of the sixteenth century; he wrote the <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirimaṅgala 02. Một vị tăng người Lào thế kỷ mười sáu; ngài đã viết Maṅgaladīpanī và một *ṭīkā* về Saṅkhyāpakāsaka. Bode, 47.
 
 ## Notes

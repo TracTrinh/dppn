@@ -5,7 +5,7 @@ base_headword: "Sirinanda"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Sirinanda. A palace of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirinanda. Một cung điện của Kassapa Buddha, trước khi Ngài xuất gia. Bv.xxv.35.
 
 ## Notes

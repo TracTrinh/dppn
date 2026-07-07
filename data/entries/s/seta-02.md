@@ -5,7 +5,7 @@ base_headword: "Seta"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Seta 02. The state elephant of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Seta 02. Con voi quốc gia của Pasenadi, mà vì nó Đức Phật đã thuyết một bài pháp đặc biệt (AN.iii.345). Nó được gọi như vậy vì nó có màu trắng (AN­a.ii.669; so sánh Thag­a.ii.7).
 
 ## Notes

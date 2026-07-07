@@ -5,7 +5,7 @@ base_headword: "Tambala"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tambala. A village, probably in <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tambala. Một ngôi làng, có lẽ ở Rohaṇa, nơi diễn ra một trận chiến giữa Dāṭhopatissa và Maṇa. Cv.xlv.78.
 
 ## Notes

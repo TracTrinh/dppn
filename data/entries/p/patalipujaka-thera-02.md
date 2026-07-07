@@ -5,7 +5,7 @@ base_headword: "Pāṭalipūjaka Thera"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -26,6 +26,6 @@ Pāṭalipūjaka Thera 02. An *Arahant*. In the past, while going from <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāṭalipūjaka Thera 02. Một vị *Arahant*. Trong quá khứ, khi đang trên đường từ Bandhumatī để đi tắm sông, với ba bông hoa *pāṭalī* giắt ở thắt lưng, ngài đã nhìn thấy Vipassī Buddha đang đi vào thành phố và đã dâng cúng cho ngài những bông hoa. Ap.i.290.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vaggulivatthu"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -24,6 +24,6 @@ Vaggulivatthu. The story of 500 bats who were born in heaven by listening to a r
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaggulivatthu. Câu chuyện về 500 con dơi được sinh lên cõi trời nhờ nghe tụng Abhidhamma. Sās-d.81f.
 
 ## Notes

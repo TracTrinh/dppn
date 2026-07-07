@@ -5,7 +5,7 @@ base_headword: "Mahinda"
 disambiguator: "21"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -29,6 +29,6 @@ Mahinda 21. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahinda 21. Mahinda Mahā Lekha. Một viên chức của Māṇābharaṇa. Ông đã bị đánh bại bởi Kesadhātu Rakkha tại Sarogāmatittha và một lần nữa bởi quân đội của Parakkamabāhu I. tại Janapada. Cv.lxxii.Iff., 166.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sorata"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Sorata 02. A devout layman in the time of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sorata 02. Một nam cư sĩ mộ đạo vào thời Kassapa Buddha. Về câu chuyện của vị này, xem Andhavana. MN­a.i.337; nhưng tại SN­a.i.148 vị này được gọi là Yasodhara.
 
 ## Notes

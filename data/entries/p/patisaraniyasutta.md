@@ -5,7 +5,7 @@ base_headword: "Paṭisārāṇīyasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Paṭisārāṇīyasutta. Eight kinds of disqualifications in a monk, which enti
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṭisārāṇīyasutta. Tám loại phẩm chất không đủ tiêu chuẩn ở một tỳ-kheo, khiến cho Tăng đoàn có quyền khiển trách vị ấy. AN.iv.346f.
 
 ## Notes

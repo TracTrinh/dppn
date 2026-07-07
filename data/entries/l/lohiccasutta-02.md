@@ -5,7 +5,7 @@ base_headword: "Lohiccasutta"
 disambiguator: "02"
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -25,6 +25,6 @@ Lohiccasutta 02. The twelfth *Sutta* of the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lohiccasutta 02. *Sutta* thứ mười hai của Dīghanikāya, chứa đựng cuộc thảo luận giữa Đức Phật và Lohicca ở Sālāvatikā. Lập luận căn bản của *Sutta* là tất cả mọi người nên được phép học; rằng bất kỳ ai sở hữu những chứng đắc nhất định nên được phép dạy; nhưng nếu ông ta dạy, ông ta nên dạy tất cả và cho tất cả, không giữ lại gì, không loại trừ ai. Nhưng không ai nên tự nhận dạy người khác trừ khi đã tự dạy mình trước, và đã có được khả năng truyền đạt cho người khác sự thật mà mình đã đạt được. DN.i.224ff.
 
 ## Notes

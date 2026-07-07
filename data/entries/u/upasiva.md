@@ -5,7 +5,7 @@ base_headword: "Upasīva"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -32,6 +32,6 @@ Upasīva. One of the disciples of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upasīva. Một trong những đệ tử của Bāvarī (Sn.vs.1007). Những câu hỏi ông đã hỏi Đức Phật, khi ông đến thăm Ngài cùng với các đồng đạo của mình, được ghi lại trong Upasīvamāṇavapucchā (Sn.vv.1069-76). Upasīva đã gia nhập Tăng đoàn và trở thành một *Arahant*. Theo Apadāna (ii.345ff), vào thời Đức Phật Padumuttara, ông từng là một đạo sĩ tại một ngọn núi tên là Anoma, gần Himavā. Có lần Đức Phật đến thăm am thất của ông và đạo sĩ đã trải một chỗ ngồi cho Ngài bằng cỏ và hoa và dâng Ngài trái cây để ăn. Ông cũng dâng Đức Phật một lượng gỗ trầm hương thơm. Kết quả là, ông được tái sinh trên cõi trời trong ba mươi ngàn kappa và bảy mươi mốt lần làm vua chư thiên. Câu chuyện của Apadāna không hề đề cập đến Bāvarī.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Siddhattha"
 disambiguator: "06"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Siddhattha 06. One of the palaces which will be occupied by <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Siddhattha 06. Một trong những cung điện mà Metteyya Buddha sẽ ở trong đời tại gia cuối cùng của ngài. Anāg., p. 46.
 
 ## Notes

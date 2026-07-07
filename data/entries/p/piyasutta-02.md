@@ -5,7 +5,7 @@ base_headword: "Piyasutta"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -24,6 +24,6 @@ Piyasutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piyasutta 02. Pasenadi đến thăm Đức Phật và nói với Ngài về một vài ý nghĩ đã phát sinh trong tâm ông liên quan đến tự ngã. Những ai có hành vi trong hành động, lời nói, và ý nghĩ là xấu ác, đối với họ tự ngã là một kẻ thù đáng ghét, vì những gì mà một kẻ thù sẽ làm với một người khác, họ đã làm điều đó với chính bản thân mình. Đối với những ai có hành vi đức hạnh, tự ngã là một người bạn thân thiết. Đức Phật chấp thuận lời trình bày của nhà vua. SN.i.71f.
 
 ## Notes

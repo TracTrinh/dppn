@@ -5,7 +5,7 @@ base_headword: "Yasa"
 disambiguator: "01"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -51,6 +51,14 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="18" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yasa 01. Yasa Thera. Ngài là con trai của một vị trưởng giả vô cùng giàu có ở Benares, và được nuôi dưỡng trong sự vô cùng xa hoa, sống trong ba tòa dinh thự, tùy theo các mùa và được bao quanh bởi đủ loại thú vui. Bị thôi thúc bởi những điều kiện từ kiếp trước, một đêm nọ, ngài đã nhìn thấy sự bất nhã của những người hầu đang ngủ của mình, và, vô cùng đau buồn, đã mang đôi dép vàng của mình rời khỏi nhà và thị trấn, trong khi các phi nhân mở cổng cho ngài. Ngài đi theo hướng về phía Isipatana, than vãn: “Chao ôi! Khổ thay! Chao ôi! Nguy thay!” Đức Phật đã nhìn thấy ngài từ đằng xa và gọi ngài: “Lại đây Yasa, ở đây không có khổ, không có nguy.” Tràn đầy niềm vui, Yasa cởi dép và ngồi bên cạnh Đức Phật. Đức Phật đã thuyết giảng cho ngài một bài pháp tiệm tu, và khi Ngài giảng xong về Tứ diệu đế, Yasa đã đạt được sự thấu hiểu Dhamma. Đối với cha của Yasa, người cũng đã đến để tìm con trai, Đức Phật đã thuyết giảng Dhamma, sau khi đã làm cho Yasa trở nên tàng hình trước mắt ông (điều này được đưa ra như một ví dụ về thần thông *iddhi* của Đức Phật, Vsm.393). Kết thúc bài thuyết pháp, ông thừa nhận mình là đệ tử của Đức Phật (ông do đó trở thành *tevācika-upāsaka* đầu tiên) và Yasa, người đã nghe pháp, trở thành một *Arahant*. Vì vậy, khi sự hiện diện của Yasa được cha ngài biết đến, người đã yêu cầu ngài trở về với người mẹ đang đau buồn của mình, Đức Phật tuyên bố rằng đời sống gia đình không còn sức hấp dẫn đối với Yasa nữa và chấp thuận yêu cầu được gia nhập Tăng đoàn của ngài. Ngày hôm sau, nhận lời mời của cha Yasa, Ngài đi cùng Yasa, đến nhà của ông, và ở đó, khi kết thúc bữa ăn, Ngài đã thuyết pháp cho mẹ của Yasa và các thành viên khác trong gia đình, tất cả họ đều trở thành đệ tử của Ngài, nhờ đó trở thành *tevācikā-upāsikā* đầu tiên. Khi những người bạn thân của Yasa là Vimala, Subāhu, Puṇṇaji và Gavampati, nghe nói về việc Yasa xuất gia, họ đã làm theo gương ngài và gia nhập Tăng đoàn, đạt được quả vị *Arahant* theo đúng trình tự, tương tự như năm mươi người khác là những người bạn và người quen cũ của Yasa (Vin.i.15-20; Dhp­a.i.72).
+
+Vào thời của Sumedha Buddha, Yasa là một vị vua của loài Nāgas và đã mời Đức Phật cùng với các tỳ-kheo của Ngài đến nơi ở của mình, ở đó ông đã bày tỏ sự tôn kính lớn lao và tiếp đãi họ vô cùng chu đáo. Sau đó, ông đã dâng cúng những chiếc y đắt tiền cho Đức Phật và cho mỗi tỳ-kheo một bộ y giá trị. Vào thời của Siddhattha Buddha, ông là một vị Trưởng giả, và đã cúng dường bảy loại ngọc báu tại cây Bồ-đề. Vào thời của Kassapa Buddha, ông là một vị tỳ-kheo. Trong mười tám ngàn *kappa*, ông làm vua chư thiên và một ngàn lần ông làm vua loài người. Bất cứ nơi nào ông đến, ông đều có lọng che bằng vàng, và trong kiếp sống cuối cùng, phía trên giàn thiêu của ngài cũng có một cái lọng che bằng vàng (Thag­a.i.232f). Ngài dường như được đồng nhất với Sabbadāyaka trong Apadāna (Ap.i.333f). Một bài kệ được cho là của ngài được tìm thấy trong Theragāthā (kệ 117).
+
+Yasa thường được trích dẫn như một người đã tận hưởng sự xa hoa vô bờ bến trong cuộc đời cư sĩ (AN­a.ii.596). Dhammapada Commentary (Dhp­a.i.82f) tuyên bố rằng, trong một kiếp quá khứ, Yasa và bốn người bạn đồng hành của mình đã đi lang thang tham gia vào nhiều hoạt động xã hội khác nhau. Một ngày nọ, họ tình cờ bắt gặp xác của một phụ nữ mang thai, mà họ đã đưa đến nghĩa trang để hỏa táng. Tại đó, những người khác bỏ đi, để lại Yasa hoàn thành công việc. Trong khi hỏa thiêu xác chết, tâm trí ông tràn ngập những ý nghĩ về sự bất tịnh của cơ thể con người; ông đã hướng sự chú ý của bạn bè mình đến ý tưởng này, và, sau đó, là cha mẹ và những người vợ của ông, tất cả họ đều tán thành những gì ông nói. Vì lý do này, Yasa cảm thấy chán ghét đời sống gia đình, và bạn bè cùng các thành viên trong gia đình của ông đã có thể thấu hiểu Dhamma từ rất sớm trong sự nghiệp của Đức Phật.
+
+Sự xuất gia của Yasa là một trong những khung cảnh trong cuộc đời của Đức Phật được điêu khắc trong Phòng Xá-lợi của Mahā Thūpa (Mhv.xxx.79).
+
+Theo Aṅguttara Commentary (AN­a.i.218f), Sujātā *Senānīdhītā* (người đã dâng cúng Đức Phật một bữa cơm sữa ngay trước khi Ngài Giác Ngộ) là mẹ của Yasa. Bà đã trở thành một *Sotāpanna* (bậc Dự lưu) sau khi nghe Đức Phật thuyết pháp.
 
 ## Notes

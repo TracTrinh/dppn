@@ -5,7 +5,7 @@ base_headword: "Subhā"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Subhā 01. A group of *Brahmas*; the group includes the <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subhā 01. Một nhóm các vị Phạm thiên (*Brahma*); nhóm này bao gồm Parittasubhā, Appamāṇasubhā và Subhakiṇhā. MN.iii.102.
 
 ## Notes

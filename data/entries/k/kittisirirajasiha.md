@@ -5,7 +5,7 @@ base_headword: "Kittisirirājasīha"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -24,6 +24,6 @@ Kittisirirājasīha. King of Ceylon (1767-1782 CE.). For details of his reign se
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kittisirirājasīha. Vua của Tích Lan (1767-1782 CN.). Để biết chi tiết về triều đại của ngài, xem Cv.xcix. và Cv.c.
 
 ## Notes

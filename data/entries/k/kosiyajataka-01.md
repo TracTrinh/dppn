@@ -5,7 +5,7 @@ base_headword: "Kosiyajātaka"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -32,6 +32,10 @@ In the *atītavatthu* the woman is addressed as “<span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kosiyajātaka 01. (Ja 130). Một Bà-la-môn của Benares có một người vợ tồi tệ, ban ngày nằm trên giường giả bệnh và dành những đêm của mình để hưởng lạc. Người chồng làm việc chăm chỉ để cung cấp cho bà ta những món ngon, và, kết quả là, không thể đến thăm sư phụ của mình là Bodhisatta. Khi Bodhisatta phát hiện ra sự thật, ngài khuyên vị Bà-la-môn chuẩn bị một hỗn hợp phân bò và những thứ khác rồi ép người vợ hoặc uống thuốc này hoặc thức dậy và làm việc. Bà ta sau đó biết rằng sự giả bộ của mình đã bị phát hiện và từ bỏ những thói hư tật xấu của mình.
+
+Câu chuyện được kể cho một Bà-la-môn của Sāvatthī, một đệ tử ngoan đạo của Đức Phật, có vợ cư xử theo cách tương tự. Đức Phật kể cho ông câu chuyện quá khứ này và bảo ông thử cùng một phương pháp, vì, ngài nói, Bà-la-môn và vợ của ông ta cũng chính là cặp vợ chồng trong câu chuyện (Ja.i.463f).
+
+Trong *atītavatthu*, người phụ nữ được gọi là “Kosiyā”. Người chú giải (Ja.i.465) cho biết thêm rằng bà ta thuộc về Kosiyagotta.
 
 ## Notes

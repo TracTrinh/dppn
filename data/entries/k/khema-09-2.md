@@ -5,7 +5,7 @@ base_headword: "Khemā"
 disambiguator: "09"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -25,6 +25,6 @@ Khemā 09. A river flowing from <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khemā 09. Một con sông chảy từ Himavā (Ja.v.199f).
 
 ## Notes

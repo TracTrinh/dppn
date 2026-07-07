@@ -5,7 +5,7 @@ base_headword: "Mahā Paduma"
 disambiguator: "08"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Paduma 08. The Bodhisatta. See the <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Paduma 08. Bodhisatta. Xem Mahā Padumajātaka (Ja 472).
 
 ## Notes

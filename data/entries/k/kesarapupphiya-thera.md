@@ -5,7 +5,7 @@ base_headword: "Kesarapupphiya Thera"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kesarapupphiya Thera. An *Arahant*. Ninety-one *kappas* ago he was a *vijjādhar
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kesarapupphiya Thera. Một vị Arahant. Chín mươi mốt kappa trước ngài là một vijjādhara ở Himavā, và sau khi nhìn thấy Đức Phật Vessabhū, ngài đã dâng cúng cho Đức Phật ba bông hoa kesara. Ap.i.187.
 
 ## Notes

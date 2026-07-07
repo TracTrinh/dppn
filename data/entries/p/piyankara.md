@@ -5,7 +5,7 @@ base_headword: "Piyaṅkara"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -27,6 +27,6 @@ Piyaṅkara. A little boy <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piyaṅkara. Một cậu bé dạ-xoa (*Yakkha*). Trong khi người mẹ, bế cậu bé bên hông, đang tìm kiếm thức ăn vào ban đêm, bà tình cờ đến Jetavana nơi Anuruddha đang đọc một vài vần kệ. Âm thanh đó làm bà vui lòng và bà đứng "rúng động đến tận xương tủy, như một cây cột," dỗ dành đứa con đang rên rỉ đòi ăn của mình chìm vào giấc ngủ. SN.209; cũng xem Vsm.382; DN­a.ii.509; và Paṭis-a.79, nơi bà được gọi là ngạ quỷ có lâu đài (*vimānapeta*).
 
 ## Notes

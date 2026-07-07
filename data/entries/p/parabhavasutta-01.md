@@ -5,7 +5,7 @@ base_headword: "Parābhavasutta"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -30,6 +30,8 @@ The *Sutta* deals with various causes, which lead to the decay and corruption of
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parābhavasutta 01. Bài Sutta thứ sáu của Suttanipāta, được giảng vào ngày hôm sau của ngày giảng Maṅgalasutta. Trong bài kinh trước, Đức Phật đã nói về những con đường thăng tiến; chư thiên sau đó muốn nghe xem chúng sinh sa đọa như thế nào, và theo thỉnh cầu của họ, Sakka đã cử một vị thiên nhân đến hỏi Đức Phật, và nhân đó, Ngài đã giảng bài pháp này. Tương truyền rằng khi kết thúc bài Sutta, vô số chúng sinh đã chứng ngộ Chân lý. Snp­a.i.169-74.
+
+Bài Sutta đề cập đến nhiều nguyên nhân khác nhau dẫn đến sự suy tàn và sa đọa của chúng sinh. Sau khi đã cân nhắc kỹ lưỡng mọi con đường hủy diệt khác nhau, người trí giả tránh xa chúng và, khi được trang bị tuệ giác, sẽ đạt đến hạnh phúc. Snp.vs.91-115.
 
 ## Notes

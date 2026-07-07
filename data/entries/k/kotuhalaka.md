@@ -5,7 +5,7 @@ base_headword: "Kotūhalaka"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -30,6 +30,6 @@ Kotūhalaka. A poor man of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kotūhalaka. Một người đàn ông nghèo ở Addilaraṭṭha, một tiền kiếp của Ghosakaseṭṭhi (*xem mục này*). Vợ của ông là Kāli và con trai của ông là Kāpi. DN­a.i.317; MN­a.ii.539; Dhp­a.i.169; Chú giải Dhammapada nói rằng ông ở Ajitaraṭṭha.
 
 ## Notes

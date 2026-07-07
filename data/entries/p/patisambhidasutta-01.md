@@ -5,7 +5,7 @@ base_headword: "Paṭisambhidāsutta"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Paṭisambhidāsutta 01. Five qualities which make a monk become that which he s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṭisambhidāsutta 01. Năm phẩm chất làm cho một tỳ-kheo trở thành điều mà vị ấy nên trở thành: bốn *paṭisambhidā* và sự hiểu biết về tất cả mọi việc, từ lớn đến nhỏ, những việc cần phải làm cho các vị đồng tu phạm hạnh của mình. AN.iii.113.
 
 ## Notes

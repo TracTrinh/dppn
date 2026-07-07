@@ -5,7 +5,7 @@ base_headword: "Simbalivana"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Simbalivana, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Simbalivana, Simbalidaha. Nơi cư trú của các Garuḍa. Ja.i.202; Dhp­a.i.279; MN­a.ii.638.
 
 ## Notes

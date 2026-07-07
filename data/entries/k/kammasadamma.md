@@ -5,7 +5,7 @@ base_headword: "Kammāsadamma"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -67,6 +67,24 @@ In the Divy.515f, the place is called Kammāsadamya. It was the residence of the
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kammāsadamma (*các cách đọc khác:* Kammāsadhamma, Kammasadamma). Một thị trấn của bộ tộc Kurū. Gotama Buddha, trong suốt quá trình du hành của mình, đã ở lại đó vài lần; tuy nhiên, nơi ngự chính xác của ngài chỉ được nhắc đến một lần, đó là túp lều lửa của một vị Bà-la-môn thuộc gia tộc (*gotta*) Bhāradvāja, nơi một chiếc chiếu cỏ được vị Bà-la-môn trải ra cho ngài. Theo Māgandiyasutta (MN.i.501), chính trong dịp này, sau một cuộc thảo luận dài, Māgandiya đã được cải đạo.
+
+Nhiều bài pháp quan trọng đã được thuyết giảng tại Kammāsadamma, trong đó có:
+
+- Mahā Nidānasutta (DN.ii.55; SN.ii.92)
+- Mahā Satipaṭṭhānasutta (DN.ii.290; MN.i.55)
+- Ānañjasappāyasutta (MN.ii.26)
+
+Saṁyuttanikāya (SN.ii.107f) chứa một bài pháp về việc xử lý các trải nghiệm thông qua các mối quan hệ nhân duyên, và Aṅguttara (AN.v.29f) một bài pháp về mười trạng thái cao thượng (*ariyavāsā*), cả hai đều được thuyết giảng tại Kammāsadhamma.
+
+Buddhaghosa (SN­a.ii.89) nói rằng người dân ở đó tràn đầy trí tuệ và thức ăn của họ rất bổ dưỡng; do đó, việc Đức Phật đã thuyết giảng những bài kinh (*Sutta*) này cho họ là một lời khen ngợi đối với năng lực trí tuệ của họ.
+
+Ngay cả trong thời đại của Buddhaghosa, tên của thị trấn đã có hai cách đánh vần khác nhau, và hai từ nguyên học được đề xuất cho các tên này (DN­a.ii.483). Nơi này được gọi là Kammāsadamma vì tại đây dạ-xoa ăn thịt người Kammāsapāda đã được Bodhisatta thuần hóa và cảm hóa. (*Kammāso ettha damito ti, Kammāsadamaṁ-Kammāso ti Kammāsapādo porisādo vuccati*.)
+
+Cách đánh vần Kammāsadhamma được giải thích dựa trên cơ sở là người dân ở xứ Kuru có một quy tắc danh dự được gọi là Kuruvattadhamma; chính tại đây Kammāsa (đã được nhắc đến) đã được cải đạo và buộc phải chấp nhận quy tắc này, do đó có tên thị trấn. (*Kururaṭṭhavāsīnaṁ kira kuruvattadhammo, tasmiṁ Kammāso jāto, tasmā taṁ ṭhānaṁ “Kammāso ettha dhamme jāto” ti Kammāsadhamman-ti vuccati*, người dân xứ Kuru được nói là có một thực hành được gọi là *Kuruvatta*. Trong (khu vực) đó, Kammāsa được sinh ra. Vì vậy, nơi đó được gọi là KammāsaDhamma vì Kammāsa được sinh ra ở đây phù hợp với Dhamma).
+
+Theo các Jātaka, có hai nơi cùng tên, lần lượt được gọi là Cūḷa Kammāsadamma và Mahā Kammāsadamma, để phân biệt nơi này với nơi kia. Mahā Kammāsadamma, nơi hiển nhiên là địa điểm ban đầu, được thành lập trên chính nơi mà kẻ ăn thịt người (*porisāda*) của Mahā Sutasomajātaka (Ja 537) đã được thuần hóa (Ja.v.411), trong khi Cūḷa Kammāsadamma là cái tên được đặt cho nơi mà Jayaddisa (Ja 513) đã cho thấy dũng khí của mình bằng chiến thắng tâm linh trước dạ-xoa trong Jayaddisajātaka (Ja 513, Ja.v.35f).
+
+Trong Divy.515f, nơi này được gọi là Kammāsadamya. Đây từng là nơi ở của các Tỳ-kheo-ni Nanduttarā và Mittākālikā (Thīg­a.87, 89).
 
 ## Notes

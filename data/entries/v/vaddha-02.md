@@ -5,7 +5,7 @@ base_headword: "Vaḍḍha"
 disambiguator: "02"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -29,6 +29,6 @@ Vaḍḍha 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaḍḍha 02. Vaḍḍha Trưởng lão. Ông thuộc một gia đình cư sĩ ở Bhārukaccha. Mẹ của ông (Vaḍḍhamātā) rời bỏ gia đình, giao ông cho thân quyến chăm sóc, gia nhập Tăng đoàn và trở thành Arahant. Vaḍḍha xuất gia dưới sự hướng dẫn của Veḷudatta và trở thành một nhà thuyết pháp tài giỏi. Một ngày ông đến thăm mẹ một mình và không mặc y, bị mẹ quở trách. Bị xúc động vì điều này, ông trở về tu viện, và trong giờ nghỉ trưa, phát triển tuệ quán, chứng đắc quả vị Arahant. Thag­a.i.413f. Sáu bài kệ của ông xuất hiện trong Thag.335-9; ep. Thīg.210-12.
 
 ## Notes

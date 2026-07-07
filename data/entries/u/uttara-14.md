@@ -5,7 +5,7 @@ base_headword: "Uttara"
 disambiguator: "14"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Uttara 14. The name of the Bodhisatta in the time of <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttara 14. Tên của Bodhisatta vào thời của Sumedha Buddha. Ông đã chi ra tám mươi crore để bố thí cho Đức Phật và các tỳ-kheo và sau đó gia nhập Tăng đoàn. Ja.i.37-8; Bv.xii.11.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Khema"
 disambiguator: "02"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -25,6 +25,6 @@ Khema 02. The city in which <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khema 02. Thành phố nơi Tissa Buddha đản sanh. Ja.i.40. Trong Bv.xviii.16 thành phố này được gọi là Khemaka.
 
 ## Notes

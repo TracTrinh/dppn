@@ -5,7 +5,7 @@ base_headword: "Kaṁsa"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -27,6 +27,6 @@ Kaṁsa 01. Another name, according to the scholiast, for <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṁsa 01. Một tên khác, theo nhà chú giải, của Brahmadatta, vua xứ Benares và là cha của Samuddajā. Ja.vi.198 (25).
 
 ## Notes

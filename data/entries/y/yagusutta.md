@@ -5,7 +5,7 @@ base_headword: "Yāgusutta"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -24,6 +24,6 @@ Yāgusutta. The five advantages of gruel: it satisfies hunger, keeps off thirst,
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yāgusutta. Năm lợi ích của cháo: nó làm thỏa mãn cơn đói, xua tan cơn khát, điều hòa khí, làm sạch bàng quang, và tiêu hóa thức ăn thừa còn sót lại. AN.iii.250.
 
 ## Notes

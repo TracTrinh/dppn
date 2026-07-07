@@ -5,7 +5,7 @@ base_headword: "Vijayapura"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -23,6 +23,6 @@ Vijayapura. The Pāli name for the city of Panyā in Burma. Bode, 27, 40.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vijayapura. Tên tiếng Pāli của thành phố Panyā ở Miến Điện (Burma). Bode, 27, 40.
 
 ## Notes

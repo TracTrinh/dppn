@@ -5,7 +5,7 @@ base_headword: "Keka"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Keka *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Keka biến thể Kekaka. Một vương quốc ở Mahiṁsakaraṭṭha. Ajjuna Sahassabāhu đã từng trị vì ở đó (Ja.v.145).
 
 ## Notes

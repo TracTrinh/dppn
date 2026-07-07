@@ -5,7 +5,7 @@ base_headword: "Usabhakkhandha"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -25,6 +25,6 @@ Usabhakkhandha. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Usabhakkhandha. Con trai của Dīpaṅkara (Bv.ii.209; Mbv.4). Xem thêm Samavattakkhandha.
 
 ## Notes

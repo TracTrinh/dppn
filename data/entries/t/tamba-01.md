@@ -5,7 +5,7 @@ base_headword: "Tamba"
 disambiguator: "01"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,6 @@ Tamba 01. A king of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tamba 01. Một vị vua xứ Benares có chánh hậu là Sussondī. Xem Sussondījātaka để biết câu chuyện của ngài (Ja 360, Ja.iii.187ff). Ngài được nhận diện là Ānanda.
 
 ## Notes

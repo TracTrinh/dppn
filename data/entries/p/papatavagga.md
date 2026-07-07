@@ -5,7 +5,7 @@ base_headword: "Papātavagga"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Papātavagga. The fifth chapter of the <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Papātavagga. Phẩm thứ năm của Saccasaṁyutta. SN.v.446ff.
 
 ## Notes

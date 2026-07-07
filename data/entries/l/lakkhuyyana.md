@@ -5,7 +5,7 @@ base_headword: "Lakkhuyyāṇa"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -26,6 +26,6 @@ Lakkhuyyāṇa. A park in Ceylon, laid out by <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lakkhuyyāṇa. Một công viên ở Tích Lan, được Parakkamabāhu I. quy hoạch vì lợi ích của các tỳ-kheo. Kênh đào Candabhāgā chảy qua nó. Cv.lxxix.3, 48.
 
 ## Notes

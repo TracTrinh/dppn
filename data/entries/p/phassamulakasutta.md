@@ -5,7 +5,7 @@ base_headword: "Phassamūlakasutta"
 disambiguator: ""
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -24,6 +24,6 @@ Phassamūlakasutta. Three things are rooted in, and conditioned by, contact: fee
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phassamūlakasutta. Ba điều có nguồn gốc từ, và bị điều kiện hóa bởi xúc: thọ, lạc, khổ và xả. SN.iv.215.
 
 ## Notes

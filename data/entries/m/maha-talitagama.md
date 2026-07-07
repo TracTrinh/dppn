@@ -5,7 +5,7 @@ base_headword: "Mahā Tālitagāma"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -27,6 +27,6 @@ Mahā Tālitagāma. A village in <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Tālitagāma. Một ngôi làng ở Uttaradesa, tại Ceylon, nơi mà vị vua Paṇḍu đã xâm lược Ceylon trong triều đại của Sena I đã chiếm giữ một doanh trại vũ trang. Cv.l.14.
 
 ## Notes

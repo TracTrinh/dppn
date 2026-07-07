@@ -5,7 +5,7 @@ base_headword: "Soṇā"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Soṇā 02. An *Aggasāvikā*, of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Soṇā 02. Một *Aggasāvikā* của Sumana Buddha. Bv.v.24; Ja.i.34.
 
 ## Notes

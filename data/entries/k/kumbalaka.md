@@ -5,7 +5,7 @@ base_headword: "Kumbālaka"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kumbālaka. One of the tanks built by <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một trong những hồ chứa nước do Mahā Sena xây dựng. Mhv.xxxvii.48.
 
 ## Notes

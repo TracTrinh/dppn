@@ -5,7 +5,7 @@ base_headword: "Paṅkadhāsutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -28,6 +28,6 @@ Paṅkadhāsutta. When the Buddha stayed at <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṅkadhāsutta. Khi Đức Phật dừng chân tại Paṅkadhā trong một chuyến du hành của Ngài và giảng dạy cho các tỳ-kheo ở đó, Kassapa thuộc Kassapagotta đã không tán thành giáo lý của Ngài, cho rằng Ngài quá cẩn thận. Nhưng sau đó, khi Đức Phật trở về Rājagaha, Kassapa tràn đầy hối hận, đã đi theo Ngài đến đó, thú nhận lỗi lầm của mình, và cầu xin sự tha thứ. Đức Phật đã khen ngợi ngài vì đã biết thú nhận, và nói rằng chỉ có những vị tỳ-kheo nào nhiệt thành trong việc thực hành giáo pháp mới xứng đáng được khen ngợi, còn những người khác thì không. AN.i.236f.
 
 ## Notes

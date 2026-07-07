@@ -5,7 +5,7 @@ base_headword: "Uppalā"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -25,6 +25,6 @@ Uppalā. One of the chief women supporters of <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uppalā. Một trong những nữ thí chủ hộ độ chính của Anomadassī Buddha. Bv.viii.24.
 
 ## Notes

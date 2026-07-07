@@ -5,7 +5,7 @@ base_headword: "Kūṭasutta"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -24,6 +24,6 @@ Kūṭasutta 01. In a peaked house (*kūṭāgāra*) all the rafters converge to
 
 ## Vietnamese translation
 
-Chưa dịch.
+Trong một ngôi nhà có mái ngói nhọn (*kūṭāgāra*), tất cả các thanh rui đều hội tụ về đỉnh mái ngói nhọn; do đó tất cả các trạng thái sai trái đều được gắn kết với nhau trong vô minh. SN.ii.262.
 
 ## Notes

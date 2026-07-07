@@ -5,7 +5,7 @@ base_headword: "Kusumī"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -29,6 +29,6 @@ Kusumī *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+*v.l.* Kusima. Một cảng biển ở Rāmañña nơi một phần của lực lượng viễn chinh Sinhalese do Parakkamabāhu I. phái đến đã đổ bộ trên năm con tàu (Cv.lxxvi.59). Nó có lẽ giống với Kusumatittha được đề cập trong Sāsanavaṁsa (ví dụ, pp.66, 90) như là một cảng biển.
 
 ## Notes

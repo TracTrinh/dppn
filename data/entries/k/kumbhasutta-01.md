@@ -5,7 +5,7 @@ base_headword: "Kumbhasutta"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -23,6 +23,6 @@ Kumbhasutta 01. A pot without support is easily upset, so is it with the mind. S
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một cái chậu không có điểm tựa thì dễ bị lật, tâm cũng vậy. Điểm tựa cho tâm là Bát Thánh đạo. SN.v.20f.
 
 ## Notes

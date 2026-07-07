@@ -5,7 +5,7 @@ base_headword: "Kāḷaselasatthā"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -25,6 +25,6 @@ Kāḷaselasatthā. A statue of the Buddha. See <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷaselasatthā. Một bức tượng của Đức Phật. Xem Silāsambuddha.
 
 ## Notes

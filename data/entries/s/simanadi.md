@@ -5,7 +5,7 @@ base_headword: "Sīmanadī"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sīmanadī. Probably the name of a river which formed one of the boundaries of t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīmanadī. Có lẽ là tên một con sông tạo thành một trong các ranh giới của Vijayabāhupariveṇa. Trên bờ sông này có Sālaggāma. Cv.xc.92.
 
 ## Notes

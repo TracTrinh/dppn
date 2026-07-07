@@ -5,7 +5,7 @@ base_headword: "Siripāsāda"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Siripāsāda. A building erected by <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Siripāsāda. Một công trình do Māṇavamma xây dựng trong vihāra Sirisaṅghabodhi. Cv.xlvii.64.
 
 ## Notes

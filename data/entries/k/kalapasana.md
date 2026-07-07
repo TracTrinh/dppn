@@ -5,7 +5,7 @@ base_headword: "Kāḷapāsāṇa"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -25,6 +25,6 @@ Kāḷapāsāṇa. A tank in Ceylon; one of sixteen tanks built by King <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷapāsāṇa. Một hồ chứa nước ở Tích Lan; một trong mười sáu hồ chứa nước được xây dựng bởi Vua Nabāsena. Mhv.xxxvii.49.
 
 ## Notes

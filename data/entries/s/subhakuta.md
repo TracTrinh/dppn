@@ -5,7 +5,7 @@ base_headword: "Subhakūṭa"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -29,6 +29,6 @@ Subhakūṭa. The name of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subhakūṭa. Tên của Núi Missaka (Sīlakūṭa) vào thời của Kassapa Buddha. Ceylon khi đó được biết đến với tên gọi là Maṇḍadīpa. Chính tại Subhakūṭa mà Kassapa Buddha đã đáp xuống khi Ngài đặt chân đến Ceylon. Mhv.xv.131f.; Dpv.xvii.14.
 
 ## Notes

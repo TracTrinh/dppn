@@ -5,7 +5,7 @@ base_headword: "Vātakālaka"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -27,6 +27,6 @@ Vātakālaka. An executioner of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một người đao phủ ở Rājagaha, người đã làm việc trong năm mươi năm và sau đó nghỉ hưu vì tuổi già. Vì ông không có thời gian cho những thứ xa xỉ trong những năm làm việc của mình, nên vào ngày nghỉ hưu, ông đã bảo vợ nấu sữa tươi nấu gạo và đi tắm. Trên đường về nhà, mặc những bộ quần áo sạch sẽ, cơ thể được ướp hương thơm, ông gặp Sāriputta, đã mời ngài đến nhà mình, và dâng cúng cho ngài nhiều món ngon. Vào cuối bữa ăn, ông đi cùng vị Trưởng lão một đoạn đường, và trên đường trở về, đã bị một con bò cái có bê con húc chết. Sau khi chết, ông tái sinh ở Tāvatiṁsa. AN­a.i.368.
 
 ## Notes

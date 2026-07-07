@@ -5,7 +5,7 @@ base_headword: "Kureñjiyaphaladāyaka Thera"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,6 @@ Kureñjiyaphaladāyaka Thera (<span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một *Arahant*. Ba mươi mốt *kappa* trước, ngài là một thợ săn, và khi thấy vị Phật Sikhī trong rừng, ngài đã dâng lên ngài một quả *kureñjiya* (Ap.ii.448f). Ngài hiển nhiên đồng nhất với Soṇaseṭṭhiputta Thera (Thag­a.i.316f).
 
 ## Notes

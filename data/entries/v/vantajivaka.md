@@ -5,7 +5,7 @@ base_headword: "Vantajīvakā"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vantajīvakā. A group or sect of Buddhist ascetics. <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vantajīvakā. Một nhóm hoặc giáo phái của các tu sĩ ẩn hạnh. Vijayabāhu I. đã cung cấp cho họ những nhu yếu phẩm và ban tặng các ngôi làng để chu cấp cho thân nhân của họ (Cv.lx.69). cp. Lābhavāsī.
 
 ## Notes

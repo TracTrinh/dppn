@@ -5,7 +5,7 @@ base_headword: "Sattuppalamālikā Therī"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -25,6 +25,6 @@ Sattuppalamālikā Therī. An *Arahant* (Ap.ii.517). Evidently identical with <s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Trưởng lão ni Sattuppalamālikā. Một vị Arahant (Ap.ii.517). Rõ ràng là cùng một người với Trưởng lão ni Abhayā. Thīg­a.42f.
 
 ## Notes

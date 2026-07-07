@@ -5,7 +5,7 @@ base_headword: "Veṭhipura"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Veṭhipura, *v.1.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Veṭhipura, *v.1.* Veṭṭhapura. Một thành phố ở Ấn Độ, nơi sinh của Trưởng lão Abhibhūta. Thag­a.i.372.
 
 ## Notes

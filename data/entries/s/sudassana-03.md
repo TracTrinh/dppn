@@ -5,7 +5,7 @@ base_headword: "Sudassana"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sudassana 03. Younger brother and *Aggasāvaka* of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudassana 03. Em trai và Thượng thủ Thinh văn (*Aggasāvaka*) của Sujāta Buddha. Ja.i.38; Bv.xiii.25; Bv­a.169.
 
 ## Notes

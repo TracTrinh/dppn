@@ -5,7 +5,7 @@ base_headword: "Kolapaṭṭana"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -25,6 +25,6 @@ Kolapaṭṭana. A harbour mentioned in the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kolapaṭṭana. Một bến cảng được đề cập trong Milindapañha (p.359); nó có lẽ nằm trên bờ biển Koromandel. *Questions of King Milinda*, xliv.
 
 ## Notes

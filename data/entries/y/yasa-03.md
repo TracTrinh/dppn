@@ -5,7 +5,7 @@ base_headword: "Yasa"
 disambiguator: "03"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -24,6 +24,6 @@ Yasa 03. A *Deva*, present at the preaching of the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yasa 03. Một vị *Deva*, có mặt tại buổi thuyết giảng kinh Mahā Samayasutta. DN.ii.259; có lẽ tên của vị này là *Yasasa* (DN­a.ii.690).
 
 ## Notes

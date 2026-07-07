@@ -5,7 +5,7 @@ base_headword: "Sulasā"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Sulasā 01. A *nagarasobhinī* (courtezan, lit.: town beauty) of <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sulasā 01. Một *nagarasobhinī* (kỹ nữ, nghĩa đen: người đẹp của thị trấn) của Benares; xem Sulasājātaka (Ja 419).
 
 ## Notes

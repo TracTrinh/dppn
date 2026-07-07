@@ -5,7 +5,7 @@ base_headword: "Kulupakasutta"
 disambiguator: "03"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -23,6 +23,6 @@ Kulupakasutta 03. Five evil results of visiting families too often-frequent sigh
 
 ## Vietnamese translation
 
-Chưa dịch.
+Năm hậu quả xấu của việc đến thăm các gia đình quá thường xuyên - thường xuyên nhìn thấy phụ nữ và kéo theo đó là mối nguy hại đối với việc sống độc thân ở các mức độ khác nhau. AN.iii.259.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Khudda Aggabodhi"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -26,6 +26,6 @@ Khudda Aggabodhi. The name given to <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khudda Aggabodhi. Tên được đặt cho Aggabodhi II. (Cv.xlii.40; xliv.2). Ngài cũng được gọi là Khuddarājā (Cv.xliv.138). Xem Aggabodhi (3).
 
 ## Notes

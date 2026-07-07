@@ -5,7 +5,7 @@ base_headword: "Kāliṅga"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -93,6 +93,24 @@ Kāliṅga is generally identified with the modern Orissa. (CAGI.590ff; Law: *Ge
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāliṅga 02. Một quốc gia: Kāliṅgaraṭṭha. Nó là một trong bảy phân chia chính trị được nhắc đến vào thời của vị vua huyền thoại Reṇu và được đưa ra đầu tiên trong danh sách, thủ đô của nó là Dantapura và vị vua của nó là Sattabhū (DN.ii.235f; xem thêm Mhv.iii.208; *Mahā Vastu* cũng nhắc đến một vị vua Uggata của Dantapura, iii.364f).
+
+Tuy nhiên, nó không được bao gồm trong danh sách mười sáu Janapada xuất hiện trong Aṅguttaranikāya (AN.i.213, v.v.), nhưng được tìm thấy trong danh sách mở rộng của Niddesa (CNid.ii.37). Một truyền thống sau này (Bv.xviii.6) cho biết rằng sau khi Đức Phật nhập diệt, một chiếc Răng đã được lấy từ trong số các xá-lợi của Ngài và được đặt tại Kāliṅga, tại đó nó được tôn thờ. Từ Kāliṅga chiếc Răng đã được mang đến Tích Lan, vào thời của Vua Sirimeghavaṇṇa, bởi Hemamālā, con gái của Guhasīva, vua xứ Kāliṅga, và phu quân của cô là Dantakumāra, một hoàng tử của hoàng tộc Ujjenī. Ở Tích Lan chiếc Răng này đã trở thành “Bảo vật Hộ quốc” của các vị vua Sinhalese (Cv.xxxvii.92; xem thêm Cv.Trs.i.7, n.4; Dāṭhādhātuvaṁsa cung cấp các chi tiết, JPTS 1884, pp.108ff).
+
+Các Jātaka chứa đựng nhiều sự đề cập khác nhau đến Kāliṅga. Đã từng có một trận hạn hán lớn ở Dantapura, và nhà vua, hành động theo lời khuyên của các quan đại thần của mình, đã phái các Bà-la-môn đến gặp vua xứ Kuru để xin mượn con voi quốc bảo của ngài, Añjanavasabha, được cho là có khả năng tạo ra mưa. Tuy nhiên, trong dịp này, con voi đã thất bại và vua xứ Kāliṅga, khi nghe về những ân đức được thực hành bởi nhà vua và người dân Dantapura, đã tự mình dâng chúng cho họ, nhờ đó mưa đã trút xuống. Xem Kurudhammajātaka (Ja 276), Ja.ii.367ff, cũng như Dhp­a.iv.88f. Một câu chuyện tương tự được thuật lại trong Vessantarajātaka, vi.487, ở đó các Bà-la-môn xứ Kāliṅga đã xin và nhận được con bạch tượng của Vessantara để nó có thể chấm dứt trận hạn hán ở Kāliṅga.
+
+Một vị vua khác của Kāliṅga là người cùng thời với Aruṇa, vua xứ Assaka của Potali. Vua xứ Kāliṅga, trong sự khao khát chiến đấu của mình, đã kiếm cớ gây sự với Aruṇa, nhưng đã bị đánh bại trong trận chiến, và đã phải giao nộp bốn người con gái của mình cùng với của hồi môn của họ cho Aruṇa (Ja.iii.3f).
+
+Kāliṅgabodhijātaka (Ja 479) thuật lại câu chuyện về một người cai trị khác của Kāliṅga trong khi, theo Sarabhaṅgajātaka (Ja 522), một vị vua nhất định xứ Kāliṅga (Ja.v.135f) đã đi cùng với hai vị vua khác, Aṭṭhaka và Bhīmaratta, để hỏi Sarabhaṅga những câu hỏi liên quan đến số phận của Daṇḍakī. Ở đó họ đã nghe vị ẩn sĩ thuyết pháp, và cả ba vị vua đều trở thành những người xuất gia. Một vị vua khác của Kāliṅga là Nāḷikīra, người, sau khi ngược đãi một vị thánh nhân, đã bị nuốt chửng vào Sunakhaniraya, trong khi đất nước của ông đã bị các chư thiên tàn phá và biến thành một vùng hoang vu (*Kāliṅgārañña*). Kāliṅgārañña được nhắc đến trong Upālisutta (MN.i.378); câu chuyện được thuật lại trong Ja.v.144 và, với chi tiết đầy đủ hơn, trong MN­a.ii.602ff. Trong Kumbhakārajātaka (Ja 408, Ja.iii.376) tên của vị vua xứ Kāliṅga là Karaṇḍu.
+
+Từ thời kỳ đầu, dường như đã có mối giao thiệp chính trị giữa người dân Kāliṅga và Vaṅga; Susīmā, bà nội của Vijaya, người sáng lập ra chủng tộc Sinhalese, là một công chúa xứ Kāliṅga, đã kết hôn với vua xứ Vaṅga (Mhv.vi.1; Dpv.ix.2ff). Mối quan hệ hữu nghị giữa Tích Lan và Kāliṅga rõ ràng đã có từ lâu đời, vì chúng ta tìm thấy trong triều đại của Aggabodhi II. (601-11 CN.) vua xứ Kāliṅga, cùng với hoàng hậu và vị quan đại thần của ông, đã đi qua Tích Lan với chủ ý sống đời sống của một người xuất gia và gia nhập Tăng đoàn dưới sự tế độ của Jotipāla. Aggabodhi và hoàng hậu của ông đã tiếp đãi họ với một sự tôn kính lớn (Cv.xlii.44ff). Về sau, chánh hậu của Mahinda IV. đến từ Kāliṅga và Vijayabāhu I. đã kết hôn với một công chúa xứ Kāliṅga, Tilokasundarī (Cv.lix.30). Chúng ta được kể lại rằng các hậu duệ của vương triều Kāliṅga đã nhiều lần đạt được quyền cai trị Tích Lan và rằng đã có nhiều mối quan hệ họ hàng giữa các hoàng gia của hai quốc gia (Cv.lxiii.7, 12f). Nhưng chính Māgha, một hậu duệ của các vị vua Kāliṅga, là người đã gây ra những tổn thất vô song cho Tích Lan cũng như cho tôn giáo và nền văn học của quốc gia này (Cv.lxxx.58ff).
+
+Theo các bản khắc, Asoka, vào năm thứ mười ba trong triều đại của mình, đã chinh phục Kāliṅga và đây là bước ngoặt trong sự nghiệp của ông, khiến ông chán ghét chiến tranh (Mookerji: *Asoka*, pp.16, 37, 214). Trong số những người tùy tùng được ông cử đi hộ tống nhánh Cây Bồ-đề Thiêng liêng trong cuộc hành trình của nó đến Tích Lan, có tám gia đình xứ Kāliṅga (Vin-a.i.96).
+
+Em trai của Asoka là Tissa, sau này được biết đến với tên gọi là Ekavihāriya, đã dành thời gian nghỉ hưu của mình ở đất nước Kāliṅga cùng với người thầy của mình là Dhammarakkhita, và tại đó Asoka đã xây dựng cho ngài Bhojakagirivihāra (Thag­a.i.506).
+
+Theo Vessantarajātaka (Ja 547, Ja.vi.521), ngôi làng của các Bà-la-môn Dunniviṭṭha, nơi ở của Jūjaka, nằm ở Kāliṅga.
+
+Kāliṅga thường được nhận diện với Orissa hiện đại. (CAGI.590ff; Law: *Geography of Early Buddhism*, 64; xem thêm Bhaṇḍarkar: *Ancient History of Deccan*, p.12).
 
 ## Notes

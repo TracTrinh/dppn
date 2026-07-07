@@ -5,7 +5,7 @@ base_headword: "Kaṭattha"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kaṭattha. One of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṭattha. Một trong những vị Yakkha làm nhiệm vụ canh gác cung điện của Jotika. Ông ở tại cánh cổng thứ sáu và có sáu ngàn Yakkha đi cùng. Dhp­a.iv.209.
 
 ## Notes

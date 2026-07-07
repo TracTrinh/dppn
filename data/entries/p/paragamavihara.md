@@ -5,7 +5,7 @@ base_headword: "Paragāmavihāra"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Paragāmavihāra. A monastery in Ceylon, restored by <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paragāmavihāra. Một tu viện ở Tích Lan, được Vijayabāhu I trùng tu. Cv.lx.61.
 
 ## Notes

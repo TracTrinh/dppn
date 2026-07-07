@@ -5,7 +5,7 @@ base_headword: "Kāḷadīghavāpi"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -28,6 +28,8 @@ There was evidently a *vihāra* attached to it. The <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷadīghavāpi. Một cái hồ, rõ ràng là ở Tích Lan. Cūḷa Piṇḍapātikatissa đã nhìn thấy xác một con voi trôi nổi trên hồ và biến nó thành đề mục thiền định để đạt được quả vị *Arahant*. Vsm.i.191.
+
+Rõ ràng là có một *vihāra* được gắn liền với nó. Majjhima Commentary (Ma.i.353f) đưa ra một câu chuyện về một sa-di đã sống ở đó.
 
 ## Notes

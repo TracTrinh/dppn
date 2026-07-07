@@ -5,7 +5,7 @@ base_headword: "Kaniṭṭhatissa"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -47,6 +47,8 @@ He had two sons, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="21" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaniṭṭhatissa, Kaniṭṭhatissaka. Vua của Tích Lan (227-245 CE). Ông là em trai của Bhātikatissa. Ông đã xây dựng Ratanapāsāda tại Abhayagiri cho Mahā Nāga ở Bhūtārama, và ông cũng xây dựng tại Abhayagiri một bức tường, một pariveṇa lớn, và Maṇisomavihāra. Ông đã xây dựng một cetiya tại Ambatthala, trùng tu ngôi đền tại Nāgadipa, và tạo ra các cốc Kukkuṭagiri. Trong số những công trình khác của ông có mười bốn pāsādas tại Mahā Vihāra, một con đường dẫn đến Dakkhiṇavihāra, Bhūtārāmavihāra, Rāmagoṇaka, tu viện Nandatissa, vihāra Anulatissapabbata, Niyelatissārāma, Pīlapiṭṭhivihāra, và Rāja Mahāvihāra.
+
+Ông có hai con trai, Khujjanāga và Kuñcanāga (*q.v.*). Mhv.xxxvi.6ff.
 
 ## Notes

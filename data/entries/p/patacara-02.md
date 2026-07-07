@@ -5,7 +5,7 @@ base_headword: "Paṭācārā"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -34,6 +34,8 @@ Paṭācārā 02. One of the five children of two <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṭācārā 02. Một trong năm người con của hai nhà tranh luận phái Jain, một nam và một nữ, của Vesālī; họ đã kết hôn theo gợi ý của những người Licchavī để con cái của họ có thể thừa hưởng tài năng của cả hai. Paṭācārā cùng với ba chị em gái và một người anh trai của bà sau đó đã được Sāriputta cải đạo và trở thành các vị *Arahant*.
+
+Paṭācārā được đồng nhất với một trong những người con gái của vua Kāliṅga trong Cūḷa Kāliṅgajātaka (Ja 301, Ja.iii.1ff). Anh trai của bà là *Nigaṇṭha* Saccaka (MN­a.i.450).
 
 ## Notes

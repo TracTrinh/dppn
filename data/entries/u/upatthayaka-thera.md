@@ -5,7 +5,7 @@ base_headword: "Upaṭṭhāyaka Thera"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Upaṭṭhāyaka Thera. An *Arahant*. In a previous birth he provided <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upaṭṭhāyaka Thera. Một *Arahant*. Trong một tiền kiếp ông đã cung cấp cho Đức Phật Siddhattha một thị giả cá nhân (*upaṭṭhāka*). Năm mươi bảy kappa trước đây ông được sinh ra làm một vị vua, tên là Balasena. Ap.i.241.
 
 ## Notes

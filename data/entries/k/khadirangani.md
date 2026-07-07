@@ -5,7 +5,7 @@ base_headword: "Khadiraṅgaṇi"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -26,6 +26,6 @@ Khadiraṅgaṇi. A village in Ceylon. <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khadiraṅgaṇi. Một ngôi làng ở Tích Lan. Kitti (sau này là Vijayabāhu I) đã từng chiếm giữ một đồn lũy trong ngôi làng này và đã tham gia một trận chiến thành công ở gần đó. Cv.lvii.72; lviii.36.
 
 ## Notes

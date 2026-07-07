@@ -5,7 +5,7 @@ base_headword: "Khajjūrakavaḍḍhamāna"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -24,6 +24,6 @@ Khajjūrakavaḍḍhamāna. A tank in Ceylon. Cv.lxvii.39.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khajjūrakavaḍḍhamāna. Một hồ chứa nước ở Tích Lan. Cv.lxvii.39.
 
 ## Notes

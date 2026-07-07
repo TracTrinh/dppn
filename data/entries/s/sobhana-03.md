@@ -5,7 +5,7 @@ base_headword: "Sobhana"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Sobhana 03. The city of birth of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sobhana 03. Thành phố nơi Atthadassī Buddha đản sinh, nơi về sau Ngài thuyết pháp cho thân quyến của mình. Bv.xv.5, 14; Bv­a.179; nhưng Ja.i.39 gọi nó là Sobhita.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Koñca"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -25,6 +25,6 @@ Koñca 02. One of the three palaces of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koñca 02. Một trong ba cung điện của Vidhurapaṇḍita. Ja.vi.289.
 
 ## Notes

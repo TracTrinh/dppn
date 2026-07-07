@@ -5,7 +5,7 @@ base_headword: "Upekhāsutta"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -26,6 +26,6 @@ Upekhāsutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upekhāsutta 01. Ānanda nói rằng các căn của Sāriputta thì trong sạch và khuôn mặt của ngài ấy thì trong sáng. Ngài ấy đã trải qua ngày hôm nay như thế nào? Sāriputta trả lời rằng ngài ấy đã an trú trong *jhāna* thứ tư, trong đó không có niềm vui hay nỗi đau mà là sự xả ly thuần tịnh. SN.iii.237.
 
 ## Notes

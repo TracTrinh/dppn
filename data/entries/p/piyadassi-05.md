@@ -5,7 +5,7 @@ base_headword: "Piyadassī"
 disambiguator: "05"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -27,6 +27,6 @@ Piyadassī 05. A Thera of Ceylon, incumbent of the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piyadassī 05. Một vị Thera ở Tích Lan, là người cư trú tại Devarāja *vihāra*. Ngài là học trò của nhà ngữ pháp học Moggallāna và đã viết sách ngữ pháp tiếng Pāli, Padasādhana. PLC. 205.
 
 ## Notes

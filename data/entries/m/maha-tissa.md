@@ -5,7 +5,7 @@ base_headword: "Mahā Tissā"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -24,6 +24,6 @@ Mahā Tissā. An eminent Therī of Ceylon. Dpv.xviii.38.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Tissā. Một vị ni sư (Therī) xuất chúng của Ceylon. Dpv.xviii.38.
 
 ## Notes

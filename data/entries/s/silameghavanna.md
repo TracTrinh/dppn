@@ -5,7 +5,7 @@ base_headword: "Silāmeghavaṇṇa"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -37,6 +37,8 @@ Urged by a monk, named <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Silāmeghavaṇṇa. Vua Tích Lan. Ông là con trai của *senāpati* của Moggallāna III. và giữ chức vụ người mang kiếm. Ông nổi loạn chống lại nhà vua và giết vua tại Sīhagiri. Sau đó ông giết Dalla Moggallāna và trở thành vua của Anurādhapura, trị vì trong chín năm (617-626 CN).
+
+Được một vị tỳ-kheo tên là Bodhi thúc giục, ông ban hành một đạo luật chỉnh đốn chống lại các tỳ-kheo vô kỷ luật ở Abhayagiri; nhưng các tỳ-kheo này đã sát hại Bodhi và bị nhà vua trừng phạt nghiêm khắc. Sau đó ông bất hòa với các tỳ-kheo Theravāda và lui về Dakkhiṇadesa, nơi ông qua đời (Cv.xliv. 43, 53ff). Aggibodhi III. và Kassapa II. là các con trai của ông. Ông cũng rõ ràng được biết đến với tên Silādāṭha. Xem Cv.xlv.51; cũng xem Cv.Trs.94, n.1.
 
 ## Notes

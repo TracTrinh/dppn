@@ -5,7 +5,7 @@ base_headword: "Kaṇhāyāna"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -29,6 +29,8 @@ The family was descended from a sage named <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇhāyāna. Tên của gia tộc mà Vāsudeva (Ja.iv.84; vi.421) và Ambaṭṭha (DN.i.93) thuộc về.
+
+Gia tộc này là hậu duệ của một vị hiền nhân tên là Kaṇha (xem Kaṇha (4).)
 
 ## Notes

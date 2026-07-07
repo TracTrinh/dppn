@@ -5,7 +5,7 @@ base_headword: "Mahakasutta"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -27,6 +27,6 @@ Mahakasutta. Once a number of monks staying in the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahakasutta. Một lần có một số vị tỳ-kheo đang ngụ tại khu rừng Ambāṭaka ở Macchikāsaṇḍa đã được *gahapati* (gia chủ) Citta thiết đãi một bữa ăn thịnh soạn. Vào lúc kết thúc bữa ăn, Citta, đã hộ tống họ trở về tu viện. Trên đường đi những vị tỳ-kheo đã bị khuất phục bởi cái nóng, và Mahaka, một vị tỳ-kheo trẻ, với sự cho phép của vị sư huynh lớn tuổi hơn của mình, đã dùng thần thông của mình làm cho một cơn gió mát thổi tới và tạo ra một cơn giông bão kèm theo mưa phùn nhẹ. Citta đã vô cùng ấn tượng, và, tìm đến Mahaka trong am thất của ngài, đã thỉnh cầu ngài thực hiện một vài phép lạ. Mahaka bảo ông hãy đặt chiếc áo choàng của ông trên hiên nhà và rải một bó cỏ lên trên đó. Sau đó ngài lui vào trong am thất của mình, khóa cửa lại, và làm cho một ngọn lửa phóng ra qua lỗ khóa và đốt cháy chỗ cỏ mà không làm hư hại chiếc áo choàng. Citta đã bị vượt thắng bởi sự ngạc nhiên, và hứa sẽ cung cấp cho Mahaka với tất cả các nhu cầu thiết yếu. Mahaka đã cảm ơn ông, nhưng ngay sau đó đã rời khỏi Macchikāsaṇḍa không bao giờ trở lại nữa, bởi vì ngài đã không muốn thọ hưởng những lợi đắc có được bởi một sự phô diễn về thần thông *iddhi*; SN.vi.288ff.; câu chuyện cũng được đề cập đến tại Vsm.393.
 
 ## Notes

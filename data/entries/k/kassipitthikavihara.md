@@ -5,7 +5,7 @@ base_headword: "Kassipiṭṭhikavihāra"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -25,6 +25,6 @@ Kassipiṭṭhikavihāra. A monastery in Ceylon, built by King <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassipiṭṭhikavihāra. Một tu viện ở Tích Lan, được xây dựng bởi Vua Dhātusena. Cv.xxxviii.49.
 
 ## Notes

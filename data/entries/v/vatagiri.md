@@ -5,7 +5,7 @@ base_headword: "Vātagiri"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vātagiri. A mountain in the <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngọn núi ở Dakkhiṇadesa của Ceylon, một điểm có tầm quan trọng chiến lược, cung cấp một nơi ẩn náu an toàn. Cv.lviii.31; lx. 39; lxxxviii.43; xem thêm Cv.Trs.i.204, n.2.
 
 ## Notes

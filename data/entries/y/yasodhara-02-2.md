@@ -5,7 +5,7 @@ base_headword: "Yasodharā"
 disambiguator: "02"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -26,6 +26,6 @@ Yasodharā 02. The daughter of the Treasurer of <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yasodharā 02. Con gái của vị Trưởng giả ở Sunandagāma; bà đã dâng một bữa cơm sữa cho Koṇḍañña Buddha. Bv­a.108.
 
 ## Notes

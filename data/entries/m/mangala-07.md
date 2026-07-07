@@ -5,7 +5,7 @@ base_headword: "Maṅgala"
 disambiguator: "07"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -24,6 +24,6 @@ Maṅgala 07. A tribe of elephants, each of which had the strength of ten millio
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṅgala 07. Một giống voi, mỗi con có sức mạnh bằng mười triệu người. MN­a.i.262; AN­a.ii.822; Bv­a.37, v.v.
 
 ## Notes

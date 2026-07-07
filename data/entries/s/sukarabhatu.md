@@ -5,7 +5,7 @@ base_headword: "Sūkarabhātu"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -29,6 +29,6 @@ Sūkarabhātu. An officer of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sūkarabhātu. Một viên sĩ quan của Māṇābharaṇa. Ông bị Parakkamabāhu I bắt giữ và xiềng xích. Tuy nhiên, ông đã trốn thoát, và *Adhikārī* Mañju được cử đi truy bắt ông. Sūkarabhātu đã trở thành tổng tư lệnh của quân nổi loạn và gây ra thiệt hại lớn cho các lực lượng của Parakkamabāhu. Phải mãi cho đến khi *Damiḷādhikārī* và *Laṅkāpura* Deva tập trung toàn bộ sự chú ý của họ vào ông thì ông mới có thể bị đánh bại. Ông đã chết trong lúc chiến đấu, gần Mahā Nāgahula. Cv.lxxiv.127f., 153; lxxv.126f.
 
 ## Notes

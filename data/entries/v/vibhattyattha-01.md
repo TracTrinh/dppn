@@ -5,7 +5,7 @@ base_headword: "Vibhattyattha"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vibhattyattha 01. A work on Pāli cases by <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vibhattyattha 01. Một tác phẩm về các cách (cases) trong tiếng Pāli của con gái Kyocva. Sās., p. 77.
 
 ## Notes

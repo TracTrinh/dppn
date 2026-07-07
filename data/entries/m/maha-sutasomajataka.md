@@ -5,7 +5,7 @@ base_headword: "Mahā Sutasomajātaka"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -54,6 +54,12 @@ The story was related in reference to the Buddha’s conversion of <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sutasomajātaka (Ja 537). Brahmadatta, vua của Benares, rất nghiện ăn thịt. Một ngày *uposatha* nọ, phần thịt đã được chuẩn bị cho vua bị chó ăn mất, và người đầu bếp, do không thể mua thêm, đã cắt một mảnh từ một cơ thể người vừa mới chết và nấu nó. Brahmadatta từng là một Yakkha ở một tiền kiếp và vì vậy đã thích thú với món ăn này. Sau khi khám phá ra đó là loại thịt gì, ông đã phát triển một sự thèm khát đối với thịt người, và, đến một lúc nào đó, đã đi đến chỗ ra lệnh sát hại thần dân của mình để cung cấp thức ăn cho ông. Tội ác của ông bị phát hiện và tội trạng của ông bị vạch trần bởi vị tổng tư lệnh của ông, Kāḷahatthī, nhưng nhà vua đã từ chối từ bỏ thói quen ăn thịt đồng loại của mình và bị đuổi khỏi vương quốc. Kāḷahatthi kể lại nhiều câu chuyện khác nhau cho nhà vua, chỉ ra sự điên rồ trong hành vi của ông – ví dụ như, câu chuyện về con cá Ānanda, về người con trai của Sujāta, về bầy ngỗng sống ở Cittakūṭa và về con nhện Uṇṇābhi.
+
+Nhà vua cư ngụ trong các khu rừng cùng với những người đầu bếp của mình, ăn thịt tất cả những người lữ hành mà họ có thể bắt được. Cái ngày đã đến khi đích thân ông giết người đầu bếp và ăn thịt anh ta. Một thời gian sau, ông bắt gặp một vị Bà-la-môn đang du hành qua khu rừng với một đoàn tùy tùng lớn, và họ đã truy đuổi nhà vua. Khi ông chạy, một mảnh vụn của cây keo đã đâm xuyên qua chân ông, gây ra cho ông một nỗi đau đớn dữ dội. Nhìn thấy một cây đa, ông đã lập một lời nguyện sẽ tắm thân cây bằng máu của một trăm lẻ một vị hoàng tử nếu chân của ông được chữa lành trong vòng bảy ngày. Bàn chân đã thực sự lành lặn trong thời gian đó, và với sự trợ giúp của một Yakkha, người từng là bạn của ông ở một tiền kiếp, ông đã có thể bắt được một trăm vị vua và treo họ lên cây bằng cách dùng những sợi dây thừng xỏ qua tay họ.
+
+Vị thọ thần hoảng sợ và, theo lời khuyên của Sakka, đã xuất hiện trước mặt kẻ ăn thịt người (người được gọi trong ngữ cảnh là *Porisāda*) và yêu cầu ông phải mang Sutasoma, Hoàng tử của Kuru, đến để làm đủ số lượng những nạn nhân của ông. Sutasoma từng là người bạn và là gia sư riêng (*piṭṭhācariya*) của kẻ ăn thịt người tại Takkasilā. Nôn nóng muốn xoa dịu vị thọ thần, kẻ ăn thịt người đã đi đến khu vườn của Sutasoma và ở đó đợi ngài bằng cách trốn trong cái ao, khi Sutasoma đến để thực hiện nghi thức tắm của mình vào ngày lễ hội của Phussa. Trên đường đi đến khu vườn, Sutasoma đã gặp một vị Bà-la-môn, Nanda, người đã đề nghị, với giá bốn ngàn đồng, để dạy ngài bốn câu kệ đã học được từ Đức Phật Kassapa. Sutasoma hứa sẽ học chúng vào lúc ngài từ khu vườn quay trở về, nhưng ở đó ngài đã bị *Porisāda* bắt. Hứa sẽ quay trở lại gặp *Porisāda*, Sutasoma đã xin phép để giữ cuộc hẹn với Nanda. Lời hứa này được hoàn tất, Sutasoma đã quay lại gặp *Porisāda* và đi cùng với ông ta đến cây đa. Tại đó ngài kể cho *Porisāda* nghe về những câu kệ ngài đã học được từ Nanda, tụng đọc chúng cho ông ta nghe, và đàm luận về những phẩm hạnh của Sự thật. *Porisāda* vô cùng hài lòng và đã đề nghị Sutasoma bốn điều ước. Sutasoma đã chọn làm điều ước đầu tiên của mình rằng *Porisāda* sẽ sống đến một trăm tuổi; làm điều ước thứ hai rằng những vị vua bị giam cầm sẽ được giải thoát; làm điều ước thứ ba, rằng các vương quốc của họ sẽ được khôi phục; và làm điều ước thứ tư rằng *Porisāda* sẽ từ bỏ thói quen ăn thịt đồng loại của mình. Chỉ rất miễn cưỡng thì *Porisāda* mới đồng ý với điều ước thứ tư. Sutasoma sau đó đưa ông ta trở về Benares, nơi ngài khôi phục lại vương quốc cho ông ta, trước tiên ngài đã cam đoan với người dân rằng nhà vua sẽ không bao giờ quay lại những thói quen xấu xa trước đây của mình. Sutasoma sau đó quay trở về Indapatta. Để tạ ơn sự can thiệp của vị thọ thần, một cái hồ đã được đào gần cây đa và một ngôi làng được thành lập gần đó, những cư dân ở đó bị yêu cầu phải dâng cúng cho cái cây. Ngôi làng này, được xây dựng trên cái nơi mà *Porisāda* được cải đạo, bắt đầu được gọi là Kammāsadamma.
+
+Câu chuyện đã được kể lại liên quan đến việc Đức Phật cải đạo Aṅgulimāla, người mà kẻ ăn thịt người được đồng nhất với. Kāḷahatthi là Sāriputta, Nanda là Ānanda, thọ thần là Kassapa, Sakka là Anuruddha, và Sutasoma là Bodhisatta. Ja.v.456-511; cp. *Jātakamāla* xxxi. Sutasomacariyā được kể trong Cariyāpiṭaka iii.12.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Maṅgalagaṅgā"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Maṅgalagaṅgā. A channel branching off from the sluice called <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṅgalagaṅgā. Một kênh đào phân nhánh từ cửa xả lũ tên Maṅgala trong hồ Parakkamasamudda. Xem Maṅgala (5). (Cv.lxxix.45.)
 
 ## Notes

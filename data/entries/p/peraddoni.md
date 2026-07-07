@@ -5,7 +5,7 @@ base_headword: "Peraddoṇī"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -24,6 +24,6 @@ Peraddoṇī. A town in Ceylon, the modern Peradeniya. Cv.xci.2.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Peraddoṇī. Một thị trấn ở Tích Lan, nay là Peradeniya. Cv.xci.2.
 
 ## Notes

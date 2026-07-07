@@ -5,7 +5,7 @@ base_headword: "Sāvitti"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,8 @@ The Commentary (Snp­a.ii.403) explains that the Buddha is referring to the *Ari
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāvitti. Một bài tụng ca, được nhắc đến như là bài tụng ca đứng đầu trong các Veda (*chandato mukhaṁ*) (Snp.vs.568). Bài tụng gồm ba dòng với hai mươi bốn âm tiết (*tipadaṁ catuvīsakkharaṁ*) (Snp.vs.457); bài tụng ca Savitri hay Gāyatri được tìm thấy trong Ṛgveda 3.62.10: *oṁ bhūr bhuvaḥ svaḥ | tat savitur vareṇiyaṃ | bhargo devasya dhīmahi | dhiyo yo naḥ pracodayāt.* Dòng đầu tiên là một lời khấn nguyện, và không được tính vào trong luật vận, và *vareṇiyaṁ* ngày nay được viết là *vareṇyaṁ*, làm hỏng vận luật.
+
+Chú giải (Snp­a.ii.403) giải thích rằng Đức Phật đang nói đến Ariya Sāvitti, gồm công thức "*Buddhaṁ saraṇaṁ gacchāmi, Dhammaṁ saraṇaṁ gacchāmi, Saṅghaṁ saraṇaṁ gacchāmi*," cũng có ba dòng và 24 âm tiết, và rằng bài tụng này nay đã thay thế bài tụng ca Veda, và là bài tụng ca hay lời ca ngợi chân thật cho thời đại này.
 
 ## Notes

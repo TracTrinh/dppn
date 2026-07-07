@@ -5,7 +5,7 @@ base_headword: "Sīhanādavagga"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -25,6 +25,6 @@ Sīhanādavagga 01. The second section of the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhanādavagga 01. Phẩm thứ hai của Majjhimanikāya, gồm các *Sutta* 11-20. MN.i.63ff.
 
 ## Notes

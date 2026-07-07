@@ -5,7 +5,7 @@ base_headword: "Parihānasutta"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Parihānasutta 02. On eight conditions which lead to the degeneration of a learn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parihānasutta 02. Về tám điều kiện dẫn đến sự thối thất của một người đang tu học, và những điều ngược lại. AN.iv.331f.
 
 ## Notes

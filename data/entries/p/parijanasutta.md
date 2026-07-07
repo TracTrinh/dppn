@@ -5,7 +5,7 @@ base_headword: "Parijānasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Parijānasutta (or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parijānasutta (hoặc Abhijānasutta). Bằng cách không hiểu biết tường tận hoặc không thấu hiểu năm uẩn (*khandhas*), một người sẽ không thích hợp cho việc tận diệt khổ đau. SN.iii.26f.
 
 ## Notes

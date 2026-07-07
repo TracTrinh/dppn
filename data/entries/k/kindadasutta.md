@@ -5,7 +5,7 @@ base_headword: "Kindadasutta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -24,6 +24,6 @@ Kindadasutta. Records part of a conversation between a *Deva* and the Buddha at 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kindadasutta. Ghi lại một phần cuộc trò chuyện giữa một thiên nhân và Đức Phật tại Jetavana. Vị thiên nhân hỏi người ta nên cho cái gì để đạt được một số kết quả nhất định, chẳng hạn như sức mạnh, sắc đẹp, v.v. – Đức Phật giải thích. SN.i.32.
 
 ## Notes

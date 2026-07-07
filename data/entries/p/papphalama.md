@@ -5,7 +5,7 @@ base_headword: "Papphālama"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Papphālama. A landing place in <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Papphālama. Một bến đổ bộ ở Rāmañña nơi quân đội của Damiḷādhikarī đổ bộ. Cv.lxxvi.63.
 
 ## Notes

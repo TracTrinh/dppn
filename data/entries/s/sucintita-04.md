@@ -5,7 +5,7 @@ base_headword: "Sucintita"
 disambiguator: "04"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Sucintita 04. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sucintita 04. Sucintita Thera. Một vị *Arahant*. Trong thời của Atthadassī Buddha, ngài là một thợ săn, và khi thấy Đức Phật, ngài đã dâng cúng một bữa ăn bằng thịt. Ba mươi tám kappa trước ngài làm vua tám lần, dưới tên là Dighāyuka, và một trăm sáu mươi kappa trước ngài làm vua hai lần, dưới tên là Varuṇa. Ap.i.115.
 
 ## Notes

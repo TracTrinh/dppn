@@ -5,7 +5,7 @@ base_headword: "Mahī"
 disambiguator: "01"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -27,6 +27,6 @@ Mahī 01. One of the five great rivers of India, all of which have a common orig
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahī 01. Một trong năm con sông lớn của Ấn Độ, tất cả trong số đó đều có chung một nguồn gốc (Vin.ii.237; AN.iv.101; v. 22; SN.ii.135; v. 38; Mil. 20, 104; Vsm.10, v.v.). Aṅguttarāpa thì nằm ở phía bắc của dòng sông Mahī (Snp­a.ii.437ff). Nó cũng được gọi là Mahā Mahī.
 
 ## Notes

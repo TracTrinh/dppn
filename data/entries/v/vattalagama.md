@@ -5,7 +5,7 @@ base_headword: "Vattalagāma"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vattalagāma. A village in which <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngôi làng trong đó Vijayabāhu III. đã xây dựng Vijayabāhuvihāra. Cv.lxxxi.58; xem thêm Cv.Trs.ii.140, n.3.
 
 ## Notes

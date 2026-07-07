@@ -5,7 +5,7 @@ base_headword: "Maṅgalagiri"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Maṅgalagiri. A spot where the Buddha was staying when <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṅgalagiri. Một nơi Đức Phật đang lưu trú khi Kāludāyi đến gặp Ngài theo yêu cầu của Suddhodana. Ap.ii.501.
 
 ## Notes

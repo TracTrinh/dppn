@@ -5,7 +5,7 @@ base_headword: "Piṇḍasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -26,6 +26,6 @@ Piṇḍasutta. Once the Buddha was at <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piṇḍasutta. Có lần Đức Phật ở Pañcasālā khi đến ngày tất cả những người trẻ tuổi gửi quà cho nhau. Đức Phật đi vào làng để khất thực, nhưng dân làng, bị Māra xúi giục, đã không cúng dường gì cho Ngài, và Ngài quay về với bình bát trống không. Māra cố gắng xúi giục Đức Phật đi lần thứ hai, nhưng Ngài đã từ chối làm điều này (SN.i.113; sự việc này cũng được tìm thấy ở Dhp­a.iii., p. 257f). Chú giải nói rằng Māra không muốn Đức Phật nhận lễ vật của các thiếu nữ và thuyết pháp cho họ, vì khi đó họ sẽ vượt qua khỏi sự ảnh hưởng xấu xa của ác ma (SN­a.i.141).
 
 ## Notes

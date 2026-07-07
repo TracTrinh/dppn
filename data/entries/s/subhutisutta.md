@@ -5,7 +5,7 @@ base_headword: "Subhūtisutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Subhūtisutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subhūtisutta. Subhūti Thera đến yết kiến Đức Phật cùng với một người bạn đồng hành, và Đức Phật hỏi ngài rằng người bạn đồng hành của ngài là ai. Subhūti trả lời rằng vị ấy là con trai của một nam đệ tử có tín tâm và đã xuất gia từ một gia đình có tín tâm để sống không nhà. Đức Phật sau đó hỏi Subhūti liệu người đồng hành của ngài có tuân theo những dấu hiệu truyền thống của một người có tín tâm hay không. Subhūti cung kính thỉnh Đức Phật định nghĩa những dấu hiệu này, và Đức Phật đã giải thích chúng một cách cặn kẽ. AN.v.337f. Bản Sớ giải nói rằng vị tỳ-kheo đó là con trai của Anāthapiṇḍika và do đó là cháu trai của Subhūti (AN­a.ii.865).
 
 ## Notes

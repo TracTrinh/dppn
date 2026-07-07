@@ -5,7 +5,7 @@ base_headword: "Khaṇḍahāla"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -26,6 +26,6 @@ Khaṇḍahāla. A Brahmin; a former birth of <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khaṇḍahāla. Một người Bà-la-môn; một tiền kiếp của Devadatta. Xem Khaṇḍahālajātaka (Ja 542).
 
 ## Notes

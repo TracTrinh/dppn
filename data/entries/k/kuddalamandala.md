@@ -5,7 +5,7 @@ base_headword: "Kuddālamaṇḍala"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kuddālamaṇḍala. A village in <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kuddālamaṇḍala. Một ngôi làng ở Rohaṇa. Tại đây đã diễn ra một trận chiến giữa quân đội của Parakkamabāhu I. và những kẻ thù của ông (Cv.lxxv.16).
 
 ## Notes

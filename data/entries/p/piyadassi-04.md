@@ -5,7 +5,7 @@ base_headword: "Piyadassī"
 disambiguator: "04"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -26,6 +26,6 @@ Piyadassī 04. A *seṭṭhi* of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piyadassī 04. Một trưởng giả (*seṭṭhi*) của *nigama* (thị trấn) Sudassana, người có con gái đã cúng dường cơm sữa cho Sikhī Buddha. Bv-a. 201.
 
 ## Notes

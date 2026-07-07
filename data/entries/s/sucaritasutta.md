@@ -5,7 +5,7 @@ base_headword: "Sucaritasutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sucaritasutta. The Buddha says, in answer to a question, that those who practise
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sucaritasutta. Trong câu trả lời cho một câu hỏi, Đức Phật nói rằng những người thực hành các hạnh lành sẽ được sinh vào thế giới Gandhabba (Càn-thát-bà), bởi vì đó là mong ước của họ. SN.iii.250.
 
 ## Notes

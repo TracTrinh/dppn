@@ -5,7 +5,7 @@ base_headword: "Silāpaṭṭapokkharaṇī"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -27,6 +27,6 @@ Silāpaṭṭapokkharaṇī. A lotus pond in <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Silāpaṭṭapokkharaṇī. Một hồ sen ở Benares, nơi Pacceka Buddha Mahā Paduma đã sinh ra trong một đóa sen. Snp­a.i.80.
 
 ## Notes

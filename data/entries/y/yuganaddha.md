@@ -5,7 +5,7 @@ base_headword: "Yuganaddha"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -27,6 +27,6 @@ Yuganaddha or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yuganaddha hoặc Yuganandhasutta. Ānanda nói với các tỳ-kheo tại Ghositārāma, ở Kosambī, rằng những ai đã chứng quả *Arahant* đều đã thực hiện điều đó theo một trong bốn cách: bằng cách phát triển tuệ quán có sự an tịnh đi trước, hoặc sự an tịnh có tuệ quán đi trước, hoặc sự an tịnh và tuệ quán cùng lúc, hoặc bằng cách có một tâm trí hoàn toàn không còn những hoang mang về Dhamma. AN.ii.157.
 
 ## Notes

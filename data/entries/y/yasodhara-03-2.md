@@ -5,7 +5,7 @@ base_headword: "Yasodharā"
 disambiguator: "03"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -26,6 +26,6 @@ Yasodharā 03. Wife of the *Khattiya* <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yasodharā 03. Vợ của người thuộc giai cấp *Khattiya* tên là Yasavā và mẹ của Anomadassī Buddha. Ja.i.36; Dhp­a.i.105; Bv.viii.17; AN­a.i.85.
 
 ## Notes

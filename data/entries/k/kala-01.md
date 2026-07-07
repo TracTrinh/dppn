@@ -5,7 +5,7 @@ base_headword: "Kāḷa"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -26,6 +26,6 @@ Kāḷa 01. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷa 01. Con trai của Anāthapiṇḍika. Vì ông không có dấu hiệu mộ đạo nào nên cha ông, cảm thấy rất đau buồn, đã đưa ra một lời hứa long trọng rằng sẽ cho ông một ngàn nếu ông giữ ngày ăn chay. Kāḷa đã giành được số tiền đó, và ngày hôm sau ông lại được hứa cho một ngàn nếu ông chịu nghe Đức Phật thuyết pháp và học thuộc một câu kệ duy nhất của Dhamma. Ông đã nghe bài thuyết giảng của Đức Phật, nhưng theo ý nguyện của Đức Phật, ông không thể ghi nhớ được một câu kệ nào cho đến khi bài thuyết giảng kết thúc. Sau đó ông đã trở thành một *Sotāpanna* và tháp tùng Đức Phật cùng các tỳ-kheo đến nhà cha mình. Tại đó, khi trước sự chứng kiến của tất cả mọi người, Anāthapiṇḍika đã đưa cho Kāḷa số tiền, ông đã từ chối nhận nó, và Đức Phật đã giải thích chuyện gì đã xảy ra. Dhp­a.iii.189ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Upasālā"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -31,6 +31,6 @@ Upasālā. According to the <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upasālā. Theo Buddhavaṁsa Commentary (194), Sālā và Upasālā là hai nữ đại đệ tử của Đức Phật Phussa. Tuy nhiên, Buddhavaṁsa (xix.20), lại gọi họ là Cālā và Upacālā.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Pāṭalipūjaka Thera"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Pāṭalipūjaka Thera 01. An *Arahant*. Thirty-one *kappas* ago he carried some
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāṭalipūjaka Thera 01. Một vị *Arahant*. Ba mươi mốt *kappa* trước, ngài đã đội một vài bông hoa *pāṭalī* trên đầu và dâng cúng chúng cho Vessabhū Buddha. Ap.i.224f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Veḷuriya"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Veḷuriya. A village and a rock near which are found *veḷuriyā* (sapphires).
 
 ## Vietnamese translation
 
-Chưa dịch.
+Veḷuriya. Một ngôi làng và một tảng đá gần đó nơi tìm thấy các viên *veḷuriyā* (ngọc bích). Vv-a.27.
 
 ## Notes

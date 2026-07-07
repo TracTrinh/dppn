@@ -5,7 +5,7 @@ base_headword: "Vibhaṅga"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -28,6 +28,6 @@ Vibhaṅga. The collective name for two closely connected works of the <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vibhaṅga. Tên gọi chung cho hai tác phẩm có liên quan chặt chẽ của Vinayapiṭaka, mà, trong các bản thảo, thường được gọi là Pārājikā và Pācittiya. Bộ sưu tập này được coi là một chuyên luận mở rộng về các giới luật *Pātimokkha*, đưa ra duyên cớ cho việc hình thành mỗi giới luật, cùng với một số giải thích hoặc minh họa về các thuật ngữ khác nhau được sử dụng trong cách diễn đạt giới luật. Đôi khi giới luật được minh họa thêm bằng cách tham chiếu đến các trường hợp nằm trong phạm vi của nó và những trường hợp khác tạo thành các ngoại lệ của nó. Bộ sưu tập cũng được gọi là Suttavibhaṅga và được chia thành hai phần: *Bhikkhuvibhaṅga* và *Bhikkhunīvibhaṅga*.
 
 ## Notes

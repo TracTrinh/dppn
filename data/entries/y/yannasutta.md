@@ -5,7 +5,7 @@ base_headword: "Yaññasutta"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -25,6 +25,6 @@ Yaññasutta. Preached in reference to an animal sacrifice which <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yaññasutta. Được thuyết giảng liên quan đến một lễ hiến tế động vật mà Pasenadi định tổ chức theo lời khuyên của các Bà-la-môn nhằm xua đuổi hậu quả từ những giấc mơ ác của nhà vua. Khi nghe được việc này, Đức Phật tuyên bố rằng những cuộc hiến tế như vậy sẽ không bao giờ mang lại kết quả tốt đẹp. Có những “sự hiến tế” khác không làm hại ai, qua đó những người hành lễ sẽ được ban phước và chư thiên được vui lòng. SN.i.75.
 
 ## Notes

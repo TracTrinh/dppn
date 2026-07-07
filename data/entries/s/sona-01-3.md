@@ -5,7 +5,7 @@ base_headword: "Sona"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Sona 01. The Bodhisatta born as a Brahmin of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sona 01. Bodhisatta sinh làm một Bà-la-môn ở Benares. Xem Sonanandajātaka (Ja 532).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vanavāsī Mahā Tissa"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -29,6 +29,6 @@ Vanavāsī Mahā Tissa. A monk, probably distinct from <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vanavāsī Mahā Tissa. Một vị tỳ-kheo, có lẽ khác biệt với Vanavāsītissa – xem Vanavāsītissa. Vào ngày mà *Ālindakavāsī* Mahā Phussadeva Thera đắc quả vị *Arahant*, chư thiên (Devas) đã đứng cạnh ông, chiếu sáng rực rỡ cả khu rừng. Mahā Tissa nhìn thấy luồng ánh sáng đó, và ngày hôm sau ông đã hỏi Phussadeva về nguyên nhân của sự việc, nhưng câu hỏi của ông đã bị lảng tránh. SN­a.iii.154f.
 
 ## Notes

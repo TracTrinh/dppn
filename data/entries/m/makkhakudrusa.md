@@ -5,7 +5,7 @@ base_headword: "Makkhakudrūsa"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -27,6 +27,6 @@ Makkhakudrūsa. A village in <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Makkhakudrūsa. Một ngôi làng ở Rohaṇa, nơi trú ngụ của Kitti và Loka. Cv.Iv.26; Cv.lvii. 1, 59.
 
 ## Notes

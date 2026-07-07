@@ -5,7 +5,7 @@ base_headword: "Uttarajīva"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -28,6 +28,6 @@ Uttarajīva. A monk of Pagan, who came to the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttarajīva. Một tỳ-kheo của xứ Pagan, người đã đến Mahā Vihāra ở Tích Lan (Ceylon) vào năm 1154 CN. Ông được tháp tùng bởi Chapaṭa và mang theo bên mình một bản sao của Saddanīti vốn vừa mới được viết bởi Aggavaṁsa. PLC. 185.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Somanātha"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Somanātha. A park laid out by <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Somanātha. Một khu vườn được quy hoạch bởi Parakkamābāhu I. Cv.lxxix.10.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Lokasutta"
 disambiguator: "02"
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -24,6 +24,6 @@ Lokasutta 02. The Buddha tells <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lokasutta 02. Đức Phật nói với Pasenadi rằng tham, sân và si là nguyên nhân của rắc rối và khổ đau trong thế giới. SN.i.98.
 
 ## Notes

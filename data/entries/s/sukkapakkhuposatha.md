@@ -5,7 +5,7 @@ base_headword: "Sukkapakkhūposatha"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sukkapakkhūposatha. The name of the festival held in honour of <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sukkapakkhūposatha. Tên của lễ hội được tổ chức để tôn vinh Mahinda vào ngày thứ tám của nửa tháng trăng sáng thuộc tháng *Assayuja*, ngày mất của ngài. Mhv.xx.33; Mhv­ṭ. 418.
 
 ## Notes

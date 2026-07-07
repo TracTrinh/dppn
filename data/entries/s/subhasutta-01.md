@@ -5,7 +5,7 @@ base_headword: "Subhasutta"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -29,6 +29,6 @@ Subhasutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subhasutta 01. Subha Todeyyaputta (*q.v.*) đến yết kiến Đức Phật tại Sāvatthī và hỏi Ngài nhiều câu hỏi khác nhau liên quan đến Giáo pháp (Dhamma), so sánh nó với những lời dạy của các Bà-la-môn liên quan đến sự giải thoát tối hậu. Vị ấy thừa nhận rằng không có ai trong số các Bà-la-môn hay các hiền triết thời kỳ đầu đã nhận thức đầy đủ và chứng ngộ được những phẩm chất mà họ đặt ra để đạt được công đức và thành tựu sự chân chính. Vị ấy trích dẫn lời Pokkharasāti nói rằng những người, giống như Gotama, tuyên bố đã vượt qua những con người bình thường và vươn tới đỉnh cao của trí tuệ Thánh nhân, đều là những kẻ khoác lác phù phiếm. Đức Phật đáp lại rằng Pokkharasāti thậm chí không thể đọc được suy nghĩ của cô nữ tì của ông ta là Puṇṇikā. Đức Phật sau đó đã thuyết phục Subha rằng Ngài đã khám phá ra con đường để hợp nhất với *Brahma* (Phạm thiên), và, theo yêu cầu của vị ấy, Ngài đã chỉ dạy cho vị ấy con đường này, đó là bốn *Brahmavihāra* (Tứ vô lượng tâm). Subha đã thừa nhận mình là đệ tử của Đức Phật. MN.ii.196-209.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kāḷa"
 disambiguator: "09"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -24,6 +24,6 @@ Kāḷa 09. One of the *Nirayas*. Ja.vi.248.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷa 09. Một trong những *Niraya* (Địa ngục). Ja.vi.248.
 
 ## Notes

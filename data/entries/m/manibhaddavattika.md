@@ -5,7 +5,7 @@ base_headword: "Maṇibhaddavattikā"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -27,6 +27,6 @@ Maṇibhaddavattikā. A class of ascetics and recluses who, perhaps, worshipped 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇibhaddavattikā. Một nhóm đạo sĩ và sa-môn, có lẽ tôn thờ Maṇibhadda (*q.v.*). (MNid.89.) (Trong *Mahā Bhārata*, Maṇibhadda được nhắc đến trong số các *yakṣa* trong cung điện của Kuvera (ii.10, 397). Ông là vị thần hộ mệnh của người lữ hành và đoàn thương buôn (iii.65, 2553).) Nhóm *Maṇibhaddā* được đề cập trong Milindapañha (p.191) cùng với các nhào lộn viên, ảo thuật gia, diễn viên, v.v.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Manāpāmanāpā Sutta"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -24,6 +24,6 @@ Manāpāmanāpā Sutta. Five qualities that make a woman attractive to a man: sh
 
 ## Vietnamese translation
 
-Chưa dịch.
+Manāpāmanāpā Sutta. Năm phẩm chất khiến người phụ nữ hấp dẫn đối với đàn ông: cô ấy xinh đẹp về hình dáng, có tài sản, có giới hạnh, chăm chỉ siêng năng, và có con cái. Thiếu những phẩm chất này sẽ làm mất đi sức hấp dẫn đó. Tương tự đối với người đàn ông (SN.iv.238f.).
 
 ## Notes

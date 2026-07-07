@@ -5,7 +5,7 @@ base_headword: "Kotumbara"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -24,6 +24,6 @@ Kotumbara *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kotumbara *v.l.* Kodumbara. Một quốc gia nổi tiếng về chất lượng tuyệt hảo của vải. Ja.vi.51 (cũng 47), 500, 501; Mil.2, 331.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Lambītakā"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -26,6 +26,6 @@ Lambītakā. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lambītakā. Một hạng chư thiên có mặt lúc thuyết giảng Mahā Samayasutta. DN.ii.261.
 
 ## Notes

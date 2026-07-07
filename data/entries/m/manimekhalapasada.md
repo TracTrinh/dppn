@@ -5,7 +5,7 @@ base_headword: "Maṇimekhalapāsāda"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Maṇimekhalapāsāda. A monastic building in Ceylon, probably belonging to the 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇimekhalapāsāda. Một tòa nhà tu viện ở Tích Lan, có lẽ thuộc phái Đại thừa. Nơi này có các tượng của các Bodhisatta, được Sena II. trùng tu. (Cv.li.77.)
 
 ## Notes

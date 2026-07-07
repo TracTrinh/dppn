@@ -5,7 +5,7 @@ base_headword: "Vājapeyya"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vājapeyya. A sacrificial offering; the Commentaries (e.g., Iti-a. 75, 76) give 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vājapeyya. Một lễ vật tế thần; các Chú giải (e.g., Iti-a. 75, 76) đưa ra hai cách giải thích: (1) Chào đón mọi người thân thiện bằng lời nói nhẹ nhàng và dễ chịu (*peyyavajjaṁ*, *piyavācatā*); (2) một lễ hiến tế trong đó Soma (*Vāja*) được uống. Trong cách thứ hai, mười bảy con vật được hiến tế mười bảy lần.
 
 ## Notes

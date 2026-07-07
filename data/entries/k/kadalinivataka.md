@@ -5,7 +5,7 @@ base_headword: "Kadalīnivātaka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -32,6 +32,6 @@ Kadalīnivātaka. A locality in Ceylon situated on the road from <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kadalīnivātaka. Một địa phương ở Tích Lan nằm trên con đường từ Dakkhiṇadesa (chính xác hơn là Mahā Galla) đến Anurādhapura (Cv.Trs.i.114 n.3; i.74, n.2). Một trận chiến đã diễn ra ở đó giữa Vua Saṅghatissa và Vua Moggallāna (sau này là Moggallāna III.) (Cv.xliv.6). Một trận chiến sau đó cũng diễn ra tại đó giữa Aggabodhi VI. và Hoàng tử Aggabodhi của Dakkhiṇadesa (Cv.xlviii.50).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sekhasutta"
 disambiguator: "06"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -23,6 +23,6 @@ Sekhasutta 06. The learner (*sekha*) is one imperfectly possessed of right view,
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sekhasutta 06. Học nhân (*sekha*) là người chưa hoàn toàn đủ đầy chánh kiến, v.v... SN.iv.14.
 
 ## Notes

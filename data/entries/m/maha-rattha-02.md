@@ -5,7 +5,7 @@ base_headword: "Mahā Raṭṭha"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Raṭṭha 02. A district in Ceylon, near *Kālavāpi*, to the east. It he
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Raṭṭha 02. Một khu vực ở Tích Lan, gần *Kālavāpi*, về phía đông. Nơi đây có ngôi làng Pillavaṭṭhi. Cv.lxxii.141, 163, 190, 199; xem thêm Cv.Trs.i.333, n.3.
 
 ## Notes

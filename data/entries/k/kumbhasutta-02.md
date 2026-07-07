@@ -5,7 +5,7 @@ base_headword: "Kumbhasutta"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -24,6 +24,6 @@ Kumbhasutta 02. A pot, if overset, empties out its water and cannot take it in a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một cái chậu, nếu bị lật úp, sẽ đổ cạn nước và không thể chứa lại được nữa. Một vị tỳ-kheo, tu tập Bát Thánh đạo, sẽ đổ cạn khổ đau và không thể chứa nó lại được nữa. SN.v.48.
 
 ## Notes

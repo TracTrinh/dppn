@@ -5,7 +5,7 @@ base_headword: "Kihimbila"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kihimbila. One of the villages given by <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kihimbila. Một trong những ngôi làng được Aggabodhi IV ban tặng để bảo trì *padhānaghara* của Dāṭhāsiva. Cv.xlvi.12.
 
 ## Notes

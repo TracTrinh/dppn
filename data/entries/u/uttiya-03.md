@@ -5,7 +5,7 @@ base_headword: "Uttiya"
 disambiguator: "03"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -36,6 +36,12 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttiya 03. Uttiya Thera. Ông là người Sākyan ở Kapilavatthu. Khi Đức Phật đến thăm thân quyến và biểu hiện thần lực, Uttiya được cảm hóa và gia nhập Tăng đoàn. Một ngày, trong khi đang đi khất thực trong làng, ông nghe một người phụ nữ hát và tâm ông bị xao động. Tự kiềm chế, ông bước vào *vihāra* trong trạng thái rất bất an và trải qua giờ nghỉ trưa trong tư thế ngồi, nỗ lực với sự chuyên cần đến mức đắc quả *Arahant* (Thag.v.99; Thag­a.i.202-3).
+
+Vào thời Sumedha Buddha, ông là một người cư sĩ và dâng cho Đức Phật một chiếc giường, đầy đủ tán và tấm trải.
+
+Hai mươi *kappas* trước, ông ba lần làm vua với tên hiệu Suvaṇṇābha.
+
+Ông có lẽ đồng nhất với Pallaṅkadāyaka trong Apadāna (Ap.i.175).
 
 ## Notes

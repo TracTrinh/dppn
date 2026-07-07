@@ -5,7 +5,7 @@ base_headword: "Vayiga"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -23,6 +23,6 @@ Vayiga. A river in South India. Cv.lxxvi.307.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một con sông ở Nam Ấn Độ. Cv.lxxvi.307.
 
 ## Notes

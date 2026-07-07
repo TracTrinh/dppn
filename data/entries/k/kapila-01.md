@@ -5,7 +5,7 @@ base_headword: "Kapila"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kapila 01. Father of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kapila 01. Cha của Pippalimāṇava, người được biết đến nhiều hơn với tên Mahā Kassapa. Thag­a.ii.142; nhưng xem Thag­a., p.73, verses 56, 57.
 
 ## Notes

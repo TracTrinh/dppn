@@ -5,7 +5,7 @@ base_headword: "Khuradhāra"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -25,6 +25,6 @@ Khuradhāra. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khuradhāra. Một Niraya. Những người phạm tội phá thai sẽ tái sinh ở đó. Ja.v.269, 274f.
 
 ## Notes

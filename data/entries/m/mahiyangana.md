@@ -5,7 +5,7 @@ base_headword: "Mahiyaṅgaṇa"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -50,6 +50,8 @@ In later times, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="15" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahiyaṅgaṇa. Một địa danh trong khu vườn Mahā Nāga cũ, bên bờ sông Mahā Vālukagaṅgā. Nơi đó, Đức Phật đã lơ lửng trên không trung trong chuyến viếng thăm Tích Lan lần đầu tiên, nhằm mục đích làm cho những người Yakkha phải khiếp sợ. Về sau, Mahā Sumana đã cất tại đó một điện thờ có đường kính bảy cubit, hoàn toàn bằng đá sapphire, và có chứa những sợi tóc được Đức Phật ban cho ngài. Sau khi Đức Phật viên tịch, Sarabhū, một đệ tử của Sāriputta, đã mang xương đòn của Đức Phật đến đó, mà ngài đã tôn trí trong *Thūpa*, nâng chiều cao của *Thūpa* lên thành mười hai cubit. Uddhacūḷābhaya đã nâng nó lên ba mươi cubit, trong khi Duṭṭhagāmaṇī, khi trú ngụ tại đó trong suốt chiến dịch chống lại Chatta người *Damiḷa*, đã nâng nó lên thành tám mươi cubit (Mhv.i.24, 33ff.; xxv.7; Cv.Trs.i.154, n.3). Vohārikatissa đã dựng một lọng che phía trên *Thūpa* (Mhv.xxxvi.34). Nằm liền kề *Thūpa* là một *vihāra*, nơi mà ba người Lambakaṇṇa cư ngụ lân cận: Saṅghatissa, Saṅghabodhi và Goṭhābhaya (Mhv.xxxvi.58).
+
+Trong những thời kỳ sau này, Sena II. đã cấp các ngôi làng bảo trì cho *vihāra* này (Cv.li.74), và Kassapa IV. cũng vậy (Cv.lii.14). Vijayabāhu I. nhận thấy *vihāra* ở trong tình trạng mục nát tồi tệ và đã cho trùng tu lại nó (Cv.lx.59), trong khi Parakkamabāhu VI. đã tiến hành những sửa chữa đối với *Thūpa* (Cv.xci.29). Vua Vīravikamma đã đi bộ từ kinh đô của mình đến Mahiyaṅgaṇa, với quãng đường dài bảy *gāvuta*, và tổ chức một lễ hội lớn để tôn vinh *Thūpa* (Cv.xcii.17). Vua Narindasīha được nhắc đến như là đã từng viếng thăm Mahiyaṅgaṇa ba lần: một lần ngài đi một mình và hai lần đi cùng quân đội của mình, và đã tổ chức các lễ hội nguy nga để tôn vinh nó (Cv.xcvii.27ff). Vijayarājasīha đã tổ chức một lễ hội tại đó (Cv.xcviii.85), Kittisirirājasīha cũng vậy, ông đã thực hiện một chuyến hành hương đến địa điểm này (Cv.xcix.38); ông cũng đã thu xếp cho các lữ khách từ Siam đến Tích Lan viếng thăm nơi đây và tổ chức các lễ tưởng niệm tại đó (Cv.c.125ff). Rājasīha II. sinh ra ở Mahiyaṅgaṇa, trong khi cha mẹ ông đang ở tại đó để lánh nạn khỏi kẻ thù của họ. Cv.xcv.12.
 
 ## Notes

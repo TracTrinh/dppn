@@ -5,7 +5,7 @@ base_headword: "Paññāsutta"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Paññāsutta 01. On the four powers: wisdom, energy, innocence (*anavajja*) and
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paññāsutta 01. Về bốn sức mạnh: trí tuệ, tinh tấn, sự vô tội (*anavajja*) và sự tập trung hoặc lòng tốt (*saṅgāha*). AN.ii.142.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mandākinī"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -38,6 +38,12 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="13" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mandākinī. Một trong bảy hồ lớn của Himālaya. Tên các hồ được liệt kê tại Ja.v.415; AN.iv.101; Snp­a.ii.407; DN­a.i.164; Ud­a.300; AN­a.ii.759. Tại Vsm.416, tên Tiyaggalā được thay cho tên Mandākinī.
+
+Hồ nằm trong khu rừng Chaddanta và có diện tích năm mươi do-tuần, trong đó hai mươi lăm do-tuần là nước trong suốt như pha lê, không có rêu hay cỏ dại. Trong hai mươi lăm do-tuần tiếp theo, nước chỉ sâu tới thắt lưng và được phủ bằng hoa sen trắng, trải rộng nửa do-tuần quanh hồ; xa hơn nữa là hoa sen đỏ, hoa súng đỏ, v.v., ruộng lúa, cây ăn quả, rừng mía — mỗi thân mía to như cây cọ — chuối, mít, xoài, trâm, v.v.
+
+Trên bờ hồ có một nơi mà các Pacceka Buddha thường sinh sống; nhưng Aññā Koṇḍañña đã sống ở đó mười hai năm được phục vụ bởi voi Chaddanta và thiên tử Nāgadatta. Họ phục vụ mọi nhu cầu của ngài, và ngài chỉ rời khỏi đó để đến từ biệt Đức Phật trước khi ngài tịch. Ngài rồi trở về Mandākinī, nơi ngài viên tịch và được hỏa táng, xá-lợi của ngài về sau được thờ tại cổng vào Veḷuvana, nơi một cetiya được xây dựng. SN­a.i.217ff.; nhưng xem Thag­a.ii.3, nơi nói ngài sống trên bờ hồ Chaddanta *daha*; Mandākinī có thể là tên khác của cùng một hồ.
+
+Hồ Mandākinī không bao giờ cạn và chỉ khô kiệt vào cuối kappa. Snp­a.ii.407.
 
 ## Notes

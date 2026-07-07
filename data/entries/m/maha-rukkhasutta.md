@@ -5,7 +5,7 @@ base_headword: "Mahā Rukkhasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -24,6 +24,6 @@ Mahā Rukkhasutta. In him who contemplates enjoyment in things which make for gr
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Rukkhasutta. Với người quán chiếu sự thọ hưởng trong những thứ tạo nên sự chấp thủ (*upādana*), ái dục sẽ gia tăng cùng với vòng lặp khổ đau do nó gây ra, giống như nhựa sống di chuyển hướng lên từ rễ của một cái cây. Nếu người đó quán chiếu sự khốn khổ của những thứ như vậy, ái dục sẽ đoạn diệt, giống như sự phát triển của một cái cây bị đốn thành nhiều mảnh và thiêu rụi thành tro. SN.ii.87f.
 
 ## Notes

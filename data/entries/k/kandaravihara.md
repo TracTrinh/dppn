@@ -5,7 +5,7 @@ base_headword: "Kandaravihāra"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -28,6 +28,6 @@ Kandaravihāra. A monastery in Ceylon, built by <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kandaravihāra. Một tu viện ở Tích Lan, được xây dựng bởi Thūlanātha, người con trai thứ của Saddhātissa (Mhv.xxxiii.15). Theo Mahā Vaṁsaṭīkā (p.442), tu viện (*vihāra*) này nằm ở Rohaṇa.
 
 ## Notes

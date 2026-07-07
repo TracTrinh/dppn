@@ -5,7 +5,7 @@ base_headword: "Paṇḍurājā"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Paṇḍurājā 02. A king of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇḍurājā 02. Một vị vua của Madhurā (Mhv.vii.50, 69, 72). Đây có lẽ là một cái tên mang tính mô tả và có nghĩa là ông thuộc triều đại Pāṇḍyan.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Paññattivādā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -48,6 +48,19 @@ Their main doctrine was
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paññattivādā (*v.l.* Pannattivādā). Một nhánh phụ của phái Gokulika (Dpv.v.41; Mhv.v.4; Mbv. p. 96).
+
+Giáo lý chính của họ là
+
+- đau khổ không phải là skandha,
+- không có những āyatana hoàn hảo,
+- các saṁskāra đều bị ràng buộc với nhau,
+- đau khổ là tuyệt đối,
+- những gì bắt nguồn từ tâm thì không phải là đạo,
+- không có cái chết không đúng lúc,
+- không có tác nhân con người, và
+- mọi đau khổ đều bắt nguồn từ nghiệp (Rockhill, 189).
+
+Paññattisutta. Về bốn loại chúng sinh và những vị thủ lĩnh của họ: đối với những chúng sinh có thân xác, Rāhu là thủ lĩnh; đối với những chúng sinh đắm chìm trong dục lạc, Mandhātā là thủ lĩnh; đối với những chúng sinh có quyền lực cai trị, Māra là thủ lĩnh; nhưng Tathāgata là thủ lĩnh của toàn bộ thế giới Deva, *Māra*, v.v. AN.ii.17.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kuruvakatittha"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -24,6 +24,6 @@ Kuruvakatittha. A secluded bathing-place in a large pond near the <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một nơi tắm vắng vẻ trong một hồ lớn gần Cittalapabbatavihāra (MN­a.ii.1025).
 
 ## Notes

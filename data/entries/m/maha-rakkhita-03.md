@@ -5,7 +5,7 @@ base_headword: "Mahā Rakkhita"
 disambiguator: "03"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -27,6 +27,6 @@ Mahā Rakkhita 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Rakkhita 03. Trưởng lão Mahā Rakkhita. Vị trụ trì của Uparimaṇḍalaka (Ja.vi.30). Xem Mahā Saṅgharakkhita (3).
 
 ## Notes

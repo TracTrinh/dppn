@@ -5,7 +5,7 @@ base_headword: "Senā"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Senā 02. Daughter of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Senā 02. Con gái của Kassapa, *yuvarāja* của Udaya II. Bà kết hôn với con trai của anh trai nhà vua. Cv.li.93.
 
 ## Notes

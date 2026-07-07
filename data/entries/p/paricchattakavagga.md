@@ -5,7 +5,7 @@ base_headword: "Pāricchattakavagga"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Pāricchattakavagga. The third chapter of the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāricchattakavagga. Phẩm thứ ba của Vimānavatthu.
 
 ## Notes

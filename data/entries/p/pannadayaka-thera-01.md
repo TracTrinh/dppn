@@ -5,7 +5,7 @@ base_headword: "Paṇṇadāyaka Thera"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Paṇṇadāyaka Thera 01. An *Arahant*. In the time of <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇṇadāyaka Thera 01. Một vị *Arahant*. Trong thời đại của Siddhattha Buddha ngài là một đạo sĩ mặc áo vỏ cây và ăn lá cây sống. Một ngày nọ Đức Phật đến chỗ ngài khi ngài đang ăn và ngài đã dâng cho Đức Phật một nắm lá. Hai mươi bảy *kappa* trước, ngài là một vị vua tên là Yadatthiya. Ap.i.228f.
 
 ## Notes

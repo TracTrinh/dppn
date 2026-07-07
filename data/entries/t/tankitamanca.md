@@ -5,7 +5,7 @@ base_headword: "Ṭaṅkitamañca"
 disambiguator: ""
 letter: "T"
 section: "Ṭ-Ṭh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/040.html"
@@ -34,6 +34,10 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ṭaṅkitamañca. Một địa danh gần Gayā. Đó là nơi lưu trú của Dạ-xoa (Yakkha) Suciloma và Đức Phật có lần đã ngự tại đó (Snp. p.47f; SN.i.206).
+
+Suttanipāta Commentary (Snp­a.i.301) giải thích rằng Ṭaṅkitamañca ở tại Gayātittha, và đó là một chiếc giường đá (*pāsāṇamañca*) được tạo thành bởi một tảng đá đặt lên trên bốn tảng đá khác.
+
+Saṁyutta Commentary (SN­a.i.232f) nói rằng đó có thể là một ngôi nhà (*geha*) được xây dựng theo kiểu đó, hoặc một chiếc giường dài được làm với các phần giá đỡ chèn dưới chân giường và được đặt trong các đền thờ của những vị thần.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Takkāriya"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Takkāriya. The Bodhisatta as chaplain to the king of <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Takkāriya. Bodhisatta làm chức tư tế cho nhà vua Benares. Xem Takkāriyajātaka (Ja 481).
 
 ## Notes

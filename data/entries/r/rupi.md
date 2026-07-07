@@ -5,7 +5,7 @@ base_headword: "Rūpī"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rūpī. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rūpī. *v.l.* Rucī. Một nữ cư sĩ xuất chúng của Đức Phật (AN.iv.347; cf. AN­a.ii.791).
 
 ## Notes

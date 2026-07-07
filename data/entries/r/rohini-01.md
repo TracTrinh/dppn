@@ -5,7 +5,7 @@ base_headword: "Rohiṇī"
 disambiguator: "01"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -36,6 +36,12 @@ It is said (Thīg­a.219f) that the last stanza of the series was spoken by her 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rohiṇī 01. Rohiṇī Therī. Bà là con gái của một vị Bà-la-môn giàu có ở Vesālī. Khi Đức Phật đến thăm Vesālī, bà nghe Ngài thuyết pháp và trở thành một *Sotāpanna*, dạy Pháp cho cha mẹ mình, và, được cha mẹ cho phép, bà gia nhập Tăng đoàn, tại đó bà chứng quả *Arahant*.
+
+Chín mươi mốt kappa trước, bà thấy Vipassī Buddha đi khất thực ở Bandhumatī, và, đổ đầy bát Ngài bằng bánh bột, bà đã đảnh lễ Ngài (Thag­a.214f).
+
+Therīgāthā (câu 271-90) chứa một chuỗi những câu kệ do bà nói lên trong niềm hoan hỷ, khi, sau khi chứng quả *Arahant*, bà nhớ lại cuộc đối thoại mà bà từng có với cha mình lúc bà vẫn còn là một *Sotāpanna*.
+
+Có nói rằng (Thīg­a.219f) câu kệ cuối cùng trong chuỗi này do cha bà nói lên, người sau đó cũng tự mình gia nhập Tăng đoàn và chứng quả *Arahant*.
 
 ## Notes

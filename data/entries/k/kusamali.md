@@ -5,7 +5,7 @@ base_headword: "Kusamāli"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kusamāli. One of the seas through which the mariner <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một trong những vùng biển mà hoa tiêu Suppāraka (*xem từ này*) đã lái con tàu của mình đi qua. Nó chứa đầy ngọc lục bảo và trông giống như một bãi cỏ *kusa* sẫm màu trải dài. Tên đầy đủ của nó là *Nīlavaṇṇa Kusamāla*. Ja.iv.140.
 
 ## Notes

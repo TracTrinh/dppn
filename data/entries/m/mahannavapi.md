@@ -5,7 +5,7 @@ base_headword: "Mahaṇṇavāpi"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Mahaṇṇavāpi. A tank restored by <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahaṇṇavāpi. Một hồ chứa nước được phục hồi bởi Parakkamabāhu I. Cv.lxxix.34.
 
 ## Notes

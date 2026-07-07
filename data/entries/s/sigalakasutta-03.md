@@ -5,7 +5,7 @@ base_headword: "Sigālakasutta"
 disambiguator: "03"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sigālakasutta 03. Some <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sigālakasutta 03. Một số tỳ-kheo dòng Sākyan không có được lòng biết ơn bằng một con chó rừng (SN.ii.272). Chú giải nói thêm (SN­a.ii.170) rằng *Sutta* này được thuyết liên quan đến Devadatta, và câu chuyện kể về một con chó rừng được một người nông dân cứu thoát khỏi một con rắn đã quấn quanh nó. Con rắn tấn công người nông dân, và con chó rừng đã ngậm cây rìu mang đến cho người nông dân, giúp ông ta giết được con rắn.
 
 ## Notes

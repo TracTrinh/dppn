@@ -5,7 +5,7 @@ base_headword: "Pariññāsutta"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Pariññāsutta 02. The teaching for the comprehension of all attachment: from e
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pariññāsutta 02. Lời dạy cho sự thấu hiểu về mọi sự vướng mắc: từ mắt và đối tượng sinh ra nhãn thức, sự kết hợp của chúng là xúc; từ xúc sinh ra thọ; tương tự như vậy đối với các giác quan khác. SN.iv.32f.
 
 ## Notes

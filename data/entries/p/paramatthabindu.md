@@ -5,7 +5,7 @@ base_headword: "Paramatthabindu"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Paramatthabindu. A grammatical work on Pāli, by King Kyocvā of Pagan. There is
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paramatthabindu. Một tác phẩm ngữ pháp về tiếng Pāli, do vua Kyocvā của Pagan viết. Có một bản phụ sớ (*Ṭīkā*) về tác phẩm này của Mahā Kassapa. Bode, 25.
 
 ## Notes

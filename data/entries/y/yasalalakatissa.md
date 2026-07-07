@@ -5,7 +5,7 @@ base_headword: "Yasalālakatissa"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -29,6 +29,6 @@ Yasalālakatissa. Younger brother of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yasalālakatissa. Em trai của Candamukhasiva. Ông đã giết Siva tại các trò thể thao trong lễ hội tại Tissavāpi và cai trị với tư cách là vua trong bảy năm và tám tháng (112-20 CE.). Người gác cổng của ông, Subha, có ngoại hình rất giống ông, và Tissa thỉnh thoảng khoác lên Subha mọi đồ trang sức hoàng gia của mình rồi đặt ông ta lên ngai vàng, nơi tất cả các quý tộc của triều đình đều bày tỏ lòng tôn kính với ông ta, vì tưởng ông ta là nhà vua, trong khi Tissa thì thích thú với trò đùa này, trong tư cách một người gác cổng. Một ngày nọ, khi Tissa đang đứng ở cửa và cười thầm một mình, Subha đã buộc tội ông xấc xược và ra lệnh cho lính canh giết ông. Mhv.xxxv.49ff.; Dpv.xxi.46.
 
 ## Notes

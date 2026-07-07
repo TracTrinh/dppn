@@ -5,7 +5,7 @@ base_headword: "Sudatta"
 disambiguator: "06"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sudatta 06. A lay disciple of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudatta 06. Một cư sĩ của Nādikā đã trở thành một vị Nhất lai (*Sakadāgāmī*). DN.ii.92; SN.v.356f.
 
 ## Notes

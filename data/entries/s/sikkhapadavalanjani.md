@@ -5,7 +5,7 @@ base_headword: "Sikkhāpadavalañjanī"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Sikkhāpadavalañjanī. A Pāḷi translation, by *Pañcaparivenādhipati* Thera
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sikkhāpadavalañjanī. Một bản dịch tiếng Pāḷi, do *Pañcaparivenādhipati* Thera thực hiện, của tác phẩm tiếng Sinhalese *Sikhavalanda*, về các giới luật tu viện. PLC.216.
 
 ## Notes

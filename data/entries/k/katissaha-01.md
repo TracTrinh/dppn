@@ -5,7 +5,7 @@ base_headword: "Kaṭissaha"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -29,6 +29,6 @@ Kaṭissaha 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṭissaha 01. Trưởng lão Kaṭissaha. Một vị Arahant. Ngài là một trong những vị đang ở cùng Đức Phật tại Kūṭāgārasālā ở Vesālī. Khi những người Licchavī bắt đầu đến thăm Đức Phật với số lượng lớn, họ đã rời khỏi tu viện và lui về những nơi thanh vắng, chẳng hạn như Gosiṅgasālavana. AN.v.133.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Patāpa"
 disambiguator: "01"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -28,6 +28,6 @@ Mahā Patāpa 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Patāpa 01. Mahā Patāpana. Vua xứ Benares, cha của Bodhisatta trong Cūḷa Dhammapālajātaka (Ja 358, *xem mục từ này*). Ông được đồng nhất với Devadatta. Ông đã bị đất nuốt chửng. Ja.iii.182. Dhp­a.i.129.
 
 ## Notes

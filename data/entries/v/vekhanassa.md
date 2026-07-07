@@ -5,7 +5,7 @@ base_headword: "Vekhanassa"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vekhanassa. A *Paribbājaka* teacher of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vekhanassa. Một vị đạo sư Paribbājaka của Sakuladāyī (MN­a.ii.716). Xem Vekhanassasutta.
 
 ## Notes

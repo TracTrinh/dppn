@@ -5,7 +5,7 @@ base_headword: "Rukkhasutta"
 disambiguator: "04"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -23,6 +23,6 @@ Rukkhasutta 04. Mighty trees, grown from tiny seeds, overspread other trees and 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rukkhasutta 04. Những cây to lớn, lớn lên từ những hạt giống nhỏ bé, vươn rộng ra bao trùm những cái cây khác và giết chết chúng; cũng vậy, những gia chủ bị hủy hoại bởi dục vọng của họ. Có năm chướng ngại (*nīvaraṇa*) bao trùm lấy tâm; bảy *bojjhaṅga* thì không giống như chúng. SN.v.96f.
 
 ## Notes

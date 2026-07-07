@@ -5,7 +5,7 @@ base_headword: "Kassapa"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -36,6 +36,10 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapa 02. Kassapa Thera. Con trai của một Bà-la-môn Udicca ở Sāvatthī, người đã qua đời khi Kassapa vẫn còn trẻ. Sau khi nghe Đức Phật thuyết pháp tại Jetavana, ông đã chứng đắc Sơ quả và, với sự đồng ý của mẹ mình, đã trở thành một tỳ-kheo. Đôi lúc sau đó, với mong muốn tháp tùng Đức Phật trong một chuyến du hành sau mùa mưa, ông đã đi chào từ biệt mẹ mình, và lời khuyên bảo của bà dành cho ông trong dịp đó đã giúp ông đạt được tuệ minh sát và trở thành một Arahant (Thag.v.82).
+
+Vào thời của Padumuttara Buddha, ông từng là một Bà-la-môn am hiểu về kinh Veda. Một ngày nọ, nhìn thấy Đức Phật và khao khát bày tỏ sự tôn kính, ông đã ném một nắm hoa *sumana* lên không trung trên đầu Đức Phật, và những bông hoa đã tạo thành một cái lọng trên bầu trời. Trong những lần tái sinh sau này, ông từng có hai mươi lăm lần làm vua, dưới tên gọi Cinnamāla (*v.l.* Cittamāla) (Thag­a.i.177f).
+
+Ông có lẽ đồng nhất với Sereyyaka Thera thuộc Apadāna.
 
 ## Notes

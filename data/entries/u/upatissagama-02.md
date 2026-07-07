@@ -5,7 +5,7 @@ base_headword: "Upatissagāma"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -31,6 +31,6 @@ Upatissagāma 02. (sometimes called <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upatissagāma 02. (đôi khi được gọi là Upatissanagara). Khu định cư được thành lập bởi giáo sĩ của Vijaya, Upatissa, trên bờ sông Gambhīranadī, cách Anurādhapura khoảng bảy dặm về phía bắc (Mhv.vii.44; Mhv.Trs.58, n.4; Dpv.ix.36; x.5). Nơi đây là trụ sở chính phủ cho đến khi Anurādhapura trở thành thủ đô (Xem, vd, Mhv.viii.4; x.48). Ngay sau khi Mahinda đến Ceylon, nhiều thanh niên đã gia nhập Tăng đoàn, và trong số đó có năm trăm người đến từ Upatissagāma (Mhv.xvii.60).
 
 ## Notes

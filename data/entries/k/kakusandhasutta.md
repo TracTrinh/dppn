@@ -5,7 +5,7 @@ base_headword: "Kakusandhasutta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -24,6 +24,6 @@ Kakusandhasutta. To <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kakusandhasutta. Đối với Kakusandha, cũng như đối với Đức Phật trước khi Ngài giác ngộ, đã nảy sinh những suy nghĩ về nỗi đau khổ trên thế giới và làm thế nào để có thể chấm dứt nó. SN.ii.9.
 
 ## Notes

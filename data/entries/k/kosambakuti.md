@@ -5,7 +5,7 @@ base_headword: "Kosambakuṭi"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -25,6 +25,6 @@ Kosambakuṭi. One of the residences at <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kosambakuṭi. Một trong những nơi cư ngụ tại Jetavana do Đức Phật lưu trú. Snp­a.ii.403.
 
 ## Notes

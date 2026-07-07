@@ -5,7 +5,7 @@ base_headword: "Sīlasutta"
 disambiguator: "07"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -26,6 +26,6 @@ Sīlasutta 07. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīlasutta 07. Sāriputta trả lời câu hỏi của Mahā Koṭṭhita rằng vị tỳ-kheo có giới hạnh nên quán sát một cách có phương pháp về năm *upādānakkhandhā*. SN.iii.167.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kodhavagga"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -24,6 +24,6 @@ Kodhavagga 02. The seventeenth section of the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kodhavagga 02. Phẩm thứ mười bảy của Dhammapada.
 
 ## Notes

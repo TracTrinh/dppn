@@ -5,7 +5,7 @@ base_headword: "Mandhātujātaka"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -28,6 +28,8 @@ Dhp­a.iii.240 gives a different occasion for the story; but that, too, refers t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mandhātujātaka (Ja 258). Câu chuyện về vua Mandhātā. Truyện được kể cho một vị tỳ-kheo sa ngã, người trong khi đi khất thực ở Sāvatthī, nhìn thấy một người phụ nữ ăn mặc đẹp và sinh lòng ái mộ. Việc này được thuật lại với Đức Phật, và Ngài đã kể câu chuyện này để chỉ ra rằng dục vọng không bao giờ được thỏa mãn. Cuối bài thuyết pháp, vị tỳ-kheo đó cùng nhiều người khác đạt được quả vị Sotāpanna.
+
+Dhp­a.iii.240 ghi lại một duyên khởi khác nhau cho câu chuyện; nhưng cũng đề cập đến một vị tỳ-kheo bất mãn. Ja.ii.310ff.
 
 ## Notes

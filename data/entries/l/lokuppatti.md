@@ -5,7 +5,7 @@ base_headword: "Lokuppatti"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -24,6 +24,6 @@ Lokuppatti. A Pāli work by <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lokuppatti. Một tác phẩm tiếng Pāli của Aggapaṇḍita xứ Pagan. Gv.64, 74; Bode, 21.
 
 ## Notes

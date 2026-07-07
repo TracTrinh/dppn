@@ -5,7 +5,7 @@ base_headword: "Yasojasutta"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -25,6 +25,6 @@ Yasojasutta. The story of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yasojasutta. Câu chuyện về Yasoja như được đưa ra trong Udāna (Ud 3.3). Snp­a.i.312.
 
 ## Notes

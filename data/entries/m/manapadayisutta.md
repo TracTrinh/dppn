@@ -5,7 +5,7 @@ base_headword: "Manāpadāyisutta"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -28,6 +28,6 @@ Manāpadāyisutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Manāpadāyisutta. Ugga, một cư sĩ ở Vesālī, sau khi nghe Đức Phật dạy rằng người cho những thứ tốt lành (*manāpadāyī*) sẽ nhận được điều tốt lành, đã mời Đức Phật đến nhà và dâng cúng nhiều thứ mà chính ông rất ưa thích — cháo từ hoa sal, thịt heo với quả táo gai, rau ống có dầu, cơm cùng canh và gia vị, lụa muslin từ Benares và một tấm ván gỗ đàn hương (thay cho chiếc giường xa xỉ mà, theo Ugga hiểu, Đức Phật không thể nhận). Vì lòng từ bi đối với Ugga, Đức Phật đã nhận những phẩm vật này và chúc phúc cho ông. Về sau, Ugga mất và được tái sinh vào một thế giới do tâm tạo (*manomayakāya*). Ông đến thăm Đức Phật tại Jetavana và cho biết những mong nguyện của ông đã thành tựu. (AN.iii.49f.)
 
 ## Notes

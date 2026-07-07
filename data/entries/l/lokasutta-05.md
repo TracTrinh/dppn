@@ -5,7 +5,7 @@ base_headword: "Lokasutta"
 disambiguator: "05"
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -23,6 +23,6 @@ Lokasutta 05. Because of eye and object arises eye-consciousness. Thence comes c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lokasutta 05. Do mắt và đối tượng mà nhãn thức khởi sinh. Từ đó sinh ra xúc, thọ, ái, thủ và hữu. Như vậy thế giới khởi sinh; với sự diệt tận của chúng, thế giới diệt tận. SN.iv.87.
 
 ## Notes

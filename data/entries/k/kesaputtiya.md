@@ -5,7 +5,7 @@ base_headword: "Kesaputtiyā"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kesaputtiyā. The people of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kesaputtiyā. Cư dân của Kesaputta – những người Kālāma (AN.i.188). Có ý kiến cho rằng họ có thể đồng nhất với tộc Kesin trong Śatapatha Brāhmaṇa. Law: Geography of Early Buddhism p.30 n.; PHAI.118.
 
 ## Notes

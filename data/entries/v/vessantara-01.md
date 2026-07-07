@@ -5,7 +5,7 @@ base_headword: "Vessantara"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/066.html"
@@ -25,6 +25,6 @@ Vessantara 01. An owl, identified with <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vessantara 01. Một con cú, được đồng nhất với Sāriputta (Ja.v.125). Xem Tesakuṇajātaka (Ja 521).
 
 ## Notes

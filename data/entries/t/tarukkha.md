@@ -5,7 +5,7 @@ base_headword: "Tārukkha"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -32,6 +32,10 @@ He was the teacher of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tārukkha. Một trong những vị Bà-la-môn *Mahā Sāla* xuất chúng nhất, cùng thời với Đức Phật.
+
+Ông đã có mặt tại các hội chúng của những người Bà-la-môn ở Icchānaṅgala và ở Manasākaṭa.
+
+Ông là đạo sư của Bhāradvāja, người bạn đồng hành của Vāseṭṭha. Snp., p.115f; Snp­a.i.372; ii.462; DN.i.235; MN.ii.202.
 
 ## Notes

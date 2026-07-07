@@ -5,7 +5,7 @@ base_headword: "Yuganandhakathā"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -25,6 +25,6 @@ Yuganandhakathā. The first chapter of the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yuganandhakathā. Chương đầu tiên của Paṭisambhidāmagga. Paṭis.ii.98ff.
 
 ## Notes

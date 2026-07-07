@@ -5,7 +5,7 @@ base_headword: "Karindaka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Karindaka. A mountain, headquarters of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Karindaka. Một ngọn núi, tổng hành dinh của Dāṭhāpabhuti trong trận chiến của ông chống lại Moggallāna. Cv.xli.45.
 
 ## Notes

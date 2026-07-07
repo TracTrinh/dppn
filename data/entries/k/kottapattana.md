@@ -5,7 +5,7 @@ base_headword: "Koṭṭapaṭṭana"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -24,6 +24,6 @@ Koṭṭapaṭṭana. A ford in Ceylon. Ras.ii.124.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koṭṭapaṭṭana. Một bến phà ở Tích Lan. Ras.ii.124.
 
 ## Notes

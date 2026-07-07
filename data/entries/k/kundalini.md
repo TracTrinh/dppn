@@ -5,7 +5,7 @@ base_headword: "Kuṇḍalinī"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kuṇḍalinī. The name given to the offspring of the *sārikā*-bird (myna) in
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tên gọi được đặt cho con của con chim *sārikā* (chim sáo) trong Tesakuṇajātaka (Ja 521). Bà được đồng nhất với Uppalavaṇṇā. Ja.v.125.
 
 ## Notes

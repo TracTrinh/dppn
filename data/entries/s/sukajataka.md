@@ -5,7 +5,7 @@ base_headword: "Sukajātaka"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,8 @@ The story was told in reference to a monk who died of over-eating. The parrot is
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sukajātaka (Ja 255). Bodhisatta từng là một con vẹt. Khi ngài già đi, đôi mắt của ngài trở nên yếu ớt và ngài được con trai ngài chăm sóc. Một lần nọ người con trai phát hiện ra một loại xoài đặc biệt trên một hòn đảo, và, sau khi chính anh ta ăn nó, anh ta mang một ít về nhà cho cha mẹ mình. Bodhisatta đã nhận ra quả xoài đó và cảnh báo con trai ngài rằng những con vẹt ghé thăm hòn đảo đó sẽ bị giảm tuổi thọ. Nhưng người con trai đã không lưu tâm đến, và một ngày nọ, trong khi bay về từ hòn đảo, anh ta đã ngủ gật vì mệt mỏi và bị một con cá ăn thịt.
+
+Câu chuyện được kể liên quan đến một vị tỳ-kheo đã chết vì ăn quá nhiều. Con vẹt được đồng nhất với ông. Ja.ii.291-4.
 
 ## Notes

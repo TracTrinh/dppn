@@ -5,7 +5,7 @@ base_headword: "Kakkaṭarasadāyakavimānavatthu"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kakkaṭarasadāyakavimānavatthu. The story of a farmer in <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kakkaṭarasadāyakavimānavatthu. Câu chuyện về một người nông dân ở Magadhakhetta, người đã dâng cúng một bữa ăn gồm món nước dùng nấu từ cua cho một vị tỳ-kheo bị đau tai, và đã chữa khỏi cho vị ấy. Người nông dân sau khi qua đời đã tái sinh vào một cung điện ở Tāvatiṁsa. Tại lối vào cung điện là hình tượng một con cua mười càng, được làm bằng vàng. Vv.54; Vv-a.243ff.
 
 ## Notes

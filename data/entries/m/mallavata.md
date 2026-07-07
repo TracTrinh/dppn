@@ -5,7 +5,7 @@ base_headword: "Mallavāta"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Mallavāta. A monastery in Ceylon, built by <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mallavāta. Một tu viện ở Tích Lan, được xây dựng bởi Aggabodhi VII. (Cv.xlviii.70). Aggabodhi VIII. đã ban cho nó một ngôi làng bảo trì. Cv.xlix.47.
 
 ## Notes

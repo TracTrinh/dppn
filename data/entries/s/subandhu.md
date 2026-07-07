@@ -5,7 +5,7 @@ base_headword: "Subandhu"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -28,6 +28,6 @@ Subandhu (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subandhu (Subuddha). Một vị Bà-la-môn ở Benares, cha của Tekicchakāri Thera. Vị này đã chuốc lấy cơn thịnh nộ của Cāṇakka và bị Candagutta tống vào ngục. Thag­a.i.440.
 
 ## Notes

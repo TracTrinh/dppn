@@ -5,7 +5,7 @@ base_headword: "Loka"
 disambiguator: "01"
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -32,6 +32,6 @@ Loka 01. A general, inhabitant of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Loka 01. Một tướng quân, cư dân của Makkhakudrūsa. Ông cai trị Rohaṇa trong sáu năm, trụ sở cai trị của ông ở Kājaragāma. Một thủ lĩnh tên Buddharāja bất hòa với ông và trốn đến Cuṇṇasālā, nơi ông được Kitti (sau là Vijayabāhu I.) gia nhập. Loka tiến công lực lượng hợp nhất của họ, bị đánh bại ở Remuṇa và mất không lâu sau. Cv.lvii.1, 45-64.
 
 ## Notes

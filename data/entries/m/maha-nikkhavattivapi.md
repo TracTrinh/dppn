@@ -5,7 +5,7 @@ base_headword: "Mahā Nikkhavaṭṭivāpi"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -25,6 +25,6 @@ Mahā Nikkhavaṭṭivāpi. A tank built by King <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nikkhavaṭṭivāpi. Một hồ chứa nước được xây dựng bởi Vua Vasabha. Mhv.xxxv.94.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kisā Gotamī"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -54,6 +54,18 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="17" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kisā Gotamī 01. Kisā Gotamī Therī. Một vị *Arahant*. Bà được tuyên bố là đệ nhất trong số các nữ đệ tử về việc mặc những y thô sơ (*lūkhacīvara-dharānaṁ*) (AN.i.25; Dhp­a.iv.156 có chứa một câu chuyện về việc Đức Phật nói với Sakka những lời ca ngợi Kisā Gotamī). Bà xuất thân từ một gia đình nghèo ở Sāvatthī (thuộc một gia đình trưởng giả, *seṭṭhikula*, đã sa sút, theo Apadāna p.565, vs.19). Tên của bà là Gotamī – bà được gọi là Kisā vì sự gầy gò của mình. Bà được gả vào một gia đình giàu có, và bị họ đối xử khinh miệt; nhưng ngay sau khi bà sinh hạ một cậu con trai, bà đã được tôn trọng.
+
+(Ngoại trừ bởi người chồng của mình, theo Apadāna *loc.cit.*20. Tuy nhiên, ghi chép trong Dhp­a.ii.270ff không đề cập đến việc bà bị ngược đãi; ngược lại, nó khiến chúng ta mong đợi rằng bà hẳn đã được vô cùng kính trọng bởi vì, trước khi bà đến, tài sản của cha chồng bà, trị giá bốn mươi crore, tất cả đã biến thành than củi. Khi bà chạm vào lớp than củi, nó một lần nữa trở thành vàng. Ghi chép này cũng được tìm thấy trong SN­a.i.149).
+
+Tuy nhiên, cậu bé đã qua đời khi vừa đủ lớn để chạy nhảy khắp nơi; người mẹ, quẫn trí vì đau buồn, sợ hãi kẻo đứa trẻ đã chết sẽ bị mang đi khỏi bà, đã đi khắp nơi với đứa trẻ bên hông, tìm thuốc để hồi sinh mạng sống cho cậu bé. Mọi người chế nhạo bà, cho đến khi một người trí tuệ, nhận ra tình trạng của bà, đã chỉ bà đến gặp Đức Phật. Đức Phật yêu cầu bà mang về cho ngài một hạt cải từ một ngôi nhà chưa từng có ai qua đời. Trong quá trình tìm kiếm điều bất khả thi, sự điên loạn của bà đã rời bỏ bà, và sau khi thấu hiểu chân lý, bà đã đặt đứa trẻ ở bãi tha ma, và quay trở lại với Bậc Đạo Sư xin gia nhập Tăng đoàn. Bà đã trở thành một vị *Sotāpanna*, và ngay sau đó, khi tuệ minh sát của bà được phát triển, Đức Phật đã hiện ra trước mặt bà trong một luồng hào quang rực rỡ và, khi lắng nghe những lời của ngài, bà đã trở thành một vị *Arahant*. (Thīg­a.174ff; Ap.ii.564f; Dhp­a.i.270ff; AN­a.i.205).
+
+Trong các bài kệ được gán cho bà trong Therīgāthā (vv.213-23), bà đưa câu chuyện của Paṭācārā vào bài thánh ca của chính mình, như thể để thốt lên trọn vẹn hơn vở kịch và bi kịch vốn có trong số phận của người phụ nữ, mà nỗi buồn của chính bà chỉ là một giai đoạn.
+
+Vào thời của Padumuttara Buddha, bà là con gái của một gia chủ ở Haṁsavatī, và sau khi nghe Đức Phật chỉ định cho một vị Tỳ-kheo-ni vị trí tối thượng trong số những người mặc y thô sơ, bà đã nguyện rằng một ngày nào đó vị trí tương tự sẽ thuộc về bà.
+
+Vào thời của Kassapa Buddha, bà là con gái thứ năm của Kikī và tên của bà là Dhammā. Sau đó bà gia nhập Tăng đoàn và sống một cuộc sống phạm hạnh (Ap.ii.564f; Thīg­a.190f). Bà được đồng nhất với con thằn lằn trong Tittirajātaka (Ja.iii.543).
+
+Saṁyuttanikāya (i.129f) ghi lại một chuyến viếng thăm của Māra dành cho bà khi bà đang ngồi nghỉ ngơi ở Andhavana. Hắn đã bị buộc phải rút lui trong bối rối.
 
 ## Notes

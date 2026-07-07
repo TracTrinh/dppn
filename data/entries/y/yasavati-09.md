@@ -5,7 +5,7 @@ base_headword: "Yasavatī"
 disambiguator: "09"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -26,6 +26,6 @@ Yasavatī 09. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yasavatī 09. Vợ của Okkāmukha và mẹ của Devadahasakka. Mhv­ṭ. 135.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Māṇavamma"
 disambiguator: "02"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -28,6 +28,6 @@ Māṇavamma 02. Elder brother of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māṇavamma 02. Anh trai của Māna (Māna 2) và con trai của Kassapa II. Một lần, khi đang làm lễ chú nguyện, vị thần Kumāra hiện ra trước mặt ông, cưỡi trên con công; con chim, không tìm được gì để uống, bay vào mặt Māṇavamma. Ông bèn dâng mắt mình cho con công, và con chim uống từ đó. Kumāra hứa sẽ thực hiện điều ông mong muốn, nhưng ông không mong cầu quyền lực vương giả và nhường ngôi cho người em trai là Māna. Cv.lvii.5ff.
 
 ## Notes

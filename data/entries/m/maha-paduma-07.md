@@ -5,7 +5,7 @@ base_headword: "Mahā Paduma"
 disambiguator: "07"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -34,6 +34,10 @@ Once, when <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Paduma 07. Trưởng lão Mahā Paduma. Nổi tiếng về kiến thức Vinaya của ngài. Ngài là một đệ tử của Upatissa và là đồng tu với Mahā Summa (Vin-a.i.263).
+
+Những quan điểm của Mahā Paduma thường được trích dẫn trong Samantapāsādikā. i. 184, 283; ii.368, 471; iii.536, 538, 588, 596, 609, 644, 651, 683, 715; iv.819, 827, v.v.
+
+Có lần, khi hoàng hậu của Vasabha bị ốm, một nữ nhân của triều đình đã được cử đến gặp Mahā Paduma để xin thuốc, ngài rõ ràng là rất giỏi về y thuật. Vị Trưởng lão không chịu kê đơn, nhưng đã giải thích cho các vị tỳ-kheo đồng tu của mình về những gì nên làm trong trường hợp của một căn bệnh như vậy. Phương thuốc đó đã được áp dụng trong trường hợp của hoàng hậu và bà đã bình phục. Về sau, bà đã đến viếng thăm vị Trưởng lão, và cúng dường ngài ba y cùng một hộp thuốc có chứa ba trăm *kahāpaṇa*; bà đã đặt món quà này dưới chân ngài, thỉnh cầu rằng ngài nên cúng dường hoa dưới danh nghĩa của bà. Vị Trưởng lão đã chấp nhận món quà và dùng số tiền đó vào những phẩm vật cúng dường bằng hoa. Vin-a.ii.471.
 
 ## Notes

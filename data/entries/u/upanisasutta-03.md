@@ -5,7 +5,7 @@ base_headword: "Upanisāsutta"
 disambiguator: "03"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Upanisāsutta 03. The same as 2, but the *Sutta* is ascribed to <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upanisāsutta 03. Giống như 2, nhưng Kinh được quy cho Sāriputta. AN.v.315f.
 
 ## Notes

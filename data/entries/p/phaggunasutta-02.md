@@ -5,7 +5,7 @@ base_headword: "Phaggunasutta"
 disambiguator: "02"
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -24,6 +24,6 @@ Phaggunasutta 02. Contains an account of the Buddha’s visit to <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phaggunasutta 02. Chứa đựng một lời kể về chuyến viếng thăm của Đức Phật đến Phagguna (1) khi vị này đang nằm ốm. Ở cuối *Sutta* là một danh sách sáu lợi ích của việc lắng nghe Pháp và kiểm chứng giá trị của nó một cách kịp thời. AN.iii.379 ff.
 
 ## Notes

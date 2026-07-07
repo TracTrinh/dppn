@@ -5,7 +5,7 @@ base_headword: "Khuddakapāṭha"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -59,6 +59,29 @@ The Commentary was written by <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khuddakapāṭha. Một trong mười lăm cuốn sách của Khuddakanikāya, thường được nhắc đến đầu tiên trong danh sách này (ví dụ, DN­a.i.17).
+
+Tuyên bố chính đáng của nó để được gộp thành một phần của *Tipiṭaka* đã bị tranh cãi bởi cả *Dīghabhāṇaka* và *Majjhimabhāṇaka* (DN­a.i.15). Có một sự nhìn nhận chung (về một cuộc thảo luận xem Law, *Pāli Literature*, i.7f; 34f) rằng tác phẩm này là một bản sáng tác muộn hơn và nó chứa những trích đoạn từ các tác phẩm trước đó. Nó có thể đã được sáng tác ở Tích Lan, và điều đáng lưu ý là việc nó được nhắc đến lần đầu tiên như một cuốn sách chuẩn tắc chỉ xuất hiện trong các bộ Chú giải. Nó thậm chí không được nhắc đến trong Milindapañha.
+
+Cuốn sách này bao gồm chín phần hay văn bản:
+
+- Saraṇattaya,
+- Dasasikkhāpada,
+- Dvattiṁsākāra,
+- Kumārapañha,
+
+và năm *Sutta*:
+
+- Maṅgalasutta,
+- Ratanasutta,
+- Tirokuḍḍasutta,
+- Nidhikandasutta, và
+- Mettasutta
+
+– tất cả đều được tìm thấy ở những nơi khác trong kinh tạng.
+
+Theo Chú giải, cuốn sách lấy tên từ bốn văn bản đầu tiên, vốn ngắn hơn năm văn bản còn lại. Khp-a.13.
+
+Bản Chú giải được Buddhaghosa viết. Xem thêm Gv.59, 68.
 
 ## Notes

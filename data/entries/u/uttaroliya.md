@@ -5,7 +5,7 @@ base_headword: "Uttaroḷiya"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,6 @@ Uttaroḷiya. A village in Ceylon, in <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttaroḷiya. Một làng ở Tích Lan, trong Rājaraṭṭha. Gần đó có Uttaroḷiyavāpi. Rasavāhinī có câu chuyện về một cậu bé chăn bò trong làng đã dâng cúng bánh gạo của mình cho một vị Trưởng lão khất thực theo phương thức *piṇḍapātika*. Vị tỳ-kheo đắc quả *Arahant* trước khi ăn bánh. Trong kiếp sau, cậu bé được sinh ra trong cùng ngôi làng đó. Do công đức của cậu, một kho báu xuất hiện trong hồ, mà không ai có thể lấy được ngoại trừ mẹ của cậu. Nhà vua nghe được điều này, và sau khi kiểm chứng sự thật của câu chuyện, đã trao kho báu cho cậu bé. Ras.ii.22f.
 
 ## Notes

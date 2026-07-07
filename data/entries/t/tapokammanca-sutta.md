@@ -5,7 +5,7 @@ base_headword: "Tapokammañca Sutta"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,6 @@ Tapokammañca Sutta. As the Buddha sits under the <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tapokammañca Sutta. Khi Đức Phật đang ngồi dưới cội cây Ajapālanigrodha, ngay sau khi ngài Giác ngộ, hân hoan trong sự giải thoát khỏi nỗi nhọc nhằn, Māra tiếp cận và bảo với ngài rằng sự thanh tịnh của ngài chỉ là một ảo tưởng. Đức Phật quở trách hắn và chứng minh cho hắn thấy rằng hắn đã sai lầm. SN.i.103.
 
 ## Notes

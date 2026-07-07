@@ -5,7 +5,7 @@ base_headword: "Subhaga"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Subhaga. A son of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subhaga. Một người con trai của vua Nāga tên là Dhataraṭṭha. Xem Bhūridattajātaka (Ja 543). Vị này được nhận diện là Moggallāna. Ja.vi.219.
 
 ## Notes

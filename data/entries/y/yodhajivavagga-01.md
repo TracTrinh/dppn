@@ -5,7 +5,7 @@ base_headword: "Yodhājīvavagga"
 disambiguator: "01"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -25,6 +25,6 @@ Yodhājīvavagga 01. The fourteenth chapter of the *Tikanipāta* of the <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yodhājīvavagga 01. Chương thứ mười bốn của phần *Tikanipāta* thuộc Aṅguttaranikāya. AN.i.284-92.
 
 ## Notes

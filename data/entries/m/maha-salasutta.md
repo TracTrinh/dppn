@@ -5,7 +5,7 @@ base_headword: "Mahā Sālasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -30,6 +30,8 @@ The Commentary says that the man had immense wealth in his house, some eighty cr
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sālasutta 02. hay Lūkhapāpuraṇasutta. Một Bà-la-môn giàu có, trông tiều tụy và mặc một bộ trang phục thô kệch, đến viếng thăm Đức Phật tại Sāvatthī và kể với Ngài rằng bốn người con trai của ông, với sự xúi giục của vợ họ, đã đuổi ông ra khỏi nhà. Đức Phật dạy cho ông vài bài kệ minh họa sự vô ơn của các con trai ông để đọc tụng tại Santhāgārasālā. Ông đã đọc những bài kệ này và các con trai ông, những người đang ở trong hội chúng, đã đưa ông về nhà và chăm sóc ông. Về sau ông đi đến gặp Đức Phật và thỉnh cầu Ngài nhận một bộ trang phục mà các con trai ông đã tặng cho ông. Đức Phật đã nhận lấy nó vì lòng bi mẫn (SN.i.175f).
+
+Chú giải nói rằng người đàn ông này có khối tài sản khổng lồ trong nhà, khoảng tám mươi crore. Ông đã cưới vợ cho các con trai mình và chia một nửa tài sản của mình cho họ. Vợ ông qua đời, và các con trai của ông, lo sợ rằng ông có thể lấy vợ khác và họ sẽ mất đi phần tài sản thừa kế còn lại, đã cưng chiều và chăm sóc ông, và ông đã cho họ tất cả ngoại trừ chiếc áo choàng của mình. Ông đến sống với người con trai cả, nhưng bị con dâu đuổi ra ngoài; những người còn lại trong gia đình cũng đối xử với ông như vậy. Ông gia nhập vào giáo phái của những người Paṇḍaraṅga và phải chịu đựng những sự thiếu thốn tột cùng, cho đến khi cuối cùng ông gieo mình vào lòng tốt và sự độ lượng nổi tiếng của Đức Phật. Khi mọi người phát hiện ra sự bất hiếu của những người con trai, họ dọa sẽ giết chúng, và sau đó những người con trai đã đón ông lão về và chăm sóc ông. Về sau, các thành viên trong gia đình đã trở thành những vị *Sotāpanna*. SN­a.i.202ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Makasajātaka"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -28,6 +28,8 @@ The story was related in reference to some inhabitants of a hamlet in <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Makasajātaka (Ja 44). Có lần, ở một ngôi làng biên giới thuộc xứ Kāsi, có một nhóm thợ mộc sinh sống. Một hôm, một người trong số họ, một người đàn ông hói đầu, tóc bạc, đang bào vài thanh gỗ thì một con muỗi đậu trên đầu ông ta và chích ông. Ông bảo cậu con trai đang ngồi gần đó đuổi nó đi. Cậu bé giơ chiếc rìu lên, và với ý định đuổi con muỗi đi, đã bổ đôi đầu cha mình, giết chết ông. Bodhisatta, một thương nhân, đã chứng kiến sự việc này. "Thà có một kẻ thù có lý trí còn hơn là một người bạn như thế," ngài nói.
+
+Câu chuyện này được kể lại liên quan đến một số cư dân của một ngôi làng ở Magadha, những người bị loài muỗi quấy rầy khi đang làm việc trong rừng. Một hôm, họ trang bị cung tên cho mình, và trong lúc cố gắng bắn những con muỗi, đã bắn trúng lẫn nhau. Đức Phật đã thấy họ ở bên ngoài ngôi làng bị tàn tật nặng nề do sự ngu xuẩn của họ. Ja.i.246-48.
 
 ## Notes

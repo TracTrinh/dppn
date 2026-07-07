@@ -5,7 +5,7 @@ base_headword: "Paramassāsasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Paramassāsasutta. A conversation between <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paramassāsasutta. Cuộc trò chuyện giữa Sāriputta và Jambukhādaka về những gì cấu thành nên sự an lạc tối cao. SN.ii.254; cp.iv.261.
 
 ## Notes

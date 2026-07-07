@@ -5,7 +5,7 @@ base_headword: "Mālavalli"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -27,6 +27,6 @@ Mālavalli. A tank in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mālavalli. Một hồ chứa nước ở Dakkhiṇadesa được trùng tu bởi Parakkamabāhu I. (Cv.lxviii.45). Nó là hiện trường của một trận chiến giữa quân đội của Gajabāhu và của Parakkamabāhu I. Cv.lxx.66.
 
 ## Notes

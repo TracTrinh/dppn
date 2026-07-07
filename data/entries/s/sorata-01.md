@@ -5,7 +5,7 @@ base_headword: "Sorata"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -23,6 +23,6 @@ Sorata 01. A Pacceka Buddha. MN.iii.70.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sorata 01. Một vị Pacceka Buddha. MN.iii.70.
 
 ## Notes

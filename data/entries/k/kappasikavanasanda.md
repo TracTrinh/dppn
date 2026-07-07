@@ -5,7 +5,7 @@ base_headword: "Kappāsikavanasaṇḍa"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -28,6 +28,6 @@ Kappāsikavanasaṇḍa (<span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kappāsikavanasaṇḍa (Kappāsiyavanasaṇḍa). Một khu rừng nhỏ gần Uruvelā. Ở đó nhóm Bhaddavaggiyā đã tình cờ gặp Đức Phật trong khi đang tìm kiếm một người phụ nữ đã bỏ trốn cùng với một số đồ đạc của họ. Gotama Buddha đã thuyết pháp cho họ và họ đã gia nhập Tăng đoàn, đắc được các Đạo Quả khác nhau, từ thứ nhất cho đến thứ ba. Vin.i.23f; Ja.i.82; Dhp­a.i.72; Dpv.i.34; AN­a.i.57, 84; Thīg­a.3.
 
 ## Notes

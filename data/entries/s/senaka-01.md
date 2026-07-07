@@ -5,7 +5,7 @@ base_headword: "Senaka"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -28,6 +28,6 @@ Senaka 01. A minister of King <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Senaka 01. Một đại thần của vua Vedeha. Xem Mahā Ummaggajātaka (Ja 546), phần lớn nội dung dành cho cuộc đấu trí giữa Senaka và Mahosadha. Senaka từng giết một kỹ nữ để lấy đồ trang sức của cô (Ja.vi.382). Ông được đồng nhất với Saccaka. Ja.vi.478.
 
 ## Notes

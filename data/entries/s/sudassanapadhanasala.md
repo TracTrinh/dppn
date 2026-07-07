@@ -5,7 +5,7 @@ base_headword: "Sudassanapadhānasala"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sudassanapadhānasala. A building in Talacatukka. Ras.ii.9.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudassanapadhānasala. Một tòa nhà ở Talacatukka. Ras.ii.9.
 
 ## Notes

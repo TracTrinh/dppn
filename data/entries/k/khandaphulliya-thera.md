@@ -5,7 +5,7 @@ base_headword: "Khaṇḍaphulliya Thera"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -26,6 +26,6 @@ Khaṇḍaphulliya Thera. An *Arahant*. Ninety-two *kappas* ago he saw the *Thū
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khaṇḍaphulliya Thera. Một vị Arahant. Chín mươi hai kappa trước ngài đã nhìn thấy Thūpa của Đức Phật Phussa bị voi phá hủy và cây cối mọc um tùm. Ngài đã dọn dẹp và phục hồi lại nó. Bảy mươi bảy kappa trước ngài đã mười sáu lần trở thành vua dưới tên gọi Jitasena. Ap.i.198.
 
 ## Notes

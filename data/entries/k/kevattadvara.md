@@ -5,7 +5,7 @@ base_headword: "Kevaṭṭadvāra"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kevaṭṭadvāra. One of the gates of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kevaṭṭadvāra. Một trong những cổng thành của Benares. Ngôi làng gần đó cũng mang cùng tên này và là nơi ở của Lakhumā. Vv­a.97f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kathāsutta"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -24,6 +24,6 @@ Kathāsutta 02. On the five qualities which help a monk who practises *ānāpān
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kathāsutta 02. Bàn về năm phẩm chất giúp một tỳ-kheo thực hành ānāpānasati đạt đến trạng thái bất động (akuppaṁ). Những phẩm chất này bao gồm việc đàm luận những điều làm rộng mở tâm trí. AN.iii.120f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Ussānaviṭṭhi"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -26,6 +26,6 @@ Ussānaviṭṭhi. A village in Ceylon, given by King <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ussānaviṭṭhi. Một ngôi làng ở Tích Lan (Ceylon), được trao tặng bởi vua Udaya I, để duy trì pāsāda trong Pucchārāmavihāra. Nó từng là một ngôi làng nghèo, nhưng nhà vua đã khiến nó trở nên trù phú. Cv.xlix.28.
 
 ## Notes

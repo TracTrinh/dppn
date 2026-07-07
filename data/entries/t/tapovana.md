@@ -5,7 +5,7 @@ base_headword: "Tapovana"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tapovana. A group of monasteries near <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tapovana. Một nhóm các tu viện nằm gần Anurādhapura do các vị Paṁsukūlika trú ngụ. Chúng nằm trong khu rừng phía tây thành phố. Cv.lii.22; liii.14ff; cũng xem Cv.Trs.i.163, n.8.
 
 ## Notes

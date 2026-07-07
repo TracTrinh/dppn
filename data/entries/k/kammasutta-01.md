@@ -5,7 +5,7 @@ base_headword: "Kammasutta"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -23,6 +23,6 @@ Kammasutta 01. Blameworthy action of body, speech and mind, and wrong views, bri
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kammasutta 01. Hành động đáng trách của thân, khẩu và ý, cùng với những tà kiến, mang lại nhiều phi công đức. AN.ii.252.
 
 ## Notes

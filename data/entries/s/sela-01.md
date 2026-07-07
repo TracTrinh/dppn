@@ -5,7 +5,7 @@ base_headword: "Sela"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -23,6 +23,6 @@ Sela 01. A king of long ago who, in spite of great sacrifices, could not get bey
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sela 01. Một vị vua thuở xa xưa, dù đã thực hiện nhiều lễ tế lớn, vẫn không thể vượt ra khỏi cõi của các *Peta* (*Pitṛs*). Ja.vi.99.
 
 ## Notes

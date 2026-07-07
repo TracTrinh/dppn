@@ -5,7 +5,7 @@ base_headword: "Passī"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Passī. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Passī. Một vị Pacceka Buddha được nhắc đến trong một danh sách tên. MN.iii.70; Ap­a.i.107; MN­a.ii.890.
 
 ## Notes

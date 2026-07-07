@@ -5,7 +5,7 @@ base_headword: "Tapodārāma"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -32,6 +32,8 @@ Near the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tapodārāma. Một khu rừng nhỏ gần hồ nước Tapodā (*q.v.*). Trong khu rừng có một tu viện nơi Đức Phật dường như đã từng lưu trú vào vài dịp. Người ta kể rằng trong một dịp như thế, Đức Phật đã tạo cơ hội cho Ānanda thỉnh cầu ngài sống trọn một *kappa*, nhưng Ānanda đã không sử dụng cơ hội đó (DN.ii.116).
+
+Gần Tapodārāma là Tapodakandarā. Cả hai nơi này đều cách xa Rājagaha, và các vị tỳ-kheo thường đi từ nơi xa đến vào lúc đêm khuya và, để thử thách quyền năng của Dabba Mallaputta, họ yêu cầu thầy cung cấp chỗ ở cho họ (Vin.ii.76; iii.159).
 
 ## Notes

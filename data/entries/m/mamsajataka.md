@@ -5,7 +5,7 @@ base_headword: "Maṁsajātaka"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -29,6 +29,8 @@ The story was related in reference to <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṁsajātaka (Ja 315). Bốn người con trai của bốn thương gia giàu có ở Benares có lần đang ngồi ở ngã tư đường, và, khi thấy một người thợ săn hươu đang rao bán thịt nai trên một chiếc xe đẩy, một người trong số họ đã đề nghị lấy một ít thịt từ anh ta. Vì vậy, người đó tiến đến gặp người thợ săn và nói, "Này! Người kia! Hãy cho ta một ít thịt," và người thợ săn đã đưa cho người đó một ít da và xương; người thứ hai, đi đến và gọi anh ta là "Đại ca" và đã được nhận một khúc thịt; nhưng người thứ ba thì nịnh nọt anh ta, gọi anh ta là "Cha," và đã nhận được một miếng thịt thơm ngon; trong khi người thứ tư (Bồ-tát) gọi anh ta là "Bạn hiền," và đã được tặng toàn bộ phần còn lại của con hươu, và thịt đã được chở đến nhà của người đó trên chiếc xe đẩy của người thợ săn.
+
+Câu chuyện được kể lại liên quan đến Sāriputta. Một số Tỳ-kheo ở Jetavana, sau khi dùng dầu làm thuốc xổ, đã muốn có một số thức ăn ngon. Họ đã phái những người hầu của mình đi xin ăn ở khu vực của những người đầu bếp, nhưng những người này đã phải trở về tay không. Sāriputta đã gặp họ, và, sau khi nghe câu chuyện của họ, ngài đã cùng họ trở lại chính con phố đó; người dân đã cúng dường cho ngài đầy một phần thức ăn ngon, phần thức ăn này sau đó đã được chia cho các Tỳ-kheo bị ốm. Sāriputta được đồng nhất với người thợ săn trong câu chuyện. Ja.iii.48-51.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Uttarārāma"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Uttarārāma 01. An image-house constructed by <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttarārāma 01. Một nhà thờ tượng do Parakkamabāhu I. xây dựng ở phía bắc Pulatthipura. Công trình được đục khoét từ đá tự nhiên và có ba hang động, được tạo ra bởi những nghệ nhân lành nghề — hang *Vijjādhara*, hang có tượng ngồi và hang có tượng nằm. Cv.lxxviii.74ff; để biết mô tả về nó, xem Cv.Trs.ii., 111, n.2; Bell: Arch. Survey of Ceylon for 1907, pp.7ff.
 
 ## Notes

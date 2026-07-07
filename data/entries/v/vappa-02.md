@@ -5,7 +5,7 @@ base_headword: "Vappa"
 disambiguator: "02"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -28,6 +28,6 @@ Vappa 02. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vappa 02. Một người Sākiyan, đệ tử của những người Nigaṇṭhas (Ni-kiền-tử). AN­a.ii.559 nói rằng ông là chú của đức Phật (*cūḷapitā*) và là một vị vua (*rājā*) của người Sākiyan. Ông là đệ tử của Nigaṇṭha Nātaputta. Ông đã đến thăm Moggallāna và họ trò chuyện về các lậu hoặc (*āsavas*). Đức Phật sau đó gia nhập cuộc thảo luận và giải thích cho Vappa về cách làm thế nào để hoàn toàn đoạn tận các lậu hoặc, nhờ đó mà vị tỳ-kheo nào đã đoạn tận được chúng sẽ an trú trong sáu *satatavihāras* với tâm xả, chánh niệm và tỉnh giác. Vappa được thuyết phục về sự ưu việt trong giáo pháp của đức Phật và trở thành đệ tử của ngài. AN.ii.196f.
 
 ## Notes

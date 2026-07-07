@@ -5,7 +5,7 @@ base_headword: "Pañcavaggiyā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -48,6 +48,20 @@ For details of the members of the group, see under their several names; see also
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcavaggiyā. Tên gọi được đặt cho năm vị tỳ-kheo:
+
+- Koṇḍañña, (Aññā Koṇḍañña),
+- Bhaddiya,
+- Vappa,
+- Mahā Nāma
+- Assaji
+
+những người mà Đức Phật đã thuyết bài pháp đầu tiên của Ngài tại Isipatana.
+
+Trong số này, Koṇḍañña là người trẻ nhất trong tám vị Bà-la-môn đã xem tướng trên thân thể của Gotama vào ngày lễ đặt tên. Bốn người còn lại là con của bốn trong số các vị Bà-la-môn khác. Họ đã được cha mình khuyên nên theo dõi sự nghiệp của Gotama và đi theo Ngài nếu Ngài xuất gia. Họ đã làm như vậy, và cả năm người đã tham gia vào việc tu khổ hạnh của Gotama tại Uruvelā. Khi Ngài từ bỏ lối tu khổ hạnh và bắt đầu đi theo Trung Đạo, họ đã rời bỏ Ngài trong sự thất vọng. Nhưng sau khi Giác ngộ, Đức Phật đã đến thăm họ và thuyết pháp cho họ. Lúc đầu họ từ chối chú ý đến Ngài, nhưng dần dần khả năng thuyết phục của Ngài đã thu phục được trái tim họ và họ đã trở thành những đệ tử đầu tiên của Ngài.
+
+Đáng chú ý là, mặc dù đã được cha của họ cảnh báo về một vận mệnh vĩ đại đang chờ đợi Gotama, họ vẫn do dự trong việc chấp nhận sự kiện Gotama đã Giác ngộ. Ja.i.57, 67, 81, 82; Dhp­a.i.87, v.v.
+
+Để biết chi tiết về các thành viên của nhóm, xem dưới các tên riêng của họ; xem thêm bài viết của bà Rhys Davids trong JRAS. năm 1927 về họ như là những “Người đồng sáng lập vô danh của Phật giáo,” nơi bà gợi ý rằng các thành viên của nhóm này chịu trách nhiệm về một số khuynh hướng nhất định trong giáo lý của Đức Phật.
 
 ## Notes

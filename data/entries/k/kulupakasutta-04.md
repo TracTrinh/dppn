@@ -5,7 +5,7 @@ base_headword: "Kulupakasutta"
 disambiguator: "04"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -24,6 +24,6 @@ Kulupakasutta 04. The Buddha says that <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Đức Phật nói rằng Mahā Kassapa có những phẩm chất cần thiết để trở thành một vị tỳ-kheo xứng đáng đến thăm các gia đình. Ông không bực tức ngay cả khi họ bố thí một cách ít ỏi, chậm trễ hay thiếu tôn trọng. SN.ii.200.
 
 ## Notes

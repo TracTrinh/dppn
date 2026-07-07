@@ -5,7 +5,7 @@ base_headword: "Kusinārāvihāra"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,6 @@ Kusinārāvihāra. A monastery built by <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tu viện do Parakkamabāhu I. xây dựng ở một vùng ngoại ô của Pulatthipura, tên là Sīhapura. Nó bao gồm ba ngôi nhà đặt tượng, mỗi ngôi nhà gồm ba tầng, sáu *pāsāda*, v.v. Cv.lxxiii.152; lxxviii.84; xem thêm Cv.Trs.ii.18, chú thích 3.
 
 ## Notes

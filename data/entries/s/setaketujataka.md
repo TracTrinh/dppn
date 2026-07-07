@@ -5,7 +5,7 @@ base_headword: "Setaketujātaka"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -31,6 +31,8 @@ The story was related in the same circumstances as the <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Setaketujātaka (Ja 377). Xưa kia, Bodhisatta là một vị thầy nổi danh, với năm trăm học trò, trong đó người đứng đầu là Setaketu, một *Udicca Brahmin*, kẻ tự hào về dòng dõi cao quý của mình. Một ngày nọ, khi gặp một người Caṇḍāla, Setaketu bảo hắn đi qua phía dưới gió của mình, nhưng người Caṇḍāla từ chối, thách Setaketu trả lời một câu hỏi. Setaketu chấp nhận thách thức, và bị hỏi bốn “phương vị” là gì. Setaketu đưa ra câu trả lời thông thường, sau đó người Caṇḍāla kẹp ông giữa hai chân. Khi điều này được báo cho người thầy, ông nói với Setaketu rằng bốn phương vị là cha mẹ, thầy giáo, những người cư sĩ hào phóng, và sự giải thoát khỏi khổ đau. Về sau, Setaketu lên đường đến Takkasilā, và sau khi hoàn tất việc học ở đó, đến Benares cùng với năm trăm ẩn sĩ. Tại đó họ thực hành các hình thức khổ hạnh giả tạo và được vua tán thưởng; tuy nhiên tế quan của vua cảnh báo nhà vua về họ, nói rằng họ chỉ có kiến thức giả tạo và không có giới hạnh. Vị tế quan thuyết phục Setaketu và những người theo ông trở thành cư sĩ và gia nhập phụng sự nhà vua.
+
+Câu chuyện được kể trong cùng hoàn cảnh như Uddālajātaka (*q.v.*). Setaketu được đồng nhất với vị tu sĩ giả, người Caṇḍāla với Sāriputta, và tế quan của vua với Bodhisatta. Ja.iii.232-7.
 
 ## Notes

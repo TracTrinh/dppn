@@ -5,7 +5,7 @@ base_headword: "Varuṇa"
 disambiguator: "02"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Varuṇa 02. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Varuṇa 02. Con trai của đức Phật Revata và cũng là đệ tử hàng đầu của ngài. Mẹ của ông là Sudassanā (Bv.vi.18, 21; Ja.i.35). Có lần, khi ông bị ốm, một lượng lớn người dân đã đến thăm ông, và ông đã thuyết giảng cho họ về tam tướng, truyền giới cho một trăm ngàn người thông qua hình thức thọ giới “*ehi bhikkhu*”. Bv­a.163.
 
 ## Notes

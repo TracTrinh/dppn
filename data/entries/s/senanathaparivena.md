@@ -5,7 +5,7 @@ base_headword: "Senānāthapariveṇa"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -27,6 +27,6 @@ Senānāthapariveṇa. Evidently identical with the <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Senānāthapariveṇa. Rõ ràng đồng nhất với Senasenāpatipariveṇa (*q.v.*). Vijayabāhu IV. đã bổ nhiệm vị Trưởng lão của *pariveṇa* này phụ trách việc trùng tu Ratanāvalicetiya. Cv.lxxxviii.85.
 
 ## Notes

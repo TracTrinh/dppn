@@ -5,7 +5,7 @@ base_headword: "Sattiyā Sutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -24,6 +24,6 @@ Sattiyā Sutta. The Buddha tells a *Deva* that *sakkāyadiṭṭhi* should be go
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sattiyā Sutta. Đức Phật nói với một vị thiên nhân rằng một tỳ-kheo nên từ bỏ *sakkāyadiṭṭhi* như thể bị một lưỡi gươm sắp giáng xuống chém ngã. SN.i.13.
 
 ## Notes

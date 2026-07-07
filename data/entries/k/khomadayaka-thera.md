@@ -5,7 +5,7 @@ base_headword: "Khomadāyaka Thera"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -27,6 +27,6 @@ Khomadāyaka Thera. An *Arahant*. Ninety-one *kappas* ago he was a merchant in <
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khomadāyaka Thera. Một vị Arahant. Chín mươi mốt *kappa* trước, ngài là một thương nhân ở Bandhumatī và, khi nhìn thấy Vipassī Buddha trên phố, ngài đã cúng dường một tấm vải lanh (*khoma*). Hai mươi bảy *kappa* trước, ngài là một vị vua tên là Sindhavasandana. Ap.i.80f.
 
 ## Notes

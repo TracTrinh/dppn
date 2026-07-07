@@ -5,7 +5,7 @@ base_headword: "Kulumbarikaṇṇikā"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,6 @@ Kulumbarikaṇṇikā. A district in Ceylon; the birthplace of <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một quận ở Tích Lan; nơi sinh của Mahā Soṇa (Mhv.xxiii.45). Theo Mahā Vaṁsa Commentary nó nằm ở Rohaṇa. Mhv­ṭ.45.
 
 ## Notes

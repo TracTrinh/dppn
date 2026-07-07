@@ -5,7 +5,7 @@ base_headword: "Sitthagāma"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -27,6 +27,6 @@ Sitthagāma. A village which <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sitthagāma. Một ngôi làng mà Sena IV đã chuyển thành một pariveṇa, rõ ràng là để ông lui về ẩn cư (Cv.liv.6). Về sau, một vị tăng tên là Dhammamitta sống ở đó và viết một bộ Chú giải về Abhidhamma. Cv.liv.35.
 
 ## Notes

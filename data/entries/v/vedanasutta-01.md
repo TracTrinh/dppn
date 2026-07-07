@@ -5,7 +5,7 @@ base_headword: "Vedanāsutta"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vedanāsutta 01. On how diversity of feelings arise because of the diversity in 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vedanāsutta 01. Về cách sự đa dạng của các thọ khởi lên do sự đa dạng của các giới. SN.ii.141.
 
 ## Notes

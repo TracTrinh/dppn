@@ -5,7 +5,7 @@ base_headword: "Paṇihita­acchannavagga"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Paṇihita­acchannavagga. The fifth section of the *Ekanipāta* of the <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇihita­acchannavagga. Phần thứ năm của *Ekanipāta* thuộc Aṅguttaranikāya. AN.i.8-10.
 
 ## Notes

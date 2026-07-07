@@ -5,7 +5,7 @@ base_headword: "Vijayārāma"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,6 @@ Vijayārāma, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vijayārāma, Vijayārāmavihāra. Một khu vườn ở Anurādhapura, nơi mà ranh giới của Mahā Vihāra đi qua (Mbv. p. 136). Một tu viện đã được xây dựng ở đó (có lẽ vào thời gian sau), mà sau này được gọi là Vijayārāmavihāra. Một lần nọ, một vị tỳ-kheo *Arahant*, trong khi đang dạy một *kammaṭṭhāna* (đề mục thiền) cho hai tỳ-kheo, đã nói chữ "*samuddha*" thay vì "*samudda*". Một trong hai vị tỳ-kheo đã chỉ ra lỗi của ngài, và đã bị vị *Arahant* phái đến Mahā Vihāra với một thông điệp rằng ông đã chú ý đến các chữ cái nhiều hơn là ý nghĩa của chúng. Vị tỳ-kheo đã đi đến Mahā Vihāra và sau này đã chứng đạt *Nibbāna*, sau khi giải quyết được nhiều câu hỏi khó khác nhau trước sự hiện diện của hội chúng. MN­a.ii.827.
 
 ## Notes

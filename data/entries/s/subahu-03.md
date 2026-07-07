@@ -5,7 +5,7 @@ base_headword: "Subāhu"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Subāhu 03. Five hundred *kappas* ago there were thirty-four kings of this name,
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subāhu 03. Năm trăm *kappa* trước đây có ba mươi tư vị vua mang tên này, là những tiền kiếp của Ekāsaniya Thera (Sīvalī). Ap.i.150; Thag­a.i.139.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sīvalā"
 disambiguator: "03"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -25,6 +25,6 @@ Sīvalā 03. One of the chief women patrons of <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīvalā 03. Một trong những nữ thí chủ hàng đầu của Koṇāgamana Buddha. Bv.xxiv.24.
 
 ## Notes

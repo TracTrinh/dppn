@@ -5,7 +5,7 @@ base_headword: "Pañcakaṅga"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -40,6 +40,10 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcakaṅga. Vị *Thapati* của Pasenadi, vua nước Kosala. Ông là một tín đồ thành kính của Đức Phật và thích thảo luận.
+
+Kinh Bahuvedanīyasutta (MN.i.396ff.; xem thêm SN.iv.223f) dựa trên một cuộc thảo luận giữa ông và Mahā Udāyī, cuộc thảo luận mà Ānanda đã tình cờ nghe được và thuật lại cho Đức Phật. Vào một dịp khác, Pañcakaṅga kể lại cho Đức Phật nghe cuộc trò chuyện mà ông đã có với *Paribbājaka* Uggāhamāna Samaṇa Maṇḍikāputta, và Đức Phật đã thuyết cho ông bài kinh Samaṇamaṇḍikāsutta (MN.ii.23ff).
+
+Kinh Anuruddhasutta chứa đựng một cuộc thảo luận giữa Anuruddha và Abhiya Kaccāna, diễn ra tại nhà của Pañcakaṅga, nơi ông đã mời họ đến (MN.iii.144ff). Cuộc thảo luận bắt đầu bằng một câu hỏi do Pañcakaṅga đặt ra. Buddhaghosa nói rằng Pañcakaṅga là tên cá nhân của vị *Thapati*, và ông được gọi như vậy (“Năm Công Cụ”) vì ông mang theo năm công cụ của thợ mộc: *vāsīpharasu* (cái rìu), *nikhādana* (cái đục), *daṇḍa* (thước đo), *muggara* (cái vồ) và *kāḷasutta* (sợi dây tẩm mực đen) (MN­a.ii.629; SN­a.iii.86). Ông giải thích *Thapati* là *vaḍḍhakī jeṭṭha*.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Koṭṭhitasutta"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -26,6 +26,6 @@ Koṭṭhitasutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koṭṭhitasutta 02. Mahā Koṭṭhita hỏi Sāriputta một loạt các câu hỏi về lý do tại sao Đấng Thế Tôn lại sống đời sống phạm hạnh (*brahmacariyā*), đối với tất cả những câu hỏi này Sāriputta đều trả lời “Không”. Sau đó ông tiếp tục giải thích rằng mục đích của đời sống phạm hạnh là để liễu ngộ Bốn Sự Thật Cao Quý (Tứ Thánh Đế). AN.iv.382f.
 
 ## Notes

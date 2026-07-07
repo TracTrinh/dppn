@@ -5,7 +5,7 @@ base_headword: "Paramatthamañjūsā"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Paramatthamañjūsā 01. <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paramatthamañjūsā 01. Bản chú giải (*Ṭīkā*) của Dhammapāla về Visuddhimagga. PLC.113.
 
 ## Notes

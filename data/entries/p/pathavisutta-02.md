@@ -5,7 +5,7 @@ base_headword: "Paṭhavīsutta"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Paṭhavīsutta 02. The same as the above. SN.ii.136.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṭhavīsutta 02. Giống như trên. SN.ii.136.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kisā Gotamī"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -30,6 +30,8 @@ Kisā Gotamī 02. A *Khattiya*-maiden of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kisā Gotamī 02. Một thiếu nữ Sát-đế-lỵ của Kapilavatthu. Bà đã nhìn thấy từ ban công của mình Siddhattha Gotama đang trở về cung điện trên cỗ xe của ngài khi nhận được tin tức rằng một người con trai đã được sinh ra cho ngài. Gotamī đã rất vui mừng khi nhìn thấy ngài, và đã thốt lên niềm hân hoan của mình trong “*nibbutā-pada*” (*nibuttā nūna sā mātā*, v.v.) nổi tiếng.
+
+Gotama hài lòng với việc đề cập đến từ *nibbuta*, từ đối với ngài có nghĩa là sự giải thoát, và như một dấu hiệu của sự biết ơn, ngài đã gửi cho bà chiếc vòng cổ ngọc trai mà ngài đang đeo, trị giá một trăm ngàn. Bà đã vui vẻ chấp nhận nó như một kỷ vật tình yêu của ngài (Ja.i.60f; Bv­a.232f). Bà đôi khi được nói đến như là một người chị em họ của Gotama, con gái người anh em của cha ngài (*pitucchādhītā*). (ví dụ: Dhp­a.i.70; Dhs-a.34. Một sự tương đồng đã được vạch ra giữa câu chuyện này và câu chuyện của Lu-ca xi.27).
 
 ## Notes

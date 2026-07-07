@@ -5,7 +5,7 @@ base_headword: "Yasodhara"
 disambiguator: "01"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -24,6 +24,6 @@ Yasodhara 01. A king of fifty-five *kappas* ago; a previous birth of <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yasodhara 01. Một vị vua cách đây năm mươi lăm *kappa*; một tiền kiếp của Ukkhepakaṭa Vaccha (Ekatthambhika) Thera. Thag­a.i.148; Ap.i.56.
 
 ## Notes

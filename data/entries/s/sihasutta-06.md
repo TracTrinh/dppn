@@ -5,7 +5,7 @@ base_headword: "Sīhasutta"
 disambiguator: "06"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -26,6 +26,6 @@ Sīhasutta 06. While the Buddha is preaching to a large congregation at <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhasutta 06. Trong khi Đức Phật đang thuyết pháp cho một hội chúng đông đảo tại Jetavana, Māra đến gần và hỏi Ngài làm sao có thể tự tin như vậy, giống như một con sư tử. Đức Phật trả lời rằng đó là vì Ngài đã đạt được mười lực. SN.i.109.
 
 ## Notes

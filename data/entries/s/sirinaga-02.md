@@ -5,7 +5,7 @@ base_headword: "Sirināga"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -29,6 +29,6 @@ Sirināga 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirināga 02. Sirināga II. Vua Tích Lan (300-302 CE.). Ông là con trai của Tissa (Vohārikatissa) và là em trai của Abhayanāga. Ông trùng tu bức tường quanh cây Bodhi và xây dựng Haṁsavaṭṭa của ngôi đền cây Bodhi. Con trai ông là Vijayakumāra. Mhv.xxxvi.54f.; Dpv.xxii.46f.
 
 ## Notes

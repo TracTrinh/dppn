@@ -5,7 +5,7 @@ base_headword: "Sudassana"
 disambiguator: "13"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sudassana 13. A palace in <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudassana 13. Một cung điện ở Reṇuvatī nơi Vimala (7) cư ngụ. Ap.i.61.
 
 ## Notes

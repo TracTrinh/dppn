@@ -5,7 +5,7 @@ base_headword: "Labujamaṇḍaka"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -26,6 +26,6 @@ Labujamaṇḍaka. One of four villages given by <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Labujamaṇḍaka. Một trong bốn ngôi làng được Parakkamabāhu IV. cấp để duy trì *pariveṇa* do ông xây dựng cho Medhaṅkara Thera. Cv.xc.87.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kalalahallika"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kalalahallika. A village and tank near <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kalalahallika. Một ngôi làng và hồ chứa nước gần Āḷisāra. Đã có một pháo đài ở đó. Hồ chứa nước này đã được phục hồi bởi Parakkamabāhu I. Cv.lxviii.48; lxx.73, 163; xem thêm Cv.Trs.i.301, n.1.
 
 ## Notes

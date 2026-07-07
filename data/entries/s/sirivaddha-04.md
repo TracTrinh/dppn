@@ -5,7 +5,7 @@ base_headword: "Sirivaḍḍha"
 disambiguator: "04"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sirivaḍḍha 04. A *Yavapāla* who gave grass for his seat to <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirivaḍḍha 04. Một Yavapāla đã dâng cỏ làm chỗ ngồi cho Dhammadassī Buddha. Bv­a.182.
 
 ## Notes

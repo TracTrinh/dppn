@@ -5,7 +5,7 @@ base_headword: "Senaka"
 disambiguator: "06"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -32,6 +32,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Senaka 06. Senaka Thera. Ông sinh trong một gia đình Bà-la-môn, là con trai của em/chị gái Uruvelā Kassapa. Senaka nghe Đức Phật thuyết pháp tại lễ hội Gayāphagguna, được cải đạo, xuất gia vào Tăng đoàn, và chứng đắc quả vị *Arahant*.
+
+Vào thời Sikhī Buddha, ông đã dâng lên Đức Phật một nắm lông công (Thag.vss.287-90; Thag­a.i.388f). Vị này rõ ràng đồng nhất với Morahatthiya trong Apadāna. Ap.ii.403.
 
 ## Notes

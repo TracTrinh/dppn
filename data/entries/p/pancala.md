@@ -5,7 +5,7 @@ base_headword: "Pañcāla"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -50,6 +50,12 @@ There seems to have been a chieftain (*rājā*) of Pañcāla even in the Buddha�
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcāla, Pañcālajanapada, Pañcālaraṭṭha, Pañcālā. Một trong mười sáu Mahā Janapadas (AN.i.213; iv.252, v.v.). Nó bao gồm hai khu vực: Uttara Pañcāla và Dakkhiṇa Pañcāla. Sông Bhagīrathi tạo thành ranh giới giữa các khu vực này. Theo Kumbhakārajātaka (Ja 408), thủ đô của Uttara Pañcāla là Kampillanagara, nơi một vị vua tên là Dummukha từng trị vì. Ja.iii.379; xem thêm Mvu.iii.26; nhưng *Divyāvadāna* (435) gọi thủ đô là Hastināpura. Theo *Mahā Bhārata* (i.138, 73-4), thủ đô là Ahicchatra hoặc Chatravatī, trong khi thủ đô của Dakṣina Pañcāla là Kāmpilya.
+
+Pañcāla nằm ở phía đông của quốc gia Kuru, và vào thời cổ đại, dường như đã có một cuộc đấu tranh liên tục giữa những người Kuru và những người Pañcāla để giành quyền kiểm soát Uttara Pañcāla. Do đó, đôi khi, Uttara Pañcāla được bao gồm trong vương quốc Kuru (ví dụ, Ja.v.444; xem thêm *Mahā Bhārata* i.138), nhưng vào những thời điểm khác, nó lại tạo thành một phần của Kampillaraṭṭha (ví dụ, Ja.iii.79; v. 21, 289) với Kampilla có lẽ là thủ đô của Dakkhiṇa Pañcāla. Do đó đã xảy ra chuyện đôi khi các vị vua của Kampillaraṭṭha có thủ đô ở Uttara Pañcālanagara, trong khi vào những thời điểm khác, các vị vua của Uttara Pañcālanagara lại có thủ đô ở Kampillanagara. Cūḷanī Brahmadatta được mô tả trong Mahā Ummaggajātaka (Ja 546) là vua của Pañcāla, với thủ đô ở Kampilla. Ja.vi.329, 396, v.v.; xem thêm Pv-a. 161; xem thêm *Uttarādhiyayana Sūtra* (SBE. xlv. 57-61) và *Rāmāyaṇa* (i.32).
+
+Tương tự, Sambhūta là vua của Uttara Pañcāla (Ja.iv.392ff.). Đôi khi vị vua của Pañcāla chỉ đơn giản được gọi là Pañcāla, ví dụ, Ja.iv.430, v. 98. Xem thêm Jayaddisa.
+
+Dường như vẫn có một vị thủ lĩnh (*rājā*) của Pañcāla ngay cả trong thời Đức Phật, vì chúng ta được kể (Thag­a.i.331) rằng Visākha *Pañcāliputta* (*q.v.*) là con trai của con gái vị “Pañcālarājā.” Pañcāla thường được đồng nhất với khu vực ở phía bắc và phía tây của Deḷhi, từ chân dãy Himālaya đến sông Chambal. Law: *Geography of Early Buddhism*, p.19.
 
 ## Notes

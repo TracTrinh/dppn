@@ -5,7 +5,7 @@ base_headword: "Kebukā"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -33,6 +33,10 @@ Elsewhere, in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kebukā. Một con sông. Con sông này phải được vượt qua để đến được lãnh thổ của vua Garuḍa, người đã mang hoàng hậu Kākātī đi (Ja.iii.91, 92).
+
+Bản phụ chú nói rằng nó nằm bên kia biển Jambudīpa samudda.
+
+Ở một chỗ khác, trong Chú giải Jātaka (Ja.vi.42), Kebuka là một tên gọi để chỉ nước.
 
 ## Notes

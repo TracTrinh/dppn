@@ -5,7 +5,7 @@ base_headword: "Kandaraka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kandaraka. A wandering ascetic who visited the Buddha at <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kandaraka. Một du sĩ ngoại đạo đã đến thăm Đức Phật tại Campā. Xem Kandarakasutta. Buddhaghosa (MN­a.ii.565) mô tả ông là một *channaparibbājaka* (một người xuất gia có mặc quần áo).
 
 ## Notes

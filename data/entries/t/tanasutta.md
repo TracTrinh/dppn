@@ -5,7 +5,7 @@ base_headword: "Tāṇasutta"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Tāṇasutta. The Buddha preaches the refuge and the way thereto. SN.iv.372.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tāṇasutta. Đức Phật giảng dạy về nơi nương tựa và con đường dẫn đến đó. SN.iv.372.
 
 ## Notes

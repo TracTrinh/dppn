@@ -5,7 +5,7 @@ base_headword: "Mahā Nīpa"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Nīpa. A place in <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nīpa. Một địa điểm ở Anurādhapura mà *simā* của Mahā Vihāra đã đi qua (Mbv. 134,135). Nơi này có lẽ đã nhận được tên gọi của nó từ một cây *nīpa* mọc ở đó.
 
 ## Notes

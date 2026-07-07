@@ -5,7 +5,7 @@ base_headword: "Kalyāṇicetiya"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -29,6 +29,8 @@ Kalyāṇicetiya. The *cetiya* built on the spot where the Buddha preached to <s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kalyāṇicetiya. *Cetiya* được xây dựng trên địa điểm mà Đức Phật đã thuyết pháp cho Maṇi­akkhika và những người tùy tùng của vị này (Mhv.i.75f). Theo truyền thống, nó tôn trí ngai vàng mà Đức Phật đã ngồi, và đã là một địa điểm hành hương kể từ ngày đó cho đến nay (Xem, ví dụ, Vibh-a.295; MN­a.ii.701).
+
+Vohārikatissa đã dựng một chiếc lọng trên *cetiya* (Mhv.xxxvi.34) (xem thêm Kalyāṇivihāra.)
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kassapa"
 disambiguator: "24"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -35,6 +35,6 @@ Kassapa 24. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapa 24. Trưởng lão Kassapa. Theo Gandhavaṁsa (p.61), ngài là tác giả của Anāgatavaṁsa và đồng thời là tác giả của Mohavicchedanī, Vimaticchedanī và Buddhavaṁsa. Tác phẩm Buddhavaṁsa này rõ ràng không phải là tác phẩm chính tạng cùng tên. Sāsanavaṁsadīpa (Kệ 1204, xem thêm 1221) nói rằng một vị Kassapa, một cư dân của nước Coḷa, là tác giả của một cuốn Vimativinodanī. Sāsanavaṁsa (p.33; xem thêm PLC.160) gọi đây là một *Vinayaṭīkā* và tác giả là một cư dân của xứ Damiḷa. Cuốn Mohavicchedanī được mô tả ở đó như một *lakkhaṇagandha* (một luận thuyết về ngữ pháp?) và được cho là của một vị Kassapa khác.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Malaya Mahā Deva Thera"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -69,6 +69,12 @@ It is said that for three years after his ordination <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Malaya Mahā Deva Thera (*v.l.* Maliya Mahā Deva Thera, Malliyadeva Thera). Một vị Arahant. Trong nạn đói *Akkhakkhāyika*, Duṭṭhagāmaṇī đã cúng dường cho ngài và bốn người khác một bát cháo kê chua, được mua bằng số tiền bán đôi bông tai của nhà vua (Mhv.xxxii.30). Mahā Deva đã mang phần của mình lên núi Sumanakūṭa và chia sẻ với chín trăm vị khác (Mhv.xxxii.49). Ngài cũng nằm trong số tám vị *Arahant* đã nhận bữa ăn bằng thịt heo từ Sāliya trong kiếp sống trước đó của người này làm thợ rèn (Mhv­ṭ.606). Ngài có lẽ được gọi như vậy vì ngài đã cư trú tại Koṭapabbata ở xứ Malaya. Ở Mhv­ṭ.606 ngài được gọi là *Koṭapabbatavāsika*.
+
+Người ta nói rằng, ba năm sau khi xuất gia, Mahā Deva đã trú ngụ tại *vihāra* Maṇḍalārāmaka (Mahā Deva được gọi là Maliyadeva ở đoạn văn đó (AN­a.i.22), nhưng xa hơn nữa trong cùng đoạn văn (p.23), ngài lại được gọi là Mahā Deva). Một ngày nọ, khi đang đi khất thực ở Kallagāma gần đó, ngài được một nữ cư sĩ (*upāsikā*) mời đến nhà bà, nơi bà đã dâng cúng một bữa ăn cho ngài, và, xem ngài như một người con trai, đã mời ngài thọ thực tất cả các bữa ăn tại nhà bà. Lời mời đã được chấp nhận, và mỗi ngày, sau bữa ăn, ngài đều sẽ nói lời cảm ơn: "Cầu mong bà được hạnh phúc và thoát khỏi sầu muộn" (*sukhaṁ hotu, dukkhā mucca*). Vào cuối mùa an cư, ngài trở thành một *Arahant*, và vị viện chủ của *Vihāra* đã giao cho ngài nhiệm vụ thuyết pháp cho mọi người đang tụ tập vào Ngày *Pavāraṇa*. Các sa-di trẻ đã báo cho người *upāsikā* biết rằng "con trai" của bà sẽ thuyết pháp vào ngày hôm đó, nhưng bà, do nghĩ rằng họ đang trêu chọc mình, đã nói rằng không phải ai cũng có thể thuyết pháp. Nhưng họ đã thuyết phục bà đi đến *vihāra*, và, khi đến lượt Maliyadeva, ngài đã thuyết pháp suốt đêm. Đến lúc bình minh, ngài dừng lại, và vị *upāsikā* đã chứng quả *Sotāpanna*.
+
+Maliyadeva từng thuyết bài kinh Chachakkasutta tại Lohāpāsāda, và sáu mươi Tỳ-kheo ngồi lắng nghe ngài đã chứng quả *Arahant*. Ngài cũng thuyết lại chính *Sutta* đó ở Mahā Maṇḍapa, ở Mahā Vihāra, ở Cetiyapabbata, ở *vihāra* Sākyavaṁsa, ở *vihāra* Kuṭāli, ở Antarasobbha, Mutiṅgana, Vātakapabbata, Pācīnagharaka, Dīghavāpī, Lokaṇḍara, và Gameṇḍavāḷa, và, tại mỗi nơi, đều có sáu mươi Tỳ-kheo đạt quả vị *Arahant*. Tại Cittalapabbata, ngài trông thấy một vị Tỳ-kheo trên sáu mươi tuổi đang chuẩn bị tắm ở Kuruvakatittha, và đã xin phép tắm cho vị đó. Vị Trưởng lão, qua trò chuyện, nhận ra rằng ngài chính là Maliyadeva, liền đồng ý để ngài làm việc đó, dù cho ngài nói rằng, chưa một ai từng chạm vào người của ngài trong suốt sáu mươi năm qua. Cuối ngày hôm đó, vị Trưởng lão đã cung thỉnh Maliyadeva thuyết pháp cho ngài nghe, và Maliyadeva đã đồng ý. Có sáu mươi Tỳ-kheo, tất cả đều trên sáu mươi tuổi, nằm trong số các thính chúng, và khi bài kinh Chachakkasutta kết thúc, tất cả họ đều trở thành *Arahant*. Cùng sự việc này cũng đã diễn ra ở Tissa Mahā Vihāra, *vihāra* Kalyāṇi, *vihara* Nāgamahā, Kalacchagāma, và ở những nơi khác, tổng cộng là sáu mươi (MN­a.ii.1024f).
+
+Malaya Mahā Deva là một trong số những nhóm người đông đảo khác nhau đã từ bỏ đời sống gia đình trong hội chúng của Bodhisatta: *samāgama* Kuddāla, *samāgama* Mūgapakkha, *samāgama* Cūḷa Sutasoma, *samāgama* Ayogharapaṇḍita và *samāgama* Hatthipāla (Ja.iv.490; cũng xem vi.30, nơi Mahā Maliyadeva được gọi là Kāḷavelavāsī). Người ta kể lại rằng (Vsm.241) có lần hai Tỳ-kheo đã đến xin Malaya Mahā Deva một đề mục thiền định, và ngài đã truyền cho họ công thức về ba mươi hai thể trược của cơ thể. Mặc dù tinh thông ba bộ *Nikāya*, hai Tỳ-kheo này vẫn không thể chứng quả *Sotāpanna* cho đến khi họ tụng đọc công thức này trong khoảng thời gian bốn tháng.
 
 ## Notes

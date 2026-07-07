@@ -5,7 +5,7 @@ base_headword: "Sigālavagga"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sigālavagga. The tenth section of the *Dukanipāta* of the <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sigālavagga. Phẩm thứ mười của *Dukanipāta* thuộc Jātaka Commentary. Ja.ii.242-70.
 
 ## Notes

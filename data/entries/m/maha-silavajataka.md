@@ -5,7 +5,7 @@ base_headword: "Mahā Sīlavajātaka"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -33,6 +33,8 @@ In the cemetery two <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sīlavajātaka (Ja 51). Bodhisatta từng có lần là vua của Benares với tên gọi Mahā Sīlava. Ngài đã xây dựng sáu nhà bố thí và cai trị trong mọi sự tốt lành. Một trong những đại thần của ngài, vì đã tư thông với một người trong hậu cung của ngài, đã bị trục xuất và phục vụ dưới trướng vua xứ Kosala. Hắn đã sai khiến nhiều toán côn đồ xâm phạm lãnh thổ của Mahā Sīlava vào nhiều thời điểm khác nhau. Khi chúng bị bắt và đưa ra trước Mahā Sīlava, ngài đã cho chúng tiền và đuổi chúng đi, bảo chúng hãy hành xử khác đi trong tương lai. Theo cách này, vua xứ Kosala đã dễ dàng bị vị đại thần của mình thuyết phục rằng vương quốc của Mahā Sīlava có thể bị chiếm đoạt một cách dễ dàng. Do đó, ông ta đã khởi hành cùng với một đội quân, và vì dân chúng của Mahā Sīlava không được phép chống cự, nên nhà vua và các đại thần của ngài đã bị bắt sống và bị chôn đến tận cổ trong nghĩa địa. Vào ban đêm, khi lũ chó rừng đến gần để ăn thịt họ, Mahā Sīlava đã cắn phập răng vào cổ con chó rừng đến gần ngài. Con chó rừng bắt đầu tru lên và đồng bọn của nó bỏ chạy. Trong lúc vùng vẫy để thoát ra, con chó rừng đã làm lỏng lớp đất xung quanh Mahā Sīlava, người đã xoay sở để giải thoát cho bản thân mình và sau đó là các bạn đồng hành của ngài.
+
+Trong nghĩa địa có hai *Yakkha* đang tranh chấp về một xác chết, và họ đã yêu cầu Mahā Sīlava phân xử. Nhưng trước tiên ngài muốn đi tắm, và họ đã mang nước, hương liệu và vật thực từ bàn ăn của kẻ soán ngôi ở Benares đến cho ngài và cả thanh gươm quyền lực của ngài. Với thanh gươm này ngài đã cắt cái xác làm đôi, đưa cho mỗi *Yakkha* một nửa, và, với sự trợ giúp của họ, ngài đã bước vào căn phòng nơi kẻ soán ngôi đang ngủ. Khi kẻ đó tỏ ra kinh hãi, Mahā Sīlava đã kể cho ông ta nghe về những gì đã xảy ra và ban cho ông ta sự tha thứ. Vương quốc của ngài sau đó đã được khôi phục, và Mahā Sīlava đã khuyên răn thần dân của mình về những đức tính của sự kiên trì. Câu chuyện được kể lại cho một vị tỳ-kheo thối thất. Devadatta được đồng nhất với vị đại thần phản trắc của Jātaka. Ja.i.261-8.
 
 ## Notes

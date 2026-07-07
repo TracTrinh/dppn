@@ -5,7 +5,7 @@ base_headword: "Sena"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -46,6 +46,6 @@ Sena 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sena 02. Sena II. Con trai của *Ādipāda* Kassapa, và do đó là cháu trai của Sena I. Khi cha qua đời, Sena lên ngôi vua với hiệu Sena II. (851-85 CE.). Ông kết hôn với Saṅghā, con gái của Kittaggabodhi, và có một con trai, Kassapa. Sena phái một đạo quân viễn chinh chống lại vua Paṇḍu, chiếm được Madhurā, và mang về các kho báu đã bị người Paṇḍu cướp đoạt vào thời Sena I. Các tỳ-kheo Paṁsukūlika tách khỏi các vị trụ trì của Abhayagiri vào năm thứ hai mươi triều đại của Sena. Ông xây đập Maṇimekhala và một con đập ngang qua Kaṇavāpi tại *nagara* Kaṭṭhanta. Ông cung cấp bổng lộc cho nhiều tu viện khác nhau – Buddhagāma, Mahiyaṅgaṇa, Kūṭatissa, Maṇḍalagiri, và Sobbha – và tổ chức một lễ đặc biệt để tôn vinh tượng Ānanda. Ông tổ chức một lễ hội cung hiến tại *cetiya* Hemavāluka (Mahā Thūpa), và ban lệnh rằng lễ hội này phải được lặp lại hàng năm. *Senāpati* của ông là Kuṭṭhaka. Cv.li.1ff.
 
 ## Notes

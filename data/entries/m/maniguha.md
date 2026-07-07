@@ -5,7 +5,7 @@ base_headword: "Maṇiguhā"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Maṇiguhā. One of the three caves in the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇiguhā. Một trong ba hang động trong *pabbhāra* Nandamūlaka. Trước cửa hang là cây Mañjūsaka (*q.v.*). (Snp­a.i.66.)
 
 ## Notes

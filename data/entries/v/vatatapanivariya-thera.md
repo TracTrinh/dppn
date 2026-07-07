@@ -5,7 +5,7 @@ base_headword: "Vātātapanivāriya Thera"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -24,6 +24,6 @@ Vātātapanivāriya Thera. An *Arahant*. Ap.i.207.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị *Arahant*. Ap.i.207.
 
 ## Notes

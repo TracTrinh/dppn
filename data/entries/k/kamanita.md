@@ -5,7 +5,7 @@ base_headword: "Kāmanīta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -27,6 +27,6 @@ Kāmanīta. The name by which the Brahmin, mentioned in connection with the <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāmanīta. Cái tên dùng để chỉ vị Bà-la-môn được nhắc đến liên quan đến Kāmajātaka, Kāmasutta và Kāmanītajātaka (Ja 228). Ja.ii.212.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sujātā"
 disambiguator: "09"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Sujātā 09. A maiden of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sujātā 09. Một thiếu nữ của Benares. Xem Maṇicorajātaka (Ja 194). Cô được đồng nhất với Rāhulamātā. Ja.ii.125.
 
 ## Notes

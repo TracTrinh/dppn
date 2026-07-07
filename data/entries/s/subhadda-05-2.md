@@ -5,7 +5,7 @@ base_headword: "Subhaddā"
 disambiguator: "05"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Subhaddā 05. Daughter of the <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subhaddā 05. Con gái của vị vua xứ Madda và là vợ của vị vua xứ Benares. Xem Chaddantajātaka.
 
 ## Notes

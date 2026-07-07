@@ -5,7 +5,7 @@ base_headword: "Parinda"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Parinda. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parinda. Một kẻ soán ngôi người Damiḷa, con trai của vua Paṇḍu. Ông cai trị ở Anurādhapura trong ba năm từ 433 đến 460, và được kế vị bởi người em trai út của mình, Khuddaparinda. Cv.xxxviii.29.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vicittā"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vicittā. One of the chief lay women supporters of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vicittā. Một trong những nữ cư sĩ ủng hộ chính của Padumuttara Buddha. Bv.xi.26.
 
 ## Notes

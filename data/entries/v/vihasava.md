@@ -5,7 +5,7 @@ base_headword: "Vihāsava"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -28,6 +28,6 @@ Vihāsava. A king of the race of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vihāsava. Một vị vua thuộc dòng dõi Makhādeva. Ông trị vì ở Benares và con trai ông là Vijitasena. Mhv­ṭ. 130; nhưng Dpv.iii.39 gọi ông là Vijaya.
 
 ## Notes

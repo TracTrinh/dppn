@@ -5,7 +5,7 @@ base_headword: "Paribbājakasutta"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Paribbājakasutta 01. A Brahmin *Paribbājaka* asks the Buddha how far the Dhamm
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paribbājakasutta 01. Một du sĩ ngoại đạo (*Paribbājaka*) Bà-la-môn hỏi Đức Phật xem Pháp là *sandiṭṭhiko, akāliko, ehipassiko, opanāyiko*, và *paccattaṁ veditabbo viññūhi* đến mức độ nào. Đức Phật giải thích. AN.i.157f.
 
 ## Notes

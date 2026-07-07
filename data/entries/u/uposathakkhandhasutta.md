@@ -5,7 +5,7 @@ base_headword: "Uposathakkhandhasutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -27,6 +27,8 @@ The Commentary proceeds to explain how this argument could be refuted (Dhs­a.92
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uposathakkhandhasutta. Một trong những bài kinh xuất hiện trong Uposathakhandha. Nó được trích dẫn trong Atthasālinī như một thẩm quyền có thể được sử dụng bởi bất kỳ đối thủ nào để chứng minh rằng một hành động bất thiện của lời nói cũng phát sinh ở ý môn.
+
+Bản chú giải tiếp tục giải thích cách mà lập luận này có thể bị bác bỏ (Dhs­a.92f).
 
 ## Notes

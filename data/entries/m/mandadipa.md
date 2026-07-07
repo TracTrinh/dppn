@@ -5,7 +5,7 @@ base_headword: "Maṇḍadīpa"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -28,6 +28,6 @@ Maṇḍadīpa. The name of Ceylon in the time of <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇḍadīpa. Tên gọi của Tích Lan vào thời Đức Phật Kassapa; kinh đô là Visāla và vua là Jayanta. Mahā Meghavana được gọi là Mahā Sāgara. Mhv.xv.127; Dpv.i.73; ix.20; xv.57, v.v.
 
 ## Notes

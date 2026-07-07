@@ -5,7 +5,7 @@ base_headword: "Maṇi­akkhika"
 disambiguator: "02"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Maṇi­akkhika 02. The youngest of the three sons of <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇi­akkhika 02. Người con trai út trong ba người con trai của Mahā Tissa và Saṅghasivā. Cv.xlv.40.
 
 ## Notes

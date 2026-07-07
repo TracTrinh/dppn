@@ -5,7 +5,7 @@ base_headword: "Khallāṭanāga"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -35,6 +35,10 @@ He was killed by the general <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khallāṭanāga. Con trai của Saddhātissa và là em trai của Lañjakatissa. Ông là vua của Tích Lan (50-43 TCN).
+
+Một trong những công trình tôn giáo của ông là việc xây dựng Kurundavāsokavihāra.
+
+Ông đã bị giết bởi vị tướng Mahā Rattaka. Vợ của Khallāṭanāga là Anulā, và con trai ông là Mahā Cūḷika. Mhv.xxxiii.29ff.; Dpv.xx.12f.
 
 ## Notes

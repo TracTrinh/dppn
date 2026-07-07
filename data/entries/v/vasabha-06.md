@@ -5,7 +5,7 @@ base_headword: "Vasabha"
 disambiguator: "06"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -27,6 +27,6 @@ Vasabha 06. called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+được gọi là Labhiya Vasabha. Một trong những chiến binh nổi tiếng của Duṭṭhagāmaṇī. Ông được gọi là *Labhiya* vì cơ thể ông có hình thể cao quý, “thẳng như một cây gậy (*yaṭṭhi*).” (Mhv­ṭ. 459) Khi được hai mươi tuổi, ông bắt đầu xây dựng một hồ chứa nước cùng với một số người bạn, và ông đã ném đi những khối đất mà đáng lẽ cần mười hoặc mười hai người đàn ông bình thường để di chuyển chúng. Kākavaṇṇatissa nghe được điều này và triệu tập ông đến triều đình. Ngôi làng được tưới tiêu bởi hồ chứa nước đó đã được ban cho ông, và nó được gọi là Vasabhodakavāra. Mhv.xxiii.90ff.
 
 ## Notes

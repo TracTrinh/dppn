@@ -5,7 +5,7 @@ base_headword: "Uttarasena"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,6 @@ Uttarasena. A dwelling-house in the <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttarasena. Một khu nhà ở tại Abhayuttaravihāra (Abhayagiri), được Uttara, một đại thần của Sena I., xây dựng. Ông cung cấp đầy đủ mọi vật dụng cần thiết cho nơi này. Cv.l.83.
 
 ## Notes

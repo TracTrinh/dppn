@@ -5,7 +5,7 @@ base_headword: "Paramatthavinicchaya"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -28,6 +28,6 @@ Paramatthavinicchaya. A treatise on the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paramatthavinicchaya. Một chuyên luận về Abhidhamma do Anuruddha của Kāñcipura viết. Có một bản phụ sớ (*Ṭīkā*) về tác phẩm này do Trưởng lão Mahābodhi viết. PLC.173f.; Gv.61,71; Svd.1226, 1230; Sās.69. Nó được viết theo lời thỉnh cầu của Saṅgharakkhita. Gv.71.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kummāsapiṇḍajātaka"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -33,6 +33,8 @@ The story was told in reference to Queen <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Thuở xưa Bodhisatta là người hầu của một người giàu có ở Benares, và khi nhận được bốn phần cháo chua cho tiền công của mình, ông đã đem cúng dường chúng cho bốn vị Pacceka Buddha. Sau khi chết, ông được sinh ra làm người thừa kế của vua xứ Benares, và đã phong con gái của vị vua Kosala làm chánh hậu của mình. Nhớ lại kiếp trước của mình, ông đã sáng tác một bài hát về nó; bài hát trở nên rất phổ biến, mặc dù không ai hiểu được ý nghĩa của nó. Vị chánh hậu, sau khi được hứa ban cho một ân huệ, đã chọn việc được biết ý nghĩa của bài hát, và nhà vua, sau khi triệu tập người dân từ khắp mười hai do-tuần xung quanh, đã giải thích những ẩn ý. Vị chánh hậu cũng tiết lộ việc bà đã từng là một nữ tỳ trong cung điện của Ambaṭṭha và đã cúng dường cho một vị tỳ-kheo thánh thiện như thế nào. Bà được đồng nhất với Rāhulamātā.
+
+Câu chuyện được kể liên quan đến Hoàng hậu Mallikā; bà là con gái của một người làm vòng hoa, và một ngày nọ đã cúng dường ba phần cháo chua cho Đức Phật. Cùng ngày hôm đó, bà đã trở thành chánh hậu của Pasenadi. Ja.iii.405ff. So sánh với câu chuyện thứ ba của *Jātakamālā*, cũng như Divy.p.88, và *Kathāsaritsāgara* xxvii.79ff.
 
 ## Notes

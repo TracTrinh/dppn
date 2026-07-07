@@ -5,7 +5,7 @@ base_headword: "Kosiyavagga"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -24,6 +24,6 @@ Kosiyavagga 01. The second chapter of the *Tikanipāta* of the <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kosiyavagga 01. Chương thứ hai của *Tikanipāta* thuộc Chú giải Jātaka (Jātaka Commentary) Ja.ii.321-54.
 
 ## Notes

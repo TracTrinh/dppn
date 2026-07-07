@@ -5,7 +5,7 @@ base_headword: "Verocanasutta"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Verocanasutta. Records the visit of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Verocanasutta. Ghi lại chuyến viếng thăm của Verocana và Sakka đến Đức Phật. Xem Veroca.
 
 ## Notes

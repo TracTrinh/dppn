@@ -5,7 +5,7 @@ base_headword: "Kilañjadāyaka Thera"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -28,6 +28,6 @@ Kilañjadāyaka Thera. An *Arahant*. Ninety-four *kappas* ago he was a worker in
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kilañjadāyaka Thera. Một vị Arahant. Chín mươi tư *kappa* trước ngài là một người thợ đan sậy ở Tivarā và đã cúng dường một chiếc chiếu làm bằng cỏ lác để dâng lên Siddhattha Buddha. Bảy mươi bảy *kappa* trước, ngài là một vị vua tên là Jutindhara (*v.l.* Jalandhara). Ap.i.219.
 
 ## Notes

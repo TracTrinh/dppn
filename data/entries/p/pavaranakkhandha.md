@@ -5,7 +5,7 @@ base_headword: "Pavāraṇakkhandha"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Pavāraṇakkhandha. The fourth section of the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pavāraṇakkhandha. Phần thứ tư của Mahā Vagga thuộc Vinayapiṭaka.
 
 ## Notes

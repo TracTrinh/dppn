@@ -5,7 +5,7 @@ base_headword: "Paṭimāvihāra"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Paṭimāvihāra. A monastery probably in <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṭimāvihāra. Một tu viện có lẽ ở Kāṇagāma, nơi mà Aggabodhi, người cai trị của Rohaṇa, đã dựng lên một bức tượng Đức Phật lớn bằng đá. Cv.xlv.43.
 
 ## Notes

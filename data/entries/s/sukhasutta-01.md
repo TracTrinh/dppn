@@ -5,7 +5,7 @@ base_headword: "Sukhasutta"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -23,6 +23,6 @@ Sukhasutta 01. A monk who delights in Dhamma, in growth, in renunciation, in sol
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sukhasutta 01. Một vị tỳ-kheo luôn hoan hỷ trong Pháp, trong sự phát triển, trong sự xả ly, trong sự độc cư, trong việc thoát khỏi ác ý, và trong sự không hý luận - một người như vậy sống trong sự hạnh phúc và mãn nguyện và sẽ đoạn trừ hoàn toàn các *āsava*. AN.iii.431.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kukkuḷavagga"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kukkuḷavagga. The fourteenth chapter of the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kukkuḷavagga. Chương thứ mười bốn của Khandhasaṁyutta. SN.iii.177-80.
 
 ## Notes

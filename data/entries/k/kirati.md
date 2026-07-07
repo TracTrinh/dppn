@@ -5,7 +5,7 @@ base_headword: "Kirāṭi"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,6 @@ Kirāṭi. A locality in Ceylon, near <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kirāṭi. Một địa phương ở Tích Lan, gần Aḷisāra. Tại đó, Māyāgeha từng chiếm được một pháo đài (Cv.lxx.165). Kirāṭi có thể là tên của một con sông nhỏ. Xem Cv.Trs.i.301, n.1.
 
 ## Notes

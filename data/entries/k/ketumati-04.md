@@ -5,7 +5,7 @@ base_headword: "Ketumatī"
 disambiguator: "04"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -31,6 +31,8 @@ Ketumatī 04. The Pāḷi name for the Burmese city of Taungu (Bode, 45).
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ketumatī 04. Tên tiếng Pāḷi của thành phố Taungu ở Miến Điện (Bode, 45).
+
+Ketumatī nằm ở Jeyyavaḍḍhanaraṭṭha. Nơi đây từng là kinh đô của Vua Mahā Sirijeyyasūra, người sở hữu một con voi nổi tiếng, tên là Devanāga. Phật giáo được thiết lập ở Ketumatī bởi một vị tỳ-kheo đến từ Tích Lan tên là Mahā Parakkama. Về sau nơi đây trở thành chỗ cư trú của các vị tỳ-kheo nổi tiếng. Sās., pp.80, 81; xem thêm 101, 118, 162.
 
 ## Notes

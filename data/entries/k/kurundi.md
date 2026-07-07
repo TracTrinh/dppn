@@ -5,7 +5,7 @@ base_headword: "Kurundī"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -24,6 +24,6 @@ Kurundī. A village in Ceylon. Cv.lxxxiii.16; lxxxviii.64; Cv.Trs.ii.149, n.9.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngôi làng ở Ceylon. Cv.lxxxiii.16; lxxxviii.64; Cv.Trs.ii.149, chú thích 9.
 
 ## Notes

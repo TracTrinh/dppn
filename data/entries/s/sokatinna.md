@@ -5,7 +5,7 @@ base_headword: "Sokatiṇṇā"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Sokatiṇṇā. The name of an *apsaras*, or of a divine musical instrument. Vv-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sokatiṇṇā. Tên của một *apsaras*, hoặc của một nhạc khí thiên. Vv-a.94; cf. 211, 372.
 
 ## Notes

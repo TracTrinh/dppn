@@ -5,7 +5,7 @@ base_headword: "Sayanakalaha"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Sayanakalaha. The name given to a quarrel between <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sayanakalaha. Tên gọi cuộc tranh cãi giữa Malikā và Pasenadi. Xem Sujātajātaka (Ja 269).
 
 ## Notes

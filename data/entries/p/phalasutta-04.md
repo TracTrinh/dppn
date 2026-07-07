@@ -5,7 +5,7 @@ base_headword: "Phalasutta"
 disambiguator: "04"
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -23,6 +23,6 @@ Phalasutta 04. Four conditions which, if cultivated, lead to the Four Fruits of 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phalasutta 04. Bốn điều kiện, nếu được tu tập, dẫn đến Bốn Quả của Đạo. SN.v.410f.
 
 ## Notes

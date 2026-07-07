@@ -5,7 +5,7 @@ base_headword: "Vaḍḍha"
 disambiguator: "01"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -31,6 +31,6 @@ Vaḍḍha 01. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaḍḍha 01. Một người Licchavī. Ông là bạn của những Mettiyabhummajakā (*q.v.*), và theo sự xúi giục của họ, đã tố cáo Dabba Mallaputta tội ngoại tình với vợ mình. Dabba bác bỏ cáo buộc, và Đức Phật ra lệnh cho các tỳ-kheo tuyên bố *pattanikkujjana* đối với Vaḍḍha. Khi Ānanda đến thăm Vaḍḍha và báo tin này, ông ngã ngất, và sau đó đến gặp Đức Phật cùng gia đình để cầu xin tha thứ. Ông được lệnh phải đến trước Tăng đoàn và thú nhận lỗi lầm của mình, sau đó bản án được thu hồi. Vin.ii.124ff. Ông có lẽ đồng nhất với Vaḍḍhamāna Trưởng lão (*q.v.*).
 
 ## Notes

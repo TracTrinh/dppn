@@ -5,7 +5,7 @@ base_headword: "Kāḷī"
 disambiguator: "09"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -31,6 +31,8 @@ The story is included in the <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷī 09. Một kỹ nữ xứ Benares, em gái của Tuṇḍila. Cô kiếm được một ngàn mỗi ngày. Tuṇḍila là một kẻ trác táng, và phung phí tiền của cô đến mức cô từ chối không cho anh ta thêm nữa và đã đuổi anh ta ra ngoài. Một con trai của một thương nhân, khi đến thăm Kāḷī, đã thấy Tuṇḍila đang trong tuyệt vọng và đã đưa cho anh ta bộ quần áo của mình. Khi anh ta rời khỏi nhà của cô kỹ nữ vào ngày hôm sau, bộ quần áo mà anh ta được cung cấp theo phong tục đã bị lấy đi, và anh ta phải đi bộ trần truồng trên đường phố.
+
+Câu chuyện này được đưa vào Takkāriyajātaka (Ja.iv.248ff). Trong các bài kệ của *Jātaka*, Kāḷī cũng được gọi là Kāḷikā.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Uracchadā"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -38,6 +38,10 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uracchadā. Một trong chín người con gái của vua Kikī. Bà sinh ra với dấu vết giống như một chiếc vòng đeo trên cổ và vai, như thể được vẽ bởi một họa sĩ, do đó bà có tên là Uracchadā. Khi mười sáu tuổi, bà nghe Kassapa Buddha thuyết pháp, và trở thành một Sotāpanna. Cùng ngày hôm đó, bà đạt quả vị Arahant, gia nhập Tăng đoàn và viên tịch vào Nibbāna (Ja.vi.481).
+
+Vào thời của Vipassī, cả Uracchadā và vương hậu Māyā (mẹ của Gotama Buddha) đều sinh ra là con gái của vua Bandhumā. Một ngày nọ, nhà vua nhận được một món quà là một vòng hoa bằng vàng, trị giá một ngàn, và một hộp gỗ đàn hương quý giá. Ông đã trao gỗ đàn hương cho người con gái lớn và vòng hoa cho người con gái út. Hai cô gái, với mong muốn cúng dường món quà của mình cho Đức Phật, đã xin phép nhà vua. Vị công chúa lớn nghiền gỗ đàn hương thành bột và đổ đầy vào một chiếc hộp vàng. Người em gái nhờ làm chiếc vòng hoa thành một chiếc vòng cổ và đặt nó trong một chiếc tráp vàng. Sau đó, họ đến gặp Đức Phật, và người chị thành kính rắc gỗ đàn hương lên thân ngài và rải nó trong thất của ngài với lời cầu nguyện, "Trong tương lai, mong con sẽ là mẹ của một vị Phật như ngài." Người em gái thành kính đặt chiếc vòng cổ lên Đức Phật và cầu nguyện, "Cho đến khi con đạt quả vị Arahant, mong món đồ trang sức này không bao giờ rời khỏi cơ thể con." (Ja.vi.481)
+
+Theo Vimānavatthu Commentary (pp. 270f), tên của Uracchadā là Uracchadamālā và đạo sư của bà là một vị Bà-la-môn tên là Gopāla, người cũng có mặt khi Đức Phật thuyết pháp cho Uracchadamālā. Nhưng ông ta không đạt được bất kỳ sự chứng đắc đặc biệt nào.
 
 ## Notes

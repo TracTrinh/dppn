@@ -5,7 +5,7 @@ base_headword: "Yogasutta"
 disambiguator: "02"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -23,6 +23,6 @@ Yogasutta 02. On details regarding the four kinds of bonds: of passion, of becom
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yogasutta 02. Về các chi tiết liên quan đến bốn loại trói buộc: trói buộc bởi dục lậu, hữu lậu, (tà) kiến lậu, vô minh lậu. AN.ii.10f.
 
 ## Notes

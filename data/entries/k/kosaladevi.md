@@ -5,7 +5,7 @@ base_headword: "Kosaladevī"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -31,6 +31,6 @@ Kosaladevī. Daughter of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kosaladevī. Con gái của Mahā Kosala và là em gái của Pasenadi. Bà kết hôn với Bimbisāra, và một ngôi làng ở Kāsi đã được trao cho bà để làm tiền tắm gội như một phần của hồi môn. Bà là mẹ của Ajātasattu. (Ajātasattu được gọi là Videhīputta). Khi mang thai ông, bà tràn đầy thèm muốn được uống máu từ đầu gối phải của chồng mình, và khi biết từ các nhà chiêm tinh rằng điều này báo trước sự ra đời của một kẻ giết cha, bà đã đi đến khu vườn, nơi vì lý do đó được gọi là Maddakucchi (*xem mục này*) – và cố gắng phá thai, nhưng thất bại. Bimbisāra đã thỏa mãn sự khao khát của bà. Khi Bimbisāra bị Ajātasattu giam cầm, bà đã hầu hạ ông, mang thức ăn cho ông cho đến khi bà hoàn toàn bị ngăn cản làm việc đó. Sau khi ông qua đời, bà cũng chết vì đau buồn, và Pasenadi đã gây chiến với Ajātasattu để trả thù cho cái chết của bà. Ja.ii.237; 403; iii.121f.
 
 ## Notes

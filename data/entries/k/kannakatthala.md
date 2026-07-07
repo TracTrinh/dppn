@@ -5,7 +5,7 @@ base_headword: "Kaṇṇakatthala"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -30,6 +30,6 @@ Kaṇṇakatthala. A deer-park in <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇṇakatthala. Một lộc uyển ở Ujuññā. Tại đó Đức Phật thỉnh thoảng lưu trú; ngài đã từng được Acela Kassapa đến thăm tại đó, người mà ngài đã thuyết cho nghe Kassapasīhanādasutta (DN.i.161), và một lần nữa bởi Pasenadi, vua của Kosala; ngài đã thuyết cho ông nghe Kaṇṇakatthalasutta. MN.ii.125.
 
 ## Notes

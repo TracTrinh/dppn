@@ -5,7 +5,7 @@ base_headword: "Sobhita"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -43,6 +43,6 @@ Sobhita 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sobhita 01. Sobhita Buddha. Vị thứ sáu trong hai mươi bốn vị Phật. Ngài sinh ra tại thành Sudhamma, cha Ngài là vị *Khattiya* Sudhamma và mẹ Ngài là Sudhammā. Trong chín nghìn năm, Ngài sống đời tại gia trong ba cung điện – Kumuda, Naḷira và Paduma – vợ Ngài là Samaṅgī (theo Bv­a. là Makhilā) và con trai Ngài là Sīha. Ngài xuất gia ngay trong cung điện và tại đó chứng đắc bốn *jhāna*. Vợ Ngài dâng Ngài một bữa cơm sữa. Sau khi tu khổ hạnh chỉ trong bảy ngày, Ngài chứng đắc Giác ngộ dưới gốc một cây Nāga trong vườn cung điện, đi đến đó qua không trung cùng toàn bộ tùy tùng. Ngài thuyết bài pháp đầu tiên cho các em cùng cha khác mẹ của mình, Asama và Sunetta – những người về sau trở thành hai đại đệ tử của Ngài – tại khu vườn Sudhamma. Anoma là thị giả thường trực của Ngài. Hai đại đệ tử tỳ-kheo-ni của Ngài là Nakulā và Sujātā. Ramma và Sudatta là hai thí chủ cư sĩ chính trong hàng nam giới, và Nakulā và Cittā trong hàng nữ giới. Chiều cao của Ngài là năm mươi tám cubit. Ngài sống chín mươi nghìn năm và viên tịch tại Sotārāma. Bodhisatta khi ấy là một người Bà-la-môn tên là Sujāta. Bv.vii.1ff.; Bv­a.137ff.; Mhv.i.7, etc.
 
 ## Notes

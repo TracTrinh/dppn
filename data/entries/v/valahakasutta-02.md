@@ -5,7 +5,7 @@ base_headword: "Valāhakasutta"
 disambiguator: "02"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -24,6 +24,6 @@ Valāhakasutta 02. There are four kinds of rain-clouds (as above) and four kinds
 
 ## Vietnamese translation
 
-Chưa dịch.
+Valāhakasutta 02. Có bốn loại đám mây mưa (như trên) và bốn loại người: những người biết Pháp nhưng không hiểu; những người không biết nhưng hiểu; những người không biết cũng không hiểu; những người biết cả hai. AN.ii.103.
 
 ## Notes

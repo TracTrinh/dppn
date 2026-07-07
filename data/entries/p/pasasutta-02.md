@@ -5,7 +5,7 @@ base_headword: "Pāsasutta"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -27,6 +27,6 @@ Pāsasutta 02. Preached at <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāsasutta 02. Được thuyết giảng tại Isipatana. Đức Phật tuyên bố rằng ngài đã thoát khỏi mọi cạm bẫy, cả của chư thiên và của loài người, và khuyên các tỳ-kheo hãy du hành vì lợi ích của số đông. Đích thân ngài sẽ đến Senānigama ở Uruvelā để thuyết pháp. SN.i.106.
 
 ## Notes

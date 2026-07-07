@@ -5,7 +5,7 @@ base_headword: "Velakkāra"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -33,6 +33,8 @@ They revolted against <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Velakkāra. Một đội lính đánh thuê được các vị vua thời trung cổ của Tích Lan sử dụng. Họ đã nổi dậy chống lại Vijayabāhu I., cướp phá Pulatthipura, thiêu rụi cung điện và bắt giữ chị gái của nhà vua là Mittā. Vijayabāhu phải chạy trốn đến Vātagiri, nhưng sau đó ông đã dập tắt cuộc nổi loạn và sai người tra tấn những kẻ cầm đầu cho đến chết (Cv.lx.36ff).
+
+Họ đã nổi dậy chống lại Gajabāhu (Cv.lxiii.24, 29) và sau đó là chống lại Parakkamabāhu I. (Cv.lxxiv.44; chi tiết xem Cv.Trs.i.217, n.5). Trong cả hai trường hợp, cuộc nổi loạn đều bị dập tắt và những kẻ cầm đầu bị trừng phạt.
 
 ## Notes

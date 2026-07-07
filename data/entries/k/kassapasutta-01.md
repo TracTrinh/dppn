@@ -5,7 +5,7 @@ base_headword: "Kassapasuttā"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -25,6 +25,6 @@ Kassapasuttā 01. Two *Suttas* containing an account of the visit paid to the Bu
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapasuttā 01. Hai Sutta chứa đựng bản tường thuật về chuyến viếng thăm Đức Phật của Devaputta Kassapa (xem mục này). SN.i.46f.
 
 ## Notes

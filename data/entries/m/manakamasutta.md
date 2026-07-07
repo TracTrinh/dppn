@@ -5,7 +5,7 @@ base_headword: "Mānakāmasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mānakāmasutta. The praises spoken of the Buddha by a *Deva* at <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mānakāmasutta. Lời tán thán của một thiên nhân tại Jetavana về Đức Phật, ca ngợi sự hoàn toàn thoát khỏi mọi ngã mạn phù phiếm của Ngài. SN.i.4.
 
 ## Notes

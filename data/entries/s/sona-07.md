@@ -5,7 +5,7 @@ base_headword: "Soṇa"
 disambiguator: "07"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -30,6 +30,6 @@ Soṇa 07. A minister of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Soṇa 07. Một quan thần của Mahā Sena và là người theo đuôi vị tỳ-khưu dị giáo Saṅghamitta. Ông đã giúp Saṅghamitta trong việc cướp phá Lohapāsāda và các công trình khác. Ông bị giết trong một cuộc mưu toan phá Thūpārāma (Mhv.xxxvii.10, 13, 28). Trong Dīpavaṃsa (Dpv.xxii.70, 71) ông được gọi là Pāpasoṇa.
 
 ## Notes

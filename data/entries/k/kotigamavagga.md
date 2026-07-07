@@ -5,7 +5,7 @@ base_headword: "Koṭigāmavagga"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -27,6 +27,6 @@ Koṭigāmavagga. The third chapter of the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koṭigāmavagga. Chương thứ ba của Saccasaṁyutta thuộc Saṁyuttanikāya (SN.v.431-7). Bài *Sutta* đầu tiên được thuyết giảng tại Koṭigāma.
 
 ## Notes

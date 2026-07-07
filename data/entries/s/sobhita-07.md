@@ -5,7 +5,7 @@ base_headword: "Sobhita"
 disambiguator: "07"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Sobhita 07. A *tāpasa* in the time of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sobhita 07. Một *tāpasa* vào thời Padumuttara Buddha; ông là một tiền kiếp của Tissametteyya. Ap.ii.339.
 
 ## Notes

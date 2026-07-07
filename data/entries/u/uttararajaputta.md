@@ -5,7 +5,7 @@ base_headword: "Uttararājaputta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Uttararājaputta. Mentioned in the <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttararājaputta. Được đề cập trong Samantapāsādikā (Vin-a.iii.544) là đã gửi đến Trưởng lão Mahā Paduma một đền thờ làm bằng vàng, nhưng Trưởng lão từ chối nhận vì ông không được phép làm vậy.
 
 ## Notes

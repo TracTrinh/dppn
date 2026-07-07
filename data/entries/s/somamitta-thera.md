@@ -5,7 +5,7 @@ base_headword: "Somamitta Thera"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -35,6 +35,10 @@ He is perhaps identical with <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Somamitta Thera. Ngài thuộc một gia đình Bà-la-môn ở Benares và tinh thông về các bộ Veda. Về sau, do giao kết với Vimala Thera, ngài gia nhập Tăng đoàn và sống cùng với ông (nhưng theo Thag­a.i.377, Vimala được thọ giới bởi Somamitta). Nhưng thấy Vimala quen động lười và biếng nhác, Somamitta rời bỏ ông và đến với Mahā Kassapa, dưới sự chỉ đạo của người này, ngài sớm chứng đắc *Arahant*. Về sau ngài thăm Vimala và quở trách ông. Vimala liền nỗ lực và chứng đắc *Arahant*.
+
+Somamitta là một người tại gia trong thời Sikhī Buddha, và, rất hoan hỷ với Đức Phật, ngài đã hái những bông hoa *kiṁsuka* từ một cây và dâng cho Ngài (Thag.vs.147f; Thag­a.i.267f).
+
+Ngài có lẽ đồng nhất với Kiṁsukapupphiya Thera trong Apadāna. Ap.ii.435; nhưng xem Thag­a.i.87.
 
 ## Notes

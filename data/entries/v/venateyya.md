@@ -5,7 +5,7 @@ base_headword: "Venateyya"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Venateyya. A *Garuḷa*, husband of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Venateyya. Một Garuḷa, chồng của Kākātī. Ngài được đồng nhất với Kuṇāla. Ja.v.428.
 
 ## Notes

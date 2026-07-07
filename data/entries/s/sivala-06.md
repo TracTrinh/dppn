@@ -5,7 +5,7 @@ base_headword: "Sīvalā"
 disambiguator: "06"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -28,6 +28,6 @@ Sīvalā 06. An eminent Therī of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīvalā 06. Một vị Trưởng lão ni lỗi lạc ở Jambudīpa, người, cùng với Mahāruhā, đã đến Tích Lan dẫn đầu hai vạn tỳ-kheo-ni theo lời mời của vua Abhaya và giảng dạy *Tipiṭaka* tại Anurādhapura. Dpv.xviii.31f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Taraṇiya Thera"
 disambiguator: "01"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -28,6 +28,8 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Taraṇiya Thera 01. Một Arahant. Trong một kiếp quá khứ ngài đã đưa Đức Phật và các vị tỳ-kheo của ngài băng qua một con sông đang lũ lụt. Cách đây mười ba kappa, ngài đã làm vua năm lần dưới tên gọi Sabhogavā (Ap.i.204f).
+
+Ngài có lẽ cũng chính là Sambhūta Thera. Thag­a.i.47.
 
 ## Notes

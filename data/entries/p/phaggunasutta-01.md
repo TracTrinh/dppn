@@ -5,7 +5,7 @@ base_headword: "Phaggunasutta"
 disambiguator: "01"
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -24,6 +24,6 @@ Phaggunasutta 01. A conversation between the Buddha and <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phaggunasutta 01. Một cuộc trò chuyện giữa Đức Phật và Phagguna (1) về khả năng nhận biết, thông qua các giác quan, về những vị Phật trong quá khứ. SN.iv. 52.
 
 ## Notes

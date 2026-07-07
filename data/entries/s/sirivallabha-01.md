@@ -5,7 +5,7 @@ base_headword: "Sirivallabha"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -32,6 +32,6 @@ Sirivallabha 01. Nephew of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirivallabha 01. Cháu trai của Vijayabāhu I. Ông là con trai của Mittā, em gái của nhà vua, và vua Paṇḍu. Ông cưới Sugalā và trở thành thống đốc của Aṭṭhasahassa, với kinh đô tại Uddhanadvāra, một ngôi làng do chính ông xây dựng. Ông có hai người con – Māṇābharaṇa và Līlāvatī. Về sau ông đã giao chiến với Gajabāhu. Cv.lix. 42, 45; lxi. 24; lxii. 2; lxiii. 20, 31, 32; lxiv. 18, 19.
 
 ## Notes

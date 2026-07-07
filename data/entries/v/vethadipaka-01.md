@@ -5,7 +5,7 @@ base_headword: "Veṭhadīpaka"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Veṭhadīpaka 01. The Brahmin of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Veṭhadīpaka 01. Vị Bà-la-môn của xứ Veṭhadīpa, người đã thỉnh cầu một phần tám số xá-lợi của Đức Phật. DN.ii.165, 167.
 
 ## Notes

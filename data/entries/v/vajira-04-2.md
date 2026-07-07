@@ -5,7 +5,7 @@ base_headword: "Vajirā"
 disambiguator: "04"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vajirā 04. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vajirā 04. Vợ của Sakkasenāpati, con trai của Kassapa V. Bà đã xây dựng một pariveṇa được đặt theo tên bà. Cv.lii.52, 62.
 
 ## Notes

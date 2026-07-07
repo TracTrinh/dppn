@@ -5,7 +5,7 @@ base_headword: "Sihāsanavījaniya Thera"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sihāsanavījaniya Thera. An *Arahant*. He is evidently identical with <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sihāsanavījaniya Thera. Một *Arahant*. Ông rõ ràng là cùng một người với Jambuka (*q.v.*). Ap.i.403.
 
 ## Notes

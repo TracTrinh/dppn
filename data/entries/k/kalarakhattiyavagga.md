@@ -5,7 +5,7 @@ base_headword: "Kalārakhattiyavagga"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kalārakhattiyavagga. The fourth chapter of the <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kalārakhattiyavagga. Chương thứ tư của Nidānasaṁyutta. SN.ii.47-68.
 
 ## Notes

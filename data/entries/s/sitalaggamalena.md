@@ -5,7 +5,7 @@ base_headword: "Sītalaggāmalena"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sītalaggāmalena. A cave temple in Ceylon restored by <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sītalaggāmalena. Một ngôi đền hang động ở Tích Lan được Vijayabāhu I trùng tu. Cv.lx.59.
 
 ## Notes

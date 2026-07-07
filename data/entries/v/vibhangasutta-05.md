@@ -5,7 +5,7 @@ base_headword: "Vibhaṅgasuttā"
 disambiguator: "05"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vibhaṅgasuttā 05. Three *Suttas* containing an analysis of the five *indriyas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vibhaṅgasuttā 05. Ba bài *Sutta* chứa đựng sự phân tích về năm *indriya* của sự dễ chịu, khó chịu, hạnh phúc, bất hạnh và xả (indifference). SN.v.209f.
 
 ## Notes

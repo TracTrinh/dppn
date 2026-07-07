@@ -5,7 +5,7 @@ base_headword: "Kajaṅgalā"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,6 @@ Kajaṅgalā. A nun who lived in <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kajaṅgalā. Một ni cô sống ở Kajaṅgala. Có lần khi Đức Phật đang ngự tại Veḷuvana ở đó, những cư dân của ngôi làng đã đến gặp cô và nhờ cô giải thích chi tiết những gì Đức Phật đã dạy họ một cách tóm tắt. Cô đã làm điều này, và khi sự việc được báo lại với Đức Phật, Ngài đã khen ngợi cô rất nhiều (AN.v.54ff). Phần giải thích do cô đưa ra được trích dẫn trong Khuddakapāṭha Commentary (pp.80, 83, 85). Câu chuyện của cô được kể chi tiết trong *Avadānaśataka* (ii.41ff).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vasabha"
 disambiguator: "08"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vasabha 08. An *Arahant* Thera in the time of <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị *Arahant* Thera vào thời của Padumuttara Buddha, được tuyên bố là tối thắng về các thực hành khổ hạnh (Ras.i.27). Tên này hiển nhiên là một biến thể của Nisabha (*q.v.*).
 
 ## Notes

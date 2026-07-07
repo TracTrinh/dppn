@@ -5,7 +5,7 @@ base_headword: "Phalagaṇḍa"
 disambiguator: ""
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -25,6 +25,6 @@ Phalagaṇḍa. One of the seven human beings born in the <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phalagaṇḍa. Một trong bảy nhân loại được tái sinh trong cõi Avihā, nơi họ sẽ hoàn toàn diệt độ. SN.i.35, 60, v.v.
 
 ## Notes

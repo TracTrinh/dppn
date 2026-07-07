@@ -5,7 +5,7 @@ base_headword: "Khemavatī"
 disambiguator: "02"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -28,6 +28,6 @@ Khemavatī 02. The city of birth of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khemavatī 02. Thành phố nơi Tissa Buddha đản sanh (Bv.xviii.16). Ở đó ngài đã giảng Buddhavaṁsa cho họ hàng của mình (Bv­a.190). Nó đôi khi cũng được gọi là Khema và Khemaka.
 
 ## Notes

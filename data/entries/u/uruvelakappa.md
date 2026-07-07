@@ -5,7 +5,7 @@ base_headword: "Uruvelakappa"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -34,6 +34,8 @@ Once when the Buddha was staying at <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uruvelakappa. Một thị trấn của người Malla ở quốc độ Malla. Có lần khi Đức Phật đang lưu trú tại đó, Bhadragaka, vị trưởng làng của thị trấn, đã đến viếng thăm ngài, và Đức Phật đã thuyết giảng cho ông một bài kinh về sự sinh khởi và diệt tận của đau khổ (SN.iv.327f). Có lẽ cũng trong cùng dịp này, Đức Phật đã được viếng thăm bởi trưởng làng Rāsiya, và ngài dường như đã nói chuyện với ông ta về nhiều chủ đề khác nhau liên quan đến giáo lý (SN.iv.330ff). Cũng có ghi chép về một bài kinh do Đức Phật thuyết giảng tại Uruvelakappa và hướng tới các tỳ-kheo liên quan đến tầm quan trọng của tuệ giác (ariyañāṇa) (SN.iv.228f).
+
+Có lần khi Đức Phật đang lưu trú tại Uruvelakappa, ngài đã thông báo với Ānanda rằng ngài muốn trải qua cả ngày một mình trong Mahā Vana, và ngài đã đi đến đó rồi ngồi xuống dưới gốc một cái cây. Trong khi đó, gia chủ Tapassu đã đến và nói với Ānanda rằng ông ta không thể hiểu làm thế nào mà những thanh niên đang ở độ tuổi thanh xuân lại tìm thấy bất kỳ sự hấp dẫn nào trong việc từ bỏ thế gian. Ānanda đã dẫn Tapassu đến gặp Đức Phật, ngài đã xóa tan những nghi ngờ của ông ta (AN.iv.438ff)
 
 ## Notes

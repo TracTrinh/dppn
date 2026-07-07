@@ -5,7 +5,7 @@ base_headword: "Kakkhaḷa"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kakkhaḷa. A nickname given to <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kakkhaḷa. Một biệt danh được đặt cho Jeṭṭhatissa I. Khi một số quan đại thần của ông tỏ ra miễn cưỡng tham gia đám tang của cha ông, cuối cùng ông cũng thuyết phục được họ; nhưng khi họ đã tập hợp lại, ông ra lệnh đóng cổng nhốt họ lại, xử tử họ, và đem xác họ đóng cọc xung quanh giàn thiêu của cha mình. Từ đó mà có cái tên này. Mhv.xxxvi.118-22.
 
 ## Notes

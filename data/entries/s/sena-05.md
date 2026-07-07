@@ -5,7 +5,7 @@ base_headword: "Sena"
 disambiguator: "05"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -28,6 +28,6 @@ Sena 05. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sena 05. Sena III. *Uparāja* của Udaya III., và về sau là Sena III., vua Tích Lan (937-45 CE). Theo một số ghi chép, ông là em trai của Udaya III. Ông đều đặn giữ ngày *uposatha*, và trong số các việc bố thí của ông có việc cúng dường Daṇḍissara cho các nghệ nhân hành khất. Ông cho lát đá nền *cetiya* Abhayuttara và cấp bổng lộc cho Nāgasālāpariveṇa. Cv.liii.13, 28ff.
 
 ## Notes

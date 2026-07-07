@@ -5,7 +5,7 @@ base_headword: "Parinibbānasutta"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Parinibbānasutta 02. On the complete passing away. AN.iv.254.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parinibbānasutta 02. Về sự viên tịch hoàn toàn. AN.iv.254.
 
 ## Notes

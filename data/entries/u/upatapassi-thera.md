@@ -5,7 +5,7 @@ base_headword: "Upatapassī Thera"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,6 @@ Upatapassī Thera. Author of the <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upatapassī Thera. Tác giả của Vuttamālā. Ông là người đứng đầu Gatārā *Pariveṇa* và là cháu trai của Sarasigāmamūla Mahā Sāmi. PLC.253f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kathāvatthu"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -41,6 +41,10 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="15" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kathāvatthu. Cuốn thứ năm trong bảy cuốn của Abhidhammapiṭaka (đôi khi được gọi là cuốn thứ ba, ví dụ như trong Mbv.94). Có vẻ như nó đã được biên soạn khi nội dung của ít nhất Dhammasaṅgaṇī, Vibhaṅga và Paṭṭhāna đã được chấp nhận như là các giáo lý chính thống. Truyền thống ghi nhận việc biên soạn nó là của Moggaliputtatissa vào cuối Kỳ kiết tập thứ ba, được tổ chức dưới sự bảo trợ của Asoka; tại Pāṭaliputta (Mhv.v.278; Dpv.vii.41, 56-8). Một số người đã từ chối nó với lý do rằng nó được đưa ra sau khi Đức Phật viên tịch hai trăm mười tám năm, và do đó chỉ là lời nói của một đệ tử; nhưng các Chú giải lại đưa ra quan điểm rằng mātikā, các nguyên lý được giảng dạy trong đó, đã được chính Đạo sư đặt ra, và toàn bộ tác phẩm nên được coi là lời dạy của Đức Phật, giống hệt như Madhupiṇḍikasutta, thực tế do Mahā Kaccāna thuyết giảng, được coi là giáo lý của Đức Phật. Cuốn sách bao gồm hai mươi ba chương, và là một tập hợp các cuộc thảo luận (kathā) và bác bỏ những quan điểm tà giáo của các giáo phái khác nhau về các vấn đề liên quan đến thần học và triết học. Thẩm quyền của Đức Phật được chấp nhận là tối hậu. Xem phần Lời tựa rất có giá trị cho cuốn Points of Controversy do bà Rhys Davids viết, vii ff Xem thêm Rhys Davids về "Những vấn đề được thảo luận trong Kathāvatthu", JRAS.1892.
+
+Đôi khi có ý kiến cho rằng (ví dụ: JRAS.1915, 805ff) Sắc lệnh khắc trên đá IX của Asoka đã bị ảnh hưởng bởi Kathāvatthu. Khemā Therī, vị nữ đại đệ tử của Đức Phật, tự mô tả mình là “Kathāvatthuvisāradā,” (Thīg-a.135) do đó củng cố thêm cho giả thuyết rằng Kathāvatthu đã được biết đến ngay từ thời của Đức Phật.
+
+Bản Chú giải Udāna (Ud-a.94) đề cập đến một tác phẩm Kathāvatthūpakaraṇaṭīkā để biết thông tin chi tiết về một số điểm đã được nêu ra.
 
 ## Notes

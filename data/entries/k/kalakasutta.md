@@ -5,7 +5,7 @@ base_headword: "Kāḷakasutta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -43,6 +43,14 @@ The *Sutta* was also preached by <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷakasutta. Được Đức Phật thuyết giảng tại Kāḷakārāma ở Sāketa khi Ngài viếng thăm thành phố theo lời thỉnh cầu của Cūḷa Subhaddā (AN­a.ii.482f).
+
+Tathāgata thấu hiểu và thấu triệt bất cứ điều gì được nhìn thấy, nghe thấy, được bao gồm, đạt được, suy tầm, v.v., trong toàn bộ thế giới, nhưng Ngài không bị lệ thuộc vào nó (AN.ii.24f).
+
+*Sutta* này đôi khi được nhắc đến là Kāḷakārāmasutta (ví dụ, Thag­a.i.284). Người ta nói rằng vào lúc kết thúc Kāḷakārāmasutta, trái đất đã rung chuyển, như thể để làm chứng cho lời tuyên bố của Đức Phật (DN­a.i.130-1).
+
+Chính *Sutta* này đã giúp Mahā Rakkhita cải đạo đất nước của người Yonaka (Vin-a.i.67; Mhv.xii.39; Mbv.114; Dpv.viii.9).
+
+*Sutta* cũng được Kāḷa Buddharakkhita thuyết giảng tại Cetiyapabbata cho một đám đông dân chúng, trong đó Vua Tissa (có lẽ là Saddhātissa) cũng có mặt. MN­a.i.470.
 
 ## Notes

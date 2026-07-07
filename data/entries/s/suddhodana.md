@@ -5,7 +5,7 @@ base_headword: "Suddhodana"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -88,6 +88,31 @@ When news reached <span class="dppn-term dppn-term-t14" data-dppn-term-pos="22" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suddhodana. Một vua (*Rājā*) Sākiyan của Kapilavatthu và là cha của Gotama Buddha. Ông là con trai của Sīhahanu và Kaccānā. Các anh em trai của ông là Dhotodana, Sakkodana, Sukkodana và Amitodana, và các chị em gái là Amitā và Pamitā.
+
+Māyā là vương hậu chính của ông, và sau khi bà qua đời, em gái của bà là Pajāpatī được phong lên vị trí đó (Mhv.ii.15f.; Dpv.iii.45; Ja.i.15, v.v.).
+
+Khi các nhà tiên tri dự đoán rằng con trai ông, Gotama, có hai định mệnh đang chờ đợi, hoặc là trở thành vị vua chuyển luân hoặc là đạt quả vị Phật, ông đã dùng toàn bộ sức mạnh của mình để chu cấp cho thái tử mọi thứ xa hoa nhằm giữ chân ngài trong đời sống thế tục. Người ta kể lại (vd., Ja.i.54) rằng khi Asita, vốn là giáo sĩ của cha ông và cũng là thầy của chính ông, đến thăm Suddhodana để gặp vị thái tử mới sinh, và bày tỏ lòng tôn kính đối với đứa trẻ bằng cách đặt chân của đứa trẻ lên đầu mình, Suddhodana đã tràn đầy kinh ngạc và chính ông cũng đảnh lễ đứa bé. Và khi, tại lễ hạ điền, Suddhodana nhìn thấy cây *jambu* nơi đứa bé được đặt bên dưới vẫn giữ nguyên bóng râm của nó để che chở cho đứa bé, và thấy đứa bé đang ngồi kiết già giữa hư không, ông lại đảnh lễ ngài một lần nữa (Ja.i.57f).
+
+Sau này, mặc cho mọi nỗ lực của cha mình, thái tử đã rời bỏ đời sống thế tục và thực hành khổ hạnh, có tin đồn báo về cho Suddhodana rằng con trai ông đã chết vì sự khắc nghiệt của việc tu tập. Nhưng ông từ chối tin điều đó, nói rằng con trai ông sẽ không bao giờ chết khi chưa đạt được mục tiêu (Ja.i.67). Khi câu chuyện này sau đó được kể lại cho Đức Phật nghe, ngài đã thuyết Mahā Dhammapālajātaka (Ja 447) và chỉ ra rằng trong quá khứ cũng vậy, Suddhodana đã từ chối tin rằng con trai mình có thể chết ngay cả khi ông được chỉ cho xem một đống xương của cậu.
+
+Khi tin tức đến tai Suddhodana rằng con trai ông đã đạt được Giác ngộ, ông phái một sứ giả đến Veḷuvana ở Rājagaha cùng với mười ngàn người khác để mời Đức Phật đến thăm Kapilavatthu. Nhưng sứ giả và những người đi cùng, sau khi nghe Đức Phật thuyết pháp, đã gia nhập Tăng đoàn và quên mất nhiệm vụ của mình. Điều này đã xảy ra chín lần. Đến lần thứ mười, Suddhodana phái Kāḷudāyī đi với sự cho phép ông gia nhập Tăng đoàn với điều kiện kiên quyết là ông phải chuyển lời mời của nhà vua đến Đức Phật. Kāḷudāyī đã giữ lời hứa và Đức Phật đã đến thăm Kapilavatthu, ngụ tại Nigrodhārāma. Tại đó, liên quan đến một trận mưa trút xuống, ngài đã thuyết Vessantarajātaka (Ja 547). Ngày hôm sau, khi Suddhodana trách móc Đức Phật vì ngài bị nhìn thấy đang đi khất thực trên đường phố Kapilavatthu, Đức Phật nói với ông rằng khất thực là phong tục của tất cả chư Phật, và Suddhodana khi nghe điều này đã trở thành một bậc Dự lưu (*Sotāpanna*). Ông mời Đức Phật đến cung điện của mình, nơi ông thết đãi ngài, và vào cuối bữa ăn Đức Phật đã thuyết pháp cho nhà vua, vị vua này sau đó trở thành một bậc Nhất lai (*Sakadāgāmī*) (Ja.i.90; cf. Dhp­a.iii.164f). Ông trở thành một bậc Bất lai (*Anāgāmī*) sau khi nghe Mahā Dhammapālajātaka (Ja 447) (Dhp­a.i.99; Ja.iv.55), và khi ông sắp qua đời, Đức Phật đã từ Vesālī đến để thăm và thuyết pháp cho ông, và Suddhodana trở thành một bậc *Arahant* rồi viên tịch với tư cách là một *Arahant* cư sĩ (Thīg­a.141).
+
+Nanda là con trai của Suddhodana với Mahā Pajāpatī, và ông cũng có một người con gái tên là Sundarīnandā. Khi Đức Phật cho cả Rāhula và Nanda xuất gia, Suddhodana vô cùng đau buồn vì sợ rằng những bậc cha mẹ khác cũng sẽ bị muộn phiền tương tự, và đã thuyết phục Đức Phật thiết lập một luật lệ rằng không ai được phép xuất gia nếu không có sự đồng ý của cha mẹ họ (Vin.i.82f).
+
+Suddhodana là cha của Bodhisatta trong vô số kiếp, nhưng ông chỉ được nhắc đến bằng tên gọi với vai trò đó trong một vài Jātaka, ví dụ,
+
+- Kaṭṭhahāri (Ja 7),
+- Alīnacitta (Ja 156)
+- Susīma (Ja 163),
+- Bandhanāgāra (Ja 201),
+- Kosambī (Ja 428)
+- Mahā Dhammapāla (Ja 447),
+- Dasaratha (Ja 461)
+- Hatthipāla (Ja 509)
+- Mahā Ummagga (Ja 546)
+- Vessantara (Ja 547).
+
+Sudhaja. Một vị vua cách đây bốn kappa, là tiền kiếp của Vacchagotta Thera. Thag­a.i.221; cf. Ap.i.177.
 
 ## Notes

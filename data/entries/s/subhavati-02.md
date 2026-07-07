@@ -5,7 +5,7 @@ base_headword: "Subhavatī"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Subhavatī 02. A city in the time of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subhavatī 02. Một thành phố vào thời Anomadassī Buddha. Gần đó là Sudassanuyyāna, nơi Đức Phật đã thuyết bài pháp đầu tiên của Ngài. Bv­a.143.
 
 ## Notes

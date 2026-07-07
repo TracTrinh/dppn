@@ -5,7 +5,7 @@ base_headword: "Silāmegha"
 disambiguator: "03"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -27,6 +27,6 @@ Silāmegha 03. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Silāmegha 03. Một thủ lĩnh Damiḷa, cũng được gọi là Silāmeghara; ông là đồng minh của Kulasekhara. Cv.lxxvi. 98, 238, v.v.
 
 ## Notes

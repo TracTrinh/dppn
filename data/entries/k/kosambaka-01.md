@@ -5,7 +5,7 @@ base_headword: "Kosambaka"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -26,6 +26,6 @@ Kosambaka 01. Name of a king of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kosambaka 01. Tên của một vị vua của Kosambī. Xem thêm Kosambika ở dưới. Xem Kaṇhadipāyanajātaka (Ja 444, Ja.iv.28f).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Pilotika"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Pilotika 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pilotika 02. Pilotika Thera. Ānanda có lần nhìn thấy một thanh niên nghèo khổ đi dọc đường trong bộ đồ rách rưới, tay cầm một mảnh gốm vỡ. Ānanda đưa chàng trai về tu viện và truyền giới xuất gia cho anh. Chàng trai treo mảnh y phục rách và mảnh gốm trên cành cây và bắt đầu thực hành thiền định. Một thời gian sau, anh trở nên béo tốt, sinh tâm bất mãn và muốn trở lại đời sống thế tục. Nhưng khi nhìn thấy tấm vải rách và mảnh gốm của mình, anh nhận ra sự ngu ngốc của mình và, tự nhắc nhở bản thân, đã trở lại với việc hành thiền. Ba lần điều tương tự như vậy đã xảy ra, nhưng cuối cùng anh cũng trở thành một vị *Arahant*. Ngài thường nhắc đến mảnh vải rách như một vị “đạo sư” của mình. Dhp­a.iii.84f.
 
 ## Notes

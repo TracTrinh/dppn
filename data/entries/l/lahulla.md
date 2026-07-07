@@ -5,7 +5,7 @@ base_headword: "Lahulla"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -24,6 +24,6 @@ Lahulla. A village in Ceylon, near <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lahulla. Một ngôi làng ở Tích Lan, gần Nālandā. Cv.lxx.214.
 
 ## Notes

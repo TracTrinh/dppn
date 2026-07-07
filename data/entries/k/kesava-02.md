@@ -5,7 +5,7 @@ base_headword: "Kesava"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,6 @@ Kesava 02. An Ascetic, also called <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kesava 02. Một Đạo sĩ, cũng được gọi là Nārada. Ngài đã diện kiến Đức Phật Atthadassī và đảnh lễ ngài. Ngài là một tiền kiếp của Paviṭṭha Thera, người này hiển nhiên đồng nhất với Ekadaṁsaniya. Ap.i.168; Thag­a.i.185.
 
 ## Notes

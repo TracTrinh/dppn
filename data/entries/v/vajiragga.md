@@ -5,7 +5,7 @@ base_headword: "Vajiragga"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vajiragga. A general of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vajiragga. Một tướng lĩnh của Udaya II. Ông giúp đánh chiếm Rohaṇa và bắt *Ādipāda* Kittaggabodhi, người đã nổi loạn chống lại nhà vua. Cv.li.105, 118, 126.
 
 ## Notes

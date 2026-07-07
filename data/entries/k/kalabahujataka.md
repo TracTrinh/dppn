@@ -5,7 +5,7 @@ base_headword: "Kāḷabāhujātaka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -36,6 +36,10 @@ The story was told in reference to <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷabāhujātaka (Ja 329). Từng có lúc Bodhisatta là một con vẹt tên Rādha và anh/em trai của ngài là Poṭṭhapāda. Chúng bị một người bẫy chim bắt được và mang đến triều đình của Dhanañjaya, vua xứ Benares, nơi chúng nhận được sự chú ý lớn. Về sau, một con khỉ, Kāḷabāhu, được thêm vào bộ sưu tập động vật, và những người trong cung điện đã không còn hứng thú với những con vẹt nữa, điều này khiến cho Poṭṭhapāda rất bực mình. Tuy nhiên, chẳng bao lâu sau, lũ trẻ trở nên sợ hãi trước những trò nghịch ngợm của con khỉ và nó đã bị tống đi, đúng như Rādha đã dự đoán với anh/em trai mình.
+
+Ānanda là Poṭṭhapāda, và Devadatta là Kāḷabāhu.
+
+Câu chuyện được kể lại liên quan đến nỗ lực của Devadatta nhằm giết Đức Phật bằng cách thả rông con voi Nālāgiri. Ja.iii.97ff.
 
 ## Notes

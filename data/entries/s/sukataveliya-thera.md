@@ -5,7 +5,7 @@ base_headword: "Sukaṭaveliya Thera"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Sukaṭaveliya Thera. An *Arahant*. In the time of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sukaṭaveliya Thera. Một vị *Arahant*. Vào thời của Sikhī Buddha ông là một người kết vòng hoa, tên là Asita, và một ngày nọ, trong khi đang trên đường đi mang một vòng hoa dâng lên nhà vua, ông đã gặp Đức Phật và dâng nó lên cho ngài. Năm mươi hai *kappa* trước ông là một vị vua tên là Dvebhāra. Ap.i.217.
 
 ## Notes

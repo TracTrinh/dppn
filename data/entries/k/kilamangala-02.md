@@ -5,7 +5,7 @@ base_headword: "Kīḷamaṅgala"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kīḷamaṅgala 02. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kīḷamaṅgala 02. Một tù trưởng Damiḷa, đồng minh của Kulasekhara. Cv.lxxvii.80.
 
 ## Notes

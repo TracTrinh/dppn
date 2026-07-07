@@ -5,7 +5,7 @@ base_headword: "Manasākaṭa"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -29,6 +29,8 @@ The Buddha stayed in the Mango grove to the north of the village, and, during on
 
 ## Vietnamese translation
 
-Chưa dịch.
+Manasākaṭa. Một làng Bà-la-môn ở Kosala trên bờ sông Aciravatī. Đây là một nơi cảnh đẹp, và các Bà-la-môn xuất chúng thỉnh thoảng tụ hội ở đó để tìm sự nghỉ ngơi thanh tịnh và tụng đọc các chú ngữ (*mantra*) của họ (DN­a.ii.399).
+
+Đức Phật lưu trú trong rừng Xoài ở phía bắc ngôi làng, và trong một lần như vậy, Ngài đã thuyết giảng Tevijjasutta. (DN.i.235.)
 
 ## Notes

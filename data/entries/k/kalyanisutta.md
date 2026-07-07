@@ -5,7 +5,7 @@ base_headword: "Kalyāṇīsutta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -24,6 +24,6 @@ Kalyāṇīsutta. No beautiful woman (*janapadakaḷyānī*) can persistently po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kalyāṇīsutta. Không một người phụ nữ xinh đẹp nào (*janapadakaḷyānī*) có thể nắm giữ trái tim của một người đàn ông say mê lợi lộc, ân huệ, và những lời xu nịnh một cách dai dẳng. SN.ii.235.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Parammaraṇasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Parammaraṇasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parammaraṇasutta. Mahā Kassapa giải thích cho Sāriputta rằng Đức Phật đã bỏ qua không nói bất cứ điều gì về sự tồn tại của Ngài hay nếu không thì sau khi chết, bởi vì một cuộc thảo luận như vậy sẽ không mang lại lợi ích; nhưng Ngài đã dạy về *dukkha* và sự diệt tận của nó, bởi vì điều đó là hữu ích. SN.ii.222f.
 
 ## Notes

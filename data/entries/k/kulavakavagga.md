@@ -5,7 +5,7 @@ base_headword: "Kulāvakavagga"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kulāvakavagga. The fourth chapter of the *Ekanipāta* of the <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chương thứ tư của *Ekanipāta* của Jātaka Commentary. Ja.i.198-234.
 
 ## Notes

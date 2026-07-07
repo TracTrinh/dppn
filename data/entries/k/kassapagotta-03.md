@@ -5,7 +5,7 @@ base_headword: "Kassapagotta"
 disambiguator: "03"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -28,6 +28,8 @@ The Buddha praised him for having seen his transgression, and for his confession
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapagotta 03. Một tỳ-kheo sống ở Paṅkadhā trong đất nước Kosala. Ngài đã nghe Đức Phật thuyết một bài pháp, nhưng không hài lòng với bài pháp đó và cứ nghĩ rằng: “Vị sa-môn này” (ám chỉ Đức Phật) “quá đỗi câu nệ” (*adhisallikhat’evāyaṁ*). Sau này, ngài cảm thấy hối hận và, sau khi tìm đến Đức Phật tại Rājagaha, ngài đã cầu xin sự tha thứ cho sự thiếu suy nghĩ của mình.
+
+Đức Phật ca ngợi ngài vì đã nhận ra lỗi lầm của mình, và vì sự thú tội cũng như quyết tâm thực hành tự thu nhiếp. AN.i.236f.
 
 ## Notes

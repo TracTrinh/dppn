@@ -5,7 +5,7 @@ base_headword: "Kaṇaverapupphiya Thera"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,6 @@ Kaṇaverapupphiya Thera. An *Arahant*. Ninety-four *kappas* ago he was a king n
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇaverapupphiya Thera. Một vị Arahant. Chín mươi bốn *kappa* trước, ngài là một vị vua tên là Gopaka (?), và khi nhìn thấy Siddhattha Buddha, đi cùng với các tỳ-kheo của ngài, đang đi dạo trong thành phố, nhà vua, từ ban công của mình, đã rải những bông hoa *kaṇavera* lên họ. Tám mươi bảy *kappa* trước, ngài đã bốn lần làm vua (Ap.i.182). Ngài có lẽ là đồng nhất với Bandhura Thera. Thag­a.i.208.
 
 ## Notes

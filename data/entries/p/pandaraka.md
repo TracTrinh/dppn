@@ -5,7 +5,7 @@ base_headword: "Paṇḍarakā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Paṇḍarakā. The name of a river which is mentioned with <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇḍarakā. Tên của một con sông được nhắc đến cùng với Mallaṅgiri và Tikūṭa như là nơi trú ngụ của các *Kinnarī*. (Ja.iv.438, 439).
 
 ## Notes

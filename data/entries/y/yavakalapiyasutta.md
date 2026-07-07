@@ -5,7 +5,7 @@ base_headword: "Yavakalāpiyasutta"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -31,6 +31,8 @@ Once <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yavakalāpiyasutta. Nếu sáu người đàn ông, được trang bị đòn cào, cùng đập một bó lúa mì, nó sẽ được đập nhuyễn hoàn toàn. Cũng như vậy, những *puthujjanas* (kẻ phàm phu) bị các trần cảnh, v.v... vùi dập; những suy nghĩ về sự tái sinh trong tương lai thậm chí còn vùi dập họ dữ dội hơn nữa.
+
+Một lần nọ Vepacitti và các Asuras bị đánh bại bởi Sakka và các Devas và Vepacitti bị trói cả tay lẫn chân. Nhưng khi Vepacitti nghĩ rằng các Devas là những người công chính, những xiềng xích của ông ta nới lỏng. Những trói buộc của Vepacitti rất vi tế, nhưng những trói buộc của Māra còn vi tế hơn. Kẻ nào sở hữu những kiêu ngạo của *taṇhādiṭṭhimāna* (ái dục, kiến thủ, ngã mạn) chính là kẻ làm nô lệ cho Māra. SN.iv.201ff.
 
 ## Notes

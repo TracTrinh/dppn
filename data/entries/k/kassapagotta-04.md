@@ -5,7 +5,7 @@ base_headword: "Kassapagotta"
 disambiguator: "04"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -26,6 +26,6 @@ Kassapagotta 04. A monk, perhaps to be identified with one of the foregoing. He 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapagotta 04. Một tỳ-kheo, có lẽ được xác định với một trong những vị đã nêu trước đó. Có lần ngài đang ở trong một khu rừng ở Kosala và, nhìn thấy một người thợ săn đang đuổi theo con hươu, ngài đã can thiệp và phản đối việc người đàn ông này kiếm sống bằng những phương tiện tàn nhẫn như vậy. Người thợ săn đã quá bận tâm đến con mồi của mình nên không chú ý nhiều đến những gì được nói. Một vị *Deva* của khu rừng đã đến gần vị tỳ-kheo và khuyên ngài không nên lãng phí thời gian để thuyết giáo cho một người nghe mà không hiểu những gì đang được nói. Kassapa đã được truyền cảm hứng và, theo phần Chú giải, ngài đã cống hiến hết mình cho nhiều nỗ lực và đắc quả vị *Arahant*. SN.i.198f; SN­a.i.223.
 
 ## Notes

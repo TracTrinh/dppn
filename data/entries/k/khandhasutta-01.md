@@ -5,7 +5,7 @@ base_headword: "Khandhasutta"
 disambiguator: "01"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -23,6 +23,6 @@ Khandhasutta 01. The four *satipaṭṭhāna*s must be developed in order to des
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khandhasutta 01. Bốn satipaṭṭhāna phải được tu tập để tiêu diệt năm upādānakkhanda. AN.iv.458f.
 
 ## Notes

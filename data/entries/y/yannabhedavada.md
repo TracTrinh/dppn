@@ -5,7 +5,7 @@ base_headword: "Yaññabhedavāda"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -26,6 +26,6 @@ Yaññabhedavāda. A poem of twenty-one stanzas in which <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yaññabhedavāda. Một bài thơ gồm hai mươi mốt khổ thơ trong đó Bhūridatta mô tả cho người anh trai Ariṭṭha của mình các loại hiến tế khác nhau và sự vô ích của chúng. Ja.vi.205ff.
 
 ## Notes

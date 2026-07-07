@@ -5,7 +5,7 @@ base_headword: "Koñca"
 disambiguator: "03"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -26,6 +26,6 @@ Koñca 03. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koñca 03. Vua của Mantāvatī, và là cha của Sumedhā. Thīg.448; Thīg­a.272f, 281.
 
 ## Notes

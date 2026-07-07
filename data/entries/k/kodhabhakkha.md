@@ -5,7 +5,7 @@ base_headword: "Kodhabhakkha"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -24,6 +24,6 @@ Kodhabhakkha. A *Rūpāvacara Brahma*, who came to test <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kodhabhakkha. Một vị *Rūpāvacara Brahma*, người đã đến để thử thách sự kiên nhẫn của Sakka và ngồi trên ngai vàng của ngài. SN­a.i.272.
 
 ## Notes

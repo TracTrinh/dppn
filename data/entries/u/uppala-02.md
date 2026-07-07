@@ -5,7 +5,7 @@ base_headword: "Uppala"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -25,6 +25,6 @@ Uppala 02. One of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uppala 02. Một trong những Yakkha canh giữ cung điện của Jotiya. Vị này có hai ngàn tùy tùng. Dhp­a.iv.209.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Khemātherīsutta"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -26,6 +26,6 @@ Khemātherīsutta. Records the story of the visit of <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khemātherīsutta. Ghi chép câu chuyện Pasenadi đến thăm Khemā (SN.iv.374ff). Xem Khemā (1).
 
 ## Notes

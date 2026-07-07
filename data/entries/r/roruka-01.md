@@ -5,7 +5,7 @@ base_headword: "Roruka"
 disambiguator: "01"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -29,6 +29,6 @@ Roruka 01. A city, capital of the <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Roruka 01. Một thành phố, kinh đô của xứ Sovīra, do Jotipāla, quốc sư của Reṇu, thiết lập. Vua của thành là Bharata. (DN.ii.235; cp. Mvu.iii.208; xem thêm Divy.544ff). Trong Ādittajātaka (Ja 424, Ja.iii.470) nó được gọi là Roruva.
 
 ## Notes

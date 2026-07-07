@@ -5,7 +5,7 @@ base_headword: "Sirivaḍḍhanapura"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sirivaḍḍhanapura. A city built by <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirivaḍḍhanapura. Một thành phố do Parakkamabāhu II xây dựng. Nó cách Jambuddoṇi nửa *yojana*. Cv.lxxxv.1; Cv.Trs.ii.159, n.1.
 
 ## Notes

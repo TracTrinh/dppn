@@ -5,7 +5,7 @@ base_headword: "Varuṇa"
 disambiguator: "11"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -27,6 +27,6 @@ Varuṇa 11. A king in the time of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Varuṇa 11. Một vị vua vào thời đức Phật Atthadassī, là tiền kiếp của Sīvalī (Ekāsaniya) Thera. Ap.i.149 gọi ông là *devarājā*; Thag­a.i.139 gọi ông là *ekarājā*.
 
 ## Notes

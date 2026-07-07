@@ -5,7 +5,7 @@ base_headword: "Varuṇadeva"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Varuṇadeva. The sixth son of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Varuṇadeva. Người con trai thứ sáu của Devagabbhā.
 
 ## Notes

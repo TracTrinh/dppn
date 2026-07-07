@@ -5,7 +5,7 @@ base_headword: "Paṭisambhidākathā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Paṭisambhidākathā. The sixth section of the <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṭisambhidākathā. Phần thứ sáu của Yuganaddhavagga thuộc Paṭisambhidāmagga. Paṭis.ii.147-158.
 
 ## Notes

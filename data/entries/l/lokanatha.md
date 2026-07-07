@@ -5,7 +5,7 @@ base_headword: "Lokanāthā"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -27,6 +27,6 @@ Lokanāthā. One of the five daughters of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lokanāthā. Một trong năm người con gái của Vijayabāhu I. và Tilokasundarī. Bà kết hôn với Kittisirimegha. Cv.lix.31, 44.
 
 ## Notes

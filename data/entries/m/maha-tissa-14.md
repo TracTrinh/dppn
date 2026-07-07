@@ -5,7 +5,7 @@ base_headword: "Mahā Tissa"
 disambiguator: "14"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -28,6 +28,6 @@ Mahā Tissa 14. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Tissa 14. Mahā Tissa Thera. Vị trú trì của Anurārāma. Vohārikatissa đã hài lòng với ngài đến mức ông ra lệnh phải cúng dường thường xuyên cho ngài ở Mucelapaṭṭana. Mhv.xxxvi.30.
 
 ## Notes

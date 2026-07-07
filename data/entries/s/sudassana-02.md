@@ -5,7 +5,7 @@ base_headword: "Sudassana"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sudassana 02. A monastery in <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudassana 02. Một tu viện ở Rammanagara nơi Dīpaṅkara Buddha đã sống. Ja.i.11; Dhp­a.i.69.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Khiḍḍāpadosikā"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -31,6 +31,6 @@ Khiḍḍāpadosikā *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khiḍḍāpadosikā *v.l.* Khiḍḍāpadūsikā. Một hạng chư thiên sống trong cõi Cātummahārājika. Qua nhiều thời đại, họ dành thời gian của mình trong tiếng cười và trong trò vui đùa của những dục vọng. Hậu quả là sự tự chủ của họ bị hủy hoại và họ bị rớt khỏi cảnh giới của mình (DN.i.19; Paṭis-a.441; NidA.i.108). Họ được gọi như vậy vì họ bị đọa lạc và bị hủy diệt bởi trò vui đùa (*khiddāya padussanti, vinassanti*) (DN­a.i.113). Người ta nói rằng trong lúc chơi đùa ở những tịnh viên như Nandanavana, Cittalatāvana và Phārusakavana, họ quên ăn uống và tàn lụi như những bông hoa. Cái chết của họ là do sự tự nhận thức (*attasañcetanā*) (AN­a.ii.544). Có thể nói họ bị thiêu rụi bởi sự si mê của mình (*mohassa anudahanatāyamohanavasena hi tesaṁ satisammoso*) (Vibh­a.498). Họ có mặt tại buổi giảng bài Mahā Samayasutta (DN.ii.260).
 
 ## Notes

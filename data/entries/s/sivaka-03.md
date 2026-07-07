@@ -5,7 +5,7 @@ base_headword: "Sīvaka"
 disambiguator: "03"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -27,6 +27,6 @@ Sīvaka 03. The physician of King <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīvaka 03. Ngự y của vua Sivi. Xem Sivijātaka (Ja 499). Ông được đồng nhất với Ānanda. Ja.iv.412.
 
 ## Notes

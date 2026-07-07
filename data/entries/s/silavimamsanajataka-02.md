@@ -5,7 +5,7 @@ base_headword: "Sīlavīmaṁsanajātaka"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -24,6 +24,6 @@ Sīlavīmaṁsanajātaka 02. (Ja 290). Very similar to No. 1 above.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīlavīmaṁsanajātaka 02. (Ja 290). Rất giống với bài số 1 ở trên.
 
 ## Notes

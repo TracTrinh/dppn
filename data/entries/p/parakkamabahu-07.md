@@ -5,7 +5,7 @@ base_headword: "Parakkamabāhu"
 disambiguator: "07"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -32,6 +32,6 @@ Parakkamabāhu 07. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parakkamabāhu 07. Parakkamabāhu VI. Vua của Tích Lan (Cv.xci.16ff.; xem thêm Cv.Trs., ii.215, n.1; và Codr.90f). Ông trị vì tại Jayavaḍḍhanapura. Cūḷa Vaṁsa không cho chúng ta biết điều gì quan trọng ngoại trừ việc mẹ ông là Sunettā. Chúng ta thu thập từ các nguồn khác rằng cha ông là Vijayabāhu, nhưng tính xác thực của thông tin này là đáng ngờ. Ngày ông lên ngôi cũng không chắc chắn. Một số người cho là vào năm 1412 CN, số khác là 1415 CN. Vào đầu triều đại của mình, ông sống ba năm ở Rājagāma, sau đó chuyển đến Jayavaḍḍhanapura. Trong số các công trình tôn giáo của ông có việc trùng tu các tu viện ở Gaṇḍāladoṇi và Laṅkātilaka, và xây dựng một Điện Thờ Răng ở kinh đô của mình, đồng thời thành lập Sunettā *pariveṇa* để tưởng nhớ mẹ mình. Ông thoái vị nhường ngôi cho cháu trai của mình là Vīra Parakkamabāhu, và qua đời sau năm mươi lăm năm trị vì. Triều đại của ông được biết đến với một lượng lớn các tác phẩm văn học Sinhalese, đặc biệt là thơ ca.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kalambadāyaka Thera"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kalambadāyaka Thera. An *Arahant*. Ninety-four *kappas* ago he met a <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kalambadāyaka Thera. Một *Arahant*. Chín mươi bốn *kappa* trước, ngài đã gặp một Pacceka Buddha tên là Romasa và đã dâng cho vị ấy một củ cải (*kalamba*). Ap.ii.393.
 
 ## Notes

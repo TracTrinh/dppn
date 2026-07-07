@@ -5,7 +5,7 @@ base_headword: "Vacchasutta"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -27,6 +27,6 @@ Vacchasutta or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vacchasutta hay Bandhasutta. Một cuộc đối thoại giữa Đức Phật và Vacchagotta Paribbājaka. Vacchagotta hỏi, và Đức Phật giải thích, tại sao, khác với các Paribbājakas, Đức Phật không tuyên bố thế giới là vĩnh hằng hay không, hay đưa ra nhiều tuyên bố tương tự. Vacchagotta đặt câu hỏi tương tự cho Moggallāna và nhận được câu trả lời giống nhau. Vacchagotta bày tỏ sự ngưỡng mộ của mình trước việc thầy và trò lại nhất trí với nhau đến vậy. SN.iv.395f.; cp. SN.iii.257f.
 
 ## Notes

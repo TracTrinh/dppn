@@ -5,7 +5,7 @@ base_headword: "Sudassana"
 disambiguator: "23"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sudassana 23. A garland-maker of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudassana 23. Một thợ kết hoa của Haṁsavatī. Ông đã dâng một vòng hoa nhài cho Padumuttara Buddha. Ông là một tiền kiếp của Muṭṭhipupphiya Thera. Ap.i.142; cf. Thag­a.i.127.
 
 ## Notes

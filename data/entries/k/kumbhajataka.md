@@ -5,7 +5,7 @@ base_headword: "Kumbhajātaka"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -36,6 +36,10 @@ The story of the past is also given in the *Jātakamālā* (Jm 17).
 
 ## Vietnamese translation
 
-Chưa dịch.
+Câu chuyện về việc làm thế nào một người tiều phu, Sura, tình cờ phát hiện ra rượu mạnh, và làm thế nào, với sự giúp đỡ của đồng phạm là vị đạo sĩ Varuṇa, ông đã lan truyền khám phá này ra bên ngoài, từ đó dẫn đến sự hủy diệt của toàn bộ Jambudīpa, nếu Sakka không xuất hiện trên trái đất và bằng bài thuyết giảng của ngài về tác hại của rượu mạnh đã thuyết phục Sabbamitta, vua của Sāvatthī, kiêng sử dụng nó.
+
+Câu chuyện được kể để trả lời câu hỏi của Visākhā về nguồn gốc của rượu mạnh. Một lần trong một lễ hội uống rượu ở Sāvatthī, năm trăm người phụ nữ, những người bạn của Visākhā đã cùng bà đến thăm Jetavana. Trên đường đi họ đã bị say rượu, điều này dẫn đến việc họ cư xử không đúng đắn trong tu viện. Đức Phật đã dọa họ bằng sức mạnh *iddhi* của Ngài và giúp họ phục hồi lại sự tỉnh táo. (Ja.v.11ff; Dhp­a.iii.100ff đưa ra một phiên bản hơi khác về những việc làm của những người bạn của Visākhā).
+
+Câu chuyện về quá khứ cũng được đưa ra trong *Jātakamālā* (Jm 17).
 
 ## Notes

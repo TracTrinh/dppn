@@ -5,7 +5,7 @@ base_headword: "Makhādeva-ambavana"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -31,6 +31,8 @@ Makhādeva-ambavana. A mango grove in <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Makhādeva-ambavana. Một khu vườn xoài ở Mithilā, nơi Makhādeva sống trong thiền định sau khi từ bỏ đời sống gia đình (Ja.i.138 f.; vi. 95). Khu vườn này vẫn còn tồn tại ngay cả vào thời của Đức Phật, và trong suốt thời gian ngài lưu lại đó cùng với Ānanda, ngài đã thuyết bài kinh Makhādevasutta (MN.ii.74).
+
+Buddhaghosa giải thích (MN­a.ii.732; xem thêm Mvu.iii.450) rằng khu vườn ban đầu được thiết kế bởi Makhādeva, và các vị vua khác, từ thời này sang thời khác, đã thay thế những cái cây bị chết.
 
 ## Notes

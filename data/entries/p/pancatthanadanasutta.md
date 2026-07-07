@@ -5,7 +5,7 @@ base_headword: "Pañcatthānadānasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Pañcatthānadānasutta. The name given in the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcatthānadānasutta. Tên được đặt trong Suttasaṅgaha (Số 58) cho Bhojanasutta (2) (*q.v.*).
 
 ## Notes

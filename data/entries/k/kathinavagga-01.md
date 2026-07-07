@@ -5,7 +5,7 @@ base_headword: "Kathiṇavagga"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kathiṇavagga 01. The first section of the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kathiṇavagga 01. Phẩm đầu tiên thuộc Mahā Vibhaṅga của Parivārapāthā. Vin.v.1-10.
 
 ## Notes

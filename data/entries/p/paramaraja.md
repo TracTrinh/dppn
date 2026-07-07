@@ -5,7 +5,7 @@ base_headword: "Paramarāja"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Paramarāja. A king of Ayodhya (in India?) who built a monastery, called the <sp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paramarāja. Một vị vua của Ayodhya (ở Ấn Độ?) người đã xây dựng một tu viện, được gọi là Laṅkārāma, cho Trưởng lão Dhammakitti. PLC.245.
 
 ## Notes

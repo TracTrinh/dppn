@@ -5,7 +5,7 @@ base_headword: "Paṇḍukaṇṇa"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Paṇḍukaṇṇa. A juggler (*nāṭaka*) who was among those who tried, but w
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇḍukaṇṇa. Một nghệ sĩ tung hứng (*nāṭaka*) nằm trong số những người đã cố gắng, nhưng không thành công, để làm cho Mahā Panāda cười. Ông cùng với đoàn biểu diễn của mình đi vào một ngọn lửa rực cháy và ở đó cho đến khi nó cháy rụi. Mọi người tưới nước lên đống tro, và Paṇḍukaṇṇa cùng đoàn của mình đứng lên, đeo hoa và nhảy múa. Ja.iv.324.
 
 ## Notes

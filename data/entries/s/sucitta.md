@@ -5,7 +5,7 @@ base_headword: "Sucitta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sucitta. A village – the residence of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sucitta. Một ngôi làng – nơi ở của Sirivaḍḍhanā, người đã cúng dường cơm sữa cho Vessabhū Buddha. Bv­a.205.
 
 ## Notes

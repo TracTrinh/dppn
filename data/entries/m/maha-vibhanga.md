@@ -5,7 +5,7 @@ base_headword: "Mahā Vibhaṅga"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -27,6 +27,6 @@ Mahā Vibhaṅga. The first part of the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Vibhaṅga. Phần đầu tiên của Suttavibhaṅga thuộc Vinayapiṭaka, cũng được gọi là Bhikkhuvibhaṅga.
 
 ## Notes

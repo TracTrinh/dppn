@@ -5,7 +5,7 @@ base_headword: "Kuṇḍa"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kuṇḍa. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một Yakkha từng cư trú trong một khu rừng, được gọi là Kuṇḍadhāna (Ud­a.122) theo tên ông.
 
 ## Notes

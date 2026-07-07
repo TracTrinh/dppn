@@ -5,7 +5,7 @@ base_headword: "Lolā"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -27,6 +27,6 @@ Lolā. A *Paribbājikā*, sister of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lolā. Một nữ du sĩ (*Paribbājikā*), em gái của Saccaka (Ja.iii.1), xem thêm Cūḷa Kāliṅgajātaka (Ja 301). Sau cuộc thảo luận mà bà cùng các chị em của mình đã có với Sāriputta, trong đó họ đã bị đánh bại, bà cùng những người khác đã gia nhập Tăng đoàn và trở thành một vị *Arahant*. MN­a.i.450f.
 
 ## Notes

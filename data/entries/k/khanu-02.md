@@ -5,7 +5,7 @@ base_headword: "Khānu"
 disambiguator: "02"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -26,6 +26,6 @@ Khānu 02. A tank, probably at <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khānu 02. Một hồ chứa nước, có lẽ ở Khānugāma, được xây dựng bởi Mahā Sena. Mhv.xxxvii.47.
 
 ## Notes

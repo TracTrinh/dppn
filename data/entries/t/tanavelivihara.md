@@ -5,7 +5,7 @@ base_headword: "Tanavelivihāra"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,6 @@ Tanavelivihāra. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tanavelivihāra. *v.l.* Cānavelavihāra. Một *vihāra* do Vua Mahallakanāga dựng nên tại Bījagāma. Mhv.xxxv.125.
 
 ## Notes

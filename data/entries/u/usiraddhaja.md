@@ -5,7 +5,7 @@ base_headword: "Usīraddhaja"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -25,6 +25,6 @@ Usīraddhaja. A mountain range forming the northern boundary of <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Usīraddhaja. Một dãy núi tạo thành ranh giới phía bắc của Majjhimadesa. Vin.i.197; DN­a.i.173; Ja.i.49; Khp­a.133; MN­a.i.397, v.v.
 
 ## Notes

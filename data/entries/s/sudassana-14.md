@@ -5,7 +5,7 @@ base_headword: "Sudassana"
 disambiguator: "14"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sudassana 14. A *Deva* king of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudassana 14. Một vị vua chư thiên (*Deva*) của núi (*pabbata*) Sudassana, vốn là một ngoại đạo. Piyadassī Buddha đã đến thăm vị này, bác bỏ tà kiến của ông ta, và hóa độ ông cùng với chín mươi crore tùy tùng. Bv.xiv.4f.; Bv­a.173.
 
 ## Notes

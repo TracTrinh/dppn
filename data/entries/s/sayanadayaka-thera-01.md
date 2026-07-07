@@ -5,7 +5,7 @@ base_headword: "Sayanadāyaka Thera"
 disambiguator: "01"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Sayanadāyaka Thera 01. An *Arahant*. Ninety-four *kappas* ago be gave a bed to 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sayanādāyaka Thera 01. Một *Arahant*. Chín mươi bốn *kappa* trước, ngài đã dâng một chiếc giường cho Siddhattha Buddha. Năm mươi một *kappa* trước, ngài là một vị vua tên là Varuṇa. Ap.i.98f.
 
 ## Notes

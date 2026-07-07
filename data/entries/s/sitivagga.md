@@ -5,7 +5,7 @@ base_headword: "Sītivagga"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sītivagga. The ninth chapter of the *Chakkanipāta* of the <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sītivagga. Chương thứ chín của Chakkanipāta thuộc Aṅguttaranikāya. AN.iii.435-40.
 
 ## Notes

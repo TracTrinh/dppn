@@ -5,7 +5,7 @@ base_headword: "Varadīpa"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -27,6 +27,6 @@ Varadīpa. The name given to Ceylon in the time of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Varadīpa. Tên được đặt cho Tích Lan (Ceylon) vào thời đức Phật Koṇāgamana. Thủ đô của nó là Vaḍḍhamāna và vua của nó là Samiddha. Vin-a.i.86; Mhv.xv.93; Dpv.i.73; ix. 20; xv. 45, v.v.
 
 ## Notes

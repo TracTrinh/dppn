@@ -5,7 +5,7 @@ base_headword: "Kurudeva"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kurudeva. A poor man, who lived in <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một người đàn ông nghèo, sống ở Vatturavihāra, ăn một lượng lớn thức ăn và không làm việc gì. Nghe lời khuyên của một vị tỳ-kheo, ông thọ năm giới và lấy một phần bữa ăn của mình cho cá ăn. Sau đó, ông tái sinh làm Mahā Nela.
 
 ## Notes

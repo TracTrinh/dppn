@@ -5,7 +5,7 @@ base_headword: "Kappa"
 disambiguator: "03"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kappa 03. In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kappa 03. Trong Saṁyuttanikāya (SN.iii.169f) có hai *Sutta* được kết nối với một tỳ-kheo được gọi là Kappa, người có lẽ đồng nhất với Kappa (2). Trong cả hai *Sutta* ông đều hỏi Đức Phật làm thế nào nó có thể trau dồi kiến thức và suy nghĩ để thoát khỏi những suy nghĩ về "Tôi" và "của tôi" đối với thân thể. Những câu hỏi tương tự, nhận được những câu trả lời tương tự, ở những nơi khác được quy cho Rāhula. SN.ii.253f.
 
 ## Notes

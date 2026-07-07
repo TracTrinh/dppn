@@ -5,7 +5,7 @@ base_headword: "Piyajāli"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Piyajāli. A teacher of the <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piyajāli. Một vị thầy về Abhidhamma (Vi-diệu-pháp), người đã truyền lại nó theo sự kế thừa của các thế hệ học trò. Dhs-a., p.32.
 
 ## Notes

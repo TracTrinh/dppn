@@ -5,7 +5,7 @@ base_headword: "Uparāmā"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -28,6 +28,6 @@ Uparāmā. One of the two chief women disciples of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uparāmā. Một trong hai nữ đại đệ tử của Đức Phật Paduma (Ja.i.36). Tuy nhiên, Buddhavaṁsa lại đưa ra tên của họ là Rādhā và Surādhā.
 
 ## Notes

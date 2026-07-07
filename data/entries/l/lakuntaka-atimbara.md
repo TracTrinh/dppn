@@ -5,7 +5,7 @@ base_headword: "Lakuṇṭaka Atimbara"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -27,6 +27,6 @@ Lakuṇṭaka Atimbara. One of the chief ministers of <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lakuṇṭaka Atimbara. Một trong những đại thần của Duṭṭhagāmaṇī. Ông là chồng của Ubbarī, khi bà, trong kiếp cuối, tái sinh là Sumanā. Về câu chuyện xem mục Ubbarī (1).
 
 ## Notes

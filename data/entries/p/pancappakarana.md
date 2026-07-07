@@ -5,7 +5,7 @@ base_headword: "Pañcappakaraṇa"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -29,6 +29,6 @@ Pañcappakaraṇa. Name given to the collection of the books of the <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcappakaraṇa. Tên được đặt cho bộ sưu tập các sách của Abhidhammapiṭaka, ngoại trừ Dhammasangaṇi và Vibhaṅga. Có một bản Chú giải về những cuốn sách này do Buddhaghosa và Ānanda Vanaratana biên soạn. PLC.210; Gv.64-75.
 
 ## Notes

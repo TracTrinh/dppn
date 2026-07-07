@@ -5,7 +5,7 @@ base_headword: "Mahā Sāmi"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -28,6 +28,6 @@ Mahā Sāmi 02. A title given to <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sāmi 02. Một danh hiệu được ban cho Moggallāna, người cai trị của Rohaṇa, và là cha của Kitti (sau này là Vijayabhāhu I.). Cv.lvii.30, 49.
 
 ## Notes

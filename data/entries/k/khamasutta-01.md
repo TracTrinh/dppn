@@ -5,7 +5,7 @@ base_headword: "Khamāsutta"
 disambiguator: "01"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -24,6 +24,6 @@ Khamāsutta 01. The four modes of progress (*paṭipadā*); that which is impati
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khamāsutta 01. Bốn phương thức tiến tu (paṭipadā); phương thức thiếu kiên nhẫn, phương thức kiên nhẫn, phương thức điều phục, và phương thức tĩnh lặng. AN.ii.152f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sukha"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -32,6 +32,10 @@ Meanwhile, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sukha 01. Một vị tỳ-kheo, thường được biết đến với tên gọi Sukha *Sāmaṇera*. Trong tiền kiếp của mình ông từng là Bhattabhatika (*q.v.*). Trong kiếp sống cuối cùng của mình ông được sinh ra trong ngôi nhà của một người ủng hộ Sāriputta. Trong suốt thời kỳ mang thai của bà, mẹ ông đã bố thí cho năm trăm vị tỳ-kheo, với Sāriputta dẫn đầu. Khi được bảy tuổi, ông gia nhập Tăng đoàn dưới sự chỉ dẫn của Sāriputta, vào dịp đó cha mẹ ông đã tổ chức một lễ cúng dường đặc biệt kéo dài trong bảy ngày.
+
+Một lần, trong lúc đi khất thực cùng với Sāriputta, ông đã nhận thấy một vài điều, và giống như vị sa-di Paṇḍita (*q.v.*) đã hỏi vị Trưởng lão vô số câu hỏi. Sau đó ông bày tỏ mong muốn được quay trở lại tu viện. Sāriputta đồng ý, và Sukha quay về nói rằng, “Thưa ngài, khi ngài mang thức ăn của con về, xin hãy mang cho con thức ăn có một trăm hương vị. Nếu ngài không thể có được nó thông qua phước báu của chính ngài, ngài có thể có được nó thông qua phước báu của con.” Nói như vậy xong, ông trở về thất của mình và thiền định về bản chất của cơ thể. Ngai vàng của Sakka trở nên nóng, và ngài đã cử Tứ Đại Thiên Vương đến để ngăn chặn mọi tiếng ồn tránh xa khỏi thất của Sukha. Ngài cũng ra lệnh cho Mặt Trời và Mặt Trăng đứng yên. Sukha, được sự trợ giúp bởi sự tĩnh lặng này, đã trở thành một vị *Anāgāmī*.
+
+Trong khi đó, Sāriputta đã đi đến một ngôi nhà nơi ngài biết mình có thể lấy được thức ăn mà Sukha mong muốn, và, sau khi ăn ở đó xong, đã quay trở lại tu viện cùng với phần ăn của Sukha. Đức Phật, nghĩ rằng sự xuất hiện của Sāriputta có thể cản trở việc đạt được quả vị *Arahant* của Sukha, đã xuất hiện gần cổng thất của Sukha và đứng canh gác. Khi ngài đứng đó, Đức Phật đã hỏi Sāriputta bốn câu hỏi. Khi câu hỏi cuối cùng được trả lời, Sukha đã trở thành một *Arahant*. Sau đó Sāriputta mở cửa và đưa thức ăn cho Sukha. Sukha đã ăn nó và rửa bát. Tứ Đại Thiên Vương rời khỏi vị trí của họ, Sakka thả sợi dây thừng ở cửa thất của vị sa-di ra, và Mặt Trời cùng Mặt Trăng bắt đầu hành trình của chúng một lần nữa. Buổi tối ngay lập tức ập đến, và Đức Phật, khi được hỏi về lý do, đã giải thích rằng đó là một hiện tượng thường xảy ra khi những người có phước báu tham gia vào việc thiền định. Dhp­a.iii.95ff.; so sánh với câu chuyện của Paṇḍita.
 
 ## Notes

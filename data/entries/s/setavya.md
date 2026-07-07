@@ -5,7 +5,7 @@ base_headword: "Setavyā"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -58,6 +58,12 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="25" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Setavyā. Một thành phố ở Kosala (DN.ii.316), gần đó là Ukkaṭṭha. Aṅguttaranikāya (AN.ii.37) ghi lại một cuộc trò chuyện giữa Gotama Buddha và vị Bà-la-môn Doṇa, người mà Đức Phật gặp trên đường từ Ukkaṭṭha đến Setavyā. Thành phố nằm trên con đường mà các đệ tử của Bāvarī (Snp.vs.1012) đi từ Sāvatthī đến Rājagaha, và là điểm dừng chân đầu tiên bên ngoài Sāvatthī. Tiếp theo đó là Kapilavatthu, Kusĭnārā, Pāvā, v.v...
+
+Phía bắc của Setavyā là Siṃsapāvana, nơi Kumāra Kassapa trú ngụ, và nơi ông thuyết giảng Pāyāsisutta cho vị Bà-la-môn Pāyāsi, người giữ một lãnh địa hoàng gia ở đó (DN.ii.316).
+
+Thành phố là quê hương của các Thera Ekadhammasavaṇiya và Mahā Kāḷa. Các anh em của Mahā Kāḷa là Cūḷa Kāḷa và Majjhimakāla cũng sống ở đó (Dhp­a.i.55).
+
+Aṅguttara Commentary (AN­a.ii.504) cho rằng Kassapa Buddha sinh tại Setavyā, nhưng cả Buddhavaṃsa lẫn Chú giải của nó đều cho rằng ngài sinh tại Benares (Bv.xxv.33; Bv­a.217). Buddhavaṃsa Commentary (Bv­a.223) ghi thêm rằng Kassapa viên tịch tại Setārāma ở Setavyā, nhưng bổ sung rằng Setavyā là một thành phố ở Kāsi.
 
 ## Notes

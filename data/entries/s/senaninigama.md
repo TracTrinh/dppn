@@ -5,7 +5,7 @@ base_headword: "Senānīnigama"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -33,6 +33,10 @@ The *Lalitavistara* (p.311, 248) calls it Senāpatigrāma.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Senānīnigama. Ngôi làng nơi Senānī sinh sống. Đây cũng là nơi ở của con gái ông, Sujātā, người đã dâng cơm sữa cho Đức Phật. Làng này ở gần Uruvelā và bên bờ sông Nerañjarā (Ja.i.68). Tên gọi này dường như nguyên thủy là *Senānigama* (vd., SN.i.106; Vin.i.21; MN.i.166, 240).
+
+Chính Buddhaghosa dường như cũng không chắc chắn về cách viết tên này. Ông nói (SN­a.i.135) rằng sở dĩ có tên này vì đây là nơi binh lính đóng quân vào thuở đầu *kappa* (*paṭhamakappikānaṁ senāya niviṭṭhokāse patiṭṭhitagāmo*), hoặc vì đây là làng của Senānī, cha của Sujātā (*Sujātāya vā pitu Senānī nāma nigamo*).
+
+*Lalitavistara* (p.311, 248) gọi nơi này là Senāpatigrāma.
 
 ## Notes

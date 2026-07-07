@@ -5,7 +5,7 @@ base_headword: "Kaṇṭakavana"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kaṇṭakavana. A locality in <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇṭakavana. Một địa phương ở Rohaṇa, nơi vị tướng quân Rakkha đã xây dựng một thành trì và tấn công các lực lượng của kẻ thù. Cv.lxxiv.56.
 
 ## Notes

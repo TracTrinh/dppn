@@ -5,7 +5,7 @@ base_headword: "Kāḷakaṇṇī"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -27,6 +27,6 @@ Kāḷakaṇṇī 01. A friend of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷakaṇṇī 01. Một người bạn của Anāthapiṇḍika. Họ đã cùng nhau làm bánh bùn và đã đi học cùng một trường. Sau đó, Kāḷakaṇṇī rơi vào những ngày tháng xui xẻo và đã tìm kiếm sự bảo bọc của người bạn mình, người đã bổ nhiệm ông để trông coi công việc kinh doanh của ông. Bạn bè và những người quen biết của Anāthapiṇḍika đã phản đối việc thuê một người đàn ông có cái tên xui xẻo như vậy, nhưng Anāthapiṇḍika đã không bận tâm đến họ. Một ngày nọ, khi Anāthapiṇḍika đi vắng, một nhóm cướp đã cố gắng đột nhập vào nhà ông, nhưng Kāḷakaṇṇī, với sự điềm tĩnh và nhanh trí tuyệt vời, đã yêu cầu vài người hầu còn lại đánh trống khắp nhà, do đó tạo ra ấn tượng rằng ngôi nhà đang có đầy đủ người. Bọn cướp đã bỏ trốn để lại vũ khí của chúng, và Kāḷakaṇṇī đã được khen ngợi rất nhiều. Khi Anāthapiṇḍika kể lại sự việc cho Đức Phật, Đức Phật đã kể lại Kāḷakaṇṇījātaka, chứa đựng một câu chuyện tương tự về quá khứ. Ja.i.364f.
 
 ## Notes

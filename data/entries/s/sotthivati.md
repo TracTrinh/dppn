@@ -5,7 +5,7 @@ base_headword: "Sotthivatī"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -27,6 +27,6 @@ Sotthivatī. A city, the capital of the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sotthivatī. Một thành phố, thủ đô của quốc gia Ceti, vào thời Vua Upacara (Apacara). Ja.iii.454.
 
 ## Notes

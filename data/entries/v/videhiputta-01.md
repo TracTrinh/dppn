@@ -5,7 +5,7 @@ base_headword: "Videhīputta"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Videhīputta 01. A name given to <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Videhīputta 01. Một cái tên được ban cho Āḷāra. Ja.v.166.
 
 ## Notes

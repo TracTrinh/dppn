@@ -5,7 +5,7 @@ base_headword: "Maṇḍavya"
 disambiguator: "01"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Maṇḍavya 01. An ascetic. For his story see the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇḍavya 01. Một đạo sĩ khổ hạnh. Xem câu chuyện của ông trong Kaṇhadīpāyanajātaka.
 
 ## Notes

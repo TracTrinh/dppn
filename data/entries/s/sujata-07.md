@@ -5,7 +5,7 @@ base_headword: "Sujāta"
 disambiguator: "07"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sujāta 07. A king of fifty-seven *kappas* ago; a former birth of <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sujāta 07. Một vị vua của năm mươi bảy *kappa* trước; một tiền kiếp của Raṁsisaññaka Thera. Ap.i.210.
 
 ## Notes

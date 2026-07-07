@@ -5,7 +5,7 @@ base_headword: "Yo no cedaṁ Sutta"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -24,6 +24,6 @@ Yo no cedaṁ Sutta. If there were no satisfaction from the earth element, being
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yo no cedaṁ Sutta. Nếu không có sự thỏa mãn từ địa đại, chúng sinh sẽ không thèm muốn nó; nếu không có sự khốn khổ trong đó, họ sẽ không bị đẩy lui bởi nó; nếu không có sự thoát khỏi nó, chúng sinh sẽ không bao giờ giải thoát được; khi tất cả những điều này được nhận thức thấu đáo, chúng sinh sẽ sống tách biệt khỏi thế gian. SN.ii.172.
 
 ## Notes

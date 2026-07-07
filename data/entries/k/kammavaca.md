@@ -5,7 +5,7 @@ base_headword: "Kammavācā"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -24,6 +24,6 @@ Kammavācā. A compilation of the rules and the ritual regarding admission into 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kammavācā. Một tập hợp các quy tắc và nghi lễ liên quan đến việc gia nhập vào Tăng đoàn (Bode, 6f).
 
 ## Notes

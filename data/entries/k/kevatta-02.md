@@ -5,7 +5,7 @@ base_headword: "Kevaṭṭa"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -38,6 +38,8 @@ Kevaṭṭa 02. Chaplain of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kevaṭṭa 02. Vị quân sư (Chaplain) của Cūḷanī Brahmadatta, vua xứ Uttarapañcāla. Ông là người khôn ngoan, uyên bác và tài giỏi trong việc bày mưu tính kế; nhà vua đã làm theo lời khuyên của ông và chinh phục được tất cả các vùng lãnh thổ của Ấn Độ, ngoại trừ lãnh thổ của Vua Videha ở Mithilā (Ja.vi.391-5). Cuối cùng khi Brahmadatta bao vây Mithilā, Kevaṭṭa là người chịu trách nhiệm về các chi tiết của cuộc vây hãm, nhưng các kế hoạch của ông đã bị phá vỡ bởi Mahosadha, người mặc dù nhỏ tuổi hơn ông nhưng lại khôn ngoan hơn rất nhiều. Ở một giai đoạn của cuộc chiến tranh, Kevaṭṭa đã đề xuất một cuộc thi tài trí tuệ giữa ông và Mahosadha, kết quả của cuộc thi này sẽ quyết định chiến thắng thuộc về Brahmadatta hay Videha. Lời thách đấu được chấp nhận, nhưng Mahosadha, bằng một mưu kế, đã làm cho Kevaṭṭa trông giống như đang đảnh lễ mình và chà xát đầu Kevaṭṭa xuống bụi đất khiến ông ta bị bầm tím. Sau khi Brahmadatta trở về Uttarapañcāla trong nỗi nhục nhã, Kevaṭṭa đã suy tính việc trả thù thông qua sự giúp sức của Pañcālacaṇḍī. Kevaṭṭa đến thăm Mithilā mang theo đề xuất rằng Videha nên đến Uttarapañcāla và kết hôn với Pañcālacaṇḍī. Trong chuyến viếng thăm này, Kevaṭṭa đã đi gặp Mahosadha, nhưng Mahosadha, đoán được rằng toàn bộ sự việc là một âm mưu nhằm ám sát Videha, đã từ chối gặp Kevaṭṭa và khiến ông ta bị ngược đãi (Ja.vi.400-19). Mọi âm mưu của Kevaṭṭa đều bị Mahosadha đánh bại ở mọi nơi. Ja.vi.424, 438, 461; để biết chi tiết, xem Mahā Ummaggajātaka.
+
+Kevaṭṭa được xác định với Devadatta (Ja.vi.478). Ông được đề cập là thuộc về dòng dõi Kosiyagotta và được gọi là Kosiya. Ja.vi.418, 419.
 
 ## Notes

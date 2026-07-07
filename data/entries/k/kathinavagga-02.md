@@ -5,7 +5,7 @@ base_headword: "Kathiṇavagga"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -24,6 +24,6 @@ Kathiṇavagga 02. The first section of the *Nissagiya*. Vin.iii.195-223.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kathiṇavagga 02. Phẩm đầu tiên của Nissagiya. Vin.iii.195-223.
 
 ## Notes

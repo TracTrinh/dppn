@@ -5,7 +5,7 @@ base_headword: "Paṭṭhānasāradīpanī"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Paṭṭhānasāradīpanī. A work by a monk named <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṭṭhānasāradīpanī. Một tác phẩm bởi một vị tỳ-kheo tên là Saddhammālaṅkāra. Sās. 48; Bode, 47.
 
 ## Notes

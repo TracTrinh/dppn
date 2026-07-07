@@ -5,7 +5,7 @@ base_headword: "Vasabhagāma"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -27,6 +27,6 @@ Vasabhagāma. A village in <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngôi làng ở Uddhagāma, được Mahā Nāga cúng dường cho *vihāra* Jetavana. Cv.xli.97.
 
 ## Notes

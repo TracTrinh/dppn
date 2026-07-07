@@ -5,7 +5,7 @@ base_headword: "Vāpāraṇi"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vāpāraṇi. A monastery built by <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vāpāraṇi. Một tu viện do Aggabodhi VI xây dựng. Cv.xlviii.64.
 
 ## Notes

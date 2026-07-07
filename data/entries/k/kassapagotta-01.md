@@ -5,7 +5,7 @@ base_headword: "Kassapagotta"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -27,6 +27,6 @@ Kassapagotta 01. Apparently the general name given to those belonging to the fam
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapagotta 01. Hiển nhiên là tên gọi chung được đặt cho những người thuộc về dòng dõi của những vị Kassapa. Theo đó, Ājīvaka Guṇa được gọi là Kassapagotta (Ja.vi.222) và một lần nữa được gọi là Kassapa (Ja.vi.224, 229, 235). Xem thêm Kassapa (28).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Paritta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -72,6 +72,34 @@ Bode says (Op. cit., 4) that in the days of King <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paritta, Parittā, Parittas. Một tập hợp các bản văn được lấy từ Khuddakapātha, Aṅguttaranikāya, Majjhimanikāya và Suttanipāta, và được tụng đọc trong các dịp đặc biệt để xua đuổi bệnh tật và nguy hiểm. Từ “*Paritta*” có nghĩa là bảo vệ. Milindapañha (p.150f) đưa ra danh sách các *Paritta* chính:
+
+- Ratanasutta,
+- Khandhaparitta,
+- Moraparitta,
+- Dhajaggaparitta,
+- Āṭānāṭiyaparitta
+- Aṅgulimāla
+
+(để biết chi tiết về những bài này xem thêm Dial.iii.185).
+
+Thường được thêm vào những bài này, trong bộ sưu tập các *Paritta* hiện có,
+
+- Maṅgalasutta và
+- Mettasutta.
+
+Từ *Paritta* xuất hiện lần đầu tiên trong Cūḷa Vagga (Vin.ii.110) liên quan đến Khandhaparitta, được Đức Phật cho phép như một sự canh chừng, một sự gìn giữ, một sự bảo vệ cho chính mình, để Tăng đoàn sử dụng. Dịp ban bố chỉ thị chung này là cái chết của một tỳ-kheo do rắn cắn. Milindapañha nói (như trên) rằng việc tụng *Paritta* có sự chấp thuận rõ ràng của Đức Phật.
+
+Bộ sưu tập các *Paritta*, cho đến ngày nay, được cư sĩ ở Miến Điện và Tích Lan biết đến rộng rãi hơn bất kỳ cuốn sách Pāli nào khác, và thường được sử dụng trong những lúc nguy hiểm hoặc bệnh tật, cho cả cá nhân và quốc gia. Vì vậy, Sena II., vua của Tích Lan, đã yêu cầu cộng đồng các tỳ-kheo tụng *Paritta*, và bằng cách rảy nước được phù phép bằng *Paritta*, ông đã giúp người dân thoát khỏi bệnh tật, và do đó loại bỏ nguy cơ dịch hạch khỏi đất nước.
+
+Ông cũng sắc lệnh rằng thực hành này nên tiếp tục mỗi năm (Cv.li.80).
+
+Kassapa V. được kể là đã tổ chức một buổi lễ *Paritta* do ba hội chúng tỳ-kheo thực hiện để bảo vệ người dân của mình khỏi nguy hiểm, dịch hạch và mất mùa (Ibid., lii.80).
+
+Trong trận dịch sốt rét gần đây (1935) ở Tích Lan, các tỳ-kheo đã được chở bằng xe bò qua các khu vực bị ảnh hưởng nặng nề để tụng *Paritta* và rảy nước. Lễ này được tổ chức vào nhiều dịp khác nhau như khánh thành nhà mới, bắt đầu chuyến đi, bắt đầu công việc kinh doanh mới, v.v. Để biết thêm thảo luận về *Paritta*, xem Dial.iii.180 ff.; cũng như PLC.75f.
+
+Bode nói (Sđd., 4) rằng vào thời vua Anorata của Miến Điện, những tỳ-kheo hủ bại và yếm thế đã sử dụng việc tụng *Paritta* như một cách dễ dàng để rửa sạch lương tâm tội lỗi của con người khỏi mọi việc làm sai trái, thậm chí là tội giết mẹ.
+
+Buddhaghosa được nhắc đến (Cv.xxxvii.226) là đã từng cố gắng biên soạn một bộ *Parittaṭṭhakathā*. Geiger (Cv.Trs.i.24, 3) gọi đây là một bản chú giải về *Paritta*, nhưng có lẽ đúng hơn là *Paritta* ở đây được sử dụng như một tính từ, nghĩa là ngắn, súc tích, và những gì được ngụ ý là một bản chú giải ngắn hoặc súc tích về các *Piṭaka*.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kelāsa"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -30,6 +30,6 @@ Kelāsa. A *vihāra* in Ceylon, probably in the district of <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kelāsa. Một vihāra ở Tích Lan, có lẽ ở quận Maṅgana. Có một thời gian sáu mươi ngàn tỳ-kheo sinh sống ở đó, đứng đầu là Khuddatissa (MN.xxxii.53). Đây có lẽ không phải là Kelāsavihāra (ở Jambudīpa?) nơi mà, chúng ta được kể lại, Suriyagotta đã cùng chín mươi ngàn tỳ-kheo đi đến để tham gia lễ đặt nền móng cho Mahā Thūpa. Mhv.xxix.43.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Uppādasutta"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -24,6 +24,6 @@ Uppādasutta 02. The arising of the four elements is the uprising of suffering, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uppādasutta 02. Sự khởi lên của bốn đại là sự khởi lên của khổ đau, sự diệt tận của chúng là sự chấm dứt của khổ đau. SN.ii.175.
 
 ## Notes

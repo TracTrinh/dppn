@@ -5,7 +5,7 @@ base_headword: "Laṭukikopamasutta"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -27,6 +27,6 @@ Laṭukikopamasutta. Preached to <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Laṭukikopamasutta. Được thuyết giảng cho Udāyī (Mahā Udāyī, theo Chú giải) trong một khu rừng gần Āpaṇa. Udāyī nhắc lại các quy tắc do Đức Phật ban hành về giờ ăn, cách các quy tắc đó được bổ sung thêm dần, cho đến khi cuối cùng bất kỳ bữa ăn nào ngoài giờ quy định đều bị cấm; và ông đề cập đến việc dù ban đầu các quy tắc này gây khó khăn, cuối cùng chúng rất hữu ích trong việc xua đuổi các trạng thái tâm thức bất an và gieo trồng các trạng thái an lạc. Đức Phật đồng ý, nhưng thêm rằng nhiều người ngu si, coi những hy sinh như vậy là nhỏ nhặt, trở nên bất mãn khi được yêu cầu thực hiện chúng. Nhưng điều nhỏ nhặt này lại phát triển thành một trói buộc đủ mạnh để giữ họ lại. Một số người giống như những con chim cút bị bẫy, không thể thoát khỏi trói buộc của mình, những người khác giống như những con voi hùng mạnh, phá vỡ trói buộc và đi đến bất cứ đâu họ muốn. Như vậy có bốn loại người, khác nhau tùy theo việc họ bị ràng buộc hay không bị ràng buộc. MN.i.447-56; MN­a.ii.656-60.
 
 ## Notes

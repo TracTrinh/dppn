@@ -5,7 +5,7 @@ base_headword: "Kakacūpamasutta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -31,6 +31,8 @@ The *Sutta* contains the story of the lady of <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kakacūpamasutta. *Sutta* thứ hai mươi mốt của Majjhimanikāya, được thuyết giảng cho Moliya Phagguna, người đã bị báo cáo với Đức Phật vì thường xuyên qua lại với hội chúng tỳ-kheo-ni và mất bình tĩnh khi bị khiển trách về điều đó. Một tỳ-kheo không nên nhượng bộ sự tức giận ngay cả khi cơ thể mình bị cưa đứt từng chi bằng một chiếc cưa hai tay (*ubhatodaṇḍakena kakacena*). Tên của *Sutta* này do chính Đức Phật đặt (MN.i.122ff).
+
+*Sutta* này chứa đựng câu chuyện về một người phụ nữ ở Sāvatthī, tên là Videhikā, người nổi tiếng là hiền lành cho đến khi bị người hầu gái của cô thử thách và phát hiện ra sự thiếu sót. Cái cưa chỉ là một trong rất nhiều ví dụ so sánh xuất hiện trong bài thuyết giảng. Nó được trích dẫn trong Mahā Hatthipadopamasutta (MN.i.189), và được đưa ra ở những nơi khác (ví dụ, DN­a.i.123) như một ví dụ về một *Sutta* được thuyết giảng vì sự thiếu kiên nhẫn của ai đó.
 
 ## Notes

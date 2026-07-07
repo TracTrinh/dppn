@@ -5,7 +5,7 @@ base_headword: "Makaradhaja"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -24,6 +24,6 @@ Makaradhaja. A name for the god <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Makaradhaja. Một danh xưng của vị thần Kāma. Cv.Iii.68.
 
 ## Notes

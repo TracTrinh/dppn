@@ -5,7 +5,7 @@ base_headword: "Vaṅgīsattheravatthu"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vaṅgīsattheravatthu. The story of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaṅgīsattheravatthu. Câu chuyện về sự cải đạo của Vaṅgīsa, việc ông gia nhập Tăng đoàn và sự kiện đắc quả vị *Arahant* của ông. Dhp­a.iv. 226f.
 
 ## Notes

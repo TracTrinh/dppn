@@ -5,7 +5,7 @@ base_headword: "Kañcanadevī"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -29,6 +29,10 @@ In her past birth, when she was listening to a sermon at the end of celebrations
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kañcanadevī 02. Con gái của vị vua của *Devaputta*.
+
+Vào ngày cô ra đời, những viên ngọc quý đã rơi từ trên trời xuống và thân thể cô sáng lòa đến mức không cần đến đèn khi có cô ở bên cạnh. Cô gia nhập Tăng đoàn khi lớn lên và trở thành một Arahant.
+
+Trong tiền kiếp của mình, khi cô đang lắng nghe một bài pháp vào cuối buổi lễ tưởng niệm được tổ chức tại *Devaputta* để vinh danh Xá-lợi Bát, một vua Nāga đã phải lòng cô. Khi cô từ chối sự chú ý của ông ta, vua Nāga đã quấn chặt thân thể cô bằng những cuộn thân của mình, nhưng cô vẫn tiếp tục lắng nghe mà không hề nao núng. Nhờ oai lực từ đức hạnh của cô, vị Nāga đã bị khuất phục, và ông ta đã bày tỏ sự tôn kính lớn lao đối với cô bằng một *Udakapūjā*. Ras.i.34f.
 
 ## Notes

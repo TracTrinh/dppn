@@ -5,7 +5,7 @@ base_headword: "Kesadhātu"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -33,6 +33,8 @@ We first come across the term in the time of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kesadhātu. Một tước vị rất cao do các vị vua Sinhalese ban tặng. Có vẻ như nó tương đương với các Huân chương thời nay. Nó có thể bắt nguồn từ việc các thành viên của Saṅgha được giao phó trọng trách chăm sóc Xá-lợi Tóc (Kesadhātu), vốn được mang đến Tích Lan vào triều đại của Moggallāna I (Cv.xxxix.49). Nhiệm vụ này về sau hiển nhiên chỉ còn là một hình thức. Từ Kesadhātu có thể là chữ viết tắt của tước vị đầy đủ hơn là Kesadhātunāyaka.
+
+Chúng ta bắt gặp thuật ngữ này lần đầu tiên vào thời Vijayabāhu I, khi một Kesadhātu, tên là Kassapa, trở thành thống đốc của Rohaṇa (Cv.lvii.65f). Parakkamabāhu I đã phong tước vị này cho vị tướng của mình, Daṇḍādhināyaka Rakkha. Cv.lxx.19.
 
 ## Notes

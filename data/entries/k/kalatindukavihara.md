@@ -5,7 +5,7 @@ base_headword: "Kāḷatindukavihāra"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -24,6 +24,6 @@ Kāḷatindukavihāra. A monastery in Ceylon. Ras.ii.165.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷatindukavihāra. Một tu viện ở Tích Lan. Ras.ii.165.
 
 ## Notes

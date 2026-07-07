@@ -5,7 +5,7 @@ base_headword: "Kulasekhara"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -28,6 +28,6 @@ Kulasekhara 02. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị vua Paṇḍu. Tướng quân của ông là Ariyacakkavatti đã xâm lược Tích Lan trong triều đại của Bhuvanekabāhu I và mang theo Xá-lợi Răng và các kho báu khác. Sau đó Parakkamabāhu III đã đến thăm Kulasekhara và lấy lại Xá-lợi Răng. Cv.xc.47; 53f.
 
 ## Notes

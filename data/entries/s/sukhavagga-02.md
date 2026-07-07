@@ -5,7 +5,7 @@ base_headword: "Sukhavagga"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sukhavagga 02. The seventh chapter of the *Ekanipāta* of the <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sukhavagga 02. Phẩm thứ bảy của *Ekanipāta* thuộc Aṅguttaranikāya. AN.i.80f.
 
 ## Notes

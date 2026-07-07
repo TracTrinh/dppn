@@ -5,7 +5,7 @@ base_headword: "Tālissara"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tālissara. A descendant of King <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tālissara. Một hậu duệ của Vua Dīpaṅkara, người trị vì ở Takkasilā. Dpv.iii.32.
 
 ## Notes

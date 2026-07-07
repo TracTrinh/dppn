@@ -5,7 +5,7 @@ base_headword: "Sekhasutta"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -23,6 +23,6 @@ Sekhasutta 03. The same as (2) above, but in greater detail under each head. AN.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sekhasutta 03. Giống như (2) ở trên, nhưng được trình bày chi tiết hơn dưới mỗi mục. AN.iii.117f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Lokabyūha"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -26,6 +26,6 @@ Lokabyūha, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lokabyūha, Lokavyūha. Một hạng chư thiên. Một trăm nghìn năm trước khi kết thúc chu kỳ thế giới (*kappuṭṭhāna*), họ lang thang trong số loài người với tóc rối bù, khóc lóc, mặc áo đỏ, hình dạng xấu xí, báo hiệu sự đến gần của ngày tận thế. Đây được gọi là *kappakolāhala*. Bv­a.224f.; Ja.i.47f.
 
 ## Notes

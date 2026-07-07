@@ -5,7 +5,7 @@ base_headword: "Seyyasutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -23,6 +23,6 @@ Seyyasutta. The Buddha explains how the feelings of superiority, inferiority, or
 
 ## Vietnamese translation
 
-Chưa dịch.
+Seyyasutta. Đức Phật giải thích cách các cảm giác vượt trội, thua kém, hay bình đẳng phát sinh như thế nào. SN.iv.88.
 
 ## Notes

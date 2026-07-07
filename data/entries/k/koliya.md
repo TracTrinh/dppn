@@ -5,7 +5,7 @@ base_headword: "Koliyā"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -75,6 +75,22 @@ After the Buddha’s death the <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koliyā, Koḷiyā, Koḷiyan, Koḷiyans, Koḷiyas. Một trong những gia tộc cộng hòa trong thời kỳ của Đức Phật. Koḷiyā sở hữu hai khu định cư chính – một ở Rāmagāma và một ở Devadaha. Các Chú giải chứa đựng những ghi chép về nguồn gốc của những người Koḷiyas (DN­a.i.260f; Snp­a.i.356f; AN.ii.558; Thag­a.i.546; cũng xem Ap.i.94). Chúng ta được kể lại rằng một vị vua của Benares, tên là Rāma (Mvu.i.353 gọi ông là Kola và từ đó giải thích cái tên của những người Koḷiyas), bị mắc bệnh phong, và bị những người phụ nữ trong triều đình ghét bỏ, ông đã để lại vương quốc cho người con trai cả của mình và lui vào trong rừng. Ở đó, sống bằng lá cây và trái cây trong rừng, ông nhanh chóng hồi phục, và, trong khi đi lang thang, đã tình cờ gặp Piyā, người con gái lớn nhất trong năm người con gái của Okkāka, chính bà cũng đang mắc bệnh phong. Rāma, sau khi chữa khỏi cho bà, đã kết hôn với bà, và họ sinh ra ba mươi hai người con trai. Với sự giúp đỡ của vua của Benares, họ đã xây dựng một thị trấn trong rừng, đốn bỏ một cây *kola* lớn khi làm việc đó. Thành phố sau đó được gọi là Kolanagara, và vì địa điểm này được phát hiện trên một lối đi của hổ (*vyagghapatha*) nên nó cũng được gọi là Vyagghapajjā. Những hậu duệ của vị vua được biết đến là Koliyā.
+
+Theo Kuṇālājātaka (Ja.v.413), khi những người Sākiyan muốn lăng mạ những người Koliyan, họ nói rằng những người Koliyan đã từng “sống như động vật trong một cây Kola”, như cái tên của họ biểu thị. Lãnh thổ của những người Sākiyan và những người Koliyan nằm liền kề nhau, bị chia cắt bởi dòng sông Rohiṇī. Các *Khattiya* của cả hai bộ lạc đã kết hôn với nhau, và cả hai đều tuyên bố có quan hệ họ hàng với Đức Phật. (Người ta kể rằng có lần những thanh niên Koliyan đã mang theo nhiều thiếu nữ Sākiyan trong khi họ đang tắm, nhưng những người Sākiyan, coi những người Koḷiyan như họ hàng, đã không có hành động gì; DN­a.i.262). Một cuộc cãi vã đã từng nổ ra giữa hai bộ lạc liên quan đến quyền sử dụng nguồn nước của sông Rohiṇī, nơi tưới tiêu cho vùng đất ở cả hai bên, và một mối thù đẫm máu chỉ được ngăn chặn nhờ sự can thiệp của Đức Phật. Để tỏ lòng biết ơn, mỗi bộ lạc đã hiến dâng một số thanh niên của mình để trở thành thành viên của Tăng đoàn, và trong suốt thời gian Đức Phật lưu lại ở khu vực lân cận, ngài đã sống luân phiên ở Kapilavatthu và ở Koḷiyanagara (để biết chi tiết về cuộc cãi vã này và hậu quả của nó, xem Ja.v.412ff; DN­a.ii.672ff; Dhp­a.iii.254ff).
+
+Có lẽ trực thuộc vào các nhà chức trách trung ương Koliyan, là một đội ngũ quan chức đặc biệt, có lẽ là cảnh sát, những người đội một chiếc mũ trang sức đặc trưng với một mào rủ xuống (*Lambacūḷakābhaṭā*). Họ mang tiếng xấu về tội tống tiền và bạo lực (SN.iv.341).
+
+Bên cạnh những nơi đã được đề cập, một số thị trấn khác của những người Koliyan, được Đức Phật hoặc các đệ tử của ngài đến thăm, được đề cập trong văn học – ví dụ:
+
+- Uttara, nơi ở của vị trưởng làng Pāṭaliya (SN.iv.340);
+- Sajjanela, nơi ở của Suppavāsā (AN.ii.62);
+- Sāpūga, nơi Ānanda đã từng lưu trú (AN.ii.194);
+- Kakkarapatta, nơi Dīghajānu sinh sống (AN.iv.281); và
+- Haliddavasana, nơi ở của các đạo sĩ Puṇṇa Koḷiyaputta và Seniya (MN.i.387; xem thêm SN.v.115).
+
+Nisabha (Thag­a.i.318), Kakudha (SN­a.i.89) (người hầu cận của Moggallāna), và Kaṅkhā Revata (Ap.ii.491) (và có lẽ cả Soṇa Koḷivisa, *q.v.*), cũng là những người Koliyan.
+
+Sau cái chết của Đức Phật, những người Koliyan của Rāmagāma đã yêu cầu và nhận được một phần tám xá-lợi của Đức Phật, và họ đã dựng một bảo tháp (*Thūpa*) lên trên đó (DN.ii.167; Mhv.xxi.18, 22ff). Xem thêm *s.v.* Suppavāsā.
 
 ## Notes

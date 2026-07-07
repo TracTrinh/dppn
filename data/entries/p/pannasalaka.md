@@ -5,7 +5,7 @@ base_headword: "Paṇṇasālaka"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Paṇṇasālaka. A village in Ceylon. <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇṇasālaka. Một ngôi làng ở Tích Lan. Kalyāṇavatī, vị chánh cung hoàng hậu đầu tiên của Kittinissaṅka, rất thích ngôi làng này và đã xây dựng một *vihāra* tại đây, ban tặng cho nó mọi loại tài sản. Cv.lxxx.35.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Phālakāla"
 disambiguator: ""
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -26,6 +26,6 @@ Phālakāla. The name of three generals of <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phālakāla. Tên của ba vị tướng quân của Rohaṇa, những người đã bị khuất phục bởi lực lượng của Parakkamabāhu I. Cv.lxxv.180,183.
 
 ## Notes

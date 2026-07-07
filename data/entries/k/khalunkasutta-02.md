@@ -5,7 +5,7 @@ base_headword: "Khaluṅkasutta"
 disambiguator: "02"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -24,6 +24,6 @@ Khaluṅkasutta 02. Three groups of three classes of horses and the correspondin
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khaluṅkasutta 02. Ba nhóm gồm ba hạng ngựa và ba hạng người tương ứng. AN.iv.397f.
 
 ## Notes

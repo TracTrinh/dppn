@@ -5,7 +5,7 @@ base_headword: "Parosahassajātaka"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -29,6 +29,8 @@ The story was told in reference to <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parosahassajātaka (Ja 99). Thuở xưa, Bodhisatta là một đạo sĩ ở Himālaya, dẫn đầu năm trăm đạo sĩ. Đệ tử trưởng của ngài đi vắng vào thời điểm Bodhisatta viên tịch, và khi các đệ tử khác hỏi ngài, ngay trước khi viên tịch, ngài đã đạt được sự thành tựu nào, ngài trả lời là “Không gì cả,” nghĩa là, “tuệ giác thấu hiểu sự vô sở hữu của các pháp.” Nhưng họ không hiểu, và do đó đã sao nhãng việc bày tỏ lòng tôn kính theo thông lệ tại lễ hỏa táng của ngài. Khi đệ tử trưởng trở về và nghe chuyện này, ông đã cố gắng giải thích vấn đề cho họ, nhưng họ không chịu nghe cho đến khi chính Bodhisatta xuất hiện từ cõi *Brahma* và thuyết phục họ về sự ngu xuẩn của họ. “Tốt hơn nhiều so với một ngàn kẻ ngu,” ngài nói, “là một người, nghe và hiểu.”
+
+Câu chuyện được kể liên quan đến trí tuệ vĩ đại của Sāriputta. Ngài được đồng nhất với vị đệ tử trưởng (Ja.i.406ff). Xem thêm Sarabhaṅgajātaka (Ja 522).
 
 ## Notes

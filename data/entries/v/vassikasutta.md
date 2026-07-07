@@ -5,7 +5,7 @@ base_headword: "Vassikasutta"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -23,6 +23,6 @@ Vassikasutta. Just as of all scented flowers the jasmine (*vassika*) is the chie
 
 ## Vietnamese translation
 
-Chưa dịch.
+Giống như trong tất cả các loại hoa thơm, hoa nhài (*vassika*) là hoa đứng đầu, cũng như vậy trong tất cả các pháp thiện, sự không phóng dật là điều đứng đầu. SN.v.44.
 
 ## Notes

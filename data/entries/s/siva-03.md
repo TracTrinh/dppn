@@ -5,7 +5,7 @@ base_headword: "Siva"
 disambiguator: "03"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Siva 03. A palace guard, paramour of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Siva 03. Một vệ binh hoàng cung, tình nhân của Anulā. Ông trị vì trong mười bốn tháng, và vào cuối thời gian đó ông bị giết để nhường ngôi cho Vaṭuka. Mhv.xxxiv.18.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Koratiya"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -24,6 +24,6 @@ Koratiya. One of the greater <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koratiya. Một trong những Yakkha lớn cần được một người đệ tử của Đức Phật cầu khẩn khi bị ác thần tấn công. DN.iii.204.
 
 ## Notes

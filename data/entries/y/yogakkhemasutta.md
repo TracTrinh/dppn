@@ -5,7 +5,7 @@ base_headword: "Yogakkhemasutta"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -24,6 +24,6 @@ Yogakkhemasutta. The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yogakkhemasutta. Tathāgata đã giành được sự an tịnh khỏi sự trói buộc, vì Ngài đã từ bỏ ham muốn đối với các trần cảnh, v.v... SN.iv.85.
 
 ## Notes

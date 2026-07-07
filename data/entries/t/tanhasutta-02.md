@@ -5,7 +5,7 @@ base_headword: "Taṇhāsutta"
 disambiguator: "02"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Taṇhāsutta 02. The four causes of the arising of craving in a monk – robes,
 
 ## Vietnamese translation
 
-Chưa dịch.
+Taṇhāsutta 02. Bốn nguyên nhân làm khởi sinh ái dục ở một vị tỳ-kheo – y áo, thức ăn, chỗ ở, sự thành công hay thất bại trong các công việc. AN.ii.10.
 
 ## Notes

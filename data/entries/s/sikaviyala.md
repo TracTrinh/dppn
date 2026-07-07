@@ -5,7 +5,7 @@ base_headword: "Sīkaviyala"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sīkaviyala. A place near <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīkaviyala. Một địa điểm gần Pulatthipura, được nhắc đến trong câu chuyện về các cuộc chiến của Gajabāhu. Cv.lxx.231.
 
 ## Notes

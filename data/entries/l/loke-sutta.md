@@ -5,7 +5,7 @@ base_headword: "Loke Sutta"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -29,6 +29,6 @@ Loke Sutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Loke Sutta. Doṇa nhận thấy những dấu chân của Đức Phật trên con đường giữa Ukkaṭṭhā và Setavyā, và, đi theo chúng, ông đã gặp Đức Phật. Doṇa hỏi Đức Phật ngài là ai – thiên nhân (Deva), Yakkha, Gandhabba, v.v.? – và Đức Phật giải thích cho ông rằng ngài là một “Phật.” AN.ii.37f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Suddhikasutta"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Suddhikasutta 02. The four kinds of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suddhikasutta 02. Bốn loài rồng (*Nāga*): sinh từ trứng (noãn sinh), sinh từ thai (thai sinh), sinh từ nơi ẩm thấp (thấp sinh), và những loài sinh ra bằng cách hóa sanh (hóa sinh). SN.iii.240.
 
 ## Notes

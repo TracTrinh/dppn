@@ -5,7 +5,7 @@ base_headword: "Mānadinnasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Mānadinnasutta. Records the visit of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mānadinnasutta. Ghi lại cuộc thăm viếng của Ānanda đối với Mānadinna. SN.v.178.
 
 ## Notes

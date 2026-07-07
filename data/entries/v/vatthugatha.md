@@ -5,7 +5,7 @@ base_headword: "Vatthugāthā"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -30,6 +30,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Các vần kệ giới thiệu (976-1031) của Pārāyaṇavagga đưa ra câu chuyện về Bāvarī, những tình huống đã dẫn đến việc ngài gửi các học trò của mình đến Đức Phật và chuyến hành trình của họ đến Rājagaha (Snp., pp. 190-7).
+
+Cūḷa Niddesa, tài liệu chú giải về Pārāyaṇavagga (p.6ff), không chú giải về các vần kệ này.
 
 ## Notes

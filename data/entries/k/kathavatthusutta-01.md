@@ -5,7 +5,7 @@ base_headword: "Kathāvatthusuttā"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -24,6 +24,6 @@ Kathāvatthusuttā 01. A group of seven *Suttas* on the topics of discourse – 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kathāvatthusuttā 01. Một nhóm gồm bảy Sutta bàn về các chủ đề thảo luận – quá khứ, tương lai và hiện tại – và các phẩm chất cho thấy một người có đủ năng lực hay không đủ năng lực để thảo luận. Lợi ích của việc thảo luận là sự giải thoát của tâm trí khỏi sự bám chấp. AN.i.197f.; so sánh với DN.iii.220 (Kathāvatthūni).
 
 ## Notes

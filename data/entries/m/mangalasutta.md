@@ -5,7 +5,7 @@ base_headword: "Maṅgalasutta"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -48,6 +48,18 @@ See also <span class="dppn-term dppn-term-t14" data-dppn-term-pos="13" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṅgalasutta. Được thuyết giảng tại Jetavana để trả lời câu hỏi của một thiên nhân về những điều nào là cát tường (*maṅgalāni*) trên đời. Kinh mô tả ba mươi bảy điều cát tường, bao gồm những điều như tránh xa kẻ ngu, gần gũi người trí, tôn kính những người xứng đáng được tôn kính, v.v. (Khp.p.2f)
+
+Chú giải (Khp-a.vii.; Snp­a.i.300) giải thích rằng vào thời kinh này được thuyết, có cuộc tranh luận lớn khắp Jambudīpa về bản chất của *maṅgala*. Chư thiên nghe được cuộc tranh luận và cãi nhau trong nội bộ cho đến khi vấn đề lan đến cõi Phạm thiên cao nhất. Sau đó Sakka đề nghị một thiên tử hãy đến gặp Đức Phật để hỏi về điều này.
+
+Trong Suttanipāta (Snp., pp. 46f), kinh được gọi là Mahā Maṅgala. Đây là một trong những kinh mà khi được thuyết có vô số chư thiên hiện diện và vô số chúng sinh chứng được Pháp (Snp­a.i.174; Bv­a.243; AN­a.i.57,320).
+
+Kinh thường được trì tụng và là một trong những bài Paritta phổ biến nhất. Chép kinh vào sách được coi là việc làm phúc lớn (MN­a.ii.806).
+
+Tương truyền có lần Duṭṭhagāmaṇī định thuyết Maṅgalasutta tại Lohapāsāda, nhưng ông quá hồi hộp nên không tiếp tục được (Mhv.xxxii.43).
+
+Việc thuyết Maṅgalasutta là một trong những sự kiện trong cuộc đời Đức Phật Gotama được thể hiện trong Phòng Xá-lợi của Mahā Thūpa (Mhv.xxx. 83).
+
+Xem thêm Mahā Maṅgalajātaka (Ja 453).
 
 ## Notes

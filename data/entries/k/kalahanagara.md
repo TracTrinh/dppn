@@ -5,7 +5,7 @@ base_headword: "Kalahanagara"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kalahanagara. A village built on the spot where <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kalahanagara. Một ngôi làng được xây dựng trên địa điểm nơi Paṇḍukābhaya đã đánh bại những người lính do cha của Suvaṇṇapālī cử đến để giải cứu cô. Mhv.x.42; xem thêm Mhv.Trs.71, n.1, để biết về sự nhận dạng của nó.
 
 ## Notes

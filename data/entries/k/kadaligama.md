@@ -5,7 +5,7 @@ base_headword: "Kadalīgāma"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -32,6 +32,10 @@ Perhaps the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kadalīgāma. Một ngôi làng nằm ở phía bắc Samantakūṭa và trên con đường dẫn đến đó từ phía bắc. Nó nằm trên một con sông nhỏ nhập vào sông Maskeli và cuối cùng chảy vào sông Kelani. Vijayabāhu I, đã xây dựng những ngôi nhà nghỉ tại ngôi làng này để phục vụ những khách hành hương đến Samantakūṭa (Cv.lx.66).
+
+Kadalī được đồng nhất với Kehelgamuva ngày nay (Cv.Trs.i.221, n.3).
+
+Có lẽ Kadalīsenagāma, nơi Devappatirāja đã xây dựng một cây cầu gồm một trăm cây cột gậy, cũng chính là ngôi làng này, nhưng điều này còn đáng nghi ngờ (Cv.lxxxvi.41). Khả năng cao đây chính là Kehellenāva ngày nay (Cv.Trs.ii.174, n.3).
 
 ## Notes

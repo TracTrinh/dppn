@@ -5,7 +5,7 @@ base_headword: "Sirivallabha"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sirivallabha 02. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirivallabha 02. Con trai của Māṇābharaṇa (2). Ông bị quân của Parakkamabāhu I bắt giữ, nhưng trốn thoát và về sau giao chiến với vị vua ấy. Cv.lxxii. 291, 299.
 
 ## Notes

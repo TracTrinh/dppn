@@ -5,7 +5,7 @@ base_headword: "Mahā Nikkaḍḍhika"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Nikkaḍḍhika. One of the villages given by <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nikkaḍḍhika. Một trong những ngôi làng được ban cho bởi Aggabodhi IV để bảo trì *Padhānaghara*, thứ mà nhà vua đã xây dựng cho Dāṭhāsiva. Cv.xlvi.13.
 
 ## Notes

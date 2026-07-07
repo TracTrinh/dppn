@@ -5,7 +5,7 @@ base_headword: "Vajirakumārī"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -30,6 +30,6 @@ Vajirakumārī, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vajirakumārī, Vajirā. Con gái của Pasenadi. Khi hòa bình được lập lại giữa Pasenadi và Ajātasattu, Pasenadi gả Vajirā cho Ajātasattu và tặng kèm theo của hồi môn ngôi làng ở Kāsi vốn là nguyên nhân tranh chấp giữa họ (Ja.ii.404; iv. 343; Dhp­a.iii.266). Trong Piyajātikasutta (MN.ii.110), bà được gọi là Vajirī. Bà là người con gái duy nhất của Pasenadi. MN­a.ii.751.
 
 ## Notes

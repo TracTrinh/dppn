@@ -5,7 +5,7 @@ base_headword: "Kaṅgakoṇḍāna"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -24,6 +24,6 @@ Kaṅgakoṇḍāna. A fortress in South India. Cv.lxxvi.183.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṅgakoṇḍāna. Một pháo đài ở Nam Ấn Độ. Cv.lxxvi.183.
 
 ## Notes

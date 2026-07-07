@@ -5,7 +5,7 @@ base_headword: "Kalyāṇavatī"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -32,6 +32,10 @@ She built a *vihāra* called the *Kalyāṇavatīvihāra* in the village of <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kalyāṇavatī. Đệ nhất chánh hậu của Kittinissaṅka.
+
+Sau cái chết của Sāhasamalla, bà đã tiếp tục việc cai trị của Tích Lan trong sáu tháng (theo một số người là sáu năm, 1202-1208 CN.) với sự giúp đỡ của vị tướng quân của bà, Āyasmanta.
+
+Bà đã xây dựng một *vihāra* gọi là *Kalyāṇavatīvihāra* ở ngôi làng Paṇṇasālaka. Cv.lxxx.34ff; cũng như Cv.Trs.ii.130, n.3.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahālisutta"
 disambiguator: "01"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -33,6 +33,8 @@ Mahālisutta 01. The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahālisutta 01. Vị Licchavī là Oṭṭhaddha (Mahāli) đến viếng thăm Đức Phật tại Kuṭāgārasālā và báo cáo với Ngài một cuộc trò chuyện mà ông đã có với Sunakkhatta, người đã tự nhận là có thể nhìn thấy các sắc giới của chư thiên nhưng không thể nghe thấy các âm thanh của chư thiên. Mahāli hỏi làm thế nào mà một năng lực như vậy có thể đạt được, và Đức Phật nói cho ông nghe, nhưng giải thích rằng không phải vì mục đích đạt được những năng lực này mà mọi người gia nhập vào Saṅgha. Khi được hỏi vậy thì đối tượng của họ là gì, Ngài dần dần dẫn dắt cuộc trò chuyện đến câu hỏi về quả vị *Arahant* (A-la-hán), dọc theo Bát Thánh Đạo. Sau đó Đức Phật nêu ra một câu hỏi hoàn toàn khác, về việc liệu linh hồn và cơ thể có phải là đồng nhất hay không. Bài thuyết pháp về điều này lại dẫn đến câu hỏi về quả vị *Arahant* (so sánh Jāliyasutta), nhưng điều đáng chú ý là Đức Phật đã để lại câu hỏi cuối cùng này mà không được trả lời (DN.i.150-8).
+
+Buddhaghosa giải thích (DN­a.i.316) rằng Đức Phật đã nêu ra luận điểm về cơ thể và linh hồn, bởi vì Ngài biết rằng Mahāli đã che giấu niềm tin tà giáo rằng một linh hồn có tồn tại và nó có hình thức.
 
 ## Notes

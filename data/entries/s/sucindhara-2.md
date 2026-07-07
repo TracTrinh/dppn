@@ -5,7 +5,7 @@ base_headword: "Sucindharā"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sucindharā. A *Nāgī* who gave a meal of milk-rice to <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sucindharā. Một nữ rồng (*Nāgī*) đã dâng một bữa cơm sữa cho Atthadassī Buddha ngay trước khi ngài Giác ngộ. Bv­a.178.
 
 ## Notes

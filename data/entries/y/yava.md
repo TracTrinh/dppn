@@ -5,7 +5,7 @@ base_headword: "Yava"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -26,6 +26,6 @@ Yava. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yava. Con trai của Brahmadatta và sau đó là vua của xứ Benares. Về câu chuyện của ông, xem Mūsikajātaka (Ja 373).
 
 ## Notes

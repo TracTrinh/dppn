@@ -5,7 +5,7 @@ base_headword: "Upasena"
 disambiguator: "03"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -28,6 +28,6 @@ Upasena 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upasena 03. Trưởng lão Upasena. Được đề cập trong Gandhavaṁsa (61, 66; cũng xem Svd 197) với tư cách là tác giả của Saddhammappajjotikā, bản chú giải cho Mahā Niddesa. Nhưng hãy xem Upatissa (13).
 
 ## Notes

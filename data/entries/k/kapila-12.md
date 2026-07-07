@@ -5,7 +5,7 @@ base_headword: "Kapila"
 disambiguator: "12"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kapila 12. An ancient seer, probably of Ceylon, in whose honour <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kapila 12. Một nhà hiền triết cổ đại, có lẽ là của Tích Lan, người mà để tôn vinh, Parakkamabāhu I. đã xây dựng Kapilavihāra gần Pulatthipura, với các tòa nhà nhiều tầng, những bức bích họa, và những vật trang trí khác. Cv.lxxviii.92ff.
 
 ## Notes

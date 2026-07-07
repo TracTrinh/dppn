@@ -5,7 +5,7 @@ base_headword: "Vijaya"
 disambiguator: "07"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vijaya 07. Mentioned with <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vijaya 07. Được nhắc đến cùng với Jātimitta, như là một người hộ độ của Metteyya Buddha. Anāg.vs.59.
 
 ## Notes

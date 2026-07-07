@@ -5,7 +5,7 @@ base_headword: "Kanāda"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kanāda. A teacher of philosophy, mentioned with <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kanāda. Một triết gia, được nhắc đến cùng với Kapila, là đã giảng dạy rằng linh hồn là vô hạn (*na antavā*). Ud­a.339.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Somāsutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Somāsutta. Describes the temptation of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Somāsutta. Mô tả sự cám dỗ của Māra đối với Somā Therī (1). SN.i.129f.
 
 ## Notes

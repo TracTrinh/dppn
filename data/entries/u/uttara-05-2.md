@@ -5,7 +5,7 @@ base_headword: "Uttarā"
 disambiguator: "05"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,6 @@ Uttarā 05. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttarā 05. Vợ của Puṇṇasīha (Puṇṇaka) và là mẹ của Uttarā (4). (Vv-a.63; Dhp­a.iii.302). Để biết câu chuyện về bà, hãy xem Puṇṇasīha.
 
 ## Notes

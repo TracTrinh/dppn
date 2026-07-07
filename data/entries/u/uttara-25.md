@@ -5,7 +5,7 @@ base_headword: "Uttara"
 disambiguator: "25"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Uttara 25. A general of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttara 25. Một vị tướng của Moggallāna I. Cv.xxxix.58.
 
 ## Notes

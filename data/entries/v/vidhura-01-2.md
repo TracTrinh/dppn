@@ -5,7 +5,7 @@ base_headword: "Vidhūra"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,8 @@ He received his name because he was a peerless preacher of the Dhamma (MN.i.333;
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vidhūra 01. Một trong hai vị đệ tử thinh văn tối thắng của Kakusandha Buddha (DN.ii.4; SN.ii.191; Bv.xxiii.20. Ja.i.42).
+
+Ngài nhận được cái tên này bởi vì ngài là một vị giảng Pháp vô song (MN.i.333; được trích dẫn tại Paṭis-a.p. 496).
 
 ## Notes

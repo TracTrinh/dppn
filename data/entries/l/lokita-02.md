@@ -5,7 +5,7 @@ base_headword: "Lokitā"
 disambiguator: "02"
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -32,6 +32,6 @@ Lokitā 02. A princess, daughter of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lokitā 02. Một công chúa, con gái của Bodhi và Buddhā. Bà kết hôn với Moggallāna và có với ông bốn người con: Kitti (sau này là Vijayabāhu I.), Mittā, Mahinda và Rakkhita. Cv.lvii.41.
 
 ## Notes

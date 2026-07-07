@@ -5,7 +5,7 @@ base_headword: "Soṇā"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Soṇā 03. An eminent lay woman, disciple of the Buddha. AN.iv.348.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Soṇā 03. Một nữ cư sĩ tại gia nổi bật, đệ tử của Đức Phật. AN.iv.348.
 
 ## Notes

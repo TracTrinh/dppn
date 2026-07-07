@@ -5,7 +5,7 @@ base_headword: "Piyañjaha Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -35,6 +35,10 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piyañjaha Thera. Ngài thuộc một gia đình quý tộc Licchavī ở Vesālī và, khi lớn lên, mối quan tâm chính của ngài là chiến tranh, do đó ngài có tên là vậy (“người luôn tàn phá những gì thân yêu đối với kẻ thù của mình”). Khi Đức Phật đến thăm Vesālī, Piyañjaha đã tìm thấy niềm tin vào Ngài, gia nhập Tăng đoàn và trở thành một vị *Arahant*, sống trong rừng.
+
+Vào thời của Vipassī Buddha, ngài từng là một vị thọ thần, và, đứng ở rìa của một hội chúng chư Thiên (*Deva*) vì uy lực của mình nhỏ bé, ngài đã được nghe Đức Phật thuyết pháp. Một ngày nọ, nhìn thấy một bãi cát trắng mịn bên một dòng sông xinh đẹp, ngài suy ngẫm rằng công đức của Đức Phật còn nhiều hơn cả những hạt cát. Bảy mươi ba *kappa* trước, ngài là một vị vua tên là Pulinapupphiya. Thag.vs.76; Thag­a.i.168f.
+
+Ngài có lẽ là cùng một người với Ñāṇasaññaka của Apadāna. Ap.i.161.
 
 ## Notes

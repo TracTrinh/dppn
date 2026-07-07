@@ -5,7 +5,7 @@ base_headword: "Kolambapura"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -24,6 +24,6 @@ Kolambapura. The same as <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kolambapura. Giống như Kolambatittha. Cv.ci.27.
 
 ## Notes

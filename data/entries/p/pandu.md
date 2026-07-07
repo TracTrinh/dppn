@@ -5,7 +5,7 @@ base_headword: "Paṇḍū"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -56,6 +56,12 @@ For other references, see under the names mentioned. Reference should also be ma
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇḍū, Pāṇḍava, Pāṇḍiya. Một quốc gia ở miền Nam Ấn Độ, những người Pāṇḍiya. Đất nước của họ bao gồm phần lớn Madura và Tinnevelly, với thủ đô đầu tiên ở Kolkai và sau này là ở Madhurā.
+
+Tích Lan liên tục có giao thiệp với quốc gia này, cả trong hòa bình lẫn chiến tranh. Những toán cướp bóc của người Pandū thường đến Tích Lan và, sau khi phế truất vị vua hợp pháp, họ cai trị đất nước. Những cuộc xâm lược chính yếu trong số này là: (a) trong mười bốn năm, khi Vaṭṭagāmaṇī phải lẩn trốn; (b) trong hai mươi bảy năm, sau khi Mahā Nāma qua đời và cho đến khi Dhātusena thiết lập quyền lực của mình; (c) trong thời của Sena I; (d) sau cái chết của Mahinda V. Họ cũng đến với Māgha và Candabhānu, và sau đó với Āryacakkavattin, người đã thành công trong việc mang Xá-lợi Răng về triều đình Pāṇḍyan; Xá-lợi Răng này sau đó được Parakkamabāhu III mang về lại. Đôi khi các vị vua Sinhalese sẽ trả đũa bằng cách xâm lược lãnh thổ Pāṇḍyan ví dụ, dưới triều đại của Sena II, và có lẽ cả dưới thời Nissanka Malla. Parakkamabāhu I đã gửi một đội quân dưới quyền vị tướng Laṅkāpura của mình để giúp vua Pāṇḍyan là Parākrama Pāṇḍya chống lại vua Coḷa là Kulasekhara. Theo ghi chép của Mahā Vaṁsa, điều này mang lại niềm vui lớn cho người Sinhalese.
+
+Trong các biên niên sử có đề cập đến một số cuộc hôn nhân giữa các thành viên của hoàng gia Pāṇḍyan và hoàng gia Sinhalese. Bản thân Vijaya đã cưới hoàng hậu từ nhà vua Pāṇḍyan ở Madhurā, và sau đó, Mittā, chị em gái của Vijayabāhu I, đã kết hôn với một hoàng tử Pāṇḍyan, người trở thành ông nội của Parakkamabāhu I. Điều này dẫn đến việc thành lập một “đảng Pāṇḍyan” ở Tích Lan, những người không phải lúc nào cũng trung thành với vị vua đang tại vị ví dụ, trong trường hợp của Vikkamabāhu III. Parakkama Paṇḍu, người đã phế truất Līlāvati, hiển nhiên thuộc về đảng này và có lẽ cả Vijaya III nữa. Các vị vua Pāṇḍyan tự nhận mình là hậu duệ của dòng dõi Mặt Trăng. Codr.15.
+
+Để biết các tham chiếu khác, xem dưới những tên được đề cập. Cũng nên tham khảo Mục lục ở cuối cuốn Cūḷa Vaṁsa, *s.v.* Paṇḍū.
 
 ## Notes

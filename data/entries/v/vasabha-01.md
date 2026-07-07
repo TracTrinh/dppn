@@ -5,7 +5,7 @@ base_headword: "Vasabha"
 disambiguator: "01"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vasabha 01. A householder of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một gia chủ của Kuṭumbiyaṅgaṇa và là cha của Veḷusumana. Mhv.xxiii.68.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Khettasutta"
 disambiguator: "02"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -23,6 +23,6 @@ Khettasutta 02. Few abstain from accepting fields; many do not. SN.v.473.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khettasutta 02. Ít người kiêng nhận ruộng đất; nhiều người không. SN.v.473.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Taṇhaṅkara"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Taṇhaṅkara. One of the four Buddhas born in the same *kappa* as <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Taṇhaṅkara. Một trong bốn vị Phật sinh ra trong cùng *kappa* với Dīpaṅkara. Ja.i.44; Bv.xxvii.1.
 
 ## Notes

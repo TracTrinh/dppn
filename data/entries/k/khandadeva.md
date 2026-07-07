@@ -5,7 +5,7 @@ base_headword: "Khaṇḍadeva"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -26,6 +26,6 @@ Khaṇḍadeva. A monk. He had been a disciple of the Buddha and was born in the
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khaṇḍadeva. Một vị tỳ-kheo. Ngài từng là đệ tử của Đức Phật và được tái sinh vào cõi Phạm thiên (Brahma) Aviha, nơi ngài đã đắc quả Arahant ngay tại thời điểm tái sinh. Ngài được Ghaṭīkāra nhắc đến cùng với sáu người khác, tất cả đều trong những hoàn cảnh tương tự, nhân dịp vị này đến thăm Đức Phật. SN.i.35, 60; Thīg-a.222.
 
 ## Notes

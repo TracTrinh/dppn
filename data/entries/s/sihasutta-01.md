@@ -5,7 +5,7 @@ base_headword: "Sīhasutta"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -24,6 +24,6 @@ Sīhasutta 01. When the lion comes from his lair in the evening and utters his l
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhasutta 01. Khi sư tử rời hang vào buổi tối và cất tiếng gầm của mình, tất cả các loài chim và thú nghe thấy đều run sợ. Cũng vậy, khi một vị Phật xuất hiện trên đời, tất cả những ai theo tà kiến đều nhận ra sai lầm của mình. Mục đích giáo pháp của Đức Phật là chấm dứt *sakkāya*. AN.ii.33f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Paṭilīnasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Paṭilīnasutta. A monk, who has shaken off various speculations, has given up 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṭilīnasutta. Một vị tỳ-kheo, người đã rũ bỏ những suy đoán khác nhau, đã từ bỏ việc tìm kiếm những dục lạc của các giác quan và đi tìm những cuộc truy cầu khác và đã đạt được sự tĩnh lặng bằng cách từ bỏ lạc và khổ, một người như vậy được gọi là *paṭilīna* (đã rút lui). AN.ii.41f.
 
 ## Notes

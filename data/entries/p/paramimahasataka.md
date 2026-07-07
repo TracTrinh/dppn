@@ -5,7 +5,7 @@ base_headword: "Pāramīmahāsataka"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -27,6 +27,6 @@ Pāramīmahāsataka. A Pāli poem of one hundred verses, in twelve sections, dea
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāramīmahāsataka. Một bài thơ Pāli gồm một trăm câu, chia làm mười hai phần, đề cập đến mười pháp *pāramitā*, do *Saṅgharāja* Dhammakitti viết. Bài thơ dựa trên Jātaka và Cariyāpiṭaka. PLC. 242.
 
 ## Notes

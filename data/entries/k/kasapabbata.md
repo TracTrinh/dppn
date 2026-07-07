@@ -5,7 +5,7 @@ base_headword: "Kāsapabbata"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -28,6 +28,6 @@ Kāsapabbata. A mountain in Ceylon, once the headquarters of <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāsapabbata. Một ngọn núi ở Tích Lan, từng là tổng hành dinh của Paṇḍukābhaya (Mhv.x.27). Nó nằm trên con đường từ Vijitapura đến Anurādhapura. Duṭṭhagāmaṇī đã cắm trại tại đó và xây dựng một cái hồ gần đó. Mhv.xxv.50; xem thêm Mhv.Trs.70 n.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kālasutta"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -24,6 +24,6 @@ Kālasutta 01. There are four seasons: one for hearing the Dhamma, one for discu
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kālasutta 01. Có bốn thời điểm: một thời điểm để nghe Pháp, một thời điểm để đàm luận Pháp, một thời điểm để đạt được sự tịch tĩnh, và thời điểm cuối cùng để đạt được tuệ quán. AN.ii.140.
 
 ## Notes

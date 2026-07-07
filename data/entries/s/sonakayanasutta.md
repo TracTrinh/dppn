@@ -5,7 +5,7 @@ base_headword: "Soṇakāyanasutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Soṇakāyanasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Soṇakāyanasutta. Cuộc trò chuyện của Sikhā Moggallāna với Đức Phật liên quan đến Soṇakāyana.
 
 ## Notes

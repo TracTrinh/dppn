@@ -5,7 +5,7 @@ base_headword: "Kumbagāma"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -28,6 +28,6 @@ Kumbagāma. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một pháo đài của người Damiḷa gần Anurādhapura, đã bị Duṭṭhagāmaṇī đánh chiếm. Nó được chỉ huy bởi Kumba (Mhv.xxv.14).
 
 ## Notes

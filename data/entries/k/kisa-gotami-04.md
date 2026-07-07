@@ -5,7 +5,7 @@ base_headword: "Kisā Gotamī"
 disambiguator: "04"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kisā Gotamī 04. One of the chief women supporters of <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kisā Gotamī 04. Một trong những nữ thí chủ chính của Tissa Buddha. Bv.xviii.23.
 
 ## Notes

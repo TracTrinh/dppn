@@ -5,7 +5,7 @@ base_headword: "Sujātajātaka"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -30,6 +30,8 @@ The story was told in reference to a quarrel between <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sujātajātaka 02. (Ja 306). Bodhisatta từng là vị giáo sĩ cho vua của Benares. Một ngày nọ, nhà vua nghe thấy con gái của một người bán trái cây, Sujātā, rao bán kẹo ngọt, và phải lòng giọng nói của cô, ông đã cho người gọi cô đến và phong cô làm hoàng hậu của mình. Một thời gian sau, cô nhìn thấy nhà vua ăn kẹo từ một chiếc đĩa vàng và hỏi ông những quả hình quả trứng đó là gì. Nhà vua đã rất tức giận; nhưng Bodhisatta đã can thiệp thay mặt cho cô và cô đã được tha thứ.
+
+Câu chuyện đã được kể liên quan đến một cuộc cãi vã giữa Mallikā và Pasenadi, điều đã trở nên nổi tiếng dưới tên gọi *Sirivivāda* hoặc *Sayanakalaha*. Pasenadi đã phớt lờ Mallikā hoàn toàn, và Đức Phật, biết được điều này, đã đi đến cung điện với năm trăm vị tỳ-kheo. Nhà vua đã mời họ dùng một bữa ăn, và khi thức ăn đang được dọn ra, Đức Phật đã đậy bát của ngài lại và yêu cầu gặp Mallikā. Cô đã được cho gọi đến, và Đức Phật đã làm hòa giữa họ. Mallikā được đồng nhất với Sujātā và Pasenadi với vua của Benares. Ja.iii.20-22.
 
 ## Notes

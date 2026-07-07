@@ -5,7 +5,7 @@ base_headword: "Laṅkādhikārī"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -28,6 +28,6 @@ Laṅkādhikārī. A title in use in the time of <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Laṅkādhikārī. Một danh hiệu được sử dụng vào thời Parakkamabāhu I. Nó cao hơn cả *Saṅkhanāyaka* lẫn Laṅkādhināyaka, và được phong cho hai viên quan là Kitti và Rakkha. Cv.lxx.278,306.
 
 ## Notes

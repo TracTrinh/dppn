@@ -5,7 +5,7 @@ base_headword: "Kārakapupphamañjarī"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -25,6 +25,6 @@ Kārakapupphamañjarī. A work on Pāli grammar, written by <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kārakapupphamañjarī. Một tác phẩm về ngữ pháp Pāli, được viết bởi Attaragama Baṇḍāra Rājaguru vào thế kỷ thứ mười tám, đề cập đến *kāraka* hoặc cách ngữ pháp - tức là, cú pháp học. PLC.283.
 
 ## Notes

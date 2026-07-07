@@ -5,7 +5,7 @@ base_headword: "Kelāsa"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -40,6 +40,12 @@ In Sanskrit mythology, Kailāśa is given as the abode of the gods, chiefly <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kelāsa. Một dãy núi ở Himavā. Nó là một trong năm dãy núi bao quanh Anotatta và có màu bạc, cao hai trăm do-tuần, cong vào trong "giống như mỏ quạ." (Snp­a.ii.437f; MN­a.ii.585; Ud­a.300; AN­a.ii.759). Dãy núi này rộng sáu mươi do-tuần, và Āḷavaka, trên đường trở về nhà, nghe tin Đức Phật đang ở đó nên vô cùng tức giận, đã đặt chân trái lên Manosilātala và chân phải lên Kelāsakūṭa. Cú chạm chân của hắn khiến những mảnh đá bay tung tóe, và tiếng thét "Ta là Āḷavaka" của hắn đã vang vọng khắp Jambudīpa (Snp­a.i.223; SN­a.i.248).
+
+Kelāsa thường được sử dụng trong các so sánh để mô tả một vật thể trắng muốt (ví dụ, Ja.iv.232; vi.490, 515; con ngựa Kanthaka, Mbv.26; Dhp­a.i.192; Cv.lxxiii.114), rất oai vệ (ví dụ, đầu của một con voi hoặc một tòa nhà lớn, Ja.i.321; v.52, 53; Cv.lxxviii.77), hoặc rất khó bị phá hủy (ví dụ, Ja.v.39).
+
+Trong Mahā Vastu (ii.97, 109; xem thêm iii.309, 438), Kailāśa được nhắc đến như là nơi cư ngụ của các Kinnara.
+
+Trong thần thoại tiếng Phạn, Kailāśa được coi là nơi cư trú của các vị thần, chủ yếu là Siva và Kubera. Xem, ví dụ, Epic Mythology passim và Ved. Ind. s.v. Dãy núi này đã được xác định là thuộc hệ thống núi xuyên Himālaya và bao gồm một nhóm các ngọn núi cao hơn hai mươi ngàn feet (xem Cv.Trs.i.280, n.4).
 
 ## Notes

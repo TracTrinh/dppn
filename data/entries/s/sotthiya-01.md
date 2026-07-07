@@ -5,7 +5,7 @@ base_headword: "Sotthiya"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Sotthiya 01. A grass cutter (*uṇchānaka*) who gave grass for his seat to <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sotthiya 01. Một người cắt cỏ (*uṇchānaka*), người đã cúng dường cỏ cho Gotama Buddha làm chỗ ngồi. Ja.i.70; Bv­a.238; Snp­a.ii.391, v.v.
 
 ## Notes

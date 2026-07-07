@@ -5,7 +5,7 @@ base_headword: "Seniya"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Seniya 01. A naked ascetic who practised the “Canine vow,” behaving like a d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Seniya 01. Một khổ hạnh khỏa thân thực hành “giới nguyện chó”, sống như một con chó. Sau khi đến gặp Đức Phật, như được ghi lại trong Kukkuravatikasutta (*q.v.*), ông gia nhập Tăng đoàn và, theo thời gian, trở thành một *Arahant*. MN.i.387ff.
 
 ## Notes

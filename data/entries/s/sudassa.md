@@ -5,7 +5,7 @@ base_headword: "Sudassā"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sudassā. A *Brahma* world; one of the <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudassā. Một cõi Phạm thiên (*Brahma*); một trong các cõi Suddhāvāsā. Năm hạng *Anāgāmī* (Bất lai) tái sinh ở đó. MN.i.289; DN.ii.52; iii.237; Khp­a.183; Vibh-a.521; Kv.207.
 
 ## Notes

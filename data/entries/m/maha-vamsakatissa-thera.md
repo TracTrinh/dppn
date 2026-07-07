@@ -5,7 +5,7 @@ base_headword: "Mahā Vaṁsakatissa Thera"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -28,6 +28,6 @@ Mahā Vaṁsakatissa Thera. Of Ceylon. Mentioned among the last of the *Arahants
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Vaṁsakatissa Thera. Của Ceylon. Được đề cập đến trong số những vị *Arahant* cuối cùng. Ngài ở trong số những người đã tham gia vào các “hội chúng” Kuddālaka, Mūgapakkha, Ayoghara và Hatthipāla. Ja.vi.30.
 
 ## Notes

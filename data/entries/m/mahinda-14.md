@@ -5,7 +5,7 @@ base_headword: "Mahinda"
 disambiguator: "14"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -35,6 +35,6 @@ Mahinda 14. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahinda 14. Con trai của Kassapa V., và là anh em trai của Sena II. và Saṅghā. Khi *Ādipāda* Kittaggabodhi khởi xướng một cuộc nổi loạn ở Rohaṇa chống lại Udaya II., người sau đã cử Mahinda đến để dập tắt nó với sự giúp đỡ của vị tổng tư lệnh Vajiragga. Cuộc viễn chinh đã hoàn toàn thành công và Kittaggabodhi đã bị bắt làm tù binh. Mahinda đã ở lại Mahā Gāma và cai trị toàn bộ Rohaṇa một cách công bằng và tốt đẹp. Trong số những công trình của ông có việc xây dựng một con đập vắt ngang qua Mahā Nadī (Cv.li.99ff). Khi Kassapa IV. trở thành vua, Mahinda đã nổi loạn chống lại ông, nhưng nhà vua, thông qua sự ảnh hưởng của người cha của Mahinda, đã thuyết phục ông từ bỏ. Sau đó, Mahinda đã quay trở lại Anurādhapura theo yêu cầu của các vị tỳ-kheo, và, sau khi kết hôn với con gái của nhà vua, đã quay trở lại Rohaṇa, nơi mà, hiển nhiên, ông đã qua đời. Cv.lii.4ff.
 
 ## Notes

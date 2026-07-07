@@ -5,7 +5,7 @@ base_headword: "Videha"
 disambiguator: "04"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,6 @@ Videha 04. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Videha 04. *v.l.* Vedeha. Một vị vua của Videha người mà sau này đã trở thành một đạo sĩ. Để biết câu chuyện của ngài, xem Gandhārajātaka (Ja 406). Ngài được đồng nhất với Ānanda. Ja.iii.369.
 
 ## Notes

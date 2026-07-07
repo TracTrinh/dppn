@@ -5,7 +5,7 @@ base_headword: "Kāḷavallimaṇḍapa"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -27,6 +27,6 @@ Kāḷavallimaṇḍapa. A *vihāra* in Ceylon, the residence of the Elder <span
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷavallimaṇḍapa. Một *vihāra* ở Tích Lan, nơi ở của Trưởng lão Mahā Nāga (DN­a.i.190, 191; Snp-a.i.56; VbhA.352, 353; Ja.iv.490; Mhv­ṭ.606). Nó nằm gần ngôi làng Nakulanagara (Dhs­a.339) và tọa lạc ở Rohaṇa (AN­a.i.384).
 
 ## Notes

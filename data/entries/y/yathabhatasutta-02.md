@@ -5,7 +5,7 @@ base_headword: "Yathābhatasutta"
 disambiguator: "02"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -24,6 +24,6 @@ Yathābhatasutta 02. Similar groups of five qualities. See (1). AN.iii.264.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yathābhatasutta 02. Các nhóm gồm năm phẩm chất tương tự. Xem (1). AN.iii.264.
 
 ## Notes

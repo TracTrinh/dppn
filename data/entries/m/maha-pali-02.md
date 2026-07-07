@@ -5,7 +5,7 @@ base_headword: "Mahā Pāli"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -27,6 +27,6 @@ Mahā Pāli 02. A monastic building, probably a refectory, built by <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Pāli 02. Một tòa nhà của tu viện, có lẽ là một nhà ăn, được xây dựng bởi Aggabodhi, con trai của Mahā Tissa, tại Mahā Gāma. Cv.xlv.42.
 
 ## Notes

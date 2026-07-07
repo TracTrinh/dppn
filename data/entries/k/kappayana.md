@@ -5,7 +5,7 @@ base_headword: "Kappāyana"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kappāyana. A name of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kappāyana. Một tên gọi của Nigrodha Kappa (Sn.vs.354); được đặt ra vì lòng tôn kính đối với ông, Chú giải Snp-a.i.350 cho biết.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kaṭivāpi"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kaṭivāpi. One of the tanks repaired by <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṭivāpi. Một trong những hồ chứa nước được Parakkamabāhu I trùng tu. Cv.lxxix.34.
 
 ## Notes

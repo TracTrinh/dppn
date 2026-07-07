@@ -5,7 +5,7 @@ base_headword: "Upatissa"
 disambiguator: "09"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Upatissa 09. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upatissa 09. Trưởng lão Upatissa. Tác giả của tác phẩm Pāli Mahā Bodhivaṁsa 09. Ông sống ở Ceylon, có thể là vào thế kỷ thứ mười. Về chi tiết hãy xem PLC. 156ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sumanā"
 disambiguator: "07"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Sumanā 07. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumanā 07. Sumanā Therī. Cô là một thiếu nữ Sākyan, thuộc về hậu cung của vị Bodhisatta trước khi ngài từ bỏ thế gian. Cô gia nhập Tăng đoàn dưới sự chỉ dẫn của Mahā Pajāpatī Gotamī, và, trong lúc cô đang ngồi thiền, Đức Phật đã xuất hiện trước mặt cô trong một tia sáng hào quang. Cô đã phát triển tuệ minh sát và trở thành một *Arahant*. Thīg.vs.14; Thīg­a.20.
 
 ## Notes

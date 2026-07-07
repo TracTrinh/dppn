@@ -5,7 +5,7 @@ base_headword: "Khemasutta"
 disambiguator: "03"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -23,6 +23,6 @@ Khemasutta 03. On what is meant by having attained peace (*khema*). AN.iv.455.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khemasutta 03. Nói về thế nào là đạt được sự an tịnh (*khema*). AN.iv.455.
 
 ## Notes

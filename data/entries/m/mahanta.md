@@ -5,7 +5,7 @@ base_headword: "Mahanta"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -28,6 +28,6 @@ Mahanta. A stone image of the Buddha set up in the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahanta. Một bức tượng đá của Đức Phật được dựng lên trong Paṭimāvihāra ở Kāṇagāma bởi Aggabodhi, con trai của Mahā Tissa và là người cai trị của Rohaṇa. Cv.xlv.44.
 
 ## Notes

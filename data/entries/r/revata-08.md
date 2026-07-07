@@ -5,7 +5,7 @@ base_headword: "Revata"
 disambiguator: "08"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Revata 08. An Elder of Ceylon, living in the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Revata 08. Một vị Trưởng lão ở Tích Lan, sống ở xứ Malaya của Tích Lan. Xem Revata (7).
 
 ## Notes

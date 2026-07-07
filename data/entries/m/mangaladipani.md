@@ -5,7 +5,7 @@ base_headword: "Maṅgaladīpanī"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Maṅgaladīpanī. A commentary on the <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṅgaladīpanī. Một chú giải về Maṅgalasutta, do Sirimaṅgala xứ Lào viết. Bode, 47.
 
 ## Notes

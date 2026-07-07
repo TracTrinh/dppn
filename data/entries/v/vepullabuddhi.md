@@ -5,7 +5,7 @@ base_headword: "Vepullabuddhi"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -29,6 +29,6 @@ Vepullabuddhi. A monk of Pagan of the fourteenth century; author of *ṭīkās* 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vepullabuddhi. Một tỳ-kheo ở Pagan thế kỷ XIV; tác giả của các *ṭīkās* cho Vuttodaya, Saddasāraṭṭhajālini, Abhidhammatthasaṅgaha, và Vidadhimukhamaṇḍana. Ngài cũng là tác giả của Paramatthamañjūsa và Vacanatthajotī. Gv.64, 67; Ms. 75; Bode, 28.
 
 ## Notes

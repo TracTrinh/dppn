@@ -5,7 +5,7 @@ base_headword: "Pañcasālā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Pañcasālā. A Brahmin village of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcasālā. Một ngôi làng Bà-la-môn của Magadha. Để biết một tình tiết liên quan đến ngôi làng này, xem Piṇḍasutta. SN.i.113; Dhp­a.iii.257; Mil.154.
 
 ## Notes

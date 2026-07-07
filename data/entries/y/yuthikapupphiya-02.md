@@ -5,7 +5,7 @@ base_headword: "Yūthikapupphiya"
 disambiguator: "02"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -26,6 +26,6 @@ Yūthikapupphiya 02. An *Arahant* Thera. In a previous birth he saw <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yūthikapupphiya 02. Một vị *Arahant* Thera. Trong một tiền kiếp, ngài đã nhìn thấy Padumuttara Buddha và dâng cúng cho Ngài một bông hoa *yūthika* (hoa nhài). Mười lăm *kappa* trước, ngài là một vị vua tên là Samitananda. Ap.i.202.
 
 ## Notes

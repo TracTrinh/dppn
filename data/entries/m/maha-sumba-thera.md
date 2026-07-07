@@ -5,7 +5,7 @@ base_headword: "Mahā Sumba Thera"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Sumba Thera. A disciple of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sumba Thera. Một đệ tử của Đức Phật Koṇāgamana; ngài đã đến Ceylon theo yêu cầu của Đức Phật. Ngài, cùng với một ngàn vị khác, đã được để lại để chăm sóc những người mới cải đạo. Mhv.xv.123.
 
 ## Notes

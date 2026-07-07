@@ -5,7 +5,7 @@ base_headword: "Vandanāsutta"
 disambiguator: "02"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -27,6 +27,6 @@ Vandanāsutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vandanāsutta 02. Sakka và Phạm thiên Sahampati đến thăm đức Phật và mỗi vị đứng tựa vào một khung cửa. Sakka đọc một bài kệ để tôn vinh đức Phật, nhấn mạnh đến sự giải thoát của đức Phật. Sahampati đọc một bài kệ khác trong đó ông thỉnh cầu đức Phật thuyết giảng Pháp cho thế gian. SN.i.233.
 
 ## Notes

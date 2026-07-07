@@ -5,7 +5,7 @@ base_headword: "Kolitagāma"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -29,6 +29,8 @@ It was near <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kolitagāma. Ngôi làng nơi Mahā Moggallāna được sinh ra.
+
+Nó nằm gần Upatissagāma và không xa Rājagaha. Xem, ví dụ, Snp­a.i.326; Dhp­a.i.73; Mvu.iii.56.
 
 ## Notes

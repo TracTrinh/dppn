@@ -5,7 +5,7 @@ base_headword: "Semponmāri"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Semponmāri. A place in South India. There was a fortress there which played a p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Semponmāri. Một địa danh ở Nam Ấn Độ. Tại đó có một pháo đài từng đóng vai trò trong các chiến dịch của Laṅkāpura. Cv.lxxvi.241ff.
 
 ## Notes

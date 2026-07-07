@@ -5,7 +5,7 @@ base_headword: "Kunta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,6 @@ Kunta. A throne (for an image) which was originally in the <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngai vàng (dành cho một bức tượng) ban đầu nằm trong Pācīnavihāra của những người Theravādin, và sau đó được Silākāla đặt cạnh cây Bodhi của Abhayagirivihāra (Cv.xli.31).
 
 ## Notes

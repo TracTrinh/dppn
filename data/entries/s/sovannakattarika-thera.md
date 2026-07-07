@@ -5,7 +5,7 @@ base_headword: "Sovaṇṇakattarika Thera"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Sovaṇṇakattarika Thera. An *Arahant*. In a previous birth he gave an *alābu
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sovaṇṇakattarika Thera. Một vị *Arahant*. Trong một kiếp quá khứ, ngài đã cúng dường một quả *alābu* cho Padumuttara Buddha. Ap.ii.389.
 
 ## Notes

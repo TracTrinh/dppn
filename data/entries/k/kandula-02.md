@@ -5,7 +5,7 @@ base_headword: "Kaṇḍula"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kaṇḍula 02. The fisherman who found the elephant <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇḍula 02. Người ngư dân đã tìm thấy con voi Kaṇḍula và báo cáo sự việc cho nhà vua. Mhv.xxii.62f.
 
 ## Notes

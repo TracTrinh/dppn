@@ -5,7 +5,7 @@ base_headword: "Silātissabodhi"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Silātissabodhi. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Silātissabodhi. Con trai của Dāṭhānāma và anh/em trai của vua Dhātusena. Cv.xxxviii.15.
 
 ## Notes

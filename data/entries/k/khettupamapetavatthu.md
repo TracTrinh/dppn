@@ -5,7 +5,7 @@ base_headword: "Khettūpamapetavatthu"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -25,6 +25,6 @@ Khettūpamapetavatthu. The first story of the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khettūpamapetavatthu. Câu chuyện đầu tiên của Petavatthu. Pv.i.1.
 
 ## Notes

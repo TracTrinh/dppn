@@ -5,7 +5,7 @@ base_headword: "Parinibbānasutta"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -28,6 +28,6 @@ Parinibbānasutta 01. An account of the death of the Buddha at <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parinibbānasutta 01. Một tài liệu nói về sự viên tịch của Đức Phật tại Kusinārā. Nó bao gồm những lời cuối cùng của Đức Phật và các bài kệ của Sahampati, Sakka và Anuruddha, được thốt lên ngay sau khi Ngài qua đời. SN.i.157; cp. DN.ii.156f.; về sự khác biệt của chúng, xem KS.i.196, n.1.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Maṇidīpa"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Maṇidīpa. A sub commentary (*anuṭīkā*) to the <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇidīpa. Một phụ chú giải (*anuṭīkā*) về Atthasālinī, do Ariyavaṁsa biên soạn. (Gv.65, 75; Bode, 42.)
 
 ## Notes

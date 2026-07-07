@@ -5,7 +5,7 @@ base_headword: "Sīha"
 disambiguator: "04"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -26,6 +26,6 @@ Sīha 04. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīha 04. *v.l.* Makhilā. Con trai của Sobhita Buddha, trong kiếp làm cư sĩ cuối cùng của Ngài. Bv.vii.18.
 
 ## Notes

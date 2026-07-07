@@ -5,7 +5,7 @@ base_headword: "Khandhapura"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -23,6 +23,6 @@ Khandhapura. The Pāli name for Myein Zaing in Burma (Bode, 40).
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khandhapura. Tên tiếng Pāli của Myein Zaing ở Miến Điện (Bode, 40).
 
 ## Notes

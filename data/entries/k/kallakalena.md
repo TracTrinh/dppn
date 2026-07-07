@@ -5,7 +5,7 @@ base_headword: "Kallakālena"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kallakālena. A monastery in Ceylon, built by <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kallakālena. Một tu viện ở Tích Lan, được xây dựng bởi Saddhātissa. Mhv.xxxiii.7.
 
 ## Notes

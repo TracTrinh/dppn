@@ -5,7 +5,7 @@ base_headword: "Mahā Saṅgharakkhita"
 disambiguator: "05"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Saṅgharakkhita 05. <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Saṅgharakkhita 05. Trưởng lão Mahā Saṅgharakkhita. Khi ngài đã hơn sáu mươi tuổi và sắp sửa viên tịch, các bạn đồng tu của ngài đã hỏi ngài về sự chứng đắc siêu thế của ngài. "Tôi không có gì cả," ngài trả lời. Một vị tỳ-kheo trẻ hầu cận ngài nói rằng mọi người đã đến từ vòng bán kính mười hai *yojana* với niềm tin rằng ngài đã chứng đắc *Nibbāna*. Ngài sau đó đã yêu cầu được đỡ ngồi dậy và để cho ngài được yên tĩnh một mình. Ngay khi những người khác rời khỏi ngài, ngài búng ngón tay để cho thấy rằng ngài đã chứng đắc quả vị *Arahant*. Ngài thú nhận rằng ngài chưa bao giờ làm bất cứ điều gì mà không có chánh niệm và sự hiểu biết. Cháu trai của ngài cũng đã chứng đắc quả vị *Arahant* chỉ sau khi đã năm mươi tuổi. Vsm.47f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sumana"
 disambiguator: "14"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Sumana 14. Eldest son of King <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumana 14. Người con trai cả của Vua Biṇḍusāra. Ông đã bị giết bởi Asoka. Nigrodha *Sāmaṇera* là con trai của ông và Sumanā là vợ của ông. Mhv.v.38, 41; Vin-a.i.45.
 
 ## Notes

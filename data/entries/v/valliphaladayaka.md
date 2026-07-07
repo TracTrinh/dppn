@@ -5,7 +5,7 @@ base_headword: "Valliphaladāyaka"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Valliphaladāyaka <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Valliphaladāyaka Thera. Một vị Arahant (Ap.i.296), rõ ràng đồng nhất với Visākha Pañcāliputta (*q.v.*).
 
 ## Notes

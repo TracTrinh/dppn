@@ -5,7 +5,7 @@ base_headword: "Papatitasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -23,6 +23,6 @@ Papatitasutta. He who does not possess the virtue, the concentration, the wisdom
 
 ## Vietnamese translation
 
-Chưa dịch.
+Papatitasutta. Người không có giới, định, tuệ và sự giải thoát của các bậc Thánh, được cho là đã thối thất khỏi Dhammavinaya. AN.ii.2.
 
 ## Notes

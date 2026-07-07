@@ -5,7 +5,7 @@ base_headword: "Sūkarālibheripāsāṇa"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Sūkarālibheripāsāṇa. A place in <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sūkarālibheripāsāṇa. Một địa điểm ở Rohaṇa được đề cập trong lời tường thuật về các chiến dịch của Parakkamabāhu I. Cv.lxxv.98, 146; xem thêm Cv.ii.53, n.4.
 
 ## Notes

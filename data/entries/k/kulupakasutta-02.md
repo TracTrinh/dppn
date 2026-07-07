@@ -5,7 +5,7 @@ base_headword: "Kulupakasutta"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -23,6 +23,6 @@ Kulupakasutta 02. The five evil results of visiting families: sitting together i
 
 ## Vietnamese translation
 
-Chưa dịch.
+Năm hậu quả xấu của việc đến thăm các gia đình: cùng ngồi ở chỗ kín, và ở những nơi bị che khuất, có xu hướng đến mà không được mời, nói chuyện về phụ nữ, và bị tràn ngập bởi những suy nghĩ dục vọng. AN.iii.258f.
 
 ## Notes

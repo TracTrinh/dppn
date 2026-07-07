@@ -5,7 +5,7 @@ base_headword: "Paṇḍitakumāraka"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -29,6 +29,6 @@ Paṇḍitakumāraka. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇḍitakumāraka. Một người Licchavī, cùng với Abhaya, đã đến thăm Ānanda tại Mahā Vana ở Vesālī và tổ chức một cuộc thảo luận liên quan đến các thực hành khổ hạnh. AN.i.220f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Rohaṇa"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -28,6 +28,6 @@ Rohaṇa 02. A Brahmin, grandson of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rohaṇa 02. Một vị Bà-la-môn, cháu nội của Pekkhuṇiya. Ông là bạn của vị Licchavī Sāḷha, và một chuyến viếng thăm của cả hai đến Nandaka được ghi lại trong Aṅguttaranikāya. AN.i.193f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mallaka"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -24,6 +24,6 @@ Mallaka. An Elder. As he stood one day looking at a ploughed field a sign arose 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mallaka. Một vị Trưởng lão. Một ngày nọ, khi ngài đang đứng nhìn một thửa ruộng đã được cày xới, một tướng (*sign*) về kích thước của thửa ruộng đã sinh khởi trong ngài. Ngài mở rộng nó ra, dẫn sinh năm tầng *jhāna* (thiền-na), và, sau khi phát triển minh sát (*insight*), đã trở thành một *Arahant* (Vsm.123). Ngài được nhắc đến là đã tham vấn vị *Dīghabhāṇaka* Abhaya về một số vấn đề liên quan đến *jhāna*. Vsm.265f.
 
 ## Notes

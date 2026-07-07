@@ -5,7 +5,7 @@ base_headword: "Uposathakhanda"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -24,6 +24,6 @@ Uposathakhanda. The second section of the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uposathakhanda. Phần thứ hai của Bhūridattajātaka (Ja 543). Ja.vi.168-70.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Laṅkāgiripabbata"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -26,6 +26,6 @@ Laṅkāgiripabbata. A hill in the mountainous central province of Ceylon, in th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Laṅkāgiripabbata. Một ngọn đồi ở tỉnh trung tâm miền núi Tích Lan, trong vùng từng được biết đến là Bodhigāmavara. Nó được đề cập trong bản tường thuật về các chiến dịch của Parakkamabāhu I. Cv.lxvi.90; lxx.88; để xác định với Laggala ngày nay, xem Cv.Trs.i.259, n.3.
 
 ## Notes

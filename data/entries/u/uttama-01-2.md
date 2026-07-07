@@ -5,7 +5,7 @@ base_headword: "Uttamā"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -42,6 +42,12 @@ She is evidently identical with <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttarā 01. Một vị Trưởng lão ni (Therī). Bà sinh ra trong một gia đình chủ ngân hàng ở Sāvatthī và, sau khi nghe Paṭācārā thuyết pháp, đã gia nhập Tăng đoàn. Bà không thể đạt đến đỉnh cao của tuệ giác, cho đến khi Paṭācārā, nhìn thấy trạng thái tâm trí của bà, đã đưa ra lời khuyên nhủ. Uttamā ngay sau đó đã trở thành một Arahant (Thīg.vv.42-4; Thīg­a.46ff).
+
+Theo Apadāna (được trích dẫn trong Thīg­a.) bà đã gia nhập Tăng đoàn vào năm bảy tuổi và đạt được quả vị Arahant trong vòng nửa tháng.
+
+Vào thời của Vipassī Buddha, bà từng là một nữ tỳ trong một ngôi nhà ở Bandhumatī. Vào thời điểm đó, vua Bandhumā (cha của Vipassī) đã thọ trì các ngày trai giới, bố thí và tham dự các buổi thuyết pháp, và người dân đã noi theo tấm gương ngoan đạo của ông. Cô nữ tỳ cũng tham gia vào những hành động ngoan đạo này, và nhờ vào sự chu toàn của cô trong việc thọ trì các ngày trai giới, cô đã được tái sinh vào Tāvatiṁsa sau khi qua đời. Bà đã trở thành chánh hậu của vua các chư thiên (Deva) sáu mươi bốn lần, và bà là vợ của một Cakkavatti trong sáu mươi ba kiếp sống.
+
+Bà rõ ràng đồng nhất với Ekūposathikā của Apadāna. Ap.ii.522f.
 
 ## Notes

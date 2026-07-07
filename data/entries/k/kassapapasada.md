@@ -5,7 +5,7 @@ base_headword: "Kassapapāsāda"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -28,6 +28,6 @@ Kassapapāsāda. A building attached to the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapapāsāda. Một công trình phụ thuộc vào Abhayagirivihāra và được xây dựng bởi Kassapa IV. Một ngôi làng đã được ban tặng để duy trì công trình này (Cv.lii.13). Nó được xác định với “Kasub-vad-mahapahā” được nhắc đến trong một bản khắc của Mahinda IV tại Jetavanārāma. Ep.Zey.i.216.
 
 ## Notes

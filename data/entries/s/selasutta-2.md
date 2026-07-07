@@ -5,7 +5,7 @@ base_headword: "Selāsutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Selāsutta. The story of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Selāsutta. Câu chuyện về sự cám dỗ bất thành của Māra đối với Selā Therī (2). SN.i.134.
 
 ## Notes

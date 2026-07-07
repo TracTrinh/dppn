@@ -5,7 +5,7 @@ base_headword: "Kapila"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -39,6 +39,8 @@ Kapila 02. A Brahmin, the Bodhisatta born as the chaplain of <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kapila 02. Một Bà-la-môn, tiền kiếp của Bodhisatta khi ngài sinh ra làm giáo sĩ của Upacara, vua xứ Cetiya. Nhà vua đã hứa ban chức giáo sĩ cho bạn của mình là Korakalamba, em trai của Kapila, và khi được nhắc nhở về lời hứa của mình, đã cam kết sẽ lấy lại chức vụ đó từ con trai của Kapila, người đã được bổ nhiệm theo yêu cầu của Kapila. Bất chấp lời cảnh báo của Kapila, nhà vua đã cố gắng thực hiện lời hứa của mình bằng cách nói dối, và, kết quả là, ông đã bị nuốt chửng vào Avīci. Sau đó năm người con trai của nhà vua đã tìm kiếm sự bảo vệ của Kapila, và theo lời khuyên của ông, họ rời khỏi Ceti và thành lập năm thành phố: Hatthipura, Assapura, Sīhapura, Uttarapañcāla, và Daddarapura (Ja.iii.454ff).
+
+Kapila thỉnh thoảng được gọi là Kapilatāpasa (Ja.v.273) và Kapilaisi (Ja.v.267). Cuộc chạm trán của ông với vị vua Cetiya rõ ràng là một truyền thuyết nổi tiếng, và thường được đề cập đến, ví dụ, trong Saṅkiccajātaka (Ja 530, Ja.v.267).
 
 ## Notes

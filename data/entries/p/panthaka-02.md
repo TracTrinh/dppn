@@ -5,7 +5,7 @@ base_headword: "Panthaka"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -23,6 +23,6 @@ Panthaka 02. Mentioned as the name of a man. Ja.i.403.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Panthaka 02. Được nhắc đến như là tên của một người đàn ông. Ja.i.403.
 
 ## Notes

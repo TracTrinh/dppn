@@ -5,7 +5,7 @@ base_headword: "Khadirāvalivihāra"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -26,6 +26,6 @@ Khadirāvalivihāra. A monastery in <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khadirāvalivihāra. Một tu viện ở Rohaṇa. Dappula I đã xây dựng tu viện này và dâng cúng nó cho vị thần hộ mệnh của vùng đó (có lẽ là Skanda). Cv.xlv.55; xem thêm Cv.Trs.i.94, n.3.
 
 ## Notes

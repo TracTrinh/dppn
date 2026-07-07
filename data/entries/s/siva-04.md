@@ -5,7 +5,7 @@ base_headword: "Siva"
 disambiguator: "04"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Siva 04. One of the eleven children of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Siva 04. Một trong mười một người con của Paṇḍuvāsudeva và Kaccāna. Dpv.x.3.
 
 ## Notes

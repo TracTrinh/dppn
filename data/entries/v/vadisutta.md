@@ -5,7 +5,7 @@ base_headword: "Vādīsutta"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -24,6 +24,6 @@ Vādīsutta. There are four kinds of expounders (*vādī*): those that know the 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vādīsutta. Có bốn loại người thuyết giảng (*vādī*): những người biết nghĩa của một đoạn văn nhưng không biết văn tự, những người biết văn tự nhưng không biết nghĩa, những người không biết cả hai, những người biết cả hai. AN.ii.138.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Koṭa"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -26,6 +26,6 @@ Koṭa. A Tamil general in charge of the fortification at <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koṭa. Một tướng quân người Tamil chịu trách nhiệm quản lý đồn bót tại Koṭanagara, nơi bị Duṭṭhagāmaṇī chiếm giữ trong chiến dịch chống lại người Tamil. Mhv.xxv.13.
 
 ## Notes

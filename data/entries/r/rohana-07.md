@@ -5,7 +5,7 @@ base_headword: "Rohaṇa"
 disambiguator: "07"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -28,6 +28,6 @@ Rohaṇa 07. Headman of the village of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rohaṇa 07. Trưởng làng Kitti và cha của Theraputtābhaya. Rohaṇa là một thí chủ của Mahā Summa Thera, và sau khi nghe ngài thuyết pháp tại vihāra Koṭapabbata, ông trở thành một *Sotāpanna* và gia nhập Tăng đoàn, sau đó chứng quả *Arahant*. Mhv.xxiii.55ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vatthusutta"
 disambiguator: "01"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -23,6 +23,6 @@ Vatthusutta 01. The Buddha declares, in answer to a *Deva*’s question, that ch
 
 ## Vietnamese translation
 
-Chưa dịch.
+Đức Phật tuyên bố, để trả lời cho câu hỏi của một *Deva*, rằng những đứa con là sự nương tựa của một người đàn ông, người vợ là người đồng hành tối thượng của ông ta, và những linh hồn của những cơn mưa nuôi dưỡng tất cả các sinh vật gắn liền với đất. SN.i.37.
 
 ## Notes

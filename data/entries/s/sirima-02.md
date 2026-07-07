@@ -5,7 +5,7 @@ base_headword: "Sirimā"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sirimā 02. Mother of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirimā 02. Mẹ của Sumana Buddha. Chồng bà là Sudatta. Bv.v.21; Ja.i.34.
 
 ## Notes

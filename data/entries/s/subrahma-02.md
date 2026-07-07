@@ -5,7 +5,7 @@ base_headword: "Subrahmā"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -30,6 +30,6 @@ Subrahmā 02. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subrahmā 02. Một vị Pacceka Brahma (Độc giác Phạm thiên). Ngài là một đệ tử của Đức Phật, và, sau khi đến yết kiến Ngài cùng với Suddhavāsa, ngài đã đi đến gặp một vị *Brahma* khác, người đang say đắm với sự quan trọng của chính mình. Tại đó, bằng cách phô diễn thần thông, Subrahmā đã thuyết phục vị ấy rằng ngài mạnh mẽ hơn vị *Brahma* đó rất nhiều, nhưng cũng tuyên bố rằng năng lực của chính ngài chẳng là gì so với năng lực của Đức Phật (SN.i.146f). Vào một dịp khác, Subrahmā đã đến yết kiến Đức Phật để tuyên bố về sự ngu ngốc của Kokālika và của Kaṭamorakatissa (SN.i.148). Subrahmā đã có mặt tại buổi thuyết giảng Mahā Samayasutta. DN.ii.261.
 
 ## Notes

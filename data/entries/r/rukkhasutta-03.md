@@ -5,7 +5,7 @@ base_headword: "Rukkhasutta"
 disambiguator: "03"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -23,6 +23,6 @@ Rukkhasutta 03. Just as a tree, which leans towards the east, falls to the east 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rukkhasutta 03. Giống như một cái cây, nghiêng về hướng đông, sẽ ngã về hướng đông khi bị đốn hạ, cũng vậy, một tỳ-kheo trau dồi Bát Thánh đạo sẽ hướng về *Nibbāna*. SN.v.47.
 
 ## Notes

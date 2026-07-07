@@ -5,7 +5,7 @@ base_headword: "Rucigattā"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rucigattā. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rucigattā. *v.l.* Rucagattī. Vợ của Đức Phật Koṇāgamana (Bv.xxiv.19).
 
 ## Notes

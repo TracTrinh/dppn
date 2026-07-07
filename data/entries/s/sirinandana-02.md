@@ -5,7 +5,7 @@ base_headword: "Sirinandana"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Sirinandana 02. A treasurer and his residence. His daughter gave a meal of milk-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirinandana 02. Một vị thủ quỹ và nơi cư trú của ông. Con gái ông đã dâng một bữa cơm sữa cho Sujāta Buddha. Bv­a.168.
 
 ## Notes

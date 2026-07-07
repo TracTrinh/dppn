@@ -5,7 +5,7 @@ base_headword: "Maṅgalajātaka"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -29,6 +29,8 @@ The story was told in reference to a superstitious Brahmin of <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṅgalajātaka (Ja 87). Bodhisatta có một lần là một Bà-la-môn Udicca, đã xuất gia và sống ở Himavā. Một ngày kia ông đến thăm Rājagaha, và nhà vua mời ông ở lại trong Vườn Hoàng gia. Trong thời gian ở đó, một Bà-la-môn tin vào điềm báo qua quần áo (*Dussalakkhaṇa Brāhmaṇa*) tìm thấy trong rương một tấm vải bị chuột gặm, và sợ tai họa, muốn mang nó quăng vào bãi tha ma. Vì không muốn giao việc đó cho ai khác, ông đưa bộ quần áo cho con trai đem bỏ. Bodhisatta nhìn thấy tấm vải và nhặt lên bất chấp những cảnh báo nghiêm trọng của vị Bà-la-môn già, nói rằng người trí không nên tin vào điềm báo.
+
+Câu chuyện được kể liên quan đến một Bà-la-môn mê tín ở Rājagaha đã đem bộ quần áo của mình bỏ đi theo cách kể trên. Đức Phật đang đợi ở bãi tha ma và nhặt những bộ quần áo đó. Khi Bà-la-môn phản đối, Ngài kể câu chuyện và thuyết giảng cho ông về sự ngu ngốc của việc tin vào mê tín. Cuối bài giảng, cha và con trở thành các bậc Sotāpanna. Các nhân vật trong cả hai câu chuyện đều giống nhau. (Ja.i.371ff.)
 
 ## Notes

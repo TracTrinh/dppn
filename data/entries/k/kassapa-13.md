@@ -5,7 +5,7 @@ base_headword: "Kassapa"
 disambiguator: "13"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -27,6 +27,6 @@ Kassapa 13. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapa 13. Con trai của Upatissa III. nước Tích Lan. Ông có mười sáu người bạn đồng hành cũng dũng cảm như mình và, với sự giúp đỡ của họ, đã vài lần đẩy lùi các cuộc tấn công của Silākāla, khi người sau nổi dậy chống lại nhà vua. Ông đã được biết đến với tên gọi là *Giri Kassapa* nhờ vào tài năng quân sự của mình. Trong chiến dịch cuối cùng Silākāla đã chiến thắng, và Kassapa, cùng với cha mẹ và những tín đồ trung thành của mình, đã chạy trốn đến Merukandara, nhưng họ đã bị lạc đường và bị Silākāla bao vây. Khi con voi hoàng gia ngã xuống Kassapa đã tự cứa cổ mình. Cv.xli.8-25.
 
 ## Notes

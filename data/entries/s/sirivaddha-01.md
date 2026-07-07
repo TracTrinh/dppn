@@ -5,7 +5,7 @@ base_headword: "Sirivaḍḍha"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sirivaḍḍha 01. The name of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirivaḍḍha 01. Tên của Mahā Moggallāna (xem từ này) vào thời Anomadassī Buddha. Thag­a.ii.90; xem thêm Bv.viii.24.
 
 ## Notes

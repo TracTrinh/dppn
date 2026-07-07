@@ -5,7 +5,7 @@ base_headword: "Paṇḍuka"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -29,6 +29,6 @@ Paṇḍuka 02. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇḍuka 02. Một kẻ cướp ngôi Damiḷa. Ông đã giết Mittasena và cai trị Tích Lan trong năm năm (433-8 TL.), trong thời gian đó ông đã không thành công trong những nỗ lực giết Dhātusena, người thừa kế hợp pháp. Con trai của Paṇḍuka là Parinda. Cv.xxxviii.11, 21, 29.
 
 ## Notes

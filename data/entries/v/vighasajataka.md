@@ -5,7 +5,7 @@ base_headword: "Vighāsajātaka"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -30,6 +30,8 @@ The story was related in reference to the monks mentioned in the <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vighāsajātaka (Ja 393). Thuở nọ có bảy anh em từ một ngôi làng ở Kāsi đã từ bỏ thế gian và sống như những đạo sĩ ở Mejjhārañña, nhưng họ lại đam mê vào những trò giải trí khác nhau. Bồ-tát, lúc bấy giờ là Sakka, nhìn thấy điều này, và, trong hình dáng của một con vẹt, đã đến thăm họ và ca ngợi đời sống của những đạo sĩ. Họ bày tỏ niềm vui khi được ca ngợi như vậy, nhưng con vẹt tiếp tục làm cho họ hiểu rằng cuộc sống của họ là vô ích; họ chỉ là những kẻ ăn đồ thừa chứ không phải là những đạo sĩ.
+
+Câu chuyện được kể lại liên quan đến các tỳ-kheo được nhắc đến trong Pāsādakampanasutta (*xem đề mục*). Các tỳ-kheo được đồng nhất với bảy vị đạo sĩ. Ja.iii.310f.
 
 ## Notes

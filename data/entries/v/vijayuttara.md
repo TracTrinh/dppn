@@ -5,7 +5,7 @@ base_headword: "Vijayuttara"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,6 @@ Vijayuttara. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vijayuttara. Chiếc ốc tù và của Sakka, thứ mà ông đã thổi vào thời khắc Đức Phật Giác Ngộ (Awakening). Nó có chiều dài một trăm hai mươi gang tay (Ja.i.72; Bv­a. 239). Ông cũng thổi nó nhân dịp tôn trí xá-lợi trong Mahā Thūpa (Mhv.xxx.74) và vào ngày đăng quang của Candakumāra. Ja.vi.157.
 
 ## Notes

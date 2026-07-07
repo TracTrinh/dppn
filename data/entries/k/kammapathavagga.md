@@ -5,7 +5,7 @@ base_headword: "Kammapathavagga"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -24,6 +24,6 @@ Kammapathavagga. The third chapter of the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kammapathavagga. Chương thứ ba của Dhātusaṁyutta. SN.ii.111f.
 
 ## Notes

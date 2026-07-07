@@ -5,7 +5,7 @@ base_headword: "Tassasutaṁ Suttā"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,8 @@ He replies that it was because men who had practised double dealing, having hear
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tassasutaṁ Suttā. Một nhóm các *Sutta* trong đó Đức Phật được hỏi vì sao các chúng sinh lại sinh ra trong những hạng Nāga khác nhau.
+
+Ngài đáp rằng đó là do những con người từng thực hành lối sống hai mặt, sau khi nghe nói rằng được sinh ra trong loài Nāga là hạnh phúc, nên mong muốn được sinh ra tại đó. SN.iii.243f.
 
 ## Notes

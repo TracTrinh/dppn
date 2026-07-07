@@ -5,7 +5,7 @@ base_headword: "Vassasutta"
 disambiguator: "03"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -24,6 +24,6 @@ Vassasutta 03. On five things which stop rain: the fiery element raging in the u
 
 ## Vietnamese translation
 
-Chưa dịch.
+Về năm điều làm ngừng mưa: yếu tố lửa thịnh nộ ở thượng tầng không khí, yếu tố gió, Rāhu, sự uể oải của những đám mây mưa, sự xấu xa của con người. AN.iii.243.
 
 ## Notes

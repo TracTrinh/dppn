@@ -5,7 +5,7 @@ base_headword: "Mahā Renu"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -26,6 +26,6 @@ Mahā Renu. Eighty-seven *kappas* ago there were seven kings of this name, previ
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Renu. Tám mươi bảy *kappa* về trước có bảy vị vua mang tên này, những tiền kiếp của Trưởng lão Godhika (Bhikkhadāyaka). Thag­a.i.124; Ap.i.140.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Yaṭṭhikaṇḍa"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -27,6 +27,6 @@ Yaṭṭhikaṇḍa. A district in <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yaṭṭhikaṇḍa. Một vùng ở Malaya của Tích Lan, được nhắc đến trong ghi chép về các cuộc chiến tranh giữa Gajabāhu và Parakkamabāhu I. Cv.lxx. 7, 9.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kittaggabodhi"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -34,6 +34,6 @@ Kittaggabodhi 01. Nephew of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kittaggabodhi 01. Cháu trai của Dappula II. Ông kết hôn với Devā, con gái của Vua Dappula, và để lại người anh em của mình, cũng tên là Dappula, với nhà vua, đi đến Rohaṇa, và sau khi thu phục đất nước đó, đã trở thành vua ở đó (Cv.xlix.71). Ông có bốn người con trai – Mahinda, Kassapa, Sena và Udaya – và ba người con gái – Saṅghā, Tissā và Kittī (Cv.l.50ff).
 
 ## Notes

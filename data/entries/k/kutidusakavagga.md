@@ -5,7 +5,7 @@ base_headword: "Kuṭidūsakavagga"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kuṭidūsakavagga. The third chapter of the *Catukkanipāta* of the <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chương thứ ba của *Catukkanipāta* thuộc Jātaka Commentary Ja.iii.71-102.
 
 ## Notes

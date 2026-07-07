@@ -5,7 +5,7 @@ base_headword: "Kesi"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -24,6 +24,6 @@ Kesi 01. A horse-trainer. He came to see the Buddha and became his follower as a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kesi 01. Một người huấn luyện ngựa. Ông đã đến diện kiến Đức Phật và trở thành đệ tử của ngài nhờ vào kết quả của cuộc phỏng vấn (AN.ii.112f). Để biết chi tiết, xem Kesisutta.
 
 ## Notes

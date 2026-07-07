@@ -5,7 +5,7 @@ base_headword: "Perumpalaya"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -23,6 +23,6 @@ Perumpalaya. A village in South India. Cv.lxxvi.287.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Perumpalaya. Một ngôi làng ở Nam Ấn. Cv.lxxvi.287.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kaṇikāravimāna"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,6 @@ Kaṇikāravimāna. A palace in <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇikāravimāna. Một cung điện ở Tāvatiṁsa, cao sáu mươi do-tuần và rộng ba mươi do-tuần, nơi Uttara Thera đã cư ngụ như là kết quả của việc, trong một tiền kiếp, đã dâng một bông hoa *kaṇikāra* cho Sumedha Buddha. Thag­a.i.241.
 
 ## Notes

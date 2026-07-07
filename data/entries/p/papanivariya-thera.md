@@ -5,7 +5,7 @@ base_headword: "Pāpanivāriya Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -26,6 +26,6 @@ Pāpanivāriya Thera. An *Arahant*. In the time of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāpanivāriya Thera. Một vị Arahant. Vào thời Đức Phật Piyadassī, ông đã quét dọn lối đi có mái che của Đức Phật và thể hiện sự nỗ lực lớn lao trong việc thực hành các pháp tu. Mười một kappa trước, ông là một vị vua tên là Aggideva. Ap.i.212f.
 
 ## Notes

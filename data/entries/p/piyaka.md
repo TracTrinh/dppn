@@ -5,7 +5,7 @@ base_headword: "Piyaka"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -28,6 +28,6 @@ Piyaka. The treasurer (<span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piyaka. Vị thủ quỹ (Kosārakkha) của Vua Muṇḍa. Khi Muṇḍa buông mình vào nỗi đau buồn trước cái chết của người vợ Bhaddā, Piyaka đã thu xếp để ông đến thăm Nārada tại Kukkuṭārāma. Sau chuyến thăm đó, Muṇḍa đã được an ủi và ra lệnh cho Piyaka xây dựng một *Thūpa* (bảo tháp) cho di hài của Bhaddā. AN.iii.57 ff.
 
 ## Notes

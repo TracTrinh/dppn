@@ -5,7 +5,7 @@ base_headword: "Sītasutta"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sītasutta. Cool weather is produced by the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sītasutta. Thời tiết mát mẻ được tạo ra bởi chư thiên Sītavalāhakā mong muốn làm khoan khoái thân thể của họ. SN.iii.256.
 
 ## Notes

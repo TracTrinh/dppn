@@ -5,7 +5,7 @@ base_headword: "Lokavagga"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -24,6 +24,6 @@ Lokavagga. The thirteenth chapter of the <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lokavagga. Phẩm thứ mười ba của Dhammapada.
 
 ## Notes

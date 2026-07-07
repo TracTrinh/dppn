@@ -5,7 +5,7 @@ base_headword: "Kaṇhapakkavagga"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kaṇhapakkavagga. The first chapter of the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇhapakkavagga. Chương đầu tiên của Mātugāmasaṁyutta. SN.iv.238-43.
 
 ## Notes

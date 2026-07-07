@@ -5,7 +5,7 @@ base_headword: "Vassakārasutta"
 disambiguator: "02"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -29,6 +29,6 @@ Vassakārasutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vassakāra đến thăm Đức Phật tại Veḷuvana và hỏi Ngài một loạt câu hỏi. Đức Phật, trong câu trả lời, nói rằng một kẻ xấu không thể, như một người tốt có thể, nhận ra được một người tốt hay một kẻ xấu đúng như bản chất của họ. Vassakāra sau đó kể lại việc, một lần, những người theo Bà-la-môn Todeyya đã nói xấu Eḷeyya và đoàn tùy tùng của ông vì đã thể hiện sự tôn kính đối với Rāmaputta; giờ đây ông đã hiểu tại sao họ lại tôn vinh Rāmaputta; đó là vì ngài ấy khôn ngoan hơn họ. AN.ii.179f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sīhāsanadāyaka Thera"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -28,6 +28,6 @@ Sīhāsanadāyaka Thera 02. An *Arahant*. He made a throne in honour of <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhāsanadāyaka Thera 02. Một *Arahant*. Ông đã làm một chiếc ngai để tôn vinh Siddhattha Buddha và dâng cúng lên đó. Ông từng làm vua ba lần dưới tên Inda, ba lần dưới tên Sumana, và ba lần dưới tên Varuṇa. Ap.i.55.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Rucidevī"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rucidevī. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rucidevī. Người vợ của Đức Phật Koṇḍañña trong kiếp sống cư sĩ cuối cùng của ngài. Bv.iii.26.
 
 ## Notes

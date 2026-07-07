@@ -5,7 +5,7 @@ base_headword: "Vassūpanāyikakkhandhaka"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -30,6 +30,6 @@ Vassūpanāyikakkhandhaka, <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vassūpanāyikakkhandhaka, Vassūpanāyikakhandha. Chương thứ ba của Mahā Vagga thuộc Vinayapiṭaka (Vin.i.137ff). Nó được Mahinda thuyết giảng cho Devānampiyatissa để chỉ ra sự cần thiết của một tu viện ở Cetiyagiri. Mhv.xvi.9.
 
 ## Notes

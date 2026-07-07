@@ -5,7 +5,7 @@ base_headword: "Paṇḍuputta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -34,6 +34,8 @@ Paṇḍuputta. An <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇḍuputta. Một vị Ājīvaka. Ông xuất thân từ một dòng dõi thợ đóng xe ngựa thời xa xưa. Trong kinh Anaṅgaṇasutta (MN.i.31f), Moggallāna kể cho Sāriputta rằng, một ngày nọ, khi đang đi khất thực ở Rājagaha, ngài đến nhà của Samīti, một người thợ đóng xe ngựa đang đẽo một vành bánh xe. Đứng cạnh đó là Paṇḍuputta, đang theo dõi ông ta và mong muốn ông ta đẽo nó không có chút khiếm khuyết nào. Khi Samīti làm được điều đó, Paṇḍuputta bày tỏ sự vui mừng của mình, nói rằng Samīti đã đọc được suy nghĩ của ông.
+
+Buddhaghosa nói (MN­a.i.124) rằng Paṇḍuputta được gọi như vậy vì ông là con trai của Paṇḍu.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Uttara"
 disambiguator: "06"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -37,6 +37,8 @@ Perhaps it is this same *māṇava* that is mentioned in the <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttara 06. Một thanh niên Bà-la-môn (Uttaramāṇava), đệ tử của Pārāsariya. Ông có lần đã viếng thăm Đức Phật tại Kajaṅgalā trong khu Mukheluvana và Đức Phật đã thuyết giảng cho ông bài kinh Indriyabhāvanāsutta (MN.iii.298ff).
+
+Có lẽ cũng chính thanh niên (māṇava) này được nhắc đến trong Pāyāsisutta. Khi Pāyāsi Rājañña được hóa độ bởi Kumāra Kassapa, ông đã thiết lập việc bố thí cho tất cả mọi người, nhưng những món quà ông mang cho bao gồm những thứ như cháo, thức ăn thừa và những chiếc y thô ráp. Uttara, một trong những người hầu cận của ông, đã nói một cách mỉa mai về sự hào phóng của Pāyāsi, và khi bị Pāyāsi thách thức chỉ ra những gì nên làm, Uttara đã vui vẻ và tận tay cho đi những loại thức ăn và y phục tuyệt hảo. Kết quả là, sau khi qua đời, trong khi Pāyāsi chỉ được sinh ra trong Serisakavimāna trống rỗng của thế giới Cātummahārājika, thì Uttara được sinh vào Tāvatiṁsa. DN.ii.354-7; xem thêm Vv-a.297f. nơi các chi tiết có hơi khác một chút.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Uttarā"
 disambiguator: "12"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uttarā 12. One of the chief women supporters of <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttarā 12. Một trong những nữ thí chủ hộ độ chính của Vipassī Buddha. Bv.xx.30.
 
 ## Notes

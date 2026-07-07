@@ -5,7 +5,7 @@ base_headword: "Sujātā"
 disambiguator: "05"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Sujātā 05. An <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sujātā 05. Một thiếu nữ Asura người đã trở thành vợ của Sakka. Xem Sujā.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kassakalena"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -24,6 +24,6 @@ Kassakalena. A cave (probably in Ceylon), which was the residence of the Elder <
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassakalena. Một hang động (có lẽ là ở Tích Lan), từng là nơi cư trú của Trưởng lão Mahā Mitta (*q.v.*). Vibh­a.279f.; SN­a.iii.136f.
 
 ## Notes

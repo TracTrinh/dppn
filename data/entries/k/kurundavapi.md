@@ -5,7 +5,7 @@ base_headword: "Kurundavāpi"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kurundavāpi. A tank built by <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một hồ nước do Aggabodhi I. xây dựng (Cv.xlii.15; Cv.Trs.i.66, chú thích 6).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kitti"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kitti 02. Commander-in-chief of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kitti 02. Tổng tư lệnh của Kassapa Vikkamabāhu. Khi nhà vua băng hà, ông ta đã chiếm đoạt ngai vàng và trị vì trong tám ngày, cho đến khi bị Mahā Lāna Kitti giết chết. Cv.lvi.7f.
 
 ## Notes

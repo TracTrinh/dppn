@@ -5,7 +5,7 @@ base_headword: "Māluta"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Māluta. Twenty-nine thousand *kappas* ago there were eight kings of this name, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māluta. Hai mươi chín ngàn *kappa* trước đây có tám vị vua mang tên này, họ là các tiền kiếp của Nalamāliya (Kuṭivihāriya) Thera. Ap.i.144; Thag­a.i.132.
 
 ## Notes

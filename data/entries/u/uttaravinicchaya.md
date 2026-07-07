@@ -5,7 +5,7 @@ base_headword: "Uttaravinicchaya"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -36,6 +36,14 @@ The work has been published by the PTS (1928).
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttaravinicchaya. Một bản chú giải về Vinayapiṭaka, được Buddhadatta soạn như một bổ sung cho tác phẩm Vinayavinicchaya của chính ông.
+
+Trong các bản thảo, hai tác phẩm này thường được tìm thấy cùng nhau.
+
+Tác phẩm được tác giả dâng tặng cho một trong những học trò của ông là Saṅkhapāla.
+
+Vācissara đã viết một *ṭīkā* về nó. Gv.59, 62.
+
+Tác phẩm đã được PTS xuất bản (1928).
 
 ## Notes

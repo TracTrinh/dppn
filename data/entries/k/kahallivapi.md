@@ -5,7 +5,7 @@ base_headword: "Kāhallivāpi"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -25,6 +25,6 @@ Kāhallivāpi. A tank restored by <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāhallivāpi. Một cái hồ được phục hồi bởi Parakkamabāhu I. Cv.lxxix.37.
 
 ## Notes

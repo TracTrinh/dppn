@@ -5,7 +5,7 @@ base_headword: "Sikkhāsutta"
 disambiguator: "03"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Sikkhāsutta 03. A monk who returns to the lower life must blame himself for fiv
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sikkhāsutta 03. Một tỳ-kheo hoàn tục phải tự trách mình về năm điều: không có niềm tin vào những điều chân chính, không có sự tự trọng, không sợ hãi lỗi lầm, không có tinh tấn, không có tuệ giác về những điều chân chính. AN.iii.4.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Upananda"
 disambiguator: "03"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Upananda 03. Four <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upananda 03. Bốn vị Pacceka Buddhas, được đề cập trong Isigilisutta. MN.iii.70.
 
 ## Notes

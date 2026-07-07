@@ -5,7 +5,7 @@ base_headword: "Mahā Parakkama Thera"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Parakkama Thera. He belonged to Taungu in Burma, and settled the dispute r
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Parakkama Thera. Ngài thuộc về Taungu ở Miến Điện, và đã giải quyết cuộc tranh chấp liên quan đến việc các tỳ-kheo được phép uống nước cốt lên men của cây cọ dừa. Ngài đã viết Surāvinicchaya, một quyển sách đề cập đến chủ đề này. Sās., p.81.
 
 ## Notes

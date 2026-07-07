@@ -5,7 +5,7 @@ base_headword: "Kampilla"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -33,6 +33,10 @@ Once <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kampilla (Kampillaka, Kampilliya). Một thành phố ở Uttarapañcāla, và có lẽ là thủ đô của nó. Dummukha từng là vua của nó (Ja.iii.379; Ja.ii.214; cũng xem Mvu.i.283).
+
+Đôi khi (ví dụ, Ja.iii.79; iv.396; v.21; vi.391; 464) Kampilla được nói đến như là một vương quốc, trong đó Uttarapañcāla là một thành phố.
+
+Có lần Alīnasatta được gọi là Kampilla vì ông là vua của thành phố cùng tên. Ja.v.34; xem thêm *Rāmāyaṇa* i.34.
 
 ## Notes

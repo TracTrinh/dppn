@@ -5,7 +5,7 @@ base_headword: "Pañcasikkhāpadasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Pañcasikkhāpadasutta. On account of a common element those who commit the five
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcasikkhāpadasutta. Do một yếu tố chung mà những ai phạm năm điều ác như sát sinh, trộm cắp, v.v., sẽ kết giao với những người cũng làm như vậy. SN.ii.167.
 
 ## Notes

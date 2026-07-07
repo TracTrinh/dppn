@@ -5,7 +5,7 @@ base_headword: "Kāveri"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -29,6 +29,8 @@ This channel formed part of the irrigation system of <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāveri. Một con kênh chảy từ hồ chứa nước Giritalāka đến Kaddūravadhamāna.
+
+Con kênh này hình thành một phần của hệ thống thủy lợi của Parakkamabāhu I. Cv.lxxix.55.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kaṇḍari"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kaṇḍari. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇḍari. Vua xứ Benares; câu chuyện của ông được đưa ra trong Kaṇḍarijātaka (Ja 341).
 
 ## Notes

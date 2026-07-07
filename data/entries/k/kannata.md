@@ -5,7 +5,7 @@ base_headword: "Kaṇṇāta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kaṇṇāta. The name given in the <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇṇāta. Tên được đặt trong Cūḷa Vaṁsa cho những người Kanarese của Nam Ấn. Họ thường được nhắc đến như là những người lính đánh thuê ở Tích Lan, ví dụ, Cv.lv.12; lx.24, 26; lxx.230.
 
 ## Notes

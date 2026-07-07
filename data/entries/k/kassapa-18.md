@@ -5,7 +5,7 @@ base_headword: "Kassapa"
 disambiguator: "18"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -29,6 +29,6 @@ Kassapa 18. Younger brother of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapa 18. Em trai của Sena II và Udaya II. Ông làm *Mahādipāda* hoặc *Yuvarāja* dưới thời Udaya (Cv.li.91), và sau đó trở thành vua với tước hiệu Kassapa IV (896-913 CN) (Cv.lii.1ff). Con gái của ông là Sena đã kết hôn với Kassapa V (Cv.li.93)
 
 ## Notes

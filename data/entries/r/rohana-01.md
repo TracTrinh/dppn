@@ -5,7 +5,7 @@ base_headword: "Rohaṇa"
 disambiguator: "01"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rohaṇa 01. Grandfather of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rohaṇa 01. Ông nội của Migāra Rohaṇeyya (*q.v.*). AN­a.ii.697.
 
 ## Notes

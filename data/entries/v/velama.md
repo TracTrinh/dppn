@@ -5,7 +5,7 @@ base_headword: "Velāma"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -30,6 +30,8 @@ Velāma was exceedingly wealthy and wished to give alms. Therefore, turning his 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Velāma. Bodhisatta sinh ra làm vị đạo sĩ tế tự của Benares. Ngài là con trai của vị đạo sĩ tế tự tiền nhiệm, và cùng Thái tử đến Takkasilā để học tập. Tại đó, theo thời gian, ngài trở thành một vị đạo sư nổi tiếng, với tám vạn bốn ngàn vương tử trong số các học trò của mình. Sau đó, ngài trở thành đạo sĩ tế tự cho vua Benares. Hàng năm, tám vạn bốn ngàn vương tử đến Benares để đảnh lễ nhà vua, gây ra nỗi thống khổ lớn lao cho dân chúng. Họ than phiền với nhà vua, và nhà vua yêu cầu Velāma tìm cách giải quyết khó khăn này. Velāma đã phân định tám vạn bốn ngàn tỉnh thành cho các vương tử, và sau đó, họ lấy nguồn tiếp tế từ các lãnh thổ tương ứng của mình.
+
+Velāma vô cùng giàu có và muốn bố thí. Do đó, ngài dốc ngược bình nước của mình xuống, phát nguyện rằng nếu trên đời có những bậc thánh nhân, nước sẽ chảy xuống. Tuy nhiên, nước vẫn nằm trong bình. Sau đó ngài khám phá ra bằng cùng một phương pháp rằng những món quà của ngài sẽ không bị chê trách. Ngay sau đó ngài đã tổ chức những cuộc đại bố thí, trong bảy năm phân phát bảy loại đá quý và những món quà có giá trị lớn, đổ ra của cải của mình như thể "tạo thành một dòng chảy từ năm con sông lớn." Một danh sách những món quà của ngài được tìm thấy tại AN.iv.393f. Câu chuyện của Velāma được kể lại trong AN­a.ii.802ff.; nó được đề cập trong Velāmasutta và trong câu chuyện giới thiệu của Khadiraṅgārajātaka (*q.v.*). Việc bố thí của Velāma đã trở nên nổi tiếng trong văn học với tên gọi *Velāmamahāyañña*, ví dụ, MN­a.ii.616.
 
 ## Notes

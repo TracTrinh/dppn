@@ -5,7 +5,7 @@ base_headword: "Loharūpa"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -25,6 +25,6 @@ Loharūpa. The name given to an image of the Buddha, one of several in <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Loharūpa. Tên gọi của một tượng Phật, một trong số nhiều tượng ở Anurādhapura. Cv.xlix.17.
 
 ## Notes

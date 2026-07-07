@@ -5,7 +5,7 @@ base_headword: "Ruṇṇasutta"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Ruṇṇasutta. In the discipline of the Āriyans, singing is a lamentation, dan
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ruṇṇasutta. Trong kỷ luật của các bậc Thánh, ca hát là sự than khóc, nhảy múa là sự điên rồ, và cười vô độ là tính trẻ con. AN.i.261.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sīmālaṅkārasaṅgaha"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sīmālaṅkārasaṅgaha. A work on boundaries and sites for religious ceremoni
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīmālaṅkārasaṅgaha. Một tác phẩm về ranh giới và địa điểm cho các nghi lễ tôn giáo, do Vācissara của Tích Lan viết (Gv.62; Svd.1213). Chapaṭa đã viết một bản Chú giải về tác phẩm này. (Bode, 18; Svd.1247; Gv.64.
 
 ## Notes

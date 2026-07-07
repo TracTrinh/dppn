@@ -5,7 +5,7 @@ base_headword: "Kassapamandiyajātaka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -30,6 +30,8 @@ The story was told in reference to a nobleman of <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapamandiyajātaka (Ja 312). Có một lần, sau khi mẹ qua đời, Bodhisatta đã đem cho hết thảy tài sản trong nhà và, cùng với cha và em trai, sống như một đạo sĩ trong rừng Himālaya. Trong suốt mùa mưa, ba người đi xuống những nơi có người ở và vào cuối mùa mưa thì trở về am thất. Bodhisatta đi trước để dọn dẹp am thất, để cha và em trai theo sau. Cậu thiếu niên, thấy cha đi quá chậm chạp, đã cố gắng thúc giục cha, làm cho người cha rất bực mình. Hai người cãi nhau, và do đó đến quá muộn khiến Bodhisatta phải đi tìm họ. Khi nghe chuyện đã xảy ra, ngài nói với người cha, vốn tên là Kassapa, rằng người già nên kiên nhẫn với người trẻ tuổi.
+
+Câu chuyện được kể liên quan đến một nhà quý tộc ở Sāvatthī, người đã xuất gia và, khi mẹ ông qua đời, cha và em trai ông cũng gia nhập Saṅgha. Cả ba đi đến một ngôi làng hẻo lánh để nhận y phục, và mọi chuyện đã xảy ra giống như trong quá khứ. Kết quả là, mãi cho đến ngày hôm sau họ mới có thể đến đảnh lễ Đức Phật, ngài đã nghe được những gì đã xảy ra, và kể lại Jātaka này. Ja.iii.36-9.
 
 ## Notes

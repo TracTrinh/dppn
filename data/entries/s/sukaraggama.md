@@ -5,7 +5,7 @@ base_headword: "Sūkaraggāma"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Sūkaraggāma. A fortress in the <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sūkaraggāma. Một pháo đài ở Dakkhiṇadesa của Tích Lan, được đề cập trong lời tường thuật về những cuộc chiến của Gajabāhu. Cv.lxx.134.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Khandhasutta"
 disambiguator: "02"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -23,6 +23,6 @@ Khandhasutta 02. The four kinds of recluses – *Samaṇamacala*, *Samaṇapuṇ
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khandhasutta 02. Bàn về bốn hạng sa-môn – Samaṇamacala, Samaṇapuṇḍārika, Samaṇapaduma, và Samaṇasukhumāla – liên quan đến sự quán chiếu về năm upādānakkhandha. AN.ii.90f.
 
 ## Notes

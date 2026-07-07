@@ -5,7 +5,7 @@ base_headword: "Mahā Sena"
 disambiguator: "03"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -47,6 +47,6 @@ Mahā Sena 03. Younger son of King <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sena 03. Con trai thứ của Vua Goṭhābhaya. Ông trở thành vua của Tích Lan (334-361 SCN.), và dưới sự cố vấn của vị thầy của mình là Saṅghamitta và vị đại thần Soṇa, ông đã tước đoạt Mahā Vihāra và làm giàu cho Abhayagiri. Ông ban hành một sắc lệnh rằng không ai được cúng dường vật thực cho các tỳ-kheo của Mahā Vihāra. Tuy nhiên, về sau, người bạn và cũng là đại thần của ông, Meghavaṇṇābhaya, đã thuyết phục ông về lỗi lầm của mình, và ông trở thành một người hộ độ của Mahā Vihāra. Tuy nhiên, ngay sau đó, ông lại rơi vào sự ảnh hưởng của một tỳ-kheo, tên là Tissa, và đã xây dựng *vihāra* Jetavana trong khuôn viên của Mahā Vihāra, bất chấp sự phản đối của các tỳ-kheo. Tissa về sau đã bị trục xuất khỏi Tăng đoàn. Nhà vua đã xây dựng các *vihāra* Maṇihīra, Gokaṇṇa, Erakāvilla, Kalandagāma, Migagāma, Gaṅgāsenakapabbata, Dhātusenapabbata, Kokavāta, Rūpārāma, và Hulapiṭṭhi và hai ni viện Uttara và Abhaya. Ông cũng xây dựng mười sáu hồ chứa nước và một con kênh lớn tên là Pabbatanta. (Dpv.xxii.66-76; Mhv.xxxvii.1ff). Sirimeghavaṇṇa là con trai của Mahā Sena. Cv.xxxvii.53.
 
 ## Notes

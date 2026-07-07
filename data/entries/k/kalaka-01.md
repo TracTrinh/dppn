@@ -5,7 +5,7 @@ base_headword: "Kāḷaka"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -36,6 +36,8 @@ AN­a.ii.482f; but see Dhp­a.iii.465f, where the *seṭṭhi*’s name is given
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷaka 01. Một trưởng giả của Sāketa. Con trai của ông là chồng của Cūḷa Subhaddā (xem ở mục từ tương ứng) và do đó là con rể của Anāthapiṇḍika. Kāḷaka là người đi theo các Nigaṇṭha. Khi Đức Phật viếng thăm Sāketa, theo lời thỉnh cầu của Cūḷa Subhaddā, Kāḷaka đã lắng nghe bài thuyết pháp của Ngài và trở thành một *Sotāpanna*. Ông đã dâng cúng công viên của mình, Kāḷakārāma, cho Đức Phật, và xây dựng một *vihāra* ở đó sau khi dùng vũ lực đuổi các Nigaṇṭha, những người đang chiếm giữ nơi này, ra khỏi đó.
+
+AN­a.ii.482f; nhưng xem Dhp­a.iii.465f, ở đó tên của vị trưởng giả được cho là Ugga của Uggapura; xem thêm Divy.402, ở đó tên của thành phố là Puṇḍavardhana và tên con gái của Anāthapiṇḍika là Sumāgadhā.
 
 ## Notes

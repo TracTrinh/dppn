@@ -5,7 +5,7 @@ base_headword: "Lokakāmaguṇavagga"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -25,6 +25,6 @@ Lokakāmaguṇavagga. The twelfth chapter of the <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lokakāmaguṇavagga. Chương thứ mười hai của Saḷāyatanasaṁyutta. SN.iv.91-109.
 
 ## Notes

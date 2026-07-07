@@ -5,7 +5,7 @@ base_headword: "Khemā"
 disambiguator: "07"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -29,6 +29,6 @@ Khemā 07. Queen Consort of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khemā 07. Hoàng hậu của Brahmadatta, vua xứ Benares (Ja.iv.413). Câu chuyện của bà tương tự như của Khemā (5). Bà được đồng nhất với Khemā Therī (Ja.iv.423). Xem Rohantamigajātaka (Ja 501).
 
 ## Notes

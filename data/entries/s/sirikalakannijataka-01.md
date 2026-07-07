@@ -5,7 +5,7 @@ base_headword: "Sirikālakaṇṇijātaka"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sirikālakaṇṇijātaka 01. (Ja 192). Another name for the <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirikālakaṇṇijātaka 01. (Ja 192). Tên khác của Sirikālakaṇṇipañha (xem từ này).
 
 ## Notes

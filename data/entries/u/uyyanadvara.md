@@ -5,7 +5,7 @@ base_headword: "Uyyānadvāra"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -26,6 +26,6 @@ Uyyānadvāra. A gate in <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uyyānadvāra. Một cổng thành ở Pulatthipura, được Parakkamabāhu I. xây dựng. Cv.lxxiii.162.
 
 ## Notes

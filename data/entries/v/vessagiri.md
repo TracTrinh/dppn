@@ -5,7 +5,7 @@ base_headword: "Vessagiri"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/066.html"
@@ -32,6 +32,6 @@ Vessagiri. A monastery in Ceylon, near <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vessagiri. Một tu viện ở Tích Lan, gần Anurādhapura. Nó được Devānampiyatissa xây dựng cho năm trăm người *Vessas* (thương gia), những người đã được Mahinda thọ giới (Mhv.xx.15; Mhv.Trs. 137, n.3). Gần tu viện có một khu rừng, nơi Vaṭṭagāmaṇī, trong lúc chạy trốn, đã giấu bình bát của Đức Phật. Tại đó ông cũng đã gặp Trưởng lão *Kupikkala* Mahā Tissa (Mhv.xxxiii.48f). Bình bát đã được phát hiện và bị một người Damiḷa mang đến Ấn Độ, nhưng sau đó đã được thu hồi (Mhv.xxxiii.55). Ở phía nam của Vessagiri là Pabbatavihāra, và, gần đó là ngôi làng Silāsobbhakaṇḍaka. Mhv­ṭ.616.
 
 ## Notes

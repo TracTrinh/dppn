@@ -5,7 +5,7 @@ base_headword: "Kāmasutta"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -24,6 +24,6 @@ Kāmasutta 02. Contains questions asked by a *Deva* and the Buddha’s answers t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāmasutta 02. Chứa đựng những câu hỏi do một thiên nhân (*Deva*) đưa ra và những câu trả lời của Đức Phật cho những câu hỏi đó. Một người không nên trở thành nô lệ hoặc tự nộp mình làm con mồi cho kẻ khác và lời nói phải luôn ôn hòa. SN.i.44.
 
 ## Notes

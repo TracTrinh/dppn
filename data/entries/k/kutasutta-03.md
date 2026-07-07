@@ -5,7 +5,7 @@ base_headword: "Kūṭasutta"
 disambiguator: "03"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -24,6 +24,6 @@ Kūṭasutta 03. Just as all the rafters slope to the peak, so do the seven *boj
 
 ## Vietnamese translation
 
-Chưa dịch.
+Giống như tất cả các thanh rui đều dốc về phía đỉnh mái ngói nhọn, vì thế bảy *bojjhaṅga* đều hướng về *Nibbāna*. SN.v.75.
 
 ## Notes

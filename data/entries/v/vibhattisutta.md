@@ -5,7 +5,7 @@ base_headword: "Vibhattisutta"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vibhattisutta. Preached by <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vibhattisutta. Được Sāriputta thuyết giảng về bốn nhánh của tuệ phân tích (analytical knowledge): nghĩa (*attha*); các điều kiện (*dhammā*); định nghĩa (*nirutti*); trí tuệ (*paṭibhāna*). AN.ii.159f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Romasa"
 disambiguator: "01"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Romasa 01. A mountain in <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Romasa 01. Một ngọn núi ở Himavā. Ap.i.232, 453; Thag­a.i.399.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Verocana"
 disambiguator: "03"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Verocana 03. A jewel, given to <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Verocana 03. Một viên ngọc, được Sakka trao cho Kusa khi ông ra ngoài chiến đấu chống lại bảy vị vua đã đến cầu hôn Pabhāvatī. Ja.v.310, 311.
 
 ## Notes

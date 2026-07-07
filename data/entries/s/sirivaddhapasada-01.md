@@ -5,7 +5,7 @@ base_headword: "Sirivaḍḍhapāsāda"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sirivaḍḍhapāsāda 01. One of the chief buildings of the <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirivaḍḍhapāsāda 01. Một trong những công trình chính của Upāsikāvihāra; về sau nó được gọi là Ariṭṭhathapitaghara. Mhv­ṭ. 408, 409.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Lohakumbha"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -32,6 +32,8 @@ It is said (Mhv.iv.38) that when <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lohakumbha, Lohakumbhī, Lohitakumbhiya. Một địa ngục (Niraya). Chúng sinh sinh ở đó chịu đựng sức nóng quá mức (Snp­a.i.59; Ja.iii.22; v. 269). Địa ngục (Niraya) này trải rộng dưới toàn bộ mặt đất và sâu bốn *nahutas* và một trăm nghìn *yojanas*. Nó giống như một vạc đồng chứa đầy kim loại nóng chảy đến tận miệng (Snp­a.ii.480).
+
+Được nói (Mhv.iv.38) rằng khi Kāḷāsoka cố mở rộng sự bảo trợ của mình cho các tỳ-kheo Vajjiputtaka, chư thiên đã làm ông kinh hãi với một giấc mơ rằng ông đã bị ném vào Lohakumbhī. Xem thêm Lohakumbhījātaka (Ja 314).
 
 ## Notes

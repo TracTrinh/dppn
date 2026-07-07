@@ -5,7 +5,7 @@ base_headword: "Kāḷakaṇṇī"
 disambiguator: "03"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -31,6 +31,6 @@ Kāḷakaṇṇī 03. Daughter of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷakaṇṇī 03. Con gái của Virūpakkha. Cô đã có một cuộc tranh chấp với Sirī, con gái của Dhataraṭṭha, về thứ tự ưu tiên của họ khi tắm ở Anotatta. Câu chuyện được đưa ra trong Siri Kāḷakaṇṇījātaka (Ja.iii.257ff). Trong câu chuyện, cô cũng được gọi là Kāḷī (Ja.iii.261). Ở một nơi khác, cô được nhắc đến là Alakkhī. Ja.iv.378.
 
 ## Notes

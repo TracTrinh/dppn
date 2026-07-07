@@ -5,7 +5,7 @@ base_headword: "Taṇḍulanālijātaka"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -32,6 +32,10 @@ The story was told in reference to <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Taṇḍulanālijātaka (Ja 5). Thuở nọ Bodhisatta làm quan định giá cho nhà vua Benares, và ngài luôn luôn giao dịch một cách công bằng với ông. Nhà vua vốn tham lam, và cho rằng quan định giá của mình đã trả quá nhiều tiền cho những món đồ mua vào cung điện, nên ông đã bổ nhiệm vào vị trí đó một gã nhà quê mà ông tình cờ thấy đi ngang qua. Gã đàn ông này ấn định giá cả theo ý thích riêng của mình. Một hôm, có một thương gia bán ngựa mang năm trăm con ngựa đến từ Uttarāpatha, và vị quan định giá này đã định giá toàn bộ đàn ngựa bằng một đấu gạo duy nhất. Người thương gia bán ngựa tìm đến hỏi ý kiến Bodhisatta, và ngài gợi ý rằng nên hỏi vị quan định giá xem một đấu gạo trị giá bao nhiêu. Người thương gia bán ngựa đến gặp nhà vua, và, trước sự chứng kiến của triều đình, hỏi quan định giá về giá trị của một đấu gạo. Gã đàn ông trả lời rằng nó đáng giá bằng toàn bộ Benares và các vùng ngoại ô của kinh thành. Các quan đại thần bật cười, khiến nhà vua bẽ mặt. Ông sa thải tên ngốc và phục chức cho Bodhisatta.
+
+Câu chuyện này được kể lại liên quan đến Lāḷudāyi, người đã có một cuộc tranh cãi với Dabba Mallaputta về việc phân phát thẻ nhận thức ăn. Sau đó các tỳ-kheo đã yêu cầu Lāḷudāyi đảm nhận nhiệm vụ này. Ông đã làm việc đó một cách tồi tệ đến mức gây ra sự hỗn loạn lớn, và sự việc được bẩm báo lên Đức Phật, ngài đã kể lại câu chuyện trên để chỉ ra rằng trong quá khứ, sự ngu xuẩn của ông ta cũng đã cướp đi lợi nhuận của những người khác.
+
+Lāḷudāyi được nhận diện là tên quan định giá giả mạo. Ja.i.123-26.
 
 ## Notes

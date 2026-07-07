@@ -5,7 +5,7 @@ base_headword: "Rūpārammavihāra"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rūpārammavihāra. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rūpārammavihāra. *v.l.* Thūpārāmavihāra. Một tu viện ở Tích Lan được xây dựng bởi vua Mahā Sena (Mhv.xxxvii.43; Mhv­ṭ. 684).
 
 ## Notes

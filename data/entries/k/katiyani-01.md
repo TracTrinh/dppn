@@ -5,7 +5,7 @@ base_headword: "Kātiyānī"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -30,6 +30,6 @@ Kātiyānī 01. (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kātiyānī 01. (biến thể Kaccānī). Một nữ cư sĩ được Đức Phật tuyên bố là xuất sắc nhất trong số những người nữ về lòng tín tâm kiên định (aveccappasāda) (AN.i.26). Bà đã phát nguyện giành được địa vị xuất sắc này vào thời của Đức Phật Padumuttara. Trong kiếp này, bà sinh ra ở thành phố Kuraraghara và có một người bạn trung thành tên là Kāḷī. Một ngày nọ, bà cùng Kāḷī đi nghe Trưởng lão Soṇa Kuṭikaṇṇa thuyết pháp cho mẹ của ngài, và trong lúc bà ở đó, những tên cướp đã đột nhập vào nhà bà. Người tớ gái, được cử đi lấy dầu để thắp đèn, đã mang tin về sự xuất hiện của những tên cướp, nhưng Kātiyānī đã từ chối rời đi cho đến khi bài pháp của vị Trưởng lão kết thúc. Tên thủ lĩnh của băng cướp, người đã chứng kiến vụ việc, cảm thấy rất hài lòng với bà đến nỗi hắn ra lệnh trả lại tất cả đồ đạc đã lấy cắp từ nhà bà. Vào cuối bài pháp, Kātiyānī đã trở thành một bậc Sotāpanna. Ngày hôm sau, những tên cướp đã đến và xin bà tha thứ. Bà đã đưa họ đến gặp vị Trưởng lão, ngài đã cho họ xuất gia, và tại đó tất cả họ đều trở thành những bậc Arahant. AN­a.i.245f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Lakhumā"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -28,6 +28,6 @@ Lakhumā. A woman who lived near <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lakhumā. Một người phụ nữ sống gần làng Kevaṭṭadvāra, gần Benares. Bà sùng đạo và bố thí cho nhiều vị thánh tăng, lắng nghe pháp của họ và trở thành một *Sotāpanna*. Sau khi mất, bà tái sinh trong một *vimāna* ở Tāvatiṁsa và tại đó có một cuộc trò chuyện với Moggallāna, cuối cuộc trò chuyện đó bà trở thành một *Sakadāgāmī*. Vv.ii.2; Vv-a.97f.
 
 ## Notes

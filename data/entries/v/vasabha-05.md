@@ -5,7 +5,7 @@ base_headword: "Vasabha"
 disambiguator: "05"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -39,6 +39,8 @@ In the past, when the world was without a Buddha, Vasabha was a <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vasabha Thera. Ngài xuất thân từ một gia đình của một *rājā* thuộc tộc Licchavī ở Vesālī và gia nhập Tăng đoàn khi Đức Phật đến thăm thị trấn đó, rồi đạt được quả vị *Arahant* vào thời điểm thích hợp. Theo các vần kệ trong Apadāna được trích dẫn, ngài sinh ra ở Sāvatthī và được thọ giới dưới sự hướng dẫn của Sāriputta vào lúc bảy tuổi. Vì lòng bi mẫn đối với các thí chủ của mình, ngài thọ dụng những gì nhận được từ họ; những người có tâm trí tầm thường do đó cho ngài là tự nuông chiều bản thân. Sống gần ngài có một tu sĩ dối trá đã lừa gạt mọi người bằng cách giả vờ sống một cuộc sống giản dị và được họ tôn kính rất nhiều. Sakka, nhận ra điều này, đã đến thăm Vasabha và hỏi ngài về các hành vi của một kẻ mạo danh. Vị Trưởng lão đã trả lời bằng hai vần kệ (Thag.139-40), và Sakka sau đó đã cảnh cáo kẻ mạo danh và rời đi.
+
+Trong quá khứ, khi thế gian không có một vị Phật nào, Vasabha là một Jaṭila tên là Nārada trên *pabbata* Samagga, với đoàn tùy tùng mười bốn ngàn người. Thấy không có ai xứng đáng để đảnh lễ, ngài đã làm một *cetiya* bằng cát trên bờ Sông Apadikā, nhân danh chư Phật, mạ vàng nó và dâng lòng tôn kính của mình. Tám mươi lần ngài là vua của chư thiên và ba trăm lần là vua của loài người (Thag­a.i.257ff). Ngài hiển nhiên được đồng nhất với Puliṇathūpiya của Apadāna. Ap.ii.437f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kuṇḍalī"
 disambiguator: "03"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -28,6 +28,6 @@ Kuṇḍalī 03. The name of a *vimāna* in <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tên của một *vimāna* ở Tāvatiṁsa. Trong *vimāna* này, một người đàn ông từng chăm sóc cho Sāriputta và Moggallāna và phục vụ họ khi họ ở lại trong một *vihāra* tại Kāsi đã được sinh ra. Vv.vi.8; Vv-a.295f.
 
 ## Notes

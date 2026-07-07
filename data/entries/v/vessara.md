@@ -5,7 +5,7 @@ base_headword: "Vessara"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/066.html"
@@ -24,6 +24,6 @@ Vessara. A pleasance in which <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vessara. Một khu hoa viên nơi Maṅgala Buddha viên tịch. Bv.iv.32.
 
 ## Notes

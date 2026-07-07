@@ -5,7 +5,7 @@ base_headword: "Yaṭṭhālayavihāra"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -26,6 +26,6 @@ Yaṭṭhālayavihāra. A *vihāra* in <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yaṭṭhālayavihāra. Một *vihāra* (tu viện) ở Rohaṇa, nơi Yaṭṭhālayatissa được sinh ra. Mhv.xxii.10.
 
 ## Notes

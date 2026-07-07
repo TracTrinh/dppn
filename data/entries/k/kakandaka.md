@@ -5,7 +5,7 @@ base_headword: "Kākaṇḍaka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -26,6 +26,6 @@ Kākaṇḍaka. A Brahmin, father of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kākaṇḍaka. Một Bà-la-môn, cha của Trưởng lão Yasa*,* người sau này thường được gọi là Yasa *Kākaṇḍakaputta* (*q.v.*). Mhv.iv.12, 49, 57, v.v.; Dpv.v.23; Mbv.96.
 
 ## Notes

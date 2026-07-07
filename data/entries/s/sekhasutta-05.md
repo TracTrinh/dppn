@@ -5,7 +5,7 @@ base_headword: "Sekhasutta"
 disambiguator: "05"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -23,6 +23,6 @@ Sekhasutta 05. On seven things: the six given in *Sutta* (4), to which is added 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sekhasutta 05. Về bảy điều: sáu điều đã nêu trong *Sutta* (4), cộng thêm không chú tâm đến công việc của Tăng đoàn. AN.iv.24.
 
 ## Notes

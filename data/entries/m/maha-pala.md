@@ -5,7 +5,7 @@ base_headword: "Mahā Pāla"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Pāla. The original name of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Pāla. Tên gốc của Cakkhupāla. Dhp­a.i.4.
 
 ## Notes

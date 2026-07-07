@@ -5,7 +5,7 @@ base_headword: "Khemā"
 disambiguator: "06"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -28,6 +28,6 @@ Khemā 06. Chief queen of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khemā 06. Chánh hậu của Brahmadatta, vua xứ Benares (Ja.iv.334). Câu chuyện của bà tương tự như của Khemā (4). Để biết chi tiết, xem Mahā Morajātaka (Ja 491).
 
 ## Notes

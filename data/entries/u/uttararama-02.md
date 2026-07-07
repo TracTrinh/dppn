@@ -5,7 +5,7 @@ base_headword: "Uttarārāma"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uttarārāma 02. The monastery where <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttarārāma 02. Tu viện nơi Maṅgala Buddha tổ chức Đại Hội Chúng (*Sannipāta*) lần thứ hai trước sự hiện diện của các bà con của ngài. Bv­a.120.
 
 ## Notes

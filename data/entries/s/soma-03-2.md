@@ -5,7 +5,7 @@ base_headword: "Somā"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Somā 03. An eminent Therī of Ceylon, expert in the Vinaya. Vin.xviii.14.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Somā 03. Một Therī nổi bật ở Tích Lan, tinh thông về Vinaya. Vin.xviii.14.
 
 ## Notes

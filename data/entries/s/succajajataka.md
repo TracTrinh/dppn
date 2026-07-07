@@ -5,7 +5,7 @@ base_headword: "Succajajātaka"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -29,6 +29,8 @@ The story was told to a landowner of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Succajajātaka (Ja 320). Bodhisatta từng là quan đại thần của vị vua xứ Benares, và nhà vua, vì sợ hãi con trai mình, là vị phó vương, đã ra lệnh rằng vị này phải sống bên ngoài thành phố. Do đó, vị phó vương đã cùng vợ rời khỏi thành phố và sống trong một túp lều ở một ngôi làng biên giới. Khi phát hiện ra, nhờ quan sát các vì sao, rằng nhà vua đã băng hà, vị ấy cùng vợ trở về để kế vị ngai vàng. Trên đường đi họ đi ngang qua một ngọn núi, và người vợ hỏi: "Nếu ngọn núi này bằng vàng ròng, chàng có cho thiếp một chút nào không?" "Dù chỉ là một mảy may cũng không," ông ta trả lời, và bà ấy đã bị tổn thương sâu sắc. Bà trở thành hoàng hậu, nhưng không được nhà vua thể hiện chút sự tôn trọng hay vinh dự nào. Bodhisatta, khi nhận thấy điều này, đã gạn hỏi bà và bảo bà hứa sẽ nhắc lại câu chuyện của mình trước mặt nhà vua. Bà đã làm như vậy, và nhà vua, nhận ra tình cảm của bà dành cho mình, đã ban mọi sự vinh dự cho bà.
+
+Câu chuyện được kể cho một người chủ đất ở Sāvatthī, người đã cùng vợ đi đòi một khoản nợ. Họ nhận được một cỗ xe bò như là để trừ nợ, và sau khi gửi nó lại cho những người bạn, họ đang trên đường về nhà thì nhìn thấy một ngọn núi, và một cuộc trò chuyện, giống hệt với cuộc trò chuyện ở trên, đã diễn ra. Khi đến Sāvatthī, họ đã đi đến Jetavana, và khi Đức Phật hỏi người vợ liệu bà có đang hạnh phúc không, bà đã kể lại cho Ngài nghe những gì đã xảy ra. Đức Phật sau đó đã kể lại câu chuyện về nhà vua và hoàng hậu, những người chính là người chủ đất và vợ của ông ta. Vào cuối câu chuyện họ đã trở thành những vị *Sotāpanna*. Ja.iii.66-70.
 
 ## Notes

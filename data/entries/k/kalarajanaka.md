@@ -5,7 +5,7 @@ base_headword: "Kāḷārajanaka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -30,6 +30,8 @@ Kāḷārajanaka was so-called because he had long, projecting teeth (MN­a.ii.7
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷārajanaka. Vua của Mithilā. Ông là con trai của Nimi và thuộc về vương triều Makhādeva. Trong khi những vị vua khác thuộc dòng dõi của ông đã rời bỏ gia đình khi tuổi già đến gần, ông đã phá vỡ truyền thống bằng cách không làm như vậy. Ông là vị vua cuối cùng của vương triều này. Con trai của ông được gọi là Samaṅkara. MN.ii.82; DN­a.iii.851; Mhv.ii.11; Dpv.iii.37; nhưng xem Ja.vi.129, ở đó, ông cũng được cho là đã từ bỏ thế gian và đã đưa dòng họ đến hồi kết thúc.
+
+Kāḷārajanaka được gọi như vậy vì ông có những chiếc răng dài, nhô ra (MN­a.ii.738).
 
 ## Notes

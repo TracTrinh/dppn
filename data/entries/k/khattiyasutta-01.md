@@ -5,7 +5,7 @@ base_headword: "Khattiyasutta"
 disambiguator: "01"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -23,6 +23,6 @@ Khattiyasutta 01. A conversation between a *Devatā* and the Buddha regarding th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khattiyasutta 01. Một cuộc trò chuyện giữa một Devatā và Đức Phật về bốn điều tốt nhất trên thế gian – tốt nhất trong các loài hai chân, bốn chân, trong số các người vợ và trong số các người con. SN.i.6.
 
 ## Notes

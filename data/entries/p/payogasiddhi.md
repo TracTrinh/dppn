@@ -5,7 +5,7 @@ base_headword: "Payogasiddhi"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Payogasiddhi. A Pāli grammatical work, belonging to the <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Payogasiddhi. Một tác phẩm ngữ pháp tiếng Pāli, thuộc về trường phái Moggallāna, bởi Vanaratana Medhaṅkara. PLC.230f.
 
 ## Notes

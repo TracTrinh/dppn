@@ -5,7 +5,7 @@ base_headword: "Vālikārāma"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -30,6 +30,6 @@ Vālikārāma. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vālikārāma. *v.l.* Vālukārāma. Một tu viện ở Vesālī, nơi vấn đề về Mười Điều do các tỳ-kheo Vajjiputta (*q.v.*) nêu ra được giải quyết (Vin.ii.306; Mhv.iv. 50, 63; theo Dpv.v.29 điều này được thực hiện tại Kuṭāgārasāla). Nơi đây cũng là chỗ ở của Upāli, người thầy của Dāsaka (Mhv.v.107).
 
 ## Notes

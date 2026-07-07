@@ -5,7 +5,7 @@ base_headword: "Subhadda"
 disambiguator: "07"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Subhadda 07. A lay disciple of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subhadda 07. Một nam cư sĩ đệ tử ở Nāṭikā. Vị ấy là một *Anāgāmī* (Bất lai) và đã được tái sinh vào Suddhāvāsā (Tịnh Cư thiên), không bao giờ còn tái sinh (ở cõi dục) nữa. DN.ii.92; SN.v.348f.
 
 ## Notes

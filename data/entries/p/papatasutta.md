@@ -5,7 +5,7 @@ base_headword: "Papātasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Papātasutta. The Buddha once went with some monks to <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Papātasutta. Một lần Đức Phật cùng một số tỳ-kheo đi đến Paṭibhāṇakūṭa để nghỉ trưa, và một vị tỳ-kheo nhìn thấy vực thẳm bên dưới họ, liền hỏi liệu có vực thẳm nào sâu hơn thế không. Đức Phật đáp, có, đó là vực thẳm của sự vô minh về bản chất của dukkha. SN.v.448f.
 
 ## Notes

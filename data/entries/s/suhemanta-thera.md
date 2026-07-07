@@ -5,7 +5,7 @@ base_headword: "Suhemanta Thera"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -30,6 +30,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suhemanta Thera. Ông thuộc một gia đình Bà-la-môn giàu có ở một vương quốc biên giới. Một ngày nọ, ông nghe Đức Phật thuyết pháp tại Vườn Lộc Uyển ở Saṅkassa, và, sau khi gia nhập Tăng đoàn, trở thành một người tụng đọc *Tipiṭaka*, đạt được quả vị *Arahant* vào đúng thời điểm. Sau đó ông trở thành một vị đạo sư và người cố vấn cho các tỳ-kheo, chỉ dẫn họ và giải quyết những khó khăn của họ.
+
+Trong thời của Tissa Buddha ông là một người sống trong rừng, và, nhìn thấy Đức Phật ở dưới gốc cây, đã dâng lên ngài những bông hoa *punnāga*. Chín mươi mốt *kappa* trước ông từng là một vị vua, tên là Tamonuda (Thag.vs.106; Thag­a.i.212f). Rõ ràng ông đồng nhất với Punnāgapupphiya của Apadāna. Ap.i.180.
 
 ## Notes

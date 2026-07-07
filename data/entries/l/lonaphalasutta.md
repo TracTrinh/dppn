@@ -5,7 +5,7 @@ base_headword: "Loṇaphalasutta"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -24,6 +24,6 @@ Loṇaphalasutta. There are certain persons, careless in habits of body and thou
 
 ## Vietnamese translation
 
-Chưa dịch.
+Loṇaphalasutta. Có một số người, cẩu thả trong các thói quen về thân và ý niệm, không có sự sáng suốt – thậm chí một lỗi lầm nhỏ cũng đưa những người như vậy xuống địa ngục, trong khi những người khác thì chuộc lại một lỗi lầm nhỏ tương tự ngay trong đời này. Một hạt muối ném vào một chén nước nhỏ khiến nó không thể uống được, nhưng trường hợp này không xảy ra nếu nó được ném vào một con sông. Cùng một ý tưởng đó được minh họa bằng các phép so sánh khác. AN.i.248ff.
 
 ## Notes

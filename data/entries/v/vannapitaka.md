@@ -5,7 +5,7 @@ base_headword: "Vaṇṇapiṭaka"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -24,6 +24,6 @@ Vaṇṇapiṭaka. A compilation condemned by the orthodox as *abuddhavacana*, e
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaṇṇapiṭaka. Một bộ sưu tập bị phái chính thống lên án là phi Phật ngôn (*abuddhavacana*), vd., SN­a.ii.150; Vin-a.iv.742.
 
 ## Notes

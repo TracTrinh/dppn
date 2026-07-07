@@ -5,7 +5,7 @@ base_headword: "Upatissa"
 disambiguator: "12"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Upatissa 12. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upatissa 12. Trưởng lão Upatissa. Đôi khi được gọi là *Arahā* Upatissa, tác giả của *Vimuttimagga* (PLC 12. 86). Ông có lẽ sống vào khoảng thế kỷ thứ nhất trước Công nguyên. JPTS 1919, pp.69ff; xem thêm NidA. (PTS); introd. vi f.
 
 ## Notes

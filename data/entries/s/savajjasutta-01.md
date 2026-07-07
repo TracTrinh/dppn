@@ -5,7 +5,7 @@ base_headword: "Sāvajjasutta"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Sāvajjasutta 01. Blameworthy actions of body, speech and mind, lead to *Niraya*
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāvajjasutta 01. Những hành động đáng chê trách của thân, khẩu và ý dẫn đến địa ngục (Niraya); những điều trái ngược dẫn đến cõi trời. AN.i.292.
 
 ## Notes

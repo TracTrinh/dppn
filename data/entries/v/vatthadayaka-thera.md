@@ -5,7 +5,7 @@ base_headword: "Vatthadāyaka Thera"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -27,6 +27,6 @@ Vatthadāyaka Thera. An *Arahant*. In the time of <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị *Arahant*. Vào thời của Atthadassī Buddha, ngài là một *Garuḷa*, và, nhìn thấy Đức Phật trên đường đến Gandhamādana, ngài đã dâng cúng cho Ngài một bộ y. Ba mươi sáu *kappa* trước ngài là vua bảy lần dưới tên gọi Aruṇaka. Ap.i.116.
 
 ## Notes

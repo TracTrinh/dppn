@@ -5,7 +5,7 @@ base_headword: "Pariññeyyasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Pariññeyyasutta. The All should be fully known. SN.iv.29.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pariññeyyasutta. Tất cả mọi thứ nên được nhận biết đầy đủ. SN.iv.29.
 
 ## Notes

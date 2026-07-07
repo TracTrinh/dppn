@@ -5,7 +5,7 @@ base_headword: "Somanassā"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Somanassā. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Somanassā. Vợ của Siddhattha Buddha trước khi xuất gia. Bv­a.185; nhưng Bv.xvii. gọi bà là Sumanā.
 
 ## Notes

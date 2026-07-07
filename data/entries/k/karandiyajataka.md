@@ -5,7 +5,7 @@ base_headword: "Kāraṇḍiyajātaka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -30,6 +30,8 @@ The story was told in reference to <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāraṇḍiyajātaka (Ja 356). Có một thời Bodhisatta là một thanh niên Bà-la-môn tên là Kāraṇḍiya, ở Benares. Ông trở thành đệ tử đứng đầu của một giáo viên nổi tiếng thế giới ở Takkasilā, người có thói quen giảng dạy các quy tắc đạo đức cho bất kỳ ai mà ông ta gặp bất kể sự phù hợp của họ để tiếp nhận nó. Một ngày nọ, Kāraṇḍiya được giáo viên của mình cử đi cùng với các đồng tu của mình để tiếp nhận một số bánh ngọt được dâng cúng bởi những người dân của một ngôi làng và mang phần của giáo viên về. Trên đường trở về, Kāraṇḍiya nhìn thấy một hang động và bắt đầu ném đá vào đó. Khi được những cậu bé khác kể về điều này, vị giáo viên đã tra hỏi Kāraṇḍiya, người đã trả lời rằng tham vọng của cậu là làm cho toàn bộ thế giới bằng phẳng. Nếu giáo viên của cậu nghĩ rằng ông ta có thể làm cho toàn bộ thế giới có đạo đức, tại sao chính cậu lại không nên làm cho nó bằng phẳng? Vị giáo viên đã hiểu và chấp nhận bài học.
+
+Câu chuyện được kể liên quan đến Sāriputta người đã thuyết pháp cho tất cả những ai tìm đến ông, bao gồm cả những thợ săn và ngư dân. Họ lắng nghe ông với sự tôn kính, nhưng đã không thể làm theo giáo lý của ông. Trước sự phản đối của các đồng tu, Sāriputta đã cảm thấy bị xúc phạm, và vấn đề này đã đến tai Đức Phật. Sāriputta được đồng nhất với vị giáo viên thời xưa. Ja.iii.170-4.
 
 ## Notes

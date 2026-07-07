@@ -5,7 +5,7 @@ base_headword: "Kokālikasutta"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -30,6 +30,6 @@ Kokālikasutta 02. Gives the story of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kokālikasutta 02. Cung cấp câu chuyện về Kokālika (2) nói xấu Sāriputta và Moggallāna trước mặt Đức Phật, về cơn bạo bệnh và cái chết của Kokālika, về lời quở trách ông ta của Tudu, và về thông báo cái chết của ông ta và sự tái sinh tiếp theo trong Padumaniraya của Sahampati gửi đến Đức Phật. Một vị tỳ-kheo chất vấn Đức Phật về thời gian chịu khổ trong Padumaniraya, và Đức Phật tiếp tục giảng dạy cho vị ấy thông qua nhiều ví dụ minh họa. Bài *Sutta* kết thúc với việc Đức Phật lặp lại các bài kệ của Tudu. AN.v.171-4; cũng SN.i.149ff.
 
 ## Notes

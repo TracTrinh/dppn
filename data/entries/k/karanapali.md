@@ -5,7 +5,7 @@ base_headword: "Kāraṇapālī"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -32,6 +32,8 @@ The Commentary (AN­a.ii.636) says that the man’s name was <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāraṇapālī. Một Bà-la-môn làm nghề giám sát công trình xây dựng cho những người Licchavī ở Vesālī. Một buổi sáng sớm, ông nhìn thấy Piṅgiyānī rõ ràng là đang trở về từ nơi nào đó, và khi dò hỏi thì biết được rằng anh ta đã đi gặp Đức Phật. Kāraṇapālī hỏi anh ta nghĩ gì về Đức Phật, và Piṅgiyānī đã cất lời ca tụng ngài, minh họa ý của mình bằng những biện pháp tu từ khác nhau. Bị thuyết phục bởi sự chân thành của Piṅgiyānī, Kāraṇapālī quỳ xuống đất và bày tỏ sự tôn kính của mình đối với Đức Phật (AN.iii.236ff).
+
+Chú giải (AN­a.ii.636) cho biết rằng tên của người đàn ông là Pāla (hoặc Pālī), và ông được gọi là Kāraṇapālī bởi vì ông giám sát công việc kinh doanh của các gia đình thủ lĩnh khác nhau.
 
 ## Notes

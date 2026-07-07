@@ -5,7 +5,7 @@ base_headword: "Pāṭimokkhavisodhanī"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Pāṭimokkhavisodhanī. A commentary by <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāṭimokkhavisodhanī. Một bản chú giải bởi Saddhammajotipāla. Gv.p.64.
 
 ## Notes

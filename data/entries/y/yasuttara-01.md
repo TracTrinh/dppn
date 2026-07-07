@@ -5,7 +5,7 @@ base_headword: "Yasuttarā"
 disambiguator: "01"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -26,6 +26,6 @@ Yasuttarā 01. One of the palaces occupied by <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yasuttarā 01. Một trong những cung điện mà Paduma Buddha ngự trị trong kiếp sống cư sĩ cuối cùng của Ngài. Bv­a.146; nhưng hãy xem Paduma.
 
 ## Notes

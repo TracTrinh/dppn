@@ -5,7 +5,7 @@ base_headword: "Vediyadāyaka Thera"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vediyadāyaka Thera. An *Arahant*. He built a railing round the Bodhi-tree of <s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vediyadāyaka Thera. Một vị *Arahant*. Ngài đã xây dựng một hàng rào quanh cây bodhi của Vipassī Buddha. Mười một *kappas* trước, ngài là một vị vua tên là Sūriyassama. Ap.i.219f.
 
 ## Notes

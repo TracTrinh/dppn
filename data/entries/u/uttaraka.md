@@ -5,7 +5,7 @@ base_headword: "Uttarakā"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,6 @@ Uttarakā. A village of the <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttarakā. Một ngôi làng của người Bumu. Đức Phật có lần đã lưu trú tại đó và Sunakkhatta đi cùng với ngài. Vào thời điểm đó Korakkhattiya cũng đang lưu trú tại đó. DN.iii.6.
 
 ## Notes

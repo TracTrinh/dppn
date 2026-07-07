@@ -5,7 +5,7 @@ base_headword: "Mahā Patāpa"
 disambiguator: "04"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -25,6 +25,6 @@ Mahā Patāpa 04. A primeval king, descendant of <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Patāpa 04. Một vị vua thời nguyên thủy, hậu duệ của Mahā Sammata. Dpv.iii.7; Mhv.ii.5; ep. Mhv.i.348.
 
 ## Notes

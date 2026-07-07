@@ -5,7 +5,7 @@ base_headword: "Upekkhakasutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -24,6 +24,6 @@ Upekkhakasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upekkhakasutta. Moggallāna kể cho các tỳ-kheo nghe cách ngài ấy đã đi vào và an trú trong *jhāna* thứ tư. SN.iv.265f.
 
 ## Notes

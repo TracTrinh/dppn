@@ -5,7 +5,7 @@ base_headword: "Mānavīramadhurā"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mānavīramadhurā. A place in South India mentioned in the account of the campa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mānavīramadhurā. Một địa danh ở miền Nam Ấn Độ được đề cập trong các ghi chép về các chiến dịch của Laṅkāpura. Cv.lxxvi.213.
 
 ## Notes

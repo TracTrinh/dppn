@@ -5,7 +5,7 @@ base_headword: "Kāliṅga"
 disambiguator: "06"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -26,6 +26,6 @@ Kāliṅga 06. Another <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāliṅga 06. Một thủ lĩnh người Damiḷa khác, bị đánh bại bởi Bhuvenakabāhu I. Cv.xc.32.
 
 ## Notes

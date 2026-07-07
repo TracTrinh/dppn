@@ -5,7 +5,7 @@ base_headword: "Sugandha"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sugandha 02. A *Khattiya* of thirty-one *kappas* ago, a former birth of <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sugandha 02. Một người *Khattiya* của ba mươi mốt *kappa* trước, một tiền kiếp của Atuma (Gandhodakiya) Thera. Thag­a.i.162; Ap.i.158.
 
 ## Notes

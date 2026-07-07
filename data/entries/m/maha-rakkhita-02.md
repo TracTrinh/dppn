@@ -5,7 +5,7 @@ base_headword: "Mahā Rakkhita"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -27,6 +27,6 @@ Mahā Rakkhita 02. An ascetic in <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Rakkhita 02. Một đạo sĩ ở Himavā. Xem Somanassajātaka. Ngài được đồng nhất với Sāriputta. Ja.iv.454.
 
 ## Notes

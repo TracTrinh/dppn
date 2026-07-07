@@ -5,7 +5,7 @@ base_headword: "Taṇhakkhayasutta"
 disambiguator: "01"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Taṇhakkhayasutta 01. The Buddha teaches the destruction of craving, and the pa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Taṇhakkhayasutta 01. Đức Phật giảng dạy về sự diệt tận ái dục, và con đường dẫn đến đó. SN.iv.371.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sudassana"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sudassana 01. The city of birth of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudassana 01. Thành phố đản sinh của Sumedha Buddha. Ja.i.37, 38; Bv.xii.18.
 
 ## Notes

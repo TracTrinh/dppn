@@ -5,7 +5,7 @@ base_headword: "Sujāta"
 disambiguator: "10"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Sujāta 10. A householder of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sujāta 10. Một gia chủ của Benares. Có lần ông đã đến nghe vị thủ lĩnh của một nhóm những đạo sĩ ẩn cư thuyết pháp trong khu vườn hoàng gia và trải qua đêm ở đó. Trong đêm, ông nhìn thấy Sakka đến cùng với những thiên nữ của ngài để đảnh lễ các vị đạo sĩ, và ông đã đem lòng yêu một trong số họ. Đam mê của ông dành cho cô lớn đến mức ông đã chết vì đói. Câu chuyện được kể trong Mahā Sutasomajātaka (Ja 537). Ja.v.468f.
 
 ## Notes

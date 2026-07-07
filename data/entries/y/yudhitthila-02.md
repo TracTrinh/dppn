@@ -5,7 +5,7 @@ base_headword: "Yudhiṭṭhila"
 disambiguator: "02"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -29,6 +29,6 @@ Yudhiṭṭhila 02. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yudhiṭṭhila 02. Con trai của Sabbadatta, vua xứ Ramma, và là em trai của vị Bồ-tát được sinh ra với tên gọi Yuvañjaya. Ngài được đồng nhất với Ānanda. Xem Yuvañjayajātaka.
 
 ## Notes

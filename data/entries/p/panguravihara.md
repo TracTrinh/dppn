@@ -5,7 +5,7 @@ base_headword: "Paṅguravihāra"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Paṅguravihāra. A monastery in <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṅguravihāra. Một tu viện thuộc *janapada* Hatthibhoga ở phía nam Tích Lan. Phía trước nhà ăn của nó có một cây *paṅgura*. Một ngày nọ, vị *Devatā* của cái cây đó nghe một sa-di tụng kinh Mahā Dhammasamādānasutta và tán dương việc tụng kinh này. Khi sa-di hỏi, vị ấy bảo rằng mình đã nghe Đức Phật thuyết *Sutta* nhưng không thể nhìn thấy Ngài, vì có quá nhiều chư thiên quan trọng hơn mình ở đó. Tương truyền vị *Devatā* này đã trở thành một bậc *Sotāpanna* ngay trong ngày diễn ra cuộc trò chuyện này. MN­a.i.530f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Saṅgharakkhita"
 disambiguator: "06"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Saṅgharakkhita 06. An *Arahant* Thera who preached to <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Saṅgharakkhita 06. Một vị Trưởng lão *Arahant* người đã thuyết pháp cho Rūpadevī (*q.v.*).
 
 ## Notes

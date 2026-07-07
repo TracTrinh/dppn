@@ -5,7 +5,7 @@ base_headword: "Rūpasārī"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -42,6 +42,8 @@ Once when <span class="dppn-term dppn-term-t14" data-dppn-term-pos="15" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rūpasārī, Surūpasārī. Mẹ của Sāriputta, người đã được gọi theo tên bà, tên cá nhân của ông là Upatissa (Snp­a.i.326; Dhp­a.i.73, v.v.; trong các văn bản Sanskrit (ví dụ, Divy.395) Sāriputta được gọi là *Sāradvatīputra*). Chồng của bà là vị Bà-la-môn Vaṅganta (Dhp­a.ii.84), và bà đã trở thành mẹ của bảy người con, tất cả đều trở thành các vị *Arahant* – Sāriputta, Upasena, Mahā Cunda, Revata Khadiravaniya, Cālā, Upacālā và Sisūpacālā (Dhp­a.ii.188; SN­a.iii.172).
+
+Cả bà và chồng đều là những người không có niềm tin, và bà đã rất buồn bã khi, lần lượt, những người con của bà từ bỏ tài sản trị giá tám mươi crore để gia nhập Tăng đoàn. Bà mong muốn giữ lại ít nhất người con trai út, Revata, cho riêng mình, và đã cho cậu kết hôn ở tuổi lên bảy, nhưng âm mưu của bà đã thất bại (xem Revata). Điều này đã khiến bà trở nên cay đắng với các tỳ-kheo, và, mặc dù bà đã cúng dường thức ăn cho họ khi họ đến nhà, bà vẫn không bỏ qua việc nhục mạ con trai mình, gọi ông là "kẻ ăn đồ thừa" (*ucchiṭṭhakhādaka*) (Dhp­a.iv.164f). Bà sống thọ hơn Sāriputta, người đã đến thăm bà ngay trước khi ông qua đời, tại Nālakagāma, trong ngôi nhà nơi ông sinh ra. Tại đây, bà đã cung cấp chỗ ở cho ông và năm trăm người bạn đồng hành của ông. Sāriputta lâm bệnh kiết lỵ dữ dội vào đêm ông đến, và bà đã nhìn thấy nhiều vị thần khác nhau, bao gồm cả Mahā Brahma, đến hầu hạ ông. Biết được danh tính của họ từ Mahā Cunda, bà vô cùng kinh ngạc và đã đi gặp Sāriputta để được xác nhận lại những lời của Mahā Cunda. Sāriputta đã kể cho bà nghe làm thế nào Mahā Brahma lại là một môn đệ của Đức Phật và nói với bà về những đức hạnh tuyệt vời của đạo sư của ông. Vào cuối buổi nói chuyện, bà đã trở thành một *Sotāpanna*. Sāriputta đã qua đời vào rạng sáng ngày hôm sau, và bà đã sắp xếp các công việc chuẩn bị công phu cho lễ hỏa táng của ông (SN­a.iii.172ff.; để biết chi tiết hãy xem Sāriputta). Dường như bà cũng được gọi là Surūpasārī, ví dụ, Thīg­a.162.
 
 ## Notes

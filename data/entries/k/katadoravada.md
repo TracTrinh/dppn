@@ -5,7 +5,7 @@ base_headword: "Kaṭadorāvāda"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kaṭadorāvāda (?). A village in <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṭadorāvāda (?). Một ngôi làng ở Rohaṇa miền Nam Tích Lan (Cv.lxxiv.164). Nó có thể giống với Kaṇṭakadvāravāta. Geiger, Cv.Trs.ii.36, n.3.
 
 ## Notes

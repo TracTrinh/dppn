@@ -5,7 +5,7 @@ base_headword: "Mallikāvimānavatthu"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -28,6 +28,6 @@ Mallikāvimānavatthu. The story of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mallikāvimānavatthu. Câu chuyện về Mallikā, vợ của Bandhula, người mà, sau khi chết, đã được sinh ra trong một cung điện tuyệt đẹp ở Tāvatiṁsa, bao quanh bởi đủ loại đồ xa hoa. Đây chủ yếu là kết quả của việc bà đã dâng cúng *Mahā Latāpasādhana* của mình để tôn vinh Đức Phật, sau khi ngài viên tịch. Moggallāna đã gặp bà ở Tāvatiṁsa và nghe được câu chuyện của bà. VV.iii.8; Vv-a.165ff.
 
 ## Notes

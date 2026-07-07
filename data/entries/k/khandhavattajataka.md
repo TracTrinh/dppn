@@ -5,7 +5,7 @@ base_headword: "Khandhavattajātaka"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -34,6 +34,10 @@ The story is evidently an expansion of the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khandhavattajātaka (Ja 203). Bodhisatta từng có lần sinh ra ở Kāsi, và sau đó trở thành một đạo sĩ. Khi được báo cáo rằng có nhiều đạo sĩ đã chết vì rắn cắn, ngài đã tập hợp họ lại và dạy cho họ cách làm thế nào, thông qua việc trau dồi tình yêu thương đối với bốn hoàng tộc của loài rắn – Virūpakkha, Erāpatta, Chabbyāputta, và Kaṇhagotama – họ có thể bảo vệ bản thân không bao giờ bị cắn bởi bất kỳ sinh vật nào.
+
+Câu chuyện này được kể lại liên quan đến một vị tỳ-kheo đã chết vì bị rắn cắn. Ja.ii.144ff. đối chiếu Vin.ii.109f.
+
+Câu chuyện này hiển nhiên là một bản mở rộng của Khandaparitta.
 
 ## Notes

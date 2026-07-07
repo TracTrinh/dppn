@@ -5,7 +5,7 @@ base_headword: "Sattisatasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -23,6 +23,6 @@ Sattisatasutta. A wise householder should be glad if an offer were made to him t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sattisatasutta. Một cư sĩ trí tuệ hẳn sẽ vui mừng nếu có lời đề nghị rằng ông ta sẽ thấu hiểu Tứ Thánh Đế sau khi bị hành hạ bởi một trăm ngọn giáo, ba lần mỗi ngày, trong một trăm năm. Vì Saṁsāra là vô lượng không thể tính đếm. SN.v.440.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Tapodāvatthu"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tapodāvatthu. The story of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tapodāvatthu. Câu chuyện Moggallāna giải thích lý do vì sao nước của hồ Tapodā lại nóng và về việc các vị tỳ-kheo từ chối không tin lời ngài (Vin.iii.108; Vin-a.ii.512).
 
 ## Notes

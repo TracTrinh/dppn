@@ -5,7 +5,7 @@ base_headword: "Kāragaṅgā"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -30,6 +30,6 @@ Kāragaṅgā. A river in Ceylon. It was dammed between the hills with a great b
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāragaṅgā. Một con sông ở Tích Lan. Nó đã được đắp đập giữa các ngọn đồi với một rào chắn lớn bởi Parakkamabāhu I., và nước của nó được chuyển tải qua một con kênh, Ākāsagaṅgā, để tạo thành Parakkamasamudda (*q.v.*) (Cv.lxxix.24). Một con kênh khác, Godhāvarī, được đề cập là rẽ nhánh từ Kāragaṅgā và chảy vào Parakkamasāgara (Cv.v.57).
 
 ## Notes

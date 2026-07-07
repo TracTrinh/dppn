@@ -5,7 +5,7 @@ base_headword: "Losakajātaka"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -35,6 +35,10 @@ The story was told in reference to <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Losakajātaka (Ja 41). Trong thời kỳ của Kassapa Buddha, có một vị tỳ-kheo sống dựa vào sự chu cấp của một người đàn ông giàu có trong vùng. Vào một ngày nọ, một vị *Arahant* đã đến tu viện thuộc sở hữu của người đàn ông giàu có này, và người đàn ông này, vì yêu mến dáng vẻ của ngài, đã thỉnh ngài ở lại tu viện, hứa sẽ chăm sóc ngài. Vị *Arahant* đã đồng ý, nhưng vị tỳ-kheo trụ trì tu viện sinh lòng ghen tị và nói với người bảo trợ của họ rằng vị *Arahant* lười biếng và vô dụng. Một số thức ăn do người bảo trợ gửi đến cho vị *Arahant* đã bị vị trụ trì ném vào đống than hồng. Vị *Arahant*, đọc được những suy nghĩ của ông ta, đã rời đi và đến một nơi khác. Vị tỳ-kheo đó bị dằn vặt bởi sự hối hận và đã tái sinh vào địa ngục. Trong năm trăm kiếp sống liên tiếp, ông là một Yakkha, không bao giờ có đủ thức ăn để ăn; trong năm trăm kiếp sống tiếp theo, ông là một con chó. Sau đó ông được sinh ra, với cái tên Mittavindaka, trong một gia đình nghèo ở Kāsi. Bởi vì ông, những tai ương khủng khiếp đã giáng xuống gia đình, và ông đã bị đuổi đi. Ở Benares, ông trở thành một học trò nghèo dưới sự dạy dỗ của Bodhisatta, người là một giáo viên ở đó, nhưng ông quá hay gây gổ nên đã bị đuổi đi. Ông kết hôn với một người phụ nữ nghèo và có hai đứa con. Trong một thời gian, ông là một giáo viên, nhưng ngôi làng nơi ông sống đã khiến nhà vua nổi giận bảy lần, nhà cửa của họ bốc cháy và nguồn nước cạn kiệt. Sau khi phát hiện ra nguyên nhân, dân làng đã đuổi Mittavindaka và gia đình ông đi. Trong một khu rừng bị ám, vợ và các con của ông đã bị những con ác quỷ ăn thịt.
+
+Trong những chuyến đi lang thang của mình, Mittavindaka đã đến một ngôi làng ven biển, Gambhīra, nơi ông làm việc trên một chiếc tàu. Vào ngày thứ bảy của chuyến đi, chiếc tàu đột nhiên ngừng di chuyển. Người ta đã rút thăm, và bảy lần thăm đều rơi vào Mittavindaka, vì vậy họ đã đưa ông lên một chiếc bè và hạ ông xuống biển. Ông bị trôi dạt vào một hòn đảo, nơi có bốn *Vimānapeta* sống trong những cung điện bằng pha lê, và ông đã tận hưởng hạnh phúc cùng với họ trong bảy ngày. Từ đó, ông đi đến một hòn đảo, nơi có tám vị nữ thần sống trong những cung điện bằng bạc, rồi đến một hòn đảo khác, nơi có mười sáu người sống trong những cung điện bằng ngọc, rồi lại đến một hòn đảo khác nữa, nơi có ba mươi hai người sống trong những cung điện bằng vàng. Ở mỗi nơi, ông ở lại bảy ngày. Từ hòn đảo cuối cùng, ông đi đến một hòn đảo của những con yêu tinh. Ở đó, ông đã tóm lấy một nữ yêu tinh đang đi lang thang trong hình hài của một con dê, và, khi cô ta đá ông, ông bị ném vào con hào khô cạn của Benares. Ở đó, những người chăn dê đang canh chừng những tên trộm, và khi Mittavindaka tóm lấy một con dê, hy vọng sẽ bị đá trở lại vị trí ban đầu của mình, ông đã bị bắt giữ. Khi ông đang bị dẫn đi, Bodhisatta đã nhìn thấy và nhận ra ông, ngài đã thuyết phục những người chăn dê cho phép ngài nhận ông làm nô lệ.
+
+Câu chuyện được kể lại liên quan đến Losakatissa, người mà Mittavindaka được đồng nhất. Ja.i.234-46.
 
 ## Notes

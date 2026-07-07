@@ -5,7 +5,7 @@ base_headword: "Sīhalaṭṭhakathā"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -30,6 +30,6 @@ Sīhalaṭṭhakathā. The old Commentary on the *Tipiṭaka* which contained th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhalaṭṭhakathā. Bộ Chú giải cổ về *Tipiṭaka*, chứa đựng truyền thống của Mahā Vihāra. Bộ này được cho là do Mahinda biên soạn, hoặc ít nhất là dưới sự chỉ đạo của ngài. Buddhaghosa học bộ này dưới sự hướng dẫn của Saṅghapāla và dịch lại sang tiếng Magadha (Pāli), trong khi sống tại Ganthākarapariveṇa (Cv.xxxvii.228-234). Bộ này rõ ràng cũng chứa đựng rất nhiều tư liệu lịch sử. Về bản chất và nội dung của nó, xem Mhv­ṭ. Introd. lvii ff.
 
 ## Notes

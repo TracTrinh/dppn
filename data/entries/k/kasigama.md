@@ -5,7 +5,7 @@ base_headword: "Kāsigāma"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -31,6 +31,6 @@ Kāsigāma, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāsigāma, Kāsinigama. Có lẽ là tên gọi thực sự của ngôi làng ở Kāsi được Mahā Kosala tặng cho con gái mình khi cô kết hôn với Bimbisāra. Ngôi làng sản sinh ra một khoản thu nhập là một trăm ngàn, và được trao cho hoàng hậu làm tiền tắm rửa và mua nước hoa. Sau cái chết của Bimbisāra, Pasenadi đã rút lại món quà từ Ajātasattu, hành động này là nguyên nhân của một cuộc chiến giữa hai người. Về sau, khi con gái của Pasenadi là Vajirā được gả cho Ajātasattu, ngôi làng đã được trả lại như một phần trong của hồi môn của cô. Ja.ii.403; iv.342; SN.i.82ff; SN­a.i.110, 120f; AN­a.ii.833; Dhp­a.iii.259.
 
 ## Notes

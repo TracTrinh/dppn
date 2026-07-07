@@ -5,7 +5,7 @@ base_headword: "Mahālisutta"
 disambiguator: "03"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahālisutta 03. The Buddha, in answer to a question of <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahālisutta 03. Đức Phật, để trả lời cho một câu hỏi của Mahāli, đã nói rằng lòng tham, sự thù hận, sự si mê gây ra sự tiếp diễn của hành động ác, và sự chánh tư duy cùng với một tâm trí thăng bằng gây ra sự tiếp diễn của điều thiện. Sự tồn tại của hai tập hợp những phẩm chất khác biệt này gây ra điều thiện và điều ác ở trên thế giới. AN.v.86f.
 
 ## Notes

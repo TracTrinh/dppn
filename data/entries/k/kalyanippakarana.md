@@ -5,7 +5,7 @@ base_headword: "Kalyāṇippakaraṇa"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -28,6 +28,6 @@ Kalyāṇippakaraṇa. A record of the famous <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kalyāṇippakaraṇa. Một hồ sơ về các bản khắc Kalyāṇi nổi tiếng được thiết lập gần Pegu bởi Dhammaceti, đưa ra những chi tiết về sự làm phép thánh của Kalyāṇisīmā ở Pegu bởi các tỳ-kheo đã thọ giới tại Kalyāṇivihāra ở Tích Lan. Bode, 23, 38f.; PLC.257f.
 
 ## Notes

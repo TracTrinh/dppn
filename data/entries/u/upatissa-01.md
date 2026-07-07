@@ -5,7 +5,7 @@ base_headword: "Upatissa"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Upatissa 01. The personal name of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upatissa 01. Tên cá nhân của Sāriputta (*q.v.*).
 
 ## Notes

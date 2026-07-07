@@ -5,7 +5,7 @@ base_headword: "Uttarapañcāla"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -50,6 +50,12 @@ In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="28" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttarapañcāla. Một thành phố. Khi Apacara (Upacara), vua của Ceti, bị lửa của Avīci thiêu nuốt vì sự dối trá của ông, năm người con trai của ông đã tìm đến người Bà-la-môn Kapila và cầu xin sự bảo hộ. Ông khuyên họ hãy xây dựng các thành phố mới. Thành phố do người con trai thứ tư xây dựng được gọi là Uttarapañcāla. Thành phố này được xây dựng ở phía bắc của Ceti, tại nơi hoàng tử nhìn thấy một khung bánh xe (*cakkapañjara*) được làm hoàn toàn bằng châu báu (Ja.iii.461).
+
+Tuy nhiên, theo chú giải sư của Kāmanītajātaka (Ja 228, Ja.ii.214), và cũng theo Kumbhakārajātaka (Ja 408, Ja.iii.379ff), Pañcāla hay Uttarapañcāla là tên của một xứ (*raṭṭha*) có kinh đô là Kampilla, còn trong Brahmadattajātaka (Ja 323) (iii.79) cũng như trong chú giải của Cittasambhūtajātaka (Ja 498) (iv.396), Uttarapañcāla được ghi là tên của thành phố và Kampilla là tên của xứ, và chúng ta được biết rằng một vị vua Pañcāla đã trị vì ở đó.
+
+Pañcāla cũng là tên của vua của Uttarapañcāla trong Sattigumbajātaka (Ja 503) (iv.430), Jayaddisajātaka (Ja 513) (v.21), và Gaṇḍatindujātaka (Ja 520) (v.98). Trong tất cả những truyện này, Uttarapañcāla được nói đến như một thành phố trong Kampilla. Trong Mahā Ummaggajātaka (Ja 546) (vi.391ff), Cūḷanī Brahmadatta là vua của Uttarapañcāla.
+
+Trong Somanassajātaka (Ja 505, Ja.iv.444), có nhắc đến một thành phố tên Uttarapañcāla trong xứ Kuru, với Reṇu là vua. Liệu đây có phải là một thành phố khác hay không thì không thể xác định. Xem thêm Pañcāla.
 
 ## Notes

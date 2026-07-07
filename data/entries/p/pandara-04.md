@@ -5,7 +5,7 @@ base_headword: "Paṇḍara"
 disambiguator: "04"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -28,6 +28,6 @@ Paṇḍara 04. The name of a *gotta*. An ascetic of this clan, hearing <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇḍara 04. Tên của một *gotta*. Một đạo sĩ thuộc dòng họ này, khi nghe Phussa Thera thuyết pháp, đã hỏi ngài một câu hỏi dẫn đến một lời giải thích dài từ Phussa (Thag.vs.949; Thag­a.ii.82ff). Người ta nói rằng *gotta* này có tổ tiên là một vị hiền triết tên là Paṇḍara. *v.1.* Paṇḍarasa.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mallā"
 disambiguator: "01"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -80,6 +80,20 @@ Other places in the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="57
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mallā 01. Những người Malla (*Mallas*). *v.l.* Mālā, Malatā. Tên của một dân tộc và đất nước của họ. Đất nước này được bao gồm trong mười sáu đại quốc (*Mahā Janapadas*) vào thời của Đức Phật. Vương quốc, vào thời điểm đó, được chia thành hai phần, có thủ đô tương ứng là ở Pāvā và Kusinārā. Những người Malla ở Pāvā được gọi là Pāveyyaka Mallā, những người ở Kusināra thì gọi là Kosinārakā. Việc họ là các vương quốc riêng biệt được cho thấy qua thực tế là sau sự viên tịch của Đức Phật tại Kusināra, những người Malla ở Pāvā đã cử sứ giả đến để đòi phần xá lợi của Đức Phật (DN). Mỗi bên đều có Sảnh đường Hội nghị (Mote Hall) riêng của mình.
+
+Trong Saṅgītisutta, chúng ta được biết rằng Đức Phật, trong một trong những chuyến hành trình của ngài, đã cùng với năm trăm môn đệ đến Pāvā và dừng chân tại Ambavana của người thợ rèn Cunda. Một Sảnh đường Hội nghị mới, được gọi là Ubbhaṭaka, vừa mới được hoàn thành cho những người Malla ở Pāvā, và Đức Phật đã được cung thỉnh làm người đầu tiên lưu trú tại đó để nó có thể được thánh hóa. Đức Phật đã nhận lời mời, và đã thuyết pháp trong Sảnh đường này cho đến tận đêm khuya. Cũng chính tại Pāvā, Đức Phật đã thọ dụng bữa ăn cuối cùng của ngài, món *Sūkaramaddava*, tại nhà của Cunda (DN). Từ đó ngài đi đến Kusinārā, và ở đó, khi đang nằm chờ viên tịch, ngài đã cử Ānanda đi gặp những người Malla ở Kusināra, những người đang tụ tập trong Sảnh đường Hội nghị của họ để thông báo về sự viên tịch sắp tới của ngài. Những người Malla liền đến rừng *Sāla* Upavattana nơi Đức Phật đang ngự, để đảnh lễ ngài lần cuối. Ānanda đã xếp họ đứng thành từng nhóm theo gia đình, và sau đó dẫn họ đến diện kiến Đức Phật, đồng thời thông báo tên của từng gia đình. Sau khi Đức Phật viên tịch, họ lại tụ họp một lần nữa trong Sảnh đường Hội nghị, và sắp xếp để tổ chức mọi nghi thức tôn kính dành cho ngài như đối với một Cakkavatti. Họ đã hỏa táng nhục thân của Đức Phật tại *cetiya* Makuṭabandhana, và sau đó thu thập xá lợi, mang đặt trong Sảnh đường Hội nghị của họ, bao quanh bằng một mạng lưới giáo mác và một hàng rào cung tên cho đến khi chúng được phân chia cho những người yêu cầu thông qua Doṇa (DN). Những người Malla, ở cả Pāvā và Kusināra, đã dựng các *Thūpa* (tháp) trên phần xá lợi tương ứng của mình và tổ chức các lễ hội để tôn vinh ngài (DN).
+
+Thủ đô của người Malla ở Kusinārā, vào thời Đức Phật, là một nơi ít có tầm quan trọng. Ānanda đã nhắc đến nó một cách miệt thị như là một "thị trấn nhỏ bằng phên đất ở giữa rừng sâu, một thị trấn chi nhánh," hoàn toàn không xứng đáng là nơi diễn ra *Parinibbāna* (Bát-niết-bàn) của Đức Phật. Nhưng Đức Phật đã cho Ānanda biết rằng nơi này từng là Mahā Sammata (*xem mục từ này*), thủ đô hùng mạnh của Kusa và Mahā Sudassana. Điều này cho thấy rằng những người Malla, lúc đầu, có một thể chế quân chủ, nhưng vào thế kỷ thứ sáu trước Công nguyên, họ được xem là, cùng với người Vajjī, như một ví dụ điển hình của một nước cộng hòa (*saṅgha*, *gaṇa*) (MN.i.231). Các thủ lĩnh Malla lần lượt thay nhau quản lý nhà nước. Những người không vướng bận những nhiệm vụ như vậy thì tham gia buôn bán, đôi khi thực hiện các chuyến hành trình bằng đoàn lữ hành dài ngày (DN­a.ii.569).
+
+Cả Đức Phật và Nigaṇṭha Nātaputta dường như đều có những tín đồ trong số những người Malla. Pāvā là nơi diễn ra cái chết của Nātaputta, giống như Kusinārā là nơi viên tịch của Đức Phật (xem Pāvā). Một vài tín đồ của Đức Phật trong số những người Malla được nhắc đến tên – ví dụ, Dabba, Pukkusa, Khaṇḍasumana, Bhadragaka, Rāsiya, Roja và Sīha (*xem mục từ này*). Những người Malla dường như đã sống hòa bình với những người hàng xóm của họ, mặc dù rõ ràng là có một số xích mích giữa họ và những người Licchavī, như được chỉ ra bởi câu chuyện về Bandhula Malla (*xem mục từ này*). Cả người Malla và người Licchavī đều là những *Khattiya*, thuộc *gotta* Vasiṭṭha, bởi vì trong các sách, cả hai bộ tộc đều nhiều lần được gọi là Vāseṭṭhā (*xem mục từ này*). Manu nói rằng cả người Licchavī và người Malla đều có cha mẹ là người *Kṣatriya*, nhưng cha của họ là những *Vrātya* – tức là, đã không trải qua nghi lễ khai tâm Vệ đà vào thời điểm thích hợp.
+
+Có lý do để tin rằng nước cộng hòa Malla đã rơi vào tay Ajātasattu, cũng giống như nước cộng hòa Licchavī (Bhaṇḍarkar, *Carmichael Lectures*, 1918, p.79).
+
+Những người Malla thường được đồng nhất với những người Malloi được đề cập trong các bản tường thuật của người Hy Lạp về cuộc xâm lược Ấn Độ của Alexander. Những người Malloi là một bộ lạc hiếu chiến, trong một thời gian, đã chống trả thành công cuộc tấn công của Alexander. Lãnh thổ của họ ắt hẳn nằm ở hoặc gần Punjab.
+
+Những nơi khác ở xứ Malla, ngoài Pāvā và Kusinārā, cũng được đề cập đến như là nơi Đức Phật đã lưu trú – ví dụ, Bhoganagara, Anupiyā và Uruvelakappa, gần đó là Mahā Vana, một khu rừng rộng lớn.
+
+Bandhula đã đi từ Kusināra đến Takkasilā vì mục đích học tập. *v.l.* Mālā (ví dụ, Ud­a.377) và Malatā (ví dụ, AN­a.ii.814), rõ ràng cả hai đều là những cách đọc sai.
 
 ## Notes

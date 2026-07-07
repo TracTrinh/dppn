@@ -5,7 +5,7 @@ base_headword: "Upasenasutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -25,6 +25,6 @@ Upasenasutta. Records the incident of the death of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upasenasutta. Ghi lại sự kiện viên tịch của Upasena Vaṅgantaputta do bị rắn cắn. Được ông gọi đến, Sāriputta đã nhìn ông và nói rằng ngài không nhận thấy bất kỳ sự thay đổi nào ở Upasena, dù là trong cơ thể hay trong các căn của ông. Upasena trả lời rằng đó là vì từ lâu ông đã dập tắt mọi khuynh hướng tiềm ẩn của "tôi" và "của tôi." SN.iv.40f.
 
 ## Notes

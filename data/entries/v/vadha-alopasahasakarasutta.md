@@ -5,7 +5,7 @@ base_headword: "Vadha-ālopasāhasakārasutta"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -24,6 +24,6 @@ Vadha-ālopasāhasakārasutta. Few are they who abstain from torture, highway ro
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vadha-ālopasāhasakārasutta. Ít người kiêng tránh tra tấn, cướp đường và các hành vi bạo lực; đó là vì họ không thấy Bốn Thánh đế. SN.v.473.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Veḷukaṇṭakī Nandamātā"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -55,6 +55,14 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="26" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Veḷukaṇṭakī Nandamātā, Veḷukaṇḍakī Nandamātā, Veḷukaṇṭakiyā Nandamātā. Một phu nhân của Veḷukaṇṭa (Veḷukaṇḍa). Bà được nhắc đến như một nữ cư sĩ gương mẫu (AN.i.88; ii.164). Bà đã thiết lập cho Tăng đoàn do Sāriputta và Moggallāna dẫn đầu, một sự cúng dường mà Đức Phật tán thán, bởi vì nó có đủ sáu phẩm chất cần thiết. Xem Dānasutta (1).
+
+Có lần bà thức dậy trước lúc bình minh và hát bài Pārāyaṇa. Vessavaṇa tình cờ đi ngang qua nhà bà trên đường từ bắc xuống nam (để gặp Đức Phật, theo Snp­a.i.369), và khi nghe bài hát, ngài đã dừng lại trước cửa sổ nhà bà để tán thán và tiết lộ danh tính của mình. Bà chào đón ngài một cách thân mật, và để đáp lại lời chào của bà, ngài thông báo cho bà biết rằng Sāriputta và Moggallāna đang trên đường đến Veḷukaṇṭa. Vui mừng với tin này, bà chuẩn bị mọi thứ và gửi lời đến tu viện, mời các tỳ-kheo đến nhà. Sau bữa ăn, bà báo cho các Trưởng lão biết rằng Vessavaṇa đã nói cho bà về việc họ đến. Khi họ bày tỏ sự kinh ngạc, bà nói cho họ về một số đức hạnh khác mà bà sở hữu. Đứa con trai duy nhất của bà là Nanda bị người của nhà vua bắt giữ và giết chết trước mắt bà, nhưng bà không hề cảm thấy lo lắng, bà cũng không hề như vậy khi chồng bà, sau khi qua đời, sinh ra làm một Yakkha (chú giải nói là *Bhummadevatā*), hiện ra với bà. Bà không phạm bất kỳ giới luật nào, có thể nhập vào bốn tầng *jhāna* theo ý muốn, và đã đoạn trừ năm hạ phần kiết sử. Các tỳ-kheo bày tỏ sự ngưỡng mộ lớn lao và Sāriputta đã thuyết pháp cho bà (AN.iv.63ff).
+
+Buddhaghosa nói (AN­a.ii.718; cf. Snp­a.i.370) rằng bà là một vị *Anāgāmī*, và khi bà hứa sẽ chia sẻ với Vessavaṇa phần công đức bà sẽ đạt được nhờ việc tiếp đãi các tỳ-kheo, do hai Đại đệ tử dẫn đầu, Vessavaṇa, để bày tỏ lòng biết ơn, đã làm đầy các kho chứa gạo của bà, và những kho này luôn đầy ắp trong suốt quãng đời còn lại của bà. Do đó chúng trở thành một câu nói cửa miệng.
+
+Chú giải Suttanipāta (Snp­a.i.370) cho biết bà giữ việc nhịn ăn hàng ngày và thuộc lòng các *Piṭaka*. Chú giải cũng nói rằng, khi bà đọc xong bài Pārāyaṇa, Vessavaṇa đã đề nghị cho bà một ân huệ, và bà xin rằng, vì những người hầu của bà đã mệt mỏi với việc gánh vụ mùa từ các cánh đồng về nhà, Vessavaṇa nên cho phép các Yakkha của ngài làm việc thay cho họ. Ngài đồng ý, và những người hầu cận của ngài đã làm đầy 1,250 nhà kho cho bà. Vessavaṇa sau đó đến gặp Đức Phật và kể cho ngài về những gì đã xảy ra.
+
+Chú giải Dhammapada (Dhp­a.i.340) nhắc đến Veḷukaṇṭakī Nandamātā và Khujjattarā như là những nữ đệ tử cư sĩ hàng đầu của Đức Phật. Nhưng trong danh sách Aṅguttara về những nữ cư sĩ xuất chúng, trong khi tên của Veḷukaṇṭakī Nandamātā không xuất hiện, Khujjatarā lại được nhắc đến. Có nhắc đến một người tên là Nandamātā, xuất chúng về thiền định, nhưng bà được gọi là Uttarā. AN.i.26; cf. SN.ii.236, nơi cùng hai người này được nhắc đến; Bà Rhys Davids cho rằng Veḷukaṇṭakī Nandamātā có khả năng là cùng một người với Uttarā Nandamātā (*Brethren* 4, n.1). Sự đồng nhất này dường như không chính xác. Xem Uttarā Nandamātā; xem thêm Nanda Kumāputta.
 
 ## Notes

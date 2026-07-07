@@ -5,7 +5,7 @@ base_headword: "Kāḷasilā"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -52,6 +52,18 @@ In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="17" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷasilā 01. Tảng đá đen nằm bên cạnh Isigili (Isigilipasse).
+
+Đó là nơi mà Moggallāna đã bị sát hại (Ja.v.125f; Dhp­a.iii.65f; Ap­a.i.206) và là nơi mà Godhika (SN.i.120f; Dhp­a.i.431f) và Vakkali (SN.iii.124) đã tự sát.
+
+Đó là một nơi hẻo lánh, và chúng ta được kể lại rằng khi các vị tỳ-kheo từ xa đến Rājagaha, họ sẽ yêu cầu Dabba Mallaputta tìm chỗ ở cho họ ở đó vì họ muốn thấy được bằng chứng về các năng lực thần thông (*iddhi*) của Dabba (Vin.ii.76; iii.159).
+
+Gotama Buddha được nhắc đến là đã lưu lại tại Kāḷasilā cùng với một hội chúng tỳ-kheo đông đảo (SN.i.194). Vào một dịp như vậy, Đức Phật được cho là đã cho Ānanda một cơ hội để thỉnh cầu Ngài tiếp tục sống trong suốt một kiếp trọn vẹn. Nhưng Ānanda đã không làm điều đó (DN.ii.116).
+
+Đức Phật ở một nơi khác (Thag­a.ii.209) được mô tả là đang cư trú tại Kāḷasilā cùng với năm trăm vị tỳ-kheo, tất cả họ đều là các *Arahant*. Moggallāna đã khám phá ra các năng lực của họ, và do đó đã giành được lời ca ngợi của Vaṅgīsa.
+
+Chú giải Saṁyutta (SN­a.ii.229) nói đến một Kāḷasilāvihāra.
+
+Trong Cūḷa Dukkhakkhandhasutta (MN.i.92), người ta nói rằng Kāḷasilā cũng là nơi ở của một số Nigaṇṭha, những người theo Nāthaputta.
 
 ## Notes

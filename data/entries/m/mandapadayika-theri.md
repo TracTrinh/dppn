@@ -5,7 +5,7 @@ base_headword: "Maṇḍapadāyikā Therī"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Maṇḍapadāyikā Therī. An *Arahant*. She built a pavilion for <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇḍapadāyikā Therī. Một Arahant. Bà đã xây dựng một đình/mái che cho Đức Phật Koṇāgamana. Ap.ii.514; Thīg­a.6.
 
 ## Notes

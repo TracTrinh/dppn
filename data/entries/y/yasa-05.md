@@ -5,7 +5,7 @@ base_headword: "Yasa"
 disambiguator: "05"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -24,6 +24,6 @@ Yasa 05. A king of twenty-nine *kappas* ago; a previous birth of <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yasa 05. Một vị vua cách đây hai mươi chín *kappa*; một tiền kiếp của Rāmaṇeyya Thera. Thag­a.i.121.
 
 ## Notes

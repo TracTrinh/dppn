@@ -5,7 +5,7 @@ base_headword: "Varuṇa"
 disambiguator: "01"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Varuṇa 01. One of the chief lay disciple’s of <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Varuṇa 01. Một trong những nam cư sĩ hàng đầu của đức Phật Sumana. Bv.v.28.
 
 ## Notes

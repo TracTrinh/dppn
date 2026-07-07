@@ -5,7 +5,7 @@ base_headword: "Majjhimaṭīkā"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Majjhimaṭīkā. The second of three Commentaries on the <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Majjhimaṭīkā. Bản Chú giải thứ hai trong số ba bản Chú giải của quyển Saddatthabhedacintā. Gv.63, 73.
 
 ## Notes

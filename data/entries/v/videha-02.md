@@ -5,7 +5,7 @@ base_headword: "Videha"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -58,6 +58,12 @@ The strainer used by the Buddha was honoured, after his death, by the people of 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Videha 02. Videhā, những người Videha (Videhas). Một quốc gia và người dân của nó. Vào thời Gotama Buddha, Videha hình thành nên một trong hai vương quốc quan trọng của liên minh Vajjī. Thủ đô của nó là Mithilā. Vương quốc này giáp với sông Ganges, một bên bờ sông là Magadha và bên kia là Videha (xem, vd, MN.i.225; MN­a.i.448). Kề liền với nó là Kāsi và Kosala. Trong Gandhārajātaka (Ja 406, Ja.iii.365; iv. 316), vương quốc Videha được nói là trải rộng ba trăm dặm, với mười sáu ngàn ngôi làng, những kho chứa đầy ắp và mười sáu ngàn vũ nữ. Videha là một trung tâm thương mại lớn, và có sự đề cập (Pv-a.227) về việc các thương nhân đến từ Sāvatthī để bán hàng hóa của họ ở Videha.
+
+Surucijātaka (Ja 489) dường như cho thấy một mối liên hệ chặt chẽ đã tồn tại giữa Videha và Benares. Vào thời Đức Phật, một trong những vương hậu của Bimbisāra có lẽ đến từ Videha (xem Vedehiputta). Cũng có sự đề cập (MN­a.i.534) về một tình bạn hiện hữu giữa các vị vua của Gandhāra và Videha. Trong những thời kỳ trước đó, Videha hiển nhiên là một vương quốc, các vị vua được biết đến nhiều nhất của nó là Mahā Janaka và Nimi; nhưng vào thời Đức Phật, nó là một nước cộng hòa, thuộc liên bang Vajjī. Theo Mahā Govindasutta (DN.ii.235), Vua Reṇu là người, với sự giúp đỡ của Jotipāla, đã thành lập vương quốc Videha. Các Chú giải (vd, DN­a.ii.482; MN­a.i.184) tuyên bố rằng Videha đã được cư dân định cư, những người được Vua Mandhātā mang đến từ Pubbavideha.
+
+Tuy nhiên, *Śatapatha Brāhmaṇa* (I.iv.1) gán vương quốc cho Māthava người Videgha, và đưa ra ranh giới của nó là Kausikī ở phía đông, sông Ganges ở phía nam, Sadārūra ở phía tây, và Himālaya ở phía bắc. Ở trung tâm của Videha là Pabbataraṭṭha, trong đó có thành phố Dhammakoṇḍa, nơi cư ngụ của Dhaniya. (Snp­a.i.26).
+
+Chiếc túi lọc nước được Đức Phật sử dụng đã được tôn thờ, sau khi Ngài viên tịch, bởi người dân Videha (Bv.xxviii.11). Uruvelā Kassapa, trong một kiếp sống trước, đã là vua của Videha (Ap.ii.483).
 
 ## Notes

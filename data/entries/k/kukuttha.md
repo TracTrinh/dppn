@@ -5,7 +5,7 @@ base_headword: "Kukuṭṭhā"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kukuṭṭhā. A river; see <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một con sông; xem Kakuṭṭhā.
 
 ## Notes

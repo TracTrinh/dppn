@@ -5,7 +5,7 @@ base_headword: "Kuṭhārasabhā"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kuṭhārasabhā. Some sort of council chamber, probably attached to the Court i
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một loại phòng hội đồng nào đó, có lẽ gắn liền với Triều đình ở Ceylon. Kittisirimegha được đề cập là đã sử dụng các dịch vụ của người đứng đầu *sabhā* để đi tìm hoàng tử Parakkamabāhu từ nơi ẩn dật của ngài (Cv.lxvi.61).
 
 ## Notes

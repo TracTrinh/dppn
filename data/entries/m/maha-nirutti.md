@@ -5,7 +5,7 @@ base_headword: "Mahā Nirutti"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Nirutti. One of the books attributed to <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nirutti. Một trong những quyển sách được cho là của Mahā Kaccāna (Gv.59). Điều này có lẽ đề cập đến truyền thống gán Ngữ pháp Kaccāyana cho Mahā Kaccāna.
 
 ## Notes

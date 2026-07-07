@@ -5,7 +5,7 @@ base_headword: "Maṅgala"
 disambiguator: "01"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -66,6 +66,12 @@ He died in the park of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṅgala 01. Maṅgala Buddha. Vị Phật thứ ba trong số hai mươi bốn vị Phật. Ngài ra đời trong vườn Uttaramadhura, tại thành Uttara, cha là một người Sát-đế-lỵ tên Uttara và mẹ là Uttarā. Được biết rằng từ ngày bà thụ thai, một vầng hào quang chiếu sáng ngày đêm từ thân bà, trải rộng tám mươi khoảng tay — vì vậy mà có tên gọi đó. Ngài vượt trội hơn các vị Phật khác về sắc thân rực rỡ. Trong kiếp người cuối cùng của Ngài (tương ứng với kiếp Vessantara của Gotama), Ngài sống cùng gia đình như một đạo sĩ. Một Yakkha ăn thịt người tên Kharadāṭhika đã bắt hai người con của Ngài và ăn trước mặt Ngài, "nhai chúng như thể nhai khoai", trong khi máu nhỏ từ miệng hắn (đây có lẽ là sự kiện được đề cập đến tại Ja.iv.13). Bodhisatta vẫn kiên định trong quyết tâm và không hối tiếc về việc dâng tặng Yakkha, mà còn ước nguyện rằng trong các kiếp tương lai thân Ngài sẽ tỏa sáng rực rỡ như máu chảy xuống trên mặt Yakkha. Trong một tiền kiếp, Maṅgala đã tôn kính cetiya của một vị Phật bằng cách quấn thân mình trong vải tẩm dầu, châm lửa đốt và đi nhiễu quanh cetiya suốt đêm, trên đầu đội một bát vàng chứa đầy dầu thơm với một nghìn bấc đang cháy. Không một sợi tóc nào trên thân ông bị tổn hại.
+
+Trong chín nghìn năm, Maṅgala sống tại gia trong ba cung điện — Yasavā, Sucimā và Sirimā — cùng vợ là Yasavatī, và có một con trai là Sīvala. Ngài xuất gia trên lưng ngựa và tu khổ hạnh trong tám tháng. Ngay trước khi Giác Ngộ, Ngài dùng bữa cháo sữa do một thiếu nữ tên Uttarā, con gái của Uttara *seṭṭhi* ở Uttaragāma, dâng cúng; một người theo phái Ājīvaka tên Uttara đã dâng cỏ làm tòa ngồi cho Ngài. Cây Bodhi của Ngài là cây Nāga. Sau khi Giác Ngộ, Ngài sống chín mươi nghìn năm, và trong suốt thời gian đó hào quang từ thân Ngài tỏa khắp mười nghìn thế giới, che khuất mặt trời, mặt trăng và các ngôi sao. Người ta biết thời gian và mùa vụ qua tiếng hót của chim và sự nở rộ của hoa.
+
+Bài pháp đầu tiên của Maṅgala được thuyết tại Rừng Sirivaruttama, gần Sirivaḍḍha. Những đệ tử chính trong hàng nam nhân là Sudeva và Dhammasena, và các Tỳ-kheo-ni chính là Sīvalā và Asokā. Pālita là thị giả thường trực của Ngài (Bv­a.124 gọi là Uttara). Nanda và Visākha là những thí chủ hàng đầu trong cư sĩ nam, và Anulā và Sutanā trong cư sĩ nữ. Vào thời Maṅgala, Bodhisatta là Bà-la-môn Suruci (*q.v.*). Thân Maṅgala cao tám mươi khuỷu tay; Ngài tổ chức ba đại hội: lần đầu khi thuyết giảng Dhammacakka, lần thứ hai tại Citta *nagara*, khi Ngài thuyết pháp cho Sunanda, vua của Surabhinagara, và con trai ông là Anurāja, và lần thứ ba tại Mekhala cho Sudeva và Dhammasena, những người về sau trở thành đệ tử chính của Ngài.
+
+Ngài tịch trong vườn Vessara, và một cetiya cao ba mươi do-tuần được dựng lên trên tro cốt của Ngài (Bv.iv.1ff.; Bv­a.115ff.; Ja.i.30 ff.; các chi tiết tìm thấy trong Mvu.i.248-50 có đôi chỗ khác nhau). Được biết rằng tất cả đệ tử tùy thân của Đức Phật Maṅgala đều chứng quả Arahant trước khi qua đời (Bv.iv.29).
 
 ## Notes

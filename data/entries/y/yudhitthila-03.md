@@ -5,7 +5,7 @@ base_headword: "Yudhiṭṭhila"
 disambiguator: "03"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -28,6 +28,6 @@ Yudhiṭṭhila 03. The name of a *gotta* to which <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yudhiṭṭhila 03. Tên của một *gotta* mà Dhanañjaya, vua của những người Kurus, thuộc về (Ja.iii.400; v. 59, v.v...). Cũng có đề cập đến một vị Koravyarājā của Yudhiṭṭhila *gotta* (Ja.iv.361). Có lẽ các vị vua của người Kurus (*q.v.*) hầu hết đều thuộc về một triều đại tự xưng là hậu duệ của Yudhiṭṭhila (Yudhiṣṭhira?).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Phagguna"
 disambiguator: "01"
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -27,6 +27,6 @@ Phagguna 01. A monk. In the <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phagguna 01. Một vị tỳ-kheo. Trong Saṁyuttanikāya (SN.iv.52), ngài được mô tả là đang hỏi Đức Phật xem liệu có thể, thông qua bất kỳ giác quan nào, nhận biết và tuyên bố về các vị Phật trong quá khứ hay không. Đức Phật trả lời là không. Có lẽ chính vị tỳ-kheo này được đề cập trong Aṅguttaranikāya là đã được Đức Phật đến thăm trong lúc đang lâm bệnh theo lời đề nghị của Ānanda (AN.iii.379 ff). Đức Phật đã tìm thấy Phagguna trên giường và ốm rất nặng, và ngài đã trò chuyện và an ủi ông ấy. Phagguna đã viên tịch ngay sau đó, sau khi đắc quả vị *Arahant*.
 
 ## Notes

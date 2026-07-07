@@ -5,7 +5,7 @@ base_headword: "Sobhana"
 disambiguator: "05"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Sobhana 05. *v.l.* for <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sobhana 05. Cách đọc khác của Sobha.
 
 ## Notes

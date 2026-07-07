@@ -5,7 +5,7 @@ base_headword: "Tambasumana"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -37,6 +37,8 @@ On another occasion, at <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tambasumana. Có thời ngài từng là quan đại thần của Saddhātissa. Sau khi đến Koṭṭhasāla để thi hành công vụ, ông đã đem tặng cho một tỳ-kheo phần thức ăn mà dân chúng đã chuẩn bị cho mình. Sau đó ông tái sinh ở Vallavāhagāma và được gọi là Sumana. Về sau ông gia nhập Tăng đoàn tại Brāhmaṇārāma và trở thành một Arahant. Vị thọ thần của một cây *timbaru* đã cung cấp thức ăn cho ngài và 500 bạn đồng tu trong nạn đói Brāhmaṇatiya. Về sau, trong những chuyến đi du hành gần Kaṇḍarājika, các tỳ-kheo, lúc sắp sửa thọ thực, đã nghi ngờ về thời gian vì mặt trời bị mây che khuất. Tambasumana ném một hòn đá lên trời, và biến nó tỏa sáng như mặt trời, nhờ vậy xóa tan sự nghi ngờ của họ. Vị trí này về sau được gọi là Maṇisūriya.
+
+Vào một dịp khác, tại Cūḷa Tavālagāma, ngài đã biến cả một dòng sông thành bơ lỏng từ bến cạn của Vālagāmavihāra cho đến Bhuttakatittha, một khoảng cách dài hai *do-tuần*. Ras.ii.24f.
 
 ## Notes

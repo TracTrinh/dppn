@@ -5,7 +5,7 @@ base_headword: "Suddhakasutta"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -23,6 +23,6 @@ Suddhakasutta 03. If cultivated and made much of, concentration on in-breathing 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suddhakasutta 03. Nếu được tu tập và làm cho sung mãn, định niệm hơi thở (*ānāpānasati*) mang lại lợi ích và kết quả lớn lao. SN.v.313.
 
 ## Notes

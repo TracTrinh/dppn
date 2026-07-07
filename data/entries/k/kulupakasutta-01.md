@@ -5,7 +5,7 @@ base_headword: "Kulupakasutta"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -23,6 +23,6 @@ Kulupakasutta 01. Five qualities which make a monk disagreeable to the families 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Năm phẩm chất khiến một vị tỳ-kheo trở nên khó chịu với các gia đình mà ông đến thăm: ông quá thân mật dù quen biết sơ sài (*asanthavavissāsī*); lợi dụng những đặc quyền mà không có lý do chính đáng (*anissaravikappi*); cố gắng hòa giải những gia đình đã xa lánh nhau (*viyatthūpāsevī*); là một kẻ ngồi lê đôi mách (*upakaṇṇakajappī*); và vòi vĩnh (*atiyācanako*). AN.iii.136f.
 
 ## Notes

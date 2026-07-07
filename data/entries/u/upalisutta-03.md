@@ -5,7 +5,7 @@ base_headword: "Upālisutta"
 disambiguator: "03"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -26,6 +26,6 @@ Upālisutta 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upālisutta 03. Upāli (1) đến thăm Đức Phật và bày tỏ mong muốn rút lui vào chốn tĩnh lặng của rừng rậm. Một bước đi như vậy là không đáng mong muốn đối với những ai chưa đạt đến sự tĩnh lặng của tâm, Đức Phật nói, và giải thích ý của Ngài bằng nhiều ví dụ khác nhau. Một con voi trưởng thành có thể vui đùa trong một hồ nước sâu theo ý thích của nó, không giống như một con thỏ hay một con mèo. Kinh tiếp tục mô tả cách mà, như một kết quả của sự xuất hiện của một Tathāgata trên thế gian, một gia chủ sẽ lắng nghe Pháp, xuất gia, từ bỏ mọi ác hạnh và dần dần đạt đến sự phát triển trọn vẹn của bốn jhāna. Upāli được khuyên nên sống giữa các tỳ-kheo và không đi vào rừng. AN.v.201ff.
 
 ## Notes

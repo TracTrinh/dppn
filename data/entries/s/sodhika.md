@@ -5,7 +5,7 @@ base_headword: "Sodhika"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Sodhika. A country over which <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sodhika. Một quốc gia mà Seri (*q.v.*) trị vì làm vua. SN­a.i.90.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Majjhimadesa"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -47,6 +47,14 @@ The people of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="17" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Majjhimadesa. Khu vực Trung Ấn vốn là nơi khai sinh của Phật giáo và là vùng hoạt động đầu tiên của tôn giáo này. Nó mở rộng về phía đông đến thị trấn Kajaṅgala, xa hơn nữa là Mahā Sāla; về hướng đông nam tới sông Salaḷavatī; về hướng tây nam tới thị trấn Satakaṇṇika; về hướng tây tới ngôi làng Bà-la-môn Thūna; về hướng bắc tới Núi Usiraddhaja.
+
+Vin.i.197; Ja.i.49, 80; Mbv.12; Divy.21f, mở rộng biên giới phía đông để bao gồm cả Puṇḍavardhana, đại khái giống với khu vực Bắc Bengal. Điều thú vị là trong các tài liệu Bà-la-môn giáo sơ kỳ (chẳng hạn *Dharmasūtra* của Baudhāyana), Āryāvarta, gần như đồng nhất với khu vực sau này được gọi là Madhyadesa, được mô tả là nằm về phía đông của vùng mà sông Sarasvatī biến mất, về phía tây của Kāḷakavana, về phía bắc của Pāripātra, và về phía nam của dãy Himālaya. Điều này loại trừ toàn bộ Magadha (Baudhāyana i. 1, 2, 9, v.v.).
+
+Cũng đáng chú ý là trong các Chú giải, Majjhimadesa được mở rộng để bao gồm cả toàn bộ Jambudīpa, các lục địa khác được gọi là *Paccantimajanapadā*. Thuật ngữ này cũng được dùng theo nghĩa chung chung. Ví dụ, ở Tích Lan (Tambapaṇṇidīpa) Anurādhapura cũng đã được gọi là Majjhimadesa (AN­a.i.165).
+
+Majjhimadesa có chiều dài là ba trăm yojana, chiều rộng là hai trăm năm mươi yojana, và chu vi là chín trăm yojana (DN­a.i.173). Nó bao gồm mười bốn trong số mười sáu Mahā Janapada, nghĩa là tất cả ngoại trừ Gandhāra và Kamboja, những nước vốn thuộc về Uttarāpatha.
+
+Dân cư của Majjhimadesa được xem là thông tuệ và đức hạnh (Ja.iii.115, 116). Nó là nơi sinh của những bậc vĩ nhân (*purisājanīyā*) bao gồm các vị Phật (Dhp­a.iii.248; AN­a.i.265), và mọi loại sự kiện kỳ diệu đều đã diễn ra tại đó (Snp­a.i.197). Cư dân của Majjhimadesa xem thịt công là một món ăn xa xỉ. Vibh­a.10.
 
 ## Notes

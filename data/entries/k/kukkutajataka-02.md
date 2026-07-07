@@ -5,7 +5,7 @@ base_headword: "Kukkuṭajātaka"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kukkuṭajātaka 02. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kukkuṭajātaka 02. *v.l.* Kukkuhajātaka. (Ja 448). Bodhisatta đã từng là thủ lĩnh của một đàn gà lớn. Một con chim ưng, bằng những lời nói hấp dẫn, đã cố gắng làm bạn với ngài để ăn thịt ngài, nhưng những nỗ lực của nó đều thất bại. Không thể có tình bạn giữa gà và chim ưng, Bodhisatta đã nói. Câu chuyện được kể lại liên quan đến những nỗ lực của Devadatta nhằm sát hại Đức Phật. Ja.iv.55ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Maṅgala"
 disambiguator: "10"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -28,6 +28,6 @@ Maṅgala 10. A young man in the time of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṅgala 10. Một chàng trai trẻ vào thời Đức Phật Vipassī, từ Tāvatiṁsa đến và giữ một bông hoa *mandārava* che phía trên Đức Phật khi Ngài ngồi thiền. Maṅgala là tiền thân của Ekamandāriya Thera. Ap.i.286.
 
 ## Notes

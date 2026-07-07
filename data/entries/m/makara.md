@@ -5,7 +5,7 @@ base_headword: "Makara"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Makara. A floodgate in the <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Makara. Một cống điều tiết nước tại Parakkamasamudda, từ đó chạy ra Kênh Gambhīra. Cv.lxxix.40.
 
 ## Notes

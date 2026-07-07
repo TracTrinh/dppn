@@ -5,7 +5,7 @@ base_headword: "Maṇḍika"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Maṇḍika. A tank in Ceylon restored by <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇḍika. Một hồ chứa nước ở Tích Lan được Parakkamabāhu I. trùng tu. Cv.lxviii.44; xem Cv.Trs.i.280, n.5.
 
 ## Notes

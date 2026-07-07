@@ -5,7 +5,7 @@ base_headword: "Mahā Pabbata"
 disambiguator: "01"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Pabbata 01. The state elephant of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Pabbata 01. Con voi quốc gia của Eḷāra. Mhv.xxv.57.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kuruṅgamigajātaka"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,8 @@ The story was told in reference to <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Xưa kia Bodhisatta là một con linh dương thường ăn quả của cây *sepaṇṇi*. Một ngày nọ, một người thợ săn phát hiện ra ngài và nằm đợi để giết ngài, nhưng Bodhisatta nghi ngờ sự hiện diện của anh ta và do đó thoát chết.
+
+Câu chuyện được kể liên quan đến những âm mưu giết Đức Phật của Devadatta, người thợ săn được đồng nhất với Devadatta. Ja.i.173f.
 
 ## Notes

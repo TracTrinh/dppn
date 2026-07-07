@@ -5,7 +5,7 @@ base_headword: "Pāttanallūra"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Pāttanallūra. A fortress in South India, once occupied by <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāttanallūra. Một pháo đài ở Nam Ấn, từng bị Jagadvijaya chiếm đóng. Cv.lxxvi.304,306; lxxvii.71.
 
 ## Notes

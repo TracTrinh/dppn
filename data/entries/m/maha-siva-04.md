@@ -5,7 +5,7 @@ base_headword: "Mahā Sīva"
 disambiguator: "04"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -28,6 +28,6 @@ Mahā Sīva 04. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sīva 04. Trưởng lão Mahā Sīva. Vị trụ trì của Bhātivaṅka, trong suốt triều đại của Duṭṭhagāmaṇī. Một ngày nọ ngài đi đến đảnh lễ tại Mahā Thūpa, và tại đó ngài đã nhìn thấy hai vị *devatā* đang dâng cúng những bông hoa. Trong những kiếp trước của họ, họ là hai người phụ nữ đã làm thuê trên Mahā Thūpa. Mhv.xxx.46ff.
 
 ## Notes

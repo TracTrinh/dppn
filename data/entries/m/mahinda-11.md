@@ -5,7 +5,7 @@ base_headword: "Mahinda"
 disambiguator: "11"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -27,6 +27,6 @@ Mahinda 11. Younger brother of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahinda 11. Em trai của Sena I. và là phó vương của ông. Ông đã dập tắt cuộc nổi dậy của Udaya chống lại nhà vua, người anh trai của ông. Khi vị vua của người Paṇḍu xâm lược Ceylon, Mahinda đã dẫn một đội quân chống lại ông ta, và, trước sự thất bại của các lực lượng của mình, ông đã tự cắt cổ mình. Cv.l.6, 10, 21ff.
 
 ## Notes

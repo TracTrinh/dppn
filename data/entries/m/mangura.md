@@ -5,7 +5,7 @@ base_headword: "Maṅgura"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Maṅgura. One of the ten sons of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṅgura. Một trong mười người con trai của Kāḷāsoka (*q.v.*)
 
 ## Notes

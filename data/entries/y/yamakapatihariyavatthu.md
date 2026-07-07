@@ -5,7 +5,7 @@ base_headword: "Yamakapāṭihāriyavatthu"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -25,6 +25,6 @@ Yamakapāṭihāriyavatthu. The story of the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yamakapāṭihāriyavatthu. Câu chuyện về Yamakapāṭihāriya. Dhp­a.iii.199-230.
 
 ## Notes

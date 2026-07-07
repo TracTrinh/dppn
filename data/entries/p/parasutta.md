@@ -5,7 +5,7 @@ base_headword: "Pārasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -24,6 +24,6 @@ Pārasutta. The Buddha teaches of the further shore (beyond *Saṁsāra*) and th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pārasutta. Đức Phật giảng dạy về bờ bên kia (bên kia *Saṁsāra*) và con đường dẫn đến đó. SN.iv.369.
 
 ## Notes

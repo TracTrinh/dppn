@@ -5,7 +5,7 @@ base_headword: "Pattavagga"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Pattavagga 02. The third section of the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pattavagga 02. Phần thứ ba của Parivāra thuộc Vinayapiṭaka.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kāṇatālavanatittha"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -25,6 +25,6 @@ Kāṇatālavanatittha. A ford in the <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāṇatālavanatittha. Một bến cạn ở Mahā Vālukagaṅgā, một điểm có tầm quan trọng về mặt chiến lược. Cv.lxxii.19.
 
 ## Notes

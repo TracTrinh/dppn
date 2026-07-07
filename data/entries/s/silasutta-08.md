@@ -5,7 +5,7 @@ base_headword: "Sīlasutta"
 disambiguator: "08"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -24,6 +24,6 @@ Sīlasutta 08. Even as the dawn is the forerunner of the sun, so is virtue the f
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīlasutta 08. Cũng như bình minh là điềm báo trước của mặt trời, giới hạnh cũng là điềm báo trước của Bát Thánh đạo. SN.v.30.
 
 ## Notes

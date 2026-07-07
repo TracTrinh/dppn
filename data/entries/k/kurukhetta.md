@@ -5,7 +5,7 @@ base_headword: "Kurukhetta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -24,6 +24,6 @@ Kurukhetta. Another name for the country of the <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tên gọi khác cho quốc gia của người Kurūs. Ja.vi.291.
 
 ## Notes

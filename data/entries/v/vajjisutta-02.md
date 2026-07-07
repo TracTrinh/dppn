@@ -5,7 +5,7 @@ base_headword: "Vajjīsutta"
 disambiguator: "02"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vajjīsutta 02. Evidently another name for the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vajjīsutta 02. Rõ ràng là tên gọi khác của Sārandadasutta. See. DN­a.ii.524.
 
 ## Notes

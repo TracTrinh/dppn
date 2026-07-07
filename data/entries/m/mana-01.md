@@ -5,7 +5,7 @@ base_headword: "Māna"
 disambiguator: "01"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -27,6 +27,6 @@ Māna 01. Youngest brother and viceroy of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māna 01. Người em út và cũng là phó vương của Aggabodhi III. (Sirisaṅghabodhi). Ông là thống đốc của vùng Dakkhiṇadesa. Về sau, ông bị phát hiện phạm tội trong khuê phòng của cung điện và đã bị các quan trong triều đình ám sát một cách gian trá. Cv.xliv.84,123f.
 
 ## Notes

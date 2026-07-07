@@ -5,7 +5,7 @@ base_headword: "Sirimaṇḍagalla"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sirimaṇḍagalla. One of the villages given by <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirimaṇḍagalla. Một trong các ngôi làng được Vijayabāhu I ban cho các Lābhavāsī. Cv.lx.68.
 
 ## Notes

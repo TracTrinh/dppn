@@ -5,7 +5,7 @@ base_headword: "Manasisutta"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -23,6 +23,6 @@ Manasisutta. If, for just the space of a finger snap, a monk indulges a thought 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Manasisutta. Nếu chỉ trong khoảng thời gian bằng một cái búng ngón tay, một vị tỳ-kheo nuôi dưỡng một niệm từ tâm, thì người đó xứng đáng được gọi là tỳ-kheo. (AN.i.11.)
 
 ## Notes

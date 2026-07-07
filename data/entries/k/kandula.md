@@ -5,7 +5,7 @@ base_headword: "Kaṇḍula"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kaṇḍula. The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇḍula. Rasavāhinī chứa một câu chuyện về việc có lần ông đã chăm sóc cho các tỳ-kheo của Mahā Nijjharavihāra. Ras.ii.29.
 
 ## Notes

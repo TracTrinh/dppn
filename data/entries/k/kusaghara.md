@@ -5,7 +5,7 @@ base_headword: "Kusaghara"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -23,6 +23,6 @@ Kusaghara. A city (?). The Buddha’s lower robe (*nivāsana*) was deposited the
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một thành phố (?). Y hạ (*nivāsana*) của Đức Phật được lưu giữ ở đó sau khi ngài nhập diệt. Bv.xxviii.8.
 
 ## Notes

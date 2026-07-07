@@ -5,7 +5,7 @@ base_headword: "Mahā Sarā"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -33,6 +33,6 @@ Mahā Sarā. The books contain a list of seven great lakes, situated in the <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sarā. Các bộ sách có chứa một danh sách bảy hồ nước lớn, tọa lạc ở Himālaya. Chúng tạo thành các nguồn của năm dòng sông lớn và chỉ cạn kiệt khi bốn mặt trời xuất hiện trên thế gian. Bảy hồ nước này là Anotatta, Sīhapapāta, Rathakāra, Kaṇṇamuṇḍā, Kuṇāla, Chaddanta và Mandākinī (AN.iv.101; cũng tại Ja.v.415; Snp­a.407; DN­a.i.164; Ud­a.300; AN­a.ii.759). Đôi khi (ví dụ, Vsm.416) Haṁsapātana được đưa ra thay cho Mandākinī.
 
 ## Notes

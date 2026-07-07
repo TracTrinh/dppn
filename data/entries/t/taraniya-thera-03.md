@@ -5,7 +5,7 @@ base_headword: "Taraṇiya Thera"
 disambiguator: "03"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Taraṇiya Thera 03. An Arahant. Ninety-one *kappas* ago he built a bridge on an
 
 ## Vietnamese translation
 
-Chưa dịch.
+Taraṇiya Thera 03. Một Arahant. Cách đây chín mươi mốt kappa, ngài đã xây dựng một cây cầu trên một con đường không thể đi qua được. Cách đây năm mươi lăm kappa, ngài là một vị vua, tên là Samogadha. Ap.i.238.
 
 ## Notes

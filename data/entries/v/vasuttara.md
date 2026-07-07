@@ -5,7 +5,7 @@ base_headword: "Vasuttara"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vasuttara. One of the palaces of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một trong những cung điện của Paduma Buddha trước sự Xuất gia của Ngài. Bv­a., p. 146; nhưng xem Paduma.
 
 ## Notes

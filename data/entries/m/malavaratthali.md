@@ -5,7 +5,7 @@ base_headword: "Mālāvaraṭṭhalī"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Mālāvaraṭṭhalī. A place in <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mālāvaraṭṭhalī. Một địa điểm ở Rohaṇa, là bối cảnh của một chiến dịch quân sự của Parakkamabāhu I. Cv.lxxv.66ff.
 
 ## Notes

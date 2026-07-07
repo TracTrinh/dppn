@@ -5,7 +5,7 @@ base_headword: "Subbata"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Subbata. A king of long ago, a previous birth of <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subbata. Một vị vua thuở xa xưa, là một kiếp quá khứ của Kuṭivihāriya Thera (Nalamāliya). Thag­a.i.131; Ap.i.143.
 
 ## Notes

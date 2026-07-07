@@ -5,7 +5,7 @@ base_headword: "Kāmabhūsutta"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -33,6 +33,8 @@ Kāmabhūsutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāmabhūsutta 02. Cittagahapati đến thăm Kāmabhū tại Ambāṭakavana ở Macchikāsaṇḍa và được yêu cầu giải một câu đố: *Nelaṅgo setapacchādo ekāro vattatī ratho*
+
+*Anīghaṁ passa āyantaṁ chinnasotaṁ abandhanaṁ*. Citta giải thích điều này như là sự đề cập đến bậc *Arahant* và chỉ ra ý nghĩa của từng thuật ngữ (SN.iv.291f). Trong Udāna (p.76; Ud­a.370f; so sánh Dhs­a.398), những lời của câu đố được đề cập đến như là đã được Đức Phật sử dụng để nói đến Lakuṇṭaka Bhaddiya.
 
 ## Notes

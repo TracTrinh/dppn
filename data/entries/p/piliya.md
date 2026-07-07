@@ -5,7 +5,7 @@ base_headword: "Piliya"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -26,6 +26,6 @@ Piliya. A *seṭṭhi* of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piliya. Một vị trưởng giả (*seṭṭhi*) ở Benares, là một tiền kiếp của Devadatta. Xem câu chuyện của ông ở Asampadānajātaka. Ja 131, Ja.i.466 ff.
 
 ## Notes

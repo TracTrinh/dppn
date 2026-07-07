@@ -5,7 +5,7 @@ base_headword: "Sujātā"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sujātā 03. Mother of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sujātā 03. Mẹ của Padumuttara Buddha. Ja.i.37; Bv.xi.19; MN­a.ii.722; Dhp­a.i.417.
 
 ## Notes

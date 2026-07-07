@@ -5,7 +5,7 @@ base_headword: "Kaṇhasiri"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kaṇhasiri. Another name for <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇhasiri. Một tên khác gọi Asita. Sn.vs.689.
 
 ## Notes

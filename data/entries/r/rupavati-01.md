@@ -5,7 +5,7 @@ base_headword: "Rūpavatī"
 disambiguator: "01"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -27,6 +27,6 @@ Rūpavatī 01. Daughter of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rūpavatī 01. Con gái của vua Vijayabāhu I. và hoàng hậu Tilokasundarī. Cô có bốn chị em gái, và một người anh trai tên là Vikkamabāhu (Cv.lix.31). Cô đã qua đời khi còn trẻ và chưa kết hôn (Cv.lix.45).
 
 ## Notes

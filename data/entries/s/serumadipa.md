@@ -5,7 +5,7 @@ base_headword: "Serumadīpa"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Serumadīpa. An old name for <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Serumadīpa. Một tên gọi cũ của Nāgadīpa. Ja.iii.187,189.
 
 ## Notes

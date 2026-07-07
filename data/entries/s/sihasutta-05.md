@@ -5,7 +5,7 @@ base_headword: "Sīhasutta"
 disambiguator: "05"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -25,6 +25,6 @@ Sīhasutta 05. Describes the conversion of <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhasutta 05. Mô tả việc cải đạo của Sīha, vị tướng quân (*q.v.*) AN.iv.180f.
 
 ## Notes

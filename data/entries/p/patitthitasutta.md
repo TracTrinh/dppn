@@ -5,7 +5,7 @@ base_headword: "Patiṭṭhitasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Patiṭṭhitasutta. On how a monk may establish earnestness in the five *indriy
 
 ## Vietnamese translation
 
-Chưa dịch.
+Patiṭṭhitasutta. Về cách thức một tỳ-kheo có thể thiết lập sự không phóng dật trong năm *indriya*. SN.v.232.
 
 ## Notes

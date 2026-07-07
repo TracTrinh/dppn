@@ -5,7 +5,7 @@ base_headword: "Mahisavatthu"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Mahisavatthu. A place on the <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahisavatthu. Một địa điểm trên Núi Saṅkheyya nơi Uttara được nói là từng ở lại, trong *vihāra* Dhavajālika. AN.iv.162; AN­a.ii.739.
 
 ## Notes

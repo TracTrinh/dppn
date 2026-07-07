@@ -5,7 +5,7 @@ base_headword: "Maṇḍalamandira"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -27,6 +27,6 @@ Maṇḍalamandira. A building erected by <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇḍalamandira. Một tòa nhà do Parakkamabāhu I. xây dựng tại Pulatthipura. Nơi này được dùng cho vị thầy đặc biệt do ông bổ nhiệm để tụng đọc các truyện Bổn sinh. Cv.lxxiii.72; xem Cv.Trs.ii.9, n.1.
 
 ## Notes

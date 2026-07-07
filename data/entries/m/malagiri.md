@@ -5,7 +5,7 @@ base_headword: "Mālāgiri"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -28,6 +28,6 @@ Mālāgiri. A mountain in the <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mālāgiri. Một ngọn núi ở dãy Himālaya. Ngọn núi này và các ngọn núi khác được tạo thành từ gạch do vua xứ Benares thu gom lại, như được Kāṇāriṭṭha đề cập trong Bhūridattajātaka. Ja.vi.204,212.
 
 ## Notes

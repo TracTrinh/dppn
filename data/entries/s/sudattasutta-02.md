@@ -5,7 +5,7 @@ base_headword: "Sudattasutta"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sudattasutta 02. The Buddha tells <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudattasutta 02. Đức Phật nói với Anāthapiṇḍika rằng người cúng dường thức ăn là trao tặng bốn điều cho người nhận: tuổi thọ, sắc đẹp, an lạc, và sức mạnh. AN.ii.63.
 
 ## Notes

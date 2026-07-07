@@ -5,7 +5,7 @@ base_headword: "Subhavatī"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Subhavatī 01. A city in the time of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subhavatī 01. Một thành phố vào thời Piyadassī Buddha. Gần đó là *pabbata* (ngọn núi) Sudassana, nơi vị vua chư thiên Sudassana sinh sống. Bv­a.173.
 
 ## Notes

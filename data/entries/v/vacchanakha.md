@@ -5,7 +5,7 @@ base_headword: "Vacchanakha"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -24,6 +24,6 @@ Vacchanakha. The Bodhisatta born as a *Paribbājaka*. See the <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vacchanakha. Bodhisatta được sinh làm một Paribbājaka. Xem Vacchanakhajātaka (Ja 235).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Karakaṇḍa"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -30,6 +30,8 @@ He is also called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Karakaṇḍa 01. Karakaṇḍaka. Con trai của người đứng đầu vương triều Okkāka thứ ba và hoàng hậu của ông là Hatthā (Snp-a.ii.352; DN­a.i.258; Mvu.i.348).
+
+Ông cũng được gọi là Karaṇḍaka (Mvu.i.352).
 
 ## Notes

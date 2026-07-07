@@ -5,7 +5,7 @@ base_headword: "Khema"
 disambiguator: "13"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -24,6 +24,6 @@ Khema 13. A teacher, probably of Ceylon, author of the <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khema 13. Một vị giảng sư, có thể là của Tích Lan, tác giả của Khemappakaraṇa. Gv.61, 71; Svd.1222; Sās-d.65; Sās.69.
 
 ## Notes

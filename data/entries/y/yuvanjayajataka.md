@@ -5,7 +5,7 @@ base_headword: "Yuvañjayajātaka"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -36,6 +36,8 @@ Yuvañjayajātaka (Ja 460). The Bodhisatta was once born as <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yuvañjayajātaka (Ja 460). Vị Bồ-tát từng có lần được sinh ra là Yuvañjaya, con trai của Sabbadatta, vua xứ Ramma (Benares). Ngài là con trai cả trong số một ngàn người con trai, và Yudiṭṭhila là em trai của ngài. Sau khi đến tuổi trưởng thành, vào một buổi sáng sớm, khi đang trên đường đến công viên, ngài đã nhìn thấy sương đọng khắp nơi quanh mình. Vào buổi chiều, khi ngài trở về nhà, những giọt sương không còn được nhìn thấy nữa. Người đánh xe của ngài giải thích rằng mặt trời đã làm chúng khô đi. Suy ngẫm về điều này, vị hoàng tử nhận ra sự vô thường của cuộc sống và đã xin phép vua cha cho mình xuất gia. Cả cha mẹ của ngài đều cố gắng can ngăn ngài nhưng họ đã thất bại, và ngài cùng với Yudhiṭṭhila đã xây dựng một am thất ở Himālaya, nơi họ trở thành những đạo sĩ.
+
+Yudhiṭṭhila được đồng nhất với Ānanda. Câu chuyện này được kể liên quan đến Sự Xuất Gia của Đức Phật, cho một số tỳ-kheo những người đã kinh ngạc trước sự hy sinh vĩ đại của Đức Phật. Ja.iv.119ff.; câu chuyện về Yuvañjaya (Yudhañjaya) cũng được đưa ra trong Cariyāpiṭaka iii.1; Cp-a.143ff.
 
 ## Notes

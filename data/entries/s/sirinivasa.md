@@ -5,7 +5,7 @@ base_headword: "Sirinivāsa"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sirinivāsa. Another name for <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirinivāsa. Tên khác của Mahā Nāma, vua Tích Lan. PLC. 84, 96.
 
 ## Notes

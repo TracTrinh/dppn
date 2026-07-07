@@ -5,7 +5,7 @@ base_headword: "Sudassana"
 disambiguator: "24"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -29,6 +29,6 @@ Sudassana 24. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudassana 24. Một Pacceka Buddha của ba mươi mốt kappa trước. Kuṭajapupphiya (Hārita) (Ap.i.451; Thag­a.i.87f.; cf. MN.iii.69,87) và Candana Thera (Thag­a.i.395) đã gặp ngài ở Cāvalapabbata (Vassalapabbata) và đảnh lễ ngài.
 
 ## Notes

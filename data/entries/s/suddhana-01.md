@@ -5,7 +5,7 @@ base_headword: "Suddhanā"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Suddhanā 01. One of the chief lay women followers of <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suddhanā 01. Một trong những nữ cư sĩ chính của Metteyya Buddha. Anāg.vs.60.
 
 ## Notes

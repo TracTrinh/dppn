@@ -5,7 +5,7 @@ base_headword: "Paṭiyārāma"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Paṭiyārāma. The name of the <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṭiyārāma. Tên của Thūpārāma vào thời của Đức Phật Kakusandha. Vin-a.i.86; Dpv.xvii.11.
 
 ## Notes

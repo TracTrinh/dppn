@@ -5,7 +5,7 @@ base_headword: "Kāṇapaddāvuda"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -25,6 +25,6 @@ Kāṇapaddāvuda. A locality in Ceylon. There a she-bear attacked <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāṇapaddāvuda. Một địa phương ở Tích Lan. Tại đó một con gấu cái đã tấn công Parakkamabāhu I (khi đó là *Ādipāda*), nhưng đã bị ông giết chết. Cv.1xvii.40.
 
 ## Notes

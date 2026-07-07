@@ -5,7 +5,7 @@ base_headword: "Sudinnabhāṇavāra"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sudinnabhāṇavāra. The second chapter of the <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudinnabhāṇavāra. Chương thứ hai của Suttavibhaṅga thuộc Vinaya. Vin.iii.11-21.
 
 ## Notes

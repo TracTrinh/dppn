@@ -5,7 +5,7 @@ base_headword: "Pītisutta"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -26,6 +26,6 @@ Pītisutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pītisutta. Sāriputta kể cho Ānanda nghe ngài đã an trú trong thiền (*jhāna*) thứ ba nhờ sự phai nhạt của hỷ (*pīti*) như thế nào. SN.iii.236.
 
 ## Notes

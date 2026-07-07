@@ -5,7 +5,7 @@ base_headword: "Phalakadāyaka Thera"
 disambiguator: ""
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -28,6 +28,6 @@ Phalakadāyaka Thera. An *Arahant*. Ninety-one *kappas* ago he was a waggon buil
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phalakadāyaka Thera. Một vị *Arahant*. Chín mươi mốt *kappa* trước, ngài là một người thợ đóng xe ngựa (*yānakāra*), và đã cúng dường một tấm ván gỗ đàn hương cho Vipassī Buddha. Năm mươi bảy *kappa* trước, ngài làm vua bốn lần với tên là Bhavanimmita (*v.l.* Santa) (Ap.i.174). Ngài có lẽ là cùng một người với Tissa Thera (Số 13). Thag­a.i.199f.
 
 ## Notes

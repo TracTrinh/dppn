@@ -5,7 +5,7 @@ base_headword: "Vasasutta"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -23,6 +23,6 @@ Vasasutta. Seven things, skill in which enables a monk to turn his mind accordin
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bảy điều mà sự thông thạo về chúng cho phép một tu sĩ hướng tâm theo ý muốn của mình và không tự hướng mình theo tâm. AN.iv.34.
 
 ## Notes

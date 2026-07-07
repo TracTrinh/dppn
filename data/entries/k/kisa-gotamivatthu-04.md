@@ -5,7 +5,7 @@ base_headword: "Kisā Gotamīvatthu"
 disambiguator: "04"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kisā Gotamīvatthu 04. The Buddha praises <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kisā Gotamīvatthu 04. Đức Phật ca ngợi Kisā Gotamī (1) trước sự hiện diện của Sakka. Dhp­a.iv.156f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Paripuṇṇaka Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -30,6 +30,8 @@ He had been a householder in the time of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paripuṇṇaka Thera. Ông thuộc một gia đình Sākyan ở Kapilavatthu, và được gọi như vậy vì sự vẹn toàn về các ân tứ và sự may mắn của ông. Của cải của ông cho phép ông thưởng thức, vào mọi lúc, thức ăn của một trăm tinh chất. Khi nghe tin Đức Phật sống bằng một chế độ ăn rất giản dị, ông đã từ bỏ thế gian, và khi gia nhập Tăng đoàn, ông đã trở thành một vị Arahant.
+
+Ông từng là một người gia chủ vào thời Đức Phật Dhammadassī và đã dâng cúng nhiều lễ vật khác nhau tại đền thờ của Ngài. Chín mươi tư kappa trước, ông từng mười sáu lần làm vua dưới tên gọi Thūpasikhara (Thag.vs.91; Thag­a.i.190f). Ông có lẽ đồng nhất với Thambhāropaka của Apadāna. Ap.i.171.
 
 ## Notes

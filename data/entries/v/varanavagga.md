@@ -5,7 +5,7 @@ base_headword: "Varaṇavagga"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Varaṇavagga. The eighth chapter of the *Ekanipāta* of the <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Varaṇavagga. Chương thứ tám thuộc phần *Ekanipāta* của Chú giải Jātaka. Ja.i.316-59.
 
 ## Notes

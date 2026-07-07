@@ -5,7 +5,7 @@ base_headword: "Uraga"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -27,6 +27,6 @@ Uraga (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uraga (v.l. Udaka và Udaṅgaṇa). Một ngọn núi gần Himavā. Trong một kiếp quá khứ, Trưởng lão (Thera) Gosāla đã nhìn thấy ở đó một chiếc y phấn tảo đang treo, và ông đã đảnh lễ chiếc y đó. Thag­a.i.79; Ap.ii.434.
 
 ## Notes

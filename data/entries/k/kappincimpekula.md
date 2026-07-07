@@ -5,7 +5,7 @@ base_headword: "Kappiñcimpekula"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kappiñcimpekula. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kappiñcimpekula. Một thủ lĩnh người Damiḷa, đồng minh của Kulasekhara. Cv.lxxvii.79.
 
 ## Notes

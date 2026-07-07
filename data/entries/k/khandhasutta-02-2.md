@@ -5,7 +5,7 @@ base_headword: "Khandhāsutta"
 disambiguator: "02"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -24,6 +24,6 @@ Khandhāsutta 02. It is for the full comprehension of the five *upādānakkhandh
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khandhāsutta 02. Để có được sự liễu tri trọn vẹn về năm upādānakkhandha, Bát Thánh Đạo cần phải được tu tập. SN.v.60.
 
 ## Notes

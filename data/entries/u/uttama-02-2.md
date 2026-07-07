@@ -5,7 +5,7 @@ base_headword: "Uttamā"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -31,6 +31,8 @@ She is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttarā 02. Một vị Trưởng lão ni (Therī). Bà là con gái của một Bà-la-môn lỗi lạc ở Kosala. Sau khi nghe Đức Phật thuyết pháp trong một chuyến du hành của ngài, bà đã rời bỏ thế gian và nhanh chóng giành được quả vị Arahant. Bà, cũng vậy, từng là một nữ tỳ ở Bandhumatī vào thời của Vipassī. Một ngày nọ, khi nhìn thấy một vị Arahant đang đi khất thực, bà đã vui vẻ cúng dường cho vị ấy những chiếc bánh (Thīg.vv.45-7; Thīg­a.49f).
+
+Bà có lẽ đồng nhất với Modakadāyikā của Apadāna (ii.524f).
 
 ## Notes

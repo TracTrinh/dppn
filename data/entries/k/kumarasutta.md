@@ -5,7 +5,7 @@ base_headword: "Kumārasutta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -30,6 +30,6 @@ Kumārasutta. The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Licchavī Mahā Nāma nhìn thấy một số thanh niên Licchavī đang ngồi bên cạnh Đức Phật, dưới gốc một cái cây trong Mahā Vana ở Vesālī; ông bày tỏ niềm vui của mình trước cảnh tượng đó bởi vì, ông nói, những người Licchavī thường rất tinh nghịch. Sau đó Đức Phật nói với Mahā Nāma về năm điều mà việc thực hành chúng sẽ dẫn đến sự tiến bộ: chăm sóc cha mẹ, nuôi dưỡng vợ con bằng tài sản kiếm được một cách chân chính, tận tụy với công việc kinh doanh của bản thân, tôn vinh các vị thần tổ tiên của mình, thể hiện sự tôn trọng đối với những người tốt và bậc thánh nhân. AN.iii.75ff.
 
 ## Notes

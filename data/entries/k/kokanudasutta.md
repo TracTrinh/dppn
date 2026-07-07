@@ -5,7 +5,7 @@ base_headword: "Kokanudasutta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -25,6 +25,6 @@ Kokanudasutta. The conversation between <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kokanudasutta. Cuộc trò chuyện giữa Ānanda và Kokanuda.
 
 ## Notes

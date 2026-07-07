@@ -5,7 +5,7 @@ base_headword: "Sumana"
 disambiguator: "11"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -30,6 +30,6 @@ Sumana 11. A householder in the time of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumana 11. Một gia chủ trong thời của Duṭṭhagāmaṇī Abhaya, ở ngôi làng Bhokkanta thuộc miền Nam Tích Lan. Về sau ông sống ở ngôi làng Mahā Muni, thuộc quận Dīghavāpi. Ubbirī được sinh ra là con gái của ông và được đặt tên là Sumanā. Sumanā đã kết hôn với Lakuṇṭaka Atimbara. Dhp­a.iv.50f.
 
 ## Notes

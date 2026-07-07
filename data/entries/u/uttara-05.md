@@ -5,7 +5,7 @@ base_headword: "Uttara"
 disambiguator: "05"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -31,6 +31,8 @@ Thenceforth all princes born in the royal household were called <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttara 05. Một vị Arahant. Cùng với Soṇa, ông đã được phái đi bởi Asoka, vào thời điểm kết thúc Kỳ Kết tập lần thứ Ba (Third Council), để hóa độ Suvaṇṇabhūmi. Họ đã đánh bại nữ dạ-xoa và đoàn tùy tùng của ả, những kẻ có thói quen ngoi lên từ dưới biển để ăn thịt các hoàng tử, và sau đó họ đã tụng bài kinh Brahmajālasutta. Sáu mươi ngàn người đã trở thành các tín đồ, năm trăm nhà quý tộc đã trở thành các tỳ-kheo và mười lăm trăm phụ nữ xuất thân từ gia đình quyền quý đã thọ giới thành các tỳ-kheo-ni.
+
+Kể từ đó tất cả các hoàng tử sinh ra trong hoàng gia đều được gọi là Soṇuttara. Mhv.iv.6; 44-54; Vin-a.i.68f; Mbv.115; Dīpavaṁsa nói về Soṇuttara như là một người duy nhất (viii.10).
 
 ## Notes

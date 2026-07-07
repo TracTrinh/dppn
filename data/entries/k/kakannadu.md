@@ -5,7 +5,7 @@ base_headword: "Kākannāḍu"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -25,6 +25,6 @@ Kākannāḍu. A district in South India subdued by the forces of <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kākannāḍu. Một quận ở Nam Ấn Độ đã bị các lực lượng của Parakkamabāhu I. khuất phục. Cv.lxxvi.262.
 
 ## Notes

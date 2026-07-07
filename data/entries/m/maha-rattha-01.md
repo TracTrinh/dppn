@@ -5,7 +5,7 @@ base_headword: "Mahā Raṭṭha"
 disambiguator: "01"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -26,6 +26,6 @@ Mahā Raṭṭha 01. A country where <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Raṭṭha 01. Một quốc độ mà Mahā Dhammarakkhita đã đi đến sau Kỳ Kết Tập thứ Ba. Nó thường được đồng nhất với quốc gia của người Marāthī tại thượng nguồn dòng sông Godhāvarī. Mhv.xii.5, 37; Dpv.viii.8; Vin-a.i.64,67.
 
 ## Notes

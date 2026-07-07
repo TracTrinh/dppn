@@ -5,7 +5,7 @@ base_headword: "Pariññeyyāsutta"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Pariññeyyāsutta 01. The five *khandhas* should be understood, and their under
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pariññeyyāsutta 01. Nên thấu hiểu về năm uẩn (*khandhas*), và sự thấu hiểu của họ bao gồm việc tận diệt tham ái, sân hận và si mê. SN.iii.159.
 
 ## Notes

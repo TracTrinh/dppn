@@ -5,7 +5,7 @@ base_headword: "Kammasutta"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -23,6 +23,6 @@ Kammasutta 02. Seven qualities which lead monks away from ruin (*aparihāniyā d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kammasutta 02. Bảy phẩm chất dẫn các tỳ-kheo thoát khỏi sự hủy diệt (*aparihāniyā dhammā*): từ bỏ sự thích thú trong (1) các hoạt động thế tục, (2) sự tranh cãi, (3) giấc ngủ, (4) sự giao du, (5) những tham muốn xấu xa, (6) những người bạn xấu, (7) việc dễ dàng thỏa mãn đối với các thành tựu. AN.iv.22.
 
 ## Notes

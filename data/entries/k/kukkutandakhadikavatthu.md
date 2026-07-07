@@ -5,7 +5,7 @@ base_headword: "Kukkuṭaṇḍakhādikāvatthu"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kukkuṭaṇḍakhādikāvatthu. A girl eats the eggs of a hen, the hen conceive
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kukkuṭaṇḍakhādikāvatthu. Một cô gái ăn những quả trứng của một con gà mái, con gà mái nảy sinh oán hận đối với cô và được tái sanh thành một con mèo, con mèo này lại ăn những quả trứng của con gà mái, mà con gà mái này lại chính là cô gái tái sanh. Trong năm trăm kiếp sống, chúng cứ như vậy lấy hận báo hận. Cuối cùng, cô gái được tái sanh ở Sāvatthī là một người phụ nữ, và con gà mái tái sanh làm một nữ dạ xoa. Nữ dạ xoa ăn thịt hai đứa con của người phụ nữ, và đang chuẩn bị ăn đứa thứ ba thì người phụ nữ tìm nơi trú ẩn trong tu viện. Đức Phật đã khuyên họ lấy ân báo oán và họ đã trở thành bạn của nhau. Dhp­a.iii.449f; cp. câu chuyện của Kāḷī (6).
 
 ## Notes

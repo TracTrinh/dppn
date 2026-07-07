@@ -5,7 +5,7 @@ base_headword: "Kaṁsa"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -35,6 +35,8 @@ It is probably this same <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṁsa 02. Vua xứ Benares, và được gọi là Bārāṇasiggaha vì ông là người cai trị Benares. Theo Seyyajātaka (Ja 282, Ja.ii.403), ông là vị vua đã bị vị quân chủ của Kosala bắt giữ do sự phản bội của một cận thần bất trung, và sau đó được trả tự do nhờ lòng đạo đức sâu sắc của mình. Trong Ekarājajātaka, vốn có ý định kể lại cùng một câu chuyện, và một lần nữa trong Mahā Sīlavajātaka (Ja 51), nhà vua được gọi bằng những cái tên khác. Có lẽ ở đây chúng ta có một sự nhầm lẫn về các truyền thuyết do nỗ lực gộp ba câu chuyện tương tự thành một câu chuyện duy nhất.
+
+Có lẽ chính Kaṁsa *Bārāṇasiggaha* này là người được nhắc đến trong Tesakuṇajātaka (Ja 521), bởi con cú Vessantara (Ja.v.112). Ở đó, nhà chú giải giải thích *Bārāṇasiggaha* là *catūhi saṅgahavatthūhi Bārāṇasiṁ gahetvā vattanto*.
 
 ## Notes

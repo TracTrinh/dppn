@@ -5,7 +5,7 @@ base_headword: "Kassapa"
 disambiguator: "26"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -35,6 +35,6 @@ Kassapa 26. The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapa 26. Sāsanavaṁsa (p.71) nhắc đến một Trưởng lão Kassapa ở Arimaddana, vào thời của Vua Narapati. Trong lúc đi du hành, ngài đã đến một quốc gia tên là Pollaṅka, nơi người dân vô cùng quý mến ngài và nơi ngài được biết đến với tên gọi là Trưởng lão Pollaṅka. Một thời gian sau, ngài băng qua Tích Lan và con tàu ngài đi đã không thể di chuyển. Họ đã rút thăm, vì cần phải tìm xem ai trên tàu là kẻ có tội. Việc rút thăm liên tục rơi vào Kassapa, vì trong một kiếp trước, ngài đã hành hạ một con chó dưới nước. Do đó, ngài đã bị ném xuống biển, nhưng được Sakka dưới hình dạng một con cá sấu cứu sống. Vị Trưởng lão đã đến Yakkhadīpa (*xem mục này*) và tại đó, nhờ việc thực hành lòng bi mẫn, những vị Yakkha mù lòa đã lấy lại được thị lực. Về sau, Kassapa đã đi đến Sīhaladīpa, từ đó ngài trở về quê hương mang theo xá-lợi, hạt giống của cây Bodhi cùng các mô hình của Mahā Cetiya và Lohapāsāda.
 
 ## Notes

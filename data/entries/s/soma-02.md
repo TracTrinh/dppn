@@ -5,7 +5,7 @@ base_headword: "Soma"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -28,6 +28,6 @@ Soma 02. A *Deva* to whom sacrifice is offered; he is generally mentioned with <
 
 ## Vietnamese translation
 
-Chưa dịch.
+Soma 02. Một Deva được tế tự; ngài thường được đề cập cùng với Varuṇa, Pajāpatī và Yama (DN.244;ii.259; Ja.v.28; vi.201, 568,571). Trong Āṭānāṭiyasutta (DN.iii.204), ngài được nói đến là một vị thủ lĩnh Yakkha. Ngài được đồng nhất với vị thần Mặt Trăng trong văn học về sau (vd., Cv.lxii.5; lxiii.14), người khai sáng *Somavaṁsa* (vương triều).
 
 ## Notes

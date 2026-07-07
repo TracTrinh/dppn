@@ -5,7 +5,7 @@ base_headword: "Sīlavā Thera"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -28,6 +28,6 @@ Sīlavā Thera. He was the son of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīlavā Thera. Ông là con trai của Bimbisāra (Thag.vss.608-19). Người anh/em của ông, Ajātasattu, muốn giết ông, nhưng không thành, do định mệnh của Sīlavā. Đức Phật, biết rõ tất cả điều này, đã sai Moggallāna đi đón Sīlavā. Vị hoàng tử, thấy vị Trưởng lão, xuống khỏi voi và đảnh lễ Đức Phật. Đức Phật thuyết pháp cho ông, và ông gia nhập Saṅgha, trở thành một *Arahant*. Ông sống ở Kosala. Ajātasattu sai người đến giết ông; nhưng Sīlavā đã giảng dạy và cải hóa họ, và họ cũng gia nhập Saṅgha. Thag­a.i.536f.
 
 ## Notes

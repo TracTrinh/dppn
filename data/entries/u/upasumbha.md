@@ -5,7 +5,7 @@ base_headword: "Upasumbha"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Upasumbha. An image of the Buddha placed in the <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upasumbha. Một bức tượng của Đức Phật được đặt trong Bahumaṅgalacetiya tại Anurādhapura. Vua Dhātusena đã làm một chiếc vương miện bằng những tia sáng cho bức tượng. Cv.xxxviii.66.
 
 ## Notes

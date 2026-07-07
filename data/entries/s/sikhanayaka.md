@@ -5,7 +5,7 @@ base_headword: "Sikhānāyaka"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -27,6 +27,6 @@ Sikhānāyaka. An officer of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sikhānāyaka. Một viên quan của Parakkamabāhu I. Ông sống ở địa hạt Moriya và là một người Lambakaṇṇa. Cv.ixix.12.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kati chinde Sutta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -23,6 +23,6 @@ Kati chinde Sutta. Preached in answer to a *Deva*’s question as to how many bo
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kati chinde Sutta. Được thuyết giảng để trả lời câu hỏi của một vị Deva về việc một vị Arahant nên cắt đứt bao nhiêu sợi dây trói buộc. Năm, Đức Phật nói. SN.i.3.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Varakaḷyāna"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -27,6 +27,6 @@ Varakaḷyāna. A primeval king, son of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Varakaḷyāna. Một vị vua thời thượng cổ, con trai của Kalyāṇa. Con trai của ông là Uposatha. Dpv.iii.4; Mhv.ii.2; Ja.ii.311; iii.454; nhưng, theo DN­a.i.258 và Snp­a.i.342, con trai của Varakaḷyāna là Mandhātā.
 
 ## Notes

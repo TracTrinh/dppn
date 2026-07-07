@@ -5,7 +5,7 @@ base_headword: "Paraṅgī"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Paraṅgī. The Pāli name for the Portuguese, who invaded Ceylon, e.g., Cv.xcv.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paraṅgī. Tên Pāli dùng để chỉ người Bồ Đào Nha, những người đã xâm lược Tích Lan, ví dụ: Cv.xcv. 5, 96; xcviii.80.
 
 ## Notes

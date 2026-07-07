@@ -5,7 +5,7 @@ base_headword: "Vedeha"
 disambiguator: "03"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vedeha 03. The personal name of the king of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vedeha 03. Tên cá nhân của vị vua của Kāsi, được đề cập trong Mātuposakajātaka (Ja 455, Ja.iv.94). Ông được đồng nhất với Ānanda. Ja.iv.95.
 
 ## Notes

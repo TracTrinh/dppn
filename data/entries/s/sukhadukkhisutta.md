@@ -5,7 +5,7 @@ base_headword: "Sukhadukkhīsutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sukhadukkhīsutta. The self is both bliss and suffering, without sickness, after
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sukhadukkhīsutta. Bản ngã vừa là niềm hạnh phúc vừa là sự đau khổ, không có bệnh tật, sau khi chết. SN.iii.220.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Upasenā"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -25,6 +25,6 @@ Upasenā. One of the chief women supporters of <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upasenā. Một trong những nữ thí chủ chính của Đức Phật Tissa. Bv.xviii.23.
 
 ## Notes

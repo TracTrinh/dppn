@@ -5,7 +5,7 @@ base_headword: "Kodhasutta"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -23,6 +23,6 @@ Kodhasutta 02. A man who is given to wrath, hypocrisy, gain, and regard for hono
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kodhasutta 02. Một người đàn ông đắm chìm trong sự phẫn nộ, sự đạo đức giả, lợi lộc, và sự lưu tâm đến danh dự, sẽ đi đến địa ngục. AN.ii.84.
 
 ## Notes

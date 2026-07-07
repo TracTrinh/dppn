@@ -5,7 +5,7 @@ base_headword: "Kuṇḍala Thera"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -42,6 +42,12 @@ The verse attributed to <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị *Arahant*. Ông xuất thân từ một gia đình Bà-la-môn ở Sāvatthī và gia nhập Tăng đoàn, nhưng vì thiếu sự cân bằng tâm trí nên ông không thể tập trung suy nghĩ. Rồi một ngày nọ, trong khi đang đi khất thực, ông đã nhìn thấy cách con người dẫn nước đến nơi họ muốn bằng cách đào các kênh rạch, cách người thợ làm mũi tên cố định cán mũi tên trên máy tiện của anh ta và quan sát nó từ khóe mắt, cách những người thợ làm xe ngựa bào nhẵn trục bánh xe, lốp và trục gầm. Tập trung vào những điều này, ông đã nhanh chóng đạt được quả vị *Arahant*.
+
+Trong quá khứ ông là một người giữ công viên, và đã dâng một quả dừa cho Đức Phật Vipassī, Đức Phật đã nhận lấy khi đang du hành qua không trung (Thag­a.i.71f).
+
+Có lẽ ông được đồng nhất với Nāḷikeradāyaka Thera trong Apadāna (ii.447f). Tuy nhiên, các câu kệ tương tự của Apadāna cũng được cho là của Khitaka Thera (Thag­a.i.315f).
+
+Câu kệ được cho là của Kuṇḍala trong Theragāthā (Thag.19) xuất hiện hai lần trong Dhammapada, và trong Dhammapada Commentary được nhắc đến là đã được thuyết giảng một lần liên quan đến *Sāmaṇera* Paṇḍita (Dhp­a.ii.147), và một lần liên quan đến *Sāmaṇera* Sukha (Dhp­a.iii.99).
 
 ## Notes

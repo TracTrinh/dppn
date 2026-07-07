@@ -5,7 +5,7 @@ base_headword: "Rohaṇā"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Rohaṇā. The name of a tribe. Ap.ii.359.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rohaṇā. Tên của một bộ tộc. Ap.ii.359.
 
 ## Notes

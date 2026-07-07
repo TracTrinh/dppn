@@ -5,7 +5,7 @@ base_headword: "Kathāsutta"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kathāsutta 01. A monk should not indulge in childish talk – e.g., about kings
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kathāsutta 01. Một vị tỳ-kheo không nên nói những chuyện phù phiếm – ví dụ, về các vị vua, những tên cướp, các quan đại thần, v.v. – mà chỉ nên nói về sự khổ và những điều liên quan đến nó. SN.v.419f.
 
 ## Notes

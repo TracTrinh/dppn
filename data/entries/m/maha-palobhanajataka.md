@@ -5,7 +5,7 @@ base_headword: "Mahā Palobhanajātaka"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -26,6 +26,6 @@ Mahā Palobhanajātaka (Ja 507). The story is the same in all details as that of
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Palobhanajātaka (Ja 507). Câu chuyện này giống hệt trong mọi chi tiết với câu chuyện của Cūḷa Palobhanajātaka (Ja 263). Tên của Bodhisatta là Anitthigandha. Ja.iv.468-73.
 
 ## Notes

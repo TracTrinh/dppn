@@ -5,7 +5,7 @@ base_headword: "Kumbhavatī"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kumbhavatī. A city in the kingdom of King <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một thành phố trong vương quốc của Vua Daṇḍakī. Kisavaccha đã sống trong công viên gần đó. Ja.iii.463; v.29, 134.
 
 ## Notes

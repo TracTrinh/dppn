@@ -5,7 +5,7 @@ base_headword: "Uposathasutta"
 disambiguator: "03"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -26,6 +26,6 @@ Uposathasutta 03. One *uposatha*-night, during the first watch, <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uposathasutta 03. Vào một đêm *uposatha*, trong canh một, Ānanda đến gần Đức Phật và yêu cầu Ngài tụng *Pātimokkha*. Ngài ấy đã yêu cầu ba lần, nhưng Đức Phật vẫn giữ im lặng, và cuối cùng Ngài nói rằng hội chúng không trong sạch. Mahā Moggallāna, người đang có mặt ở đó, nhìn quanh, và thấy ở đó có một tỳ-kheo đắm chìm trong những lối sống xấu xa, liền yêu cầu vị ấy rời đi. Khi vị ấy từ chối làm như vậy, Moggallāna nắm lấy tay vị ấy và dẫn vị ấy ra ngoài. Ngay sau đó, Đức Phật tiếp tục giải thích rằng, giống như đại dương tràn đầy tám loại điều kỳ diệu, Pháp cũng vậy. AN.iv.204ff.
 
 ## Notes

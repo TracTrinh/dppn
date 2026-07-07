@@ -5,7 +5,7 @@ base_headword: "Kammakāraṇavagga"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -24,6 +24,6 @@ Kammakāraṇavagga. A group of ten *Suttas*, forming the first section of the *
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kammakāraṇavagga. Một nhóm gồm mười kinh (*Sutta*), tạo thành phần đầu tiên của *Dukanipāta*, về nhiều chủ đề khác nhau, chẳng hạn như lỗi lầm và sự trừng phạt chúng, sự tinh tấn thế gian và tâm linh, hai điều (sự sợ hãi và sự hổ thẹn) bảo vệ thế gian, v.v. AN.ii.47ff.
 
 ## Notes

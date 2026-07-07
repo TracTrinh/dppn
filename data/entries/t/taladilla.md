@@ -5,7 +5,7 @@ base_headword: "Taladilla"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Taladilla, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Taladilla, Talandilla. Một bến cảng trong vương quốc Paṇḍu, ở Nam Ấn. Laṅkāpura đã đổ bộ tại đó và chiếm lấy nó. Cv.1xxvi.88, 92.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Phārusaka"
 disambiguator: ""
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -25,6 +25,6 @@ Phārusaka. A garden in Ceylon, laid out by <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phārusaka. Một khu vườn ở Tích Lan (Ceylon), được Parakkamabāhu I kiến tạo. Cv.lxxix.10.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Saṅghikā"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -68,6 +68,22 @@ The best known work of the <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Saṅghikā, Mahā Sangītikā. Một trong những tông phái Phật giáo đã tách ra khỏi các vị Theravādin tại Kỳ Kết Tập thứ Hai. Các thành viên đã từ chối Parivāra, Abhidhamma, Paṭisambhidāmagga, Niddesa và một vài phần của các Jātaka (Kv-a.p.4; Dpv.v.32ff).
+
+Tông phái được gọi như vậy là do số lượng lớn tín đồ của nó, điều đã tạo nên một hội chúng lớn hay “*Mahā Sangīti*”. Họ được xếp vào nhóm *Anātmavādīs*, và về sau đã sinh ra các tông phái sau đây: Mahā Saṅghika, Pubbasela, Aparasela, Rājagiriyā, Hemavatas, Cetiyavādins, Saṅkantivādins và Gokulikas. Ban đầu họ chỉ có hai chi phái là Ekabbohārikas và Gokulikas (Rockhill, op.cit., 182ff).
+
+Sự tách rời của họ khỏi tông phái chính thống được gây ra bởi các tỳ-kheo Vajjiputta, và có lẽ là do sự bất đồng ý kiến về mười điểm (về những điểm này xem Vin.ii.294f) được ủng hộ bởi các tỳ-kheo Vajjiputta. Tuy nhiên, theo các nguồn tài liệu phương Bắc, sự chia rẽ xảy ra dựa trên năm điểm do Mahā Deva đưa ra:
+
+- (1) Một vị Arahant có thể phạm tội dưới sự cám dỗ trong vô thức;
+- (2) một người có thể là một vị Arahant mà không nhận thức được sự thật đó;
+- (3) một vị Arahant có thể có những nghi ngờ về các vấn đề giáo lý;
+- (4) một người không thể chứng đạt quả vị Arahant nếu không có sự trợ giúp của một người thầy;
+- (5) “Thánh Đạo” có thể bắt đầu bằng một vài tiếng thốt lên như “Thật buồn!” được thốt ra trong lúc thiền định (JRAS. 1910, p. 416; đối chiếu Mhv­ṭ 173).
+
+Những tín điều này được tìm thấy trong Kathāvatthu, được cho là của Pubbaselas và Aparaselas, những đối thủ của tông phái Mahā Saṅghika (173ff., 187ff., 194, 197).
+
+Theo Huyền Trang (Beal-Xuan.ii.164), các vị Mahā Saṅghikas đã chia tạng kinh của họ thành năm phần: *Sūtra*, *Vinaya*, Abhidhamma, *Miscellaneous* và *Dhāraṇī*. Pháp Hiển đã mang từ Pāṭaliputta đến Trung Quốc một bản sao chép đầy đủ về Vinaya của Mahā Saṅghika. (Giles, p. 64, Danh mục của Nañjio đề cập đến một bản dịch Vinaya của Mahā Saṅghika và một bản dịch Mahā Saṅgha Bhikṣuṇī Vinaya sang tiếng Hán, Coḷa. 247, 253. Bản thảo số 543).
+
+Tác phẩm được biết đến nhiều nhất của những vị Mahā Saṅghikas là Mahā Vastu. Trụ sở chính của họ ở Tích Lan là tại Abhayagirivihāra, và Sena I. được cho là đã xây dựng Vīraṅkurārāma cho việc sử dụng của họ. Cv.1.68.
 
 ## Notes

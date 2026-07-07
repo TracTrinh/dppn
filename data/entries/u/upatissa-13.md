@@ -5,7 +5,7 @@ base_headword: "Upatissa"
 disambiguator: "13"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -33,6 +33,8 @@ Some MSS. give the author’s name as <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upatissa 13. Trưởng lão Upatissa. Tác giả của Saddhammappajjotikā, bản chú giải cho Mahā Niddesa, được viết theo yêu cầu của Trưởng lão *Deva* (NidA 13. i.108). Chỗ ở của ông nằm ở phía tây của Mahā Cetiya trong khuôn viên của Mahā Vihāra ở Anurādhapura, và nó được xây dựng bởi một vị bộ trưởng, Kittissena.
+
+Một số bản thảo đưa ra tên của tác giả là Upasena. Về thời đại của ông, hãy xem Saddhammappajjotikā.
 
 ## Notes

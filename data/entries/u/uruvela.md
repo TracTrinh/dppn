@@ -5,7 +5,7 @@ base_headword: "Uruveḷa"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -25,6 +25,6 @@ Uruveḷa. One of the chief lay supporters of <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uruveḷa. Một trong những nam thí chủ hộ độ chính của Sumedha Buddha. Bv.xii.25.
 
 ## Notes

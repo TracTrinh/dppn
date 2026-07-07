@@ -5,7 +5,7 @@ base_headword: "Vetaraññī"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vetaraññī. The waters of the <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vetaraññī. Nước của sông Vetaraṇī. Ja.vi.250.
 
 ## Notes

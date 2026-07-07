@@ -5,7 +5,7 @@ base_headword: "Sirināga"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -30,6 +30,6 @@ Sirināga 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirināga 01. Sirināga I. Vua Tích Lan (249-68 CE.). Ông là anh trai của hoàng hậu của Kuñcanāga và là tổng tư lệnh của vua ấy. Ông nổi loạn chống lại nhà vua và đánh bại vua; sau đó ông trị vì tại Anurādhapura. Ông dựng một chiếc lọng che trên Mahā Thūpa, xây lại Lohapāsāda, và trùng tu các bậc thang dẫn đến cây Bodhi. Con trai ông là Vohārikatissa. Mhv.xxxvi.21ff.; Dpv.xxii.34f.
 
 ## Notes

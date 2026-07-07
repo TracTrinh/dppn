@@ -5,7 +5,7 @@ base_headword: "Khemā"
 disambiguator: "05"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -27,6 +27,6 @@ Khemā 05. Chief queen of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khemā 05. Chánh hậu của Brahmadatta, vua xứ Benares. Bà mơ thấy một con nai vàng đang thuyết Pháp, và mong muốn thấy giấc mơ của mình thành hiện thực đã được đáp ứng (Ja.iv.256). Để biết chi tiết, xem Rurujātaka (Ja 482).
 
 ## Notes

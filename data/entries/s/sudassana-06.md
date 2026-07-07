@@ -5,7 +5,7 @@ base_headword: "Sudassana"
 disambiguator: "06"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sudassana 06. The city where <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudassana 06. Thành phố nơi Atthadassī Buddha thuyết pháp cho Bodhisatta. Bv­a.180.
 
 ## Notes

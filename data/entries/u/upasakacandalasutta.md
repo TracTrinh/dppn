@@ -5,7 +5,7 @@ base_headword: "Upāsakacaṇḍālasutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -28,6 +28,6 @@ Upāsakacaṇḍālasutta and <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upāsakacaṇḍālasutta và Upāsakaratanasutta. Suttasaṅgaha chia thành hai Kinh (Số 9 và 10) Kinh xuất hiện trong Aṅguttara, với tư cách là một Kinh, dưới tên gọi Caṇḍālasutta (*q.v.*).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Silāsobbhakaṇḍakacetiya"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Silāsobbhakaṇḍakacetiya. A *Thūpa* to the north of the <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Silāsobbhakaṇḍakacetiya. Một *Thūpa* về phía bắc của Mahā Thūpa, được xây dựng bởi Vaṭṭagāmaṇī (Mhv.xxxiii.88). *Sirīsamālaka* nằm giữa nó và *Nāgamālaka*. Mhv­ṭ.355.
 
 ## Notes

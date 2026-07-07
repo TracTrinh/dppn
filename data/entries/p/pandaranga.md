@@ -5,7 +5,7 @@ base_headword: "Paṇḍaraṅga"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Paṇḍaraṅga. A sect of Brahmin ascetics; they are mentioned in the time of 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇḍaraṅga. Một giáo phái của các đạo sĩ Bà-la-môn; họ được nhắc đến trong thời của Đức Phật (ví dụ, Dhp­a.iv.8) và cả trong thời của Asoka. Có lẽ họ bao phủ cơ thể mình bằng tro, ví dụ, Dpv.viii.35; Vin-a.i.44.
 
 ## Notes

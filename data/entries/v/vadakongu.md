@@ -5,7 +5,7 @@ base_headword: "Vaḍakoṅgu"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vaḍakoṅgu. A place in South India in charge of which was a maternal uncle of
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaḍakoṅgu. Một địa danh ở Nam Ấn Độ do một người cậu của Kulasekhara quản lý. Nơi này được đề cập cùng với Teṅkoṅgu. Cv.lxxvi.288; lxxvii.43.
 
 ## Notes

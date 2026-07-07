@@ -5,7 +5,7 @@ base_headword: "Sīhacammajātaka"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -27,6 +27,8 @@ The story was told in reference to <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhacammajātaka (Ja 189). Xưa có một thương nhân thường đi rao bán hàng hóa, hàng hóa của ông được một con lừa chở. Sau một ngày làm việc, ông thường khoác một tấm da sư tử lên con lừa và thả nó ra ngoài đồng. Các nông dân, tưởng đó là một con sư tử, không dám ngăn nó ăn mùa màng của họ. Nhưng một ngày nọ họ lấy hết can đảm, trang bị vũ khí, và tiến đến gần con vật với tiếng la ó vang dội. Con lừa, hoảng sợ đến chết khiếp, đã rống lên. Các nông dân đánh nó đến chết.
+
+Câu chuyện được kể liên quan đến Kokālika, người được đồng nhất với con lừa (Ja.ii.109f).
 
 ## Notes

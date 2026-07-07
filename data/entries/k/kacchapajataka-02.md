@@ -5,7 +5,7 @@ base_headword: "Kacchapajātaka"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -30,6 +30,8 @@ The tortoise is identified with <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kacchapajātaka 02. (Ja 215). Câu chuyện về một con rùa kết bạn với hai con ngỗng sống ở ngọn núi Cittakūṭa. Một ngày nọ, hai con ngỗng mời rùa đến nơi ở của chúng, và khi rùa đồng ý, chúng bảo nó ngậm chặt một cành cây giữa hai hàm răng, và chúng ngậm hai đầu cành cây rồi bay đi cùng nó. Bọn trẻ trong làng nhìn thấy chúng, bắt đầu hò hét, và con rùa, vốn có bản tính hay nói, đã há miệng định mắng bọn trẻ và bị rơi xuống gần cung điện của vua xứ Benares, bị nghiền nát đến chết. Bodhisatta, lúc bấy giờ là một vị quan của nhà vua, đã chớp lấy cơ hội để khuyên răn chủ nhân của mình, một người mắc tật nói nhiều, về những lợi ích của sự im lặng.
+
+Con rùa được đồng nhất với Kokālika, người mà câu chuyện này nhắm đến (Ja.ii.175-8; cũng được lặp lại ở Dhp­a.iv.91f). Về chi tiết, xem Mahā Takkārijātaka.
 
 ## Notes

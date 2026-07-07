@@ -5,7 +5,7 @@ base_headword: "Kakkārujātaka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -31,6 +31,8 @@ The story was told in reference to the vomiting of blood by <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kakkārujātaka (Ja 326) *v.l.* Kakkarujātaka, Takkarujātaka. Có lần một lễ hội lớn được tổ chức ở Benares, với sự tham dự của cả con người và phi nhân. Trong số phi nhân có bốn vị chư thiên từ cõi Tāvatiṁsa, đội những vòng hoa *kakkāru*, hương thơm của chúng lan tỏa khắp thị trấn. Khi mọi người ngạc nhiên về hương thơm, các chư thiên đã cho họ thấy bản thân mình và những vòng hoa của họ. Mọi người xin những bông hoa này, nhưng các chư thiên giải thích rằng chúng chỉ có thể được đội bởi những người sở hữu những đức hạnh nhất định. Vị pháp sư của nhà vua, với hy vọng đánh lừa các chư thiên, đã tuyên bố mình sở hữu những đức hạnh này. Vòng hoa được đặt lên đầu ông ta và các chư thiên biến mất. Vị pháp sư bị một cơn đau đầu dữ dội, nhưng khi cố gắng tháo vòng hoa ra, ông ta thấy không thể nào tháo được. Khi ông ta đã chịu đựng đau đớn trong bảy ngày, nhà vua, với hy vọng cứu mạng ông ta, đã tổ chức một lễ hội tương tự khác, tại đó các chư thiên lại có mặt. Vị pháp sư đã thú nhận tội lỗi của mình và được giảm nhẹ cơn đau.
+
+Câu chuyện được kể lại liên quan đến việc hộc máu của Devadatta khi các đệ tử của ông rời bỏ ông. Ja.iii.86-90.
 
 ## Notes

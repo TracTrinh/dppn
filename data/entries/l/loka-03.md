@@ -5,7 +5,7 @@ base_headword: "Loka"
 disambiguator: "03"
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -29,6 +29,6 @@ Loka 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Loka 03. Loka Kesadhātu. Một viên quan của Parakkamabāhu I. (Cv.lxxii.57). Ông phục vụ dưới quyền các tướng quân *Damiḷādhikārī* Rakkha (Cv.lxxv.75) và Laṅkāpura (Cv.lxxvi. 253, 269) và đóng vai trò nổi bật trong chiến dịch chống lại Kulasekhara, đặc biệt trong việc chiếm Rājinā. Cv.lxxvi.324, 327.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Silāvatī"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -31,6 +31,8 @@ The village was the birthplace of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Silāvatī. Một ngôi làng của người Sākiyan. Một lần, khi Đức Phật ở đó cùng với đông đảo tỳ-kheo, Māra đã cám dỗ họ trong lốt một người Bà-la-môn *jaṭaṇḍuva* (SN.i.117).
+
+Ngôi làng này là nơi sinh của Bandhura Thera (Thag­a.i.208). Cũng có một câu chuyện kể về việc Māra cám dỗ Samiddhi khi vị ấy đang ở cùng Đức Phật. SN.i.118, nhưng trong Thag­a.i.117, sự việc này được đặt tại Tapodārāma.
 
 ## Notes

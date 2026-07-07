@@ -5,7 +5,7 @@ base_headword: "Uttara"
 disambiguator: "23"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Uttara 23. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttara 23. v.l. Uttaraka. Một thị trấn của người Koḷiyan. Có lần, khi Đức Phật đang lưu trú tại đó, ngài đã được viếng thăm bởi trưởng làng Pāṭaliya. SN.iv.340.
 
 ## Notes

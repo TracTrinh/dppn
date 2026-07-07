@@ -5,7 +5,7 @@ base_headword: "Kaṭṭhahālapariveṇa"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,6 @@ Kaṭṭhahālapariveṇa. A monastic residence in or near <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṭṭhahālapariveṇa. Một cơ sở tu viện ở bên trong hoặc ở gần Anurādhapura. Một tỳ-kheo từ Piyaṅgalla, người được yêu cầu tham gia xây dựng Mahā Thūpa, đã ở lại trong pariveṇa này trong chuyến viếng thăm Anurādhapura của mình. Mhv.xxx.34.
 
 ## Notes

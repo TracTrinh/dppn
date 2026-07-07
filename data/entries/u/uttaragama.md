@@ -5,7 +5,7 @@ base_headword: "Uttaragāma"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uttaragāma. A village in Ceylon, the residence of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttaragāma. Một ngôi làng ở Tích Lan (Ceylon), nơi cư trú của Piṅgala Buddharakkhita Thera. Có một trăm gia đình sống ở đó và vị Trưởng lão (Elder) này, vào lúc này hay lúc khác, đã nhập samāpatti (định) tại cửa của từng ngôi nhà trong số họ, trong khi đang chờ đợi việc khất thực. MN­a.ii.978.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vālikākhetta"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vālikākhetta. A village mentioned in the account of the campaigns of <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vālikākhetta. Một làng được đề cập trong tường thuật về các chiến dịch của Gajabāhu. Cv.lxx.62; also Cv.Trs.i.292, n.2.
 
 ## Notes

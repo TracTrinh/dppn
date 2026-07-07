@@ -5,7 +5,7 @@ base_headword: "Uttarasutta"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Uttarasutta 01. The conversation between <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttarasutta 01. Cuộc đối thoại giữa Uttara *Devaputta* (Uttara 3) và Đức Phật. *Devaputta* nói rằng cuộc đời ngắn ngủi; vì vậy người ta nên tích lũy phước đức để đạt được an lạc. Đức Phật trả lời rằng thay vào đó hãy từ bỏ mồi nhử của mọi thế gian và hướng đến sự An bình tối thượng (SN.i.54).
 
 ## Notes

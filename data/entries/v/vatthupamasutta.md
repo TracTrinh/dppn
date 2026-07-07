@@ -5,7 +5,7 @@ base_headword: "Vatthūpamasutta"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -32,6 +32,8 @@ It is evidently this *Sutta* which is referred to in the <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bài *Sutta* thứ bảy của Majjhimanikāya (MN.i.36ff). Đức Phật nói rằng, cũng giống như một mảnh vải bẩn hấp thụ thuốc nhuộm rất kém, cũng như vậy trong một trái tim không trong sạch sẽ không thể tìm thấy niềm hỷ lạc. Sau đó Ngài tiếp tục liệt kê những sự ô nhiễm của trái tim và chỉ ra cách làm thế nào chúng có thể được làm sạch. Sundarika Bhāradvāja, người đang có mặt ở đó, đã hỏi Đức Phật xem Ngài đã từng tắm ở sông Bāhukā chưa. Đức Phật sau đó đưa ra một danh sách những địa điểm có nguồn nước được xem là linh thiêng, và tuyên bố rằng sự thanh tẩy thực sự là sự thanh tẩy của trái tim “để yêu thương tất cả những người đang sống, nói lời chân thật, không giết hại cũng không trộm cắp, không keo kiệt mà sống trong đức tin.” Bhāradvāja cầu xin xuất gia và trở thành một vị *Arahant*.
+
+Hiển nhiên chính bài *Sutta* này được Sumaṅgalavilāsinī (DN­a.i.50, 123) nhắc đến như là Vatthasutta.
 
 ## Notes

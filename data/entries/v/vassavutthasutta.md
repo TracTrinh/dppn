@@ -5,7 +5,7 @@ base_headword: "Vassavuṭṭhasutta"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -27,6 +27,6 @@ Vassavuṭṭhasutta. A monk, who had spent the *vassa* at <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tu sĩ, người đã an cư trong mùa *vassa* tại Sāvatthī cùng với Đức Phật, đi đến Kapilavatthu, nơi ngài được những người Sākiyan đến thăm, những người muốn biết về sự an khang của Đức Phật và các đệ tử của Ngài cũng như về những lời dạy của Đức Phật trong mùa *vassa*. Vị tu sĩ kể cho họ nghe về một lời tuyên bố do Đức Phật đưa ra, với ý nghĩa rằng chỉ có rất ít người trên thế gian trở thành các vị *Arahant*, *Anāgāmī*, *Sakadāgāmī* hoặc thậm chí là *Sotāpanna*. SN.v.405.
 
 ## Notes

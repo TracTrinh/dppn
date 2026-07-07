@@ -5,7 +5,7 @@ base_headword: "Kammāragāma"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,6 @@ Kammāragāma. A village in <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kammāragāma. Một ngôi làng ở Rohaṇa, được xác định là Kamburugamuva ngày nay. Nó là một trong những nơi mà Kañcukināyaka của Parakkamabāhu I đã đi qua, trong chuyến tuần du thắng lợi của ông (Cv.lxxv.47; Cv.Trs.ii.48, chú thích 2).
 
 ## Notes

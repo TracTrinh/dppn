@@ -5,7 +5,7 @@ base_headword: "Mahā Suvaṇṇa"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Suvaṇṇa. Father of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Suvaṇṇa. Cha của Cakkhupāla. Thag­a.i.195; Dhp­a.i.2.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Rucirā"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rucirā. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rucirā. Một nhóm chư thiên có mặt tại buổi giảng bài kinh Mahā Samayasutta. DN.ii.260.
 
 ## Notes

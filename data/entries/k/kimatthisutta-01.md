@@ -5,7 +5,7 @@ base_headword: "Kimatthisutta"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -24,6 +24,6 @@ Kimatthisutta 01. The first part is identical with <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kimatthisutta 01. Phần đầu tiên giống với Kimatthasutta. Nếu bị chất vấn thêm thế nào là *dukkha*, các vị tỳ-kheo nên trả lời, "mắt là *dukkha*, các đối tượng *rūpa* là *dukkha*, nhãn xúc, v.v." SN.iv.138
 
 ## Notes

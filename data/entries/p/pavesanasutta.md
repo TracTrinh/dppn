@@ -5,7 +5,7 @@ base_headword: "Pavesanasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -23,6 +23,6 @@ Pavesanasutta. Ten evil results of a monk visiting the king’s harem. AN.v.81ff
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pavesanasutta. Mười hậu quả xấu xa của việc một tỳ-kheo đi vào hậu cung của nhà vua. AN.v.81ff.; so sánh Vin.iv.159.
 
 ## Notes

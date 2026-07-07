@@ -5,7 +5,7 @@ base_headword: "Vanavāsa"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -30,6 +30,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vanavāsa. Một quận, có lẽ là Northern Kanara, ở Nam Ấn Độ. Sau kỳ Kết tập lần thứ ba, Rakkhita Thera được cử đến đó để cải đạo cho người dân, và ông đã thuyết giảng Anamataggasaṁyutta khi đang lơ lửng giữa không trung. Người ta nói rằng sáu mươi nghìn người đã tiếp nhận đức tin, ba mươi bảy nghìn người gia nhập Tăng đoàn, trong khi có năm mươi *vihāras* được thành lập trên đất nước này. Mhv.xii.4, 30f.; Vin-a.i.63-66; Dpv.viii.6.
+
+Những người Vanavāsī được đề cập trong *Mahā Bhārata* (6. 366) và Harivaṁsa (5232) như một dân tộc ở Nam Ấn Độ. Sās (p.12) cũng đề cập đến một quốc gia tên là Vanavāsī, tuy nhiên, đây lại là khu vực xung quanh Prome ở Hạ Miến Điện.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Peḷahāla"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -26,6 +26,6 @@ Peḷahāla. A village in Ceylon, granted by <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Peḷahāla. Một ngôi làng ở Tích Lan, được ban tặng bởi Aggabodhi IV. để duy trì *Padhānaghara* do ông xây dựng cho Dāṭhāsiva. Cv.xlvi.13.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Paṇḍuka"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -32,6 +32,8 @@ Paṇḍuka 01. One of the <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇḍuka 01. Một trong nhóm Chabbaggiyā. Sư và Lohitaka là những người đứng đầu của một nhóm đặc biệt gọi là Paṇḍukalohitakā, những người được nhắc đến là đã phạm nhiều lỗi vi phạm các giới luật Vinaya (Vin.ii.1, 5, 6).
+
+Paṇḍuka và Lohitaka sống tại Jetavana và đã khuyến khích những kẻ ngoại đạo bằng cách ủng hộ quan điểm của họ. Satapattajātaka được thuyết liên quan đến hai người này (MN­a.ii.668; Ja.ii.387). Họ là những người ít ác nhất trong nhóm Chabbaggiyā. Vin-a.iii.614.
 
 ## Notes

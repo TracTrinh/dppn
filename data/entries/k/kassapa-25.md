@@ -5,7 +5,7 @@ base_headword: "Kassapa"
 disambiguator: "25"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -27,6 +27,6 @@ Kassapa 25. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapa 25. Một Trưởng lão Kassapa được nhắc đến trong Sāsanavaṁsa (p.50) là một trong số những người có công thiết lập tôn giáo này tại Yonakaraṭṭha. Ngài là một cư dân của Majjhimadesa.
 
 ## Notes

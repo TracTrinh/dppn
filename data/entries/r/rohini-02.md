@@ -5,7 +5,7 @@ base_headword: "Rohiṇī"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -35,6 +35,10 @@ At the conclusion of the Buddha’s sermon, <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rohiṇī 02. Em gái của Anuruddha Thera. Khi ngài về thăm gia đình tại Kapilavatthu, bà từ chối gặp ngài vì đang bị lở loét ngoài da. Nhưng Anuruddha cho người mời bà đến, và khi bà đến, mặt che bằng một tấm vải, ngài khuyên bà nên dựng một giảng đường cho các tỳ-kheo. Bà đồng ý làm việc này, bán trang sức của mình, và dựng lên một tòa nhà hai tầng, việc xây dựng do Anuruddha giám sát. Tại lễ khánh thành, bà cúng dường Đức Phật và chư tăng. Sau bữa ăn, Đức Phật cho người mời bà đến. Bà ngần ngại đến gặp Ngài vì căn bệnh của mình, nhưng được thuyết phục, và Ngài kể cho bà nghe câu chuyện về tiền kiếp của bà.
+
+Ngày xưa bà từng là chánh hậu của vua xứ Benares, và vì ghen tị với một vũ nữ được nhà vua yêu quý, bà đã bày mưu rắc bột gây lở loét lên thân thể, quần áo và giường của cô gái ấy. Cô gái bị nổi mụn nhọt và làn da bị hủy hoại.
+
+Khi Đức Phật thuyết pháp xong, bệnh của Rohiṇī biến mất và thân thể bà trở nên có màu vàng ánh kim, đồng thời bà được an trú trong Sơ quả của Con đường. Sau khi chết, Rohiṇī được sinh vào cõi Tāvatiṁsa, tại điểm gặp nhau của ranh giới bốn vị thiên nhân. Vì sắc đẹp của bà, mỗi vị thiên nhân đều nhận bà là của mình, và họ đem việc tranh chấp ấy trình lên Sakka. Sakka, cũng say đắm bà, và khi ngài thổ lộ ước muốn của mình, họ đồng ý để ngài đưa bà đi, và bà trở thành ái phi đặc biệt của ngài. Dhp­a.iii.295ff.
 
 ## Notes

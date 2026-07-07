@@ -5,7 +5,7 @@ base_headword: "Kotumbariya Thera"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -26,6 +26,6 @@ Kotumbariya Thera *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kotumbariya Thera *v.l.* Kotumbariya Thera. Một vị Arahant. Ba mươi mốt *kappa* trước, ngài đã dâng cúng cho Sikhī Buddha bảy bông hoa được gói trong vải *kotumbara*. Hai mươi *kappa* trước, ngài là một vị vua tên là Mahā Nela. Ap.i.192.
 
 ## Notes

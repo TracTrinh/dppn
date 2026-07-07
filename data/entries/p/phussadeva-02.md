@@ -5,7 +5,7 @@ base_headword: "Phussadeva"
 disambiguator: "02"
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -25,6 +25,6 @@ Phussadeva 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phussadeva 02. Phussadeva Thera. Một vị đạo sư lỗi lạc về Vinaya (Vin.v.3) ở Tích Lan (Ceylon). Ngài sống cùng thời với Upatissa, và quan điểm của ngài thường khác biệt với Upatissa. Xem Vin-a.i.263; ii.456, 495; iii. 651, 653; iv. 890.
 
 ## Notes

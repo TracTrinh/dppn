@@ -5,7 +5,7 @@ base_headword: "Kosiyajātaka"
 disambiguator: "03"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -25,6 +25,6 @@ Kosiyajātaka 03. (Ja 470). Given under the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kosiyajātaka 03. (Ja 470). Được đưa ra trong Sudhābhojanajātaka (Ja 535).
 
 ## Notes

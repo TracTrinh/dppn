@@ -5,7 +5,7 @@ base_headword: "Makulaka"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Makulaka. A *vihāra* in Ceylon, to the east of <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Makulaka. Một *vihāra* ở Tích Lan, nằm ở phía đông của Ariṭṭhapabbata, được xây bởi Sūratissa. Mhv.xxi.6.
 
 ## Notes

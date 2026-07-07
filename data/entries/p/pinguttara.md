@@ -5,7 +5,7 @@ base_headword: "Piṅguttara"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -30,6 +30,6 @@ Piṅguttara. A lad of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piṅguttara. Một thanh niên ở Mithilā, người đã học ở Takkasilā và được ban cho kết hôn với cô con gái xinh đẹp của thầy mình. Nhưng anh ta xui xẻo và vô cùng ghét vợ mình, tránh mặt cô bất cứ khi nào có thể. Trên đường đến Mithilā, khi vợ anh trèo lên một cây vả để xoa dịu cơn đói, anh ta đã chất gai quanh cây và bỏ mặc cô ở đó. Vua Videha của xứ Mithilā đã cứu cô và cưới cô làm vợ, đặt tên cô là Udumbarā. Một thời gian sau, cô nhìn thấy Piṅguttara đang sửa đường, và mỉm cười với vận may của chính mình. Nhà vua, do ghen tuông, đã định giết cô, nhưng Mahosadha đã cứu sống cô. Ja.vi.347f.
 
 ## Notes

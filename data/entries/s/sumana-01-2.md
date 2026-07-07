@@ -5,7 +5,7 @@ base_headword: "Sumanā"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sumanā 01. An *Aggasāvikā* of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumanā 01. Một vị *Aggasāvikā* của Anomadassī Buddha. Ja.i.36; Bv.viii.23.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Pāṭimokkhaṭṭhapanakhandhaka"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -26,6 +26,6 @@ Pāṭimokkhaṭṭhapanakhandhaka. The ninth chapter of the <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāṭimokkhaṭṭhapanakhandhaka. Chương thứ chín của Cūḷa Vagga thuộc Vinayapiṭaka.
 
 ## Notes

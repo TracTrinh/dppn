@@ -5,7 +5,7 @@ base_headword: "Rucinandā"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -27,6 +27,6 @@ Rucinandā. A *seṭṭhi*’s daughter of <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rucinandā. Con gái của một trưởng giả ở Ujjenī, cô đã dâng cúng một bữa ăn bằng cháo sữa cho Đức Phật Padumuttara ngay trước khi ngài đạt được giác ngộ. Bv­a.158.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Pārājikuddesa"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Pārājikuddesa. The second of the nine divisions of the <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pārājikuddesa. Phần thứ hai trong chín phần của Pātimokkha.
 
 ## Notes

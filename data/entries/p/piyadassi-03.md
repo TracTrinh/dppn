@@ -5,7 +5,7 @@ base_headword: "Piyadassī"
 disambiguator: "03"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -28,6 +28,6 @@ Piyadassī 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piyadassī 03. Piyadassī Thera. Một vị *Arahant*. Ngài đã có mặt cùng sáu mươi ngàn người khác, từ Jetārāma, tại buổi lễ đặt nền móng của Mahā Thūpa (Dpv.xix.15; Mhv.xxix.32). Ngài đứng ở phía đông bắc tại buổi lễ, và khi kết thúc buổi lễ, ngài đã thuyết pháp cho Duṭṭhagāmaṇī. Ibid., 65; Mhv­ṭ. 531.
 
 ## Notes

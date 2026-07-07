@@ -5,7 +5,7 @@ base_headword: "Kuṇḍayankoṭṭa"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kuṇḍayankoṭṭa. (?). A locality in South India, where <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+(?). Một địa phương ở Nam Ấn Độ, nơi Laṅkāpura từng đóng trại (Cv.lxxvi.176).
 
 ## Notes

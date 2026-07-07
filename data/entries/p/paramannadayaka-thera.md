@@ -5,7 +5,7 @@ base_headword: "Paramannadāyaka Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Paramannadāyaka Thera. An *Arahant*. Ninety-one *kappas* ago he invited <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paramannadāyaka Thera. Một vị Arahant. Chín mươi mốt kappa trước, ông đã thỉnh Đức Phật Vipassī đến nhà mình, nơi ông phục vụ Ngài bằng thức ăn hảo hạng. Ap.i.249.
 
 ## Notes

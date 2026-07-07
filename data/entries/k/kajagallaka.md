@@ -5,7 +5,7 @@ base_headword: "Kājagallaka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -25,6 +25,6 @@ Kājagallaka. A village in Ceylon, probably near modern Kurunegala. An elephant-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kājagallaka. Một ngôi làng ở Tích Lan, có lẽ gần Kurunegala ngày nay. Có một chuồng voi ở đó, từ đó Bhuvanekabāhu I. đã bắt lấy một con voi. Cv.xc.9.
 
 ## Notes

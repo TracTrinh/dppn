@@ -5,7 +5,7 @@ base_headword: "Pāṭikārāma"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -27,6 +27,6 @@ Pāṭikārāma. A park near <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāṭikārāma. Một công viên gần Vesālī, nơi Đức Phật đang lưu trú, khi Sunakkhatta, vì không thể gây ấn tượng với ngài về sự vĩ đại của Korakkhattiya, đã rời bỏ Tăng đoàn và đi khắp nơi lăng mạ Đức Phật. Ja.i.389; so sánh Ja.i.77.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kitti"
 disambiguator: "09"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,6 @@ Kitti 09. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kitti 09. Kitti Nagaragiri. Một vị tướng của Parakkamabāhu I. Ông là một trong những vị tướng chỉ huy đội viễn chinh Sinhalese tới Rāmañña và đã chỉ huy cuộc tấn công vào cảng Kusumi. Cv.lxxvl.60.
 
 ## Notes

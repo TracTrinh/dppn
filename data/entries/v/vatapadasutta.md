@@ -5,7 +5,7 @@ base_headword: "Vatapadasutta"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vatapadasutta or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vatapadasutta hay Devāsutta. Đức Phật kể cho các tu sĩ về bảy quy tắc hành xử, việc thọ trì chúng đã mang lại cho Sakka chủ quyền thiên giới của ông. Đó là sự phụng dưỡng cha mẹ, sự kính trọng đối với người đứng đầu gia đình, việc sử dụng những lời lẽ ôn hòa, tránh xa sự vu khống, vui thích trong sự buông bỏ, hào phóng và nhã nhặn, nói lời chân thật và tránh xa sự tức giận. SN.i.228.
 
 ## Notes

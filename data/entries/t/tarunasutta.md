@@ -5,7 +5,7 @@ base_headword: "Taruṇasutta"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Taruṇasutta. In him who contemplates the enjoyment of what makes for enfetteri
 
 ## Vietnamese translation
 
-Chưa dịch.
+Taruṇasutta. Trong những ai thường xuyên trầm tư suy ngẫm về sự thụ hưởng dục lạc vốn tạo nên sự trói buộc, lòng khao khát sẽ tăng trưởng và kéo theo một khối *dukkha* (khổ), giống như một chồi non được chăm sóc kỹ lưỡng; nhưng trong những ai thường xuyên trầm tư suy ngẫm về sự khổ sở trong mọi thứ trói buộc, tham ái, v.v., sẽ bị tận diệt. SN.ii.88f.
 
 ## Notes

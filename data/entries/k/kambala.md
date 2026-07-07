@@ -5,7 +5,7 @@ base_headword: "Kambala"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -28,6 +28,6 @@ Kambala, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kambala, Kambalas. Một bộ tộc Nāga. Họ đã có mặt tại Mahā Samaya (DN.ii.258), và được nhắc đến cùng với các Assatara là sống ở chân núi Sineru (Ja.vi.165).
 
 ## Notes

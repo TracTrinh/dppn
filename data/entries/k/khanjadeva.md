@@ -5,7 +5,7 @@ base_headword: "Khañjadeva"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -30,6 +30,6 @@ Khañjadeva. One of the ten chief warriors of <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khañjadeva. Một trong mười chiến binh xuất sắc nhất của Duṭṭhagāmaṇī. Ông là con trai út của Abhaya, một gia chủ ở Mahisadoṇika thuộc vùng Nakulanaga. Tên ông là Deva, nhưng vì hơi đi khập khiễng nên ông được biết đến với tên gọi Khañjadeva. Khi đi săn cùng dân làng, ông thường rượt đuổi và bắt trâu, dùng tay tóm lấy chân chúng, quay chúng quanh đầu ông và ném chúng xuống đất, làm gãy xương chúng. Kākavaṇṇatissa, khi nghe nói về điều này, đã ra lệnh đưa ông đến triều đình. Về sau, Khañjadeva đã tham gia vào các chiến dịch của Duṭṭhagāmaṇī. Mhv.xxiii.3, 78ff. Xem thêm Ras.ii.99f.
 
 ## Notes

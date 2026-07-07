@@ -5,7 +5,7 @@ base_headword: "Pañcaṅguliya Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Pañcaṅguliya Thera. An *Arahant*. Ninety-two *kappas* ago he approached <span
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcaṅguliya Thera. Một vị *Arahant*. Chín mươi hai *kappa* trước, ngài đã tiến đến gần Tissa Buddha, khi Ngài đang bước vào Gandhakuṭi, và cúng dường Ngài một nắm hương thơm. Bảy mươi hai *kappa* trước, ngài là một vị vua tên gọi là Sayampabhā. Ap.i.186.
 
 ## Notes

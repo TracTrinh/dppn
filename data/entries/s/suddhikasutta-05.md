@@ -5,7 +5,7 @@ base_headword: "Suddhikasutta"
 disambiguator: "05"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -23,6 +23,6 @@ Suddhikasutta 05. On the five *indriyas*: faith, energy, mindfulness, concentrat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suddhikasutta 05. Về năm căn (*indriya*): tín, tấn, niệm, định và tuệ. SN.v.193.
 
 ## Notes

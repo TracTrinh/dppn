@@ -5,7 +5,7 @@ base_headword: "Sumanā"
 disambiguator: "12"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sumanā 12. An eminent teacher of the Vinaya in Ceylon. Dpv.xviii.17.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumanā 12. Một vị giáo thọ sư xuất chúng về Luật tạng ở Tích Lan. Dpv.xviii.17.
 
 ## Notes

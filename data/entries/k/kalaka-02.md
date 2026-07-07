@@ -5,7 +5,7 @@ base_headword: "Kāḷaka"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -28,6 +28,6 @@ Kāḷaka 02. *Senāpati* of King <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷaka 02. Tướng quân của Vua Yasapāṇī xứ Benares, một tiền kiếp của Devadatta. Câu chuyện được đưa ra trong Dhammaddhajajātaka. Ja.ii.186ff.
 
 ## Notes

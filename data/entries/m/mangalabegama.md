@@ -5,7 +5,7 @@ base_headword: "Maṅgalabegāma"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Maṅgalabegāma. A place near <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṅgalabegāma. Một địa điểm gần Pulatthipura, được đề cập trong các ghi chép về các chiến dịch của Parakkamabāhu I. Cv.lxvii.52; lxx. 178, 283, 297; lxxii.160, 207.
 
 ## Notes

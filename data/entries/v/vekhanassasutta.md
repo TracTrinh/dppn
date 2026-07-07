@@ -5,7 +5,7 @@ base_headword: "Vekhanassasutta"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -32,6 +32,8 @@ In the *Sutta* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vekhanassasutta. Vekhanassa đến viếng thăm Đức Phật tại Jetavana và tranh luận về sự hoàn thiện. Như trong Cūḷa Sakuladāyīsutta, Đức Phật nói rằng những gì Vekhanassa định nghĩa là sự hoàn thiện chỉ đơn thuần là sự tinh tế của dục lạc, và chỉ những vị *Arahant* mới có thể nắm bắt được ý nghĩa thực sự của sự hoàn thiện. Vekhanassa bực tức, nhưng Đức Phật đã xoa dịu ông, và ông trở thành đệ tử của Đức Phật (MN.ii.40ff).
+
+Trong *Sutta*, Vekhanassa được gọi là Kaccāna. Chú giải (MN­a.ii.716) nói rằng Vekhanassa đã đến viếng thăm Đức Phật vì ông muốn tự mình khám phá xem tại sao học trò cưng của mình, Sakuludāyī, lại bị Đức Phật đánh bại; do đó, ông đã đi suốt quãng đường từ Rājagaha đến Sāvatthī, một khoảng cách bốn mươi lăm do-tuần, để gặp Đức Phật.
 
 ## Notes

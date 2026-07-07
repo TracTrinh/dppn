@@ -5,7 +5,7 @@ base_headword: "Sirimā"
 disambiguator: "12"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -46,6 +46,12 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="28" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirimā 12. Một kỹ nữ ở Rājagaha và là em gái của Jīvaka. Có lần nàng được Uttarā (Nandamātā) thuê để thay thế mình bên cạnh chồng mình (Sumana) trong khi chính Uttarā đi vắng để làm các việc phước thiện. Trong thời gian này Sirimā đã cố hãm hại Uttarā, do một sự hiểu lầm, nhưng khi nhận ra lỗi lầm của mình, nàng đã xin lỗi cả Uttarā, và, theo lời đề nghị của Uttarā, xin lỗi cả Đức Phật (chi tiết về sự việc này được nêu tại mục Uttarā Nandamātā). Khi kết thúc một bài pháp do Đức Phật thuyết tại nhà Uttarā, Sirimā trở thành một *Sotāpanna*. Từ ngày đó trở đi, nàng cúng dường vật thực hằng ngày cho tám vị tăng tại nhà mình.
+
+Một vị tăng ở một tu viện cách đó ba do-tuần, sau khi nghe một vị tăng khác đến thăm kể về sự xuất sắc trong việc bố thí của Sirimā và về nhan sắc phi thường của nàng, đã quyết định đến gặp nàng. Sau khi có được một phiếu nhận vật thực, vị ấy đến nhà nàng, nhưng Sirimā đang bị bệnh, và những người hầu của nàng chăm sóc các vị tăng. Khi bữa ăn đã được dọn ra, nàng được đưa vào phòng ăn để đảnh lễ các vị tăng. Vị tăng si mê lập tức phải lòng nàng và không thể ăn được. Ngay trong ngày hôm đó Sirimā qua đời. Đức Phật ra lệnh rằng thi thể của nàng không được thiêu, mà đặt tại bãi tha ma, được bảo vệ khỏi chim chóc và thú dữ. Khi thi thể bắt đầu phân hủy, nhà vua tuyên bố rằng tất cả người dân, nếu không sẽ bị phạt tiền, phải đến xem thi thể của Sirimā. Đức Phật cũng đi cùng các vị tăng, vị tăng si mê cũng đi theo họ. Đức Phật khiến nhà vua tuyên bố, với tiếng trống, rằng ai trả một ngàn (đồng) có thể lấy thi thể của Sirimā. Không có ai đáp lại. Giá dần dần được hạ xuống còn một phần tám xu. Thế nhưng không ai bước ra, ngay cả khi thi thể được cho không. Đức Phật nói với các vị tăng, chỉ ra rằng ngay cả những người đã sẵn lòng trả một ngàn để qua một đêm với Sirimā giờ đây cũng sẽ không nhận nàng dù được cho không. Bản chất chóng tàn của sắc đẹp là như vậy. Vị tăng si mê trở thành một *Sotāpanna* (Dhp­a.iii.104f.; Vv-a.74ff).
+
+Buddhaghosa nói (Snp­a.i.244f, 253f) rằng Sirimā là con gái của Sālavatī, và đã kế thừa vị trí kỹ nữ của mẹ mình. Sau khi chết, Sirimā được sinh vào cõi Yāma làm vợ của Suyāma. Khi Đức Phật đang thuyết pháp cho các vị tăng tại lễ hỏa táng của nàng, nàng đã đến nơi đó cùng năm trăm cỗ xe. Janapadakaḷyānī Nandā, người khi ấy cũng là một tỳ-kheo-ni, có mặt tại đó, và khi Đức Phật thuyết giảng Kāyavicchandanikasutta (xem từ này), bà đã trở thành một *Arahant*, trong khi Sirimā trở thành một *Anāgāmī*.
+
+Vimānavatthu (pp.78f., 86) kể lại câu chuyện tương tự, thêm rằng Vaṅgīsa cũng có mặt khi bài pháp được thuyết giảng, và, sau khi được Đức Phật cho phép, đã hỏi Sirimā và khiến nàng tiết lộ thân phận của mình. Ở đây Sirimā được nói là đã sinh vào cõi Nimmānaratī, và không có đề cập gì đến việc nàng trở thành một *Anāgāmī*; trong khi vị tăng si mê được nói là đã trở thành một *Arahant*. Sirimā được nhắc đến trong danh sách các nữ cư sĩ (*upāsikā*) lỗi lạc (AN.iv.347; AN­a.ii.791). Tám mươi bốn ngàn người đã chứng ngộ chân lý sau khi nghe Đức Phật thuyết pháp tại lễ hỏa táng của Sirimā. Mil.350.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Takkola"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Takkola. A town mentioned in the <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Takkola. Một thị trấn được nhắc đến trong Milindapañha (p.359) như một trung tâm mậu dịch lớn.
 
 ## Notes

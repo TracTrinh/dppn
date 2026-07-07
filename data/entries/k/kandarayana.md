@@ -5,7 +5,7 @@ base_headword: "Kaṇḍarāyana"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -28,6 +28,6 @@ Kaṇḍarāyana *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇḍarāyana *cách đọc khác:* Kuṇḍarāyana. Một Bà-la-môn. Ông đã đến thăm Mahā Kaccāna tại Gundavana gần Madhurā và buộc tội ngài không tỏ lòng tôn kính đúng mực đối với các Bà-la-môn lớn tuổi, nhưng khi Mahā Kaccāna thuyết pháp cho ông, ông đã bày tỏ sự hoan hỷ và xin được làm đệ tử của vị Thera. AN.i.67f.
 
 ## Notes

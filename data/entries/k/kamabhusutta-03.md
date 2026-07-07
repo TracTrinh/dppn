@@ -5,7 +5,7 @@ base_headword: "Kāmabhūsutta"
 disambiguator: "03"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -26,6 +26,6 @@ Kāmabhūsutta 03. Records another visit of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāmabhūsutta 03. Ghi lại một chuyến viếng thăm khác của Citta đến gặp Kāmabhū. Citta hỏi một loạt các câu hỏi về những hoạt động của thân, khẩu và ý cũng như sự chấm dứt của chúng. Kāmabhū giải thích chúng khiến Citta cảm thấy hài lòng. SN.iv.293.
 
 ## Notes

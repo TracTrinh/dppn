@@ -5,7 +5,7 @@ base_headword: "Vāsudeva"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -40,6 +40,8 @@ In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="13" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Người lớn tuổi nhất trong số những Andhakaveṇhudāsaputtā. Ghatajātaka (Ja 454) kể lại rằng, khi con trai của Vāsudeva qua đời và Vāsudeva tuyệt vọng, em trai của ông là Ghatapaṇḍita đã làm cho ông tỉnh ngộ bằng cách giả vờ phát điên. Vị quan đại thần của Vāsudeva là Rohiṇeyya. Vāsudeva được gọi là Kaṇha và lại được gọi là Kesava (Ja.iv.84; ông được gọi là Kaṇha tại Ja.vi.421). Nhà chú giải giải thích (Ja.iv.84) rằng ông được gọi là Kaṇha vì ông thuộc về *gotta* Kaṇhāyana, và Kesava vì ông có mái tóc đẹp (*kesasobhanatāya*). Tuy nhiên, những cái tên này hỗ trợ cho giả thuyết rằng câu chuyện về Vāsudeva có liên quan đến truyền thuyết về Kṛṣṇa (xem Andhakaveṇhudāsaputtā, No.1).
+
+Trong Mahā Ummaggajātaka (Ja 546, Ja.vi.421) có nói rằng Jambāvatī, mẹ của Vua Sivi, là phi tần của Vāsudeva Kaṇha. Nhà chú giải đồng nhất Vāsudeva này với người lớn tuổi nhất trong số những Andhakaveṇhudāsaputtā, và nói rằng Jambāvatī là một *caṇḍalī*. Vāsudeva đã yêu bà vì sắc đẹp tuyệt trần của bà và kết hôn với bà bất chấp giai cấp của bà. Con trai của họ là Sivi, người sau này đã kế vị ngai vàng của cha mình tại Dvāravatī. Vāsudeva được đồng nhất với Sāriputta. Ja.iv.89.
 
 ## Notes

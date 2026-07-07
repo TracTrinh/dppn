@@ -5,7 +5,7 @@ base_headword: "Kontimārā"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -28,6 +28,6 @@ Kontimārā. A river which flowed from the hill <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kontimārā. Một con sông chảy từ ngọn đồi Ārañjara. Dọc theo con sông này là con đường đi của những người bị dân chúng xứ Sibi lưu đày; Vessantara cũng đã đi con đường này trên đường bị lưu đày (Ja.vi.493). Con sông này cách Suvaṇṇagiritāla năm do-tuần và cách Ārañjara năm do-tuần. Ja.vi.514.
 
 ## Notes

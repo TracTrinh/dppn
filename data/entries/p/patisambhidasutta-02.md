@@ -5,7 +5,7 @@ base_headword: "Paṭisambhidāsutta"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Paṭisambhidāsutta 02. Seven qualities which enable a monk to realize, unaided
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṭisambhidāsutta 02. Bảy phẩm chất giúp một tỳ-kheo có thể tự mình chứng ngộ bốn *paṭisambhidā*. AN.iv.32f.
 
 ## Notes

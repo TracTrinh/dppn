@@ -5,7 +5,7 @@ base_headword: "Sītisutta"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Sītisutta. Six things which prevent a monk from realizing the “cool” (*Nibb
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sītisutta. Sáu điều ngăn trở một vị tỳ-kheo chứng ngộ sự "mát mẻ" (Nibbāna). AN.iii.435.
 
 ## Notes

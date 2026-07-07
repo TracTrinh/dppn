@@ -5,7 +5,7 @@ base_headword: "Kāraliyagiri"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -26,6 +26,6 @@ Kāraliyagiri. A monastery in Ceylon, the residence of a Thera named <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāraliyagiri. Một tu viện ở Tích Lan, là nơi cư trú của một vị Thera tên là Nāga, người đã giảng dạy cho các tỳ-kheo về Dhātukathā sau khi đã từ bỏ việc nghiên cứu các kinh điển trong mười tám năm. Vsm.i.96.
 
 ## Notes

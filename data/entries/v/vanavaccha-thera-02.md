@@ -5,7 +5,7 @@ base_headword: "Vanavaccha Thera"
 disambiguator: "02"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -31,6 +31,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vanavaccha Thera 02. Con trai của một Bà-la-môn giàu có ở Rājagaha; ông đã gia nhập Tăng đoàn, sau khi bị ấn tượng bởi vẻ uy nghi trong chuyến viếng thăm Bimbisāra của đức Phật. Không lâu sau đó, ông đắc quả vị *Arahant* và, do đam mê sự viễn ly, ông đã sống trong những khu rừng, vì thế mà ông có cái tên này. Khi ông đến Rājagaha, những người thân của ông yêu cầu ông sống gần họ, nhưng ông nói rằng ông thích cuộc sống đơn độc của khu rừng hơn (Thag.113).
+
+Vào thời đức Phật Vipassī, ông là một người lao động, và sau khi phạm một tội ác, trong lúc chạy trốn pháp luật, ông đã nhìn thấy một cây Bồ-đề (Bodhi-tree). Thích thú với dáng vẻ của cái cây, ông gom những chùm hoa *asoka* và chất chúng quanh gốc cây. Khi những người truy đuổi bắt kịp ông, ông vẫn đứng yên ở đó, nhìn họ, không hề có chút hận thù nào trong lòng. Họ ném ông xuống một vách đá, và ông đã chết với suy nghĩ về cây Bồ-đề trong tâm trí. Ba *kappa* trước, ông là một vị vua tên là Santusita (Thag­a.i.222). Có lẽ ông đồng nhất với Tambapupphiya trong Apadāna. Ap.i.176.
 
 ## Notes

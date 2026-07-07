@@ -5,7 +5,7 @@ base_headword: "Mahā Paduma"
 disambiguator: "06"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -26,6 +26,6 @@ Mahā Paduma 06. One of the chief Theras present at the Foundation Ceremony of t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Paduma 06. Một trong những Trưởng lão hàng đầu hiện diện tại Lễ Đặt Nền Móng của Mahā Thūpa. Mhv­ṭ. 524. Xem thêm Paduma.
 
 ## Notes

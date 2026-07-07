@@ -5,7 +5,7 @@ base_headword: "Papātapabbata"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -28,6 +28,6 @@ Papātapabbata. A mountain in <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Papātapabbata. Một ngọn núi ở Avanti, gần Kuraraghara. Đây là địa điểm yêu thích của Mahā Kaccāna, và chúng ta được biết về một số cuộc thảo luận đã diễn ra ở đó (ví dụ, SN.iii.9ff.; SN.iv.115f.; AN.v.46f). Người thị giả của Mahā Kaccāna vào thời điểm đó là Soṇa Kuṭikaṇṇa, khi ấy vẫn còn là một cư sĩ. Sau đó, ông trở thành một vị tỳ-kheo, và phải rất khó khăn mới tìm đủ mười vị tỳ-kheo cần thiết cho lễ thọ giới của ông. Vin.i.194f.; Ud.v.6; Dhp­a.iv.101f.
 
 ## Notes

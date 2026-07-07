@@ -5,7 +5,7 @@ base_headword: "Mahilāmukhajātaka"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -36,6 +36,8 @@ The story was related in reference to a monk who was persuaded by a friend to ea
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahilāmukhajātaka (Ja 26). Brahmadatta, vua của Benares, sở hữu một con voi hoàng gia, được gọi là Mahilāmukha, nó là một con voi ngoan ngoãn và tốt bụng. Một ngày nọ những tên trộm đã ngồi xuống bên ngoài chuồng của nó và bắt đầu nói chuyện về những kế hoạch của chúng cho việc cướp bóc và giết người. Đã nhiều ngày liên tiếp điều này đã xảy ra, cho đến cuối cùng, bằng sự kiên nhẫn của việc lắng nghe chúng, Mahilāmukha đã trở nên tàn ác và bắt đầu giết chết những người quản tượng của mình. Nhà vua đã cử vị đại thần của ông, chính là vị Bồ-tát, để điều tra về vấn đề này. Ngài đã khám phá ra những gì đã xảy ra, và đã ra lệnh cho những người thiện lành ngồi ở bên ngoài những chuồng voi để nói chuyện về những đức hạnh khác nhau. Con voi đã lấy lại được sự tốt bụng và ngoan ngoãn như trước đây của nó.
+
+Câu chuyện đã được kể lại để đề cập đến một vị tỳ-kheo người đã bị thuyết phục bởi một người bạn để đến ăn tại tu viện ở Gayāsīsa, được xây dựng cho Devadatta bởi Ajātasattu. Vị tỳ-kheo này sẽ lẻn đến đó vào giờ ăn và sau đó quay trở lại Veḷuvana. Sau một thời gian thì bí mật tội lỗi của ông đã bị phát hiện, và ông đã bị Đức Phật khiển trách. Ông được đồng nhất với Mahilāmukha và nhà vua thì với Ānanda. Ja.i.185-8; xem thêm Giridantajātaka (Ja 184) và Manojajātaka (Ja 397).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mālava"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -27,6 +27,6 @@ Mālava. The name of various <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mālava. Tên gọi của nhiều vị thủ lĩnh người Damiḷa, là đồng minh của Kulasekhara (Cv.lxxvi. 132, 137, 210, 235, 265ff., 284). Hai người trong số họ được gọi là Lambakaṇṇas. Cv.lxxvii.27.
 
 ## Notes

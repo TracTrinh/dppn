@@ -5,7 +5,7 @@ base_headword: "Mahā Patāpa"
 disambiguator: "03"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -25,6 +25,6 @@ Mahā Patāpa 03. A king of twenty-seven *kappas* ago; a former birth of <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Patāpa 03. Một vị vua của hai mươi bảy *kappa* về trước; một tiền kiếp của Trưởng lão Vataṁsakiya. Ap.i.216.
 
 ## Notes

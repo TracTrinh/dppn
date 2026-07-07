@@ -5,7 +5,7 @@ base_headword: "Tacchasūkarajātaka"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -34,6 +34,10 @@ Hence arose the custom of seating the king on a chair of figwood and sprinkling 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tacchasūkarajātaka (Ja 492). Thuở nọ, một thợ mộc ở một ngôi làng gần Benares nhặt được một con lợn rừng con từ một cái hố, đem về nhà nuôi và gọi nó là Tacchasūkara (Lợn rừng của thợ mộc). Con lợn rừng giúp ông làm việc, mang dụng cụ cho ông và làm những việc tương tự. Khi lớn lên thành một con thú to lớn, vạm vỡ, người thợ mộc thả nó tự do trong rừng. Tại đó, nó gia nhập vào một bầy lợn rừng hoang đang bị một con cọp hung dữ quấy rối. Tacchasūkara đã chuẩn bị mọi thứ cho một cuộc phản công, đào hầm chông và huấn luyện tất cả thành viên trong đàn về các nhiệm vụ khác nhau, cùng với các vị trí phòng thủ vào lúc tấn công. Dưới sự dẫn dắt của nó, bầy lợn đã thành công trong việc giết chết con cọp và ngấu nghiến nuốt chửng xác của nó. Tacchasūkara được cho biết rằng có một kẻ tu hành giả mạo đã tiếp tay cho con cọp ăn thịt bầy lợn rừng. Bầy lợn tấn công tu sĩ đó, hắn leo lên một cây sung, nhưng chúng đã nhổ bật gốc cây và ăn thịt hắn. Chúng tôn Tacchasūkara làm vua của mình, cho nó ngồi trên một cây sung, và rưới nước lên người nó từ một chiếc vỏ ốc xà cừ, với các đường xoắn ốc xoay về bên phải, chiếc vỏ ốc mà tên tu sĩ đã dùng để uống nước.
+
+Từ đó nảy sinh phong tục cho nhà vua ngồi trên một chiếc ghế làm bằng gỗ sung và rảy nước lên người ngài từ một chiếc vỏ ốc xà cừ trong lễ đăng quang của ngài. Câu chuyện được kể lại liên quan đến Trưởng lão Dhanuggahatissa (*q.v.*). Các gián điệp của Pasenadi đã nghe ông thảo luận với Trưởng lão Datta về kế hoạch chiến dịch nên được áp dụng nếu Pasenadi muốn đánh bại Ajātasattu. Chuyện này được thuật lại với Pasenadi, ông đã làm theo gợi ý đó và bắt sống Ajātasattu.
+
+Dhanuggahatissa được nhận diện là Tacchasūkara. Ja.iv.342ff.
 
 ## Notes

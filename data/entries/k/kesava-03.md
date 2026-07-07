@@ -5,7 +5,7 @@ base_headword: "Kesava"
 disambiguator: "03"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -24,6 +24,6 @@ Kesava 03. Another name for <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kesava 03. Một tên gọi khác của Vāsudeva (xem mục này). Người ta nói rằng ngài được gọi như vậy là do mái tóc rất đẹp của mình (kesasobhanatāya). Ja.iv.84; Pv­a.94.
 
 ## Notes

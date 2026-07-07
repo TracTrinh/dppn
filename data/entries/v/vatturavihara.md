@@ -5,7 +5,7 @@ base_headword: "Vatturavihāra"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vatturavihāra. A monastery on the banks of the <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tu viện trên bờ sông Kappakandara *nadī*. Ras.ii.111.
 
 ## Notes

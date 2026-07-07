@@ -5,7 +5,7 @@ base_headword: "Paṇḍita"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -30,6 +30,6 @@ Paṇḍita 02. One of the four novices invited by the Brahmin whose house came 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇḍita 02. Một trong bốn sa-di được vị Bà-la-môn, người có ngôi nhà mà sau này được gọi là Pañcachiddageha (Dhp­a.iv.176ff), thỉnh mời. Trong thời đại của Kassapa Buddha ngài được gọi là Mahā Duggata. Trong kiếp sống cuối cùng của mình, mẹ ngài là con gái của một thương gia giàu có ở Sāvatthī. Khi mang thai, bà có một niềm khao khát được cúng dường phần ngon nhất của cá hồng cho năm trăm vị tỳ-kheo, đứng đầu là Sāriputta, được mặc áo vàng, được ngồi ở vòng ngoài của chỗ ngồi của các tỳ-kheo, và được dùng phần thức ăn còn lại của các vị tỳ-kheo. Khát khao này đã được thỏa mãn, và bà đã tổ chức những buổi lễ tương tự bảy lần. Khi đứa trẻ chào đời, ngài được đặt tên là Paṇḍita vì, từ ngày mẹ ngài thọ thai, nhiều người trong nhà từng bị ngu đần, điếc hay câm đã phục hồi các giác quan của họ. Lên bảy tuổi, ngài tràn đầy mong muốn được xuất gia làm tỳ-kheo, và đã được Sāriputta, một người thường xuyên viếng thăm gia đình, cho thọ giới. Trong bảy ngày, cha mẹ ngài đã tổ chức một lễ hội để vinh danh việc ngài xuất gia. Vào ngày thứ tám, ngài cùng với Sāriputta vào làng khất thực; trên đường đi, một số cảnh tượng ngài nhìn thấy – một con mương, những người làm cung tên, thợ mộc – đã khiến ngài mong muốn nỗ lực đạt được quả vị *Arahant*. Sau đó, với sự cho phép của Sāriputta, ngài trở về tu viện và yêu cầu vị Trưởng lão mang cho ngài một ít cá hồng khi ngài trở về từ chuyến đi khất thực. Trong tu viện, Sakka đã dập tắt mọi tiếng ồn và giữ mặt trời cùng mặt trăng lại, để Paṇḍita không bị quấy rầy. Đức Phật, thấy vậy, đã giữ Sāriputta lại trên đường ngài trở về tu viện, và thu hút ngài vào cuộc trò chuyện cho đến khi Paṇḍita thành công trong nỗ lực của mình. Sau một lúc, Paṇḍita trở thành một vị *Arahant* và toàn thế giới đều hoan hỉ. Dhp­a.ii.139ff.
 
 ## Notes

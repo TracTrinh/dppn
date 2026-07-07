@@ -5,7 +5,7 @@ base_headword: "Kummasutta"
 disambiguator: "03"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -24,6 +24,6 @@ Kummasutta 03. Like the tortoise who withdrew all his limbs into his shell lest 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Giống như con rùa thu tất cả tứ chi vào trong mai để con chó rừng không thể bắt được, vị tỳ-kheo cũng vậy, hãy không ngừng canh giữ mọi giác quan của mình khỏi Māra. SN.iv.177.
 
 ## Notes

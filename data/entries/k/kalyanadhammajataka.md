@@ -5,7 +5,7 @@ base_headword: "Kalyāṇadhammajātaka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -31,6 +31,10 @@ The story is also given in the *Jātakamālā*, where it is called the *Śreṣ�
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kalyāṇadhammajātaka (Ja 171). Bodhisatta từng là một thương nhân giàu có ở Benares. Một ngày nọ, khi ngài vừa đi đảnh lễ nhà vua, thì mẹ vợ ngài đã đến thăm vợ ngài. Bà bị lãng tai, và khi hỏi con gái xem họ có hạnh phúc không, và nhận được câu trả lời rằng chồng cô là một người đàn ông rất tốt, giống như một ẩn sĩ, bà chỉ nghe được mỗi từ “ẩn sĩ,” và bà đã gây ra một trận huyên náo lớn vì nghĩ rằng con rể mình đã trở thành một ẩn sĩ. Tin tức lan truyền như cháy rừng, và khi vị thương nhân đang trên đường về nhà thì có người đã kể cho ngài nghe rằng tất cả các thành viên trong gia đình ngài đang khóc lóc vì ngài đã trở thành một ẩn sĩ. Nghĩ rằng những lời nói tốt lành không nên bị coi thường, vị thương nhân đã đi đến gặp nhà vua, xin từ giã ông, và trở thành một người xuất gia trong Himālaya.
+
+Câu chuyện này đã được kể ra liên quan đến một vị thương nhân xứ Sāvatthī, người cũng đã gặp phải điều tương tự khi ông đi đảnh lễ Đức Phật (Ja.ii.63-5).
+
+Câu chuyện cũng được đưa ra trong *Jātakamālā*, tại đó nó được gọi là *Śreṣṭhijātaka* (Jm 20).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vaṇijjagāmavihāra"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vaṇijjagāmavihāra. A monastery in Ceylon, built by <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaṇijjagāmavihāra. Một tu viện ở Tích Lan (Ceylon), do Kassapa III xây dựng. Cv.xlviii.24.
 
 ## Notes

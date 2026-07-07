@@ -5,7 +5,7 @@ base_headword: "Paṭipadāsutta"
 disambiguator: "04"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Paṭipadāsutta 04. The Buddha does not praise wrong practice, but he praises r
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṭipadāsutta 04. Đức Phật không tán thán thực hành sai lầm, nhưng ngài tán thán thực hành đúng đắn. SN.v.18f.
 
 ## Notes

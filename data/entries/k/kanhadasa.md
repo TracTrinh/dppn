@@ -5,7 +5,7 @@ base_headword: "Kaṇhadāsa"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -28,6 +28,6 @@ Kaṇhadāsa. The donor of the *vihāra* in <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇhadāsa. Người cúng dường tu viện (*vihāra*) ở Kāveripaṭṭana, nơi Buddhadatta sinh sống, tác giả của Madhuratthavilāsinī, bản chú giải của Buddhavaṁsa. Bv­a.249.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Piyā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -30,6 +30,6 @@ Piyā. The eldest of the five daughters of the third <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piyā. Cô con gái lớn nhất trong số năm người con gái của vị vua Okkāka thứ ba, mẹ cô là Hatthā. Cô mắc một căn bệnh ngoài da, và các anh em của cô, không muốn ở gần cô, đã đưa cô vào rừng và bỏ mặc cô gần một cái ao. Tại đó cô gặp Rāma, vua xứ Benares, người cũng mắc phải một căn bệnh tương tự và đang sống lưu vong trong rừng. Sau khi nghe câu chuyện của Piyā, ông đã cưới cô làm vợ, và họ có ba mươi hai người con, những người này trở thành tổ tiên của tộc người Koḷiyan. Snp­a.i.352f., 355f.; DN­a.i.258; Mhv­ṭ.131.
 
 ## Notes

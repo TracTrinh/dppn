@@ -5,7 +5,7 @@ base_headword: "Subhadeva"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Subhadeva. Uncle of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subhadeva. Bác (hoặc chú) của Abhayanāga. Abhayanāga đã sai người chặt cả tay và chân của Subhadeva rồi bỏ mặc ông ở lại, để ông ta có thể gây ra sự chia rẽ trong vương quốc của Vohārikatissa. Khi thời cơ đến, ông ta đã gửi tin nhắn cho Abhayanāga, và người này đã cướp ngôi. Mhv.xxxvi.45f.; Mhv­ṭ.663.
 
 ## Notes

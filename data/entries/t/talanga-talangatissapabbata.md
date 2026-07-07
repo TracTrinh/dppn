@@ -5,7 +5,7 @@ base_headword: "Talaṅga, Talaṅgatissapabbata"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -44,6 +44,10 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Talaṅga, Talaṅgatissapabbata, Talaṅgaratissapabbata, Talaṅka, Tālaṅkara, Tālaṅganagara. Một địa phương ở Tích Lan, có lẽ thuộc Piyaṅgudīpa. Nó được biết đến chủ yếu do từng là nơi lưu trú của Trưởng lão Dhammadinna. Mhv.xxxii.52; VbhA.389, 489; Vsm.392, 834.
+
+Đó có thể là nơi được nhắc đến trong Saddhammasaṅgaha (p.88) như nơi lưu trú của Mahā Dhammadinna, dưới tên gọi Talaṅgatissapabbata (ở một chỗ khác – Mhv­ṭ.606, n.2 – gọi là Vālaṅgatissapabbata). Có một hang động trong vùng này mang tên Devarakkhitalena.
+
+Theo Majjhima Commentary (i.149f), Talaṅgaratissapabbata ở tại Rohaṇa, và nằm giữa nó với Tissamahārāma là các tu viện Haṅkana và Cittalapabbata.
 
 ## Notes

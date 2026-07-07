@@ -5,7 +5,7 @@ base_headword: "Parakkamabāhu"
 disambiguator: "06"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Parakkamabāhu 06. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parakkamabāhu 06. Parakkamabāhu V. Vua của Tích Lan (Cv.xc.1; xem Codr.83, 89, và Cv.Trs. ii. 212, n.1). Ông có lẽ là anh em của Bhuvanekabāhu IV, và, có thể, đã đặt kinh đô tại Gaṅgāsiripura. Thời kỳ trị vì của ông không được biết chính xác, nhưng vào khoảng giữa năm 1348 và 1360 CN.
 
 ## Notes

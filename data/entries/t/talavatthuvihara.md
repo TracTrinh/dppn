@@ -5,7 +5,7 @@ base_headword: "Tālavatthuvihāra"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,6 @@ Tālavatthuvihāra. A monastery in Ceylon. It was restored by <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tālavatthuvihāra. Một tu viện ở Tích Lan. Nó được trùng tu bởi Aggabodhi V., người cũng đã ban cho tu viện ngôi làng Paṇṇabhatta. Dường như ông đã đổi tên ngôi làng thành Mahā Sena, có lẽ theo tên của vị sáng lập ban đầu. Cv.xlviii.8; Cv.Trs.i.111, n.1.
 
 ## Notes

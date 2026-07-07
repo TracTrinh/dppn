@@ -5,7 +5,7 @@ base_headword: "Taṇhāsutta"
 disambiguator: "06"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Taṇhāsutta 06. Preached to <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Taṇhāsutta 06. Được giảng cho Rāhula, dưới hình thức hỏi và đáp. Sự tham ái đối với các đối tượng của giác quan là phù du, và do đó dẫn đến sự đau khổ. SN.ii.248, 251.
 
 ## Notes

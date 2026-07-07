@@ -5,7 +5,7 @@ base_headword: "Mallikārāma"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -30,6 +30,8 @@ The Commentary (MN­a.ii.710; cf. DN­a.ii.365) says it was called *Samyappavād
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mallikārāma. Một khu ngự uyển ở Sāvatthī thuộc về Hoàng hậu Mallikā. Nó được mô tả là "*Samayappavādakatindukācīra-ekasalaka* (*v.l.* -tind*ukākhīra*-)." DN.i.178; MN.ii.22, v.v.; Vin-a.i.107, v.v.
+
+Chú giải (MN­a.ii.710; so sánh DN­a.ii.365) nói rằng nó được gọi là *Samyappavādaka* bởi vì các đạo sư nắm giữ nhiều quan điểm khác nhau thường tụ tập ở đó và thuyết giảng về các giáo lý của họ. Nó được bao quanh bởi các cây *tindukakhīra* (*timbaru*), do đó mới có tên gọi là *tindukācīra* (*nguyên văn*); lúc đầu nó chỉ có một sảnh đường, nhưng về sau nhiều sảnh đường khác đã được dựng lên thông qua phước báo tốt lành của Poṭṭhapāda – do đó mới có biệt danh là Ekasālāka.
 
 ## Notes

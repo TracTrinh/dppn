@@ -5,7 +5,7 @@ base_headword: "Kumārapetavatthu"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kumārapetavatthu 02. Two sons of the <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hai người con trai của vị vua Kosala đã phạm tội ngoại tình và được sinh ra làm *Peta*. Một đêm nọ họ thốt ra những tiếng than khóc lớn và những cư dân của Sāvatthī đã tìm kiếm sự bảo vệ của Đức Phật. Đức Phật đã giải thích sự việc cho họ, và người dân đã bố thí và hồi hướng công đức họ có được cho các *Peta*. Pv.iv.6; Pv-a.261f.
 
 ## Notes

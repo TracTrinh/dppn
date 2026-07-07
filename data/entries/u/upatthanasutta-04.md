@@ -5,7 +5,7 @@ base_headword: "Upaṭṭhānasutta"
 disambiguator: "04"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -28,6 +28,8 @@ According to the Commentary (SN­a.i.232), the monk was an *Arahant*. He had far
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upaṭṭhānasutta 04. Ghi chép về một cuộc trò chuyện giữa một *Deva* và một tỳ-kheo cư ngụ trong một khu rừng ở Kosala. Trong lúc ngủ trưa, vị tỳ-kheo thường hay ngủ gật, và *Deva*, vì mong muốn lợi ích cho vị ấy và khao khát truyền cảm hứng cho vị ấy, đã đến gần và yêu cầu vị ấy đừng buông thả bản thân vào những thói quen ngủ gà ngủ gật. Tỳ-kheo trả lời với ngụ ý rằng một khi một người đã đạt được tuệ quán bằng cách đè nén sự khao khát và tham dục, thì không cần phải hành hạ bản thân bằng những nỗ lực không cần thiết (SN.i.197f).
+
+Theo Bản chú giải (SN­a.i.232), vị tỳ-kheo đó là một *Arahant*. Vị ấy đã đi rất xa để xin thức ăn, và khi quay về, vô cùng mệt mỏi, vị ấy sẽ tắm rửa và nghỉ ngơi.
 
 ## Notes

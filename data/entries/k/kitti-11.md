@@ -5,7 +5,7 @@ base_headword: "Kitti"
 disambiguator: "11"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kitti 11. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kitti 11. Kitti Senāpati. Vị tướng của Līlāvatī. Ông đã lật đổ Coḍagaṅga, đưa Līlāvatī lên ngai vàng, và điều hành chính phủ trong ba năm (1197-1200) (Cv.lxxx.30). Ông là một người bảo trợ cho học thuật (PLC.207).
 
 ## Notes

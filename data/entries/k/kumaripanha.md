@@ -5,7 +5,7 @@ base_headword: "Kumārīpañhā"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -36,6 +36,10 @@ The Commentary (AN­a.ii.828) mentions them as being the questions of <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rõ ràng là tên được đặt cho những câu hỏi mà các cô con gái của Māra – Taṇhā, Aratī và Ragā – hỏi Đức Phật khi họ đến thăm Ngài để cám dỗ Ngài, và những câu trả lời của Đức Phật.
+
+Những câu hỏi và câu trả lời này tạo thành Dhītaro Sutta của Saṁyuttanikāya (SN.i.124f), nhưng một trích dẫn từ chúng được đưa ra trong Aṅguttara (AN.v.46f) được đề cập đến như là đã được lấy từ Kumārīpañhā.
+
+Chú giải (AN­a.ii.828) đề cập đến chúng như là những câu hỏi của các cô con gái của Māra (*kumārīnaṁ Māradhītānaṁ pucchā*).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Loṇagiri"
 disambiguator: "01"
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -27,6 +27,6 @@ Loṇagiri 01. A *vihāra* on the banks of the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Loṇagiri 01. Một *vihāra* trên bờ sông Ajakaraṇī, nơi Sabbaka (Sappaka) đã đạt được quả vị *Arahant*. Thag­a.i.399.
 
 ## Notes

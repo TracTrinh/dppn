@@ -5,7 +5,7 @@ base_headword: "Kūṭasutta"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -24,6 +24,6 @@ Kūṭasutta 02. Similar to the above; all profitable conditions have earnestnes
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tương tự như bài ở trên; tất cả các điều kiện có lợi đều có sự không phóng dật làm đỉnh cao. SN.v.43.
 
 ## Notes

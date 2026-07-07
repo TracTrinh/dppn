@@ -5,7 +5,7 @@ base_headword: "Ruhakavagga"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Ruhakavagga. The fifth section of the *Dukanipāta* of the <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ruhakavagga. Phẩm thứ năm của *Dukanipāta* thuộc Jātaka. Ja.ii.113-38.
 
 ## Notes

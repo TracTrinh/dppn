@@ -5,7 +5,7 @@ base_headword: "Maṇḍavāṭaka"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Maṇḍavāṭaka. A tank in Ceylon, restored by <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇḍavāṭaka. Một hồ chứa nước ở Tích Lan, được Vijayabāhu I. trùng tu. Cv.Ix.49.
 
 ## Notes

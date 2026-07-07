@@ -5,7 +5,7 @@ base_headword: "Khemī"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -25,6 +25,6 @@ Khemī. A pond, probably identical with <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khemī. Một cái ao, có lẽ đồng nhất với Khema (8, Ja.v.374).
 
 ## Notes

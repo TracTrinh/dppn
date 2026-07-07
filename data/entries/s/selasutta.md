@@ -5,7 +5,7 @@ base_headword: "Selasutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Selasutta. Records the visit of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Selasutta. Ghi lại cuộc viếng thăm của Sela (1) đến Đức Phật, sự cải đạo của ông, và sự chứng đắc quả vị *Arahant*. Một phần của bài *Sutta* này nói về cuộc gặp gỡ của Đức Phật với Keniya, vị Jaṭila. Snp., p.102 ff. = MN.i.146ff.
 
 ## Notes

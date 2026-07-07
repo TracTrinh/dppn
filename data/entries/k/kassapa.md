@@ -5,7 +5,7 @@ base_headword: "Kassapa"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -140,6 +140,44 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="99" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapa 01. Đức Phật Kassapa. Còn được gọi là Kassapa Dasabala để phân biệt ngài với những vị Kassapa khác. Vị Phật thứ hai mươi tư, vị thứ ba của kiếp hiện tại (kiếp Bhaddakappa) và là một trong bảy vị Phật được đề cập trong Chánh tạng (DN.ii.7). Ngài sinh ra tại Benares, trong Lộc Uyển ở Isipatana, có cha mẹ là người Bà-la-môn tên là Brahmadatta và Dhanavatī, thuộc dòng dõi Kassapagotta. Trong hai ngàn năm, ngài sống cuộc đời thế tục, trong ba cung điện khác nhau là Haṁsa, Yasa và Sirinanda (Bv­a.217 gọi hai cung điện đầu là Haṁsavā và Yasavā). Ngài có người vợ chính là Sunandā, người đã sinh cho ngài một người con trai tên là Vijitasena. Kassapa đã xuất gia, đi trên cung điện (*pāsāda*) của mình, và thực hành khổ hạnh chỉ trong bảy ngày. Ngay trước khi Giác ngộ, vợ ngài đã dâng cho ngài một bữa ăn bằng cháo sữa, và một *yavapāla* tên là Soma đã dâng ngài cỏ để làm chỗ ngồi. Cây *bodhi* của ngài là một cây đa, và ngài đã thuyết bài pháp đầu tiên tại Isipatana cho một crore vị tỳ-kheo đã xuất gia cùng với ngài. Ngài đã thực hiện phép Song thông dưới gốc cây *asana* bên ngoài Sundaranagara. Ngài chỉ tổ chức một hội chúng các đệ tử; trong số những lần hóa độ nổi tiếng nhất của ngài có cuộc hóa độ một vị Yakkha là Naradeva (*xem mục này*). Các vị đại đệ tử của ngài là Tissa và Bhāradvāja trong số các tỳ-kheo, và Anulā và Uruvelā trong số các tỳ-kheo-ni, thị giả thường xuyên của ngài là Sabbamitta. Trong số các vị hộ pháp của ngài, những người lỗi lạc nhất là Sumaṅgala và Ghaṭīkāra, Vijitasenā và Bhaddā. Kim thân ngài cao hai mươi cubit, và sau khi sống hai mươi ngàn năm, ngài đã viên tịch trong khu vườn Setavya ở Setavyā thuộc nước Kāsī. Trên xá-lợi của ngài, người ta đã dựng lên một *Thūpa* cao một do-tuần, mỗi viên gạch của nó trị giá một crore. Có nói (MN­a.i.336ff) rằng đã có một sự bất đồng ý kiến lớn về kích thước của *Thūpa* nên là bao nhiêu và nó nên được xây bằng vật liệu gì; khi những điểm này cuối cùng đã được giải quyết và công việc xây dựng đã bắt đầu, những người dân nhận ra rằng họ không có đủ tiền để hoàn thành nó. Khi đó, một nam cư sĩ là bậc *Anāgāmī* tên là Sorata đã đi khắp Jambudīpa, kêu gọi sự giúp đỡ của mọi người cho việc xây dựng *Thūpa*. Ông gửi số tiền ngay khi nhận được, và khi nghe tin công trình đã hoàn thành, ông lên đường đến để chiêm bái *Thūpa*; nhưng ông đã bị những tên cướp bắt và giết chết trong khu rừng, nơi sau này được gọi là Andhavana.
+
+Upavāṇa, trong một kiếp quá khứ, đã trở thành vị thiên bảo hộ của *cetiya*, do đó ngài có được sự oai phong lẫm liệt trong kiếp sống cuối cùng của mình (DN­a.ii.580; về một câu chuyện khác về việc xây dựng bảo tháp, xem Dhp­a.iii.29).
+
+Trong số ba mươi bảy thiên nữ được Guttila chú ý đến khi lên thiên giới, có một vị đã dâng một nhánh năm bông hoa có hương thơm tại *cetiya* (Ja.ii.256). Tương tự, Alāta cũng dâng hoa *āneja* và có được một cảnh giới tái sinh tốt đẹp (Ja.vi.227).
+
+Nguyên nhân dẫn đến nước da màu vàng của Mahā Kaccāna là nhờ việc ngài đã cúng dường một viên gạch bằng vàng cho việc xây dựng bảo tháp của Kassapa (AN­a.i.116).
+
+Cũng tại *cetiya* này, Anuruddha, khi đó là một gia chủ ở Benares, đã dâng cúng bơ và mật đường trong những chiếc bát bằng đồng thau, được đặt không có khoảng trống xung quanh *cetiya* (AN­a.i.105).
+
+Trong số những người đắc quả vị *Arahant* dưới thời Đức Phật Kassapa có nhắc đến Gavesī, người cùng với năm trăm tín đồ của mình đã luôn nỗ lực vượt qua chính mình cho đến khi họ đạt được mục tiêu (AN.iii.214ff).
+
+Mahā Kappina, khi đó là một thiện nam, đã xây dựng cho các tỳ-kheo của Kassapa một *pariveṇa* có một ngàn phòng (AN­a.i.175).
+
+Sức khỏe đáng ngưỡng mộ và tuổi thọ rất cao của Bakkula là do ngài đã cúng dường những trái cây đầu mùa trong vụ thu hoạch của mình cho các tỳ-kheo của Kassapa (MN­a.iii.932).
+
+Trong thời của Đức Phật Kassapa, Bodhisatta là một thanh niên Bà-la-môn tên là Jotipāla, người sau này, dưới sự ảnh hưởng của Ghaṭīkāra, đã trở thành một tỳ-kheo. (Bv.xxv.; Bv­a.217ff; DN.ii.7; Ja.i.43, 94; DN.iii.196; Mvu.i.303ff, 319). Vị Ghaṭīkāra này sau đó sinh vào cõi *Brahma* và đã đến thăm Gotama, sau khi ngài Giác ngộ. Gotama sau đó đã nhắc ngài nhớ về tình bạn trong quá khứ này, điều mà Ghaṭīkāra có vẻ quá khiêm tốn không muốn nhắc đến (SN.i.34f).
+
+Majjhimanikāya (MN.ii.45f) đưa ra những chi tiết về sự nhiệt thành mà Ghaṭīkāra đã nỗ lực để hóa độ Jotipāla khi Kassapa đang sống tại Vehaliṅga. Cùng một *Sutta* này cho thấy bằng chứng về sự tôn kính to lớn mà Kassapa dành cho Ghaṭīkāra.
+
+Vua của Benares vào thời của Kassapa là Kikī, và bốn cổng của *cetiya* của Kassapa đã được xây dựng, một cổng do Kikī, một cổng do con trai ông là Paṭhavindhara, một cổng do các vị quan của ông đứng đầu là vị tướng, và cổng cuối cùng do thần dân của ông đứng đầu là vị thủ quỹ (Snp-a.i.194).
+
+Tương truyền rằng đại đệ tử của Đức Phật, Tissa, sinh cùng ngày với Kassapa và họ là bạn bè từ lúc mới sinh. Tissa xuất gia trước và trở thành một tu sĩ khổ hạnh. Khi đến thăm Đức Phật sau khi ngài Giác ngộ, ông đã vô cùng đau buồn khi biết Đức Phật ăn thịt (*āmagandha*), và Đức Phật đã thuyết cho ông bài Āmagandhasutta, nhờ đó ông được cảm hóa (Snp-a.i.280ff).
+
+Các Biên niên sử Tích Lan có nhắc đến một chuyến viếng thăm của Kassapa đến Tích Lan để ngăn chặn một cuộc chiến tranh giữa Vua Jayanta và người em trai của ông (Mhv.xv.128ff; Vin-a.i.87; Dpv.xv.55ff; Mbv.129). Hòn đảo này bấy giờ được gọi là Maṇḍadīpa, với Visāla là thủ đô. Đức Phật cùng với hai mươi ngàn đệ tử đã quang lâm và đứng trên Subhakūṭa, và khi các đạo quân nhìn thấy ngài, họ đã ngừng chiến. Để bày tỏ lòng biết ơn, Jayanta đã dâng cúng cho Đức Phật khu vườn Mahā Sāgara, nơi sau đó đã được trồng một nhánh của cây Bodhi do Sudhammā mang sang, theo như ý nguyện của Đức Phật. Đức Phật đã thuyết pháp tại Asokamālaka, Sudassanamālaka và Somanassamālaka, ngài cũng trao lại chiếc áo choàng đi mưa của mình như một xá-lợi cho những người mới cải đạo, và để hướng dẫn tâm linh cho họ, ngài đã để lại các đệ tử của mình là Sabbananda và Sudhammā cùng với những người tùy tùng của họ. Vào thời của Kassapa, ngọn núi Vepulla ở Rājagaha được gọi là Supassa và những người cư ngụ trên đó được gọi là những người Suppiyas (SN.ii.192).
+
+Tuy nhiên, nhiều địa danh khác vào thời của Kassapa có cùng tên với thời đại hiện tại – ví dụ: Videha (Ja.vi.122), Sāvatthī (Ja.vi.123), Kimbila (Ja.vi.121) và Bārāṇasī. (Ja.vi.120).
+
+Ngoài Āmagandhasutta được đề cập ở trên, nhiều giáo lý khác cũng được nhắc đến là đã được Kassapa truyền bá đầu tiên và được lưu truyền xuống thời của Gotama và được ngài thuyết lại. Ví dụ như, những câu hỏi (*pucchā*) của Āḷavaka và Sabhiya và các vần kệ mà người Bà-la-môn Nanda của Takkasilā đã dạy cho Sutasoma (Ja.v.476f; 453). Mittavindajātaka (Ja 104) được nhắc đến như là thuộc về những ngày của Đức Phật Kassapa (Ja.i.413).
+
+Người ta cũng nhắc đến các giáo lý đã được Kassapa giảng dạy nhưng sau này bị lãng quên, và Gotama được yêu cầu phục hồi lại chúng bởi những người đã nghe thấy những tiếng vọng mờ nhạt của các giáo lý này (ví dụ: MN­a, i.107, 528; AN­a.i.423). Một bài pháp được cho là của Kassapa, khi ngài có lần đến thăm Benares với hai mươi ngàn tỳ-kheo, được bao gồm trong câu chuyện của Paṇḍita *Sāmaṇera* (Dhp­a.ii.127ff). Chính trong dịp này, Kassapa đã thọ nhận vật thực cúng dường từ người ăn xin Mahā Duggata thay vì đồ cúng dường từ nhà vua và giới quý tộc.
+
+Kassapa sáu tháng mới tổ chức *uposatha* một lần (Dhp­a.iii.236).
+
+Giữa thời của Kassapa và Gotama bề mặt trái đất đã dâng lên đủ để bao phủ Sūkarakatalena (MN­a.ii.677).
+
+Các ghi chép của những người hành hương Trung Hoa có chứa nhiều dẫn chứng về các địa điểm liên quan đến Kassapa. Huyền Trang có nói đến một *stūpa* lưu giữ xá-lợi toàn thân của Đức Phật, nằm ở phía bắc của thị trấn, gần Śrāvasti, nơi mà theo ngài là Kassapa đã sinh ra (Beal-Xuan, op.cit., ii.13). Dấu chân của Kassapa cũng được nhắc đến (ibid.i., Introd. ciii). Các câu chuyện về Kassapa cũng được tìm thấy trong *Divyāvadāna* (ví dụ: pp.22f; 344f; 346f; xem thêm *Mahāvastu*, ví dụ: Mvu.i.59, Mvu.303f).
+
+Dhammapada Commentary (Dhp-a.iii.250f) có chứa một câu chuyện có vẻ chỉ ra rằng, gần ngôi làng Todeyya, có một bảo tháp được cho là của Kassapa và được dân làng vô cùng tôn kính. Sau khi *Sāsana* của Kassapa biến mất, một nhóm tỳ-kheo được gọi là Setavatthasamaṇavaṁsa (“những tu sĩ mặc áo trắng”) đã cố gắng phục hồi nó, nhưng không thành công (Vibh­a.432).
 
 ## Notes

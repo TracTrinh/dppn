@@ -5,7 +5,7 @@ base_headword: "Rohitassasutta"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Rohitassasutta 02. The Buddha tells the monks of his conversation with <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rohitassasutta 02. Đức Phật kể cho các tỳ-kheo nghe về cuộc đối thoại của Ngài với Rohitassa. AN.ii.49f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Khujjasobhita Thera"
 disambiguator: "02"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -30,6 +30,8 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khujjasobhita Thera 02. Một trong những tỳ-kheo Pācīnaka (Phương Đông) đã công bố mười điều châm chước tại Vesālī. Ngài là một trong những đại diện của họ trong Hội đồng Tăng đoàn được chỉ định để giải quyết tranh chấp giữa các tỳ-kheo ở Vesālī và các tỳ-kheo chính thống (Vin.ii.305; Dpv.iv.44; v.25, 80).
+
+Theo Mahā Vaṁsa, Khujjasobhita này là một đệ tử của Ānanda và do đó, được đồng nhất với Khujjasobhita (1) (iv.57; đoạn này cũng được tìm thấy trong Samantapāsādikā i.34). Tuy nhiên, vị sau là một Arahant, và vì thế không có khả năng đứng về phía những kẻ tà kiến ở Vesālī. Việc đồng nhất rõ ràng là không chính xác cũng dựa trên các cơ sở khác, trong đó có vấn đề tuổi tác.
 
 ## Notes

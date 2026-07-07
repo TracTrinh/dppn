@@ -5,7 +5,7 @@ base_headword: "Somanassajātaka"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -39,6 +39,8 @@ The story was related in reference to <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Somanassajātaka (Ja 505). Một thuở nọ, khi Reṇu là vua Uttarapañcāla, một ẩn sĩ là Mahā Rakkhita, cùng với năm trăm người khác từ Himālaya, đến thăm ông. Nhà vua khoản đãi họ và cho họ biết mối lo của mình vì không có con trai. Một thời gian sau, khi các ẩn sĩ đang trở về, Mahā Rakkhita thấy rằng nhà vua sẽ có con trai và nói điều đó cho các bạn đồng hành. Một trong các ẩn sĩ, một kẻ gian dối, hy vọng lợi dụng cơ hội này, giả vờ bị ốm, và trở về cung, nói với nhà vua rằng một con trai sẽ ra đời cho hoàng hậu Sudhammā của ông. Nhà vua tôn vinh hắn rất mực, và hắn được gọi là Dibbacakkhuka. Đến kỳ, Bodhisatta sinh ra làm con trai của nhà vua, được đặt tên là Somanassa. Khi đứa bé bảy tuổi, nhà vua phải rời nhà để dẹp loạn biên cương, và Somanassa được để lại trong sự chăm sóc của vị ẩn sĩ gian dối. Cậu bé sớm phát hiện ra bản chất thật sự của hắn và không tôn trọng hắn. Ngay khi nhà vua trở về, Dibbacakkhu mách với ông rằng hoàng tử đã đối xử thờ ở với hắn. Somanassa bị lệnh xử tử, nhưng cậu vạch mặt sự lừa dối của kẻ gian, và người được cử đi khám lều của hắn đã tìm thấy những bó tiền trong đó. Chán ngán cuộc đời chốn cung đình, Somanassa xin phép nhà vua và xuất gia làm ẩn sĩ ở Himālaya, nơi Vissakamma, do Sakka sai đến, xây dựng một thảo lu trong cho ông. Kẻ gian bị dân chúng đá chết.
+
+Câu chuyện được kể liên quan đến âm mưu của Devadatta muốn giết Đức Phật. Ông được đồng nhất với Dibbacakkhu, Sāriputta với Mahā Rakkhita và mẹ của Somanassa với Mahā Māyā. Ja.iv.445ff.
 
 ## Notes

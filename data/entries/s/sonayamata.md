@@ -5,7 +5,7 @@ base_headword: "Soṇāyamātā"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Soṇāyamātā. An eminent laywoman, disciple of the Buddha (AN.iv.348). She wa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Soṇāyamātā. Một nữ cư sĩ ưu tú, đệ tử của Đức Phật (AN.iv.348). Bà hiển nhiên là mẹ của Soṇā Therī (Soṇā 5).
 
 ## Notes

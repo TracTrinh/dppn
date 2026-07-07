@@ -5,7 +5,7 @@ base_headword: "Kammakathā"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kammakathā. The seventh chapter of the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kammakathā. Chương thứ bảy của Mahā Vagga thuộc Paṭisambhidāmagga. Paṭis.ii.78-80.
 
 ## Notes

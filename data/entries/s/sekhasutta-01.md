@@ -5,7 +5,7 @@ base_headword: "Sekhasutta"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -23,6 +23,6 @@ Sekhasutta 01. A pupil is one who is under training in the higher morality, the 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sekhasutta 01. Học nhân là người đang tu tập về giới cao hơn, tâm cao hơn và tuệ cao hơn. AN.i.231.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sodhana"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -28,6 +28,6 @@ Sodhana. The elder brother of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sodhana. Anh trai của Kapila, người về sau trở thành Kapilamaccha (*q.v.*). Mẹ của ông là Sādhinī và em gái là Tāpanā. Ông gia nhập Tăng đoàn cùng với Kapila, trong thời Kassapa Buddha, và sống trong rừng, chuyên tâm thiền định, chứng đắc *Arahant* ngay sau đó. Dhp­a.iv.37; Snp­a.i.305f.
 
 ## Notes

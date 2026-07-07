@@ -5,7 +5,7 @@ base_headword: "Kokanuda"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -28,6 +28,6 @@ Kokanuda (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kokanuda (Kokanada). Một du sĩ ngoại đạo (*Paribbājaka*). Ông gặp Ānanda trên bờ sông Tapodā, nơi cả hai người đều đang tắm, và bắt đầu trò chuyện với ngài. Kokanuda hỏi Ānanda một loạt các câu hỏi, chẳng hạn như thế giới có trường tồn hay không, Như Lai (*Tathāgata*) có sống sau khi chết hay không, v.v., tất cả những câu hỏi này, Ānanda nói, đều không thể trả lời, không phải vì bản thân ngài không biết những điều này, mà vì ngài biết chúng. Cuối cùng, Kokanuda hỏi Ānanda ngài là ai, và, khi biết được danh tính của ngài, đã xin ngài tha thứ cho những câu hỏi mà ông đã hỏi trong sự thiếu hiểu biết. AN.v.196f.
 
 ## Notes

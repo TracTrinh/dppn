@@ -5,7 +5,7 @@ base_headword: "Valliya Thera"
 disambiguator: "03"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -39,6 +39,10 @@ In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Valliya Thera 03. Ông thuộc một gia đình Bà-la-môn ở Vesālī, và có tên là Gaṇḍimitta (*v.l.* Kaṇhamitta). Vô cùng ấn tượng với đức Phật khi ngài đến Vesālī, ông đã gia nhập Tăng đoàn dưới sự chỉ dẫn của Mahā Kaccāyana. Bởi vì ông chậm chạp trong tuệ minh sát và quá phụ thuộc vào các đồng đạo của mình, nên ông được gọi là Valliya (dây leo), giống như cây thường xuân phải tựa vào một vật gì đó để có thể phát triển. Về sau, nhờ nghe theo lời khuyên của Veṇudatta Thera, ông đã phát triển được tuệ minh sát.
+
+Vào thời đức Phật Sumedha, ông từng là một vị Bà-la-môn giàu có và uyên bác học vấn. Về sau, ông từ bỏ tài sản tám mươi crore, và sau khi trở thành một ẩn sĩ, ông sống trên bờ sông. Tại đó đức Phật đã đến thăm ông, và ngồi trên một tấm da linh dương, ngài thuyết giảng Pháp. Vị ẩn sĩ vô cùng tôn kính ngài và đã dâng lên ngài những quả xoài cùng hương và hoa.
+
+Trong các bài kệ Apadāna, được trích dẫn trong Thag­a., nói rằng Valliya sinh ra ở thành phố Vebhāra, do Vissakamma xây dựng, và ông đã từ bỏ gia đình năm năm tuổi. Thag­a.i.292f.; hai bài kệ mà ông nói với Veṇudatta được ghi nhận trong Thag. (167-8). Ông có thể đồng nhất với Candanamāliya trong Apadāna. Ap.ii.423f.
 
 ## Notes

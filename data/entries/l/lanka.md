@@ -5,7 +5,7 @@ base_headword: "Laṅkā"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -63,6 +63,14 @@ Laṅkā was once inhabited by <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Laṅkā, Laṅkādīpa, Laṅkātala. Tên Pāli của Tích Lan, được tìm thấy trong các biên niên sử — vd., Dīpavaṁsa, Mahā Vaṁsa và các Chú giải. Một truyền thuyết cổ xưa được ghi lại trong Mahā Vaṁsa (Mhv.xv. 57ff), và trong Samantapāsādikā (Vin-a.i.86ff), ghi lại tên của Đảo trong thời ba vị Phật trước đây, tên các thành phố thủ đô, các tên khác nhau của Mahā Meghavana, và các vị vua đương thời với các vị Phật đó.
+
+- Như vậy, vào thời Kakusandha, Đảo được gọi là Ojadīpa, vua là Abhaya, thủ đô là Abhayapura và Mahā Meghavana, Mahā Tittha.
+- Vào thời Koṇāgamana, Đảo là Varadīpa, thủ đô là Vaḍḍhamāna, vua là Samiddha và công viên là Mahānoma.
+- Vào thời Kassapa, Đảo là Maṇḍadīpa, vua là Jayanta, thủ đô là Visālā và công viên là Mahā Sāgara.
+
+Ngoài Mahā Meghavana, đặc điểm địa lý khác của Tích Lan được đề cập trong các tường thuật này là ngọn núi được biết đến trong thời đại hiện tại là Sumanakūṭa, nơi Gotama Buddha đặt dấu chân của ngài. Trong các thời đại của ba vị Phật trước đây, nó được gọi lần lượt là Devakūṭa, Sumanakūṭaka và Subhakūṭa. Gotama đã viếng thăm Tích Lan ba lần, trong khi ba vị Phật kia chỉ đến một lần. Trong các chuyến thăm, các ngài đã thánh hóa nhiều địa điểm khác nhau bằng cách trú lại đó trong thời gian ngắn đắm chìm trong thiền định.
+
+Laṅkā từng được các Yakkha sinh sống. Gotama Buddha buộc họ rời bỏ Đảo và tìm nơi trú ẩn ở hòn đảo lân cận Giridīpa. Laṅkādīpa sau đó được Vijaya và ba trăm người đồng hành của ông khai khẩn. Hai thành phố của các Yakkha được đề cập: Sirīsavatthu và Laṅkāpura.
 
 ## Notes

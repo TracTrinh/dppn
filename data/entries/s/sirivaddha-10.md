@@ -5,7 +5,7 @@ base_headword: "Sirivaḍḍha"
 disambiguator: "10"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -36,6 +36,8 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirivaḍḍha 10. Sirivaḍḍha Thera. Cha ngài là một người giàu có ở Rājagaha và ngài đã có mặt khi Đức Phật đến thăm Bimbisāra. Cảm kích trước uy nghi của Đức Phật, Sirivaḍḍha đã gia nhập Saṅgha và sống trong một khu rừng gần Vebhāra và Paṇḍava để hành thiền. Một hôm giông bão lớn nổi lên, và vị Trưởng lão, được cơn mưa làm cho mát mẻ, đã có thể tập trung tâm ý và chứng đắc quả vị *Arahant* (Thag.vs.41, Thag­a.i.107f).
+
+Ngài có lẽ đồng nhất với Kiṅkhanikapupphiya Thera trong Apadāna (Ap.i.204). Trong quá khứ ngài đã dâng một đóa hoa kiṅkhani lên Vipassī Buddha. Bảy mươi bảy kappa trước ngài là một vị vua, tên là Bhīmaratha.
 
 ## Notes

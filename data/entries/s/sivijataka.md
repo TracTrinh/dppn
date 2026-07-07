@@ -5,7 +5,7 @@ base_headword: "Sivijātaka"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -38,6 +38,10 @@ The *Sivirājacariyā* is included in the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sivijātaka (Ja 499). Bodhisatta từng sinh làm Sivi, vua của Ariṭṭhapura, cha ngài mang cùng tên với ngài. Ngài trị vì tốt đẹp, và hằng ngày bố thí một khoản sáu trăm ngàn. Một hôm, ước muốn khởi lên nơi ngài là bố thí một phần thân thể mình cho bất kỳ ai xin điều đó. Sakka đọc được ý nghĩ của ngài, và, hiện ra trước ngài dưới hình dạng một người Bà-la-môn mù, xin đôi mắt của ngài. Nhà vua đồng ý cho, và cho gọi vị ngự y của mình là Sivaka. Giữa những lời phản đối và than khóc của gia đình và thần dân, Sivi đã để đôi mắt mình được lấy ra và trao cho người Bà-la-môn. Có nói rằng vị ngự y đã làm việc theo nhiều giai đoạn, cho Sivi cơ hội rút lại lời đề nghị của mình. Khi các hốc mắt đã lành, Sivi muốn trở thành một vị khổ hạnh, và đi vào công viên cùng một người tùy tùng. Ngai vàng của Sakka trở nên nóng, và hiện ra trước Sivi, ông ban cho ngài một điều ước. Nhà vua muốn được chết, nhưng Sakka nhất quyết yêu cầu ngài chọn điều khác. Ngài bèn xin cho thị lực của mình được phục hồi. Sakka đề nghị một Lời Nguyện Sự Thật (*saccakiriyā*), vì ngay cả Sakka cũng không thể phục hồi thị lực đã mất. Đôi mắt xuất hiện trở lại, nhưng chúng không phải là mắt tự nhiên cũng không phải mắt chư thiên, mà là những con mắt được gọi là "Chân Thật, Tuyệt Đối và Hoàn Hảo." Sivi tập hợp tất cả thần dân của mình, và, ngồi trên ngai vàng trong một đình các, dạy cho họ giá trị của việc bố thí.
+
+Câu chuyện được kể liên quan đến Asadisadāna của Pasenadi. Vào ngày thứ bảy của việc bố thí, nhà vua đã dâng mọi loại vật dụng cần thiết và thỉnh cầu Đức Phật thuyết một bài pháp tùy hỷ, nhưng Đức Phật đã rời đi mà không làm như vậy. Ngày hôm sau, khi được nhà vua hỏi, Ngài đã giải thích lý do của mình (để biết chi tiết, xem Asadisadāna). Nhà vua, rất hài lòng với lời giải thích của Đức Phật, đã dâng Ngài một chiếc y ngoài bằng vải *Siveyyaka* trị giá một ngàn (đồng). Khi các vị tăng bắt đầu bàn tán về việc nhà vua không biết mệt mỏi trong việc bố thí như thế nào, Đức Phật đã kể cho họ nghe câu chuyện xưa, trong đó Ānanda được đồng nhất với Sivaka, vị ngự y, và Anuruddha với Sakka (Ja.iv.401-12; of. Cp-a.52f).
+
+*Sivirājacariyā* được đưa vào Cariyāpiṭaka (Cp.i.8; câu chuyện cũng được kể với các chi tiết khác biệt trong *Avadānaśataka* i.183-6). Nó là chủ đề của một trong những nan đề của Milindapañha. Mil.p.119f.
 
 ## Notes

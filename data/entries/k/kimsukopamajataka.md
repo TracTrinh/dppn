@@ -5,7 +5,7 @@ base_headword: "Kiṁsukopamajātaka"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -30,6 +30,10 @@ The king was the Bodhisatta. Ja.ii.265f.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kiṁsukopamajātaka (Ja 248). Bốn vị tỳ-kheo đến gặp Đức Phật và thỉnh cầu ngài một đề mục thiền. Ngài đã ban cho họ nhiều đề mục khác nhau và họ, sau khi rút lui đến các nơi khác nhau, tất cả đều trở thành các vị *Arahant*: một vị bằng cách thấu hiểu sáu xứ, vị thứ hai thấu hiểu năm uẩn, vị thứ ba thấu hiểu bốn *mahābhūtas*, và vị thứ tư thấu hiểu mười tám *dhātu*. Họ trở về và kể cho Đức Phật nghe sự thù thắng cụ thể mà mỗi người đã đạt được, và một trong số họ hỏi Đức Phật làm thế nào tất cả những phương pháp này đều có thể dẫn đến *Nibbāna*. Đức Phật đã kể một câu chuyện quá khứ trong đó bốn người con trai của Brahmadatta, vua của Benares, sau khi yêu cầu người đánh xe của họ chỉ cho họ một cây *kiṁsuka*, đã được chỉ cho xem cây đó vào bốn thời điểm khác nhau: khi chồi vừa nhú, khi lá còn xanh, vào lúc ra hoa, và vào lúc kết trái.
+
+Khi được yêu cầu mô tả cái cây, người thứ nhất ví nó như một gốc cây bị cháy, người thứ hai ví nó như một cây đa, người thứ ba ví nó như một miếng thịt, và người thứ tư ví nó như một cây keo. Vấn đề được đưa lên nhà vua, người đã giải quyết khúc mắc.
+
+Nhà vua là Bodhisatta. Ja.ii.265f.
 
 ## Notes

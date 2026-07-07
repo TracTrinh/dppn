@@ -5,7 +5,7 @@ base_headword: "Kalyāṇamittasutta"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -24,6 +24,6 @@ Kalyāṇamittasutta 02. Friendship with the good is the most useful condition f
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kalyāṇamittasutta 02. Sự làm bạn với người tốt là điều kiện hữu ích nhất cho sự khởi sinh của Bát Thánh đạo. SN.v.31.
 
 ## Notes

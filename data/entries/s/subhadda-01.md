@@ -5,7 +5,7 @@ base_headword: "Subhadda"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Subhadda 01. One of the chief lay patrons of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subhadda 01. Một trong những nam đại thí chủ của Dhammadassī Buddha. Bv.xvi.20.
 
 ## Notes

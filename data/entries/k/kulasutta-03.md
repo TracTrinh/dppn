@@ -5,7 +5,7 @@ base_headword: "Kulasutta"
 disambiguator: "03"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -42,6 +42,24 @@ Kulasutta 03. The five advantages which accrue to families visited by holy men:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Năm lợi ích đến với các gia đình được các bậc thánh nhân đến thăm:
+
+- họ gột rửa tâm mình và được sinh lên cõi trời;
+- họ đảnh lễ các tỳ-kheo một cách tôn kính và được sinh ra cao quý;
+- họ chiến thắng lòng tham và có được sức mạnh;
+- bố thí và có được tài sản;
+- đặt câu hỏi và trở nên trí tuệ (AN.iii.244f).
+
+Kulasutta 04. Bảy lý do khiến một gia đình không đáng để đến thăm:
+
+- họ không chào hỏi một ai
+- cũng không tỏ ra lịch sự;
+- không cung cấp chỗ ngồi;
+- giấu giếm những gì họ có;
+- có nhiều nhưng cho ít;
+- những gì họ cho thì họ cho một cách bất cẩn
+- và nửa vời (AN.iv.10).
+
+Kulasutta 05. Tương tự như 4. Chín lý do được đưa ra, những lý do bổ sung là: họ không tỏ ra khao khát nghe Pháp và không quan tâm khi Pháp được thuyết cho họ. AN.iv.387.
 
 ## Notes

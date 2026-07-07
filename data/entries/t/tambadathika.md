@@ -5,7 +5,7 @@ base_headword: "Tambadāṭhika"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -34,6 +34,10 @@ The cow was a *Yakkhinī* who also killed: <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tambadāṭhika. Một đao phủ công khai của Rājagaha. Ông có hàm răng màu đồng và làn da ngăm đen, cùng một cơ thể đầy những vết sẹo. Ông muốn gia nhập một băng trộm cướp, nhưng trong một thời gian, tên cầm đầu từ chối không nhận ông do tướng mạo tàn ác quá mức của ông. Cuối cùng thì ông cũng được nhận; nhưng khi bọn cướp bị bắt giữ và không tìm được ai sẵn sàng chém đầu cả năm trăm tên cướp, Tambadāṭhika đồng ý làm việc đó để lấy phần thưởng, và hạ sát tất cả đồng bọn của mình. Sau đó ông được bổ nhiệm làm đao phủ công khai và giữ chức vụ này trong năm mươi lăm năm. Khi ông trở nên quá già không thể chém đầu một người chỉ với một nhát chém, một người khác được cử thay thế ông, và ông bị tước bốn đặc quyền mà ông đã được hưởng trong suốt bao năm qua – quần áo cũ, cháo sữa nấu với bơ tươi, hoa lài, và nước hoa.
+
+Vào cái ngày ông bị phế truất, ông đã ra lệnh nấu cháo sữa, và sau khi tắm rửa sạch sẽ và trang điểm, ông sắp sửa thọ thực, thì Sāriputta, với lòng thương xót ông, xuất hiện trước cửa nhà. Tambadāṭhika thỉnh Trưởng lão vào trong và tiếp đãi ngài một cách hiếu khách. Khi Sāriputta bắt đầu tụng những lời phúc đáp, vị gia chủ không thể tập trung tư tưởng, bị quấy rầy bởi những ký ức về tội ác của mình trong quá khứ. Sāriputta an ủi ông bằng cách chỉ ra cho ông thấy rằng ông chỉ đơn thuần thực thi mệnh lệnh của nhà vua. Vào cuối bài thuyết pháp, Tambadāṭhika đã phát triển những phẩm chất cần thiết để trở thành một *Sotāpanna*. Khi Sāriputta rời đi, Tambadāṭhika đi tiễn ngài một đoạn đường, nhưng trên đường quay về, ông bị một con bò húc chết.
+
+Con bò cái ấy là một Dạ-xoa nữ (Yakkhinī) đã từng đoạt mạng: Pukkusāti, Bāhīya Dārucīriya, Suppabuddha (Dhp­a.ii.35; Ud­a.289). Đức Phật cho biết ông đã tái sinh vào cõi Tusita. Dhp­a.ii.203ff.
 
 ## Notes

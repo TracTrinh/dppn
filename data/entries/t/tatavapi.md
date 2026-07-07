@@ -5,7 +5,7 @@ base_headword: "Taṭavāpi"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Taṭavāpi. A locality near the *Kālavāpi*. There was a fortress there where 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Taṭavāpi. Một địa phương gần *Kālavāpi*. Tại đó có một pháo đài nơi Gokaṇṇa bị đánh bại. Cv.lxx.165.
 
 ## Notes

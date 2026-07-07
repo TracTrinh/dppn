@@ -5,7 +5,7 @@ base_headword: "Mahā Soṇa"
 disambiguator: "03"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -32,6 +32,6 @@ Mahā Soṇa 03. A monk in the time of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Soṇa 03. Một tỳ-kheo vào thời của Vaṭṭagāmaṇī Abhaya. Trong những cuộc bạo loạn do tên sơn tặc Brāhmaṇatissa gây ra, ngài đã đi lại đó đây cùng với Trưởng lão Isidatta, duy trì mạng sống bằng bất cứ thứ gì họ có thể tìm thấy. Một ngày nọ, một thiếu nữ đã nắn ba vắt cơm, đưa một vắt cho Isidatta, vắt thứ hai cho Mahā Soṇa, và muốn đưa vắt thứ ba cho Isidatta; nhưng tay cô ấy đã quay sang hướng khác, và vật thực đã rơi vào trong bát của Mahā Soṇa. Về sau, ngài sống cùng với năm trăm vị khác trong *vihāra* Maṇḍalārāma. Một ngày nọ, trong khi đang ở Kāḷakagāma để khất thực, họ đã được một tín đồ sùng đạo thiết đãi. Người này đã hỏi thăm Mahā Soṇa và bày tỏ sự tôn kính đặc biệt với ngài, mặc dù Mahā Soṇa chỉ là một tỳ-kheo nhỏ tuổi. Một thời gian sau, Mahā Soṇa trở về Mahā Vihāra ở Anurādhapura và nhận được nhiều tặng phẩm, mà ngài đã phân phát cho Tăng đoàn. Vibh-a.446ff.
 
 ## Notes

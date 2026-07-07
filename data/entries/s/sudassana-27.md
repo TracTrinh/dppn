@@ -5,7 +5,7 @@ base_headword: "Sudassana"
 disambiguator: "27"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sudassana 27. A *vihāra* built by the *rājā* of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudassana 27. Một *vihāra* do vua (*rājā*) xứ Sīlavatī xây dựng để cúng dường cho Bandhura Thera. Thag­a.i.208f.
 
 ## Notes

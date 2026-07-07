@@ -5,7 +5,7 @@ base_headword: "Pātubhavasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -24,6 +24,6 @@ Pātubhavasutta. Six things, the manifestation of which in this world is rare. A
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pātubhavasutta. Sáu điều, sự xuất hiện của chúng trên thế gian này là rất hiếm. AN.iii.441.
 
 ## Notes

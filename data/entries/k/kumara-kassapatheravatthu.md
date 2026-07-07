@@ -5,7 +5,7 @@ base_headword: "Kumāra Kassapatheravatthu"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kumāra Kassapatheravatthu. The story of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Câu chuyện về Kumāra Kassapa (*q.v.*) và mẹ của ông. Dhp­a.iii.144ff.
 
 ## Notes

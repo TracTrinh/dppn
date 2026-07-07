@@ -5,7 +5,7 @@ base_headword: "Mahā Sīva"
 disambiguator: "05"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -30,6 +30,6 @@ Mahā Sīva 05. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sīva 05. Trưởng lão Mahā Sīva. Vị trụ trì của Nigrodhapiṭṭhi và là một chuyên gia về *Tipiṭaka*. Có lần, trong khi đang thuyết giảng Sīhanādasutta trong cung điện của Vua Vasabha, ngài đã miêu tả những sự tráng lệ của Phòng chứa Xá lợi trong Mahā Thūpa và nhà vua đã bày tỏ một chút khó khăn trong việc tin vào báo cáo đó, nhưng vị Trưởng lão đã có thể thuyết phục nhà vua rằng không có gì là không thể khi có sự kết hợp của *rājiddhi*, *deviddhi* và *ariyiddhi*. Nhà vua vô cùng hoan hỷ, đã đưa vị Trưởng lão đi dưới lọng trắng đến Mahā Vihāra và thực hiện những sự cúng dường to lớn, kéo dài trong bảy ngày, cho Mahā Thūpa. Mhv­ṭ. 555.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Uttaramadhurā"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uttaramadhurā 01. see <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttaramadhurā 01. xem Madhurā
 
 ## Notes

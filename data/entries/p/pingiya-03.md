@@ -5,7 +5,7 @@ base_headword: "Piṅgiya"
 disambiguator: "03"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -28,6 +28,6 @@ Piṅgiya 03. One of the seven *anāgamīs* born in the <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piṅgiya 03. Một trong bảy vị *anāgāmī* sinh vào cõi Avihā, cùng với Ghaṭīkāra (SN.i.35, 60). Ngài được miêu tả như một tỳ-kheo (*bhikkhu*), và do đó có thể là cùng một người với Piṅgiya (2). Câu chuyện về người thứ hai đạt được quả vị *Arahant*, trong trường hợp đó, hẳn là một truyền thuyết ra đời muộn hơn. Cũng có thể Piṅgiya là một cách đọc khác cho Piṅgiyānī.
 
 ## Notes

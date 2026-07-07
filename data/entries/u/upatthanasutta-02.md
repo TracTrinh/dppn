@@ -5,7 +5,7 @@ base_headword: "Upaṭṭhānasutta"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Upaṭṭhānasutta 02. Five qualities which make an invalid difficult for anyon
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upaṭṭhānasutta 02. Năm phẩm chất khiến một người bệnh trở nên khó khăn để bất kỳ ai chăm sóc, và sự vắng mặt của chúng khiến người ấy trở thành một bệnh nhân tốt. AN.iii.143-4.
 
 ## Notes

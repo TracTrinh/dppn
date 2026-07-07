@@ -5,7 +5,7 @@ base_headword: "Sīhapapāta"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -25,6 +25,6 @@ Sīhapapāta. One of the seven great lakes of <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhapapāta. Một trong bảy hồ lớn của Himavā. (AN.iv.107; DN­a.i.164; Ud­a.390; AN­a.ii.759; Ja.v.415, v.v.). Nước trong hồ này không bao giờ ấm lên (Snp­a.ii.407).
 
 ## Notes

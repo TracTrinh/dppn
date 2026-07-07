@@ -5,7 +5,7 @@ base_headword: "Kaṇṭaka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -33,6 +33,6 @@ Kaṇṭaka (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇṭaka (*v.l.* Kaṇḍaka). Một sa-di được thọ giới bởi Upananda. Kaṇṭaka đã phạm một lỗi với một sa-di khác, Mahaka. Khi điều này được biết đến, một điều luật đã được thông qua rằng không một tỳ-kheo nào nên truyền giới cho hai sa-di (Vin.i.79); tuy nhiên, điều luật này sau đó đã bị bãi bỏ (Vin.i.83). Ở một nơi khác (Vin.i.85), Kaṇṭaka được đề cập như là đã bị trục xuất khỏi Tăng đoàn vì đã giao cấu với một tỳ-kheo-ni, tên là Kaṇṭakā. Theo Pācittiya (Vin.iv.138f), Kaṇṭaka cũng có những tà kiến giống như Ariṭṭha (*q.v.*), và vì lý do đó ông đã bị trục xuất khỏi Tăng đoàn. Tuy nhiên, nhóm tỳ-kheo *Chabbaggiya* đã thu nhận ông vào hàng ngũ của họ và dành cho ông mọi sự khuyến khích. Trong Samantapāsadikā (iv.874), Kaṇṭaka *Sāmaṇera* được nhắc đến cùng với Ariṭṭha và những người Vajjiputtakas, như là một kẻ thù của tôn giáo của Đức Phật.
 
 ## Notes

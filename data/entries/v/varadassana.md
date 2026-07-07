@@ -5,7 +5,7 @@ base_headword: "Varadassana"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Varadassana. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Varadassana. Một vị Cakkavatti của một *kappa* trước, là tiền kiếp của Kusumāsaniya (Suyāma) Thera. Ap.i.160; Thag­a.i.166.
 
 ## Notes

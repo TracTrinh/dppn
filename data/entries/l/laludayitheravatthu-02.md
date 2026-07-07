@@ -5,7 +5,7 @@ base_headword: "Lāḷudāyītheravatthu"
 disambiguator: "02"
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -27,6 +27,6 @@ Lāḷudāyītheravatthu 02. The story of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lāḷudāyītheravatthu 02. Câu chuyện về nỗ lực vô ích của Lāḷudāyī khi cố vượt trội Sāriputta và Moggallāna trong khả năng thuyết pháp. Dhp­a.iii.344ff.
 
 ## Notes

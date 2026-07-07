@@ -5,7 +5,7 @@ base_headword: "Ketakavana"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Ketakavana. A forest near <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ketakavana. Một khu rừng gần Naḷakapāna ở Kosala. Tại đó Đức Phật đã thuyết giảng bài Naḷapānajātaka (Ja 20). Ja.i.170.
 
 ## Notes

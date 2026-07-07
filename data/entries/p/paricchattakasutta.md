@@ -5,7 +5,7 @@ base_headword: "Pāricchattakasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -31,6 +31,8 @@ The *Sutta* was evidently also known as the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāricchattakasutta, Pāricchattakopamasutta. Giống như chư thiên ở Tāvatiṁsa vui mừng khi nhìn thấy cây Pāricchattaka dần dần lớn lên và đơm hoa, và tổ chức các lễ kỷ niệm ở từng giai đoạn, thì họ cũng vui mừng như vậy khi một người gia chủ từ bỏ thế gian và gia nhập Tăng đoàn, cuối cùng đạt đến *Nibbāna*. Danh tiếng của vị ấy lan truyền từ thế giới này sang thế giới khác, thậm chí lên đến cõi giới Phạm thiên (*Brahma*) (AN.iv.117ff).
+
+Bài *Sutta* này rõ ràng cũng được biết đến với tên gọi là Pāricchattakopama, ví dụ, AN­a.i.32; MN­a.i.14.
 
 ## Notes

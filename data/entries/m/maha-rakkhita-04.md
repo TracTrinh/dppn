@@ -5,7 +5,7 @@ base_headword: "Mahā Rakkhita"
 disambiguator: "04"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Rakkhita 04. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Rakkhita 04. Trưởng lão Mahā Rakkhita. Khi được thí chủ của mình báo rằng người này đã cúng dường một y cho một vị tỳ-kheo nọ, ngài đã khen ngợi ông; khi người thí chủ ngỏ ý cúng dường cho ngài một y, ngài cũng khen ngợi ông về điều đó. MN­a.ii.666.
 
 ## Notes

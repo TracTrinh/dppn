@@ -5,7 +5,7 @@ base_headword: "Upasena"
 disambiguator: "04"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -24,6 +24,6 @@ Upasena 04. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upasena 04. Con trai của Đức Phật Sujāta. Bv.xiii.22.
 
 ## Notes

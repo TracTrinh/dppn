@@ -5,7 +5,7 @@ base_headword: "Sucirajātaka"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sucirajātaka. Another name for the <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sucirajātaka. Một tên gọi khác của Ādittajātaka (Ja 424). Xem Ja.iv.360.
 
 ## Notes

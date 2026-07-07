@@ -5,7 +5,7 @@ base_headword: "Pañcarājāno Sutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Pañcarājāno Sutta. Once five *rājās*, with <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcarājāno Sutta. Có lần năm vị *rājā*, với Pasenadi làm thủ lĩnh, đang đắm mình trong nhiều hình thức giải trí khác nhau và họ bắt đầu thảo luận với nhau xem loại dục lạc nào là cao nhất. Không thể đi đến bất kỳ quyết định nào, họ tìm đến Đức Phật, người đã giải thích rằng niềm vui thú cao nhất, trong trường hợp của bất kỳ giác quan nào, chính là điểm giới hạn trong sự thụ hưởng của mỗi người. Một nam cư sĩ, Candanaṅgalika, người có mặt lúc đó, liền đứng dậy khỏi chỗ ngồi và thốt lên một bài kệ ca ngợi Đức Phật. Năm vị *rājā* đã quấn những chiếc áo choàng của họ quanh người đệ tử này, và đến lượt mình, ông lại dâng chúng cho Đức Phật. SN.i.79f.
 
 ## Notes

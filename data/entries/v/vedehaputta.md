@@ -5,7 +5,7 @@ base_headword: "Vedehaputta"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vedehaputta. An epithet of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vedehaputta. Một biệt hiệu của Sotthisena, vua của Kāsi. Nhà chú giải giải thích rằng mẹ của ông là một công chúa Videha. Ja.v.90.
 
 ## Notes

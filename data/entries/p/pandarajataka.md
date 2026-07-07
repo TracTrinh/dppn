@@ -5,7 +5,7 @@ base_headword: "Paṇḍarajātaka"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -34,6 +34,8 @@ The story was related in reference to the wickedness of <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇḍarajātaka (Ja 518). Một chiếc tàu từng bị đắm giữa đại dương và chỉ có một người đàn ông tên là Karambiya sống sót. Ông bị trôi dạt vào một hòn đảo, nơi ông lang thang trần truồng và thiếu thốn. Mọi người nghĩ ông là một đạo sĩ và đã dựng cho ông một am thất. Trong số những người theo ông có một vị vua Garuḍa, và cũng có một vị vua Nāga tên là Paṇḍara (hoặc Paṇḍaraka). Một ngày nọ, theo sự xúi giục của Garuḍa, vị đạo sĩ đã lừa lấy được từ Paṇḍara bí mật về cách những Nāga ngăn không cho mình bị các *Garuḍa* bắt đi. Họ nuốt những viên đá lớn, từ đó làm cho bản thân trở nên rất nặng. Nếu các *Garuḍa* tóm lấy đuôi họ, họ sẽ phải nhả đá ra và có thể dễ dàng bị bắt đi. Karambiya đã tiết lộ bí mật này cho vua Garuḍa, người sau đó đã tóm lấy Paṇḍara đúng cách và mang ngài đi. Paṇḍara cầu xin sự thương xót, và Garuḍa đã thả ngài ra, cảnh báo ngài không bao giờ được nói ra bí mật của mình nữa. Kể từ đó Garuḍa và Paṇḍara sống như những người bạn. Paṇḍara đã nguyền rủa Karambiya và đầu của ông ta vỡ ra thành bảy mảnh.
+
+Câu chuyện được kể lại liên quan đến sự độc ác của Devadatta, người được đồng nhất với Karambiya. Paṇḍara là Sāriputta và Garuḍa là Bodhisatta. Ja.v.75ff.; vi.177.
 
 ## Notes

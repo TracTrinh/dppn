@@ -5,7 +5,7 @@ base_headword: "Selantarasamūha"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -29,6 +29,6 @@ Selantarasamūha. The name of a monastic building provided by the king of Ceylon
 
 ## Vietnamese translation
 
-Chưa dịch.
+Selantarasamūha. Tên một công trình tu viện do vua Tích Lan (có lẽ là Māṇavamma, Cv.lvii.37f.; Cv.Trs.i.196, n.2) cung cấp cho Dāṭhopatissa sau khi ông thọ giới. Về sau Yasodharā, con gái của Vijayabāhu I., đã dựng tại đó một công trình gọi là Pasādapāsāda. Cv.lx.84.
 
 ## Notes

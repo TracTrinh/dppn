@@ -5,7 +5,7 @@ base_headword: "Vadhukāsutta"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -24,6 +24,6 @@ Vadhukāsutta. When a young wife is first led home she is full of fear and bashf
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vadhukāsutta. Khi một người vợ trẻ mới được đưa về nhà chồng, cô tràn đầy sợ hãi và rụt rè, không chỉ trước mặt các thân quyến mà còn trước mặt người hầu. Cũng vậy, một tỳ-kheo mới vào đời sống xuất gia tràn đầy sợ hãi và rụt rè, ngay cả trước mặt các sa-di trong tu viện. Theo thời gian, cảm giác này, trong cả hai trường hợp, nhường chỗ cho sự tự tin. Nhưng một tỳ-kheo phải luôn như người vợ mới cưới. AN.ii.78f.
 
 ## Notes

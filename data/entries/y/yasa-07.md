@@ -5,7 +5,7 @@ base_headword: "Yasa"
 disambiguator: "07"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -25,6 +25,6 @@ Yasa 07. A palace occupied by <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yasa 07. Một cung điện mà Kassapa Buddha ngự trị. Bv.xxv.35; Bv­a. (217) gọi nó là Yasavā.
 
 ## Notes

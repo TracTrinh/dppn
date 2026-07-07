@@ -5,7 +5,7 @@ base_headword: "Uppādasutta"
 disambiguator: "03"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -24,6 +24,6 @@ Uppādasutta 03. Same as No. 2, but with the substitution of the five *khandhas*
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uppādasutta 03. Tương tự như Số 2, nhưng thay thế bốn đại bằng năm uẩn (*khandha*). SN.iii.31f.
 
 ## Notes

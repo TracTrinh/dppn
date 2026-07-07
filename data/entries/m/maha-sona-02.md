@@ -5,7 +5,7 @@ base_headword: "Mahā Soṇa"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -29,6 +29,6 @@ Mahā Soṇa 02. One of the ten chief warriors of <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Soṇa 02. Một trong mười vị chiến binh trưởng của Duṭṭhagāmaṇī. Ông được sinh ra tại Hunadarīvāpī thuộc quận Kuḷumbarī với tư cách là con trai thứ tám của một người đàn ông tên là Tissa. Ông có sức mạnh ngang bằng mười con voi, và đóng một vai trò nổi bật trong cuộc tấn công vào Vijitapura. Mhv.xxiii.2, 46ff.; xxv. 27f.; 44f. Xem thêm Ras.ii.86f.
 
 ## Notes

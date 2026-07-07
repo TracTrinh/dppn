@@ -5,7 +5,7 @@ base_headword: "Uttara"
 disambiguator: "26"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Uttara 26. A *padhānaghara* built by <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttara 26. Một padhānaghara được xây dựng bởi Uttara (25).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sirī"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -27,6 +27,6 @@ Sirī 01. The goddess of Luck; she was the daughter of <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirī 01. Nữ thần May mắn; bà là con gái của Dhataraṭṭha (Ja.iii.257). Về một câu chuyện liên quan đến bà, xem Sirikālakaṇṇijātaka (Ja 382). Bà được đồng nhất với Uppalavaṇṇā (Ja.iii.264).
 
 ## Notes

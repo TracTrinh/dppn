@@ -5,7 +5,7 @@ base_headword: "Kumbhakārajātaka"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -40,6 +40,10 @@ The story was related to five hundred monks who had lustful thoughts at midnight
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhisatta là một thợ gốm ở Benares, và đến nhà ông có bốn vị Pacceka Buddha – Karaṇḍu, Naggaji, Nimi và Dummukha – từ Nandamūlapabbhāra. Ông đã chào đón họ và hỏi họ những câu chuyện về sự xuất gia của họ. Sau khi nghe họ kể, cả ông và vợ đều muốn từ bỏ thế gian, nhưng vợ ông, bằng cách lừa dối ông, đã đi trước ông, để ông ở lại chăm sóc con trai và con gái của họ. Khi những đứa trẻ đủ lớn, ông cũng trở thành một đạo sĩ, và mặc dù sau đó ông có gặp lại vợ mình, ông đã từ chối có bất kỳ quan hệ nào với bà.
+
+Con trai là Rāhula và con gái là Uppalavaṇṇā, người vợ là Rāhulamātā.
+
+Câu chuyện được kể cho năm trăm vị tỳ-kheo, những người có những suy nghĩ dục vọng vào lúc nửa đêm. Đức Phật đã đọc được suy nghĩ của họ và đến thăm họ cùng với Ānanda (Ja.iii.375ff). Xem thêm Pānīyajātaka.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kālāma"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -31,6 +31,6 @@ Kālāma 02. The name, probably, of a *gotta* or family. Mention is made of a *n
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kālāma 02. Có lẽ là tên của một *gotta* (thị tộc) hay dòng họ. Người ta có đề cập đến một *nigama* (thị trấn) thuộc về họ ở Kosala, được gọi là Kesaputta. Bài thuyết giảng do Đức Phật đưa ra trong chuyến viếng thăm Kesaputta của Ngài thực sự rất nổi tiếng (AN.i.188ff). Những người Kālāma là các Sát-đế-lỵ (AN­a.i.418). Trong số các thành viên của dòng họ này đặc biệt được nhắc đến tên là Bharaṇḍu Kālāma, người đã từng là một đồng môn của Bodhisatta, và Āḷāra Kālāma, thầy của Gotama trước sự Giác ngộ của Ngài.
 
 ## Notes

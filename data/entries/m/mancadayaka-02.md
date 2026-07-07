@@ -5,7 +5,7 @@ base_headword: "Mañcadāyaka"
 disambiguator: "02"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -27,6 +27,6 @@ Mañcadāyaka 02. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mañcadāyaka 02. *v.l.* Pecchadāyaka. Một Arahant Thera. Chín mươi mốt kappa trước, ông đã dâng một chiếc giường cho Đức Phật Vipassī (Ap.ii.455). Ông có lẽ đồng nhất với Sāmaññakāni Thera (Thag­a.i.99).
 
 ## Notes

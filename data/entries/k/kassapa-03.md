@@ -5,7 +5,7 @@ base_headword: "Kassapa"
 disambiguator: "03"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -29,6 +29,8 @@ Kassapa 03. A *Devaputta*. He visited the Buddha late one night at <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapa 03. Một Devaputta. Ông đã đến thăm Đức Phật vào đêm khuya tại Jetavana và thốt lên một vài bài kệ, răn dạy các tỳ-kheo phải rèn luyện bản thân trong những nhiệm vụ của họ, đặc biệt nhấn mạnh vào việc trau dồi Jhāna (SN.i.46).
+
+Buddhaghosa nói (SN­a.i.82) rằng Kassapa đã từng nghe Đức Phật thuyết Abhidhamma ở Tāvatiṁsa. Vì chỉ nghe được một phần của giáo lý và không chắc chắn về lời răn dạy mà Đức Phật đã đưa ra cho các tỳ-kheo liên quan đến việc thực hành *Jhānavibhaṅga*, Kassapa nghĩ rằng ông có thể bổ sung vào chỗ thiếu sót. Đức Phật, vì biết rõ các năng lực của ông, đã cho phép ông đưa ra các quan điểm của mình, và bày tỏ sự chấp thuận của ngài vào lúc kết thúc bài diễn văn của Kassapa.
 
 ## Notes

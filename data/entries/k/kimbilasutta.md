@@ -5,7 +5,7 @@ base_headword: "Kimbilasutta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,6 @@ Kimbilasutta. Records the conversation which took place at <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kimbilasutta. Ghi chép lại cuộc trò chuyện diễn ra tại Veḷuvana (*Niceḷuvana*?) ở Kimbilā giữa Kimbila và Đức Phật, liên quan đến sự duy trì của Giáo pháp sau khi Đức Phật viên tịch. AN.iii.247, 339; iv.84.
 
 ## Notes

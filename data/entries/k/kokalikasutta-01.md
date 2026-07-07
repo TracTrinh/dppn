@@ -5,7 +5,7 @@ base_headword: "Kokālikasutta"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -37,6 +37,6 @@ Kokālikasutta 01. (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kokālikasutta 01. (Kokāliyasutta) (Xem Kokālika 2). Câu chuyện về Kokālika – theo Buddhaghosa (Snp-a.ii.473), cần được phân biệt là Cūḷa Kokālika. Nó chứa những bài kệ do Đức Phật giảng cho Kokālika. Các bài kệ mô tả sự xấu xa của việc nói xấu sau lưng và những nỗi kinh hoàng đang chờ đợi kẻ nói xấu sau khi chết. Suttanipāta chứa hai mươi hai bài kệ (657-78). Chú giải Suttanipāta nói (p.477f) rằng hai khổ thơ cuối không được giải thích trong Mahā Aṭṭhakathā, và do đó chúng không thuộc về *Sutta* gốc. Trong số hai mươi bài còn lại, mười bốn bài cuối (663-76) được Buddhaghosa gọi là Turitavatthugāthā, và ông nói rằng chúng được thốt ra bởi Moggallāna khi Kokālika đang hấp hối, như một lời răn đe, và rằng, theo những người khác, Mahā Brahma là người đã nói. Ba bài kệ đầu tiên (658-60), trong Saṁyuttanikāya (i.149), được gán cho Tudu. Trong Aṅguttaranikāya cũng vậy, Tudu là người nói chúng (v.171-4; các bài kệ này cũng được tìm thấy trong AN.ii.3 và trong SN.i.149ff; Netti.132); nhưng theo phiên bản này, Đức Phật nhắc lại chúng.
 
 ## Notes

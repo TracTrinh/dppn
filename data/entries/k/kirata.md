@@ -5,7 +5,7 @@ base_headword: "Kirāta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -29,6 +29,6 @@ Kirāta. Probably the name given to a tribe of jungle men. Their language is cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kirāta. Có lẽ là tên được đặt cho một bộ lạc người rừng. Ngôn ngữ của họ được xếp cùng với ngôn ngữ của những người Ottas, Andhakas, Yonakas và Damiḷas, như một ngôn ngữ của những người Milakkhas (phi-Aryan), ví dụ: DN­a.i.176; Vibh­a.388; cũng xem Zimmer: *Altind. Leben* 34.
 
 ## Notes

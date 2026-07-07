@@ -5,7 +5,7 @@ base_headword: "Kosiyavagga"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -24,6 +24,6 @@ Kosiyavagga 02. The second section of the *Nissaggiya* of the <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kosiyavagga 02. Phần thứ hai của *Nissaggiya* thuộc Vinayapiṭaka. Vin.iii.224-42; v.10f.
 
 ## Notes

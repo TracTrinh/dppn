@@ -5,7 +5,7 @@ base_headword: "Parisuddha"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Parisuddha. A king of sixty-seven *kappas* ago, a previous birth of <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parisuddha. Một vị vua cách đây sáu mươi bảy *kappa*, một tiền kiếp của Dussadāyaka Thera. Ap.i.185.
 
 ## Notes

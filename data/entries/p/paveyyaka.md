@@ -5,7 +5,7 @@ base_headword: "Pāveyyaka"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Pāveyyaka. An elephant. See <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāveyyaka. Một con voi. Xem Baddheraka.
 
 ## Notes

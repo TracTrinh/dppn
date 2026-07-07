@@ -5,7 +5,7 @@ base_headword: "Uttiṇṇa Thera"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,6 @@ Uttiṇṇa Thera. He came from <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttiṇṇa Thera. Ông đến từ Kasmīra, dẫn đầu 280.000 tỳ-kheo, để có mặt tại lễ đặt nền móng của Mahā Thūpa tại Anurādhapura. Mhv.xxix.37.
 
 ## Notes

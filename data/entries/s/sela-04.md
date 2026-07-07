@@ -5,7 +5,7 @@ base_headword: "Sela"
 disambiguator: "04"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Sela 04. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sela 04. Con trai của Atthadassī Buddha trong kiếp sống tại gia cuối cùng của Ngài. Bva.180; nhưng xem Sena (15).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Revata"
 disambiguator: "06"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -48,6 +48,12 @@ The Mahāvastu iv.1ff gives an account of this Council, which account differs in
 
 ## Vietnamese translation
 
-Chưa dịch.
+Revata 06. Soreyya Revata. Ngài là một trong các vị Trưởng lão giữ vai trò nổi bật trong Kỳ Kết Tập Thứ Hai. Ngài sống ở Soreyya, và khi phát hiện (nhờ thiên nhĩ) rằng các tỳ-kheo chính thống, do Sambhūta Sānavāsī và Yasa Kākaṇḍakaputta dẫn đầu, đang mong muốn tham vấn ngài, Revata rời Soreyya, và đi qua Saṅkassa, Kaṇṇakujja, Udumbara và Aggaḷapura, đến Sahajāti. Tại đó các tỳ-kheo gặp ngài và tham vấn ngài về "Mười Điều."
+
+Ngài xem xét các điều này, và sau khi kết luận chúng là sai, ngài quyết định chấm dứt cuộc tranh chấp. Các Vajjiputtaka cũng đã cố thuyết phục Revata theo phe mình, nhưng không thành công, họ bèn thuyết phục đệ tử của Revata là Uttara nhận y v.v. từ họ, và thay họ nói với thầy mình. Uttara đã làm như vậy, nhưng bị Revata đuổi đi vì là một đệ tử không xứng đáng.
+
+Revata đề nghị nên giải quyết cuộc tranh chấp tại Vesālī, và khi các tỳ-kheo đồng ý, ngài đến thăm Sabbakāmī – vị tỳ-kheo cao niên nhất còn sống lúc bấy giờ và là đệ tử của Ānanda (theo Mhv.iv.57, 60, chính Revata cũng là đệ tử của Ānanda và đã từng thấy Đức Phật; cp. Dpv.iv.49) – vào ban đêm, và trò chuyện với ngài về các vấn đề giáo lý. Trong lúc trò chuyện, Sānavāsī đến và hỏi Sabbakāmī về Mười Điều, nhưng vị này từ chối bày tỏ ý kiến riêng tư. Theo đề nghị của Revata, một hội đồng tám vị, bốn vị từ mỗi bên, được chỉ định để xem xét vấn đề. Chính Revata cũng là thành viên của hội đồng này, và chính ngài là người đã hỏi Sabbakāmī trong cuộc họp, tổ chức tại Vālikārāma, về Mười Điều. Tất cả Mười Điều đều bị tuyên bố là sai, và sau khi kết thúc các câu hỏi, bảy trăm vị tỳ-kheo – được chọn từ một trăm mười hai ngàn vị, do Revata đứng đầu – đã tổ chức một cuộc trùng tụng Pháp, do đó cuộc trùng tụng này được gọi là Sattasatī ("Bảy Trăm"). Cuộc trùng tụng này, theo Mhv., kéo dài tám tháng. Vin.ii.299ff.
+
+Mahāvastu iv.1ff đưa ra một trình thuật về Kỳ Kết Tập này, khác biệt ở nhiều chi tiết. Trong cả hai trình thuật, Revata đều là người giữ vai trò nổi bật nhất trong việc giải quyết cuộc tranh chấp. Mahāvastu giới thiệu Kāḷāsoka là người bảo trợ cho Kỳ Kết Tập Thứ Hai; cp. Dpv.iv.46ff.; v.15ff.; Vin-a.i.33f.; theo trình thuật của Dpv. thì dường như những kẻ theo tà thuyết đã từ chối chấp nhận quyết định của Hội đồng Revata và tách ra, với số lượng mười ngàn người, thành lập một nhóm mới gọi là Mahā Saṅghikas.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Taṇhāsutta"
 disambiguator: "11"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Taṇhāsutta 11. The Noble Eightfold Path must be followed in order to get rid 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Taṇhāsutta 11. Bát Thánh Đạo (Noble Eightfold Path) phải được tu tập để đoạn tận ba loại ái dục. SN.v.57f.
 
 ## Notes

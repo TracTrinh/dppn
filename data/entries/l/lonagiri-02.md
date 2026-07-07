@@ -5,7 +5,7 @@ base_headword: "Loṇagiri"
 disambiguator: "02"
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -32,6 +32,8 @@ The other story relates how, when <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Loṇagiri 02. Một *vihāra* ở Tích Lan, gần Mahā Khīragāma (*v.l.* Mahā Girigāma). Trong các bản Chú giải (AN­a.ii.653f.; MN.A.i.546f.; DN­a.ii.534f) chúng ta tìm thấy hai câu chuyện về một vị tỳ-kheo tên là Tissa, người đã sống ở đó. Một lần nọ, năm trăm vị tỳ-kheo, trên đường đi đến Nāgadīpa, đã đến Khīragāma và đi vào ngôi làng để khất thực, nhưng đã quay trở về với những chiếc bát trống rỗng. Khi Tissa phát hiện ra điều này, ngài đã đi vào trong làng, ngay sau đó ngài trở về với chiếc bát chứa đầy sữa gạo, ngài đã sớt bát cho năm trăm vị tỳ-kheo, giữ lại một ít cho bản thân mình. Khi được hỏi liệu ngài có sở hữu năng lực thần thông hay không, Tissa trả lời rằng ngài đã thực hành *Sāraṇīyadhammā*, nhờ đó mà bát của ngài không bao giờ trống rỗng ngay cả sau khi ngài đã sớt bát cho tới một ngàn vị tỳ-kheo từ đó.
+
+Câu chuyện thứ hai kể lại cách thức, khi Tissa vẫn còn là một vị sa-di, ngài đã đi đến lễ hội Giribhaṇḍa. Ở đó, khi nghe nói rằng món vật phẩm cúng dường đắt giá nhất là một cặp y, ngài đã công khai ước mong rằng ngài nên nhận được chúng. Nhà vua nghe về điều này và cố gắng ngăn cản Tissa có được những bộ y đó, nhưng nỗ lực này đã không thành công. Nhà vua kinh ngạc, và, khi gạn hỏi Tissa, câu trả lời nhận được cũng mang ý nghĩa tương tự như trong câu chuyện đầu tiên.
 
 ## Notes

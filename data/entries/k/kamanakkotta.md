@@ -5,7 +5,7 @@ base_headword: "Kāmānākkoṭṭa"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -28,6 +28,6 @@ Kāmānākkoṭṭa. A fortress in South India, which was occupied by the <span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāmānākkoṭṭa. Một pháo đài ở Nam Ấn Độ, từng bị chiếm đóng bởi các thủ lĩnh Damiḷa là Paṇḍimaṇḍala, Vīragaṅga và Kaṅgakoṇḍa. Cv.lxxvi.180.
 
 ## Notes

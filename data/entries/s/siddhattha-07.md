@@ -5,7 +5,7 @@ base_headword: "Siddhattha"
 disambiguator: "07"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Siddhattha 07. A monk of Ceylon of the thirteenth century; he was a pupil of <sp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Siddhattha 07. Một tỳ-khẻo Tích Lan thế kỷ mười ba; ngài là đệ tử của Buddhappiya và đã viết Sāraṭṭhasangaha. PLC. 228f.
 
 ## Notes

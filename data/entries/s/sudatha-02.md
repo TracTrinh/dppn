@@ -5,7 +5,7 @@ base_headword: "Sudāṭha"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sudāṭha 02. The lion in the <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudāṭha 02. Con sư tử trong Vaṇṇārohajātaka (Ja 361). Sư tử này được đồng nhất với Sāriputta. Ja.iii.193.
 
 ## Notes

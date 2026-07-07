@@ -5,7 +5,7 @@ base_headword: "Kāḷa"
 disambiguator: "04"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -27,6 +27,6 @@ Kāḷa 04. An Elder of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷa 04. Một vị Trưởng lão của xứ Kosala. Ông đã gia nhập Tăng đoàn khi về già và sống trong rừng cùng với người bạn của mình là Juṇha. Có lần một câu hỏi đã nảy sinh giữa họ về việc phần nào của tháng là lạnh, và không thể quyết định được câu hỏi đó, họ đã tìm đến Đức Phật, Ngài đã thuyết giảng cho họ Mālutajātaka (*q.v.*). (Ja.i.165)
 
 ## Notes

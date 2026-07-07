@@ -5,7 +5,7 @@ base_headword: "Kundukāla"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -30,6 +30,8 @@ Kundukāla. A locality in South India on the tongue of land which juts out from 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một địa phương ở Nam Ấn Độ trên dải đất nhô ra từ lục địa đến hòn đảo Rāmissara. Kundukāla cách Rāmissāra khoảng tám dặm (Cv.lxxvi.101).
+
+Laṅkāpura đã xây dựng một trại vững chắc gọi là Parakkamapura ở đó, nơi ông đặt sở chỉ huy của mình. Cv.lxxvi.121.
 
 ## Notes

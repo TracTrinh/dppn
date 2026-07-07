@@ -5,7 +5,7 @@ base_headword: "Khayasutta"
 disambiguator: "01"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -24,6 +24,6 @@ Khayasutta 01. Preached to <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khayasutta 01. Được thuyết cho Rādha. Sắc, v.v., đều phải chịu sự hoại diệt. Những gì bản chất là vô thường và hoại diệt thì phải bị đoạn trừ. SN.iii.197, 199, 201.
 
 ## Notes

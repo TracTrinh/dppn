@@ -5,7 +5,7 @@ base_headword: "Passika Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -29,6 +29,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Passika Thera. Một vị Bà-la-môn ở Kosala, người sau khi nhìn thấy Song thông, đã gia nhập Tăng đoàn. Ngài bị ốm, nhưng được chính những người thân của mình chăm sóc và chữa trị. Nhờ nỗ lực dồn hết sức lực, ngài đã trở thành một *Arahant*, và bằng cách du hành qua không trung đến chỗ người thân của mình, ngài đã cải đạo cho họ.
+
+Vào thời của Atthadassī Buddha, ngài là một cư sĩ và đã cúng dường cho Đức Phật một số quả *pilakkha* (Thag.vs.240-42; Thag­a.i.355). Ngài có lẽ đồng nhất với Pilakkhaphaladāyaka Thera trong Apadāna. Ap.i.296; cp.ii.410.
 
 ## Notes

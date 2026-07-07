@@ -5,7 +5,7 @@ base_headword: "Rohaṇa"
 disambiguator: "04"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -32,6 +32,8 @@ In times of persecution and scarcity the Buddhist monks found patronage and shel
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rohaṇa 04. Một trong ba tỉnh chính của Tích Lan thời cổ, bao gồm phần đông-nam của đảo, với sông Mahā Vālukanadī làm ranh giới phía bắc. Tỉnh này có lẽ được khai khẩn bởi Rohaṇa (3). Kinh đô của tỉnh là Mahā Gāma. Khi các phần phía bắc của đảo rơi vào tay ngoại bang hay những kẻ tiếm quyền, triều đình Sinhala, các quý tộc và những người trung thành thường tìm nơi lánh nạn tại Rohaṇa. Phần lớn thời gian, tỉnh này dường như rất ít chịu sự kiểm soát từ kinh đô, và nhiều cuộc nổi loạn chống lại người cai trị kinh đô đã khởi phát từ Rohaṇa. Xem Duṭṭhagāmaṇī và Vijayabāhu; cũng xem, ví dụ, Mhv.xxiii.13; xxxiii.37; xxxv.27f., 67, 125; Cv.xxxviii.12, 39; xli.89ff.; xliv.54; xlviii.59, v.v.
+
+Trong những thời kỳ bị bức hại và khan hiếm, các tỳ-kheo tìm được sự bảo trợ và nơi trú ẩn nơi cư dân Rohaṇa (ví dụ, Mhv.xxxvii.6). Cho đến khoảng năm 600 CN., Rohaṇa vẫn được xem là một vương quốc riêng biệt, giữ, hay ít nhất tuyên bố giữ, một vị thế độc lập bên cạnh Anurādhapura (Xem, ví dụ, Cv.xlv.41).
 
 ## Notes

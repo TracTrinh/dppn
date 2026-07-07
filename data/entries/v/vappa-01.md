@@ -5,7 +5,7 @@ base_headword: "Vappa"
 disambiguator: "01"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -39,6 +39,8 @@ Vappa 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vappa 01. Vappa Thera. Một trong nhóm Pañcavaggiyā (năm vị tỳ-kheo đầu tiên). Ông là con trai của Vāseṭṭha, một vị Bà-la-môn ở Kapilavatthu. Khi Asita tuyên bố rằng Thái tử Siddhattha sẽ trở thành đức Phật, Vappa cùng bốn vị Bà-la-môn khác, đứng đầu là Koṇḍañña, đã trở thành những ẩn sĩ. Vappa đã đồng hành cùng đức Phật trong sáu năm thực hành khổ hạnh của ngài, nhưng vì thất vọng khi đức Phật bắt đầu dùng lại thức ăn đặc, ông đã rời bỏ ngài và đi đến Isipatana. Nơi đó, sau khi Giác ngộ (*Awakening*), đức Phật đã thuyết giảng Dhammacakkappavattanasutta cho ông cùng những người khác. Vào ngày thứ năm sau đó, Vappa và các bạn đồng đạo của mình đã đắc quả vị *Arahant*, vào lúc kết thúc bài giảng Anattalakkhaṇasutta. Vappa đã trở thành một bậc *Sotāpanna* (Dự lưu) vào ngày thứ hai của tuần trăng (AN­a.i.84); *pāṭipadadivase* (ngày đầu tiên) theo Thag­a. (loc. *infra*) và MN­a.i.390.
+
+Quyết tâm trở thành một trong những đệ tử đầu tiên của đức Phật của Vappa được lập ra vào thời đức Phật Padumuttara. Trong quá khứ, ông từng mười sáu lần làm vua, dưới cái tên Mahā Dundubhi. Thag­a.i.140f.; một bài kệ được gán cho ông xuất hiện trong Thag.61; xem thêm Ja.i.82; Dpv.i.32; Vin.i.12.
 
 ## Notes

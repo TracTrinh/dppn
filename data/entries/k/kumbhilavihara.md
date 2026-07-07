@@ -5,7 +5,7 @@ base_headword: "Kumbhīlavihāra"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -24,6 +24,6 @@ Kumbhīlavihāra. A monastery in Ceylon. Ras.ii.111.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tu viện ở Tích Lan. Ras.ii.111.
 
 ## Notes

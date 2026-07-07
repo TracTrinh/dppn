@@ -5,7 +5,7 @@ base_headword: "Khīrarukkhasutta"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -24,6 +24,6 @@ Khīrarukkhasutta. Where lust, malice, and infatuation exist in a man, even trif
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khīrarukkhasutta. Nơi nào có dục, sân, và si tồn tại trong một con người, thì ngay cả những đối tượng nhỏ bé được nhận biết bởi các giác quan cũng tìm được đường vào tâm, giống như trong một cái cây có nhựa, nhựa sẽ chảy ra ở bất cứ chỗ nào người ta dùng rìu chặt vào (SN.iv.159f).
 
 ## Notes

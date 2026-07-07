@@ -5,7 +5,7 @@ base_headword: "Kodhanasutta"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -23,6 +23,6 @@ Kodhanasutta 02. Seven evil things which rivals wish for each other: ugliness, d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kodhanasutta 02. Bảy điều tồi tệ mà những kẻ thù địch cầu mong cho nhau: sự xấu xí, sự khó chịu, sự thất bại trong các công việc, sự nghèo đói, sự mang tiếng xấu, sự mất bạn bè, và sự tái sinh không may mắn. AN.iv.94f.
 
 ## Notes

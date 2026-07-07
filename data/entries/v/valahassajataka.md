@@ -5,7 +5,7 @@ base_headword: "Valāhassajātaka"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -34,6 +34,8 @@ The story was told in reference to a monk who had become a backslider from runni
 
 ## Vietnamese translation
 
-Chưa dịch.
+Valāhassajātaka (Ja 196). Xưa kia, ở Tambaṇṇidīpa, có một thành phố Yakkha tên là Sirīsavatthu, nơi các *Yakkhinīs* sinh sống. Khi các thủy thủ đắm tàu bị sóng đánh vào bờ từ sông Kalyāṇī đến Nāgadīpa, các *Yakkhinīs* hóa thành người và quyến rũ họ, lấy họ làm chồng. Khi những người đắm tàu khác đến, chúng ăn thịt các chồng cũ và lấy những người mới làm người tình. Một lần, năm trăm thương nhân bị dạt vào bờ ở đó và trở thành chồng của các *Yakkhinīs*. Đêm đến các *Yakkhinīs* rời bỏ họ và ăn thịt các chồng cũ. Người thương nhân lớn tuổi nhất phát hiện điều này và cảnh báo những người khác, nhưng chỉ một nửa trong số họ sẵn sàng thử thoát. Lúc đó, Bodhisatta là một con ngựa giống Valāhaka đang bay qua không trung từ Himālaya đến Tambapaṇṇi. Ở đó, khi bay qua các bờ bãi và cánh đồng, Ngài hỏi bằng giọng người: "Ai muốn về nhà?" và hai trăm năm mươi thương nhân cầu xin được Ngài đưa đi. Họ leo lên lưng và đuôi ngựa và Ngài đưa họ về đất nước của mình. Những người còn lại bị các *Yakkhinīs* ăn thịt.
+
+Câu chuyện được kể liên quan đến một tỳ-kheo đã thối thất vì chạy theo một người phụ nữ ăn mặc đẹp. Ja.ii.127ff.
 
 ## Notes

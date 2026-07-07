@@ -5,7 +5,7 @@ base_headword: "Kāmabhū"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -32,6 +32,6 @@ Kāmabhū. A monk, evidently held in high esteem by his colleagues. He is mentio
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāmabhū. Một vị tỳ-kheo, hiển nhiên được các đồng đạo của tôn giả kính trọng ở mức độ cao. Tôn giả được nhắc đến là đang lưu lại tại Kosambī, tại Ghositārāma, và là người hỏi Ānanda những câu hỏi nhất định, được ghi lại trong Kāmabhūsutta (1) (SN.iv.165). Hai *Sutta* khác mang cùng tên ghi lại những chuyến viếng thăm của Cittagahapati đến gặp Kāmabhū tại Ambāṭakavana ở Macchikāsaṇḍa. SN.iv.291, 293.
 
 ## Notes

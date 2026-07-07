@@ -5,7 +5,7 @@ base_headword: "Maṅgalacetiya"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -27,6 +27,6 @@ Maṅgalacetiya. A religious building, probably in <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṅgalacetiya. Một công trình tôn giáo, có lẽ ở Anurādhapura. Upatissa II. đã xây một Thūpa ở phía bắc của nó và cũng xây một nhà thờ hình tượng có thờ tượng (Cv.xxxvii.183). Có lẽ đây đồng nhất với Bahumaṅgalacetiya (*q.v.*). Cv.Trs.i.36; n.1.
 
 ## Notes

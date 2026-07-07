@@ -5,7 +5,7 @@ base_headword: "Kukkuṭārāma"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kukkuṭārāma 01. A monastery in <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kukkuṭārāma 01. Một tu viện ở Kosambī, do *seṭṭhi* (trưởng giả) Kukkuṭa (*xem mục này*) xây dựng. DN­a.i.318, v.v.
 
 ## Notes

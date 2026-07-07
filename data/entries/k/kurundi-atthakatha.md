@@ -5,7 +5,7 @@ base_headword: "Kurundī-aṭṭhakathā"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -32,6 +32,10 @@ It is also called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một trong những bộ sưu tập chú giải vĩ đại về *Tipiṭaka* được Buddhaghosa sử dụng trong việc biên soạn các tác phẩm của ngài. Truyền thuyết nói rằng (Xem ví dụ, *Saddhamma-saṅgaha*, p.55) nó được viết bằng tiếng Sinhalese, và được gọi như vậy vì nó được biên soạn trong *vihāra* Kurundavelu ở Ceylon.
+
+Nó dường như chủ yếu liên quan đến các giới luật Vinaya, vì chúng ta tìm thấy các tham chiếu thường xuyên đến nó; đặc biệt là trong Samantapāsādikā, ví dụ, Vin-a.i.281; ii.319; iii.537, 544, 545, 573, 583, 597, 616, 620, 626, 627, 660, 664, 668, 688, 722, 726; iv.745, 758, 778, 783, 789, 813, 818, 861, 920, v.v.
+
+Nó cũng được gọi là Kurundīgandha (Gv.59). Trong nhiều trường hợp, những lời giải thích của nó dường như khác biệt với các bản chú giải khác.
 
 ## Notes

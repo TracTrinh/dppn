@@ -5,7 +5,7 @@ base_headword: "Tannitittha"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tannitittha. A village in Ceylon, near <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tannitittha. Một ngôi làng ở Tích Lan, gần Ambagāma và Antaraviṭṭhi. Cv.lxx.322.
 
 ## Notes

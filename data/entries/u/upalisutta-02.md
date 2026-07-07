@@ -5,7 +5,7 @@ base_headword: "Upālisutta"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -25,6 +25,6 @@ Upālisutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upālisutta 02. Trưởng lão Upāli đến thăm Đức Phật và hỏi Ngài vì mục đích gì mà các giới luật khác nhau được quy định cho các đệ tử và tại sao Pātimokkha lại được tụng đọc? Vì mười mục đích, Đức Phật nói, và bắt đầu liệt kê chúng. Tương tự, mười lý do được đưa ra để biện minh cho việc đình chỉ Pātimokkha. AN.v.70f.
 
 ## Notes

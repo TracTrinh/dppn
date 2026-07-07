@@ -5,7 +5,7 @@ base_headword: "Mahā Pajāpatī Gotamī"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -86,6 +86,26 @@ There is a story related of a nurse employed by <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Pajāpatī Gotamī. Một vị Therī xuất chúng. Bà sinh ra tại Devadaha trong gia đình của Suppabuddha, là em gái của Mahā Māyā. Ap.ii.538 nói rằng cha bà là Añjana Sakka và mẹ bà là Sulakkhaṇā. Mhv.ii.18 nói rằng cha bà là Añjana và mẹ bà là Yasodharā. Daṇḍapāṇī và Suppabuddha là các anh trai của bà; so sánh Dpv.xviii.7f.
+
+Vào lúc ra đời của mỗi người trong hai chị em, những người đoán mộng dựa trên các tướng mạo cơ thể đã tiên tri rằng con cái của họ sẽ trở thành các *cakkavattī*. Vua Suddhodana đã kết hôn với cả hai chị em, và khi Mahā Māyā qua đời vào bảy ngày sau khi hạ sinh Đức Phật, Pajāpatī đã chăm nom Đức Phật và nuôi nấng ngài. Bà là mẹ của Nanda, nhưng có nói rằng bà đã giao con ruột của mình cho các nhũ mẫu và tự mình nuôi nấng Bodhisatta. Đức Phật đang ở Vesālī khi Suddhodana qua đời, và Pajāpatī đã quyết định từ bỏ thế tục, chờ đợi một cơ hội để xin phép Đức Phật.
+
+Pajāpatī khi đó đã là một *Sotāpanna*. Bà đạt được quả vị này khi Đức Phật lần đầu về thăm hoàng cung của vua cha và thuyết giảng Mahā Dhammapālajātaka (Ja 447) (Dhp­a.i.97).
+
+Cơ hội của bà đến khi Đức Phật viếng thăm Kapilavatthu để giải quyết cuộc tranh chấp giữa những người Sākiyan và Koḷiyan về quyền lấy nước từ dòng sông Rohiṇī. Khi cuộc tranh chấp đã được hòa giải, Đức Phật đã thuyết bài kinh Kalahavivādasutta, và năm trăm thanh niên Sākiyan đã gia nhập Tăng đoàn. Vợ của họ, được dẫn đầu bởi Pajāpatī, đã đi đến gặp Đức Phật và xin phép được xuất gia làm Tỳ-kheo-ni. Đức Phật từ chối lời cầu xin này, và ngài đi tiếp đến Vesālī. Nhưng Pajāpatī và những người bạn đồng hành của bà, không hề chùn bước, đã bảo các thợ cạo cắt bỏ tóc của họ, rồi đắp y vàng, đi bộ theo sau Đức Phật đến Vesālī. Họ đến tu viện của Đức Phật với đôi chân rướm máu và lặp lại lời yêu cầu của mình. Đức Phật một lần nữa từ chối, nhưng Ānanda đã cầu xin thay cho họ và thỉnh nguyện của họ đã được chấp thuận, tuân theo tám điều kiện nghiêm ngặt. Về chi tiết xem Vin.ii.253ff.; cũng xem AN.iv.274ff.
+
+Sau này có một số nghi vấn nảy sinh liên quan đến thủ tục thọ giới của Pajāpatī, do nó không được thực hiện theo đúng hình thức. Khi các Tỳ-kheo-ni phát hiện ra điều này, một số người đã từ chối thực hiện lễ *uposatha* cùng với bà. Nhưng Đức Phật đã tuyên bố rằng đích thân ngài đã truyền giới cho bà và mọi việc đều hợp lệ (Dhp­a.iv.149). Việc thọ *upasampadā* của bà chính là sự chấp nhận tám điều kiện được đặt ra cho các Tỳ-kheo-ni (Vin-a.i.242).
+
+Sau khi thọ giới, Pajāpatī đi đến gặp Đức Phật và đảnh lễ ngài. Đức Phật đã thuyết giảng cho bà và ban cho bà một đề mục thiền. Với đề mục này, bà đã phát triển minh sát và không lâu sau đã chứng quả vị *Arahant*, trong khi năm trăm người bạn đồng hành của bà cũng đạt đến cùng quả vị sau khi nghe Nandakovādasutta. Sau đó, tại một hội chúng gồm các Tỳ-kheo và Tỳ-kheo-ni ở Jetavana, Đức Phật đã tuyên bố Pajāpatī là người đứng đầu trong số những người có nhiều kinh nghiệm (nghĩa đen: sống nhiều đêm, *rattaññūnaṁ*) (AN.i.25). Không lâu sau đó, khi đang ở tại Vesālī, bà nhận ra rằng mạng sống của mình đã đi đến hồi kết. Bà đã một trăm hai mươi tuổi; bà cáo biệt Đức Phật, thực hiện nhiều phép thần thông khác nhau, rồi qua đời, năm trăm người bạn đồng hành của bà cũng viên tịch cùng lúc với bà. Có nói rằng những sự kỳ diệu diễn ra tại lễ hỏa táng của bà chỉ đứng sau những điều kỳ diệu tại lễ hỏa táng của Đức Phật.
+
+Chính trong thời của Đức Phật Padumuttara, Pajāpatī đã lập nguyện để đạt được vị trí xuất chúng. Khi đó bà thuộc một gia đình gia thế ở Haṁsavatī, và sau khi nghe Đức Phật chỉ định vị trí cao nhất về kinh nghiệm cho một vị Tỳ-kheo-ni nào đó, bà đã mong ước nhận được sự ghi nhận tương tự cho bản thân, làm nhiều việc thiện vì mục đích đó. Trải qua nhiều kiếp sinh, bà lại sinh ra ở Benares, là người quản đốc của năm trăm nữ tỳ. Khi mùa mưa đến gần, năm vị Pacceka Buddha đã đến từ Nandamūlaka để đến Isipatana tìm kiếm chỗ ngụ. Pajāpatī trông thấy các ngài sau khi viên Thủ quỹ từ chối ban bất kỳ sự trợ giúp nào cho họ, và sau khi bàn bạc với các tỳ nữ đồng nghiệp, họ đã thuyết phục các người chồng tương ứng của mình cất năm túp lều cho các vị Pacceka Buddha trong suốt mùa mưa và cung cấp cho các ngài mọi vật dụng cần thiết. Vào cuối mùa mưa, họ dâng ba y cho mỗi vị Pacceka Buddha. Sau đó bà sinh ra ở một ngôi làng thợ dệt gần Benares, và lần này lại phục vụ cho năm trăm vị Pacceka Buddha, những người con của Padumavatī (Thīg­a.140ff.; AN­a.i.185f.; Ap.ii.529-43).
+
+Có kể rằng một lần Pajāpatī làm một tấm y dâng lên Đức Phật với chất liệu tuyệt vời và công phu chế tác vô cùng tinh xảo. Nhưng khi tấm y được dâng lên Đức Phật, ngài đã từ chối và đề nghị nên cúng dường y đó cho toàn thể Tăng đoàn. Pajāpatī vô cùng thất vọng, và Ānanda đã can thiệp. Nhưng Đức Phật giải thích rằng lời đề nghị của ngài là vì lợi ích lớn lao hơn cho Pajāpatī, và đồng thời cũng là một tấm gương cho những ai muốn cúng dường những vật phẩm tương tự trong tương lai. Đây chính là dịp để ngài thuyết bài kinh Dakkhiṇāvibhaṅgasutta (MN.iii.253ff.; MN­a.ii.1001ff.; sự kiện này được dẫn chiếu trong Milinda p.240). Đức Phật có một tình thương lớn đối với Pajāpatī, và khi bà nằm bệnh, vì không có Tỳ-kheo nào đến thăm hỏi và thuyết pháp cho bà – do điều này trái với giới luật – Đức Phật đã sửa đổi giới luật và đích thân ngài đến thuyết pháp cho bà (Vin.iv.56).
+
+Tên của Pajāpatī xuất hiện nhiều lần trong các Jātaka. Bà là khỉ mẹ trong Cūḷa Nandiyajātaka (Ja 222, Ja.ii.202), Candā trong Cūḷa Dhammapāla (Ja 358, Ja.iii.182), và Bhikkhudāyikā (hay Bhikkhudāsikā) con gái của Kikī, vua xứ Benares (Ja.vi.481).
+
+Mahā Pajāpatī được gọi như vậy vì, vào lúc bà ra đời, các nhà đoán điềm đã tiên tri rằng bà sẽ có một lượng lớn người theo hầu; Gotamī là tên *gotta* của bà (MN­a.i.1001; so sánh AN­a.ii.774).
+
+Có một câu chuyện kể về một nhũ mẫu được Pajāpatī thuê và được sinh ra ở Devadaha. Cô xuất gia cùng với Pajāpatī, nhưng trong suốt hai mươi lăm năm, cô bị quấy nhiễu bởi những tư tưởng tham ái cho đến khi, cuối cùng, cô nghe Dhammadinnā thuyết pháp. Sau đó cô thực hành thiền định và trở thành một *Arahant*. Thīg­a.75f.
 
 ## Notes

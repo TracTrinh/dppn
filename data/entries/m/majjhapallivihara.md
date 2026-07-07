@@ -5,7 +5,7 @@ base_headword: "Majjhapallivihāra"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -27,6 +27,6 @@ Majjhapallivihāra. A *vihāra* in Ceylon restored by the monk <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Majjhapallivihāra. Một vihāra ở Tích Lan được trùng tu bởi vị Tỳ-kheo Saṅgharakkhita dưới triều đại của Kittisirirājasīha. Nhà vua đã bày tỏ niềm tôn kính lớn lao đối với vị Tỳ-kheo và ban tặng ngôi làng Mālāgāma để bảo trì vihāra này. Cv.c.234. (Sinhalese *Medapola*.)
 
 ## Notes

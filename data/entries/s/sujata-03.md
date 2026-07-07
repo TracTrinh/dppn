@@ -5,7 +5,7 @@ base_headword: "Sujāta"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sujāta 03. An <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sujāta 03. Một vị Ājīvaka, người đã dâng cúng cỏ dùng làm chỗ ngồi cho Piyadassī Buddha. Bv­a.172.
 
 ## Notes

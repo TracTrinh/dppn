@@ -5,7 +5,7 @@ base_headword: "Kīḷenilaya"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kīḷenilaya. A town in South India on the borders of <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kīḷenilaya. Một thị trấn ở Nam Ấn Độ nằm trên biên giới của Madhurā. Cv.lxxvii.83.
 
 ## Notes

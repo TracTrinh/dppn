@@ -5,7 +5,7 @@ base_headword: "Paṇḍulagāma"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Paṇḍulagāma. The residence of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇḍulagāma. Nơi ở của Paṇḍula (*q.v.*); nó nằm ở phía nam của Anurādhapura. Mhv.x.20.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kāvinda"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -33,6 +33,8 @@ In the present age he was <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāvinda. Một trong những quan đại thần phụ trách luật pháp (dhammānusāsaka) của Vua Vedeha nước Mithilā (Ja.vi.330ff). Vào ngày trai giới của nửa tháng tối, một Yakkha tên là Naradeva đã nhập vào ông và ông sủa như một con chó dại. Con trai ông, biết được điều này, đã nhốt ông trong nhà vào những dịp như vậy. Khi nhà vua phát hiện ra chuyện này, Kāvinda đã bị tống vào ngục và ra lệnh đánh roi vì tội âm mưu chống lại Mahosadha, nhưng theo yêu cầu của Mahosadha, ông đã được tha thứ.
+
+Trong thời đại hiện tại, ông là Ambaṭṭha (Ja.vi.478).
 
 ## Notes

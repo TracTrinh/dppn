@@ -5,7 +5,7 @@ base_headword: "Pavarā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Pavarā. One of the five daughters of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pavarā. Một trong năm người con gái của Vessavaṇa, được phân công cùng với các chị em của mình múa hát trước mặt Sakka. Vv.iii.4; Vv-a.131.
 
 ## Notes

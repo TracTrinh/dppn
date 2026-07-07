@@ -5,7 +5,7 @@ base_headword: "Rucānandā"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rucānandā. A nun in the time of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rucānandā. Một vị ni vào thời Kakusandha Buddha. Bà đến Tích Lan theo ý nguyện của Đức Phật cùng năm trăm vị ni khác, mang theo một nhánh cây Bodhi. Mhv.xv.78; Dpv.xvii.16, 51ff.
 
 ## Notes

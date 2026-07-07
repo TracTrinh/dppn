@@ -5,7 +5,7 @@ base_headword: "Sucimukhī"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Sucimukhī. A *Paribbājikā*. She once saw <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sucimukhī. Một nữ du sĩ ngoại đạo (*Paribbājikā*). Có lần bà thấy Sāriputta ở Rājagaha đang ăn bữa ăn của mình, thức ăn mà ngài đã đi khất thực từ nhà này sang nhà khác, tựa lưng vào một bức tường. Sucimukhī hỏi ngài tại sao lại nhìn xuống khi ăn. Khi Sāriputta phủ nhận việc làm đó, bà lần lượt hỏi ngài tại sao ngài ăn mà nhìn lên trên, nhìn về bốn phương, nhìn giữa bốn phương. Ngài phủ nhận sự thật của tất cả những lời bà nói, và sau đó giải thích cho bà lý do tại sao ngài phủ nhận. Ngài không sống bằng những tà mạng thấp hèn như bói toán, cũng không bằng cách xem sao, đi làm tay sai, hay xem chỉ tay. Sucimukhī đã hiểu, và đi khắp Rājagaha ca ngợi sự không lỗi lầm của các tỳ-kheo Sākiyan. SN.iii.238f.; SN­a.ii.253.
 
 ## Notes

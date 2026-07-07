@@ -5,7 +5,7 @@ base_headword: "Laṅkātilaka"
 disambiguator: "01"
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -27,6 +27,6 @@ Laṅkātilaka 01. An image house in <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Laṅkātilaka 01. Một nhà thờ phụng ảnh tượng ở Pulatthipura, do Parakkamabāhu I. xây dựng. Pho tượng Phật đứng (cũng do nhà vua xây dựng) chứa bên trong cũng mang tên Laṅkātilaka. Cv.lxxviii.53 L, 63; để xác định xem Cv.Trs.ii.108, n.2,4.
 
 ## Notes

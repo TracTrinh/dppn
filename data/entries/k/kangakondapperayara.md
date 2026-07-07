@@ -5,7 +5,7 @@ base_headword: "Kaṅgakoṇḍapperayara"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kaṅgakoṇḍapperayara. A <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṅgakoṇḍapperayara. Một thủ lĩnh Damiḷa, bị Parakkamabāhu I khuất phục. Cv.lxxvi.179.
 
 ## Notes

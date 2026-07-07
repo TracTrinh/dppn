@@ -5,7 +5,7 @@ base_headword: "Lokasutta"
 disambiguator: "06"
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -25,6 +25,6 @@ Lokasutta 06. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lokasutta 06. Anuruddha nói với Sāriputta rằng sự hiểu biết về vũ trụ của ông là nhờ tu tập bốn *satipaṭṭhāna*. SN.v.175.
 
 ## Notes

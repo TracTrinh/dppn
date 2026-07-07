@@ -5,7 +5,7 @@ base_headword: "Yodhājīvasutta"
 disambiguator: "02"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -24,6 +24,6 @@ Yodhājīvasutta 02. On five kinds of warriors: those who go down into the thick
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yodhājīvasutta 02. Về năm loại chiến binh: những người lao vào giữa trận chiến nguy hiểm, nơi họ bị áp đảo, những người bị thương và chết trên đường về nhà, những người sống sót một thời gian nhưng chết vì vết thương, những người được chữa khỏi vết thương, những người chiến thắng trên chiến trường và tiếp tục chiến đấu. Có năm hạng tỳ-kheo tương ứng. AN.iii.94ff.
 
 ## Notes

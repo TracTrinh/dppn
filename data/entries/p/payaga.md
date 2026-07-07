@@ -5,7 +5,7 @@ base_headword: "Payāga"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -47,6 +47,12 @@ It is identified with the modern Allahabad, at the confluence of the <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Payāga, Payāgatittha, Payāgapatiṭṭhāna. Một bến đò trên sông Ganges, nằm trên tuyến đường trực tiếp từ Verañjā đến Benares, con đường đi qua Soreyya, Saṅkassa và Kaṇṇakujja, và băng qua con sông Ganges tại Payāga (Vin.iii.11).
+
+Đây là một trong những bến sông nơi mọi người thực hiện nghi lễ tắm rửa để gột sạch tội lỗi của họ (MN.i.39; Ja.vi.198). Cũng chính tại nơi này cung điện do Mahā Panāda sinh sống đã bị chìm dưới nước. Đức Phật Gotama đã đi ngang qua nó khi viếng thăm vị Bà-la-môn Nanduttara, và Bhaddaji, người đang đi cùng với ngài, đã nâng cung điện một lần nữa lên khỏi mặt nước. Bhaddaji đã từng là Mahā Panāda (Mhv.xxxi.6ff).
+
+Buddhaghosa nói (MN­a.i.145; DN­a.iii.856) nơi tắm rửa nằm đúng vào vị trí mà những bậc thang của cung điện đã từng hiện diện. Payāga còn được đề cập đến ngay cả trong thời của Đức Phật Padumuttara (AN­a.i.126).
+
+Nó được đồng nhất với Allahabad hiện đại, tại nơi hợp lưu của sông Gaṅgā và sông Yamunā.
 
 ## Notes

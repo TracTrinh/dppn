@@ -5,7 +5,7 @@ base_headword: "Viḍoja"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Viḍoja. An epithet of Indra. Ud­a.75; see also n.12.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Viḍoja. Một biệt hiệu của Indra. Ud­a.75; xem thêm chú thích số 12.
 
 ## Notes

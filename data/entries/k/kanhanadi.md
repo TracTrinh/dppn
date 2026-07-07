@@ -5,7 +5,7 @@ base_headword: "Kaṇhanadī"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kaṇhanadī. Another name for <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇhanadī. Một tên khác gọi Kāḷanadī, con sông tạo thành ranh giới của Rohaṇa. (Cv.liii.20; Cv.Trs.i.173, n.5)
 
 ## Notes

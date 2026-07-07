@@ -5,7 +5,7 @@ base_headword: "Pattakammavagga"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Pattakammavagga. The seventh chapter of the *Catukkanipāta* of the <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pattakammavagga. Chương thứ bảy của *Catukkanipāta* thuộc Aṅguttaranikāya. AN.ii.65-76.
 
 ## Notes

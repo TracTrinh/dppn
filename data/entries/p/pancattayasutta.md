@@ -5,7 +5,7 @@ base_headword: "Pañcattayasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Pañcattayasutta. Preached at <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcattayasutta. Được thuyết tại Jetavana. Kinh này đề cập đến nhiều trường phái tư tưởng và các giáo thuyết của họ liên quan đến tương lai. Một số nói rằng bản ngã là có ý thức, những người khác phủ nhận điều này; một số dạy về sự đoạn diệt, những người khác lại phủ nhận điều đó. Đức Phật không ủng hộ bất kỳ suy đoán nào trong số này. MN.ii.228ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sotthiya"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -27,6 +27,6 @@ Sotthiya 03. A Brahmin of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sotthiya 03. Một Bà-la-môn xứ Sāvatthī, vị đã gia nhập Tăng đoàn và trở thành một *Arahant* sau cuộc trò chuyện với cô nữ tì của Anāthapiṇḍika là Puṇṇikā (Puṇṇā). Ap.ii.611 (vss. 6-11).
 
 ## Notes

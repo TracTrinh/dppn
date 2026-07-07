@@ -5,7 +5,7 @@ base_headword: "Mahā Tittha"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -28,6 +28,6 @@ Mahā Tittha 02. The name of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Tittha 02. Tên của Mahā Meghavana vào thời của Đức Phật Kakusandha. Nó được dâng cúng đến Đức Phật bởi vua Abhaya, vị vua này đã trồng ở đó một nhánh cây Bodhi được mang đến bởi Rucānandā. Mhv.xv. 58, 73f., 83.
 
 ## Notes

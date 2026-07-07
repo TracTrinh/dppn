@@ -5,7 +5,7 @@ base_headword: "Mahā Sārappakāsinī"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -24,6 +24,6 @@ Mahā Sārappakāsinī. The name of a Commentary Gv.75.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sārappakāsinī. Tên của một bộ Chú giải Gv.75.
 
 ## Notes

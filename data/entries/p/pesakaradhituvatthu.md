@@ -5,7 +5,7 @@ base_headword: "Pesakāradhītuvatthu"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -26,6 +26,6 @@ Pesakāradhītuvatthu. The story of a weaver’s daughter of <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pesakāradhītuvatthu. Câu chuyện về một người con gái của một thợ dệt ở Āḷavī. Cô đã nghe Đức Phật thuyết pháp tại Aggāḷavacetiya về sự cần thiết phải liên tục thiền quán về tính tất yếu của cái chết và, mặc dù chỉ mới mười sáu tuổi, cô là người duy nhất được hưởng lợi ích từ bài thuyết pháp này. Ba năm sau, Đức Phật lại viếng thăm Āḷavī. Những người dân đã thiết đãi ngài, nhưng Đức Phật không chịu thuyết giảng bài pháp tạ ơn của ngài cho đến khi người con gái của người thợ dệt, sau khi hoàn thành những nhiệm vụ mà cha cô giao phó, có thể đến tham dự. Khi cô đến, Đức Phật đã đặt cho cô những câu hỏi để dân chúng đang tụ họp có thể biết được trí tuệ của cô, và khi Đức Phật kết thúc bài thuyết pháp, cô đã trở thành một *Sotāpanna*. Cùng ngày hôm đó, cô đã chết vì một tai nạn với khung cửi của mình, và cha cô đã gia nhập Tăng đoàn, đắc quả vị *Arahant* trong thời gian thích hợp. Dhp­a.iii.170-6.
 
 ## Notes

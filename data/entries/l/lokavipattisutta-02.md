@@ -5,7 +5,7 @@ base_headword: "Lokavipattisutta"
 disambiguator: "02"
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -23,6 +23,6 @@ Lokavipattisutta 02. Average people are obsessed by the eight worldly conditions
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lokavipattisutta 02. Những phàm phu bị chi phối bởi tám pháp thế gian được nhắc đến trong *Sutta* 1; điều đó không xảy ra với vị đệ tử bậc Thánh, người biết rõ sự vô thường của chúng. AN.iv.157.
 
 ## Notes

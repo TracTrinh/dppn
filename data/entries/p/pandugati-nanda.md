@@ -5,7 +5,7 @@ base_headword: "Paṇḍugati Nanda"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Paṇḍugati Nanda. One of the <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇḍugati Nanda. Một trong Nava Nandā.
 
 ## Notes

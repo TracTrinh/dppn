@@ -5,7 +5,7 @@ base_headword: "Ussillyatissa Thera"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -27,6 +27,6 @@ Ussillyatissa Thera. He was a resident of the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ussillyatissa Thera. Vị này là một người cư trú tại Abhayagirivihāra. Khi các tỳ-kheo của vihāra này cố gắng truyền bá tà thuyết Vaitulya, ông đã từ chối hợp tác với họ và đi đến Dakkhiṇagirivihāra cùng với một vài người khác. Tại đó họ đã thành lập tông phái Sāgaliya dưới sự lãnh đạo của một tỳ-kheo tên là Sāgala. PLC.66.
 
 ## Notes

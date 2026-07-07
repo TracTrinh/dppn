@@ -5,7 +5,7 @@ base_headword: "Vaṇṇasutta"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -24,6 +24,6 @@ Vaṇṇasutta. One who praises and blames wrongly, without scrutiny, and who fa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaṇṇasutta. Kẻ nào tán dương và chê trách một cách sai trái, không qua xem xét kỹ lưỡng, và thất bại trong việc chê trách hay tán dương một cách đúng đắn, sẽ phải chịu đau khổ trong địa ngục (*purgatory*). AN.ii.84.
 
 ## Notes

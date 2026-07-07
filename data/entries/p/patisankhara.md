@@ -5,7 +5,7 @@ base_headword: "Paṭisaṅkhāra"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Paṭisaṅkhāra. Thirty *kappas* ago there were thirteen kings of this name, a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṭisaṅkhāra. Ba mươi *kappa* trước, có mười ba vị vua mang tên này, tất cả đều là các tiền kiếp của Sudhāpiṇḍiya Thera. Ap.i.133.
 
 ## Notes

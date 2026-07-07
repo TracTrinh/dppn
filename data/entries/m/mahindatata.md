@@ -5,7 +5,7 @@ base_headword: "Mahindataṭa"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mahindataṭa. A monastery built by <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahindataṭa. Một tu viện được xây bởi Mahinda I. Cv.xlviii.37.
 
 ## Notes

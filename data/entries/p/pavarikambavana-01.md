@@ -5,7 +5,7 @@ base_headword: "Pāvārikambavana"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -26,6 +26,6 @@ Pāvārikambavana 01. The Mango grove of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāvārikambavana 01. Vườn xoài của Pāvārika (*q.v.*) ở Kosambī.
 
 ## Notes

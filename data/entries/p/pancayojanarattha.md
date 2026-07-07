@@ -5,7 +5,7 @@ base_headword: "Pañcayojanaraṭṭha"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Pañcayojanaraṭṭha. A district in the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcayojanaraṭṭha. Một quận ở Dakkhiṇadesa của Tích Lan, là Pasyodunkorala ngày nay. Nó được nhắc đến trong nhiều chiến dịch khác nhau, và đã được tưới tiêu và làm cho màu mỡ bởi Parakkamabāhu I. Trong quận này có Bhīmatitthavihāra, từng là nơi lưu giữ Xá-lợi Răng. Cv.Ivii.71; lxi.35; lxviii.51; lxxii.57; lxxv.21; lxxxv.81.
 
 ## Notes

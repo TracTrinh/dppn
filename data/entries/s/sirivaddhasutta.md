@@ -5,7 +5,7 @@ base_headword: "Sirivaḍḍhasutta"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -27,6 +27,6 @@ Sirivaḍḍhasutta. Records the visit of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirivaḍḍhasutta. Ghi lại chuyến viếng thăm của Ānanda đến Sirivaḍḍha ở Rājagaha. Xem Sirivaḍḍha 13.
 
 ## Notes

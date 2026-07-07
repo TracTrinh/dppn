@@ -5,7 +5,7 @@ base_headword: "Sīhabodhi Thera"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -26,6 +26,6 @@ Sīhabodhi Thera. A colleague of Yonaka <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhabodhi Thera. Một đồng sự của Yonaka Mahā Buddharakkhita Thera và Malaya Mahā Deva Thera. Ras.ii.188f.
 
 ## Notes

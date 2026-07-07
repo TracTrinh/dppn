@@ -5,7 +5,7 @@ base_headword: "Vanasa"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -30,6 +30,6 @@ Vanasa (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vanasa (Vanasāvhaya ?). Một thành phố nằm giữa Vedisā và Kosambī, trên tuyến đường mà các đệ tử của Bāvarī đã đi qua (Snp. vs. 1011). Chú giải nói rằng (Snp­a.ii.583) đây là một tên gọi khác của Tumbavanagara (*v.l.* Pavana), và nó còn được gọi là Vanasāvatthi.
 
 ## Notes

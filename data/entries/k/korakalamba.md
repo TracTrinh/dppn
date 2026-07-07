@@ -5,7 +5,7 @@ base_headword: "Korakalamba"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -26,6 +26,6 @@ Korakalamba (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Korakalamba (Korakalambaka). Em trai của Kapila, tế sư của Apacara. Xem Kapila (2). Ja.iii.454f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kittisena"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kittisena. Son and successor of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kittisena. Con trai và là người kế vị của Kumāradhātusena. Ngài chỉ trị vì được chín tháng và bị người anh em của mẹ mình, Sīva, giết chết (Cv.xli.4).
 
 ## Notes

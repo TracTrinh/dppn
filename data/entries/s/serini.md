@@ -5,7 +5,7 @@ base_headword: "Serinī"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Serinī. A courtesan of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Serinī. Một kỹ nữ ở Hatthinipura trong vương quốc Kuru. Một lần có đông đảo tỳ-kheo tụ hội tại đó, và khi cô được nhờ giúp tiếp đãi họ, cô đã mắng nhiếc các tỳ-kheo, gọi họ là “bọn trọc đầu”. Về sau cô tái sinh làm một ngạ quỷ ở một ngôi làng xa xôi. Cô tiết lộ thân phận của mình cho một *upāsaka*, người đã đến từ Hatthinipura vì việc buôn bán. Ông này báo lại sự việc cho mẹ cô, người đã bố thí nhân danh cô, và sau đó ngạ quỷ ấy được an vui. Pv.iii.6; Pv-a.201ff.
 
 ## Notes

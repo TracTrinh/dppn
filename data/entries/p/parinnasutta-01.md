@@ -5,7 +5,7 @@ base_headword: "Pariññāsutta"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Pariññāsutta 01. The five *khandhas* are things to be understood (*pariññey
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pariññāsutta 01. Năm uẩn (*khandhas*) là những điều cần phải hiểu (*pariññeyyā dhammā*). SN.iii.26.
 
 ## Notes

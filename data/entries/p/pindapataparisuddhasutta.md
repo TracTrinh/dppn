@@ -5,7 +5,7 @@ base_headword: "Piṇḍapātapārisuddhasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -27,6 +27,6 @@ Piṇḍapātapārisuddhasutta. Preached at <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piṇḍapātapārisuddhasutta. Được thuyết giảng tại Veḷuvana ở Rājagaha. Sāriputta đến thăm Đức Phật và thưa với Ngài rằng phần lớn thời gian của mình ngài sống viễn ly. Đức Phật tán thán ngài và nói rằng tất cả các vị tỳ-kheo nên thực hành sự thường xuyên quán chiếu và tự vấn khi họ đi khất thực, và nên diệt trừ những ác pháp mà họ có, đồng thời phát triển những thiện pháp mà họ đã có. MN.iii.293 ff.
 
 ## Notes

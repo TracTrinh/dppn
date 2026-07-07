@@ -5,7 +5,7 @@ base_headword: "Khomadussaka"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -24,6 +24,6 @@ Khomadussaka. An inhabitant of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khomadussaka. Một cư dân của Khomadussa. SN.i.184.
 
 ## Notes

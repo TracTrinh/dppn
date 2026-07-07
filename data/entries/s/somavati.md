@@ -5,7 +5,7 @@ base_headword: "Somavatī"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Somavatī. A channel leading from the <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Somavatī. Một kênh đào dẫn từ hồ Kaddūravaḍḍhamāna đến hồ Arimaddavijayaggāma. Cv.lxxix.6.
 
 ## Notes

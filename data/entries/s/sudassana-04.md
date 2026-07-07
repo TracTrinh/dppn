@@ -5,7 +5,7 @@ base_headword: "Sudassana"
 disambiguator: "04"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sudassana 04. A park, at the gates of which <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudassana 04. Một công viên, mà tại cổng của nó Sujāta Buddha đã thi triển Song thông (Bv­a.168) trước khi lên cõi Tusita.
 
 ## Notes

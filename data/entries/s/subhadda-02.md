@@ -5,7 +5,7 @@ base_headword: "Subhadda"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Subhadda 02. A youth who joined the Saṅgha under <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subhadda 02. Một thanh niên đã gia nhập Tăng đoàn dưới sự chứng minh của Koṇḍaññā Buddha cùng với mười ngàn người khác, và trở thành một *Arahant*. Ngài là *Aggasāvaka* (nam Đệ nhất Thượng thủ Thanh văn) của Đức Phật. Bv.iii.30; Ja.i.30; Bv­a.111.
 
 ## Notes

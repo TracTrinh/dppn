@@ -5,7 +5,7 @@ base_headword: "Piṅgala"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Piṅgala 02. A cow killing huntsman, a former birth of <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piṅgala 02. Một thợ săn giết bò, là một tiền kiếp của Alāta. Ja.vi.227.
 
 ## Notes

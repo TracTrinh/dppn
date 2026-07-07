@@ -5,7 +5,7 @@ base_headword: "Sirivīraparakkamanarindasīha"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -35,6 +35,8 @@ The temple of the Tooth Relic, built by his father, he adorned with paintings of
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirivīraparakkamanarindasīha. Vua Tích Lan (1707-39 CE.). Ông là con trai của Vimaladhammasūriya II. Ông đã tổ chức các đại lễ tại Mahiyaṅgaṇa, Sumanakūṭa và Anurādhapura, và xây dựng một khu ngoại ô gọi là Kuṇḍasālā, nơi ông sinh sống.
+
+Ngôi đền Xá-lợi Răng, do cha ông xây dựng, ông đã trang trí bằng các bức tranh vẽ ba mươi hai Jātaka. Ông đã tỏ lòng tôn kính lớn lao đối với Saraṇaṅkara *Sāmaṇera* và tặng vị ấy một hộp vàng nạm bảy trăm viên ngọc quý. Theo lời thỉnh cầu của ông, Saraṇaṅkara đã viết Sāraṭṭhasaṅgaha và các bộ Chú giải về Mahā Bodhivaṁsa và Bhesajjamañjūsā. Cv.xcix.23ff.
 
 ## Notes

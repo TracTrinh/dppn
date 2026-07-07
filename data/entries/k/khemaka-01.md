@@ -5,7 +5,7 @@ base_headword: "Khemaka"
 disambiguator: "01"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -27,6 +27,6 @@ Khemaka 01. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khemaka 01. Một người Sākyan ở Kapilavatthu, cha của Abhirūpanandā. Xem thêm Kāḷa Khemaka. Thīg­a.25; Ap.ii.608.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sivasutta"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Sivasutta. Describes the visit of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sivasutta. Mô tả chuyến viếng thăm của thiên tử Siva đến Đức Phật. SN.i.56.
 
 ## Notes

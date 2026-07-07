@@ -5,7 +5,7 @@ base_headword: "Kapilasutta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,6 @@ Kapilasutta. Preached by the Buddha to the people assembled to hear his explanat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kapilasutta. Được Đức Phật thuyết cho những người tụ tập lại để nghe lời giải thích của ngài về màu vàng của con cá, Kapilamaccha (xem Kapila 4) (Snp-a.i.305f; Dhp­a.iv.42: Ud­a.180; Thag­a.i.356). Suttanipāta gọi nó là Dhammacariyasutta.
 
 ## Notes

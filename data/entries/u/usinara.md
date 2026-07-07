@@ -5,7 +5,7 @@ base_headword: "Usīnara"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -28,6 +28,6 @@ Usīnara. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Usīnara. Vua xứ Benares vào thời của Kassapa Buddha. Câu chuyện của ông được kể lại trong Mahā Kaṇhajātaka (Ja.iv.181ff). Ông được nhắc đến trong một danh sách các vị vua mà, mặc dù đã bố thí những món quà lớn, vẫn không thể vượt ra ngoài cảnh giới của dục lạc (Ja.vi.99). Tuy nhiên, ông được đề cập ở một chỗ khác (Ja.vi.251) là đã được sinh vào cõi trời của Sakka nhờ vào việc đã siêng năng hầu hạ các Bà-la-môn và sa-môn.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Usabha"
 disambiguator: "03"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -25,6 +25,6 @@ Usabha 03. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Usabha 03. Một vị Pacceka Buddha, được đề cập đến trong Isigilisutta. MN.iii.70.
 
 ## Notes

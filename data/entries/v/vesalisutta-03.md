@@ -5,7 +5,7 @@ base_headword: "Vesālīsutta"
 disambiguator: "03"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/066.html"
@@ -26,6 +26,6 @@ Vesālīsutta 03. The Buddha once addressed the monks on the great benefits of m
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vesālīsutta 03. Đức Phật từng thuyết giảng cho các tỳ-kheo về những lợi ích to lớn của việc thiền định về *asubha* (bất tịnh), và sau đó rút lui vào sự ẩn cư trong Mahā Vana trong một nửa tháng. Các tỳ-kheo, tràn ngập ý tưởng về *asubha*, cảm thấy ghê tởm thân thể của mình và nhiều người đã tự sát. Đức Phật khi nghe được điều này, đã triệu tập các tỳ-kheo đến Kūṭāgārasālā và dạy họ về những công đức to lớn của sự tập trung vào hơi thở. SN.v.320f.
 
 ## Notes

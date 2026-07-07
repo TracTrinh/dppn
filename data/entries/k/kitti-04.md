@@ -5,7 +5,7 @@ base_headword: "Kitti"
 disambiguator: "04"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kitti 04. Commander-in-chief of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kitti 04. Tổng tư lệnh của Vikkamabāhu. Ông bị Vīradeva sát hại. Cv.lxi.41.
 
 ## Notes

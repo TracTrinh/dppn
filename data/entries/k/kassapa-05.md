@@ -5,7 +5,7 @@ base_headword: "Kassapa"
 disambiguator: "05"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -24,6 +24,6 @@ Kassapa 05. (called *Kassapamāṇava*). The Bodhisatta in the time of <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapa 05. (được gọi là Kassapamāṇava). Bodhisatta trong thời đại của Piyadassī Buddha. Ngài từng là một Bà-la-môn am hiểu về kinh Veda, và sau khi nghe Đức Phật thuyết pháp, đã xây dựng một tu viện với chi phí một ngàn crore. Ja.i.38; Bv.xiv.9f; Bv­a.176.
 
 ## Notes

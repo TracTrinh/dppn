@@ -5,7 +5,7 @@ base_headword: "Pañcālacaṇḍa"
 disambiguator: "04"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -30,6 +30,6 @@ Pañcālacaṇḍa 04. Son of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcālacaṇḍa 04. Con trai của Cūḷanī Brahmadatta. Ông được Mahosadha gửi đi để làm con tin cho Vua Videha, khi Cūḷanī đe dọa làm hại vị vua này; nhưng Videha đã đối xử với ông như một người em trai. Pañcālacaṇḍī là chị em gái của Pañcālacaṇḍa. Ja.vi.434, 435, 454, 462, 466.
 
 ## Notes

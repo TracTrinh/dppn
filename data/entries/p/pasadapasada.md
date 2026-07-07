@@ -5,7 +5,7 @@ base_headword: "Pasādapāsāda"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -27,6 +27,6 @@ Pasādapāsāda. A monastic building erected in the <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pasādapāsāda. Một công trình tu viện được dựng lên trong *vihāra* Selantarasamūha bởi Yasodharā, con gái của Vijayabāhu I. Cv.Ix.84.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kumuda"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -24,6 +24,6 @@ Kumuda 02. One of the three palaces of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một trong ba cung điện của Đức Phật Sobhita trong kiếp sống cư sĩ cuối cùng của Ngài. Bv.vii.17.
 
 ## Notes

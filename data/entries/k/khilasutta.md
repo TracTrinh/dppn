@@ -5,7 +5,7 @@ base_headword: "Khīlāsutta"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -24,6 +24,6 @@ Khīlāsutta. The three mental obstructions – lust, hatred, and illusion – t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khīlāsutta. Ba chướng ngại tinh thần – tham dục, sân hận, và si mê – đối với sự thấu hiểu Bát Thánh đạo (SN.v.57).
 
 ## Notes

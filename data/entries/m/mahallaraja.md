@@ -5,7 +5,7 @@ base_headword: "Mahallarāja"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -28,6 +28,6 @@ Mahallarāja. A *padhānaghara* erected by <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahallarāja. Một *padhānaghara* được dựng lên bởi Aggabodhi III. và vị phó vương của ông, Māna. Những ngôi làng Haṅkāra và Sāmugāma đã được cúng dường cho việc bảo trì của nó. Cv.xliv.119.
 
 ## Notes

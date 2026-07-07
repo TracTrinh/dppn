@@ -5,7 +5,7 @@ base_headword: "Vahiṭṭha"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vahiṭṭha. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vahiṭṭha. Một thủ lĩnh Damiḷa, bị Duṭṭhagāmaṇī khuất phục. Pháo đài của ông mang tên ông. Mhv.xxv.13.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Satullapakāyikā"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -30,6 +30,8 @@ Satullapakāyikā. A class of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Satullapakāyikā. Một loại chư thiên. Tương Ưng (Saṁyutta) chứa đựng (SN.i.16-22) cả một nhóm Kinh (*Suttas*) trong đó những vị chư thiên này được ghi là đã đến viếng thăm Đức Phật, hỏi Ngài một số câu hỏi về những đề tài khác nhau.
+
+Buddhaghosa nói (SN­a.i.43f) rằng, trong một tiền kiếp, họ từng là thủy thủ đoàn của một con tàu buôn. Con tàu của họ bị bão biển nhấn chìm, và đắm cùng với tất cả mọi người trên tàu. Trong cơn bão, thủy thủ đoàn hoảng sợ trông thấy một người trong số họ ngồi như một yogi, bình thản và tự chủ. Khi được hỏi đang nghĩ gì, người ấy nói rằng mình đang nghĩ về những việc thiện đã làm trước khi khởi hành chuyến đi. Những việc thiện ấy sẽ bảo đảm cho người ấy một sự tái sinh an lành, vậy thì tại sao phải lo lắng? Những người khác liền cầu xin sự giúp đỡ và lòng từ bi của người ấy. Người ấy chia họ thành bảy nhóm, mỗi nhóm một trăm người, và giữa cơn bão, hô lớn cho họ nghe Năm Giới, đoan chắc với họ rằng *sīla* của họ sẽ đưa họ đến một bình minh an lành. Họ thọ trì các giới ấy khi nước dâng lên, và được tái sinh nơi cõi trời của Sakka, thành từng nhóm khác nhau, mỗi nhóm có *vimāna* riêng của mình. Vị thầy của họ có một *vimāna* bằng vàng rộng một trăm do-tuần ở giữa các vimāna khác. Ngay khi vừa sinh ra họ đã nhận ra lý do vì sao mình được hạnh phúc, và đến viếng thăm Đức Phật để ca ngợi vị thầy kỳ diệu của mình. Họ được gọi là Satullapā vì họ đã hô to các giới trong khi chia thành từng nhóm một trăm người (*sata ullapā*).
 
 ## Notes

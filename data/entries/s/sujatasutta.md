@@ -5,7 +5,7 @@ base_headword: "Sujātasutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sujātasutta. The Buddha sees <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sujātasutta. Đức Phật nhìn thấy Sujāta Thera đang đi về phía ngài, và khen ngợi ông về cả vẻ đẹp ngoại hình lẫn vẻ đẹp của sự thành tựu. SN.ii.278f.
 
 ## Notes

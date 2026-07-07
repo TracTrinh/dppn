@@ -5,7 +5,7 @@ base_headword: "Rogasutta"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -23,6 +23,6 @@ Rogasutta. There are those beings in the world who can be free of bodily disease
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rogasutta. Có những chúng sinh trên đời có thể không bị bệnh tật về thân trong những khoảng thời gian khác nhau, nhưng chỉ những ai đã đoạn tận các āsava mới không bị bệnh tật về tâm, dù chỉ trong một khoảnh khắc. AN.ii.142f.
 
 ## Notes

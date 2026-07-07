@@ -5,7 +5,7 @@ base_headword: "Kukkura"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kukkura. A rock near <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kukkura. Một tảng đá gần Himavā. Vipassī Buddha từng viếng thăm nó, và Pupphathūpiya đã sống ở đó trong một kiếp trước (Ap.i.158).
 
 ## Notes

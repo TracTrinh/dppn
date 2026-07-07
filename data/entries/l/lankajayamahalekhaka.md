@@ -5,7 +5,7 @@ base_headword: "Laṅkājayamahālekhaka"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -29,6 +29,6 @@ Laṅkājayamahālekhaka. A title conferred by <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Laṅkājayamahālekhaka. Một danh hiệu được Devānampiyatissa phong cho Bodhigutta, người dẫn đầu phái đoàn đưa cây bodhi từ Ấn Độ sang Tích Lan. Danh hiệu này cao hơn *Jayamahālekhaka*, vốn được phong cho Sumitta. Xem Mbv., p. 164f., để mô tả lễ phong tặng. Rõ ràng nó vẫn được sử dụng về sau, vì một trong những viên quan của Parakkamabāhu I. được gọi là Laṅkāmahālāna (Cv.lxix.12), có vẻ là biến thể của "*Laṅkāmahālekhakanāyaka*."
 
 ## Notes

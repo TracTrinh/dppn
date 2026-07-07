@@ -5,7 +5,7 @@ base_headword: "Upasāla"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Upasāla. Younger brother of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upasāla. Em trai của Đức Phật Paduma và, sau này, là một trong hai đại đệ tử của Ngài. Bv.ix.21; Bv­a.147; Ja.i.36.
 
 ## Notes

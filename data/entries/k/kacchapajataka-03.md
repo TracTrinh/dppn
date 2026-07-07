@@ -5,7 +5,7 @@ base_headword: "Kacchapajātaka"
 disambiguator: "03"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,8 @@ The story was related in reference to the quarrelsome ministers of the king of <
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kacchapajātaka 03. (Ja 273). Câu chuyện về việc một con khỉ đã sỉ nhục một con rùa bằng cách đưa bộ phận sinh dục của nó vào con rùa khi con rùa đang nằm phơi nắng há hốc miệng như thế nào. Con rùa tóm lấy con khỉ và kiên quyết không thả nó ra. Con khỉ đi cầu cứu, và Bodhisatta, khi đó là một đạo sĩ trong một am thất gần đó, đã nhìn thấy con khỉ đang mang theo con rùa. Bodhisatta đã thuyết phục rùa thả khỉ ra.
+
+Câu chuyện được kể lại liên quan đến các vị quan hay cãi vã của vị vua xứ Kosala. Ja.ii.35961.
 
 ## Notes

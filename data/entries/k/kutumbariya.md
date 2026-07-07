@@ -5,7 +5,7 @@ base_headword: "Kuṭumbariya"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kuṭumbariya. A monastery in <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tu viện ở Rohaṇa. Một vị sa-di sống ở đó có thói quen nhận hai vá cơm tại nhà của một người Lambakaṇṇa trong quận. Đó là thời kỳ khan hiếm, và một ngày nọ, thấy một vị khách trong nhà, vị ấy chỉ lấy một vá cơm. Người Lambakaṇṇa vô cùng hài lòng, và khi ông báo cáo sự việc với bạn bè và người quen của mình, họ đã cúng dường cho vị sa-di sáu mươi bữa ăn vĩnh viễn. AN­a.ii.262.
 
 ## Notes

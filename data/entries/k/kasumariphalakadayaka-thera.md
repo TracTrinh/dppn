@@ -5,7 +5,7 @@ base_headword: "Kāsumāriphalakadāyaka Thera"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -25,6 +25,6 @@ Kāsumāriphalakadāyaka Thera. An *Arahant*. Thirty-one *kappas* ago he gave a 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāsumāriphalakadāyaka Thera. Một vị Arahant. Ba mươi mốt kappa trước, ngài đã cúng dường một trái kāsumāri cho Đức Phật (Ap.i.294). Ngài có thể được xác định với Sāmaṇera Sīvaka (Thag­a.i.61).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Taṅkuttara"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Taṅkuttara. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Taṅkuttara. Một thủ lĩnh người Damiḷa, đồng minh của Kulasekhara. Cv.lxxvi.144.
 
 ## Notes

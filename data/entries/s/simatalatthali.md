@@ -5,7 +5,7 @@ base_headword: "Sīmatālatthalī"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sīmatālatthalī. A village in <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīmatālatthalī. Một ngôi làng ở Rohaṇa, được nhắc đến trong câu chuyện về các chiến dịch của Parakkamabāhu I. Cv.lxxv.101.
 
 ## Notes

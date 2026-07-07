@@ -5,7 +5,7 @@ base_headword: "Kuṇḍi"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -30,6 +30,6 @@ Kuṇḍi 02. A village of the <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngôi làng của những người Koḷiyan, gần nơi đó có Kuṇḍadhānavana (*q.v.*). Nơi đây là nơi sinh của Kuṇḍanagariya (Poṭṭhapāda) Thera. Gần đó là Sāṇavāsīpabbata nơi Ānanda từng ở lại. Pv-a.178.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kaṇḍarājika"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kaṇḍarājika. A village in <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇḍarājika. Một ngôi làng ở Rājaraṭṭha tại Tích Lan. Xem Tambasumana.
 
 ## Notes

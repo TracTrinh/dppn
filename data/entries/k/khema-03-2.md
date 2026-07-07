@@ -5,7 +5,7 @@ base_headword: "Khemā"
 disambiguator: "03"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -27,6 +27,6 @@ Khemā 03. The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khemā 03. Chú giải Aṅguttara (AN­a.ii.791) (giảng AN.iv.347) nhắc đến một Khemā Upāsikā trong danh sách các nữ cư sĩ. Vị Khemā này rất có thể đồng nhất với Khemā (1).
 
 ## Notes

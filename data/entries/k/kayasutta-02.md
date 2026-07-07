@@ -5,7 +5,7 @@ base_headword: "Kāyasutta"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -24,6 +24,6 @@ Kāyasutta 02. Just as the body is sustained by material food so are the five hi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāyasutta 02. Giống như cơ thể được duy trì bằng thức ăn vật chất, thì năm triền cái cũng được duy trì bằng những thức ăn riêng của chúng. Sutta giải thích những thức ăn này là gì. SN.v.64f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kirapatika"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -29,6 +29,8 @@ Kirapatika. A household of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kirapatika. Một gia chủ ở Vesālī, một tín đồ sùng đạo của Đức Phật. Một lần nọ, khi Đức Phật đang ở Vesālī, một người đàn ông nghèo, muốn cúng dường cho ngài và các tỳ-kheo, đã hỏi xin Kirapatika tiền để sắm sửa lễ cúng dường; Kirapatika vui vẻ cho ông rất nhiều tiền và Đức Phật cùng các tỳ-kheo đã được thỉnh mời. Nhưng các tỳ-kheo, khi nghe nói về sự nghèo khó của người đàn ông, đã ăn một bữa no nê trước đó, vì vậy khi người đàn ông dâng cho họ thức ăn mà ông đã chuẩn bị, họ chỉ có thể ăn rất ít. Người đàn ông vô cùng tức giận và Đức Phật, khi nghe tin về việc này, đã ra lệnh cấm các tỳ-kheo có hành vi như vậy (Vin.iv.75f).
+
+Buddhaghosa nói (Vin-a.iv.817) rằng tên của vị gia chủ là Kira, nhưng ông được gọi là Kirapatika vì sự ảnh hưởng to lớn của ông. Ông đã trả cho những người làm công của mình tiền công đều đặn và hậu hĩnh.
 
 ## Notes

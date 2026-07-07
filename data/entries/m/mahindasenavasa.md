@@ -5,7 +5,7 @@ base_headword: "Mahindasenavāsa"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -29,6 +29,6 @@ Mahindasenavāsa. A building erected in the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahindasenavāsa. Một tòa nhà được cất trong *vihāra* Uttara (Abhayagiri) bởi Saṅghā, vợ của Sena I. (Cv.l.79). Sau này nó bị phá hủy, và về sau được Parakkamabāhu I trùng tu. Cv.lxxviii.105.
 
 ## Notes

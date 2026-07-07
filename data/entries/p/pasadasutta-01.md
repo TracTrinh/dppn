@@ -5,7 +5,7 @@ base_headword: "Pasādasutta"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -24,6 +24,6 @@ Pasādasutta 01. Eight qualities of a monk which promote devotion towards him in
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pasādasutta 01. Tám phẩm chất của một vị tỳ-kheo thúc đẩy lòng tôn kính đối với vị ấy trong tâm trí của những đệ tử cư sĩ. AN.iv.345f.
 
 ## Notes

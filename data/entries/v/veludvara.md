@@ -5,7 +5,7 @@ base_headword: "Veḷudvāra"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,6 @@ Veḷudvāra. A Brahmin village of the <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Veḷudvāra. Một ngôi làng của những người Bà-la-môn thuộc dân Kosala, nơi Đức Phật từng lưu lại và thuyết giảng Veḷudvāreyyasutta (SN.v.352). Buddhaghosa nói rằng địa danh này được gọi như vậy là do truyền thuyết về sự hiện diện của một bụi tre ở lối vào làng (SN­a.iii.217).
 
 ## Notes

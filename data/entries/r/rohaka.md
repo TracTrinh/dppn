@@ -5,7 +5,7 @@ base_headword: "Rohaka"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rohaka. A householder of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rohaka. Một gia chủ ở Kimbila; ông là chồng của Bhaddā (Vv-a.109). Xem Bhaddā (4).
 
 ## Notes

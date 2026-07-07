@@ -5,7 +5,7 @@ base_headword: "Tapodā"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -35,6 +35,8 @@ It is said that the water of the river was hot because it flowed between two *Lo
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tapodā. Một hồ nước lớn nằm bên dưới ngọn núi Vebhāra, bên ngoài Rājagaha. Nước trong hồ thì mát lành, nhưng dòng suối chảy ra từ nó, cũng được gọi là Tapodā, lại là nước nóng (Vin.iii.108; iv.116f; DN­a.i.35; Ud­a.110). Xung quanh nó là Tapodārāma (*q.v.*).
+
+Tương truyền rằng nước của dòng sông trở nên nóng rực vì nó chảy giữa hai *Lohakumbhīniraya* (Địa ngục Vạc dầu Sôi), tồn tại dưới lòng Rājagaha (SN­a.i.30f; Vin-a.ii.512). Hồ nước này là sân chơi của các loài Nāga (Long thần) cư ngụ dưới chân núi Vebhāra. Các vị tỳ-kheo và những nhà tu hành hiển nhiên có thói quen đi đến Tapodā để tắm trong các suối nước nóng. Vậy nên, chúng ta bắt gặp sự kiện Samiddhi bị một vị thiên thần tra vấn khi thầy đang lau khô người sau khi tắm ở Tapodā (SN.i.8ff; MN.iii.192ff; Ja.ii.56), và Aṅguttaranikāya có ghi chép lại một cuộc thảo luận giữa Ānanda và vị *paribbājaka* (du sĩ) Kokanuda, trên bờ hồ Tapodā, nơi họ đến để tắm (AN.v.196f).
 
 ## Notes

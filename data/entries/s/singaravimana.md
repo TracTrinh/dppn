@@ -5,7 +5,7 @@ base_headword: "Siṅgāravimāna"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Siṅgāravimāna. A four-storeyed building, painted with various pictures, in t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Siṅgāravimāna. Một tòa nhà bốn tầng, được vẽ nhiều bức tranh khác nhau, trong Dīpuyyāna. Cv.lxxiii.122.
 
 ## Notes

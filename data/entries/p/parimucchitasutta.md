@@ -5,7 +5,7 @@ base_headword: "Parimucchitasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -23,6 +23,6 @@ Parimucchitasutta. One who does not regard the body, etc., as “I” and “min
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parimucchitasutta. Người nào không xem cơ thể, v.v., là "tôi" và "của tôi" và là "bản ngã" thì sẽ không có đời sau. SN.iii.165.
 
 ## Notes

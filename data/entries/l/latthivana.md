@@ -5,7 +5,7 @@ base_headword: "Laṭṭhivana"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -36,6 +36,8 @@ The grove evidently received its name from its green liquorice creepers, hence i
 
 ## Vietnamese translation
 
-Chưa dịch.
+Laṭṭhivana, Laṭṭhivanuyyāna. Một khu rừng ở phía tây nam Rājagaha. Trong đó có *cetiya* Supatiṭṭha, nơi Đức Phật lưu trú trong lần đầu tiên ngài đến Rājagaha từ Gayāsīsa, sau khi Giác ngộ. Ở đó Bimbisāra đến thăm ngài với mười hai *nahutas* tùy tùng, và Uruvelā Kassapa xua tan nghi ngờ của họ bằng cách tuyên bố nhận Đức Phật làm thầy của mình. Chính trong chuyến thăm này mà Bimbisāra đã cúng dường Veḷuvana cho Đức Phật và Tăng đoàn của ngài (Vin.i.35ff.; Dhp­a.i.88; AN­a.i.166; Bv­a.18, v.v.). Mười một *nahutas*, với Bimbisāra đứng đầu, đã trở thành những *Sotāpanna* vào cuối bài pháp của Đức Phật, bao gồm cả Mahā Nāradakassapajātaka. *Nahuta* còn lại được dẫn vào Tam Bảo (Ja.i.84; AN­a.i.57; xem thêm Ja.vi.219).
+
+Khu rừng rõ ràng nhận tên từ những dây cam thảo xanh mướt của nó, do đó có tên gọi là Laṭṭhimadhukavana (vd., Ja.i.68). Huyền Trang gọi nó là *Yastivana* và mô tả là một khu rừng tre, đưa ra các câu chuyện về nguồn gốc và các câu chuyện khác nhau liên quan đến nó. (Beal-Xuan, op.cit., 145f.; xem VT.136).
 
 ## Notes

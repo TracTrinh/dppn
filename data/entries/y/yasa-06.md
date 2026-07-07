@@ -5,7 +5,7 @@ base_headword: "Yasa"
 disambiguator: "06"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -25,6 +25,6 @@ Yasa 06. A palace occupied by <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yasa 06. Một cung điện mà Padumuttara Buddha ngự trị trong kiếp sống cư sĩ cuối cùng của Ngài. Bv.xi.20; Bv­a. (158) gọi nó là Yasavatī.
 
 ## Notes

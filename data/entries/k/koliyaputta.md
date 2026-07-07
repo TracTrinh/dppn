@@ -5,7 +5,7 @@ base_headword: "Koliyaputta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -25,6 +25,6 @@ Koliyaputta. An epithet of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koliyaputta. Một biệt danh của Kakudha, người thị giả của Moggallāna. Vin ii.185; Ud­a.ii.8.
 
 ## Notes

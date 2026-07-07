@@ -5,7 +5,7 @@ base_headword: "Kuṭṭhuka"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,6 @@ Kuṭṭhuka. The general of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vị tướng của Sena II. Ông đã xây dựng *pariveṇa*, vốn được gọi là Senasenāpati (Cv.li.88). Xem thêm Potthakuṭṭha.
 
 ## Notes

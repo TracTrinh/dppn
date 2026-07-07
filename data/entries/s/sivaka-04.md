@@ -5,7 +5,7 @@ base_headword: "Sīvaka"
 disambiguator: "04"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -32,6 +32,8 @@ Thirty-one *kappas* ago he had seen <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīvaka 04. Sīvaka Thera. Cháu trai của Vanavaccha. Khi em gái của Vanavaccha nghe tin ngài đã từ bỏ thế tục và đang sống trong rừng, bà đã gửi con trai mình là Sīvaka đến để được thọ giới dưới sự hướng dẫn của vị Trưởng lão và hầu hạ ngài. Cậu sống trong rừng với người cậu của mình, và một hôm, trên đường đến ngôi làng, cậu ngã bệnh nặng. Vị Trưởng lão, thấy cậu không trở về, đã đi tìm cậu, và, thấy cậu bị bệnh, đã chăm sóc cậu; nhưng khi trời gần sáng, ngài đề nghị rằng cả hai nên trở về rừng vì ngài chưa từng ở lại trong làng kể từ khi gia nhập Saṅgha. Sīvaka đồng ý, và vào rừng trong khi tựa vào cánh tay của người cậu. Tại đó Sīvaka đã chứng đắc quả vị *Arahant*.
+
+Ba mươi mốt kappa trước, cậu đã thấy Vessabhū Buddha trong rừng và dâng lên Ngài một trái kāsumārika (Thag.vs.14; Thag­a.i.60f). Cậu có lẽ đồng nhất với Kāsumāraphaladāyaka trong Apadāna. Ap.ii.445.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Khemā"
 disambiguator: "08"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -29,6 +29,6 @@ Khemā 08. Queen Consort of King <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khemā 08. Hoàng hậu của vua Seyya (*v.l.* Saṁyama) xứ Benares. Bà thấy một con ngỗng vàng trong giấc mơ, và ao ước nhìn thấy một con trong đời thực (Ja.v.354). Bà được đồng nhất với Khemā Therī (Ja.v.382). Để biết chi tiết, xem Mahā Haṁsajātaka (Ja 534).
 
 ## Notes

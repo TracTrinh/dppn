@@ -5,7 +5,7 @@ base_headword: "Kakudha"
 disambiguator: "04"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kakudha 04. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kakudha 04. Một vị Pacceka Buddha của ba mươi mốt *kappa* trước, mà Trưởng lão Uddāladāyaka*,* trong một kiếp trước, đã dâng cúng một bông hoa. Ap.i.225.
 
 ## Notes

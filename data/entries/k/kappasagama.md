@@ -5,7 +5,7 @@ base_headword: "Kappāsagāma"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kappāsagāma. A village in Ceylon. There <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kappāsagāma. Một ngôi làng ở Tích Lan. Ở đó Kittī, hoàng hậu của Mahinda IV., đã xây dựng một bể tắm cho các tỳ-kheo. Cv.liv.51.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sirimā"
 disambiguator: "10"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sirimā 10. One of the palaces occupied by <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirimā 10. Một trong các cung điện mà Vipassī Buddha ở trong kiếp làm cư sĩ cuối cùng của Ngài. Bv.xx.24.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Uttara"
 disambiguator: "28"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,6 @@ Uttara 28. A Thera who, with sixty thousand others, came from the <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttara 28. Một vị Trưởng lão (Thera) người đã cùng với sáu mươi ngàn vị khác đi từ ẩn thất Vattaniya trong khu rừng Vindhyā đến tham dự buổi lễ đặt nền móng của Mahā Thūpa tại Anurādhapura. Mhv.xxix.40; Dpv.xix.6.
 
 ## Notes

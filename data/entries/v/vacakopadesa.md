@@ -5,7 +5,7 @@ base_headword: "Vācakopadesa"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -27,6 +27,6 @@ Vācakopadesa. A treatise on <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vācakopadesa. Một luận thư về ngữ pháp của Kaccāyana do Vijitāvi, một tỳ-kheo người Miến Điện, soạn (Sās., p.90). Ngoài ra còn có một bản *ṭīkā* về tác phẩm này do một vị Vijitāvī khác soạn. Bode, 46, and n.4.
 
 ## Notes

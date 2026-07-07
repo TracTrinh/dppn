@@ -5,7 +5,7 @@ base_headword: "Khujjasobhita Thera"
 disambiguator: "01"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -35,6 +35,10 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khujjasobhita Thera 01. Một vị Arahant. Ngài là một Bà-la-môn ở Pāṭaliputta. Ngài gia nhập Tăng đoàn dưới sự chỉ dẫn của Ānanda, sau khi Đức Phật viên tịch, và dần dần ngài đắc quả vị Arahant. Tại Lần kết tập thứ nhất được tổ chức trong Hang động Sattapaṇṇi, ngài được cử đi đưa Ānanda đến Hội chúng. Ngài đi xuyên qua lòng đất, trao thông điệp cho Ānanda, và trở về xuyên qua không trung, thông báo sự xuất hiện của ngài cho Tăng đoàn, thông qua vai trò trung gian của một *Devatā* đã được xếp đặt ở cửa hang để ngăn Māra và tùy tùng của hắn. Sobhita được gọi là "*Khujja*" vì ngài hơi gù lưng.
+
+Vào thời Padumuttara ngài đã nhìn thấy Đức Phật đi ngang qua cùng với một hội chúng đông đảo các tỳ-kheo và đã ca ngợi Đức Phật bằng mười bài kệ (Thag.234-6; Thag­a.i.350f).
+
+Ngài có lẽ đồng nhất với Sayampaṭibhāniya trong Apadāna. Ap.ii.410f.
 
 ## Notes

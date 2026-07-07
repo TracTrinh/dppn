@@ -5,7 +5,7 @@ base_headword: "Kaṁsa"
 disambiguator: "03"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -36,6 +36,10 @@ He was killed by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṁsa 03. Con trai của Mahā Kaṁsa và là anh/em trai của Upakaṁsa cùng Devagabbhā.
+
+Sau này ông trở thành vua của Asitañjana ở Kaṁsabhoga tại Uttarāpatha.
+
+Ông bị giết bởi Vasudeva, một trong những Andhakaveṇhudāsaputtā (Ja.iv.79f).
 
 ## Notes

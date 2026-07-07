@@ -5,7 +5,7 @@ base_headword: "Kaṇhadīpāyana"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kaṇhadīpāyana 02. An ascetic; his story is given in the <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇhadīpāyana 02. Một vị đạo sĩ; câu chuyện của ông được đưa ra trong Kaṇhadīpāyanajātaka.
 
 ## Notes

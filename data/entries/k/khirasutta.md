@@ -5,7 +5,7 @@ base_headword: "Khīrasutta"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -25,6 +25,6 @@ Khīrasutta. Preached at <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khīrasutta. Được thuyết tại Sāvatthī. Điểm khởi đầu của vòng luân hồi (*Saṁsāra*) là không thể tính đếm được. Lượng sữa mà một chúng sinh uống trong suốt những lần lang thang trong vòng luân hồi còn nhiều hơn lượng nước của bốn biển. SN.ii.180.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Pharusasutta"
 disambiguator: ""
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -23,6 +23,6 @@ Pharusasutta. Few are those who abstain from harsh speech. SN.v.469.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pharusasutta. Có rất ít những người kiêng tránh lời nói thô ác. SN.v.469.
 
 ## Notes

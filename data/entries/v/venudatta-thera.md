@@ -5,7 +5,7 @@ base_headword: "Veṇudatta Thera"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Veṇudatta Thera. A monk. <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Veṇudatta Thera. Một vị tỳ-kheo. Valliya Thera nghe ngài thuyết pháp và hỏi ngài. Suy ngẫm về những gì ngài nghe được, ngài đạt được tuệ minh sát. Thag­a.i.292.
 
 ## Notes

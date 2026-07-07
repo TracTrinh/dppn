@@ -5,7 +5,7 @@ base_headword: "Sirimitta Thera"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -27,6 +27,6 @@ Sirimitta Thera. He belonged to a rich landowner’s family of <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirimitta Thera. Ngài thuộc một gia đình địa chủ giàu có ở Rājagaha và là cháu trai của Sirigutta. Ngài đã chứng kiến Đức Phật hàng phục con voi Dhanapāla, và, rất cảm kích, đã gia nhập Saṅgha, và theo thời gian trở thành một *Arahant*. Một hôm, khi đứng dậy từ chỗ ngồi để tụng đọc *Pātimokkha*, ngài cầm lấy một chiếc quạt vẽ hình, rồi ngồi xuống trở lại, ngài đã nói tám câu kệ để khuyên răn các vị tăng và như một cách xác nhận aññā của mình (cf. Khujjuttarā, Dhp­a.i.209). Thag.vss.502-9; Thag­a.i.488f.
 
 ## Notes

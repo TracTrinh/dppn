@@ -5,7 +5,7 @@ base_headword: "Pariññeyyāsutta"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Pariññeyyāsutta 02. Preached to <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pariññeyyāsutta 02. Được giảng cho Rādha; giống như phần trên, với sự bổ sung rằng người nào đã thấu hiểu như vậy nên được gọi là “*arahā*.” SN.iii.191.
 
 ## Notes

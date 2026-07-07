@@ -5,7 +5,7 @@ base_headword: "Khujjanāga"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -26,6 +26,6 @@ Khujjanāga. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khujjanāga. Con trai của Kaniṭṭhatissa. Ngài là vua của Tích Lan (246-248 TL.). Ngài bị em trai mình là Kuñcanāga giết hại. Mhv.xxxvi.18f.
 
 ## Notes

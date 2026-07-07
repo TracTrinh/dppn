@@ -5,7 +5,7 @@ base_headword: "Sujāta"
 disambiguator: "08"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sujāta 08. The name of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sujāta 08. Tên của Upāli Thera (*q.v.*) trong thời của Padumuttara Buddha. Thag­a.i.229.
 
 ## Notes

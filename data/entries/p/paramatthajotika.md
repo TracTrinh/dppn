@@ -5,7 +5,7 @@ base_headword: "Paramatthajotikā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -29,6 +29,6 @@ Paramatthajotikā. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paramatthajotikā. Chú giải của Buddhaghosa về Khuddakapāṭha, Dhammapada, Suttanipāta và Jātaka.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Revata"
 disambiguator: "09"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Revata 09. Teacher of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Revata 09. Thầy của Buddhaghosa. Ngài rất tinh thông kinh Veda, và khi Buddhaghosa đến thăm ngài tại vihāra của ngài và tụng đọc kinh Veda, ngài đã có thể tỏ ý khinh thường kiến thức của Buddhaghosa. Buddhaghosa sau đó trở thành đệ tử của ngài, và về sau được ngài gửi sang Tích Lan để dịch các bộ Chú giải tiếng Sinhala sang tiếng Pāli. Cv.xxxvii.218ff.
 
 ## Notes

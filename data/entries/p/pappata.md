@@ -5,7 +5,7 @@ base_headword: "Pappaṭa"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Pappaṭa. A grove near the modern Colombo. <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pappaṭa. Một khu rừng gần Colombo ngày nay. Parakkamabāhu VI đã dựng nên Sunettapariveṇa ở đó để tưởng nhớ mẹ của mình. Cv.xci.24; xem thêm Cv.Trs.ii.216, n.3 và 4.
 
 ## Notes

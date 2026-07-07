@@ -5,7 +5,7 @@ base_headword: "Karindanadī"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Karindanadī. A river in South Ceylon. Near its source was the <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Karindanadī. Một con sông ở Nam Tích Lan. Gần đầu nguồn của nó là Pañjalipabbata. Mhv.xxiii.14; cũng Mhv.Trs.221, n.1.
 
 ## Notes

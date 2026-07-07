@@ -5,7 +5,7 @@ base_headword: "Kāliṅga Bhāradvāja"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -26,6 +26,6 @@ Kāliṅga Bhāradvāja. The chaplain of King <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāliṅga Bhāradvāja. Vị tư tế của Vua Kāliṅga. Xem Kāliṅgabodhijātaka (Ja 479). Ngài là Bodhisatta, và đôi khi được gọi là *Kāliṅga Brāhmaṇa* (ví dụ, Ja.iv.235).
 
 ## Notes

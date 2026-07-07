@@ -5,7 +5,7 @@ base_headword: "Kāḷī"
 disambiguator: "08"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -26,6 +26,6 @@ Kāḷī 08. A maidservant of the *seṭṭhi* of <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷī 08. Một tớ gái của vị trưởng giả xứ Kosambī. Chính bà là người đã giành được Ghosaka (xem ở mục từ tương ứng) cho vị trưởng giả, và khi vị trưởng giả muốn loại bỏ cậu, nhiệm vụ này đã được giao cho bà. Bảy lần bà đã cố gắng để giết cậu, nhưng mọi nỗ lực của bà đều thất bại (Dhp­a.i.174ff). Về sau, Kāḷī đã thú nhận phần tham gia của bà trong tội ác của vị trưởng giả, và dường như đã được cả Ghosaka và vợ của ngài tha thứ (Dhp­a.i.186f).
 
 ## Notes

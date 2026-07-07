@@ -5,7 +5,7 @@ base_headword: "Vibhaṅgasutta"
 disambiguator: "03"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vibhaṅgasutta 03. An analysis of the four *satipaṭṭhāna*s. SN.v.183.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vibhaṅgasutta 03. Một sự phân tích về bốn niệm xứ (*satipaṭṭhāna*). SN.v.183.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kumārapetavatthu"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kumārapetavatthu 01. A man of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một người đàn ông ở Sāvatthī đã lăng mạ những người bố thí cho Đức Phật và các vị tỳ-kheo của Ngài, nhưng mẹ anh ta đã bắt anh ta rút lại lời nói và bố thí trong bảy ngày. Sau này, anh ta được sinh ra làm con trai của một kỹ nữ, người đã bỏ anh ta ở một bãi tha ma. Đức Phật đã đến đó và tuyên bố rằng cậu bé có một tương lai vĩ đại phía trước. Cậu bé được một người giàu có nhận nuôi và đã dành tài sản của mình cho những hành động đạo đức. Sau khi chết, cậu được sinh ra làm con trai của Sakka. Pv.iii.5; Pv-a.194ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kāḷamattiya"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -27,6 +27,6 @@ Kāḷamattiya, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷamattiya, Kālamattika. Một khu rừng. Muṭṭhika, sau khi chết, đã tái sinh làm một yêu tinh trong khu rừng này, và khi Baladeva chạy trốn đến nơi này, Muṭṭhika đã thách thức ông một trận đấu vật và đã ăn thịt ông “như một củ cải.” Ja.iv.82, 88.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Uposatha"
 disambiguator: "03"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -27,6 +27,6 @@ Uposatha 03. Known as <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uposatha 03. Được biết đến với tên gọi Uposathakumāra. Người lớn tuổi nhất trong số chín mươi chín người anh em trai của Saṁvara, vua của Benares. Khi Saṁvara lên ngôi, các anh em của ông đã phản đối và bao vây thành phố của ông; nhưng Uposatha, sau khi phát hiện ra thông qua những câu hỏi đặt ra cho Saṁvara, rằng ông, xét về mặt tính cách, là người phù hợp nhất để làm vua, đã thuyết phục những người khác từ bỏ những đòi hỏi của họ đối với ngai vàng. Uposatha được đồng nhất với Sāriputta. Ja.iv.133ff.
 
 ## Notes

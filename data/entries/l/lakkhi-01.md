@@ -5,7 +5,7 @@ base_headword: "Lakkhī"
 disambiguator: "01"
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -25,6 +25,6 @@ Lakkhī 01. The Pāli equivalent of Lakṣmī, goddess of beauty and fortune. Th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lakkhī 01. Tương đương Pāli của Lakṣmī, nữ thần sắc đẹp và tài lộc. Tên này thường chỉ xuất hiện trong các tác phẩm muộn hơn, vd., Cv.lxxii.101; lxxvi.233; Ja.ii.413; iii.306 (được giải thích là đồng nghĩa với *paññā*); v.113; tuy nhiên từ Lacchī, có thể tương đương với Lakkhī (1), xuất hiện trong Thīg.vs.419, nhưng đoạn này còn tối nghĩa. Xem *Sisters* 159, n.2.
 
 ## Notes

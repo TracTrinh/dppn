@@ -5,7 +5,7 @@ base_headword: "Phalikasandāna"
 disambiguator: ""
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -26,6 +26,6 @@ Phalikasandāna. One of the Theras dwelling in the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phalikasandāna. Một trong các vị Trưởng lão (Thera) trú tại Kukkuṭārāma ở Pāṭaliputta vào thời của Đức Phật. Vin.i.300.
 
 ## Notes

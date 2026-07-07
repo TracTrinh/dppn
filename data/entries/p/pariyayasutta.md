@@ -5,7 +5,7 @@ base_headword: "Pariyāyasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Pariyāyasutta. Followers of other teachers might say that their teaching was th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pariyāyasutta. Đệ tử của các vị đạo sư khác có thể nói rằng giáo lý của họ giống hệt giáo lý của Đức Phật về năm triền cái và bảy chi giác ngộ. Nhưng có một phương pháp trong giáo lý của Đức Phật qua đó năm trở thành mười và bảy trở thành mười bốn. Các vị đạo sư khác không thể giải thích thỏa đáng phương pháp này. SN.v.108f.
 
 ## Notes

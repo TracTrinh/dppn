@@ -5,7 +5,7 @@ base_headword: "Ussoḷhisutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -24,6 +24,6 @@ Ussoḷhisutta. Exertion (*ussoḷhi*) must be made by those who see not decay a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ussoḷhisutta. Sự tinh tấn (ussoḷhi) phải được thực hiện bởi những ai không nhìn thấy sự già yếu và cái chết đúng như thật. SN.ii.132.
 
 ## Notes

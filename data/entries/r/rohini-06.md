@@ -5,7 +5,7 @@ base_headword: "Rohiṇī"
 disambiguator: "06"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rohiṇī 06. A slave woman of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rohiṇī 06. Một nữ nô của Anāthapiṇḍika. Xem Rohiṇījātaka.
 
 ## Notes

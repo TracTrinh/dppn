@@ -5,7 +5,7 @@ base_headword: "Sudassana"
 disambiguator: "25"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Sudassana 25. A *Nāgarāja*, son of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudassana 25. Một vua rồng (*Nāgarāja*), con trai của Dhataraṭṭha. Vị này là anh em với Bhūridatta. Xem Bhūridattajātaka (Ja 543). Ông được đồng nhất với Sāriputta. Ja.vi.219; xem thêm Ja.iv.182.
 
 ## Notes

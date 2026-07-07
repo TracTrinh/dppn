@@ -5,7 +5,7 @@ base_headword: "Lohadvāra"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -25,6 +25,6 @@ Lohadvāra. A monastery in Ceylon, built by King <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lohadvāra. Một tu viện ở Tích Lan, do vua Mahā Nāma xây dựng. Cv.xxxvii.212.
 
 ## Notes

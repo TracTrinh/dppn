@@ -5,7 +5,7 @@ base_headword: "Upatissa"
 disambiguator: "03"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -35,6 +35,6 @@ Upatissa 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upatissa 03. Upatissa I. Vua của Ceylon. Ông trị vì trong bốn mươi hai năm từ CE. 362 đến 409. Ông là con trai trưởng của Buddhadāsa. Ông có bản tính rất tử tế và sống một cuộc sống giản dị, ăn thức ăn được phục vụ trong hội trường bố thí Mahā Pāli. Người ta kể rằng có lần, khi mái cung điện của ông bị dột vào ban đêm, ông đã nằm suốt đêm trong chỗ ướt, không muốn đánh thức bất kỳ người hầu nào. Trong một thời kỳ hạn hán và nạn đói, ông đã tổ chức một lễ hội tôn giáo, làm cho mưa rơi xuống. Ông đã xây dựng các hồ chứa nước Rajuppala, Gijjhakūṭa, Pokkharapāsaya, Valāhassa, Ambuṭṭhi và Goṇḍigāma cùng với Khaṇḍarājavihāra, bên cạnh các bệnh viện và nhà cứu tế cho phụ nữ sinh nở, người mù và người bệnh. Ông đã bị ám sát bởi hoàng hậu của mình, người có tư tình với em trai ông, Mahā Nāma. Về một ghi chép về triều đại của Upatissa, hãy xem Cv.i.37, 179ff.
 
 ## Notes

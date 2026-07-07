@@ -5,7 +5,7 @@ base_headword: "Rojā"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rojā. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rojā. Một loại chư thiên, có mặt khi thuyết giảng Mahā Samayasutta. DN.ii.260.
 
 ## Notes

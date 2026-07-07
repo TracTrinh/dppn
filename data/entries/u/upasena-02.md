@@ -5,7 +5,7 @@ base_headword: "Upasena"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -55,6 +55,18 @@ See also <span class="dppn-term dppn-term-t14" data-dppn-term-pos="24" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upasena 02. Upasena Vaṅgantaputta. Ông sinh ra ở Nālaka với tư cách là con trai của Rūpasārī, nữ Bà-la-môn, cha của ông là Vaṅganta. Ông là em trai của Sāriputta (Ud­a.266; Dhp­a.ii.188). Khi đến tuổi trưởng thành, ông học ba bộ kinh Vệ-đà, và, sau khi nghe Đức Phật thuyết pháp, gia nhập Tăng đoàn. Khi lễ xuất gia của ông chỉ mới được một năm, ông đã xuất gia cho một tỳ-kheo khác, để làm tăng số lượng các bậc thánh, và cùng vị ấy đi đến hầu hạ Đức Phật. Đức Phật đã quở trách ông kịch liệt vì thủ tục vội vàng này (Vin.i.59; Vin-a.i.194; Ja.ii.449), và Upasena, mong muốn nhận được lời khen ngợi của Bậc Đạo Sư vì chính nguyên nhân của lời khiển trách này, đã thực hành tuệ quán và trở thành một *Arahant*. Sau đó, ông áp dụng nhiều *dhutaṅga* khác nhau và thuyết phục những người khác cũng làm như vậy. Trong một thời gian ngắn ông có một lượng lớn đồ chúng, mỗi thành viên trong đó đều mang lại niềm hoan hỷ theo cách riêng của mình, và Đức Phật tuyên bố Upasena là người xuất sắc nhất trong số những người hoàn toàn mang lại niềm hoan hỷ (*samantapāsādikānaṁ*) (AN.i.24). Buddhaghosa nói rằng Upasena nổi tiếng là một pháp sư rất thông minh (*paṭhavighuṭṭhadhammakathika*), và nhiều người gia nhập cùng ông vì tài hùng biện của ông. AN­a.i.152; cũng xem Mil.360, nơi có đưa ra nhiều chi tiết hơn về cách Upasena tiếp nhận các tỳ-kheo vào Tăng đoàn và về những điều kiện được áp dụng đối với họ; để xem một phiên bản hơi khác, hãy xem Vin.iii.230ff; ở đó nói rằng sau chuyến viếng thăm của Upasena, Đức Phật đã cho phép các tỳ-kheo thực hành các *dhutaṅga* được đến thăm Ngài ngay cả trong những thời kỳ tĩnh tu của Ngài. Xem thêm Vin-a.iii.685f.
+
+Ông đến thăm Đức Phật khi Đức Phật đang áp đặt cho bản thân một thời kỳ ẩn cư trong một nửa tháng; các tỳ-kheo đã đồng ý rằng bất kỳ ai đến gặp Đức Phật đều sẽ phạm phải một lỗi *pācittiya*, nhưng Đức Phật, với mong muốn được nói chuyện với ông, đã hỏi một trong những người theo Upasena liệu vị ấy có thích những chiếc y bằng giẻ rách không. "Không, thưa Thế Tôn, nhưng con mặc chúng vì lòng tôn trọng đối với thầy con," là câu trả lời.
+
+Trong Theragāthā có tìm thấy một vài vần kệ được cho là của Upasena như đã được ông nói ra để trả lời cho một câu hỏi của *saddhivihārika* của ông, liên quan đến việc phải làm gì trong những cuộc tranh cãi của các tỳ-kheo ở Kosambī (vv. 577-86; vần kệ đầu tiên được trích dẫn trong Milinda 371 và vần kệ thứ năm ở 395). Milindapañha (pp.393, 394) có chứa vài vần kệ khác được gán cho Upasena tương tự trong khuynh hướng ý tưởng và những lời khuyên bảo của chúng. Udāna có nêu (p.45f; Ud­a.266ff) rằng có lần khi ông đang nghỉ trưa, ông đã hồi tưởng lại niềm hạnh phúc mà ông được tận hưởng và những vinh quang của cuộc sống mà ông dẫn dắt dưới sự hướng dẫn của Đức Phật. Đức Phật, khi chú ý đến điều này, đã tuyên bố sự chấp thuận của Ngài.
+
+Một ngày nọ, trong khi Upasena đang ngồi sau bữa ăn của mình dưới bóng râm của Sappasoṇḍikapabbhāra, được quạt bởi làn gió nhẹ, đang vá chiếc y ngoài của mình, hai con rắn non đang vui đùa trong những tua cuốn rủ xuống trên hang động. Một con rơi xuống vai ông và cắn ông, và nọc độc lây lan nhanh chóng khắp cơ thể ông; ông gọi Sāriputta và các tỳ-kheo khác đang ở gần đó, và yêu cầu ông có thể được đưa ra bên ngoài trên một chiếc giường, để viên tịch ở đó. Điều này đã được thực hiện, và cơ thể ông "đã tan tác ngay tại đó như một nắm trấu." (SN.iv.40f; SN­a.iii.10).
+
+Upasena đã từng là, vào thời của Padumuttara, một gia chủ ở Haṁsavatī. Một ngày nọ, ông nghe Đức Phật tuyên bố một trong những tỳ-kheo của Ngài là người xuất sắc nhất trong số những người hoàn toàn mang lại niềm hoan hỷ, và mong muốn có một lời tuyên bố tương tự liên quan đến bản thân mình bởi một vị Phật tương lai. Để đạt được mục đích này, ông đã làm nhiều việc thiện (Thag­a.i.525). Apadāna có đề cập rằng ông đã dâng một bữa ăn cho Padumuttara và tám tỳ-kheo, và tại bữa ăn đã đặt trên đầu Đức Phật một chiếc lọng làm từ những bông hoa *kanikāra*. Kết quả là, ông đã ba mươi lần làm vua của chư thiên và hai mươi mốt lần làm Cakkavatti. (Ap.i.62). Những vần kệ được trích dẫn từ Apadāna trong Thag­a. hơi khác một chút.
+
+Upasena được đưa ra, cùng với Yasa Kākaṇḍakaputta, như một ví dụ về một người tuân thủ các giới luật Vinaya một cách triệt để, mà không áp đặt bất kỳ giới luật hay thỏa thuận mới nào. DN­a.ii.525.
+
+Xem thêm Vakajātaka.
 
 ## Notes

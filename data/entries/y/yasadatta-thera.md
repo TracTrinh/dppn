@@ -5,7 +5,7 @@ base_headword: "Yasadatta Thera"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -35,6 +35,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yasadatta Thera. Ngài thuộc một gia đình thủ lĩnh Malla và được giáo dục tại Takkasilā, nơi ngài đạt được học vấn vô cùng uyên thâm. Sau đó, trong khi đi du hành cùng với Sabhiya, ngài đã đến Sāvatthī, nơi ngài có mặt tại cuộc thảo luận giữa Sabhiya và Gotama Buddha. Mục đích của ngài là cố gắng khám phá ra những sai sót trong lập luận của Đức Phật. Đức Phật biết những gì trong tâm ngài, và khi kết thúc Sabhiyasutta, Ngài đã quở trách ngài bằng năm câu kệ (Thag.360-4). Yasadatta vô cùng xúc động và gia nhập Tăng đoàn, đắc quả *Arahant* theo đúng trình tự.
+
+Vào thời của Padumuttara Buddha, ngài đã từng là một Bà-la-môn rất uyên bác, sống như một ẩn sĩ trong rừng. Một ngày nọ, ngài nhìn thấy Đức Phật, và, với đôi bàn tay chắp lại, ngài đã ca ngợi những đức hạnh của Ngài (Thag.i.427f). Ngài dường như được đồng nhất với Ñāṇathavika trong Apadāna. (Ap.ii.392f)
 
 ## Notes

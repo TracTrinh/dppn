@@ -5,7 +5,7 @@ base_headword: "Kāḷapāsāṇapariveṇa (Kāḷapāsādapariveṇa)"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -30,6 +30,6 @@ Kāḷapāsāṇapariveṇa (Kāḷapāsādapariveṇa). A building attached to 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷapāsāṇapariveṇa (Kāḷapāsādapariveṇa). Một tòa nhà gắn liền với Tissārāma trong Nandanavana ở Anurādhapura, được dựng lên cho việc sử dụng của Mahinda. Devānampiyatissa đã lo lắng rằng không nên có sự chậm trễ nào trong việc dựng tòa nhà, và do đó đã cho phơi khô những viên gạch cần thiết bằng những ngọn đuốc vì lợi ích của tốc độ. Tòa nhà này có màu sẫm, do đó có tên như vậy (Mhv.xv.203f; Mhv­ṭ.363). Đã từng có một cái ao gần cổng của *pariveṇa*, được gọi là Marutta. Mhv­ṭ.344f.
 
 ## Notes

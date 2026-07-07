@@ -5,7 +5,7 @@ base_headword: "Vaṭuka"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -27,6 +27,6 @@ Vaṭuka. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một người Damiḷa, nhân tình của Anulā. Ông đã trị vì trong một năm và hai tháng và sau đó bị bà hạ độc. Nguyên gốc ông là một thợ mộc ở Anurādhapura. Mhv.xxxiv.19f.; Dpv.xx.27.
 
 ## Notes

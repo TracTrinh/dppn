@@ -5,7 +5,7 @@ base_headword: "Kassapasīhanādasutta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -32,6 +32,10 @@ It is said that at the conclusion of the *Sutta*, <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapasīhanādasutta. Bài Sutta thứ tám của Dīghanikāya. Nó bao gồm một cuộc đối thoại giữa Đức Phật và Acela Kassapa về việc thực hành khổ hạnh, và chứa đựng một bản tường thuật về một số thực hành phổ biến trong phái Ājīvaka.
+
+Đức Phật khẳng định rằng tuệ giác, sự tự thu nhiếp và tự làm chủ bản thân của một vị Arahant khó đạt được hơn rất nhiều so với những thực hành đơn thuần về mặt thể xác của các đạo sĩ, vốn hiển hiện rõ ràng hơn đối với phàm phu. Đức Phật tuyên bố rằng thực hành khổ hạnh thực sự là một trở ngại đối với sự phát triển tâm linh, vì nó khiến tâm trí con người chuyển hướng khỏi những vấn đề cốt lõi hơn.
+
+Tương truyền rằng vào cuối bài Sutta, Kassapa đã gia nhập Saṅgha và, đến lúc thích hợp, đã trở thành một vị Arahant. DN.i.161-77.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Subhaddā"
 disambiguator: "01"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Subhaddā 01. Chief wife of the Bodhisatta when he was the elephant king <
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Subhaddā 01. Người vợ chính của Bodhisatta khi ngài là voi chúa Chaddanta. Ja.v.37, 39.
 
 ## Notes

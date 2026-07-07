@@ -5,7 +5,7 @@ base_headword: "Kasmīra"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -43,6 +43,10 @@ In Xuanzang’s time <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kasmīra. Một quận ở Bắc Ấn Độ, là Kashmir ngày nay. Trong các văn bản Pāḷi nó luôn được đề cập đến cùng với Gandhāra và có lẽ từng tạo thành một phần của vương quốc đó (xem thêm PHAI., p.93. Các truyện Jātaka đề cập đến những quốc gia này một cách riêng biệt như là bao gồm hai vương quốc được cai trị bởi một vị vua duy nhất, ví dụ, Ja.iii.364, 378). Vào lúc kết thúc Kỳ Kết tập thứ ba, Moggaliputta đã gửi vị Thera Majjhantika đi truyền bá tôn giáo ở Kasmīra-Gandhāra. Majjhantika đã dập tắt quyền năng của vị vua Nāga là Aravāḷa (*q.v.*), kẻ từng là mối đe dọa cho những cư dân, và giúp ông ta quy y với đức tin, trong khi Yakkha Paṇḍaka và vợ của ông ta là Hāritā, cùng với năm trăm người con trai của họ, trở thành những *Sotāpanna*. Vị Thera đã thuyết Āsīvisūpamasutta cho hội chúng đa số đang tụ tập và giành được tám mươi ngàn người quy y, trong khi một trăm ngàn người đã gia nhập Tăng đoàn. Chúng ta được biết rằng từ thời điểm đó trở đi, chiếc y màu vàng đã được tổ chức trong sự tôn kính to lớn ở Kasmīra. (Mhv.xii.3, 9 ff; Dpv.viii.4; Vin-a.i.64ff; xem thêm Beal-Xuan, op.cit., i.134, n.39). Rõ ràng đã có một cộng đồng tỳ-kheo đông đảo ở Kasmīra, cho đến mãi sau sự xuất hiện của Majjhantika, vì chúng ta được biết rằng hai trăm tám mươi ngàn tỳ-kheo, dưới sự dẫn dắt của Uttiṇṇa, đã đến từ Kasmīra tới Anurādhapura vào dịp diễn ra buổi lễ nền móng của Mahā Thūpa (Mhv.xxix.37).
+
+Vào thời của Huyền Trang, Kasmīra dường như từng là một vương quốc độc lập mà vị vua của nó đã dâng hiến cho sự thờ phụng rắn trong khi hoàng hậu của ông là một đệ tử của Đức Phật. Gần thủ đô có một cái *stūpa* nơi tôn trí một chiếc răng của Đức Phật. Chiếc răng này sau đó đã bị Harṣavardhana của Kanoj lấy đi. (CAGI.104ff; Beal-Xuan, i.116f, v.v.)
+
+Sāgala được đề cập như là cách Kasmīra mười hai do-tuần (Mil.82).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sīhassara"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -24,6 +24,6 @@ Sīhassara. A king of long ago. Mhv.ii.13f.; Dpv.iii.42.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhassara. Một vị vua thời xưa. Mhv.ii.13f.; Dpv.iii.42.
 
 ## Notes

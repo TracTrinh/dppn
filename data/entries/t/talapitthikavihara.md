@@ -5,7 +5,7 @@ base_headword: "Tālapiṭṭhikavihāra"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Tālapiṭṭhikavihāra. A monastery in Ceylon, where Gopakasīvali built a *ce
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tālapiṭṭhikavihāra. Một tu viện ở Tích Lan, nơi Gopakasīvali xây dựng một cetiya. Vibh­a. p.156.
 
 ## Notes

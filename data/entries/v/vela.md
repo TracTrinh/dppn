@@ -5,7 +5,7 @@ base_headword: "Veḷa"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -29,6 +29,6 @@ Veḷa, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Veḷa, Veḷu. Một người bạn của Vasabha và là cha của Veḷusumana, người được đặt theo tên của cha mình và bạn của cha mình là Sumana, tổng trấn xứ Girijanapada. Mhv.xxiii.69.
 
 ## Notes

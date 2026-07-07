@@ -5,7 +5,7 @@ base_headword: "Mahā Sārajātaka"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -32,6 +32,8 @@ The story was told in reference to <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sārajātaka (Ja 92). Bodhisatta từng có lần là một vị đại thần của Brahmadatta, vua xứ Benares. Một ngày nọ nhà vua đi cùng các hoàng hậu của mình đến hoa viên và những hoàng hậu này đã tháo đồ trang sức của họ ra để đi tắm. Một con khỉ cái, canh chừng cơ hội, đã đánh cắp một chuỗi ngọc trai. Khi phát hiện ra sự mất mát, nhà vua đã cho khám xét từng người và từng nơi một. Một người đàn ông nhà quê, nhìn thấy sự hỗn loạn, đã vội vã bỏ chạy và bị đội vệ binh đuổi theo và bắt giữ. Khi bị thẩm vấn, ông ta thú nhận rằng đã lấy cắp chuỗi ngọc, vì nghĩ rằng đó là cách tốt nhất để cứu lấy mạng sống của mình, và nói rằng ông ta đã đưa nó cho vị Thủ quỹ. Vị Thủ quỹ nói rằng ông ta đã đưa nó cho vị giáo sĩ, giáo sĩ nói đã đưa cho trưởng nhạc công, vị nhạc công nói đã đưa cho một kỹ nữ. Vì lúc này đã muộn, nên vụ việc được hoãn lại cho đến ngày hôm sau, các tòng phạm bị cáo buộc đã bị giam giữ. Bodhisatta, nghi ngờ lời nói của họ, đã xin sự cho phép của nhà vua để điều tra vụ việc. Ngài đã cho người theo dõi các tù nhân, và biết được, từ những cuộc trò chuyện được báo cáo lại của họ, rằng họ vô tội. Sau đó ngài kết luận rằng nó đã bị một con khỉ đánh cắp, và ra lệnh bắt một số con khỉ và thả chúng ra lại với những chuỗi hạt cườm quanh cổ, cổ tay, và mắt cá chân. Con khỉ, kẻ đã đánh cắp chuỗi ngọc, khi nhìn thấy những con khỉ khác với những chuỗi hạt cườm của chúng, đã tràn đầy sự ganh tị và đưa ra chuỗi ngọc trai. Đội vệ binh dọa nó, và do đó nó đã đánh rơi chuỗi ngọc, và Bodhisatta đã được ca ngợi hết lời vì trí tuệ của mình.
+
+Câu chuyện này được kể lại liên quan đến Ānanda. Các bà vợ của Pasenadi mong muốn có một ai đó đến thuyết pháp cho họ trong cung điện. Pasenadi đi đến gặp Đức Phật và từ Ngài đã nghe những lời ca ngợi Chattapāṇī. Về sau, ông gặp ông ấy và yêu cầu ông ấy thuyết pháp trong hậu cung của mình. Nhưng Chattapāṇī không sẵn lòng, nói rằng đó là đặc quyền của các tỳ-kheo. Do đó nhà vua yêu cầu Đức Phật chỉ định một ai đó, và Đức Phật đã chỉ định Ānanda. Một ngày nọ Ānanda thấy tất cả những người phụ nữ trong cung điện đều rất chán nản, và biết được rằng viên ngọc trên chiếc khăn vấn của nhà vua đã bị mất và mọi người đều vô cùng bối rối. Do đó, Ānanda đã đi đến gặp nhà vua và yêu cầu mỗi người bị tình nghi nên được đưa cho một cọng rơm đặt trên một cục đất sét và được yêu cầu đặt nó ở một nơi nào đó, ý tưởng là tên trộm sẽ để lại viên ngọc trong một trong những cục đất sét này. Tuy nhiên, mưu kế này đã không thành công, và các mệnh lệnh sau đó được đưa ra rằng một vại nước nên được đặt ở một góc khuất của sân trong phía sau một bức bình phong và rằng mọi người nên được yêu cầu đi rửa tay. Khi tất cả đã rửa tay xong, chiếc vại nước được đổ ra và viên ngọc được tìm thấy bên trong nó. Ānanda được đồng nhất với vị vua trong Jātaka. Ja.i.381-7.
 
 ## Notes

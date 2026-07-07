@@ -5,7 +5,7 @@ base_headword: "Kalyāṇivihāra"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -45,6 +45,12 @@ Even in the fifteenth century the monastery was evidently considered one of the 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kalyāṇivihāra (Kalyāṇikavihāra). Một tu viện gắn liền với Kalyāṇicetiya. Kể từ những thời kỳ đầu tiên, nó đã là nơi cư trú của những vị tỳ-kheo lỗi lạc, chẳng hạn như Dhammagutta (Người bảo vệ Pháp) và năm trăm đồng đạo của ngài (Mhv.xxxii.51) và của Godattatthera (MN­a.i.100). Ở đây có một vị Trưởng lão*,* được gọi là Piṇḍapātiya, có một lần đã tụng đọc Brahmajālasutta, và trái đất đã rung chuyển khi tôn giả hoàn tất bài tụng đọc của mình (DN­a.i.131). Gần *vihāra* là ngôi làng Kāḷadīghavāpigāma, nơi các tỳ-kheo sống trong tu viện đã đi đến để khất thực (Snp-a.i.70; AN­a.i.13).
+
+Vua Kaniṭṭhatissa đã xây dựng một hội trường *uposatha* trong tu viện này (Mhv.xxxvi.17). Vijayabāhu III. đã trùng tu *vihāra*, vốn đã bị tàn phá bởi những người Damiḷa, và tái thiết lại *cetiya*, đội vương miện cho nó bằng một đỉnh tháp bằng vàng. Ông cũng đã xây dựng một tòa tháp cổng ở phía đông (Cv.lxxxi.59f).
+
+Vào thế kỷ thứ mười bốn, Alagakkonāra dường như đã ban tặng sự bảo trợ to lớn cho tu viện, và đã làm nhiều việc cho việc cải tạo tu viện (Xem *Ceylon Antiquary and Literary Register* i.152; ii.149, 182).
+
+Thậm chí vào thế kỷ thứ mười lăm, tu viện rõ ràng đã được coi là một trong những trung tâm chính yếu của Tăng đoàn ở Tích Lan, vì chúng ta thấy rằng các vị tỳ-kheo, được Dhammaceti cử đi từ Rāmañña đến Tích Lan, đã thọ giới tại *sīmā* của Kalyāṇivihāra, và khi trở về, họ đã làm phép thánh cho một *sīmā* ở Pegu được biết đến với tên gọi là Kalyāṇisīmā (Bode, 38).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kuṇḍaliya"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -30,6 +30,8 @@ The conversation leads to a discussion of the *bojjhaṅgas*, the *satipaṭṭh
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một *Paribbājaka* đến thăm Đức Phật tại Añjanavana ở Sāketa. Ông hỏi Đức Phật Gotama rằng cách sống của Đức Phật mang lại lợi ích gì.
+
+Cuộc trò chuyện dẫn đến một cuộc thảo luận về các *bojjhaṅga*, *satipaṭṭhāna* và những hành vi đức hạnh. Vào cuối cuộc thảo luận, Kuṇḍaliya đã trở thành người đệ tử của Đức Phật. SN.v.73ff.
 
 ## Notes

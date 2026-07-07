@@ -5,7 +5,7 @@ base_headword: "Kuhasutta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -23,6 +23,6 @@ Kuhasutta. Monks who are cheats, stubborn and uncontrolled, are no followers of 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kuhasutta. Những tỳ-kheo lừa đảo, ngoan cố và không tự chủ, không phải là đệ tử của Đức Phật. AN.ii.26; cũng được tìm thấy trong It.113, cf. Thag.959.
 
 ## Notes

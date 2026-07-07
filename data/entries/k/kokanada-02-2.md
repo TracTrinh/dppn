@@ -5,7 +5,7 @@ base_headword: "Kokanadā"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -26,6 +26,6 @@ Kokanadā 02. One of the palaces of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kokanadā 02. Một trong những cung điện của Siddhattha Buddha trong kiếp sống tại gia cuối cùng của ngài. Bv.xvii.14; Bv­a. (185) gọi nó là Padumā.
 
 ## Notes

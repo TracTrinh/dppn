@@ -5,7 +5,7 @@ base_headword: "Paṇḍurājā"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -31,6 +31,6 @@ Paṇḍurājā 01. The ancestor of the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇḍurājā 01. Tổ tiên của những người Paṇḍava. Ajjuna, Nakula, Bhīmasena, Yudhiṭṭhila và Sahadeva được gọi là những người con trai của Paṇḍurājā và được cho là thuộc dòng họ Paṇḍurājāgotta. Ja.v.426.
 
 ## Notes

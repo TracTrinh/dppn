@@ -5,7 +5,7 @@ base_headword: "Pilakkhaphaladāyaka Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -33,6 +33,10 @@ There may have been two of the same name.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pilakkhaphaladāyaka Thera. Một vị *Arahant*. Mười tám *kappa* trước, ngài đã gặp Atthadassī Buddha và dâng cúng một trái *pilakkha* cho Ngài (Ap.i.296, được lặp lại tại Ap.ii.410).
+
+Các vần kệ Apadāna của ngài, trong Chú giải Theragāthā, được quy cho cả Dhammapāla (Thag­a.i.326) và Passika (Thag­a.i.355).
+
+Có thể có hai người mang cùng một tên gọi này.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sīvaka"
 disambiguator: "05"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -31,6 +31,8 @@ Ninety-one *kappas* ago he had given <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīvaka 05. Sīvaka Thera. Ngài thuộc một gia đình Bà-la-môn ở Rājagaha, và, khi đã có được một nền học vấn tốt, đã trở thành một *Paribbājaka*. Sau đó ngài nghe Đức Phật thuyết pháp, gia nhập Saṅgha, và trở thành một *Arahant*.
+
+Chín mươi mốt kappa trước, ngài đã dâng lên Vipassī Buddha một bát cơm nấu chín (*kummāsa*) (Thag.vss.183-4; Thag­a.i.307f). Ngài rõ ràng đồng nhất với Kummāsadāyaka trong Apadāna. Ap.ii.415.
 
 ## Notes

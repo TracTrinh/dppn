@@ -5,7 +5,7 @@ base_headword: "Yasavatī"
 disambiguator: "04"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -25,6 +25,6 @@ Yasavatī 04. Sister of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yasavatī 04. Chị gái của Akitti (*q.v.*). Ja.iv.237.
 
 ## Notes

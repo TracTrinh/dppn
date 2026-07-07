@@ -5,7 +5,7 @@ base_headword: "Khandhakathūpa"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -30,6 +30,6 @@ Khandhakathūpa. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khandhakathūpa. biến thể Kaṭṭhakathūpa. Một cetiya (có lẽ ở Cetiyapabbata). Vua Lañjakatissa đã cho làm một lớp bọc bằng đá cho nó. Mhv.xxxiii.25, Kanthakathūpa, Kaṇṭakathūpa. Xem thêm Kaṭṭhaka.
 
 ## Notes

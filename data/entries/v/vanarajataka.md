@@ -5,7 +5,7 @@ base_headword: "Vānarajātaka"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -28,6 +28,8 @@ The story was told in reference to <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vānarajātaka (Ja 342). Bodhisatta từng là một con khỉ trẻ tuổi sống trên một bờ sông. Một con cá sấu cái dưới sông khao khát được ăn quả tim của khỉ, và chồng của nó đã thuyết phục khỉ cưỡi trên lưng mình để đi tìm những loại trái cây rừng. Đến giữa dòng, cá sấu bắt đầu chìm xuống và tiết lộ mục đích của mình, nhưng khỉ không hề sợ hãi, nói rằng loài khỉ không giữ tim trong cơ thể vì sợ chúng sẽ bị cành cây xé toạc ra, mà chúng treo tim trên cây, và chỉ vào một cây sung trĩu quả, khỉ cho cá sấu thấy thứ mà khỉ nói là quả tim của mình. Cá sấu đưa khỉ đến chỗ cái cây, và khỉ liền nhảy lên bờ rồi cười nhạo cá sấu.
+
+Câu chuyện được kể liên quan đến nỗ lực giết hại đức Phật của Devadatta. Ja.iii.133f.; cf. Suṁsumārajātaka (Ja 208).
 
 ## Notes

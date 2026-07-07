@@ -5,7 +5,7 @@ base_headword: "Lañjatissa"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -33,6 +33,6 @@ Lañjatissa, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lañjatissa, Lañjakatissa, Lajjitissa. Vua Tích Lan (59-50 trước CN). Ông là con trai cả của Saddhātissa, nhưng khi cha ông mất, các đại thần và tỳ-kheo đã trao vương miện cho em trai ông là Thūlatthana. Lañjatissa đã giết Thūlatthana sau một tháng và cai trị trong chín năm mười lăm ngày. Ban đầu ông rất lạnh nhạt với các tỳ-kheo, nhưng sau đó đã sửa chữa điều này. Ông đã xây dựng các vihāra Ariṭṭha và Kuñjarahīnaka, Lañjakāsanasālā và một lớp đá ốp cho Kanthakathūpa, ngoài các việc thiện khác. Mhv.xxxiii.14ff.
 
 ## Notes

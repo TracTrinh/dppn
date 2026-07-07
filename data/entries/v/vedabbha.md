@@ -5,7 +5,7 @@ base_headword: "Vedabbha"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vedabbha. The name of a charm and of a Brahmin who knew it. See the <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tên của một thần chú và của một Bà-la-môn biết được nó. Xem Vedabbhajātaka (Ja 48).
 
 ## Notes

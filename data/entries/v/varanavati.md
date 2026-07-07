@@ -5,7 +5,7 @@ base_headword: "Vāraṇavatī"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vāraṇavatī. The capital of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vāraṇavatī. Thủ đô của Anikaratta, vị vua mà Sumedhā chuẩn bị được gả cho ông ta. Thīg­a.272.
 
 ## Notes

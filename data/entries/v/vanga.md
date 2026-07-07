@@ -5,7 +5,7 @@ base_headword: "Vaṅga"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -31,6 +31,6 @@ Vaṅga, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaṅga, Vaṅgā. Tên của một dân tộc và đất nước của họ, vùng Bengal ngày nay. Nơi đây không hề được nhắc đến trong bốn bộ kinh *Nikāyas*, cũng không được xếp vào các Mahā Janapadas. Mẹ của Sīhabāhu và Sīhasīvalī là một công chúa Vaṅga, con gái của vua xứ Vaṅga, người đã kết hôn với con gái của vị vua xứ Kaliṅga (Mhv.vi.1ff.; Dpv.ix.2). Sách Milinda (p. 359) đề cập đến Vaṅga như một địa điểm buôn bán có thể tiếp cận bằng đường biển.
 
 ## Notes

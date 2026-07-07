@@ -5,7 +5,7 @@ base_headword: "Korakkhatta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -32,6 +32,10 @@ The prophecy proved true, and <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Korakkhatta (Korakkhattiya). Một tu sĩ khỏa thân ở Uttarakā. Ông ta tru lên như một con chó, bò bằng bốn chân, và chỉ dùng miệng để liếm thức ăn. Sunakkhatta đã nhìn thấy ông và vô cùng ngưỡng mộ ông, nhưng Đức Phật đã tiên tri rằng trong bảy ngày nữa Korakkhatta sẽ chết vì bệnh động kinh và sanh vào loài Kāḷakañjaka.
+
+Lời tiên tri đã thành hiện thực, và Sunakkhatta đã biết được sự thật từ xác chết của Korakkhatta (DN.iii.6ff; Ja.i.389f).
+
+Buddhaghosa nói (DN­a.iii.819) rằng Korakkhattiya được gọi như vậy vì bàn chân của ông quặp vào trong (*anto vaṅkapādo*).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kapila"
 disambiguator: "07"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -30,6 +30,6 @@ Kapila 07. A city, called <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kapila 07. Một thành phố, được gọi là Kapilanagara, thủ đô của Pañcālaraṭṭha. Thành phố này từng có Cūḷanī Brahmadatta làm vị vua của nó (Pv-a.161; Netti.142). Có lẽ chính thành phố này được đề cập trong Dīpavaṁsa (iii.17; Mhv­ṭ.127) với tư cách là thủ đô của Abhītatta (*v.l.* Ajitajina) và tám mươi tư ngàn hậu duệ của ông.
 
 ## Notes

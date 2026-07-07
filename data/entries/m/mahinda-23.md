@@ -5,7 +5,7 @@ base_headword: "Mahinda"
 disambiguator: "23"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -27,6 +27,6 @@ Mahinda 23. A man of the <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahinda 23. Một người đàn ông của bộ tộc Kuliṅga, mà vợ của ông là con gái của một người chăn bò tên là Dīpanī. Ông đã giết chết Vijayabāhu II. và cai trị trong năm ngày, nhưng đã bị giết bởi Kittinissaṅka. Cv.lxxx.15ff.
 
 ## Notes

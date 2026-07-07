@@ -5,7 +5,7 @@ base_headword: "Kāmabhogīsutta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -26,6 +26,6 @@ Kāmabhogīsutta. Preached at <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāmabhogīsutta. Được thuyết giảng tại Jetavana cho Anāthapiṇḍika về mười hạng người giàu có (*kāmabhogī*), trong chừng mực mà họ xứng đáng được khen ngợi hoặc đáng bị khiển trách. Một số người trong số họ đạt được tài sản của mình bằng những phương tiện tội lỗi, thụ hưởng nó theo những cách tội lỗi, và không chia sẻ nó với những người khác; những người khác thì khác nhau ở những mức độ khác nhau. AN.v.176-82.
 
 ## Notes

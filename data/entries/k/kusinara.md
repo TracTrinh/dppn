@@ -5,7 +5,7 @@ base_headword: "Kusinārā"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -87,6 +87,32 @@ The people of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="62" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Thủ đô của người Mallas và là nơi diễn ra sự kiện nhập diệt của Đức Phật. Vào thời điểm đó nó là một thành phố nhỏ, "một thị trấn nhánh với những ngôi nhà trát vách đất nằm giữa rừng rậm," và Ānanda lúc đầu đã thất vọng vì Đức Phật lại chọn nó cho sự kiện *Parinibbāna* của ngài. Nhưng Gotama Buddha, qua việc thuyết giảng bài kinh Mahā Sudassanasutta, đã chỉ ra cho tôn giả thấy rằng trong thời cổ đại nó đã từng là Kusāvatī, kinh đô của Mahā Sudassana (DN.ii.146). Giữa Kusinārā và Pāvā, cách nhau ba *gāvuta* (DN­a.ii.573) – từ đó Đức Phật đến Kusinārā trong chuyến hành trình cuối cùng của ngài từ Rājagaha, dừng lại ở nhiều nơi khác nhau – là dòng sông Kakuṭṭha, trên bờ của nó là Ambavana; xa hơn nữa là dòng sông Hiraññavatī, và gần thành phố, theo hướng tây nam, là Upavattana, rừng *Sāla* của người Mallas, nơi Đức Phật chọn làm chỗ an nghỉ cuối cùng của ngài (Ud­a.238; DN­a.ii.572f).
+
+Sau khi Đức Phật nhập diệt, kim thân của ngài được đưa vào thành phố qua cổng phía bắc và đưa ra khỏi thành phố qua cổng phía đông; về phía đông của thành phố là Makuṭabandhana, đền thờ của người Mallas, và tại đó kim thân được hỏa táng. Trong bảy ngày những người tham dự nghi lễ đã tổ chức một lễ hội để tôn kính xá-lợi (DN.ii.160f).
+
+Người ta nói rằng Đức Phật có ba lý do để đến Kusinārā nhập diệt:
+
+- (1) Vì đó là địa điểm thích hợp để thuyết giảng bài kinh Mahā Sudassanasutta;
+- (2) vì Subhadda sẽ đến thăm ngài tại đó và, sau khi nghe bài thuyết pháp của ngài, sẽ tu tập thiền định và trở thành một *Arahant* khi Đức Phật vẫn còn tại thế; và
+- (3) vì Bà-la-môn Doṇa sẽ có mặt tại đó, sau khi Đức Phật nhập diệt, để giải quyết vấn đề phân chia xá-lợi của ngài (Ud­a.402f; DN­a.ii.573f6).
+
+Là nơi ngài nhập diệt, Kusinārā đã trở thành một trong bốn thánh địa được Đức Phật tuyên bố là những nơi hành hương phù hợp cho những người sùng đạo, ba nơi còn lại là Kapilavatthu, Buddhagayā và Isipatana (DN.ii.140). Người ta có đề cập đến những chuyến viếng thăm khác của Đức Phật tới Kusinārā, trước chuyến đi diễn ra sự kiện ngài nhập diệt. Do đó, đã có lần ngài đến đó từ Āpaṇa và sau khi dành một thời gian tại Kusinārā, đã tiến đến Ātumā. Người Mallas ở Kusinārā luôn là những người vô cùng ngưỡng mộ Đức Phật, mặc dù không phải tất cả bọn họ đều là tín đồ của ngài, và trong chuyến viếng thăm này, họ đã quyết định rằng bất kỳ cư dân Kusinārā nào không đi đón Đức Phật và hộ tống ngài vào thành phố, sẽ bị phạt năm trăm. Trong dịp này, Roja người Mallan đã được cảm hóa và cúng dường cho Đức Phật cùng các tỳ-kheo một nguồn rau xanh và bánh ngọt (Vin.i.247f). Trong một số chuyến viếng thăm này, Đức Phật đã trú ngụ trong một khu rừng gọi là Baliharaṇa, và tại đó ngài đã thuyết giảng hai bài kinh Kusinārāsutta (AN.i.274f; v.79f) và Kintisutta (MN.ii.238f). Bài kinh Kusinārāsutta thứ ba được ngài thuyết giảng trong khi đang ở tại Upavattana. (AN.ii.79; về một bài thuyết pháp khác cho một số tỳ-kheo ồn ào ở Upavattana, xem Ud.iv.2).
+
+Kusinārā là nơi sinh của Bandhula và vợ ông, Mallikā (Dhp­a.i.338, 349). Nó cách Rājagaha hai mươi lăm *yojana* (DN­a.ii.609; theo Faxian, p.40, nó cách Kapilavatthu hai mươi bốn *yojana*) và nằm trên con đường lớn từ Aḷaka đến Rājagaha, con đường mà các đệ tử của Bāvarī đã đi (Snp.v.1012).
+
+Rõ ràng đây cũng là con đường mà Mahā Kassapa đã đi từ Pāvā, khi ngài đến để tỏ lòng tôn kính cuối cùng đối với Đức Phật (Vin.ii.284).
+
+Theo một truyền thống muộn, một phần tám xá-lợi của Đức Phật được đặt trong một bảo tháp ở Kusinārā và được người Mallas tôn kính (DN.ii.167; Bv.xxviii.3).
+
+Vào thời cổ đại Kusinārā là kinh đô của Vua Tālissara và mười hai hậu duệ của ngài (Dpv.iii.32). Đó cũng là nơi nhập diệt của Phussa Buddha tại Setārāma (*v.l.* Soṇārāma) (Bv­a.195; Bv.xix.25).
+
+Vào thời của Xuanzang vẫn còn tồn tại các tháp và *Saṅghārāma* được dựng lên để đánh dấu những địa điểm gắn liền với những ngày cuối cùng và tang lễ của Đức Phật tại Kusinārā. Theo ghi chép của ngài, Kusinārā cách Vesālī mười chín *yojana* (Beal-Xuan. op.cit.li. lii. n).
+
+Đối với các Phật tử phương Bắc, địa điểm này cũng được biết đến với tên gọi là Kuśigrāma (Kuśigrāmaka) và Kuśinagarī (ví dụ, Divy.152f, 208).
+
+Kusinārā được đồng nhất với ngôi làng Kasia tại ngã ba sông Rapti và sông nhỏ Gondak, nằm ở phía đông của quận Gorakhpur (CAGI.i.493). Một tấm đồng thau thuộc về *Thūpa* được dựng lên tại địa điểm nhập diệt của Đức Phật vừa mới được phát hiện gần đây (CAGI.i.714).
+
+Người dân Kusinārā được gọi là Kosinārakā, ví dụ, DN.ii.167.
 
 ## Notes

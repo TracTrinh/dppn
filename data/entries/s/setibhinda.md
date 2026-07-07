@@ -5,7 +5,7 @@ base_headword: "Setibhinda"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -23,6 +23,6 @@ Setibhinda. The Pāli name for King Hsin-hpyu-shin of Pegu. Bode, 37.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Setibhinda. Tên Pāli của vua Hsin-hpyu-shin ở Pegu. Bode, 37.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Khadirasutta"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -23,6 +23,6 @@ Khadirasutta. It is just as impossible to destroy *dukkha* without realising the
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khadirasutta. Cũng giống như việc không thể tiêu diệt dukkha mà không liễu ngộ Bốn Sự Thật Cao Quý (Tứ Diệu Đế), thì cũng không thể nào bện một chiếc giỏ đựng lá bằng lá cây keo (acacia), v.v., hoặc dùng một chiếc giỏ như vậy để lấy nước, hoặc dùng những chiếc lá đó làm quạt. SN.v.438.
 
 ## Notes

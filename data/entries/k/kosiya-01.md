@@ -5,7 +5,7 @@ base_headword: "Kosiya"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -56,6 +56,20 @@ The word Kosiya (e.g., Ja.ii.208) means “Owl” and is probably one of the sev
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kosiya 01. Kosiyagotta. Tên của một dòng tộc Bà-la-môn. Trong Pācittiya, nó được đưa ra như một trong những *gotta* thấp hơn. (Vin.iv.8; nhưng nó cũng là *gotta* của Sakka, và do đó thường được coi là một *gotta* cao; xem ví dụ, Thag.415; Thag­a.i.452).
+
+Trong số những người được đề cập là thuộc về *gotta* này có Bà-la-môn Kevaṭṭa (Ja.vi.418f), Bà-la-môn là cha của Soṇa Kumāra (Bodhisatta, Ja.v.319ff), Bhaddākāpilāni, sinh ra ở Sāgala (AN­a.i.99; Thag­a.68; SN­a ii.144), và vị trưởng giả được biết đến với tên gọi Macchariya Kosiya (*xem mục này*).
+
+Cha của Kātiyāna là một người Kosiyan, nhưng ông đã kết hôn với một người phụ nữ thuộc gia tộc Kātiyāna (Thag­a.i.452).
+
+Bhūridattajātaka (Ja 543, Ja.vi.181; Mhv.ii.49) đề cập đến một vị ẩn sĩ Kosiya, người đã dạy cho Alambāyana câu chú của loài Nāga. Người chú giải nói ông thuộc Kosiyagotta.
+
+Sālikedārajātaka (Ja.iv.278f) đề cập đến một vị Bà-la-môn của Sālindiya, tên là Kosiyagotta, có lẽ cũng vì lý do tương tự.
+
+Kosiyajātaka (Ja 130, Ja.i.465f) nói đến một *brāhmanī* Kosiya. Tất cả những người này đều được gọi hoặc được nhắc đến là Kosiya trong các ngữ cảnh khác nhau của họ. Tên Kosiya cũng được sử dụng hai lần khi nói về Sakka – một lần bởi Đức Phật (DN.ii.270), một lần bởi Mahā Moggallāna (MN.i.252) – và lại được Guttila (Ja.ii.252) và Mahā Kassapa (Ud.iii.7; Ud­a.200; Dhp­a.i.429) sử dụng.
+
+Cái tên này có nghĩa là “thuộc gia tộc Kusika.” Nó được sử dụng một lần cho Indra trong Ṛg Veda, theo nghĩa chính xác nào thì không rõ. Rhys Davids cho rằng có lẽ chúng ta có ở đây một tàn dư từ thời kỳ Indra chỉ là vị thần của một dòng tộc Kusika (Dial.ii.296f; xem thêm Divy.632; Mhv.iii.200, 202, 315, 403).
+
+Từ Kosiya (ví dụ, Ja.ii.208) có nghĩa là “Cú” và có lẽ là một trong nhiều tên của các dòng tộc cũng là tên của các loài động vật (so sánh Vaccha).
 
 ## Notes

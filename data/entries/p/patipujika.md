@@ -5,7 +5,7 @@ base_headword: "Patipūjikā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -29,6 +29,10 @@ She gave birth to four sons, and dying one day of a sudden illness, was reborn i
 
 ## Vietnamese translation
 
-Chưa dịch.
+Patipūjikā. Một phụ nữ ở Sāvatthī, người từng thuộc đoàn tùy tùng của vị thiên nhân (deva) Mālābhārī, và đã qua đời khỏi kiếp sống *Deva* của mình trong khi đang ngồi trên cành cây hái hoa cho vị này. Cô nhớ lại tiền kiếp của mình, và khao khát được đoàn tụ với Mālābhārī ngay cả sau khi đã kết hôn, do đó cô có tên như vậy. Với mục tiêu này, cô đã làm nhiều việc thiện, và được cho là đã phát triển đồng thời năm mươi sáu phẩm chất của sự thiện lành.
+
+Cô sinh được bốn người con trai, và một ngày nọ chết vì một căn bệnh đột ngột, đã tái sinh vào đoàn tùy tùng của Mālābhārī. Cô đã được truyền cảm hứng mạnh mẽ khi nghe câu chuyện của chính mình và nhận ra kiếp nhân sinh ngắn ngủi biết bao. Dhp­a.i.363ff.
 
 ## Notes
+
+- Về 'She was greatly inspired on hearing her story', đại từ She ở đây có thể chỉ Patipūjikā hoặc một người nào khác nghe câu chuyện của cô, nhưng theo mạch văn thì được dịch thẳng là 'Cô đã được truyền cảm hứng mạnh mẽ khi nghe câu chuyện của chính mình'.

@@ -5,7 +5,7 @@ base_headword: "Mandhātā"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -60,6 +60,14 @@ When <span class="dppn-term dppn-term-t14" data-dppn-term-pos="26" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mandhātā. Một vị vua thời thái cổ, dòng dõi từ Mahā Sammata, Roja, Vararoja, Kalyāṇa, Varakaḷyāna và Uposatha, người sau cùng là cha ông. Như vậy ông là tổ tiên của người Sākyan. Ja.ii.311; iii.454; Mvu.ii.2; Dpv.iii.5; nhưng xem Snp­a.i.352, nơi gia phả có đôi chỗ khác biệt.
+
+Ông có bảy Báu Vật của một Cakkavatti và bốn Thần Thông. Khi ông nắm chặt tay trái và đụng vào bằng tay phải, từ trên trời đổ xuống một trận mưa bảy loại châu báu ngập đến đầu gối. Tám mươi bốn nghìn năm ông là hoàng tử, tám mươi bốn nghìn năm là phó vương, và tám mươi bốn nghìn năm nữa là vua. Tuổi thọ của ông là một *asaṅkheyya*. Nhưng ông sinh chán nản, và theo lời khuyên của các quan đại thần, đến thăm cõi chư thiên. Đầu tiên ông lên cõi Cātummahārājika, ở đó ông trị vì; nhưng vẫn chưa thỏa mãn, ông đến Tāvatiṁsa. Tại đó Sakka đón tiếp ông và nhường cho ông nửa vương quốc. Mandhātā trị vì ở đó suốt thời gian của ba mươi sáu vị Sakka, mỗi vị Sakka sống ba mươi sáu triệu năm và sáu mươi lần một trăm nghìn năm. Theo thời gian, lòng tham của Mandhātā gia tăng; ông muốn giết Sakka và chiếm toàn bộ vương quốc. Do lòng tham đó, quyền năng của ông suy giảm và ông rơi xuống từ thiên giới vào vườn của mình. Người làm vườn báo tin ông về cho hoàng tộc, và họ dọn cho ông một chỗ nghỉ ngơi, ông nằm đó mà tắt thở. Khi được hỏi để lại lời nhắn gì cho thần dân, ông muốn họ biết rằng ngay cả ông, dù có bao nhiêu uy quyền hiển hách, cũng phải chết (Ja.ii.311ff.; DN­a.ii.481f.; MN­a.i.182f.; cp. Divy.210ff).
+
+Mandhātā được đồng nhất với Bodhisatta (Ja.ii.314). Con trai của ông là Varamandhātā, cháu là Cara và chắt là Upacara (hoặc Apacara, Ja.iii.454; Dpv.iii.6). Mandhātā trị vì tại Rājagaha (Snp­a.ii.413; DN­a.i.132), và được nêu danh là một trong bốn người đạt được, ngay khi còn ở trong thân xác trần thế, vinh quang của chư thiên. Mil. 115, 291; MN­a.ii.737f.; ba người kia là Guttila, Sādhīna và Nimi.
+
+Ông được coi là bậc nhất trong số những người say mê dục lạc và là ví dụ điển hình về người mà dục vọng không bao giờ được thỏa mãn. AN.ii.17; AN­a.ii.474; vd. Vibh­a.506. Thīg.486.
+
+Khi Mandhātā lên cõi chư thiên, dân cư của cả bốn châu lục cùng đi theo. Tuy nhiên sau khi ông trở về trái đất, bánh xe Cakkaratana cắm chặt xuống đất và những người kia không thể trở về quê hương. Họ bèn cầu xin vị quan tể tướng (*Parināyaka*), người đang điều hành việc nước với đôi giày của Mandhātā đặt trên ngai vàng. Ông cấp cho họ đất đai ở Jambudīpa. Những người đến từ Pubbavideha đặt tên vùng đất của mình là Videharaṭṭha; những người từ Aparagoyāna gọi là Aparantajanapada, và những người từ Uttarakuru định cư ở nơi về sau được biết đến là Kururaṭṭha. DN­a.ii.482; MN­a.i.183f.
 
 ## Notes

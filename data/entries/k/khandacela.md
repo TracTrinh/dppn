@@ -5,7 +5,7 @@ base_headword: "Khaṇḍacela"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -27,6 +27,6 @@ Khaṇḍacela. A monastery (probably in Ceylon), the residence of <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khaṇḍacela. Một tu viện (có lẽ ở Tích Lan), nơi cư ngụ của Padhāniya Thera. Có một lần khi vị Trưởng lão đang nghe giảng Ariyavaṁsa tại Kaṇikārapadhānaghara trong tu viện, ngài đã bị một con rắn cắn, nhưng ngài đã lặng lẽ chịu đựng cơn đau, tập trung tâm trí vào bài giảng. Nọc độc chìm xuống đất và ngài đã trở thành một vị Arahant. MN­a.i.65.
 
 ## Notes

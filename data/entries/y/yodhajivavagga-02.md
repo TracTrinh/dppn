@@ -5,7 +5,7 @@ base_headword: "Yodhājīvavagga"
 disambiguator: "02"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -26,6 +26,6 @@ Yodhājīvavagga 02. The nineteenth chapter of the *Catukkanipāta* of the <span
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yodhājīvavagga 02. Chương thứ mười chín của phần *Catukkanipāta* thuộc Aṅguttaranikāya (AN.ii.170-84). Chú giải gọi nó là Brāhmaṇavagga. AN­a.552f.
 
 ## Notes

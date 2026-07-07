@@ -5,7 +5,7 @@ base_headword: "Kaṇṭhapiṭṭhi"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kaṇṭhapiṭṭhi. An important village, among those given by <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇṭhapiṭṭhi. Một ngôi làng quan trọng, trong số những ngôi làng được Aggabodhi IX. ban cho một số *vihāra* nhỏ để các tỳ-kheo của những *vihāra* này có thể nhận cháo mà không cần phải đi đến Mahā Vihāra như trước đây. Cv.xlix.89.
 
 ## Notes

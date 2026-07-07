@@ -5,7 +5,7 @@ base_headword: "Kāyasakkhisutta"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -29,6 +29,8 @@ Together they go to the Buddha and put the case before him; the Buddha tells the
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāyasakkhisutta 01. Saviṭṭha và Mahā Koṭṭhita có lần đến thăm Sāriputta. Sāriputta hỏi họ: Ai là người xuất sắc nhất – một người đã chứng thực chân lý bằng thân, một người đã đạt được kiến, hay một người được giải thoát bằng đức tin? Saviṭṭha thích người được giải thoát bằng đức tin hơn, Mahā Koṭṭhita thích người đã chứng thực chân lý bằng thân, trong khi Sāriputta lại thích người đã đạt được kiến, vì nơi người đó tuệ giác được phát triển nhất.
+
+Cùng nhau, họ đến gặp Đức Phật và trình bày vấn đề với ngài; Đức Phật bảo họ rằng đây không phải là một vấn đề dễ quyết định. AN.i.118f.
 
 ## Notes

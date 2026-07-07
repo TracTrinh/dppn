@@ -5,7 +5,7 @@ base_headword: "Kuteṇḍu"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kuteṇḍu. A vassal of the <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một chư hầu của Cātummahārājikas, có mặt tại buổi thuyết giảng bài kinh Mahā Samayasutta. DN.ii.258.
 
 ## Notes

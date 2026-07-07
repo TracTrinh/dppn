@@ -5,7 +5,7 @@ base_headword: "Pānīyajātaka"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -37,6 +37,10 @@ The story was related in reference to five hundred householders of <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pānīyajātaka (Ja 459). Câu chuyện về cách sáu người trở thành các vị Pacceka Buddha nhờ cảm thấy hối hận về những tội lỗi đã phạm và nhờ phát triển tuệ giác siêu nhiên. Jātaka này lấy tên từ người đầu tiên trong số họ, một người dân làng Kāsi. Anh ta cùng với một người bạn của mình đi vào cánh đồng, mỗi người mang theo một bình nước. Thỉnh thoảng họ lại uống, nhưng người đầu tiên đã uống từ bình của người kia, với mong muốn tiết kiệm nước trong bình của mình. Đến chiều tối, anh ta cảm thấy hối hận, và khi đứng suy ngẫm về sự tồi tệ của mình, anh ta đã trở thành một vị Pacceka Buddha.
+
+Các vị Pacceka Buddha đã gặp nhau tại Nandamūlapabbhāra và cùng nhau đến thăm vua nước Benares, người chính là Bodhisatta. Sau khi nghe những câu chuyện của họ, ngài đã từ bỏ thế gian, và, bất chấp những nỗ lực can ngăn của hoàng hậu, ngài đã trở thành một đạo sĩ.
+
+Câu chuyện được kể lại liên quan đến năm trăm gia chủ ở Sāvatthī đã xuất gia làm tỳ-kheo. Họ sống trong tu viện nhưng lại đắm chìm trong những suy nghĩ tội lỗi. Đức Phật đã cử Ānanda đi gọi họ đến, và khuyên răn họ rằng dù tội lỗi có nhỏ đến đâu, nó cũng phải được ngăn chặn (Ja.iv.113ff). Vị hoàng hậu trong câu chuyện là Rāhulamātā.
 
 ## Notes

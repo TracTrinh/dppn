@@ -5,7 +5,7 @@ base_headword: "Vāsula"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vāsula. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Con trai của Candakumāra (Ja.vi.143); ông được đồng nhất với Rāhula. Ja.iv.157.
 
 ## Notes

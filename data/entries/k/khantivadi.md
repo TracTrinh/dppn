@@ -5,7 +5,7 @@ base_headword: "Khantivādī"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -25,6 +25,6 @@ Khantivādī. The title of the ascetic of the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khantivādī. Tước hiệu của vị đạo sĩ trong Khantivādījātaka (Ja 313).
 
 ## Notes

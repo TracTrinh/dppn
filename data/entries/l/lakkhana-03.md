@@ -5,7 +5,7 @@ base_headword: "Lakkhaṇa"
 disambiguator: "03"
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -34,6 +34,8 @@ The Commentary (SN­a.ii.159) explains that <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lakkhaṇa 03. Lakkhaṇa Thera. Được nhắc đến là đã ở cùng với Mahā Moggallāna trên Gijjhakūṭa. Một lần, khi họ đang xuống Rājagaha khất thực, Lakkhaṇa nhận thấy rằng tại một điểm nhất định Moggallāna mỉm cười; khi hỏi tại sao, ông được bảo hãy chờ đến khi họ gặp Đức Phật. Khi câu hỏi được lặp lại trước sự hiện diện của Đức Phật, Moggallāna nói rằng ông mỉm cười khi thấy nhiều *Petas* với hình dáng ghê rợn bay qua không trung. Từ bản văn có vẻ những thị kiến này được thấy nhiều lần vào các dịp khác nhau. SN.ii.254; Vin.iii.104ff.; các câu chuyện về một số *Petas* được thấy và về tiền kiếp của họ được kể chi tiết trong Dhp­a.ii.68ff.; iii.60ff.; 410ff., 479.
+
+Chú giải (SN­a.ii.159) giải thích rằng Lakkhaṇa là một trong số một nghìn *Jaṭilas* được Đức Phật thọ giới (khi ngài thu phục Tebhātikajaṭilas). Ông đạt quả vị *Arahant* vào cuối buổi thuyết giảng Ādittapariyāya *desanā*. Ông được gọi là Lakkhaṇa vì nhân cách kỳ diệu của mình, "như của Phạm thiên" (*Brahmasamena*). Chú giải còn cho thêm rằng việc Lakkhaṇa không thấy các *Petas* không phải vì ông thiếu thiên nhãn mà vì ông không chú ý (*anāvajjento*), như một người có thần thông phải làm. Được nói (Vin.iii.105) rằng khi Moggallāna kể lại thị kiến của mình, một số tỳ-kheo khiển trách ông vì đã tự nhận có năng lực siêu nhân (*uttarimanussadhamma*), nhưng Đức Phật tuyên bố ông vô tội.
 
 ## Notes

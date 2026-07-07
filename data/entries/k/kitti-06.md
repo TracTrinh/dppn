@@ -5,7 +5,7 @@ base_headword: "Kitti"
 disambiguator: "06"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -28,6 +28,6 @@ Kitti 06. Another general of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kitti 06. Một vị tướng khác của Parakkamabāhu I; một trong hai Daṇḍanāyakabhātaro (*q.v.*), người kia là Saṅkhadhātu. Kitti được ban cho cấp bậc Nagaragalla. Cv.lxx.280; lxxii.162.
 
 ## Notes

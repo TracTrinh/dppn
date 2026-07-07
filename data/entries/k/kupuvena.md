@@ -5,7 +5,7 @@ base_headword: "Kupuveṇa"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kupuveṇa. A village and a monastery. The story of a *Sāmaṇera* of the monas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngôi làng và một tu viện. Câu chuyện về một *Sāmaṇera* của tu viện, như được đưa ra trong Majjhima Commentary (MN­a.ii.700), là tương tự, ngoại trừ các tên gọi, với câu chuyện được đưa ra dưới mục Kabupelanda (*q.v.*).
 
 ## Notes

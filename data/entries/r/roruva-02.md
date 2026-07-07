@@ -5,7 +5,7 @@ base_headword: "Roruva"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -30,6 +30,8 @@ Roruva 02. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Roruva 02. Một địa ngục (Niraya). Chúng sinh có lẽ sinh vào đó do phỉ báng Dhamma (SN.i.30), keo kiệt (ví dụ, Ja.iii.299) và tà dâm (Ja.vi.237). Đôi khi (Ja.v.266) có nhắc đến hai Roruva, mà nhà chú giải (Ja.v.271) giải thích là Jālaroruva và Dhūmaroruva; ở loại thứ nhất, chúng sinh bị thổi những ngọn lửa nóng đỏ vào thân, và ở loại thứ hai, là các loại khí độc (*khāradhūma*).
+
+Buddhaghosa nói (SN­a.i.64) rằng Jālaroruva là một tên gọi khác của Avīci, và rằng Niraya có tên gọi này vì chúng sinh kêu la khi bị thiêu đốt ở đó (*aggimhi jalante punappunaṁ ravanti*).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kolambatittha"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -23,6 +23,6 @@ Kolambatittha. The Pāli equivalent for the modern city of Colombo. Cv.xciv.1; x
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kolambatittha. Từ tương đương trong tiếng Pāli cho thành phố Colombo hiện đại. Cv.xciv.1; xcv.4, 15.
 
 ## Notes

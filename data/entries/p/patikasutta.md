@@ -5,7 +5,7 @@ base_headword: "Pāṭikasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -34,6 +34,8 @@ The second part of the *Sutta*, which is a kind of appendix, deals with the begi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāṭikasutta. *Sutta* thứ hai mươi tư của Dīghanikāya. Đức Phật viếng thăm am thất của *paribbājaka* Bhaggava tại Anupiya và cuộc trò chuyện chuyển sang lý do mà Sunakkhatta người Licchavī đã rời bỏ Tăng đoàn. Sunakkhatta đã bất mãn vì Đức Phật không chịu thi triển những phép lạ huyền bí cho ông ta cũng như không tiết lộ cho ông ta về sự khởi đầu của vạn vật. Bản kinh cũng đề cập đến Korakkhattiya, Kandaramasuka và Pāṭikaputta, những người mà Sunakkhatta rất kính trọng vì những khổ hạnh của họ, nhưng sự phát triển tâm linh của họ lại chẳng đáng kể. Đức Phật được cho là không xem việc thực hành những phép thần thông là hoàn toàn xứng đáng.
+
+Phần thứ hai của *Sutta*, giống như một phần phụ lục, bàn về sự khởi đầu của vạn vật. DN.iii.1ff.; để xem phần thảo luận về *Sutta*, xem Dial.iii.1ff.
 
 ## Notes

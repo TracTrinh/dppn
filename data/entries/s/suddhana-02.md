@@ -5,7 +5,7 @@ base_headword: "Suddhanā"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Suddhanā 02. An eminent lay woman disciple of the Buddha. AN.iv.347.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suddhanā 02. Một nữ cư sĩ xuất chúng của Đức Phật. AN.iv.347.
 
 ## Notes

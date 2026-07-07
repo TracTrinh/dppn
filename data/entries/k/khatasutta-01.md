@@ -5,7 +5,7 @@ base_headword: "Khatasutta"
 disambiguator: "01"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -23,6 +23,6 @@ Khatasutta 01. A man who praises and blames without scrutiny, who shows apprecia
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khatasutta 01. Một người khen ngợi và chê bai mà không xem xét kỹ lưỡng, thể hiện sự trân trọng hay bất bình mà không kiểm chứng đối tượng của nó – một người như vậy mang theo một tự ngã bị nhổ rễ, vô hồn. Nhưng không phải như vậy đối với người có những phẩm chất trái ngược. AN.ii.2f.
 
 ## Notes

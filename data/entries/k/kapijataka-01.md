@@ -5,7 +5,7 @@ base_headword: "Kapijātaka"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,8 @@ The story was told in reference to a hypocritical brother. Ja.ii.268ff.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kapijātaka 01. (Ja 250). Có một thời khi Bodhisatta đang sống cuộc sống ẩn sĩ ở Himālaya, vợ ông đã qua đời, một con khỉ đã đến am thất vào mùa mưa trong trang phục của một ẩn sĩ mà nó đã tìm thấy trong rừng. Bodhisatta nhận ra con khỉ và đuổi nó đi.
+
+Câu chuyện được kể liên quan đến một vị sư huynh đạo đức giả. Ja.ii.268ff.
 
 ## Notes

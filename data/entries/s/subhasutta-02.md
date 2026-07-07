@@ -5,7 +5,7 @@ base_headword: "Subhasutta"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -28,6 +28,6 @@ Subhasutta 02. A conversation between <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subhasutta 02. Một cuộc trò chuyện giữa Subha Todeyyaputta (*q.v.*) và Ānanda tại Sāvatthī ngay sau khi Đức Phật viên tịch. Subha hỏi Ānanda rằng những phần giáo lý nào mà Đức Phật đã thường tán dương, khích lệ những người khác và thiết lập họ vào đó. Ānanda đã giải thích cho vị ấy. Bài *Sutta* (Kinh) này gần như giống hệt từng chữ với Sāmaññāphalasutta. DN.i.204-10.
 
 ## Notes

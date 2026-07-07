@@ -5,7 +5,7 @@ base_headword: "Paṇḍita"
 disambiguator: "03"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Paṇḍita 03. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇḍita 03. Một vị Pacceka Buddha, được đề cập trong một danh sách tên. MN.iii.70; Ap­a.i.107.
 
 ## Notes

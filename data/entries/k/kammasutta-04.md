@@ -5,7 +5,7 @@ base_headword: "Kammasutta"
 disambiguator: "04"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -23,6 +23,6 @@ Kammasutta 04. On action – new and old – the ceasing of action and the way l
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kammasutta 04. Về hành động — mới và cũ — sự đoạn diệt của hành động và con đường dẫn đến sự đoạn diệt đó, tức là Bát Thánh đạo. SN.iv.132.
 
 ## Notes

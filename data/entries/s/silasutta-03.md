@@ -5,7 +5,7 @@ base_headword: "Sīlasutta"
 disambiguator: "03"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -24,6 +24,6 @@ Sīlasutta 03. On four persons, as regards their respect for virtue, concentrati
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīlasutta 03. Về bốn hạng người, xét theo lòng tôn trọng của họ đối với giới, định và tuệ. AN.ii.136.
 
 ## Notes

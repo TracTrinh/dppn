@@ -5,7 +5,7 @@ base_headword: "Setuccha Thera"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -29,6 +29,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Setuccha Thera. Ngài thuộc gia đình của một lãnh chúa địa phương (*maṇḍalikavājā*), nhưng không thể duy trì nền độc lập của đất nước mình và mất ngôi vua. Trong khi lang thang trong đau khổ, ngài nhìn thấy và nghe Đức Phật, gia nhập Tăng đoàn và chứng đắc *Arahant*.
+
+Vào thời Tissa Buddha, ngài là một người tại gia và đã dâng cho Đức Phật một trái *panasa* trộn với cà-ri dừa. Mười ba *kappa* trước, ngài là một vị vua tên là Indasama (Thag.vs.102; Thag­a.i.206). Ngài hiển nhiên đồng nhất với Khajjadāyaka trong Apadāna. Ap.i.182.
 
 ## Notes

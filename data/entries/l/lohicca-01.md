@@ -5,7 +5,7 @@ base_headword: "Lohicca"
 disambiguator: "01"
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -28,6 +28,6 @@ Lohicca 01. A Brahmin of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lohicca 01. Một vị Bà-la-môn ở Makkarakaṭa thuộc Avanti. Một lần khi Mahā Kaccāna đang sống ở đó trong một am rừng, một số học trò của Lohicca đến đó và bắt đầu chửi mắng các tỳ-kheo, gọi họ là kẻ cạo đầu, kẻ phục vụ, v.v. Kaccāna đã nói chuyện với họ, bảo họ biết thế nào là sự thoái hóa của các Bà-la-môn, khác xa các Bà-la-môn ngày xưa, những người hiện nay là kẻ thoái bộ, chỉ biết tụng đọc, làm mọi việc vì lợi nhỏ. Các học trò trở về với Lohicca và kể lại điều này. Lohicca đến thăm Kaccāna và thảo luận với ông về những lời phát biểu này, và cuối cuộc nói chuyện, tuyên bố mình là tín đồ của Kaccāna. SN.iv.117ff.
 
 ## Notes

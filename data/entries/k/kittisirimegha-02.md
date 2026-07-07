@@ -5,7 +5,7 @@ base_headword: "Kittisirimegha"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -44,6 +44,6 @@ Kittisirimegha 02. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kittisirimegha 02. Con trai của Mittā, em gái của Vijayabāhu I và của một vị vua Paṇḍu (Paṇḍurājā). Māṇābharaṇa và Sirivallabha là những người anh em trai của ông, và ông đã kết hôn với con gái của Vijayabāhu, Lokanāthā (Cv.lix.42, 44). Sau cái chết của Vijayabāhu, Kittisirimegha cai trị tỉnh Dvādasasahassaka tại Mahā Nāgahula cùng với Mittā và Jayabāhu I. (Cv.lxi.22-7). Sau cái chết của Māṇābharaṇa, Kittisirimegha cũng tiếp quản tỉnh Rohaṇa của ông ta (Cv.lxiii.2). Khi Gajabāhu kế vị Vikkamabāhu II. Kittisirimegha đã chiến đấu chống lại ngài, nhưng bị viên quan của nhà vua là Gokaṇṇa đánh bại, và lui về tỉnh của mình, nơi sau này ông được Parakkamabāhu gia nhập cùng tại Saṅkhanāyakatthalī (Cv.lxiii.20, 34, 43). Parakkama đã ở lại với ông, được nhận làm con nuôi, và lễ *upanayana* của vương tử đã được tổ chức theo lệnh của Kittisirimegha tại Baddalatthalī (Cv.lxiv.18, 25, 36). Tuy nhiên, khi Parakkama trốn thoát khỏi sự bảo vệ của vị vương tử, ông đã cử một đội quân đi truy bắt vương tử, nhưng không thành công (Cv.lxvi.57ff). Về sau, đích thân Parakkama đã đến gặp Kittisirimegha cùng với mẹ mình là Ratnāvalī, và Kittisirimegha đã ra lệnh cho những người theo mình coi vị vương tử như là chủ nhân của họ. Bản thân ông đã qua đời không lâu sau đó (Cv.xvii.16, 55, 60, 83, 87).
 
 ## Notes

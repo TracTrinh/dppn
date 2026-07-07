@@ -5,7 +5,7 @@ base_headword: "Uruveḷā"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -25,6 +25,6 @@ Uruveḷā. One of the two chief women disciples of <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uruveḷā. Một trong hai nữ đệ tử hàng đầu của Kassapa Buddha. Ja.i.43; Bv.xxv.40.
 
 ## Notes

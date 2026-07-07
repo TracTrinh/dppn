@@ -5,7 +5,7 @@ base_headword: "Vāsuladattā"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -35,6 +35,12 @@ And one day, when <span class="dppn-term dppn-term-t14" data-dppn-term-pos="24" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vợ của Udena, vua xứ Kosambī. Bà là con gái của Caṇḍappajjota. Khi Pajjota nghe nói rằng sự huy hoàng của Udena vượt quá mình, ông quyết định bắt giữ ngài. Người ta nói với ông rằng Udena có thể thu phục những con voi bằng cây đàn ma thuật của mình, và ông đã cho làm một con voi bằng gỗ trong đó ông giấu sáu mươi người đàn ông. Một người đi rừng được cử đến để báo cho Udena về con voi mới xuất hiện trong rừng, và ngài đã lên đường để bắt nó. Những người đàn ông bên trong con voi làm cho nó chạy, và, trong quá trình đuổi theo, Udena đã bị tách khỏi đoàn tùy tùng của mình và bị bắt làm tù binh.
+
+Trong ba ngày, Pajjota mở tiệc ăn mừng chiến thắng của mình, và Udena yêu cầu ông hoặc thả ngài hoặc ra lệnh xử tử ngài. Pajjota hứa sẽ thả ngài nếu Udena dạy cho ông câu thần chú thu phục voi; nhưng Udena sẽ chỉ dạy cho một người đảnh lễ ngài như một vị đạo sư, và điều này thì Pajjota sẽ không làm. Sau đó Pajjota đã dàn xếp để Udena sẽ dạy nó cho Vāsuladattā. Một tấm rèm được treo giữa họ, Udena được cho biết rằng học trò của ngài là một người phụ nữ gù lưng của triều đình, trong khi Udena được mô tả với công chúa như một người mắc bệnh phong biết một câu thần chú vô giá.
+
+Trong nhiều ngày, Udena cố gắng dạy câu thần chú, nhưng công chúa không thể học được nó. Trong lúc mất kiên nhẫn, Udena nói: “Đồ gù lưng ngu ngốc, môi của cô quá dày và má của cô quá béo; ta có ý định đánh vào mặt cô.” Và công chúa trả lời: “Tên bệnh phong đê tiện, ông có ý gì khi gọi ta là kẻ gù lưng?” Udena nhấc mép rèm lên và họ nhìn thấy nhau. Từ khoảnh khắc đó họ lên kế hoạch bỏ trốn và kết hôn. Không có thêm việc học thần chú hay các bài giảng nào nữa. Khi các kế hoạch của họ đã hoàn tất, Vāsuladattā nói với cha cô rằng cô cần một phương tiện đi lại và quyền sử dụng một cánh cổng trên bức tường thành. Để thi triển thần chú, cô giải thích, cần có một loại thảo mộc nhất định, thứ phải được lấy vào ban đêm, vào thời điểm được biểu thị bởi các vì sao. Như vậy cô đã bảo đảm được việc sử dụng con voi cái của Pajjota, Bhaddavatī, và sự cho phép sử dụng một cánh cửa nhất định vào bất cứ lúc nào.
+
+Và một ngày nọ, khi Pajjota ra ngoài vui chơi, hai người đã nhét đầy nhiều túi với các đồng tiền vàng và bạc và họ khởi hành trên con voi Bhaddavatī. Lính canh hậu cung đã báo động và nhà vua cử người đuổi theo. Udena mở trước một bao vàng và sau đó là một bao bạc, rải các đồng tiền ra, điều này làm chậm trễ những kẻ truy đuổi ngài, những kẻ tham lam các đồng tiền. Trong khi đó, ngài vội vã chạy đi và đến được đồn điền nơi binh lính của ngài đang đợi ngài. Họ đưa ngài và Vāsuladattā đến Kosambī, nơi bà được phong làm chánh cung hoàng hậu của Udena. Dhp­a.i.191-6,198f.
 
 ## Notes

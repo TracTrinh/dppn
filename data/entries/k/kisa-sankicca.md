@@ -5,7 +5,7 @@ base_headword: "Kisa Saṅkicca"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -36,6 +36,10 @@ Kisa Saṅkicca. A naked ascetic (*acelaka*), contemporary with <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kisa Saṅkicca. Một đạo sĩ lõa thể (*acelaka*), sống cùng thời với Gotama Buddha và hiển nhiên là một người đứng đầu nổi tiếng của một trường phái; được đề cập cùng với Nanda Vaccha và Makkhali Gosāla (ví dụ: MN.i.238).
+
+Kisa Saṅkicca được nói đến như một trong ba ánh sáng rực rỡ của nhóm Ājīvaka (MN.i.524) và được xếp loại trong số *paramasukkhābhijātas* thuộc *chaḷabhijāti* của các Ājīvaka (*q.v.*) (AN.iii.384; DN­a.i.162).
+
+Buddhaghosa nói (MN­a.i.463) rằng Kisa là tên cá nhân của ông và Saṅkicca là tên *gotta* của ông.
 
 ## Notes

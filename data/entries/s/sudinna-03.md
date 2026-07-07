@@ -5,7 +5,7 @@ base_headword: "Sudinna"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -35,6 +35,6 @@ Sudinna 03. Evidently a famous commentator. <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudinna 03. Rõ ràng là một nhà chú giải nổi tiếng. Buddhaghosa trích dẫn (DN­a.ii.566; AN­a.ii.551) ông khi nói rằng không có lời nào của Đức Phật mà không phải là *Sutta* (*asuttaṁ nāma kiṁ Buddhavacanaṁ atthi*?) và do đó từ chối Jātaka, Paṭisambhidā, Niddesa, Suttanipāta, Dhammapada, Itivuttaka, Vimānavatthu, Petavatthu, Theragāthā, Therīgāthā và Apadāna.
 
 ## Notes

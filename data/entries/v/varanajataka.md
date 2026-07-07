@@ -5,7 +5,7 @@ base_headword: "Varaṇajātaka"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -28,6 +28,8 @@ The story was told in reference to <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Varaṇajātaka (Ja 71). Bodhisatta từng là một vị thầy ở Takkasilā, với năm trăm đệ tử là các Bà-la-môn. Một ngày nọ, ngài sai các đệ tử vào rừng để kiếm củi, nhưng có một người lười biếng đã đi ngủ, và khi những người bạn đồng đạo đánh thức anh ta dậy, anh ta đã trèo lên một cái cây và bẻ những cành cây còn tươi. Một trong những cành cây đó đập vào mắt anh ta và làm anh ta bị thương. Ngày hôm sau, các đệ tử được mời đến dùng bữa tại một ngôi làng xa xôi và một cô tớ gái được dặn nấu cho họ một ít cháo sớm, trước khi họ khởi hành. Cô ta châm lửa bằng số củi tươi nằm phía trên đống củi, và ngọn lửa không thể cháy được. Củi tươi đã bị người đệ tử lười biếng ném vào đó cuối cùng, người đã trở về trễ nhất. Các đệ tử không thể khởi hành đúng giờ và chuyến đi đã phải bị hủy bỏ.
+
+Câu chuyện này được kể lại liên quan đến Kuṭumbikaputtatissa, người được đồng nhất với thanh niên Bà-la-môn kia. Ja.i.316ff.
 
 ## Notes

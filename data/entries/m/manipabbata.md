@@ -5,7 +5,7 @@ base_headword: "Maṇipabbata"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Maṇipabbata, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇipabbata, Maṇipassapabbata. Một dãy núi thuộc Himālaya. (Ja.ii.92; v.38, 415; Snp­a.i.358.)
 
 ## Notes

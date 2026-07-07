@@ -5,7 +5,7 @@ base_headword: "Kavisutta"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -23,6 +23,6 @@ Kavisutta 02. On the four kinds of poets: the imaginative (*cintā-kavi*), the t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kavisutta 02. Bàn về bốn loại nhà thơ: nhà thơ tưởng tượng (cintā-kavi), nhà thơ truyền thống (suta-kavi), nhà thơ mô phạm (attha-kavi), và nhà thơ tùy hứng (paṭibhāna). AN.ii.230.
 
 ## Notes

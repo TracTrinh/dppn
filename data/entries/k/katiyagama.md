@@ -5,7 +5,7 @@ base_headword: "Kaṭiyāgāma"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kaṭiyāgāma. A village in Ceylon where <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṭiyāgāma. Một ngôi làng ở Tích Lan nơi các tướng sĩ của Gajabāhu đã tiêu diệt một số lượng lớn kẻ thù của ông (Cv.lxx.67).
 
 ## Notes

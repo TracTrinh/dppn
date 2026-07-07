@@ -5,7 +5,7 @@ base_headword: "Vāhamavāpi"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vāhamavāpi. A tank built by King <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vāhamavāpi. Một hồ chứa nước do vua Mahā Sena xây dựng. Mhv.xxxvii.48.
 
 ## Notes

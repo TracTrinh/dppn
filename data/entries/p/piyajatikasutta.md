@@ -5,7 +5,7 @@ base_headword: "Piyajātikasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -29,6 +29,8 @@ Piyajātikasutta. The Buddha tells a householder, who is mourning for his son, t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piyajātikasutta. Đức Phật nói với một vị gia chủ, người đang thương tiếc đứa con trai của mình, rằng những người thân yêu luôn mang lại nỗi buồn và sự thống khổ. Tuy nhiên, người đàn ông này không đồng tình với quan điểm đó và không ngần ngại nói như vậy ở bất cứ nơi nào ông đến.
+
+Pasenadi đã chế nhạo Mallikā về điều này, và bà đã phái Nālijaṅgha đến gặp Đức Phật để hỏi xem đây có phải là những lời Ngài đã nói hay không. Đức Phật đã thuyết phục ông bằng nhiều ví dụ khác nhau rằng nhận định đó là đúng, và khi điều này được báo lại cho Mallikā, bà đã có thể chứng minh cho Pasenadi thấy rằng giáo pháp của Đức Phật là phù hợp với sự thật. MN.ii.106 ff.
 
 ## Notes

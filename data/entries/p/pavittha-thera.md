@@ -5,7 +5,7 @@ base_headword: "Paviṭṭha Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -36,6 +36,10 @@ He is evidently identical with <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paviṭṭha Thera. Một Bà-la-môn ở Magadha, làm theo khuynh hướng của riêng mình, đã trở thành một *Paribbājaka*. Việc rèn luyện của ngài đã kết thúc, ngài đi du hành đây đó và nghe tin Upatissa và Koḷita đã gia nhập Tăng đoàn của Đức Phật. Bị ấn tượng bởi tấm gương của họ, ngài đã trở thành một tỳ-kheo và, ngay sau đó, một *Arahant*.
+
+Vào thời của Đức Phật Atthadassī, ngài là một ẩn sĩ tên là Nāradakesava và đã bày tỏ sự tôn kính với Đức Phật. Mười bảy *kappa* trước, ngài là một vị vua tên là Amittatāpana (Thag.vs.87; Thag­a.i.185f).
+
+Ngài hiển nhiên đồng nhất với Ekadaṁsaniya của Apadāna. Ap.i.168f.
 
 ## Notes

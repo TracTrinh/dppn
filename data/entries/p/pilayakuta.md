@@ -5,7 +5,7 @@ base_headword: "Pilayakūṭa"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Pilayakūṭa. Evidently another name for <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pilayakūṭa. Rõ ràng đây là một tên gọi khác của Sīlakūṭa. Xem Mbv. 126, 128, 129.
 
 ## Notes

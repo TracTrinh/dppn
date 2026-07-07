@@ -5,7 +5,7 @@ base_headword: "Lomahaṁsa"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -25,6 +25,6 @@ Lomahaṁsa. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lomahaṁsa. Một vị Pacceka Buddha, được nhắc đến trong một danh sách tên. MN.iii.70; Ap­a.i.107.
 
 ## Notes

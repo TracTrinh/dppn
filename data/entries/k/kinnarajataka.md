@@ -5,7 +5,7 @@ base_headword: "Kinnarajātaka"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kinnarajātaka = <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kinnarajātaka = Bhattātiyajātaka. Được tìm thấy trên *Bhilsa Tope* dưới cái tên này, hiển nhiên là để phân biệt với Candakinnarajātaka. Xem Cunningham: *Bhilsa Tope*, Pl.27.
 
 ## Notes

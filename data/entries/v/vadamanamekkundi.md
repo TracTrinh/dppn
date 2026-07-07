@@ -5,7 +5,7 @@ base_headword: "Vaḍamaṇamekkuṇḍi"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vaḍamaṇamekkuṇḍi. A locality in South India burnt by <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaḍamaṇamekkuṇḍi. Một địa danh ở Nam Ấn Độ bị Laṅkāpura đốt phá. Cv.lxxvii.87.
 
 ## Notes

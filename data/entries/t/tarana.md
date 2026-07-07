@@ -5,7 +5,7 @@ base_headword: "Taraṇa"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Taraṇa. A king of fifty-eight *kappas* ago, a former birth of <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Taraṇa. Một vị vua cách đây năm mươi tám kappa, một kiếp quá khứ của Khadiravaniya Revata. Ap.i.51; Thag­a.i.109.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Katthīsutta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Katthīsutta. Preached to the monks at <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Katthīsutta. Được Mahā Cunda thuyết giảng cho các tỳ-kheo tại Sahajātī. Bài kinh bàn về mười phẩm chất mà một tỳ-kheo nên rũ bỏ nếu muốn tăng trưởng và thăng tiến trong dhammavinaya. AN.v.157ff.
 
 ## Notes

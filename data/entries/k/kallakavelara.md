@@ -5,7 +5,7 @@ base_headword: "Kallakaveḷāra"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,6 @@ Kallakaveḷāra. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kallakaveḷāra. Một thủ lĩnh người Damiḷa, anh trai của vợ của Toṇḍamāna. Ông đã bị Laṅkāpura giết chết. Cv.lxxvii.40, 50.
 
 ## Notes

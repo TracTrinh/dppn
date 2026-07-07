@@ -5,7 +5,7 @@ base_headword: "Karatiya"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Karatiya. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Karatiya. Một Yakkha, được đề cập trong Āṭānāṭiyasutta như là một trong những thủ lĩnh Yakkha chính cần được kêu cầu bởi các đệ tử của Đức Phật khi họ cần sự bảo vệ. DN.iii.204.
 
 ## Notes

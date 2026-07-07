@@ -5,7 +5,7 @@ base_headword: "Khuddasikkhā"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -28,6 +28,6 @@ Khuddasikkhā. A Compendium of the Vinaya, composed by <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khuddasikkhā. Một bản tóm lược của Vinaya, do Dhammasiri biên soạn và được cho là thuộc một thời kỳ trước Buddhaghosa (JPTS 1883, pp.86f). Đối với bản Tóm lược này có một bản diễn giải tiếng Sinhalese vào thế kỷ 11, và dựa trên bản Tóm lược này là một cuốn *Porāna­ṭīkā* do Revata viết và một cuốn khác của Saṅgharakkhita. Để biết chi tiết, xem PLC., 77; Bode, 24; xem thêm Sās.69; Svd. 1208f; Gv.62, 70; Sās-d.64.
 
 ## Notes

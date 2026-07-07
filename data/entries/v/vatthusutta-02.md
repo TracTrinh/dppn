@@ -5,7 +5,7 @@ base_headword: "Vatthusutta"
 disambiguator: "02"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -23,6 +23,6 @@ Vatthusutta 02. Two *Suttas*, one of the ten causes of malice (*āghāta*), and 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hai bài *Sutta*, một bài về mười nguyên nhân của sự thù hận (*āghāta*), và bài kia về mười phương thuốc cho điều tương tự. AN.v.150f.
 
 ## Notes

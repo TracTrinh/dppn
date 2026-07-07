@@ -5,7 +5,7 @@ base_headword: "Savattha"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Savattha. A sage. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Savattha. Một vị hiền giả. Sāvatthī được xây dựng trên nền am thất của ông. Snp­a.i.300; Paṭis-a.367.
 
 ## Notes

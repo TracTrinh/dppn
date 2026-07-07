@@ -5,7 +5,7 @@ base_headword: "Tapassusutta"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -33,6 +33,10 @@ The Commentary (AN­a.ii.814) on this passage makes no attempt to distinguish hi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tapassusutta (Tapussasutta). Vị gia chủ Tapassu đến thăm Ānanda tại Uruvelakappa, và tỏ vẻ ngạc nhiên khi thấy những thanh niên đang ở độ tuổi thanh xuân tràn trề sức sống lại có thể từ bỏ những thú vui của đời sống gia đình và gia nhập Tăng đoàn. Ānanda dẫn Tapassu đến gặp Đức Phật, lúc ngài đang nghỉ trưa dưới gốc cây trong Mahā Vana, và lặp lại lời nhận xét của Tapassu. Đức Phật thuật lại cho Ānanda nghe về việc bản thân ngài đã đạt đến Phật quả như thế nào bằng cách trải qua chín giai đoạn liên tiếp, *anupubbavihārā*. Chín giai đoạn này bao gồm bốn *jhāna* (thiền), bốn *āyatana* (*ākāsānañcāyatana*, v.v.), và, như là giai đoạn tột đỉnh, *saññāvedayitanirodha* (AN.iv.438ff).
+
+Vị Tapassu được nhắc đến ở đây rõ ràng là đồng nhất với người anh em của Bhalluka.
+
+Chú giải (AN­a.ii.814) cho đoạn văn này không cố gắng để phân biệt ông với bất kỳ ai khác.
 
 ## Notes

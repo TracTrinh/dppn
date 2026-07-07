@@ -5,7 +5,7 @@ base_headword: "Kappūrarmūlāyatana."
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,6 @@ Kappūrarmūlāyatana. This probably refers to the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kappūrarmūlāyatana. Điều này có lẽ đề cập đến Kappūrapariveṇa (Geiger: Cv.Trs.i.222, n.7). Yasodharā, con gái của Vijayabāhu I., đã xây dựng một ngôi nhà đặt tượng (tượng Phật) lớn và đẹp đẽ tại đây. Cv.lx.83.
 
 ## Notes

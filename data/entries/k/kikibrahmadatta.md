@@ -5,7 +5,7 @@ base_headword: "Kikībrahmadatta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,6 @@ Kikībrahmadatta. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kikībrahmadatta. Con trai của Suyāma và là chắt của Vua Kikī; xem Ekadhammasavaniya Thera (1).
 
 ## Notes

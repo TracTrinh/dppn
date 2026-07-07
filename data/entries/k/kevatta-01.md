@@ -5,7 +5,7 @@ base_headword: "Kevaṭṭa"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -31,6 +31,8 @@ Kevaṭṭa 01. A householder of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kevaṭṭa 01. Một gia chủ ở Nālandā. Có một lần khi Đức Phật đang lưu lại Pāvārika-ambavana ở Nālandā, Kevaṭṭa đã đến thăm ngài. Cuộc trò chuyện này được ghi lại trong Kevaṭṭasutta. (DN.i.211ff).
+
+Buddhaghosa (DN­a.i.388) nói về ông như một gia chủ trẻ tuổi, xuất chúng và giàu có, thuộc về dòng dõi gahapati-Mahā Sāla-kula, với số tài sản lên đến bốn mươi crore. Ông có một lòng mộ đạo rất lớn, và chính lòng sùng kính sâu sắc đối với Đức Phật đã khiến ông đưa ra yêu cầu được ghi lại trong Kevaṭṭasutta.
 
 ## Notes

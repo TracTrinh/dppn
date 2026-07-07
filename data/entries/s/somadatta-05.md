@@ -5,7 +5,7 @@ base_headword: "Somadatta"
 disambiguator: "05"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Somadatta 05. A Brahmin of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Somadatta 05. Một Bà-la-môn ở Sāvatthī. Một lần ông chơi xúc xắc với một Bà-la-môn khác là Soma và chiếm đoạt tài sản của người kia, kể cả áo trên và nhẫn con dấu. Khi Soma nói không thể đi chân trần về nhà, cũng không thể gặp gia đình mà không có nhẫn, Somadatta đã trả lại những thứ đã thắng và hai người trở nên bạn thân thiết. Sau đó, Somadatta bị kết án tử vì nhiều lần ngoại tình. Khi Soma phát hiện điều này, hắn xin đổi mạng thay và bị giết. Hắn được tái sinh thành một Deva và đem Somadatta lên cõi Deva một tuần, rồi gửi ông trở lại với một viên ngọc ban điều ước. Về sau, Somadatta cũng được sinh gần Soma. Ras.i.46f.
 
 ## Notes

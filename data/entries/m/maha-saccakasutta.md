@@ -5,7 +5,7 @@ base_headword: "Mahā Saccakasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -29,6 +29,6 @@ Mahā Saccakasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Saccakasutta. Saccaka viếng thăm Đức Phật tại Kūṭāgārasālā và hỏi Ngài về việc rèn luyện thân và tâm. Đức Phật mô tả cho ông về quá trình rèn luyện mà Ngài đã trải qua từ lúc xuất gia cho đến khi Giác ngộ, không dừng lại ở bất kỳ sự nỗ lực nào, không tránh né bất kỳ sự khổ hạnh nào cho đến khi, cuối cùng, trí tuệ đã đến với Ngài, và Ngài nhận ra rằng niềm hỷ lạc không thể có được với một cơ thể tiều tụy. Nhóm Pañcavaggiya, những người đã ở cùng Ngài cho đến lúc đó, đã rời bỏ Ngài trong sự chán ghét. Nhưng Ngài vẫn kiên trì, và, cuối cùng, đã tận diệt các *āsava*. Saccaka, được gọi trong bài *Sutta* này là Aggivessana, bày tỏ sự ngưỡng mộ to lớn đối với Đức Phật và thừa nhận sự vượt trội của Ngài so với những vị đạo sư khác. MN.i.237-51; xem Thomas: *Life and Legend of the Buddha*, 58.
 
 ## Notes

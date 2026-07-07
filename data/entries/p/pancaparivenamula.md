@@ -5,7 +5,7 @@ base_headword: "Pañcapariveṇamūla"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -33,6 +33,8 @@ A *Pañcapariveṇādhipati* was author of the Pāli medical work, the <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcapariveṇamūla. Một tu viện ở Tích Lan. Vào một thời điểm, Abhaya là trưởng đoàn tỳ-kheo ở đó và đã can thiệp với người đứng đầu của Kuṭhārasabhā trong việc giải quyết những bất đồng giữa Kittisirimegha và vị hoàng tử (người sau này trở thành Parakkamabāhu I.) (Cv.lxvii.61).
+
+Một vị *Pañcapariveṇādhipati* là tác giả của tác phẩm y học bằng tiếng Pāli, cuốn Bhesajjamañjūsā, trong triều đại của Parakkamabāhu IV nước Jambuddoṇi. PLC.244.
 
 ## Notes

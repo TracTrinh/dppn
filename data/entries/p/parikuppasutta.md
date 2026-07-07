@@ -5,7 +5,7 @@ base_headword: "Parikuppasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -23,6 +23,6 @@ Parikuppasutta. Five kinds of persons who lie festering (*parikuppa*) in hell: t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parikuppasutta. Năm hạng người nằm thối rữa (*parikuppa*) trong địa ngục: những người giết mẹ, cha, hoặc *Arahant*, ác ý làm chảy máu Đức Phật, hoặc gây chia rẽ trong Tăng đoàn. AN.iii.146.
 
 ## Notes

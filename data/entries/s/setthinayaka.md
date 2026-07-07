@@ -5,7 +5,7 @@ base_headword: "Seṭṭhināyaka"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -28,6 +28,6 @@ Seṭṭhināyaka. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Seṭṭhināyaka. Một Lambakaṇṇa của vùng Moriya. Ông, cùng với bốn Lambakaṇṇa khác, đã cầm vũ khí dưới triều Parakkamābāhu I và đem đến cho ngài một ngàn chiến binh. Cv.lxix.12.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kalyāṇamittavagga"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kalyāṇamittavagga. The eighth chapter of the *Ekanipāta* of the <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kalyāṇamittavagga. Chương thứ tám thuộc *Ekanipāta* của Aṅguttaranikāya. AN.i.14f.
 
 ## Notes

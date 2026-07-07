@@ -5,7 +5,7 @@ base_headword: "Paṭhavivindhara"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Paṭhavivindhara 01. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṭhavivindhara 01. Một vị vua *Nāga*, một tiền kiếp của Rāhula 01. AN­a.i.142, etc.; nhưng xem Rāhula.
 
 ## Notes

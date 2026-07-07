@@ -5,7 +5,7 @@ base_headword: "Romakajātaka"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Romakajātaka. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Romakajātaka. *v.l.* Pārāpatajātaka (Ja 277). Bodhisatta có lần sinh làm vua của một đàn bồ câu. Trong một thời gian dài, chúng thường xuyên đến thăm một vị khổ hạnh tốt lành sống trong một hang động gần đó, cho đến một ngày, vị ấy rời đi và chỗ của ông bị một kẻ khổ hạnh giả mạo chiếm lấy. Đàn bồ câu vẫn tiếp tục lui tới, cho đến một ngày dân làng dâng cho kẻ khổ hạnh ấy một món thịt bồ câu, và hắn, thích hương vị đó, nảy sinh ý muốn giết đàn bồ câu. Bodhisatta, nghi ngờ ý đồ của hắn, đã cảnh báo các đồng loại của mình và tố cáo kẻ khổ hạnh ấy là giả dối. Ja.ii.382-4; cp. Godhajātaka (Ja 325).
 
 ## Notes

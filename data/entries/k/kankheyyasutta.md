@@ -5,7 +5,7 @@ base_headword: "Kaṅkheyyasutta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -29,6 +29,6 @@ Kaṅkheyyasutta. The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṅkheyyasutta. Người Sākyan Mahā Nāma đến thăm Lomasavaṅgīsa tại Nigrodhārāma ở Kapilavatthu và hỏi ông liệu lối sống của bậc hữu học có giống với lối sống của một Tathāgata hay không. Vị Trưởng lão nói không; bậc hữu học nỗ lực từ bỏ năm triền cái (*nīvaraṇa*); các vị Arahant đã hoàn toàn đoạn tận chúng. SN.v.327f.
 
 ## Notes

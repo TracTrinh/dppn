@@ -5,7 +5,7 @@ base_headword: "Yavapālakavimānavatthu"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -27,6 +27,6 @@ Yavapālakavimānavatthu. The story of a *yavapālaka* of <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yavapālakavimānavatthu. Câu chuyện về một người *yavapālaka* của Rājagaha, người đã dâng một bữa cháo chua (*kummāsa*) cho một vị *Arahant*, và, kết quả là, được sinh ra ở Tāvatiṁsa nơi Moggallāna gặp ông và biết được câu chuyện của ông. Vv.iv.7; Vv-a.294.
 
 ## Notes

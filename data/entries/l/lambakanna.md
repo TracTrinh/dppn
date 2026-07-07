@@ -5,7 +5,7 @@ base_headword: "Lambakaṇṇā"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -53,6 +53,12 @@ The name may have had a totemistic origin, but according to some Sinhalese Chron
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lambakaṇṇā, Lambakaṇṇas. Một *gotta*, được nhắc đến trong các biên niên sử là nằm trong số những cư dân của Tích Lan. Các Lambakaṇṇa có lẽ có một số nhiệm vụ nhất định phải thực hiện liên quan đến lễ đăng quang của một vị vua. Đây có thể là lý do tại sao Parakkamabāhu I. đã cho họ một vị trí nổi bật trong các nghi lễ được tổ chức để tôn vinh Xá-lợi Răng (Cv.lxxiv.213); xem thêm dưới đây trong bản văn.
+
+Ta thấy rằng Iḷanāga, khi đến tắm lễ ở Tissavāpi, đã nổi giận khi thấy các Lambakaṇṇā vắng mặt. Để trừng phạt, ông ra lệnh họ phải làm việc tái tạo con đường dọc theo bờ hồ, dẫn đến Mahā Thūpa, và cử các *caṇḍāla* giám sát họ. Đầy tức giận, các Lambakaṇṇa nổi dậy và chiếm lấy ngai vàng. Ba năm sau nhà vua từ lưu vong trở về, và sau khi đánh bại các Lambakaṇṇa, đã bắt họ kéo xe ngựa trong cuộc diễu hành khải hoàn. Khi ông định chặt đầu họ thì mẹ ông can ngăn, và ông bằng lòng với việc cho cắt mũi và ngón chân của họ (Mhv.xxxv.18ff).
+
+Các Lambakaṇṇa rõ ràng là một tộc họ quyền thế, và một số thành viên của tộc đã cai trị với tư cách là vua Tích Lan — vd., Vasabha, Saṅghatissa, Saṅghabodhi và Goṭhābhaya, ba người cuối trong số đó đến từ Mahiyaṅgaṇa và chiếm ngai vàng từ tay Vijayakumāra (Mhv.xxxvi.58ff). Trong khoảng thời gian từ triều đại của Kittisirimegha đến cuộc chinh phục của người Coḷiyan năm 1017 CN, tức là từ thế kỷ thứ ba đến thế kỷ thứ mười một, trong số ba mươi sáu vị vua đã lên ngôi ở Tích Lan, đa số thuộc dòng tộc Moriyā hoặc Lambakaṇṇā. Một nhánh Lambakaṇṇa còn sống ở Nam Ấn Độ vào thế kỷ mười hai. Khi Laṅkāpura, theo lệnh của Parakkamabāhu I., trao vương miện cho Vīrapaṇḍu làm vua xứ Paṇḍu, ba thủ lĩnh Lambakaṇṇa được yêu cầu thực hiện "các bổn phận của người Lambakaṇṇa" (*Lambakaṇṇadhuraṁ*) (Cv.lxxvii.27f).
+
+Tên gọi này có thể có nguồn gốc liên quan đến tín ngưỡng vật tổ, nhưng theo một số biên niên sử Sinhalese (vd., *Saddharmaratnākara* và *Pārakumbāsirita*), các Lambakaṇṇa ở Tích Lan là một nhánh của Moriyas. Họ tự nhận là hậu duệ của Sumitta — một hoàng tử của tộc Moriyan, là một trong những người hộ tống đưa cây bodhi từ Ấn Độ sang — và Sumanā, một công chúa cùng dòng tộc, từng là một ni cô, được thọ giới dưới sự hướng dẫn của Saṅghamittā. Theo các biên niên sử này, hầu hết các vua Tích Lan cho đến thời Parakkamabāhu VI. đều là dòng dõi của tộc họ này. Ở Tích Lan, các Lambakaṇṇa có khu định cư ở Rohaṇa. Xem, vd., AN­a.i.262.
 
 ## Notes

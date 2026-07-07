@@ -5,7 +5,7 @@ base_headword: "Upanisinnavagga"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Upanisinnavagga. The fourth chapter of the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upanisinnavagga. Chương thứ tư của Rādha Saṁyutta thuộc Saṁyuttanikāya. SN.iii.200ff.
 
 ## Notes

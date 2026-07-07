@@ -5,7 +5,7 @@ base_headword: "Paṇḍaka"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Paṇḍaka 01. A monk, friend of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇḍaka 01. Một vị tỳ-kheo, bạn của Kapila, sống tại một ngôi làng gần Kosambī. Sư bị kết tội đã lấy những gì không thuộc về mình và cũng phạm tội tà dâm. Vin.iii.67.
 
 ## Notes

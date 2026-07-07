@@ -5,7 +5,7 @@ base_headword: "Upavāṇasutta"
 disambiguator: "03"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Upavāṇasutta 03. The Buddha explains, in answer to a question of <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upavāṇasutta 03. Đức Phật giải thích, để trả lời cho một câu hỏi của Upavāṇa, về cách mà Pháp mang lại kết quả ngay lập tức (*sandiṭṭhika*). SN.iv.41f.
 
 ## Notes

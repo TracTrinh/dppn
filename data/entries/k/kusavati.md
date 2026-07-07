@@ -5,7 +5,7 @@ base_headword: "Kusāvātī"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -38,6 +38,10 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một thành phố trong vương quốc của người Mallas. Trong thời đại hiện tại nó được gọi là Kusinārā. Nó từng là kinh đô của Mahā Sudassana và có chiều dài mười hai do-tuần, chiều rộng mười hai do-tuần, thịnh vượng và đông đúc, giống như Āḷakamandā (DN.ii.146f; Ja.i.392; Cp.i.4; Divy.227). Khi đó nó đứng đầu trong số tám mươi bốn thị trấn (SN.iii.144).
+
+Mahā Sudassanasutta (DN.ii.170f) chứa đựng một mô tả dài về thành phố này. Nó là thủ đô của một vài vị vua thuộc triều đại Mahā Sammata (Mhv.ii.7; Dpv.iii.9), bao gồm Okkāka, cha của Kusa (Ja.v.278ff).
+
+Trong thời của Metteya Buddha, Mahā Sammata sẽ được biết đến với tên gọi là Ketumatī (Anāg.v.18).
 
 ## Notes

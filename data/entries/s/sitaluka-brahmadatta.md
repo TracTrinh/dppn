@@ -5,7 +5,7 @@ base_headword: "Sītāluka Brahmadatta"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -27,6 +27,6 @@ Sītāluka Brahmadatta. King of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sītāluka Brahmadatta. Vua xứ Benares. Ông từ bỏ thế tục và sống trong rừng, nhưng ở đó ông thiếu thức ăn và nước uống, và bị quấy nhiễu bởi nóng, lạnh và côn trùng. Ông muốn đi nơi khác, nhưng đã chế ngự được ham muốn ấy, và, sau khi sống ở đó bảy năm, trở thành một Pacceka Buddha. Bài kệ của ông được đưa vào Khaggavisāṇasutta. Snp.vs.52; Snp­a.i.101.
 
 ## Notes

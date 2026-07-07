@@ -5,7 +5,7 @@ base_headword: "Rūpavagga"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rūpavagga. The first chapter of the *Ekanipāta* of the <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rūpavagga. Chương đầu tiên của *Ekanipāta* thuộc Aṅguttaranikāya. AN.i.1, 2.
 
 ## Notes

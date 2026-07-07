@@ -5,7 +5,7 @@ base_headword: "Kāḷa"
 disambiguator: "07"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -26,6 +26,6 @@ Kāḷa 07. A young stag, son of the Bodhisatta; a previous birth of <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷa 07. Một con nai đực non, con trai của Bodhisatta; một kiếp trước của Devadatta. Câu chuyện được đưa ra trong Lakkhaṇajātaka. Ja.i.142f.
 
 ## Notes

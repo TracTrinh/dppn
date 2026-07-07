@@ -5,7 +5,7 @@ base_headword: "Taṇhāsutta"
 disambiguator: "09"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Taṇhāsutta 09. Desire and lust for visible shape, etc; these are a corruption
 
 ## Vietnamese translation
 
-Chưa dịch.
+Taṇhāsutta 09. Lòng khao khát và tham muốn đối với sắc hữu kiến, v.v; đây là một sự ô uế của tâm. SN.iii.234.
 
 ## Notes

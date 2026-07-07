@@ -5,7 +5,7 @@ base_headword: "Pañcuddharaṭṭha"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Pañcuddharaṭṭha. The name of the districts lying round the modern city of K
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcuddharaṭṭha. Tên của các quận nằm quanh thành phố Kandy ngày nay. Cv.xciv.4; xcv.23, 24; xcvi.17; xem Geiger, Cv.Trs.ii.233, n.2.
 
 ## Notes

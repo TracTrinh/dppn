@@ -5,7 +5,7 @@ base_headword: "Mahā Panāda"
 disambiguator: "01"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -31,6 +31,6 @@ Mahā Panāda 01. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Panāda 01. Con trai của Suruci và là vị vua của Mithilā. Nhà vua sở hữu một cung điện cao một trăm tầng, tất cả đều bằng ngọc lục bảo; nó cao bằng một ngàn tầm bắn của mũi tên (hai mươi lăm do-tuần) và rộng mười sáu tầm, và chứa được sáu ngàn nhạc công. Mahā Panāda là một tiền kiếp của Bhaddaji. Xem Mahā Panādajātaka và thêm Kosalā. Xem thêm Saṅkha (3).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vasabha"
 disambiguator: "03"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vasabha 03. A Brahmin of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một Bà-la-môn của làng Varuṇa. Con gái của ông đã dâng sữa tươi nấu gạo cho Piyadassī Buddha trước sự Giác ngộ của Ngài. Bv­a.172.
 
 ## Notes

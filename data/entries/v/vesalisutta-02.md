@@ -5,7 +5,7 @@ base_headword: "Vesālīsutta"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/066.html"
@@ -26,6 +26,6 @@ Vesālīsutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vesālīsutta 02. Ugga đến viếng thăm Đức Phật tại Kūṭāgārasālā và hỏi một câu hỏi; Đức Phật giải thích cho ông rằng chính việc bám víu vào các đối tượng, v.v., là điều ngăn cản một số người không được hoàn toàn giải thoát trong ngay kiếp sống này. SN.iv.109.
 
 ## Notes

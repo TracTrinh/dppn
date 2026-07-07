@@ -5,7 +5,7 @@ base_headword: "Vaṇijjāsutta"
 disambiguator: "01"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vaṇijjāsutta 01. The Buddha explains to <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaṇijjāsutta 01. Đức Phật giải thích cho Sāriputta, để trả lời cho câu hỏi của ông, về lý do tại sao một số người thành công trong công việc buôn bán của họ trong khi những người khác thì lại không, và trong trường hợp của những người khác nữa, họ thậm chí còn thành đạt vượt ngoài sự mong đợi của mình. AN.ii.81f.
 
 ## Notes

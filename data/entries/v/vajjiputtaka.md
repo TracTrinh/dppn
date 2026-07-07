@@ -5,7 +5,7 @@ base_headword: "Vajjiputtakā"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -80,6 +80,25 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="42" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vajjiputtakā, Vajjiputtakas, Vajjiputtiyā, Vajjiputtiyas. Tên của một nhóm lớn các tỳ-kheo thuộc tộc Vajjī và cư trú ở Vesālī, là những người, một thế kỷ sau khi Gotama Buddha viên tịch, đưa ra Mười Điều (*dasa vatthūni*) cho là được phép đối với các thành viên Tăng đoàn. Mười điều đó như sau:
+
+- (1) Cất giữ muối trong sừng (*siṅgiloṇakappa*);
+- (2) Ăn thức ăn khi bóng mặt trời đã qua quá ngọ hai ngón tay (*duvaṅgulakappa*);
+- (3) Ăn một lần rồi lại đến làng khất thực lần nữa (*gāmantarakappa*);
+- (4) Tổ chức *uposatha* riêng biệt cho các tỳ-kheo sống trong cùng một khu vực (*āvāsakappa*);
+- (5) Tiến hành một hành vi chính thức khi chúng hội chưa đủ số (*anumatikappa*);
+- (6) Thực hành theo một điều bởi vì thầy hay giáo thọ của mình đã làm như vậy (*āciṇṇakappa*);
+- (7) Uống sữa chua khi đã ăn bữa trưa rồi (*amathitakappa*);
+- (8) Dùng rượu chưa lên men (*jalogikappa*);
+- (9) Dùng tọa cụ không đúng kích cỡ (*nisīdanakappa*);
+- (10) Dùng vàng và bạc (*jātarūparajatakappa*).
+
+Các tỳ-kheo chính thống từ chối đồng ý với những điều này, và một trong những người dẫn đầu của họ, Yasa Kākaṇḍakaputta, đã công khai lên án hành động của những Vajjiputtakas. Yasa rời Kosambī, và sau khi triệu tập các tỳ-kheo từ Pāvā ở phía tây và Avanti ở phía nam, tìm gặp Sambhūta Sāṇavāsi ở Ahogaṅga. Theo lời khuyên của ông, họ tìm gặp Soreyya Revata, và cùng nhau tham vấn Sabbakāmi tại Vālikārāma. Trong Hội đồng diễn ra sau đó, Mười Điều bị tuyên bố là vô hiệu, và quyết định này được truyền đạt đến các tỳ-kheo. Không lâu sau, một cuộc trùng tụng Pháp được tổ chức với bảy trăm tỳ-kheo tham gia dưới sự lãnh đạo của Soreyya Revata. Cuộc trùng tụng kéo dài tám tháng.
+
+Câu chuyện về dị giáo Vajjiputtaka được ghi trong chương thứ mười hai của Cūḷa Vagga (Vin.ii.294ff.); Mhv.iv.9ff. cung cấp thêm chi tiết ở một số khía cạnh; see also Dpv.iv.48ff.; v.17ff.; 32ff.
+
+Đáng chú ý là ngay cả trong thời Đức Phật còn sống, năm trăm tỳ-kheo được mô tả là Vajjiputtakā đã ly khai khỏi Tăng đoàn và theo Devadatta, dù họ sau đó được Sāriputta và Moggallāna dẫn trở về (Vin.ii.199f.). Buddhaghosa thực sự (Vin-a.i.228) đồng nhất những người dị giáo là thuộc cùng một phe. Để biết vai trò của Yasa Trưởng lão, xem Yasa (2).
+
+Những Vajjiputtakas từ chối chấp nhận phán quyết của Hội đồng Revata và lập thành một bộ phái riêng, những Mahā Saṅghikas, gồm mười nghìn tỳ-kheo, tổ chức trùng tụng riêng của họ.
 
 ## Notes

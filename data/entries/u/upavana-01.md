@@ -5,7 +5,7 @@ base_headword: "Upavāṇa"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -49,6 +49,16 @@ A monk whom the man consulted after this miracle foretold that for thirty thousa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upavāṇa 01. Một vị Trưởng lão. Ông thuộc về một gia đình Bà-la-môn rất giàu có ở Sāvatthī, và sau khi nhìn thấy sự oai nghi của Đức Phật tại buổi hiến cúng Jetavana, ông đã gia nhập Tăng đoàn và trở thành một *Arahant* với sáu loại *aññā*. Trong một khoảng thời gian, trước khi Ānanda được bổ nhiệm làm *upaṭṭhāka*, Upavāṇa đã hầu hạ Đức Phật. Có lần khi Đức Phật bị tấn công bởi chứng chuột rút, Upavāṇa, với sự giúp đỡ của người bạn cư sĩ Devahita của mình, đã lấy được nước nóng và các loại thuốc phù hợp, bằng những thứ đó mà căn bệnh được chữa lành; Đức Phật, ngay sau đó, đã bày tỏ lòng biết ơn của Ngài. Thag­a.i.308ff; căn bệnh này dường như không được đề cập trong Milinda 134f. nơi có nêu một vài căn bệnh khác. Tình tiết này được kể dài hơn trong SN.i.174f; xem thêm Dhp­a.iv.232f.
+
+Khi Đức Phật nằm trên giường bệnh của Ngài tại Kusināra, Upavāṇa đang ở bên cạnh Ngài để quạt cho Ngài; Đức Phật, thấy rằng ông đã cản trở tầm nhìn của chư thiên những người đến để bày tỏ lòng tôn kính cuối cùng của họ đối với Bậc Đạo Sư, đã yêu cầu Upavāṇa di chuyển ra xa (DN.ii.138f).
+
+Hai dịp được đề cập trong đó Upavāṇa đã tham khảo ý kiến của Đức Phật về các vấn đề giáo lý, một lần về sự khởi lên của khổ đau (SN.ii.41-2) và một lần về sự hữu ích thiết thực và ngay lập tức của Pháp (*sandiṭṭhikadhamma*) (SN.iv.41). Cũng có ghi chép về một chuyến viếng thăm của Upavāṇa đến Sāriputta khi cả hai người đều đang ngự tại Ghositārāma ở Kosambī. Sāriputta hỏi ông về các *bojjhaṅga* vì chúng dẫn đến một cuộc sống hạnh phúc và Upavāṇa giải thích (SN.v.76). Vào một dịp khác, Upavāṇa là người đặt câu hỏi, và ông hỏi Sāriputta về "người tạo ra sự kết thúc" (*antakara*); Sāriputta giải thích rằng "người tạo ra sự kết thúc" là người biết và thấy mọi thứ đúng như bản chất thực của chúng (AN.ii.163).
+
+Khi một cuộc đối thoại không mấy vui vẻ diễn ra giữa Sāriputta và Lāḷudāyī (*q.v.*) và không có ai được tìm thấy để ủng hộ Sāriputta, sự việc được báo cáo lên Đức Phật, Ngài tuyên bố rằng Ānanda đáng lẽ phải đứng về phía Sāriputta. Chẳng bao lâu sau đó, Ānanda tìm Upavāṇa và nói với ông rằng ngài ấy đã quá nhút nhát để can thiệp, và nếu Đức Phật đề cập lại vấn đề này, Upavāṇa có muốn đảm nhận việc trả lời không? Vào buổi tối, Đức Phật lôi cuốn Upavāṇa vào một cuộc trò chuyện và yêu cầu ông giải thích năm phẩm chất khiến một tỳ-kheo được quý trọng và yêu mến bởi các đồng đạo của mình. Vào lúc kết thúc bài pháp, Đức Phật đã tán thưởng Upavāṇa (AN.iii.195f).
+
+Vào thời của Padumuttara, Upavāṇa từng là một người đàn ông nghèo khổ. Thấy mọi người đang thực hiện những phẩm vật cúng dường to lớn tại *Thūpa* của Đức Phật, ông rất cảm động, và sau khi giặt sạch chiếc y phía trên của mình, ông đã treo nó như một lá cờ lên trên *Thūpa*. Một Yakkha tên là Abhisammataka, người bảo vệ *cetiya*, đã mang lá cờ đi ba vòng quanh *cetiya*, trong khi chính vị ấy vẫn vô hình.
+
+Một vị tỳ-kheo mà người đàn ông đó đã tham khảo ý kiến sau phép màu này tiên đoán rằng trong ba mươi ngàn kappa ông sẽ ở trong các cõi chư thiên và rằng ông sẽ làm vua chư thiên tám mươi lần. Một ngàn lần ông là một Cakkavatti. Trong kiếp sống cuối cùng của ông, tài sản của ông là tám mươi crore. Khi ông làm Cakkavatti, lá cờ của ông được giương cao, với chiều cao là ba do-tuần. Ap.i.70ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Subha"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -32,6 +32,6 @@ Subha 03. A palace guard, son of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subha 03. Một lính gác hoàng cung, con trai của Datta. Ông ta có ngoại hình rất giống Vua Yasalālakatissa, và nhà vua thường đặt ông ta lên ngai vàng, trang hoàng bằng những món đồ trang sức của hoàng gia, và quan sát các đại thần đảnh lễ ông ta, trong khi bản thân nhà vua thì đứng ở vị trí của người lính gác. Một ngày nọ, khi Subha đang ngồi trên ngai vàng, ông ta đã khiển trách nhà vua, lúc đó đang cải trang thành lính gác, vì đã mỉm cười một cách thiếu tôn trọng, và sai người lôi nhà vua đi hành quyết trước khi sự thật được phát hiện ra. Sau đó Subha trở thành vua và trị vì trong sáu năm (120-6 CN.). Ông đã xây dựng Subharājapariveṇa, Vallīvihāra, Ekadvāra *vihāra* và Nandigāmaka *vihāra*. Ông đã bị lật đổ bởi Vasabha (Mhv.xxxv.51ff.; Dpv.xxi.45). Con gái của ông kết hôn với Vaṅkanāsikatissa. Cô đã được một người thợ xây nhận nuôi, nhưng Vasabha đã phát hiện ra danh tính của cô và gả cô cho con trai mình. Vận may của cô là nhờ vào một bữa ăn mà cô đã cúng dường cho một vị *Arahant* Thera. Để biết chi tiết xem Mhv.xxxv.101ff.; xem thêm Cv.xxxviii.13f.
 
 ## Notes

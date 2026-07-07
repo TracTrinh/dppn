@@ -5,7 +5,7 @@ base_headword: "Kāḷasena"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -26,6 +26,6 @@ Kāḷasena 01. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷasena 01. Vua của Ayojjhā. Những người Andhakaveṇhuputtā đã bao vây thành phố của ông và bắt nhà vua làm tù binh. Ja.iv.82.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Sīva"
 disambiguator: "01"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -28,6 +28,6 @@ Mahā Sīva 01. King of Ceylon; he was the son of <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sīva 01. Vua của Tích Lan; ông là con trai của Muṭasīva và là em trai của Uttiya, người mà ông đã kế vị. Ông trị vì trong mười năm (197-87 TCN) và đã xây dựng *Nagaraṅgaṇavihāra* cho Trưởng lão Bhaddasāla. Ông được kế vị bởi Sūratissa. Mhv.xxi.1ff.
 
 ## Notes

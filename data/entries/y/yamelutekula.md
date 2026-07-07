@@ -5,7 +5,7 @@ base_headword: "Yamelutekulā"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -26,6 +26,6 @@ Yamelutekulā. Two Brahmins, probably named <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yamelutekulā. Hai vị Bà-la-môn, có lẽ tên là Yamelu và Tekula, những người đã đề nghị với Đức Phật rằng Dhamma nên được đưa vào tiếng Phạn (*chandasi*, từ này dường như không bao giờ có nghĩa là tiếng Phạn, mà đúng hơn là thành hình thức có vần luật). Đức Phật đã từ chối yêu cầu của họ. Vin.ii.139.
 
 ## Notes

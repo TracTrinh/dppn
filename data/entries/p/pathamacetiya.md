@@ -5,7 +5,7 @@ base_headword: "Paṭhamacetiya"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Paṭhamacetiya. A *cetiya* built by <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṭhamacetiya. Một *cetiya* do Devānampiyatissa xây dựng, trên chính nơi mà Mahinda đã hạ xuống trong lần đầu tiên đến thăm Anurādhapura và cung điện của nhà vua. Mhv.xiv.45; xx.20; Vin-a.i.79. Một trong tám chồi cây Bodhi đã được trồng ở đó. Mhv.xix.61.
 
 ## Notes

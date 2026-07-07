@@ -5,7 +5,7 @@ base_headword: "Pañcuposathajātaka"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -34,6 +34,10 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcuposathajātaka (Ja 490). Xưa kia có bốn con vật – một con chim bồ câu rừng, một con rắn, một con chó rừng, và một con gấu – sống thân thiện với Bodhisatta, một vị đạo sĩ, và với ngài là bậc đạo sư của chúng, tất cả chúng đều thọ trì *uposatha* để đoạn trừ những tội lỗi và ham muốn của mình. Bồ câu đã quá nhớ nhung người bạn tình của mình, con chim đã bị một con diều hâu giết chết; rắn đã giết một con bò đực khi bị nó giẫm lên; chó rừng đã bị rụng lông vì bám quá lâu vào xác một con voi; gấu đã nhận nhiều đòn đánh khi vào làng tìm thức ăn; trong khi chính vị đạo sĩ đã từng kiêu ngạo cho đến khi được một vị Pacceka Buddha đến thăm, người đã chỉ cho ông thấy sự ngu xuẩn của lòng kiêu ngạo.
+
+Anuruddha là chim bồ câu, Kassapa là gấu, Moggallāna là chó rừng, và Sāriputta là rắn.
+
+Jātaka này được kể lại cho năm trăm *upāsaka* để khuyến khích họ thọ trì những ngày trai giới. Ja.iv.325ff.
 
 ## Notes

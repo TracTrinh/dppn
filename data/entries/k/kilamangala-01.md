@@ -5,7 +5,7 @@ base_headword: "Kīḷamaṅgala"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -29,6 +29,6 @@ Kīḷamaṅgala 01. A district in South India which <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kīḷamaṅgala 01. Một quận ở Nam Ấn Độ mà Laṅkāpura đã khuất phục và giao lại cho Mālava (Cv.lxxvi.209-11). Tù trưởng của nó (*nāḍālvāra*) là đồng minh của Kulasekhara (Cv.lxxvii.80). Nó là một trong hai phân khu của Maṅgala, phân khu còn lại được gọi là Melamaṅgala.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sūkarārāma"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -27,6 +27,6 @@ Sūkarārāma. A monastery near <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sūkarārāma. Một tu viện gần Dohalapabbata, nơi một vị đại thần của Kittisirirājasīha đã xây dựng một ngôi nhà chứa tượng phật và Suvaṇṇagāma đã dựng lên một pháp đường (*uposatha*). Cv.c.295.
 
 ## Notes

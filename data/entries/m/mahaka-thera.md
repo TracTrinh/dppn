@@ -5,7 +5,7 @@ base_headword: "Mahaka Thera"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -24,6 +24,6 @@ Mahaka Thera. An *Arahant*. See <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahaka Thera. Một vị *Arahant*. Xem Mahakasutta.
 
 ## Notes

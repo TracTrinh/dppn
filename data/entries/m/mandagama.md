@@ -5,7 +5,7 @@ base_headword: "Maṇḍagāma"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -27,6 +27,6 @@ Maṇḍagāma. A village in <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇḍagāma. Một ngôi làng ở Rohaṇa, được Aggabodhi, con trai của Mahā Tissa, dâng tặng cho các vị tăng sĩ để tỏ lòng biết ơn vì họ đã cúng dường cho ông một bữa ăn. Cv.xlv.47; Cv.Trs.i.93, n.5.
 
 ## Notes

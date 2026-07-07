@@ -5,7 +5,7 @@ base_headword: "Vālivāsaragāma"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vālivāsaragāma. A village in <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vālivāsaragāma. Một làng ở Rohaṇa, được đề cập trong tường thuật về các chiến dịch của Parakkamabāhu I. Cv.lxxiv.177.
 
 ## Notes

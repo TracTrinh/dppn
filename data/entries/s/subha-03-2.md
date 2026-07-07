@@ -5,7 +5,7 @@ base_headword: "Subhā"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -29,6 +29,6 @@ Subhā 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subhā 03. Subhā Jīvakambavanikā. Cô thuộc về một gia đình Bà-la-môn ưu tú ở Rājagaha, và khi nhìn thấy mầm mống tai họa trong những thú vui nhục dục, cô đã trở thành một vị tỳ-kheo-ni dưới sự hướng dẫn của Pajāpatī Gotamī. Cô được gọi là Subhā vì thân hình của cô rất xinh đẹp. Một ngày nọ, ở Jīvakambavana, một kẻ phóng đãng, đang độ tuổi thanh xuân, nhìn thấy cô đang đi nghỉ trưa, đã chặn cô lại, rủ rê cô tham gia vào những thú vui nhục dục. Cô nói với hắn về những tác hại của những thú vui đó, nhưng hắn vẫn ngoan cố. Thấy rằng hắn đặc biệt say đắm vẻ đẹp của đôi mắt cô, cô đã móc một bên mắt ra, nói rằng: "Đến đây, đây là con mắt đầy tội lỗi." Gã đàn ông kinh hoàng và xin cô tha thứ. Subhā đã đến yết kiến Đức Phật, và khi nhìn thấy Ngài, mắt cô đã hồi phục. Tràn đầy hoan hỷ, cô đứng đảnh lễ Ngài, và Ngài đã dạy cô và giao cho cô một đề mục thiền định. Cô đã phát triển tuệ giác và trở thành một *Arahant*. Thīg.vss.366-399; Thīg­a.245f.
 
 ## Notes

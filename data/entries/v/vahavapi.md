@@ -5,7 +5,7 @@ base_headword: "Vahavāpi"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vahavāpi. A tank built by King <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vahavāpi. Một hồ chứa nước do vua Vasabha xây dựng. Mhv.xxxv.94; Dpv.xxii.7.
 
 ## Notes

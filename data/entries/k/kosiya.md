@@ -5,7 +5,7 @@ base_headword: "Kosiyā"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -25,6 +25,6 @@ Kosiyā. The wicked wife of the <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kosiyā. Người vợ độc ác của Kosiyajātaka 1 (Ja 130).
 
 ## Notes

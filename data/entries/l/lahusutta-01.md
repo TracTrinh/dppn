@@ -5,7 +5,7 @@ base_headword: "Lahusutta"
 disambiguator: "01"
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -23,6 +23,6 @@ Lahusutta 01. Four conditions, the cultivation of which leads to buoyant (*lahu*
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lahusutta 01. Bốn điều kiện, việc tu tập chúng dẫn đến tuệ giác nhẹ nhàng (*lahu*). SN.v.412.
 
 ## Notes

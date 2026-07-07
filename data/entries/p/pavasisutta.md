@@ -5,7 +5,7 @@ base_headword: "Pavāsisutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Pavāsisutta. A name given in the <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pavāsisutta. Một cái tên được Suttasaṅgaha (Số 37) đặt cho Mittasutta (*q.v.*).
 
 ## Notes

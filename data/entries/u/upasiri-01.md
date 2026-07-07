@@ -5,7 +5,7 @@ base_headword: "Upasiri"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Upasiri 01. One of the palaces occupied by <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upasiri 01. Một trong những cung điện được Đức Phật Anomadassī cư ngụ trong kiếp sống cư sĩ cuối cùng của Ngài. Bv.viii.18.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vedeha"
 disambiguator: "06"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,6 @@ Vedeha 06. A Thera of Ceylon, who belonged to the <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vedeha 06. Một vị Thera của Tích Lan, thuộc Araññavāsīnikāya. Ngài đã viết Rasavāhinī và Samantakūṭavaṇṇanā, và có lẽ cũng viết cuốn ngữ pháp tiếng Sinhala được biết đến là Sidatsaṅgarā. Ngài sống vào thế kỷ thứ mười ba và là học trò của Ānanda Vanaratna. PLC. 222f.; Svd.1263.
 
 ## Notes

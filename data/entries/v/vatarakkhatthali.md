@@ -5,7 +5,7 @@ base_headword: "Vaṭarakkhatthalī"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vaṭarakkhatthalī. A village in Ceylon, mentioned in the account of the campai
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngôi làng ở Ceylon, được nhắc đến trong bản tường thuật về các chiến dịch của Parakkamabāhu I. Cv.lxxiv.76.
 
 ## Notes

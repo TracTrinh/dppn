@@ -5,7 +5,7 @@ base_headword: "Sirivaḍḍhā"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sirivaḍḍhā. A *seṭṭhi*’s daughter who gave milk-rice to <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirivaḍḍhā. Con gái của một *seṭṭhi*, người đã dâng cơm sữa cho Phussa Buddha. Bv­a.192.
 
 ## Notes

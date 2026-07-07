@@ -5,7 +5,7 @@ base_headword: "Kuṭivihārī Thera"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -34,6 +34,10 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Kuṭivihāriya Thera*. Một Arahant. Ngài là con trai của một nhà quý tộc ở quốc gia Vajjī, và sau khi nghe Đức Phật thuyết giảng bài kinh Ratanasutta ngài đã từ bỏ thế gian. Một ngày nọ, trong khi đang nỗ lực đạt được tuệ quán, ngài bị mắc mưa và tìm nơi trú ẩn trong túp lều của một người tiều phu. Ngay khi ngài ngồi xuống đó trên một chiếc chiếu ngài đã trở thành một *Arahant*. Đức Phật, sau khi nghe thấy cuộc trò chuyện giữa vị tỳ-kheo và người gác rừng nhờ khả năng thiên nhĩ thông của ngài, đã thốt ra những vần thơ tán thán. Vị tỳ-kheo được gọi như vậy vì ngài đã đạt được tuệ quán trong một túp lều.
+
+Trong quá khứ ngài đã dâng cúng nước mát cho Padumuttara Buddha (Thag.v.56; Thag­a.i.129f).
+
+Ngài có lẽ đồng nhất với Udakapūjaka Thera của Apadāna. Ap.i.142f.
 
 ## Notes

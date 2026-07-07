@@ -5,7 +5,7 @@ base_headword: "Piyālapupphiya Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Piyālapupphiya Thera. An *Arahant*. Ninety-one *kappas* ago he was a hunter who
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piyālapupphiya Thera. Một vị *Arahant*. Chín mươi mốt *kappa* trước, ngài là một thợ săn, người khi nhìn thấy Vipassī Buddha, đã ném một bông hoa *piyāla* lên con đường mà Ngài đang bước đi. Ap.i.220.
 
 ## Notes

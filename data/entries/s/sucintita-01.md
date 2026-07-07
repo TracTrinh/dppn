@@ -5,7 +5,7 @@ base_headword: "Sucintita"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Sucintita 01. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sucintita 01. Một Pacceka Buddha mà ngài Ajina Thera (Ghatamaṇḍadāyaka Thera), trong một tiền kiếp, đã cúng dường bơ lỏng khi vị này đang bệnh rất nặng. Thag­a.i.250; Ap.ii.436.
 
 ## Notes

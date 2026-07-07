@@ -5,7 +5,7 @@ base_headword: "Yasavatī"
 disambiguator: "06"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -26,6 +26,6 @@ Yasavatī 06. The city in whose park <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yasavatī 06. Thành phố có khu vườn mà Tissa Buddha đã thuyết bài pháp đầu tiên của mình. Đó là thủ đô của Vua Sujāta. Bv­a.189,190.
 
 ## Notes

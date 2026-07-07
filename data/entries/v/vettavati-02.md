@@ -5,7 +5,7 @@ base_headword: "Vettavatī"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vettavatī 02. A channel branching off from the <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vettavatī 02. Một con kênh đào phân nhánh từ Parakkamasamudda; cái cống nơi nó bắt đầu cũng mang cùng tên này. Cv.lxxix.44.
 
 ## Notes

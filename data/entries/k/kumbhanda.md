@@ -5,7 +5,7 @@ base_headword: "Kumbhaṇḍa"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -31,6 +31,6 @@ Kumbhaṇḍa, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một loại chúng sinh (tiên hoặc yêu lùn) được xếp nhóm cùng với các Yakkha, Rakkhasa, Asura và những chúng sinh khác. Họ sống ở phương Nam và Virūḷha là vua của họ (DN.ii.257; DN.iii.198). Trong Vidhurapaṇḍitajātaka (Ja.vi.272), Kumbhīra (*q.v.*) được đề cập đến như là một trong những thủ lĩnh của họ. Họ có cái bụng lớn (*kumbhaṇḍa* = quả bầu), và bộ phận sinh dục của họ cũng lớn như những cái chậu (*kumbho viya*), do đó có tên gọi của họ. DN.iii.198; DN­a.iii.964.
 
 ## Notes

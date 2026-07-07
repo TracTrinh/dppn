@@ -5,7 +5,7 @@ base_headword: "Mahā Sena"
 disambiguator: "04"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -26,6 +26,6 @@ Mahā Sena 04. A king of India who ruled in <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sena 04. Một vị vua của Ấn Độ, người đã cai trị ở Pāṭaliputta. Hàng ngày ông cúng dường vật thực cho một ngàn tỳ-kheo; nhưng, không hài lòng với điều đó, ông đã đi đến Uttaramadhurā, nơi ông làm việc cực nhọc trong sự cải trang, cúng dường vật thực bằng số tiền công kiếm được theo cách đó. Cv.xcii.23ff.
 
 ## Notes

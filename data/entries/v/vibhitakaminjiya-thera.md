@@ -5,7 +5,7 @@ base_headword: "Vibhītakamiñjiya Thera"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vibhītakamiñjiya Thera. An *Arahant*. He gave a *vibhītaka*-fruit to <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vibhītakamiñjiya Thera. Một bậc *Arahant*. Ngài đã dâng một trái *vibhītaka* cho Kakusandha Buddha (Ap.ii.396). Ngài có lẽ đồng nhất với Sopāka Thera. Thag­a.i.95.
 
 ## Notes

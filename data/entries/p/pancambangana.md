@@ -5,7 +5,7 @@ base_headword: "Pañcambaṅgaṇa"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -29,6 +29,6 @@ Pañcambaṅgaṇa. A place in <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcambaṅgaṇa. Một địa điểm ở Mahā Meghavana tại Anurādhapura. Tại đây Dārubhatikatissa đã cho đào một cái ao, sau này bị lấp đi bởi Dhātusena, người đã cho xây dựng một dãy phòng ở đó. Nó có lẽ đồng nhất với Pañhambamālaka (*q.v.*). Mhv.xxxiv.23; Mhv­ṭ 626.
 
 ## Notes

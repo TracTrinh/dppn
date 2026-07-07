@@ -5,7 +5,7 @@ base_headword: "Makhilā"
 disambiguator: "03"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Makhilā 03. One of the chief female lay patrons of <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Makhilā 03. Một trong những nữ thí chủ hàng đầu của Atthadassī Buddha. Bv.xv.21.
 
 ## Notes

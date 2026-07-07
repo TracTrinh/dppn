@@ -5,7 +5,7 @@ base_headword: "Kāraka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -25,6 +25,6 @@ Kāraka. A village in Ceylon, near <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāraka. Một ngôi làng ở Tích Lan, gần Serisara. Ras.ii.183.
 
 ## Notes

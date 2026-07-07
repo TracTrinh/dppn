@@ -5,7 +5,7 @@ base_headword: "Sobhana"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -27,6 +27,6 @@ Sobhana 02. A householder (*kutumbika*). <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sobhana 02. Một gia chủ (*kutumbika*). Ānanda, khi sinh làm Sumana, đã mua khu vườn của ông (cũng gọi là Sobhana) với giá một trăm ngàn và xây trong đó một *vihāra* cho Padumuttara Buddha. Thag­a.ii.123; DN­a.ii.490; SN­a.ii.69f.; AN­a.i.162, etc.
 
 ## Notes

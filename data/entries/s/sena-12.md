@@ -5,7 +5,7 @@ base_headword: "Sena"
 disambiguator: "12"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Sena 12. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sena 12. Sena Thera. Một vị *Arahant*. Ông là cậu của Vijitasena Thera. Em trai ông là Upasena. Thag­a.i.424.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Lomahaṁsapariyāya"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -25,6 +25,6 @@ Lomahaṁsapariyāya. Another name, given by the Buddha himself to the <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lomahaṁsapariyāya. Một tên gọi khác, được chính Đức Phật đặt cho Mahā Sīhanādasutta. MN.i.83.
 
 ## Notes

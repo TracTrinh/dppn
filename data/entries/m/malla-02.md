@@ -5,7 +5,7 @@ base_headword: "Mallā"
 disambiguator: "02"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Mallā 02. A *bhikkhunī* who came to Ceylon from <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mallā 02. Một vị *bhikkhunī* (tỳ-kheo-ni) đã từ Jambudīpa đến Tích Lan; bà là một đạo sư xuất chúng về Luật (Vinaya) tại Anurādhapura. Dpv.xviii.12.
 
 ## Notes

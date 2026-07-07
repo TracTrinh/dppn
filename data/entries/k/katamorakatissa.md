@@ -5,7 +5,7 @@ base_headword: "Kaṭamorakatissa"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -41,6 +41,10 @@ On another occasion, wishing to ordain a nun who was going through a probationar
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṭamorakatissa (Kaṭamorakatissaka). Một trong những tỳ-kheo mà Devadatta đã xúi giục theo mình để kích động sự bất hòa trong Saṅgha, những người còn lại là Kokālika, Khaṇḍadevīputta và Samuddadatta (Vin.ii.196; iii.171). Kaṭamorakatissa được Thullānandā vô cùng kính trọng, vì chúng ta được kể rằng một ngày nọ, khi đến một ngôi nhà mà cô thường xuyên lui tới, và khi được cho biết rằng một số đại đệ tử của Đức Phật, chẳng hạn như Sāriputta, Moggallāna, Mahā Kaccāna, cũng đã được mời, vì tình cờ các ngài đang ở tại Veḷuvana gần đó, cô đã bày tỏ sự thất vọng tột độ khi những vị này được mời, trong khi những vị đại đệ tử xuất chúng nhất (mahānāgā) như Devadatta, Kaṭamorakatissa, v.v. lại sẵn có ở đó. Vin.iv.66.
+
+Vào một dịp khác, vì muốn cho xuất gia một tỳ-kheo-ni đang trong quá trình thử thách, cô đã triệu tập các tỳ-kheo, nhưng khi nhìn thấy một lượng lớn thức ăn và muốn chỉ để cho những người mình sủng ái được thưởng thức, cô đã giải tán các tỳ-kheo bằng một cái cớ giả tạo, chỉ giữ lại bên mình Devadatta, Kaṭamorakatissa và các đồng đạo của họ (Vin.iv.335).
+
+Kaṭamorakatissa là một trong những tỳ-kheo mà hai vị Paccekabrahma, Subrahmā và Suddhāvāsa, đã bày tỏ sự bất mãn với Đức Phật. SN.i.148.
 
 ## Notes

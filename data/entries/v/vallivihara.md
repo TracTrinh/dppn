@@ -5,7 +5,7 @@ base_headword: "Vallīvihāra"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vallīvihāra. A monastery near <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vallīvihāra. Một tu viện gần Uruvelā, ở Tích Lan (Ceylon), do vua Subha xây dựng. Mhv.xxxv.58.
 
 ## Notes

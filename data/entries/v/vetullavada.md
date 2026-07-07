@@ -5,7 +5,7 @@ base_headword: "Vetullavāda"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -34,6 +34,10 @@ The *Vetullapiṭaka*, the canon of the *Vetullavādins*, is condemned as *abudd
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vetullavāda. Một giáo lý ngoại đạo được Vohārikatissa du nhập vào Tích Lan, nhưng đã bị vị đại thần của ông là Kapila dẹp bỏ (Mhv.xxxvi.41; Dpv.xxii.40). Nó lại xuất hiện vào thời gian sau, và mặc dù không được chính thức chấp nhận, nó dường như đã len lỏi vào giới tỳ-kheo Tích Lan, chủ yếu là các Dhammarucika (*xem đề mục*), vd, trong các triều đại của Goṭhābhaya (Mhv.xxxvi.111), Mahā Sena, (xxxvii.1ff.), và Aggabodhi I. (Cv.xlii.35).
+
+Vetullavāda nói chung được đồng nhất với trường phái Phật giáo Mahāyāna. Xem Mhv.Trs. 259, chú thích số 2; và cả Hocart, *Memoirs of the Archaeological Survey of Ceylon*, i.1922, p.15ff.
+
+*Vetullapiṭaka*, kinh điển của những người theo *Vetullavāda* (*Vetullavādins*), bị lên án là *abuddhavacana* (phi Phật ngôn), vd, SN­a.ii.150; cf. Vin-a.iv.742, nơi nó được gọi là *Vedaḷhapiṭaka*.
 
 ## Notes

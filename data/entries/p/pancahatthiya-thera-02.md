@@ -5,7 +5,7 @@ base_headword: "Pañcahatthiya Thera"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Pañcahatthiya Thera 02. An *Arahant*. Ninety-two *kappas* ago he saw <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcahatthiya Thera 02. Một vị *Arahant*. Chín mươi hai *kappa* trước, ngài đã nhìn thấy Tissa Buddha cùng đoàn tùy tùng đi ngang qua đường và đã rải năm nắm hoa huệ lên con đường của vị Phật ấy. Mười ba *kappa* trước, ngài làm vua năm lần với tên gọi là Sabhāsammata. Ap.i.193.
 
 ## Notes

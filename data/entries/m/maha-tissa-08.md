@@ -5,7 +5,7 @@ base_headword: "Mahā Tissa"
 disambiguator: "08"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -30,6 +30,6 @@ Mahā Tissa 08. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Tissa 08. Mahā Tissa Thera. Vị trú trì của Maṇḍalārāma gần Bhokkantagāma. Ngài là một người tụng đọc Dhammapada. Sumanā, vợ của Lakuṇṭaka Atimbara, đã kể lại câu chuyện trong quá khứ của cô ở trong hội chúng tỳ-kheo liên quan đến vị Trưởng lão này. Dhp­a.iv.51.
 
 ## Notes

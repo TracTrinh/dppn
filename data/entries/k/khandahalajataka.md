@@ -5,7 +5,7 @@ base_headword: "Khaṇḍahālajātaka"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -47,6 +47,14 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="30" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khaṇḍahālajātaka (Ja 542). Khaṇḍahāla là vị quân sư (chaplain) của Vua Ekarājā xứ Pupphavatī. Vị quân sư này đã nhận hối lộ, và con trai của nhà vua, Candakumāra, sau khi được báo cáo về việc này, đã có lần sửa lại một quyết định sai trái của ông ta, qua đó giành được sự tán thưởng của dân chúng. Nhà vua đã bổ nhiệm vị hoàng tử này làm quan tòa, và Khaṇḍahāla đã thề sẽ trả thù. Về sau nhà vua, sau khi mơ thấy thiên giới, đã hỏi Khaṇḍahāla con đường dẫn đến đó; vị quân sư trả lời rằng con đường đó phải đi qua một cuộc tế lễ, trong đó tất cả các con trai của nhà vua, các hoàng hậu, các thương gia giàu có của ông, và những tài sản quý giá nhất của ông phải được đem ra hiến tế. Khaṇḍahāla hy vọng qua đó sẽ mang lại cái chết cho Candakumāra. Ekarājā đã chấp nhận lời đề nghị và thực hiện mọi sự chuẩn bị cho cuộc tế lễ. Đã nhiều lần nhà vua dao động trong quyết tâm của mình, khi bị cha mẹ, Canda và những người vợ của ông, cùng với dân chúng can ngăn. Khaṇḍahāla đã khích bác ông, nhưng ngay khoảnh khắc thanh gươm sắp sửa giáng xuống cổ Candakumāra, thì vợ của chàng, Candā, con gái của vua xứ Pañcāla, đã thực hiện một "Lời Nguyện Sự Thật" (act of truth), và Sakka xuất hiện, vung vẩy một tia sét. Canda được cứu mạng, đám đông đã giết chết Khaṇḍahāla, và có lẽ cũng đã giết luôn cả nhà vua nếu không có sự can thiệp của Sakka. Nhà vua bị biến thành một kẻ bần cùng và bị đày khỏi thành phố, và Candakumāra, giờ đây được tôn làm vua, đã chu cấp cho mọi nhu cầu của ông (Ja.vi.129-57; câu chuyện này cũng được tìm thấy trong Cariyāpiṭaka với tên gọi Candakumāracariyā).
+
+Khaṇḍahāla được xác định với Devadatta, Candā với Rāhulamātā, và Candakumāra với Bodhisatta.
+
+Câu chuyện này được kể lại liên quan đến những nỗ lực của Devadatta nhằm giết hại Đức Phật bằng cách thuê các cung thủ đến bắn ngài.
+
+Câu chuyện này được nhắc đến như một ví dụ về việc một người chồng được cứu sống nhờ vào đức hạnh của vợ mình (Ja.iv.47), và cũng là một ví dụ về trường hợp Devadatta có quyền lực lớn hơn Bodhisatta (Mil.203).
+
+Jātaka này đôi khi còn được gọi là Candakumārajātaka.
 
 ## Notes

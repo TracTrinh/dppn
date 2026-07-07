@@ -5,7 +5,7 @@ base_headword: "Parikkhārasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Parikkhārasutta. The seven requisites for the attainment of *samādhi* the firs
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parikkhārasutta. Bảy vật dụng cần thiết cho việc đạt được *samādhi* bảy giai đoạn đầu tiên của Bát Thánh đạo. AN.iv.40.
 
 ## Notes

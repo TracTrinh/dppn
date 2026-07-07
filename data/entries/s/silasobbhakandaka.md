@@ -5,7 +5,7 @@ base_headword: "Silāsobbhakaṇḍaka"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -28,6 +28,6 @@ Silāsobbhakaṇḍaka. A village in which <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Silāsobbhakaṇḍaka. Một ngôi làng nơi Vaṭṭagāmaṇī sống một thời gian trong lúc ngôi vua của ông bị người Damiḷa cướp đoạt (Mhv.xxxiii.51). Ngôi làng nằm về phía nam của *vihāra* Vessagiri và gần Pabbatavihāra. Mhv­ṭ.616.
 
 ## Notes

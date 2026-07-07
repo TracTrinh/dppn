@@ -5,7 +5,7 @@ base_headword: "Rohaṇavihāra"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -27,6 +27,6 @@ Rohaṇavihāra. A monastery in <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rohaṇavihāra. Một tu viện ở Rohaṇa, do Silādāṭha xây dựng cho vị trú trì vihāra Pāsāṇadīpa. Cv.xlv.54.
 
 ## Notes

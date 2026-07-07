@@ -5,7 +5,7 @@ base_headword: "Kalaṇḍuka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kalaṇḍuka. A servant of the Treasurer of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kalaṇḍuka. Một người hầu của vị Trưởng khố xứ Benares (*Bārāṇasīseṭṭhi*). Xem Kalaṇḍukajātaka.
 
 ## Notes

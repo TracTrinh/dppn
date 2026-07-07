@@ -5,7 +5,7 @@ base_headword: "Uruvelasutta"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -24,6 +24,6 @@ Uruvelasutta 02. The Buddha tells the monks how a number of Brahmins had visited
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uruvelasutta 02. Đức Phật kể cho các tỳ-kheo nghe về việc một số Bà-la-môn đã đến thăm ngài tại Uruvelā và hỏi ngài liệu có đúng là ngài không tôn kính những người già hay không? Ngài dạy họ rằng không phải tuổi già mới xứng đáng được tôn kính, mà là những phẩm chất mà con người sở hữu, và ngài đã trình bày rõ những phẩm chất đó (AN.ii.22f).
 
 ## Notes

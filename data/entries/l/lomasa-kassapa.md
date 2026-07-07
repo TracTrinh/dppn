@@ -5,7 +5,7 @@ base_headword: "Lomasa Kassapa"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -24,6 +24,6 @@ Lomasa Kassapa. The Bodhisatta born as an ascetic. See the <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lomasa Kassapa. Bodhisatta sinh làm một vị đạo sĩ. Xem Lomakassapajātaka (Ja 433).
 
 ## Notes

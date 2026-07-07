@@ -5,7 +5,7 @@ base_headword: "Malaya"
 disambiguator: "01"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -23,6 +23,6 @@ Malaya 01. A mountainous district in South India, e.g., Ja.iv.327; Cv.lxxvi.195.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Malaya 01. Một vùng đồi núi ở miền Nam Ấn Độ, ví dụ, Ja.iv.327; Cv.lxxvi.195.
 
 ## Notes

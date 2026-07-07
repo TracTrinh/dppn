@@ -5,7 +5,7 @@ base_headword: "Paṇḍiyarāyara"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Paṇḍiyarāyara. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇḍiyarāyara. Một thủ lĩnh Damiḷa. Cv.lxxvi.174, 178.
 
 ## Notes

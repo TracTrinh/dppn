@@ -5,7 +5,7 @@ base_headword: "Sirighara"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sirighara. A place in the <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirighara. Một địa điểm trong Nandārāma, nơi, dưới gốc cây sirīsa, Dīpaṅkara Buddha đã đánh bại các *titthiyā*. Bv.ii.212.
 
 ## Notes

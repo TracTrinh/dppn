@@ -5,7 +5,7 @@ base_headword: "Kassapa"
 disambiguator: "09"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -24,6 +24,6 @@ Kassapa 09. A great sage, the Bodhisatta, father of <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapa 09. Một nhà hiền triết vĩ đại, là Bodhisatta, cha của Isisiṅga (Ja.v.157, 159). Nhà chú giải giải thích rằng Kassapa là *gotta* hoặc tên dòng họ.
 
 ## Notes

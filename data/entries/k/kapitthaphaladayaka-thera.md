@@ -5,7 +5,7 @@ base_headword: "Kapiṭṭhaphaladāyaka Thera"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -29,6 +29,8 @@ He is probably identical with either <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kapiṭṭhaphaladāyaka Thera. Một vị Arahant. Chín mươi mốt *kappa* trước, ông nhìn thấy Vipassī Buddha đang đi dọc theo con đường và, hoan hỉ với phong thái của ngài, đã dâng cho ngài một quả *kapiṭṭha* (Ap.ii.449).
+
+Ông có lẽ đồng nhất với Nisabha (Thag­a.i.318) hoặc Ajita (Thag­a.i.73).
 
 ## Notes

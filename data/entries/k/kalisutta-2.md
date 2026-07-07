@@ -5,7 +5,7 @@ base_headword: "Kāḷīsutta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -27,6 +27,6 @@ Kāḷīsutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷīsutta. Kāḷī Kururaghara đến thăm Mahā Kaccāna và thỉnh cầu tôn giả cho một sự giải thích chi tiết về một trong các bài kệ trong Kumāripañhas (bài kệ xuất hiện ở SN.i.126). Mahā Kaccāna giải thích, và sự giải thích của tôn giả đề cập đến mười *kasiṇa*. AN.v.46f.
 
 ## Notes

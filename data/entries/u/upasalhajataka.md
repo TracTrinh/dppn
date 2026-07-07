@@ -5,7 +5,7 @@ base_headword: "Upasāḷhajātaka"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -31,6 +31,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upasāḷhajātaka (Ja 166). Được thuyết cho Upasāḷha. Câu chuyện quá khứ là về một Bà-la-môn Upasāḷhaka (được đồng nhất với Upasāḷha). Ông đã dặn dò con trai mình rằng sau khi chết ông nên được thiêu tại một nghĩa trang không bị ô uế bởi sự hiện diện của những kẻ hạ tiện. Trong khi đi xuống Gijjhakūṭa, sau khi đã leo lên ngọn núi để tìm một nơi như vậy, họ gặp Bồ-tát, ngài là một đạo sĩ thánh thiện, sở hữu những chứng đắc và thần thông đa dạng. Khi Bồ-tát nghe câu chuyện của họ, ngài đã tiết lộ cho họ biết rằng ngay trên chính địa điểm đó Upasāḷha đã bị thiêu mười bốn ngàn lần, và thuyết giảng cho họ con đường của sự bất tử (Ja.ii.54ff).
+
+Upasāḷhakajātaka được Đức Phật thuyết cho sa-di Vanavāsītissa khi Đức Phật đến thăm vị ấy trong chốn tĩnh lặng của rừng rậm. Dhp­a.ii.99.
 
 ## Notes

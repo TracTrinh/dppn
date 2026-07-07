@@ -5,7 +5,7 @@ base_headword: "Kulavaḍḍhaka"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -24,6 +24,6 @@ Kulavaḍḍhaka. Given as a name used ironically to insult another. Vin.iv.8.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Được đưa ra như một cái tên dùng một cách mỉa mai để xúc phạm người khác. Vin.iv.8.
 
 ## Notes

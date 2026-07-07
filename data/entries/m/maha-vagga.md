@@ -5,7 +5,7 @@ base_headword: "Mahā Vagga"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -29,6 +29,6 @@ Mahā Vagga 06. The seventh section of the *Tikanipāta*, the twentieth of the <
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Vagga 06. Phần thứ bảy của *Tikanipāta*, phần thứ hai mươi của Catukka, phần thứ sáu của Chakka, phần thứ bảy của Sattaka, phần thứ hai của Aṭṭhaka, và phần thứ ba của *Dasakanipāta* thuộc Aṅguttaranikāya.
 
 ## Notes

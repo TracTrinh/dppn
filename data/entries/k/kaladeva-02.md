@@ -5,7 +5,7 @@ base_headword: "Kāḷadeva"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -25,6 +25,6 @@ Kāḷadeva 02. A soothsayer who prophesied for King <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷadeva 02. Một thầy bói đã dự báo cho Vua Paṇḍuvāsudeva sự xuất hiện của một người vợ đến từ Ấn Độ. Mhv­ṭ.272.
 
 ## Notes

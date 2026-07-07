@@ -5,7 +5,7 @@ base_headword: "Upananda Sākyaputtatheravatthu"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Upananda Sākyaputtatheravatthu. A group of stories concerning the greediness an
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upananda Sākyaputtatheravatthu. Một nhóm các câu chuyện liên quan đến sự tham lam và vơ vét của Upananda Sākyaputta. (Dhp-a 12.2) Dhp­a.iii.139ff; cf. (Ja 371) Ja.iii.332ff.
 
 ## Notes

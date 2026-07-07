@@ -5,7 +5,7 @@ base_headword: "Vetambarī"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,6 @@ Vetambarī 01. One of a group of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vetambarī 01. Một trong nhóm chư thiên (Devas) đã viếng thăm Đức Phật tại Veḷuvana và nói về những tín ngưỡng của họ. Vetambarī đã nói hai vần kệ, một bài lên án sự khổ hạnh, và bài kia, đi theo ngay sau bài đầu tiên, thì ca ngợi điều đó (SN.i.65, 67). Chú giải nói (SN­a.i.100) rằng vần kệ thứ hai được gợi cảm hứng bởi Māra.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Koṭṭhabhadda"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -26,6 +26,6 @@ Koṭṭhabhadda. A great causeway on the river <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koṭṭhabhadda. Một con đường đắp cao lớn trên sông Jaggarā. Nó được Parakkamabāhu I. (Cv.1xviii.16) trùng tu lại. Nó được gọi như vậy vì phần đất ở hai bên của nó đã trở thành, do kết quả của việc xây dựng nó, chằng chịt những kho chứa đầy lúa không bị buộc bó (*abaddhavīhi*). Cv.1xviii.31.
 
 ## Notes

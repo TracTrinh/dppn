@@ -5,7 +5,7 @@ base_headword: "Pañcanīvaraṇasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Pañcanīvaraṇasutta. On the five *nīvaraṇas*, their evil results and the m
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcanīvaraṇasutta. Về năm *nīvaraṇa* (triền cái), những hậu quả xấu của chúng và phương pháp để loại trừ chúng. AN.i.3ff.
 
 ## Notes

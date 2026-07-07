@@ -5,7 +5,7 @@ base_headword: "Kāḷakārāma"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -27,6 +27,6 @@ Kāḷakārāma. The park presented to the Buddha by <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷakārāma. Công viên được Kāḷaka dâng cúng cho Đức Phật, và tu viện mà ông đã xây dựng ở trong đó cho Đức Phật. Đức Phật đã ở đó trong chuyến viếng thăm Sāketa của Ngài theo lời thỉnh cầu của Cūḷa Subhaddā. AN.ii.24; AN­a.ii.482.
 
 ## Notes

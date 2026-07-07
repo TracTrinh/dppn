@@ -5,7 +5,7 @@ base_headword: "Lohicca"
 disambiguator: "02"
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -26,6 +26,6 @@ Lohicca 02. A Brahmin of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lohicca 02. Một vị Bà-la-môn ở Sālāvatikā. Một lần ông nảy ra ý nghĩ rằng một sa-môn hay tu sĩ khổ hạnh đã đạt được trạng thái tâm thức tốt đẹp thì không nên nói điều đó với ai khác, kẻo sẽ tự vướng mình vào những trói buộc mới. Khi Đức Phật đến Sālāvatikā, Lohicca cử người thợ cạo là Bhesikā đến mời Đức Phật và các tỳ-kheo nhân danh ông. Đức Phật chấp nhận lời mời, và sau bữa ăn, hỏi Lohicca về quan điểm của ông. Cuối cuộc thảo luận, Lohicca trở thành tín đồ của Đức Phật. DN.i.224ff.
 
 ## Notes

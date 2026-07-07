@@ -5,7 +5,7 @@ base_headword: "Mahā Sīvalī Thera"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Sīvalī Thera. A commentator, evidently of Ceylon, referred to by <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sīvalī Thera. Một vị chú giải sư, rõ ràng là của Tích Lan, được đề cập bởi Buddhaghosa, ví dụ, MN­a.ii.797.
 
 ## Notes

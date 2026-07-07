@@ -5,7 +5,7 @@ base_headword: "Upasīvamāṇavapucchā"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,6 @@ Upasīvamāṇavapucchā. The sixth *Sutta* of the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upasīvamāṇavapucchā. Kinh thứ sáu của Pārāyaṇavagga. Nó chứa những câu hỏi được Upasīva hỏi Đức Phật và những câu trả lời cho chúng (Sn.vv.1069-76). Một trong những câu hỏi của Upasīva là về việc làm thế nào những dòng lũ (*ogha*) có thể được vượt qua. Chúng ta được cho biết rằng ông là một *ākiñcaññāyatanalābhī*. Snp-a.ii.593f; xem thêm Cūḷa Niddesa, p.101.
 
 ## Notes

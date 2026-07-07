@@ -5,7 +5,7 @@ base_headword: "Koviḷāragāma"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -26,6 +26,6 @@ Koviḷāragāma. A village in Ceylon where a battle took place between <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koviḷāragāma. Một ngôi làng ở Tích Lan nơi một trận chiến đã diễn ra giữa Mahinda II. và ba *Ādipāda* những người đã nổi dậy chống lại ông. Mahinda đã chiến thắng. Cv.xlvi.121.
 
 ## Notes

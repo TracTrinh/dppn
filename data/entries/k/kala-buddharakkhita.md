@@ -5,7 +5,7 @@ base_headword: "Kāḷa Buddharakkhita"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -35,6 +35,8 @@ It is said that the Elder had been the *Nigaṇṭha* <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷa Buddharakkhita. Một Trưởng lão của Tích Lan, một *Arahant*. Ông thuộc gia đình của một vị quan đại thần và được sinh ra ở một ngôi làng gần Dakkhiṇagirivihāra. Khi đến tuổi trưởng thành, ông đã gia nhập Tăng đoàn, học toàn bộ *Tipiṭaka*, và khi đi cùng một đám đông lớn đến gặp thầy của mình, ông đã được yêu cầu từ bỏ những người theo mình và đi vào nơi thanh vắng để thực hành thiền định. Ông đã đến Vātakasitapabbatavihāra, thực hành thiền định và trở thành một *Arahant*. Trong khi sống ở *vihāra* Cetiyapabbata, có lần ông đang đảnh lễ tại Kaṇṭakacetiya và đang ngồi dưới gốc một cây Kāḷatimbara. (Truyền thuyết kể rằng đó là vào đêm trăng non, qua đó hoàn thành vòng tuần hoàn của Kāḷa). Một trong những tỳ-kheo đã hỏi ông một câu hỏi về Kāḷakārāmasutta và vị Trưởng lão đã thuyết giảng một bài pháp dựa trên *Sutta* này. Vua Tissa (có lẽ là Saddhātissa), người đang ở gần đó, đã đến nghe bài pháp, vốn kéo dài suốt cả đêm; nhà vua đã đứng trong toàn bộ thời gian đó. Rất đỗi vui mừng, nhà vua, vào cuối bài pháp, đã dâng cúng chủ quyền của Tích Lan cho vị tỳ-kheo.
+
+Người ta nói rằng vị Trưởng lão này từng là *Nigaṇṭha* Mahā Saccaka vào thời Đức Phật, và Đức Phật đã thuyết giảng cho ông Mahā Saccakasutta, không phải vì lúc đó ông có thể hiểu được nó, mà vì Đức Phật biết rằng nó sẽ giúp ông vươn tới sự vĩ đại trong kiếp sống cuối cùng này với tư cách là Kāḷa Buddharakkhita. MN­a.i.469f.
 
 ## Notes

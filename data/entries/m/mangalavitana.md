@@ -5,7 +5,7 @@ base_headword: "Maṅgalavitāna"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Maṅgalavitāna. A place in the west of Ceylon, near <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṅgalavitāna. Một địa điểm ở phía tây Tích Lan, gần Vallipāsāṇavihāra. Mhv­ṭ.552.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Malavāḷāna"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -28,6 +28,6 @@ Malavāḷāna. A district of Ceylon, mentioned in the account of the campaigns 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Malavāḷāna. Một khu vực của Tích Lan, được đề cập trong bản tường thuật về các chiến dịch của Gajabāhu. Komba đã dựng một pháo đài ở đó, về sau bị chiếm bởi Malayarāja, và sau đó nữa bởi vị *Nagaragiri* Mahinda. Cv.lxx.60ff., 89.
 
 ## Notes

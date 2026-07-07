@@ -5,7 +5,7 @@ base_headword: "Uppaladāyika Therī"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -31,6 +31,6 @@ Uppaladāyika Therī. Thirty-one *kappas* ago she was the wife of the *Khattiya*
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uppaladāyika Therī. Ba mươi mốt kappa trước, bà là vợ của người Sát-đế-lỵ (Khattiya) Aruṇa của xứ Aruṇavatī. Một ngày nọ, tràn đầy nỗi sầu khổ vì chưa làm được việc thiện nào để mang lại một cảnh giới tái sinh an vui, bà cầu xin chồng tìm một sa-môn thánh thiện để bà có thể hộ độ. Tâm nguyện của bà được chấp thuận, và bà đã cúng dường cho vị sa-môn một bát thức ăn hảo hạng và hương liệu, toàn bộ được phủ bằng một tấm y lớn. Kết quả là, bà được sinh vào cõi Tāvatiṁsa và trở thành chánh hậu của vua chư thiên hàng ngàn lần. Thân hình bà luôn có màu của hoa sen và bà hội tụ mọi vẻ đẹp của người phụ nữ. Trong lần sinh cuối cùng, bà sinh ra trong một gia đình người Sākyan và gia nhập triều đình của Bodhisatta, đứng đầu một ngàn phụ nữ. Về sau, bà xuất gia và trở thành một Arahant, bảy ngày sau khi gia nhập Tăng đoàn (Ap.ii.601-3). Một loạt các bài kệ mà trong đó bà hát ca ngợi Đức Phật, xuất hiện ở cuối phần ghi chép của Apadāna. Bà có lẽ được đồng nhất với Somā Therī.
 
 ## Notes

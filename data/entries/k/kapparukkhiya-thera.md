@@ -5,7 +5,7 @@ base_headword: "Kapparukkhiya Thera"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -30,6 +30,10 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kapparukkhiya Thera. Một Arahant. Chín mươi bốn *kappa* trước, ông đã đặt một *kappa-rukkha* được làm bằng vải của nhiều màu sắc khác nhau ở phía trước *Thūpa* của Siddhattha Buddha.
+
+Bảy *kappa* trước ông từng tám lần làm vua dưới tên gọi Sucela (Ap.i.90f).
+
+Ông có lẽ đồng nhất với Kappa Thera. Thag­a.i.521f.
 
 ## Notes

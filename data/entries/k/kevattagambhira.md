@@ -5,7 +5,7 @@ base_headword: "Kevaṭṭagambhīra"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,6 @@ Kevaṭṭagambhīra. A village in <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kevaṭṭagambhīra. Một ngôi làng ở Rohaṇa, được Dappula ban tặng cho Nāgavihāra. Cv.xlv.58.
 
 ## Notes

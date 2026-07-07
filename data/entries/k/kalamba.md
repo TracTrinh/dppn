@@ -5,7 +5,7 @@ base_headword: "Kalamba"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kalamba. A river near <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kalamba. Một con sông gần Anurādhapura, có lẽ đồng nhất với Kadamba (Vin-a.ii.474) (xem ở mục từ tương ứng). Con sông này nằm ở phía đông của Anurādhapura. MN­a.ii.653.
 
 ## Notes

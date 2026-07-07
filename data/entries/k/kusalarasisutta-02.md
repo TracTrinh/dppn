@@ -5,7 +5,7 @@ base_headword: "Kusalarāsisutta"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -24,6 +24,6 @@ Kusalarāsisutta 02. The four *satipaṭṭhāna*s could rightly be called a hea
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bốn *satipaṭṭhāna* hoàn toàn có thể được gọi là một đống thiện. SN.v.186.
 
 ## Notes

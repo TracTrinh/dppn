@@ -5,7 +5,7 @@ base_headword: "Mahā Paduma"
 disambiguator: "05"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -29,6 +29,6 @@ Mahā Paduma 05. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Paduma 05. Trưởng lão Mahā Paduma. Một vị pháp sư giảng Jātaka (*Jātakabhāṇaka*). Khi Iḷanāga ở Rohaṇa, sau khi chạy trốn khỏi thủ đô, nhà vua đã nghe Kapijātaka (Ja 250) từ Mahā Paduma, vị sống tại *vihāra* Tulādhāra, và vô cùng hoan hỷ. Mhv.xxxv.30.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Khaṇḍadeviyāputta"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -33,6 +33,6 @@ Khaṇḍadeviyāputta. A monk, one of the associates of <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khaṇḍadeviyāputta. Một vị tỳ-kheo, một trong những cộng sự của Devadatta, được nhắc đến cùng với Kokālika, Kaṭamorakatissa và Samuddadatta. Bọn họ đã giúp Devadatta trong nỗ lực gây chia rẽ Saṅgha (Vin.ii.196; iii.171). Khaṇḍadeviyāputta đã lên tiếng bảo vệ Devadatta khi những người khác khiển trách ông ta (Vin.iii.174) và được Thullanandā vô cùng kính trọng (Vin.iii.66; iv.335). Chú giải Khuddakapāṭha (Khp-a.126) nhắc đến ông trong một danh sách những kẻ ác, cùng với những người đã được đề cập ở trên, Ciñcamāṇavikā, và người anh em của Dīghavidassa.
 
 ## Notes

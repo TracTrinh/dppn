@@ -5,7 +5,7 @@ base_headword: "Kuhakabrāhmaṇavatthu"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kuhakabrāhmaṇavatthu. A certain Brahmin would climb a tree, grasp a branch wi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kuhakabrāhmaṇavatthu. Một vị Bà-la-môn nào đó đã trèo lên cây, dùng chân bám chặt vào một cành cây và, đong đưa lộn ngược đầu xuống như một con dơi, đòi tiền công, v.v., từ những người qua đường, đe dọa sẽ tự tử và tiêu diệt thành phố nếu yêu cầu của ông ta bị từ chối. Đức Phật khi nghe được điều này đã kể lại một câu chuyện Jātaka trong đó một đạo sĩ giả hiệu, sau khi nhận được một ít thịt kỳ đà, đã rất thích và muốn ăn thêm. Ông ta nằm chờ vua của loài kỳ đà khi vị vua này đến bày tỏ sự tôn kính đối với ông ta để giết nó, nhưng vua kỳ đà, nghi ngờ ông ta, đã trốn thoát, quở trách ông ta vì sự đạo đức giả. Dhp­a.iv.153ff; cp. Godhajātaka; cũng Ja.i.480f và ii.382f.
 
 ## Notes

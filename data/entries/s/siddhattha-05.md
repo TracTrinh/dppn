@@ -5,7 +5,7 @@ base_headword: "Siddhattha"
 disambiguator: "05"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Siddhattha 05. A monk of the <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Siddhattha 05. Một tỳ-khẻo của Uposathārāma, người mà vua Kittisirirājasīha trao cho Rajatavihāra. Vị tỳ-khẻo đã cho sửa chữa nơi đó và thực hiện nhiều công trình bổ sung. Cv.c.238ff.
 
 ## Notes

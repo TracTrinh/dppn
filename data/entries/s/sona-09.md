@@ -5,7 +5,7 @@ base_headword: "Soṇa"
 disambiguator: "09"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -41,6 +41,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="15" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Soṇa 09. Soṇa Poṭirīyaputta Thera (hoặc Seṭṭhiputta). Ngài sinh ở Kapilavatthu làm con trai của địa chủ Poṭirīya (Selissariya), và trở thành chủ tướng của người Sākyan Bhaddiya. Khi Bhaddiya xuất gia, Soṇa theo gương ông và gia nhập Tăng đoàn. Nhưng ngài lười biếng và không chịu thiền định. Đức Phật thấy điều này từ Ambavana ở Anupiyā và, tràn ra một luồng hào quang, thúc đẩy ngài. Soṇa được hứng khởi, và nỗ lực trở thành *Arahant*.
+
+Vào thời Sikhī Buddha, ngài là một người giữ rừng và dâng cho Đức Phật một trái *kuruñjiya* (Thag.vss.193, 194; Thag­a.i.316f). Ngài có lẽ đồng nhất với Kuruñjiyaphaladāyaka trong Apadāna. Ap.ii.448f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Maṅgalapokkharaṇī"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Maṅgalapokkharaṇī. A bathing place in the garden of <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṅgalapokkharaṇī. Một nơi tắm trong khu vườn của Parakkamabāhu I. Cv.lxxiii.110.
 
 ## Notes

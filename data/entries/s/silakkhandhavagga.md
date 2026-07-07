@@ -5,7 +5,7 @@ base_headword: "Sīlakkhandhavagga"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -25,6 +25,6 @@ Sīlakkhandhavagga. The first division of the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīlakkhandhavagga. Phần thứ nhất của Dīghanikāya, gồm các *Sutta* 1-13. DN.i.2-253.
 
 ## Notes

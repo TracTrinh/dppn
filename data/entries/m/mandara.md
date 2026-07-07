@@ -5,7 +5,7 @@ base_headword: "Mandāra"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -28,6 +28,6 @@ Mandāra. A mountain in <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mandāra. Một ngọn núi ở Himavā, được đề cập cùng với Meru và Daddara. Ap.ii.536, 86; theo Abhidhānappadīpikā vs.606, đây là núi phía tây, nơi mặt trời lặn.
 
 ## Notes

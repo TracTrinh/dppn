@@ -5,7 +5,7 @@ base_headword: "Upayasutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Upayasutta (wrongly called <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upayasutta (được gọi sai là Upāyasutta). Sự bám víu (*upaya*) là sự trói buộc, sự xa lánh là sự giải thoát. Cùng với việc đoạn tận tham dục, chỗ đứng của tham dục bị cắt đứt và, do đó, sự tái sinh, v.v., bị tiêu diệt. SN.iii.53.
 
 ## Notes

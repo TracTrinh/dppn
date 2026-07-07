@@ -5,7 +5,7 @@ base_headword: "Serī"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -28,6 +28,6 @@ Serī. A *Devaputta* who visited the Buddha at <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Serī. Một thiên tử đã đến viếng Đức Phật tại Jetavana và có một cuộc đàm đạo với Ngài về việc bố thí thức ăn. Vị này kể với Đức Phật rằng trước kia mình từng là một vị vua, một người bố thí rộng rãi tại bốn cổng thành kinh đô của mình. Sau đó, các cung nữ cũng muốn bố thí, và ông cho phép họ bố thí ở một cổng; do đó một số món quà của chính ông lại quay về với ông. Rồi các vị quý tộc, quân đội, Bà-la-môn và gia chủ cũng muốn làm như vậy, và ông cho phép họ phân phát quà tặng, mỗi giai cấp ở một cổng, kết quả là các món quà của ông hoàn toàn không được cho đi. Ông bèn ra lệnh rằng trong tất cả các nguồn thu của mình, một nửa phải được phân phát ngay tại nguồn, chỉ một nửa được gửi về cho ông (SN.i.57f). Buddhaghosa nói thêm (SN­a.i.90) rằng Serī là vua của Sindhava và Sodhika, và rằng, tại mỗi cổng, ông đã phân phát một ngàn đồng tiền mỗi ngày.
 
 ## Notes

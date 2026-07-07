@@ -5,7 +5,7 @@ base_headword: "Subhaddā"
 disambiguator: "07"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Subhaddā 07. A celestial musician or a musical instrument. Vv-a.94, 211.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subhaddā 07. Một nhạc công cõi trời hoặc một loại nhạc cụ. Vv-a.94, 211.
 
 ## Notes

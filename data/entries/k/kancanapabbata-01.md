@@ -5,7 +5,7 @@ base_headword: "Kañcanapabbata"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -36,6 +36,6 @@ Kañcanapabbata 01. A mountain in <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kañcanapabbata 01. Một ngọn núi ở Himavā (Ja.ii.396ff). Nó nằm gần Kañcanaguhā, và trên đó mọc cây Abbhantaramba của Vessavaṇa. Trên ngọn núi, trong một túp lều, có vị đạo sĩ Jotirasa sinh sống, chăm sóc ngọn lửa thiêng. Ngọn núi tạo thành một trong những đặc điểm nổi bật của vùng Himālaya (Ja.v.415). Nó nằm ở phía bắc của Himavā, và từ các sườn dốc của nó chảy ra dòng Sīdānadī (Ja.vi.101). Trong Nimijātaka (Ja.vi.100) có đề cập đến hai ngọn núi *Kañcanapabbatā* nằm giữa dòng chảy Sīdānadī. Ngọn núi đôi khi được gọi là Kañcanagiri (ví dụ, Ud­a.411) và đôi khi là Suvaṇṇapabbata (Ja.vi.100). Sumana Buddha đã tổ chức cuộc hội ngộ đệ tử thứ hai của ngài trên ngọn núi Kañcanapabbata, khi chín mươi nghìn crore người đã có mặt (Ja.i.34).
 
 ## Notes

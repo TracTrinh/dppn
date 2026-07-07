@@ -5,7 +5,7 @@ base_headword: "Kātiyāna"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -27,6 +27,6 @@ Kātiyāna 01. A name by which the <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kātiyāna 01. Tên gọi dùng để chỉ vị Yakkha Puṇṇaka (xem mục này) (Ja.vi.299, 306, 308). Đây là một biến thể của Kaccāna. (Ja.vi.283, 286, 301, 327).
 
 ## Notes

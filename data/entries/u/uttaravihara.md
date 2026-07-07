@@ -5,7 +5,7 @@ base_headword: "Uttaravihāra"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -30,6 +30,6 @@ Uttaravihāra. Another name for the <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttaravihāra. Tên gọi khác của Abhayagirivihāra (*q.v.*). Các cư dân của Uttaravihāra có vẻ đã lưu giữ một biên niên sử, tương tự như các vị cư trú tại Mahā Vihāra. Điều này thường được đề cập trong Mahā Vaṁsaṭīkā, với tên gọi *Uttaravihāra Aṭṭhakathā* và *Uttaravihāra Mahā Vaṁsa*. Xét từ những đoạn trích dẫn từ tác phẩm này được ghi trong Mahā Vaṁsaṭīkā, biên niên sử của Uttaravihāra dường như khác với truyền thống của Mahā Vihāra nhiều hơn ở chi tiết hơn là ở cấu trúc tổng thể. Không thể xác định liệu nó có chứa các nội dung chú giải về Kinh điển Pāli bên cạnh các vấn đề lịch sử hay không. Để biết chi tiết về tác phẩm, xem Geiger: The Dīpavaṁsa và Mahā Vaṁsa, pp.50ff; xem thêm bản hiệu đính của tôi về Mahā Vaṁsaṭīkā.
 
 ## Notes

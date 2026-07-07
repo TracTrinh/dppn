@@ -5,7 +5,7 @@ base_headword: "Siluttavatthu"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -28,6 +28,6 @@ Siluttavatthu. The story of a blind rat snake (*silutta*), near <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Siluttavatthu. Câu chuyện về một con rắn ráo mù (*silutta*), gần Devarakkhitalena, đã nghe Satipaṭṭhānasutta được *Talaṅgapabbatavāsī* Mahā Dhammadinna Thera tụng đọc. Con rắn bị một con *godhā*, kỳ đà, giết chết, và được tái sinh làm Tissāmacca, vị đại thần của Duṭṭhagāmaṇī. Sad.SN.88f; Ras.ii.131f.
 
 ## Notes

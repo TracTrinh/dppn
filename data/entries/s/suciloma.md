@@ -5,7 +5,7 @@ base_headword: "Suciloma"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -34,6 +34,10 @@ An expressive statue of Suciloma is to be found among the bas-reliefs of the Bh�
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suciloma, Sūciloma. Một dạ-xoa (*Yakkha*). Có một lần, khi Đức Phật đang ngự tại Ṭaṅkitamañca ở Gayā, nơi là chỗ ở của Suciloma, Suciloma và người bạn của y, Khara, tình cờ đi ngang qua, và Suciloma, tiến đến gần Đức Phật, đã nghiêng người cọ xát vào kim thân của Ngài. Đức Phật đã nghiêng người theo hướng ngược lại, nói rằng tiếp xúc với y là một điều xấu ác. Sau đó Suciloma hỏi Ngài một câu hỏi liên quan đến nguồn gốc của nhiều thứ dục tình khác nhau, và Đức Phật đã trả lời y (Ap.ii.434; các bài kệ tương tự cũng xuất hiện).
+
+Có lời kể rằng Suciloma từng là một cư sĩ đệ tử của Kassapa Buddha và thường đến viếng thăm *vihāra* (tu viện) tám lần mỗi tháng để nghe Giáo pháp (Dhamma). (Snp­a.i.302, 305; trong Saṁyutta Commentary (SN­a.i.233) y được cho là đã từng là một vị tỳ-kheo). Một ngày nọ, khi y nghe thấy tiếng chiêng báo hiệu buổi thuyết pháp, y đang làm việc trên một cánh đồng gần *vihāra*, và nghĩ rằng mình sẽ đến muộn nếu nán lại để tắm rửa, y đã bước vào giảng đường *uposatha*, nơi y nằm xuống một tấm thảm rất đắt tiền. Như là một kết quả của hành động này, những sợi lông trên cơ thể y trở nên giống như những cây kim, do đó mà y có tên gọi này. Vào cuối thời pháp của Đức Phật, Suciloma đã trở thành một *Sotāpanna*.
+
+Một bức tượng mang tính biểu cảm về Suciloma được tìm thấy trong số các bức phù điêu của tháp Bhārhūt (Bhārhūt Stūpa). Xem Cunningham: Bhārhūt, p.136.
 
 ## Notes

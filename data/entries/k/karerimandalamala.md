@@ -5,7 +5,7 @@ base_headword: "Karerimaṇḍalamālā"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -31,6 +31,6 @@ Karerimaṇḍalamālā. A pavilion near the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Karerimaṇḍalamālā. Một đình các (pavilion) gần Karerikuṭikā, rõ ràng là một hội trường với mái tranh được hỗ trợ bởi các cột gỗ, nhưng không có tường (DN.ii.1; Dial.ii.5, n.2). Buddhaghosa gọi nó là một *nisīdanasālā* (hội trường để ngồi). Giữa hội trường này và Gandhakuṭi là Karerimaṇḍapa. Có lẽ thuật ngữ Karerimaṇḍalamālā đã được sử dụng để biểu thị toàn bộ khuôn viên bên trong Gandhakuṭi, Karerikuṭikā và hội trường này (*Gandhakuṭi pi Karerikuṭikā pi sālā pi Karerimaṇḍalamālo ti vuccati*) (DN­a.ii.407). Tuy nhiên, Dhammapāla nói rằng chỉ có *maṇḍapa* và *sālā* được gọi là Karerimaṇḍalamālā. Ông giải thích *maṇḍalamālā* như sau: *tiṇapaṇṇacchadanaṁ anovassakaṁ maṇḍalamālo; atimuttakādi latāmaṇḍapo ti apare* (Ud­a.203). Những vị tỳ-kheo dường như có thói quen ngồi ở đây và nói chuyện về nhiều chủ đề khác nhau vào lúc cuối ngày. Một chủ đề như vậy được ghi lại trong Udāna (Ud., p.30f), vì đã thảo luận về điều đó, những tỳ-kheo đã tự chuốc lấy sự quở trách nghiêm khắc của Đức Phật.
 
 ## Notes

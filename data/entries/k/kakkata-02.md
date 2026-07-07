@@ -5,7 +5,7 @@ base_headword: "Kakkaṭa"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,6 @@ Kakkaṭa 02. A lay disciple of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kakkaṭa 02. Một cư sĩ của Nādikā (Ñātikā) được đề cập cùng với vài người khác (SN.v.138). Ông rõ ràng đồng nhất với Kakudha (1).
 
 ## Notes

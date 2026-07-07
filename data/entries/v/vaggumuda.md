@@ -5,7 +5,7 @@ base_headword: "Vaggumudā"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -27,6 +27,6 @@ Vaggumudā. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaggumudā. *v.l.* Vattamudā. Một con sông ở vùng Vajjī. Trên bờ của nó, Yasoja và năm trăm người bạn đồng tu sinh sống. Ud.iii.3; Thag­a.i.357.
 
 ## Notes

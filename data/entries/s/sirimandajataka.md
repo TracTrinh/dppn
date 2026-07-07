@@ -5,7 +5,7 @@ base_headword: "Sirimandajātaka"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sirimandajātaka (Ja 500). Evidently another name for the <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirimandajātaka (Ja 500). Rõ ràng là tên khác của Sirimandapañha. Ja.iv.412.
 
 ## Notes

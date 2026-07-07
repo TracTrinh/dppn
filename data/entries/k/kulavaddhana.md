@@ -5,7 +5,7 @@ base_headword: "Kulavaddhana"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,6 @@ Kulavaddhana. A rich merchant of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một trưởng giả giàu có ở Sudassana (Benares), người đã cố gắng ngăn cản nhà vua của mình, Sutasoma, từ bỏ thế gian bằng cách dâng cho ông tất cả tài sản của mình. Ông được đồng nhất với (Mahā ?) Kassapa. Ja.v.185, 192.
 
 ## Notes

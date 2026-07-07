@@ -5,7 +5,7 @@ base_headword: "Mahā Rathavagga"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Rathavagga. The fifth section of the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Rathavagga. Phần thứ năm của Vimānavatthu.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Lāvarāvapabbata"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -26,6 +26,6 @@ Lāvarāvapabbata, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lāvarāvapabbata, Lāvarāvapabbatavihāra. Có thể là một tu viện ở Tích Lan được Aggabodhi IX. xây dựng lại. Cv.xlix.76.
 
 ## Notes

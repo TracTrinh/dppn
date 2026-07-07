@@ -5,7 +5,7 @@ base_headword: "Parakkama"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Parakkama 01. (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parakkama 01. (Parakkanta). Một vị vua Paṇḍyan, có lẽ là con trai của Vikkamapaṇḍu, người đã cai trị Tích Lan trong hai năm (1051-52). Ông bị những người Coḷa sát hại. Cv.lvi.16.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Makhilā"
 disambiguator: "04"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -27,6 +27,6 @@ Makhilā 04. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Makhilā 04. Vợ của Sobhita Buddha trong kiếp sống tại gia cuối cùng của ngài; bà đã dâng lên ngài một bữa ăn bằng cháo sữa ngay trước khi ngài Giác Ngộ. Bv­a.137; nhưng Bv.vii.18 lại gọi bà là Samaṅgī.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sukhavihārijātaka"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -29,6 +29,8 @@ The story was related in reference to <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sukhavihārijātaka (Ja 10). Bodhisatta từng là một *Bà-la-môn* Udicca và sau này trở thành thủ lĩnh của những đạo sĩ ẩn cư. Khi các đạo sĩ đến Benares trong mùa mưa, nhà vua đã mời vị thủ lĩnh của họ ở lại trong khi những người khác quay trở về vào cuối mùa mưa. Một ngày nọ, vị đệ tử xuất chúng nhất của Bodhisatta đến thăm ngài và ngồi xuống một chiếc chiếu bên cạnh ngài, thốt lên: “Ôi hạnh phúc, thật là hạnh phúc!” Nhà vua đến để bày tỏ sự kính trọng của mình đối với vị đạo sư, nhưng tỏ ra không hài lòng bởi vì người đệ tử vẫn ngồi ở đó. Bodhisatta giải thích rằng người đệ tử đó cũng từng là một vị vua người đã từ bỏ vương quyền của mình để sống cuộc đời ẩn cư.
+
+Câu chuyện được kể liên quan đến Bhaddiya người mà, sau khi giành được quả vị *Arahant*, đã liên tục nói “*aho sukhaṁ, aho sukhaṁ*,” bởi vì ông nhận ra rằng bản thân đã từng đầy sợ hãi như thế nào khi còn là một cư sĩ và đã hoàn toàn thoát khỏi sự sợ hãi ra sao khi trở thành một *Arahant*. Bhaddiya được đồng nhất với vị đệ tử xuất chúng nhất của Bodhisatta. Ja.i.140-2.
 
 ## Notes

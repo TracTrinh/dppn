@@ -5,7 +5,7 @@ base_headword: "Kokā"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -25,6 +25,6 @@ Kokā. A palace occupied by <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kokā. Một cung điện mà Siddhattha Buddha đã cư ngụ trong kiếp sống tại gia cuối cùng của ngài. Bv.xvii.14.
 
 ## Notes

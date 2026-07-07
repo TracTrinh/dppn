@@ -5,7 +5,7 @@ base_headword: "Sugatuppattisutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sugatuppattisutta. A man whose mind is pure is born after death in heaven. Iti. 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sugatuppattisutta. Một người có tâm thanh tịnh sau khi chết sẽ được sinh ra ở cõi trời. Iti. p.13, được trích dẫn trong Suttasaṅgaha (No.28).
 
 ## Notes

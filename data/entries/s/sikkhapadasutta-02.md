@@ -5,7 +5,7 @@ base_headword: "Sikkhāpadasutta"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Sikkhāpadasutta 02. The four kinds of deeds: dark with dark result, bright with
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sikkhāpadasutta 02. Bốn loại hành động: đen với quả đen, sáng với quả sáng, không đen không sáng, vừa đen vừa sáng. AN.ii.233.
 
 ## Notes

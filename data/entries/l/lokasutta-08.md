@@ -5,7 +5,7 @@ base_headword: "Lokasutta"
 disambiguator: "08"
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -24,6 +24,6 @@ Lokasutta 08. In this world of many kinds of beings, the <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lokasutta 08. Trong thế giới của nhiều loài chúng sinh này, Tathāgata là một bậc Thánh. SN.v.435.
 
 ## Notes

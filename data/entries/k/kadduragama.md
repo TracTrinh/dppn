@@ -5,7 +5,7 @@ base_headword: "Kaddūragāma"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,6 @@ Kaddūragāma. A village near <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaddūragāma. Một ngôi làng gần Āḷisāra; chiến hào của làng đã bị Māyāgeha, vị tướng của Parakkamabāhu I. chiếm giữ. Cv.lxx.165.
 
 ## Notes

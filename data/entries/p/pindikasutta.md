@@ -5,7 +5,7 @@ base_headword: "Piṇḍikasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -24,6 +24,6 @@ Piṇḍikasutta. The five kinds of persons who eat only out of one bowl. AN.iii
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piṇḍikasutta. Năm hạng người chỉ ăn thức ăn từ trong một bình bát. AN.iii.220.
 
 ## Notes

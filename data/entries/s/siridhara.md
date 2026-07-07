@@ -5,7 +5,7 @@ base_headword: "Siridhara"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Siridhara. A king of twenty-seven *kappas* ago, a previous birth of <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Siridhara. Một vị vua cách đây hai mươi bảy kappa, một tiền kiếp của Rahosaññaka (Sunāga) Thera. Ap.i.167; Thag­a.i.182.
 
 ## Notes

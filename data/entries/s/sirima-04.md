@@ -5,7 +5,7 @@ base_headword: "Sirimā"
 disambiguator: "04"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sirimā 04. A lay woman, one of the chief patrons of <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirimā 04. Một nữ cư sĩ, một trong những đại thí chủ chính của Revata Buddha. Bv.vi.23.
 
 ## Notes

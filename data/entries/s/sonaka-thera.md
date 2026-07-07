@@ -5,7 +5,7 @@ base_headword: "Soṇaka Thera"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -31,6 +31,6 @@ Soṇaka Thera. He was the son of a leader of a caravan of <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Soṇaka Thera. Ngài là con trai của một thủ lĩnh đoàn thương buôn xứ Kāsi, và một lần nọ, khi ngài mười lăm tuổi, ngài đã cùng cha mẹ đến Rājagaha và sau đó vào *vihāra* Veḷuvana. Ngài có năm mươi lăm người bạn đồng hành. Ngài đã gặp Dāsaka Thera, và rất hoan hỷ với vị này, ngài đã gia nhập Tăng đoàn, sau khi tuyệt thực ba bữa, cho đến khi cha mẹ ngài đồng ý. Chẳng bao lâu sau, ngài đã trở thành một *Arahant* và là người dẫn dắt một ngàn vị tỳ-kheo. Sau này, khi Soṇaka đang ngồi trong *jhāna*, Siggava và Candavaggi đã nhìn thấy và đến nói chuyện với ngài. Nhưng ngài không trả lời, và khi họ nghe ngài giải thích, họ đã gia nhập Tăng đoàn dưới sự hướng dẫn của ngài. Mhv.v.104, 114ff.; Dpv.iv.39f.; v.79f.; Vin-a.i.32, 235; Vin.v.2.
 
 ## Notes

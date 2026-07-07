@@ -5,7 +5,7 @@ base_headword: "Kosiyajātaka"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -29,6 +29,8 @@ The story was told to <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kosiyajātaka 02. (Ja 226). Vua của Benares, gây chiến vào một thời điểm không thích hợp, khi đang cắm trại trong khu vườn, đã nhìn thấy một con cú (*kosiya*) bị những con quạ tấn công. Nhà vua hỏi vị quan của mình lý do của việc này; vị quan, chính là Bodhisatta, nói rằng con cú đã rời khỏi nơi ẩn nấp quá sớm – tức là trước khi mặt trời lặn.
+
+Câu chuyện được kể cho Pasenadi, người đã đến thăm Jetavana trên đường đi dẹp yên một cuộc nổi loạn ở biên giới; thời điểm không thích hợp cho một kế hoạch như vậy. Ja.ii.208f.
 
 ## Notes

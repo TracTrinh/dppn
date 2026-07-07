@@ -5,7 +5,7 @@ base_headword: "Kokilavagga"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -24,6 +24,6 @@ Kokilavagga. The fourth section of the *Catukkanipāta* of the <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kokilavagga. Phẩm thứ tư của *Catukkanipāta* thuộc Chú giải Jātaka Ja.iii.102-32.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Tadaṅgasutta"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,6 @@ Tadaṅgasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tadaṅgasutta. Tại Ghositārāma, Kāludāyi hỏi Ānanda ý nghĩa của *Tadaṅganibbāna*, và Ānanda đã giải đáp. AN.iv.454.
 
 ## Notes

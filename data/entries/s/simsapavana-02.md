@@ -5,7 +5,7 @@ base_headword: "Siṁsapāvana"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Siṁsapāvana 02. A grove in <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Siṁsapāvana 02. Một khu rừng ở Kosambī, nơi Đức Phật từng lưu trú. Xem Siṁsapasutta. SN.v.437.
 
 ## Notes

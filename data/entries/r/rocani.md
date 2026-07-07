@@ -5,7 +5,7 @@ base_headword: "Rocanī"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rocanī. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rocanī. Vợ của Kakusandha Buddha trong đời cư sĩ cuối cùng của Ngài (Bv­a.210; DN­a.ii.422). Ở nơi khác (Bv.xxiii.17) bà được gọi là Virocamānā.
 
 ## Notes

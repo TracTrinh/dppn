@@ -5,7 +5,7 @@ base_headword: "Mahā Roruva"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -24,6 +24,6 @@ Mahā Roruva. One of the *Nirayas*. SN.i.92; Dhp­a.iv.79.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Roruva. Một trong những *Niraya* (địa ngục). SN.i.92; Dhp­a.iv.79.
 
 ## Notes

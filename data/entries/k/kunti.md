@@ -5,7 +5,7 @@ base_headword: "Kuntī"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,6 @@ Kuntī. A *kinnarī*, mother of the Theras <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một *kinnarī*, mẹ của các Thera Tissa và Sumitta. Cha của họ là một cư dân cũ của Pāṭaliputta.
 
 ## Notes

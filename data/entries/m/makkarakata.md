@@ -5,7 +5,7 @@ base_headword: "Makkarakaṭa"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -27,6 +27,6 @@ Makkarakaṭa. A locality in <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Makkarakaṭa. Một địa danh ở Avanti. Mahā Kaccāna có lần từng lưu lại đó trong một túp lều giữa rừng và được Lohicca cùng các học trò của ông viếng thăm (SN.iv.116f). Bản Chú giải (SN­a.iii.29) gọi Makkarakaṭa là một thị trấn (*nagara*).
 
 ## Notes

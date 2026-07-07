@@ -5,7 +5,7 @@ base_headword: "Kāḷamattika"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -26,6 +26,6 @@ Kāḷamattika. A tank given by <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷamattika. Một hồ chứa nước được Jeṭṭhatissa dâng cúng cho việc sử dụng của Cetiyapabbata *vihāra*. Mhv.xxxvi.130.
 
 ## Notes

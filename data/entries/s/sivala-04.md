@@ -5,7 +5,7 @@ base_headword: "Sīvalā"
 disambiguator: "04"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -25,6 +25,6 @@ Sīvalā 04. A daughter of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīvalā 04. Con gái của Matusīva. Dpv.xi.7.
 
 ## Notes

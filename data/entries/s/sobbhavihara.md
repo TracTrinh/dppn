@@ -5,7 +5,7 @@ base_headword: "Sobbhavihāra"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Sobbhavihāra. A monastery in which <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sobbhavihāra. Một tu viện nơi Sena II đã xây một ngôi nhà tượng. Cv.li.76.
 
 ## Notes

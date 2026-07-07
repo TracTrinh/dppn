@@ -5,7 +5,7 @@ base_headword: "Vataṁsa"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vataṁsa. One of the three palaces of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một trong ba cung điện của Sumana Buddha trong kiếp sống cư sĩ cuối cùng của Ngài. Bv.v.22.
 
 ## Notes

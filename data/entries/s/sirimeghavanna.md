@@ -5,7 +5,7 @@ base_headword: "Sirimeghavaṇṇa"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -31,6 +31,6 @@ Sirimeghavaṇṇa. King of Ceylon (362-409 CE). He was the son of <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirimeghavaṇṇa. Vua Tích Lan (362-409 CE). Ông là con trai của Mahā Sena. Ông đã trùng tu các công trình tu viện bị Mahā Sena phá hủy và tổ chức một lễ hội tại cetiya Ambatthala để tôn vinh Mahinda, người mà ông đã cho tạc một pho tượng vàng bằng kích thước thật. Ông đã xây dựng Sotthiyākaravihāra và xây một thềm đá quanh cây bodhi Tissavasabha. Xá-lợi Răng của Đức Phật được đưa đến Tích Lan vào năm thứ chín triều đại của nhà vua, và nhà vua đã đặt nó tại Dhammacakkapāsāda. Ông đã tổ chức một đại lễ để tôn vinh Xá-lợi, và ban chiếu chỉ rằng những lễ hội tương tự nên được tổ chức hằng năm tại Abhayuttaravihāra. Tương truyền ông đã xây mười tám vihāra. Ông được kế vị bởi Jeṭṭhatissa. Cv.xxxvii.53ff.
 
 ## Notes

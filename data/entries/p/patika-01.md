@@ -5,7 +5,7 @@ base_headword: "Pāṭika"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Pāṭika 01. Father of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāṭika 01. Cha của Pāṭikaputta (*q.v.*).
 
 ## Notes

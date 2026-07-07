@@ -5,7 +5,7 @@ base_headword: "Sudhañña"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sudhañña 01. A *seṭṭhi*, father of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudhañña 01. Một trưởng giả (*seṭṭhi*), cha của Dhaññavatī (*q.v.*). Bv­a.147.
 
 ## Notes

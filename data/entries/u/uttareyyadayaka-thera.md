@@ -5,7 +5,7 @@ base_headword: "Uttareyyadāyaka Thera"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,6 @@ Uttareyyadāyaka Thera. An *Arahant*. In <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttareyyadāyaka Thera. Một *Arahant*. Vào thời Padumuttara, ông là một người Bà-la-môn uyên bác tại Haṁsavatī. Một ngày, khi đang đi tắm cùng các học trò, ông thấy Đức Phật và dâng tặng ngài tấm y thượng (*uttarīya*) của mình. Tấm y dừng lại trên không trung, tạo thành một cái tán che trên Đức Phật và các vị tỳ-kheo. Nhờ kết quả đó, trong ba mươi nghìn *kappas*, Uttareyyadāyaka được sinh vào các cõi Deva, và năm mươi lần ông trở thành vua của chư thiên. Trong ba mươi sáu lần, ông làm vua của người. Bất cứ nơi nào ông đến, một cái tán làm bằng vải mịn đẹp xuất hiện phía trên ông và ông đạt được mọi điều mình mong muốn. Ap.i.272-3.
 
 ## Notes

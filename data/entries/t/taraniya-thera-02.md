@@ -5,7 +5,7 @@ base_headword: "Taraṇiya Thera"
 disambiguator: "02"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Taraṇiya Thera 02. An Arahant. Ninety-one *kappas* ago he took the <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Taraṇiya Thera 02. Một Arahant. Cách đây chín mươi mốt kappa, ngài đã chở Vipassī Buddha và các vị tỳ-kheo của ngài băng qua một dòng sông trên một chiếc thuyền. Ap.i.234.
 
 ## Notes

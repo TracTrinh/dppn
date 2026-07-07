@@ -5,7 +5,7 @@ base_headword: "Kuddālajātaka"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -38,6 +38,10 @@ The same story is given in different words in the <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kuddālajātaka (Ja 70). Bodhisatta đã từng là một người làm vườn ở Benares, và bởi vì tài sản duy nhất của ngài là một cái cuốc (*kuddāla*), ngài được biết đến với tên gọi Kuddālapaṇḍita. Về sau ngài trở thành một ẩn sĩ, nhưng sáu lần những ý nghĩ về cái cuốc của ngài đã lôi kéo ngài trở lại với thế gian. Lần thứ bảy ngài ném cái cuốc xuống sông và vui sướng reo hò, chứng đắc tuệ minh sát. Vua của Benares nghe thấy tiếng reo hò của ngài, và khi biết được lý do của những tiếng reo đó, đã quyết định cùng Kuddāla trở thành một ẩn sĩ. Khi tin tức lan truyền, dân chúng từ vòng quanh mười hai do-tuần đã đi theo họ, và Sakka đã cử Vissakamma đến dựng các am thất cho họ trong vùng Himālaya.
+
+Câu chuyện được kể liên quan đến Cittahatthisāriputta (*xem mục này*, Ja.i.311ff). Tên của một số người đã đi theo Kuddāla trong cuộc xuất gia của ngài được đề cập ở cuối Hatthipālajātaka (Ja.iv.490) và Mūgapakkhajātaka. Ja.vi.30.
+
+Cùng một câu chuyện được kể bằng những từ ngữ khác trong Chú giải Dhammapada (Dhp­a.i.311f).
 
 ## Notes

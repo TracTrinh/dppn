@@ -5,7 +5,7 @@ base_headword: "Varuṇa"
 disambiguator: "16"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -27,6 +27,6 @@ Varuṇa 16. An ascetic who, together with the hunter <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Varuṇa 16. Một ẩn sĩ, cùng với người thợ săn tên là Sura, đã khám phá ra loại rượu gây say. Sau này nó được gọi là Vāruṇī. Xem Kumbhakārajātaka (Ja 408), Ja.v.12f.
 
 ## Notes

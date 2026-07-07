@@ -5,7 +5,7 @@ base_headword: "Upāsabha"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -25,6 +25,6 @@ Upāsabha. Name of a <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upāsabha. Tên của một Pacceka Buddha. MN.iii.69; MN­a.ii.890; Ap­a.i.106.
 
 ## Notes

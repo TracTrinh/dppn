@@ -5,7 +5,7 @@ base_headword: "Kakusandha"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -81,6 +81,12 @@ In Buddhist Sanskrit texts the name of the Buddha is given as Krakucchanda (see 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kakusandha 01. Đức Phật Kakusandha (Câu-lưu-tôn). Vị Phật thứ hai mươi hai trong số hai mươi tư vị Phật và là vị đầu tiên trong năm vị Phật của Bhaddakappa hiện tại. Ngài là con trai của Bà-la-môn Aggidatta, pháp sư của Khemaṅkara, vua xứ Khemavatī, và Visākhā. Ngài được sinh ra tại khu vườn Khema, và sống tại gia trong bốn ngàn năm tại ba cung điện – Ruci, Suruci và Vaḍḍhana (hoặc Rativaḍḍhana). Vợ của Ngài là Virocamānā (hoặc Rocanī), và Ngài có một người con trai, Uttara. Ngài xuất gia trên một chiếc xe ngựa, và chỉ tu khổ hạnh trong tám tháng. Trước khi Giác ngộ, Ngài đã được con gái của Bà-la-môn Vajirindha của làng Sucirindha dâng cúng một bữa ăn cháo sữa, và được *yavapālaka* Subhadda cúng dường cỏ để làm chỗ ngồi. Cây *bodhi* của Ngài là một cây *Sirīsa*, và bài pháp đầu tiên của Ngài được thuyết giảng cho tám mươi tư ngàn tỳ-kheo trong công viên gần thành phố Makila. Ngài đã thực hiện Song thông dưới một cây *Sāla* tại các cổng của Kaṇṇakujja. Trong số những người Ngài giáo hóa có một Yakkha hung tợn tên là Naradeva. Ngài chỉ tổ chức một cuộc hội tụ các tỳ-kheo của mình. Cơ thể của Kakusandha cao bốn mươi cubit, và Ngài nhập diệt ở tuổi bốn mươi ngàn năm tại khu vườn Khema. *Thūpa* được dựng lên phía trên xá lợi của Ngài cao một do-tuần. Bodhisatta vào thời đó là một vị vua tên là Khema. Các đệ tử chính của Đức Phật là Vidhura và Sañjīva trong số các tỳ-kheo, và Samā và Campā trong số các tỳ-kheo-ni. Thị giả cá nhân của Ngài là Buddhija. Accuta và Samaṇa, Nandā và Sunandā là những nam nữ cư sĩ hộ độ xuất chúng nhất của Ngài (DN.ii.7; Bv.xxiii; Ja.i.42; Bv­a.209ff). Kakusandha đã giữ ngày ăn chay (*uposatha*) mỗi năm một lần (Dhp­a.iii.236). Vào thời Kakusandha, một Māra tên là Dūsī (một kiếp trước của Moggallāna), đã gây rất nhiều rắc rối cho Đức Phật và những người theo Ngài, thử thách lòng kiên nhẫn của Đức Phật rất nhiều (MN.i.333ff; Thag.1187). Saṁyuttanikāya (SN.ii.190f) có đề cập rằng vào thời đại của Kakusandha, Núi Vepulla của Rājagaha được đặt tên là Pācīnavaṁsa và những cư dân được gọi là Tivarā.
+
+Tu viện do Accuta xây dựng trên địa điểm nơi, trong thời đại hiện tại, Anāthapiṇḍika đã dựng lên Jetavanārāma, có diện tích rộng nửa do-tuần, và mảnh đất đó đã được mua bằng những con rùa (*kacchapa*) bằng vàng với số lượng đủ để bao phủ nó (Ja.i.94).
+
+Theo các biên niên sử Tích Lan (Dpv.ii.66; xv.25, 34; xvii.9, 16, v.v.; Mhv.xv.57-90), Kakusandha đã đến thăm Tích Lan. Hòn đảo khi đó được gọi là Ojadīpa và thủ đô của nó là Abhayanagara, nơi Vua Abhaya trị vì. Mahā Meghavana được gọi là Mahā Tittha. Đức Phật đã đến cùng với bốn mươi ngàn đệ tử, để giải phóng hòn đảo khỏi một dịch bệnh do các Yakkha gây ra và Ngài đã đứng trên ngọn núi Devakūṭa từ đó, nhờ vào năng lực ý nguyện của Ngài, tất cả cư dân của đất nước đều có thể nhìn thấy Ngài. Đức Phật và các đệ tử của Ngài đã được nhà vua mời dùng bữa, và sau bữa ăn, khu vườn Mahā Tittha đã được dâng cúng cho Tăng đoàn; tại đó Đức Phật đã ngồi thiền, để thánh hóa nhiều địa điểm khác nhau liên quan đến tôn giáo. Theo ý nguyện của Đức Phật, ni cô Rucānandā đã mang đến hòn đảo một nhánh của cây *bodhi* thiêng liêng. Đức Phật đã trao cho người dân chiếc bình uống nước của chính Ngài như một vật phẩm để tôn thờ, và Ngài quay trở lại Jambudīpa, để lại hai đệ tử của mình là Mahā Deva và Rucānandā để chăm lo cho sự an lành tâm linh của những người mới cải đạo sang đức tin này.
+
+Trong các văn bản Phật giáo tiếng Phạn, tên của Đức Phật được ghi là Krakucchanda (xem cụ thể Divy.254, 418f; Mvu.iii.247, 330).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kosalasutta"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -26,6 +26,6 @@ Kosalasutta 02. Everything changes, even <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kosalasutta 02. Mọi thứ đều thay đổi, ngay cả Pasenadi, vua của Kāsi-Kosala, toàn bộ vũ trụ, ngay cả Mahā Brahma và chư thiên của cõi *Ābhassara*. Sự bất ổn và thay đổi có ở khắp mọi nơi; do đó người trí nhàm chán tất cả, chỉ hướng tâm đạt đến *anupādāparinibbāna* ngay trong kiếp sống này (AN.v.59ff).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vesālīsutta"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/066.html"
@@ -26,6 +26,6 @@ Vesālīsutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vesālīsutta 01. Vesālīsutta. Xem Vajjiputtasutta.
 
 ## Notes

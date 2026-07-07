@@ -5,7 +5,7 @@ base_headword: "Koravyaseṭṭha"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -25,6 +25,6 @@ Koravyaseṭṭha. A title used for <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koravyaseṭṭha. Một danh xưng được dùng cho Sutasoma (Ja 537). Ja.v.479.
 
 ## Notes

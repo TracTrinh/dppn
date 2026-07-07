@@ -5,7 +5,7 @@ base_headword: "Kāmabhūsutta"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -32,6 +32,8 @@ The same question is asked of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāmabhūsutta 01. Kāmabhū đến thăm Ānanda tại Ghositārāma ở Kosambī và hỏi tôn giả xem các căn là sự trói buộc của các trần hay các trần là sự trói buộc của các căn. Ānanda trả lời rằng cả hai đều không đúng; sự trói buộc chính là sự ham muốn và dục vọng khởi sinh do các căn và các trần mà chúng tiếp xúc. Đức Phật, ví dụ, không có bất kỳ sự trói buộc nào như thế (SN.iv.165).
+
+Cùng một câu hỏi cũng đã được Koṭṭhita hỏi Sāriputta, người đã nhận được câu trả lời tương tự (SN.iv.162f).
 
 ## Notes

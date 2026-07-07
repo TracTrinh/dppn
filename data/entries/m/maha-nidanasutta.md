@@ -5,7 +5,7 @@ base_headword: "Mahā Nidānasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -34,6 +34,8 @@ Mahā Nidānasutta. The fifteenth *Sutta* of the <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nidānasutta. Bài kinh (*Sutta*) thứ mười lăm của Dīghanikāya, được thuyết giảng cho Ānanda tại Kammāssadamma trong quốc độ Kuru. Ānanda nói rằng giáo lý về các sự kiện như là khởi sinh từ các nguyên nhân thì khá rõ ràng đối với tôn giả; rằng giáo lý này chỉ có vẻ là sâu sắc. "Đừng nói như vậy," Đức Phật cảnh báo, và tiến hành đưa ra một sự trình bày chi tiết về *Paṭiccasamuppāda*, hay Chuỗi Nhân Quả, như tên gọi được biết đến về sau, giải thích cách thức mỗi một mắt xích trong chuỗi *Saṁsāra* vừa là kết quả của một yếu tố vừa là nguyên nhân của một yếu tố khác. Bài kinh (*Sutta*) cũng thảo luận về ý tưởng "linh hồn," bảy trụ xứ của nhận thức (*viññāṇaṭṭhiti*), hai xứ (*āyatana*), và tám loại giải thoát (*vimokkha*). DN.ii.55-71; Thomas: cp. Cit.,197.
+
+Khemā đã từng nghe Mahā Nidānasutta vào thời của Kassapa Buddha (Ap.ii.546, vs.34). Khi nghe bài kinh này một lần nữa, do Gotama thuyết giảng, bà đã hồi phục trí nhớ của mình và trở thành một vị *Arahant*. Ap.ii.549, vs.72.
 
 ## Notes

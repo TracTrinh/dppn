@@ -5,7 +5,7 @@ base_headword: "Verasutta"
 disambiguator: "03"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -23,6 +23,6 @@ Verasutta 03. The same as *Sutta* (2); preached to the monks. AN.iv.407.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Verasutta 03. Tương tự như *Sutta* (2); được thuyết giảng cho các tỳ-kheo. AN.iv.407.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Utuḷhipupphiya Thera"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Utuḷhipupphiya Thera. An *Arahant*. He made a garland of *utuḷhi*-flowers an
 
 ## Vietnamese translation
 
-Chưa dịch.
+Utuḷhipupphiya Thera. Một *Arahant*. Ông đã kết một vòng hoa *utuḷhi* và dâng cúng lên một cây bodhi. Việc này xảy ra vào đầu *kappa* này. Ap.ii.398.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Tāṅgipperumāla"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,6 @@ Tāṅgipperumāla. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tāṅgipperumāla. Một thủ lĩnh người Damiḷa, đồng minh của Kulasekhara (Cv.lxxvi.145). Về sau ông bị Laṅkāpura thu phục. Ibid., 190.
 
 ## Notes

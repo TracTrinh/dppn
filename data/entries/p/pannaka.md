@@ -5,7 +5,7 @@ base_headword: "Paṇṇaka"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -29,6 +29,6 @@ Paṇṇaka. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇṇaka. Một vị vua Nāga sống trong hồ Anotatta. Khi Cūḷa Sumana (*q.v.*) đi đến hồ để lấy nước cho thầy của mình, Paṇṇaka đã từ chối không cho ngài lấy. Đã có một cuộc giao tranh khốc liệt bằng *iddhi* (thần thông) giữa hai người, với sự chứng kiến của vô số chư thiên do Sumana triệu thỉnh. Cuối cùng, Sumana giẫm gót chân lên đầu của Nāga, nước phun ra từ các nếp gấp trên mang của Nāga và ông ta đã bị đánh bại. Xấu hổ vì thất bại của mình, Paṇṇaka đã phàn nàn với thầy của Sumana rằng vị sa-di đã lấy trộm nước. Nhưng, theo lời khuyên của vị thầy, Paṇṇaka đã cầu xin sự tha thứ từ Sumana và hứa sẽ lấy nước từ Anotatta mỗi khi ngài cần. Sumana đã đến thăm ông một lần nữa theo sự xúi giục của Đức Phật, để cho năng lực của ngài có thể được biểu hiện cho những người khác thấy. Dhp­a.iv.129ff.
 
 ## Notes

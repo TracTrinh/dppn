@@ -5,7 +5,7 @@ base_headword: "Phussadeva"
 disambiguator: "03"
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -30,6 +30,6 @@ Phussadeva 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phussadeva 03. Phussadeva Thera. Một vị sư trụ trì tại Kaṭakandhakāra ở Tích Lan. Ngài là một trong những người tham gia các pháp hội được nhắc đến trong Kuddālakajātaka, Mūgapakkhajātaka, Ayogharajātaka và Hatthipālajātaka (Ja.iv. 490; vi. 30). Có lần Māra, hóa hiện dưới hình dáng Đức Phật, đã cố gắng cám dỗ ngài, nhưng vị Trưởng lão, nhìn thấy hình sắc này và đạt được niềm hỷ lạc từ việc quán sát nó, đã trở thành một vị *Arahant*. Vsm. 263.
 
 ## Notes

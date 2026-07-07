@@ -5,7 +5,7 @@ base_headword: "Sayha"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -26,6 +26,6 @@ Sayha 02. A minister of the king of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sayha 02. Một vị quan của vua Benares, được đồng nhất với Sāriputta. Xem Sayha jātaka (Ja 310).
 
 ## Notes

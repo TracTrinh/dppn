@@ -5,7 +5,7 @@ base_headword: "Vidhola"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vidhola. A hunter, who later joined the Saṅgha at <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vidhola. Một người thợ săn, người sau này đã gia nhập Tăng đoàn tại Tissavihāra ở Mahā Gāma và trở thành một bậc *Arahant*. Ras.i.132f.
 
 ## Notes

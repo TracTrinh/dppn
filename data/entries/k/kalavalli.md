@@ -5,7 +5,7 @@ base_headword: "Kāḷavalli"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -25,6 +25,6 @@ Kāḷavalli. A tank repaired by <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷavalli. Một hồ chứa nước được sửa chữa bởi Parakkamabāhu I. Cv.lxxiz.36.
 
 ## Notes

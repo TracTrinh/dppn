@@ -5,7 +5,7 @@ base_headword: "Vaṇṇārohavagga"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vaṇṇārohavagga. The second chapter of the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaṇṇārohavagga. Chương thứ hai của Chú giải Jātaka. Ja.iii.191-210.
 
 ## Notes

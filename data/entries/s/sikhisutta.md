@@ -5,7 +5,7 @@ base_headword: "Sikhīsutta"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sikhīsutta. The process by which <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sikhīsutta. Tiến trình mà Sikhī Buddha, cũng như các vị Phật khác, đã đạt được Giác ngộ. SN.iii.9.
 
 ## Notes

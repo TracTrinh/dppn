@@ -5,7 +5,7 @@ base_headword: "Piṇḍiyālopasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -26,6 +26,6 @@ Piṇḍiyālopasutta. A *Sutta* quoted in the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piṇḍiyālopasutta. Một bài *Sutta* được trích dẫn trong Suttasaṅgaha (Số 79) từ Itivuttaka (p.89) nói về sự gớm ghiếc của một người ác giới (*dussīla*) nhận vật thực từ người mộ đạo.
 
 ## Notes

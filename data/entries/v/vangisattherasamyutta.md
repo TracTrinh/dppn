@@ -5,7 +5,7 @@ base_headword: "Vaṅgīsattherasaṁyutta"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vaṅgīsattherasaṁyutta. The eighth section of the <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaṅgīsattherasaṁyutta. Phần thứ tám của Saṁyuttanikāya (SN.i.185-96), nói về những sự kiện có liên quan đến Vaṅgīsa Thera.
 
 ## Notes

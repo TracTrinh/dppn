@@ -5,7 +5,7 @@ base_headword: "Varuṇa"
 disambiguator: "10"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Varuṇa 10. A king of forty *kappas* ago, a previous birth of <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Varuṇa 10. Một vị vua của bốn mươi *kappa* trước, là tiền kiếp của Ekasaññaka Thera. Ap.i.121.
 
 ## Notes

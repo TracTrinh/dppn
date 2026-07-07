@@ -5,7 +5,7 @@ base_headword: "Paresasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -23,6 +23,6 @@ Paresasutta. On three qualities essential for one who teaches others the Dhamma.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paresasutta. Về ba phẩm chất thiết yếu đối với người giảng dạy Pháp cho người khác. AN.i.151.
 
 ## Notes

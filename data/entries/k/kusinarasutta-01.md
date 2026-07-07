@@ -5,7 +5,7 @@ base_headword: "Kusinārāsutta"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kusinārāsutta 01. Preached at <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Được thuyết giảng tại Baliharaṇa ở Kusinārā. Các lễ vật, do người sùng đạo cúng dường cho một vị tỳ-kheo, sẽ không mang lại lợi ích thực sự cho vị ấy nếu vị ấy lười biếng; vị ấy nên chuyên cần và tỉnh giác. AN.i.274f.
 
 ## Notes

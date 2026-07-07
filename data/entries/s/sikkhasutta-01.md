@@ -5,7 +5,7 @@ base_headword: "Sikkhāsutta"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Sikkhāsutta 01. The three forms of training in the higher insight. AN.i.235.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sikkhāsutta 01. Ba hình thức tu tập trong tuệ giác cao hơn. AN.i.235.
 
 ## Notes

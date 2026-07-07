@@ -5,7 +5,7 @@ base_headword: "Upanīta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Upanīta. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upanīta. Một Pacceka Buddha, được đề cập trong Isigilisutta. MN.iii.70.
 
 ## Notes

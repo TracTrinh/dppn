@@ -5,7 +5,7 @@ base_headword: "Keraḷa"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Keraḷa. A country in South India, along the Malabar coast. See <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Keraḷa. Một quốc gia ở miền Nam Ấn Độ, dọc theo bờ biển Malabar. Xem Keraḷā.
 
 ## Notes

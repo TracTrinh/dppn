@@ -5,7 +5,7 @@ base_headword: "Kisā Gotamī"
 disambiguator: "03"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kisā Gotamī 03. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kisā Gotamī 03. Vợ của Phussa Buddha trong kiếp sống tại gia cuối cùng của ngài. Con trai của họ là Ānanda. Bv.xix.16.
 
 ## Notes

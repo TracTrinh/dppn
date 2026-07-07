@@ -5,7 +5,7 @@ base_headword: "Uposatha"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -31,6 +31,8 @@ Uposatha is also the name of a tribe of elephants, the ninth in a series of ten 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uposatha 02. Tên của Voi Báu của Cakkavatti Mahā Sudassana. Chú voi đó “toàn thân màu trắng, vững chãi tại bảy điểm (*sattappatiṭṭha*), có sức mạnh phi thường, bay lượn xuyên qua bầu trời.” (DN.ii.174; MN.iii.173f). Trong *Lalitavistara*, tên của chú voi đó được cho là Bodhi.
+
+Uposatha cũng là tên của một bộ tộc voi, đứng thứ chín trong một loạt mười bộ tộc, theo tầm quan trọng tăng dần (DN­a.ii.573; Ud­a.403). Người ta nói rằng con voi của một Cakkavatti thuộc về bộ tộc Chaddanta hoặc bộ tộc Uposatha. Nếu một con voi Chaddanta đến với một Cakkavatti, thì đó là con nhỏ nhất của bộ tộc, nếu là một con voi Uposatha, thì nó sẽ là con đứng đầu (DN­a.ii.624; Ja.iv.232, 234; Khp­a.172). Khi Cakkavatti băng hà, con voi sẽ quay trở lại với những đồng bọn của nó (DN­a.ii.635). Sức mạnh của một con voi Uposatha bằng với sức mạnh của một ngàn triệu người (Bv­a.37). Trong Milindapañha (p.282), vị vua của loài voi Uposatha được mô tả là hiền lành và đẹp đẽ, cao tám cubit và dài cũng như có chu vi là chín cubit, cho thấy những dấu hiệu động dục ở ba nơi trên cơ thể nó, toàn thân màu trắng, vững chãi tại bảy điểm. Cũng giống như con voi này không bao giờ có thể bị nhốt vào một chuồng bò hay bị che đậy bằng một cái đĩa, cũng vậy, không ai có thể bắt những đứa trẻ của Vessantara làm nô lệ.
 
 ## Notes

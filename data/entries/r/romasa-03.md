@@ -5,7 +5,7 @@ base_headword: "Romasa"
 disambiguator: "03"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Romasa 03. A *Dānava* (? *Asura*) of ninety-four *kappas* ago, a previous birth
 
 ## Vietnamese translation
 
-Chưa dịch.
+Romasa 03. Một Dānava (? Asura) của chín mươi bốn kappa trước, một tiền thân của Ambapiṇḍiya Thera. Ap.i.247.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kosiyagotta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -24,6 +24,6 @@ Kosiyagotta. An *Arahant*. He is mentioned in a list of Theras who handed down t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kosiyagotta. Một vị Arahant. Ngài được đề cập trong một danh sách các Thera (Trưởng lão) đã truyền thừa Abhidhamma cho đến kỳ Đại Kết Tập lần thứ ba. Dhs­a., p.32.
 
 ## Notes

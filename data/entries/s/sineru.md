@@ -5,7 +5,7 @@ base_headword: "Sineru"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -48,6 +48,14 @@ When the Buddha went to <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sineru. Một ngọn núi, tạo thành trung tâm của thế giới. Nó chìm sâu dưới biển tám mươi bốn nghìn *yojana* và nhô lên trên mặt biển cũng cùng một độ cao như vậy. Nó được bao quanh bởi bảy dãy núi – Yugandhara, Īsadhara, Karavīka, Sudassana, Nemindhara, Vinataka và Assakaṇṇa (Snp­a.ii.443; Vin-a.i.119; Vsm.206; cp. Mvu.ii.300; Divy.217; nó rộng tám mươi nghìn do-tuần, AN.iv.100).
+
+Trên đỉnh Sineru là Tāvatiṁsa (Snp­a.ii.485f), trong khi ở chân núi là *Asurabhavana* rộng mười nghìn do-tuần; ở giữa là bốn Mahā Dīpā cùng hai nghìn *dīpā* nhỏ hơn của chúng (*Asurabhavana* ban đầu không có ở đó, mà xuất hiện do năng lực của các Asura khi họ bị ném xuống từ Tāvatiṁsa, Dhp­a.i.272; xem, ví dụ, Snp­a.i.201).
+
+Sineru thường được dùng trong các ví dụ so sánh, đặc điểm chính của nó là sự bất động (*suṭṭhuṭhapita*) (ví dụ, Snp. vs.683). Nó cũng được gọi là Meru hay Sumeru (ví dụ, Cv.xlii.2), Hemameru (ví dụ, Cv.xxxii.79) và Mahā Neru (MN.i.338; cũng là Neru, Ja.iii.247).
+
+Mỗi Cakkavāḷa có Sineru riêng của nó (AN.i.227; v.59), và sẽ đến lúc ngay cả Sineru cũng bị hủy diệt (SN.iii.149).
+
+Khi Đức Phật đi đến Tāvatiṁsa, Ngài đã vượt qua khoảng cách đó từ mặt đất chỉ trong ba bước — Ngài đặt chân phải xuống đỉnh Yugandhara và chân trái xuống Sineru, bước tiếp theo đưa Ngài đến Tāvatiṁsa, toàn bộ khoảng cách được vượt qua như vậy là sáu triệu tám trăm nghìn do-tuần. Dhp­a.iii.216.
 
 ## Notes

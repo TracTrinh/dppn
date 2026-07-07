@@ -5,7 +5,7 @@ base_headword: "Pāṭhika"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -28,6 +28,6 @@ Pāṭhika (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāṭhika (Pāṭhiya). Một người *Ājīvaka* ở Sāvatthī. Ông ta được chăm sóc bởi một người phụ nữ ở Sāvatthī, người một ngày nọ, nghe những người hàng xóm của bà ca ngợi Đức Phật, đã mong muốn thỉnh ngài đến nhà bà. Pāṭhika đã can ngăn bà làm việc đó; nhưng một ngày nọ, bà đã bí mật gửi con trai mình đi thỉnh Đức Phật. Cậu bé ghé qua ẩn thất của Pāṭhika trên đường đi, và vị đạo sĩ đã cố gắng can ngăn cậu không đi. Vì không làm được việc đó, ông đã bảo cậu đừng nói cho Đức Phật biết đường đến ngôi nhà, hy vọng rằng qua đó họ sẽ có thể tự mình ăn tất cả thức ăn đã chuẩn bị cho Đức Phật. Cậu bé đã làm theo những gì được bảo, và ngày hôm sau, cậu bé và Pāṭhika đã trốn trong một căn phòng ở phía sau ngôi nhà. Đức Phật đến, và, sau bữa ăn, đã cảm ơn người phụ nữ. Nhưng khi Pāṭhika nghe bà tán thưởng bài thuyết pháp của Đức Phật, ông không thể chịu đựng được nữa và lao ra chửi mắng bà. Dhp­a.i.376ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kusītasutta"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -24,6 +24,6 @@ Kusītasutta 01. A woman who is faithless, shameless, unscrupulous, indolent and
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một người phụ nữ không có đức tin, không biết tàm quý, vô đạo đức, lười biếng và trí tuệ yếu kém sẽ tái sinh vào địa ngục. SN.iv.242.
 
 ## Notes

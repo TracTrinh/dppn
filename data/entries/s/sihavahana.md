@@ -5,7 +5,7 @@ base_headword: "Sīhavāhana"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -25,6 +25,6 @@ Sīhavāhana. A king of long ago, descendant of <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhavāhana. Một vị vua thời xưa, hậu duệ của Mahā Sammata. Mhv.ii.13; Dpv.iii.42.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sena"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Sena 03. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sena 03. Con trai của Kittaggabodhi. Cv.l.56.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Piṇḍapātadāyakatissa"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -26,6 +26,6 @@ Piṇḍapātadāyakatissa. One of the four names given to <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piṇḍapātadāyakatissa. Một trong bốn cái tên được gán cho Vanavāsītissa (đây là cái tên cuối cùng), bởi vì, khi ngài đến Sāvatthī, người dân tranh nhau tôn vinh ngài, và trong hai ngày ngài đã nhận được một ngàn bát thức ăn và một ngàn bộ y phục, tất cả những thứ đó ngài đều cúng dường cho Tăng đoàn (Saṅgha). Điều này là nhờ ngài đã cúng dường một mảnh vải cho một vị Trưởng lão trong một tiền kiếp. Dhp­a.ii.88.
 
 ## Notes

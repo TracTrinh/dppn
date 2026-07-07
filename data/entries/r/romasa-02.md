@@ -5,7 +5,7 @@ base_headword: "Romasa"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Romasa 02. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Romasa 02. Một vị Pacceka Buddha của chín mươi bốn kappa trước. Ap.i.238, 281.
 
 ## Notes

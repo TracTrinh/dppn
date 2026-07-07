@@ -5,7 +5,7 @@ base_headword: "Parisāvagga"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Parisāvagga. The fifth chapter of the *Dukanipāta* of the <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parisāvagga. Phẩm thứ năm của *Dukanipāta* thuộc Aṅguttaranikāya. AN.i.70.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kosambīsutta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -30,6 +30,6 @@ Kosambīsutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kosambīsutta. Saviṭṭha, đang ở tại Ghositārāma tại Kosambī, hỏi Musīla về *Paṭiccasamuppāda*, và từ những câu trả lời được đưa ra, đã phát hiện ra rằng Musīla là một vị Arahant. Saviṭṭha hỏi Nārada những câu hỏi tương tự theo yêu cầu của chính vị này và nhận được những câu trả lời giống nhau; nhưng Nārada tuyên bố rằng mình không phải là một vị Arahant. Ānanda cũng có mặt và tham gia vào cuộc thảo luận. SN.ii.115f.
 
 ## Notes

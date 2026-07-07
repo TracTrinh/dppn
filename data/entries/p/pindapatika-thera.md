@@ -5,7 +5,7 @@ base_headword: "Piṇḍapātika Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -26,6 +26,6 @@ Piṇḍapātika Thera. An *Arahant*. Ninety-two *kappas* ago he was in the <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piṇḍapātika Thera. Một vị *Arahant*. Chín mươi hai *kappa* trước, ngài ở cõi Tusita vào thời của Tissa Buddha và, rời khỏi đó, ngài đã cúng dường vật thực cho Đức Phật. Ap.i.285.
 
 ## Notes

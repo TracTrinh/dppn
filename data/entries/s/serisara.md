@@ -5,7 +5,7 @@ base_headword: "Serisara"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Serisara. A lake in Ceylon; near it was the village of <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Serisara. Một hồ nước ở Tích Lan; gần đó có ngôi làng Kāraka. Ras.ii.183.
 
 ## Notes

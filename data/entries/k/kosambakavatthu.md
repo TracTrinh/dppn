@@ -5,7 +5,7 @@ base_headword: "Kosambakavatthu"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -24,6 +24,6 @@ Kosambakavatthu. The story of the quarrelsome monks of <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kosambakavatthu. Câu chuyện về những vị tỳ-kheo hay cãi vã của Kosambī. Dhp­a.i.44ff.
 
 ## Notes

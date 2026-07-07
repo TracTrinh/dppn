@@ -5,7 +5,7 @@ base_headword: "Lābhasakkārasaṁyutta"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -25,6 +25,6 @@ Lābhasakkārasaṁyutta. The seventeenth section of the <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lābhasakkārasaṁyutta. Phần thứ mười bảy của Saṁyuttanikāya. SN.ii.225-44.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kakkhaḷaviṭṭhi"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kakkhaḷaviṭṭhi. A village given by <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kakkhaḷaviṭṭhi. Một ngôi làng do Jeṭṭhatissa III. ban tặng để duy trì *vihāra Veḷuvana* (gần Anurādhapura). Cv.xliv.99.
 
 ## Notes

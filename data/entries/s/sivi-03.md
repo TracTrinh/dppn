@@ -5,7 +5,7 @@ base_headword: "Sivi"
 disambiguator: "03"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sivi 03. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sivi 03. Vua xứ Dvāravatī. Ông là con trai của Vāsudeva và một người phụ nữ *Caṇḍāla* tên là Jambāvati. Ja.vi.421.
 
 ## Notes

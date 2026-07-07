@@ -5,7 +5,7 @@ base_headword: "Vassasutta"
 disambiguator: "02"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -23,6 +23,6 @@ Vassasutta 02. Just as rain, falling on mountain tops, flows into gullies, pools
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cũng giống như mưa, rơi trên các đỉnh núi, chảy vào các khe cạn, vũng nước, các hồ lớn và những con sông và từ đó chảy vào đại dương, các đức hạnh của người đệ tử của bậc Thánh cũng chảy về phía trước và dẫn đến sự đoạn tận các *āsava*. SN.v.396.
 
 ## Notes

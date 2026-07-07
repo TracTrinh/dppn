@@ -5,7 +5,7 @@ base_headword: "Taṇhāsutta"
 disambiguator: "04"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Taṇhāsutta 04. Both craving and the emancipation therefrom, through knowledge
 
 ## Vietnamese translation
 
-Chưa dịch.
+Taṇhāsutta 04. Cả ái dục lẫn sự giải thoát khỏi ái dục, thông qua sự hiểu biết, đều được nuôi dưỡng và hoàn thiện bởi một yếu tố nào đó, và yếu tố này rốt cuộc có thể được quy về việc kết giao với bạn ác và bạn lành tương ứng. AN.v.116ff.
 
 ## Notes

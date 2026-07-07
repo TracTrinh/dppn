@@ -5,7 +5,7 @@ base_headword: "Sīvalā"
 disambiguator: "05"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -24,6 +24,6 @@ Sīvalā 05. An eminent Therī, teacher of the Vinaya in Ceylon. Dpv.xviii.27.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīvalā 05. Một vị Trưởng lão ni lỗi lạc, thầy dạy Vinaya ở Tích Lan. Dpv.xviii.27.
 
 ## Notes

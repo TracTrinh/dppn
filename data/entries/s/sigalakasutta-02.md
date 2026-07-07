@@ -5,7 +5,7 @@ base_headword: "Sigālakasutta"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sigālakasutta 02. Some old jackals, afflicted with mange, can go wherever they 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sigālakasutta 02. Một số con chó rừng già, mắc bệnh ghẻ, vẫn có thể đi đến bất cứ nơi nào chúng muốn. Có một số tỳ-kheo dòng Sākyan không thể đạt được sự tự do đến mức đó. SN.ii.127; Chú giải (SN­a.ii.169) nói rằng *Sutta* này được thuyết liên quan đến Devadatta.
 
 ## Notes

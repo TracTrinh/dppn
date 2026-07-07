@@ -5,7 +5,7 @@ base_headword: "Sulakkhaṇā"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -28,6 +28,6 @@ Sulakkhaṇā. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sulakkhaṇā. Vợ của Añjanasakka và là mẹ của Mahā Pajāpatī Gotamī. Ap.ii.538 (vs. 115); nhưng xem Mhv.ii.18, nơi vợ của Añjana được gọi là Yasodharā. Đây có thể là một người vợ khác.
 
 ## Notes

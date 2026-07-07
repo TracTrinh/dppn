@@ -5,7 +5,7 @@ base_headword: "Lohapāsāda"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -80,6 +80,20 @@ The hood of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="58" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lohapāsāda. Một công trình tại Anurādhapura, là hội trường *uposatha* của Mahā Vihāra. Ban đầu được Devānampiyatissa xây dựng (xem Mhv.xv.205), nhưng lúc đó chỉ là một công trình nhỏ được dựng lên chỉ để hoàn chỉnh hình thức của Mahā Vihāra (*vihāraparipuṇṇamattasādhakaṁ*) (Mhv­ṭ. 364). Về sau, Duṭṭhagāmaṇī đã phá dỡ nó và dựng lên tại vị trí đó một công trình chín tầng, rộng và cao một trăm khuỷu tay, với một trăm phòng mỗi tầng. Công trình được lên kế hoạch theo bản phác thảo của Ambalaṭṭhikapāsāda (Ambalaṭṭhikā (*q.v.*) thực sự của Lohapāsāda ở phía đông công trình, DN­a.ii.635) trong cung điện của Bīraṇī mà tám vị *Arahant* đã nhận được từ cõi Deva. Công trình được lợp bằng tấm đồng, do đó có tên gọi. Chín tầng được các tỳ-kheo trú ngụ tùy theo các chứng đắc của họ, bốn tầng cuối cùng được dành riêng cho các *Arahant*. Ở trung tâm hội trường là một tòa ngồi được tạo theo hình dạng xe Nārīvāhana của Vessavaṇa (để biết chi tiết xem Mhv.xxvii.1ff). Công trình có thể nhìn thấy từ biển ở khoảng cách một do-tuần (Mhv­ṭ. 505). Một lần Duṭṭhagāmaṇī cố gắng thuyết pháp trong hội trường của Lohapāsāda, nhưng ông quá hồi hộp không thể tiếp tục. Nhận ra lúc đó nhiệm vụ của người thuyết pháp khó khăn như thế nào, ông đã bố thí cho họ ở mỗi vihāra (Mhv.xxxii.42ff). Duṭṭhagāmaṇī luôn có tình cảm sâu sắc với Lohapāsāda, và khi hấp hối, ông đã cố nhìn nó lần cuối (Mhv.xxxii.9). Ba mươi crore đã được chi để xây dựng nó; vào thời Saddhātissa, nó bị cháy do đèn, và ông đã xây dựng lại với bảy tầng với chi phí chín triệu.
+
+Khallāṭanāga đã xây dựng ba mươi hai *pāsāda* khác xung quanh Lohapāsāda để trang trí cho nó (Mhv.xxxiii.6), trong khi Bhātikābhaya thực hiện nhiều việc sửa chữa cho công trình (Mhv.xxxiv.39), và Āmaṇḍagāmaṇī thêm một sân trong và hiên (*ājira*) (Mhv.xxxv.3). Sirināga I. xây dựng lại với năm tầng (Mhv.xxxvi.25,52), Abhayanāga xây một nhà bát giác trong sân và Goṭhābhaya cho đổi mới các cột (Mhv.xxxvi.102).
+
+Ông rõ ràng đã bắt đầu xây dựng lại công trình, vì ta được biết (Mhv.xxxvi.124) rằng sau khi ông mất, con trai ông là Jeṭṭhatissa đã hoàn thành đến bảy tầng Lohapāsāda vốn bị cha ông bỏ dở (*vippakata*).
+
+Công trình trị giá một crore, và Jeṭṭhatissa đã cúng dường cho nó một viên ngọc trị giá sáu mươi nghìn, sau đó đổi tên thành Maṇipāsāda. Sau đó Soṇa, một đại thần của người anh em là vua phản nghịch Mahā Nāma, hành động theo lời khuyên của các tỳ-kheo tà giáo do Saṅghamitta dẫn đầu, đã phá hủy *pāsāda* và mang đi của cải của nó để làm giàu cho Abhayagirivihāra (Mhv.xxxvii.10f,59).
+
+Con trai của Mahā Nāma, Sirimeghavaṇṇa, đã phục hồi *pāsāda* về hình thức ban đầu của nó (Mhv.xxxvii.62), và sau đó, Dhātusena đã tu bổ nó (Mhv.xxxviii.54), cũng như Aggabodhi I., người phân phát ba bộ y cho ba mươi sáu nghìn tỳ-kheo vào lễ khánh thành và cấp một làng để đảm bảo sự bảo vệ cho nó (Mhv.xlii.20). Người kế vị ông, Aggabodhi II., đã đặt trong *pāsāda* xá-lợi xương đòn bên phải của Đức Phật, xá-lợi này sau đó được chuyển đến Thūpārāma (Mhv.xlii.53,59). Vào triều đại của Aggabodhi IV., người cai trị Malaya đã sửa chữa đỉnh tháp trung tâm (Mhv.xlvi.30), trong khi Māṇavamma cung cấp mái mới (Mhv.xlvii.65). Sena II. đã hoàn toàn trùng tu *pāsāda* và đặt trong đó một tượng Phật ghép bằng vàng. Công trình rõ ràng không được sử dụng lúc đó, nhưng ông đã đảm bảo cho việc bảo trì nó và cấp các làng để bảo vệ, và quy định rằng ba mươi hai tỳ-kheo phải thường xuyên cư trú (Mhv.li.69f). Sena IV. có thói quen thuyết pháp định kỳ cho các tỳ-kheo tại Lohapāsāda (Mhv.liv.4) dựa trên các *Sutta*, nhưng sau khi ông mất, nơi này lại bị hoang phế và bị người Coḷa phá hủy. Parakkamabāhu I. đã trùng tu nó một lần nữa (Mhv.lxxviii.102), nhưng sau đó nó lại bị cướp phá và sụp đổ, trong tình trạng như vậy cho đến ngày nay. Hiện có một nghìn sáu trăm cột đá nguyên khối (cùng số lượng với thời Parakkamabāhu I.), rõ ràng là khung sườn của tầng thấp nhất.
+
+Thường xuyên có đề cập đến các bài pháp được thuyết ở tầng thấp nhất của Lohapāsāda, với rất đông người tham dự. Một lần, khi *Ambapāsāṇavāsī* Cittagutta thuyết Rathavinītasutta, có mười hai nghìn tỳ-kheo và một nghìn ni cô (Mhv­ṭ.552f). Vào dịp khác, Bhātikābhaya đã mô tả nội dung của phòng xá-lợi của Mahā Thūpa cho tất cả các tỳ-kheo của Mahā Vihāra tập hợp tại Lohapāsāda (Mhv­ṭ.555).
+
+Buddhaghosa nói (DN­a.ii.581) rằng, cho đến thời của ông, đây là tập tục để tất cả các tỳ-kheo Tích Lan sống ở phía bắc Mahā Vālukanadī, tập hợp tại Lohapāsāda hai lần một năm, vào ngày đầu tiên và ngày cuối cùng của *vassa*, trong khi những người ở phía nam con sông tập hợp tại Tissa Mahā Vihāra. Khi nảy sinh các tranh luận về cách giải thích các quy tắc hay giáo lý khác nhau, quyết định thường được một vị thầy có uy tín tuyên bố từ tầng thấp nhất của Lohapāsāda (DN­a.ii.442, 514).
+
+Lưỡng đầu của Nāga vương Mucalinda có cùng kích thước với kho chứa (*bhaṇḍāgāragabbha*) của Lohapāsāda (Ud­a.101). Một khối đá lớn bằng tầng thứ bảy của Lohapāsāda, nếu bị rơi từ cõi Phạm thiên, sẽ mất bốn tháng để chạm đất. DN­a.ii.678.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Paṇḍunādukoṭṭāna"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Paṇḍunādukoṭṭāna. A locality in South India. Cv.lxxvii.105.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇḍunādukoṭṭāna. Một địa danh ở miền Nam Ấn Độ. Cv.lxxvii.105.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Tāmalinda"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tāmalinda. One of the four companions of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tāmalinda. Một trong bốn người bạn đồng hành của Chapaṭa và là một nhà sáng lập của *Sīhalasaṅgha* ở Miến Điện (Sās., p.65). Về sau ông thành lập một tông phái riêng của mình. Bode, 24.
 
 ## Notes

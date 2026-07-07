@@ -5,7 +5,7 @@ base_headword: "Mahā Paharaṇī"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -26,6 +26,6 @@ Mahā Paharaṇī. A channel branching off from the <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Paharaṇī. Một con kênh rẽ nhánh từ Mahā Vālukagaṅgā và được xây dựng bởi Parakkamabāhu I. Cv.lxxix.52.
 
 ## Notes

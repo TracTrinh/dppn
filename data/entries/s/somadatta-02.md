@@ -5,7 +5,7 @@ base_headword: "Somadatta"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Somadatta 02. The younger brother of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Somadatta 02. Anh em trai út của Sutasoma. Ông được đồng nhất với Ānanda. Ja.v.185,192.
 
 ## Notes

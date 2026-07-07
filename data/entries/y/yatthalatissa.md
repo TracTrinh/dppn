@@ -5,7 +5,7 @@ base_headword: "Yaṭṭhālatissa"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -33,6 +33,6 @@ Yaṭṭhālatissa, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yaṭṭhālatissa, Yaṭṭhālayakatissa. Con trai của Mahā Nāga, người là em trai của Devānampiyatissa. Con trai của ông là Goṭhābhaya và cháu nội của ông là Kākavaṇṇatissa, cha của Duṭṭhagāmaṇī (Mhv.xv.170). Ông sinh ra tại Yaṭṭhālayavihāra (Mhv.xxii.10) và cai trị ở Rohaṇa. Trong số các công trình của ông có việc xây dựng *pāsāda* năm tầng tại Kalyāṇī. Cv.lxxxv.64.
 
 ## Notes

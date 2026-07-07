@@ -5,7 +5,7 @@ base_headword: "Vaṇṇakāraka Thera"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vaṇṇakāraka Thera. An *Arahant*. Thirty-one *kappas* ago he was a painter (
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaṇṇakāraka Thera. Một vị *Arahant*. Ba mươi mốt *kappa* trước, ông là một người thợ vẽ (*vaṇṇakāra*) ở Aruṇavatī và đã tô vẽ bức màn trang trí cho tháp (*cetiya*) của đức Phật. Hai mươi ba *kappa* trước, ông là một vị vua tên Candūpama. Ap.i.220.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sīvala"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -25,6 +25,6 @@ Sīvala. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīvala. Con trai của Maṅgala Buddha trong kiếp làm cư sĩ cuối cùng của Ngài. Bv.iv.20.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Komba"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -28,6 +28,6 @@ Komba. Chief of the umbrella-bearers of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Komba. Trưởng đội quân che lọng của Gajabāhu. Ông có một pháo đài ở Mallavāḷāna nơi mà ông bị đánh bật ra khỏi bởi Malayarāyara của Vālikākhetta. Về sau, ông đã đánh một trận thủy chiến ở Muttākara. Cv.lxx.60f.
 
 ## Notes

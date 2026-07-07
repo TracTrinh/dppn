@@ -5,7 +5,7 @@ base_headword: "Mahā Tittha"
 disambiguator: "03"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -38,6 +38,8 @@ It was a convenient place for preparations to be made before advancing on the ca
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Tittha 03. Một nơi cập bến ở bờ biển phía tây của Ceylon. Những người vợ được đưa đến từ Madhurā cho Vijaya và các bạn đồng hành của ông đã cập bến ở đó, do đó mà có tên gọi này (Mhv.vii.58; xem Mhv.Trs.60, n.1). Cũng cập bến ở đó trong những thời kỳ sau là Bhalluka, đến từ Nam Ấn (Mhv.xxv.79), những người Damiḷa và những người khác đã xâm lược Ceylon (Mhv.xxxiii.39; Cv.lviii.14; Cv.xi.37; Cv.lxxxviii.63). Nó có lẽ là bến cảng chính yếu cho những chiếc thuyền đi lại qua lại giữa Nam Ấn và Ceylon. Vì vậy, chính từ đó mà Sakkasenāpati đã lên thuyền đi đến đất nước của người Paṇḍu (Cv.lii.73), và ở đó vị vua Paṇḍu đã cập bến từ Coḷa (Cv.liii.5). Đội quân viễn chinh của Vijayabāhu I đã lên thuyền ở đó để đến Coḷa (Cv.lx.34), cũng như quân đội của Parakkamabāhu I dưới sự chỉ huy của Laṅkāpura (Cv.lxxvi.83).
+
+Đó là một nơi thuận tiện để thực hiện những sự chuẩn bị trước khi tiến lên thủ đô, hoặc chỉ đơn thuần là hành trình đến đó (do đó Cv.lxviii.81; Cv.li.28). Nó là một nơi có tầm quan trọng chiến lược, và khi Māgha và Jayabāhu xâm lược Ceylon, họ đã thiết lập các công sự ở đó. Cv.lxxxiii.16.
 
 ## Notes

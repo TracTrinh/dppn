@@ -5,7 +5,7 @@ base_headword: "Lomahaṁsajātaka"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -33,6 +33,8 @@ The story is also referred to in the <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lomahaṁsajātaka (Ja 94). Có một lần Bodhisatta trở thành một Ājīvaka và thực hành mọi phương thức khổ hạnh để thử nghiệm hiệu quả của lối tu khổ hạnh, chịu đựng những cái nóng và lạnh tột độ. Ngài đã nhận ra sai lầm của mình khi đang nằm hấp hối, và được tái sinh vào cõi của chư thiên (*Deva*). Câu chuyện được kể lại liên quan đến Sunakkhatta, người đã rời bỏ Tăng đoàn và tham gia cùng Korakkhattiya, đi khắp Vesālī, phỉ báng Đức Phật và tuyên bố rằng các giáo lý của ngài không dẫn đến sự diệt trừ đau khổ. Khi Sāriputta báo cáo điều này với Đức Phật, Đức Phật đã tuyên bố rằng ngài đã thử nghiệm hiệu quả của việc tu khổ hạnh từ chín mươi *kappa* trước và nhận thấy nó không mang lại kết quả mong muốn. Ja.i.389-91.
+
+Câu chuyện này cũng được nhắc đến trong Cariyāpiṭaka iii.15 dưới tên gọi Mahā Lomahaṁsacariyā, nơi nó minh họa cho việc thực hành xả (*upekkhā*). Ja.i.47.
 
 ## Notes

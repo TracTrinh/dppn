@@ -5,7 +5,7 @@ base_headword: "Pāpaka"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Pāpaka. A monk who, believing that his name was of ill omen, wished to change i
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāpaka. Một vị tỳ-kheo tin rằng tên của mình là điềm gở và muốn đổi tên. Đức Phật đã thuyết cho vị ấy nghe Nāmasiddhijātaka (Ja 97, *q.v.*) để chỉ ra rằng cái tên không có tầm quan trọng. Ja.i.401f.
 
 ## Notes

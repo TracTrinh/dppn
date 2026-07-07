@@ -5,7 +5,7 @@ base_headword: "Kāḷagiribhaṇḍa"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -25,6 +25,6 @@ Kāḷagiribhaṇḍa. A district in Ceylon. The forces of <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷagiribhaṇḍa. Một quận ở Tích Lan. Các lực lượng của Parakkamabāhu I. đã đánh hai mươi trận chiến ở đó trước khi nó có thể được đưa vào khuất phục (Cv.lxxii.62). Nó được đồng nhất với Kalugalboḍa-raṭa ngày nay. Cv.Trs.i.325, n.1.
 
 ## Notes

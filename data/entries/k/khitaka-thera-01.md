@@ -5,7 +5,7 @@ base_headword: "Khitaka Thera"
 disambiguator: "01"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -32,6 +32,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khitaka Thera 01. Một vị Arahant. Ngài sinh ra trong một gia đình Bà-la-môn ở Sāvatthī, và sau khi nghe về thần thông của Mahā Moggallāna, ngài đã gia nhập Tăng đoàn với mong muốn đạt được sự thuần thục tương tự. Ngài đã phát triển sáu loại *abhiññā* (thắng trí) và thần thông vĩ đại.
+
+Vào thời của Padumuttara Buddha ngài là một thủ lĩnh Yakkha, và khi nhìn thấy Đức Phật và đảnh lễ ngài, Đức Phật, trước niềm vui lớn lao của ngài, đã thuyết pháp cho ngài nghe. Tám mươi *kappa* trước, ngài trở thành vua với tên là Sumaṅgala (Thag.v.104; Thag­a.i.209f). Ngài có lẽ đồng nhất với Supāricariya trong Apadāna. Ap.i.181.
 
 ## Notes

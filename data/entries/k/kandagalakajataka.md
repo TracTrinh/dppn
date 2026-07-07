@@ -5,7 +5,7 @@ base_headword: "Kandagalakajātaka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -30,6 +30,8 @@ The story was related in connection with <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kandagalakajātaka (Ja 210). Bodhisatta có lần là một con chim gõ kiến tên là Khadiravaniya, và ngài có một người bạn tên là Kandagalaka. Một ngày nọ Khadiravaniya đưa Kandagalaka đi cùng mình vào khu rừng keo (khadiravana) và cho bạn những con côn trùng từ những cây keo. Khi Kandagalaka ăn chúng, sự kiêu ngạo trỗi dậy trong lòng, và cảm thấy mình có thể kiếm được thức ăn mà không cần sự trợ giúp của bạn mình, cậu ta đã nói như vậy. Bất chấp lời cảnh báo của Khadiravaniya, Kandagalaka đã mổ vào một thân cây keo, làm gãy mỏ của mình, và rơi xuống chết.
+
+Câu chuyện được kể liên quan đến những nỗ lực của Devadatta nhằm bắt chước Đức Phật, những nỗ lực này đã kết thúc trong sự tự hủy hoại của chính ông ta. Kandagalaka được đồng nhất với Devadatta. Ja.ii.162-4.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vijitā"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,6 @@ Vijitā 01. One of the five daughters of the third <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vijitā 01. Một trong năm người con gái của vị Okkāka thứ ba và vương hậu Bhattā (Hatthā) của ông. DN­a.i.258; Snp­a.i.352, v.v.
 
 ## Notes

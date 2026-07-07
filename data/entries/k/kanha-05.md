@@ -5,7 +5,7 @@ base_headword: "Kaṇha"
 disambiguator: "05"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kaṇha 05. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇha 05. Một vị Pacceka Buddha, được nhắc đến trong Isigilisutta. MN.iii.71.
 
 ## Notes

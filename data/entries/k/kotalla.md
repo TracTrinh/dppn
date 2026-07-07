@@ -5,7 +5,7 @@ base_headword: "Koṭalla"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -25,6 +25,6 @@ Koṭalla. Evidently the Pāli equivalent of Kauṭilya. He is mentioned in the 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koṭalla. Rõ ràng là từ Pāli tương đương của Kauṭilya. Ông được đề cập trong Cūḷa Vaṁsa như là tác giả của một tác phẩm về chính trị (Cv.lxiv.3) và cũng là một tác phẩm về các phương pháp chiến tranh. Cv.lxx.56; xem thêm Cv.Trs.i.243 n.1 và 291, n.3.
 
 ## Notes

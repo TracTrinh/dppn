@@ -5,7 +5,7 @@ base_headword: "Kappinasutta"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -24,6 +24,6 @@ Kappinasutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kappinasutta 01. Mahā Kappina đến thăm Đức Phật người mà, khi nhìn thấy ông từ xa, đã nói với các tỳ-kheo rằng Mahā Kappina cực kỳ có tài năng và có năng lực kỳ diệu, một nhà thuyết giáo có tài năng và rạng rỡ; một trong số những người đã đạt được mục đích của sự xuất gia. Đức Phật tiếp tục nói về việc làm thế nào một người, khoác lên mình trí tuệ và giới hạnh, là người giỏi nhất trong số các chúng sinh, và làm thế nào vị Thánh nhân là bậc vĩ đại nhất trong số các vật thể phát sáng bởi vì ngài luôn luôn tỏa sáng (SN.ii.284). Các bài kệ của *Sutta* này cũng được trích dẫn ở nơi khác, ví dụ, DN.iii.98; Dh.vs.387.
 
 ## Notes

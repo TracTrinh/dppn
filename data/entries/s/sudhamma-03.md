@@ -5,7 +5,7 @@ base_headword: "Sudhamma"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sudhamma 03. The park in which <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudhamma 03. Công viên nơi Sobhita Buddha đản sinh và cũng là nơi ngài thuyết bài pháp đầu tiên của mình. Bv.vii.16.
 
 ## Notes

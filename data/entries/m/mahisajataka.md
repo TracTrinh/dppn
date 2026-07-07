@@ -5,7 +5,7 @@ base_headword: "Mahisajātaka"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -28,6 +28,8 @@ The story was told in reference to a monkey who, in the same way, fouled an elep
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahisajātaka (Ja 278). Bodhisatta từng sinh ra làm một con trâu ở Himavā. Một ngày nọ, khi ngài đang đứng dưới một cái cây, một con khỉ đã bôi bẩn ngài, và nắm lấy sừng của ngài mà kéo. Nhưng con trâu không hề tỏ ra tức giận. Việc này diễn ra nhiều lần, và khi được vị thọ thần hỏi tại sao ngài lại chịu đựng điều đó, con trâu đáp rằng đó là do bản tính hiền lành của ngài. Sau này, con khỉ giở trò tương tự với một con trâu khác, và con trâu này đã giết chết nó.
+
+Câu chuyện được kể lại liên quan đến một con khỉ, theo cách tương tự, đã bôi bẩn một con voi ở Sāvatthī và trốn thoát mà không bị thương nhờ vào sự nhẫn nhịn của con voi. Vào một ngày khác, một con voi hung dữ đi ra từ chuồng voi, và con khỉ đã bị giẫm đạp đến chết. Ja.i.385-7.
 
 ## Notes

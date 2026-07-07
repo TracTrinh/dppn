@@ -5,7 +5,7 @@ base_headword: "Mahummāra"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -29,6 +29,6 @@ Mahummāra, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahummāra, Mahā Ummāra. Một ngôi làng mà trong đó Mahinda II. từng đóng quân vũ trang (Cv.xlviii.120). Sau này con trai ông đã có một trận chiến giáp lá cà tại đó với Dappula, và đánh bại ông ta (Cv.xlviii.156). Hoàng hậu của Udaya I. đã ban ngôi làng này để phục vụ cho việc bảo trì *vihāra* Jayasenapabbata. Cv.xlix.24.
 
 ## Notes

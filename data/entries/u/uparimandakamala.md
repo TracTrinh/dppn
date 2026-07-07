@@ -5,7 +5,7 @@ base_headword: "Uparimaṇḍakamāla"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uparimaṇḍakamāla. A *vihāra* (?) in Ceylon, the residence of <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uparimaṇḍakamāla. Một *vihāra* (?) ở Ceylon, nơi cư ngụ của Trưởng lão Mahā Rakkhita (*q.v.*). Ja.vi.30.
 
 ## Notes

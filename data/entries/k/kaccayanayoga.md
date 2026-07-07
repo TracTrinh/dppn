@@ -5,7 +5,7 @@ base_headword: "Kaccāyanayoga"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kaccāyanayoga. A name given to the aphorisms in <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaccāyanayoga. Một cái tên được đặt cho các câu châm ngôn trong Kaccāyanavyākaraṇa. Bode, 21.
 
 ## Notes

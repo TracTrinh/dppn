@@ -5,7 +5,7 @@ base_headword: "Vaṭṭakajātaka"
 disambiguator: "01"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vaṭṭakajātaka 01. (Ja 35). The Bodhisatta was once born as a quail, and bef
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhisatta từng sinh ra làm một con chim cút, và trước khi ngài đủ lớn để có thể bay, một ngọn lửa đã bùng phát trong khu rừng nơi có tổ của ngài. Nhìn thấy không có phương tiện nào để trốn thoát, ngài đã thực hiện một Lời Nguyện Sự Thật (*saccakiriyā*), ghi nhớ đến sự thánh thiện của chư Phật và các giáo lý của các Ngài. Ngọn lửa lùi lại một khoảng cách mười sáu chiều dài và sau đó tự dập tắt. Câu chuyện được kể liên quan đến một ngọn lửa đã bùng phát trong rừng rậm khi Đức Phật đang du hành ở Magadha cùng với một hội chúng lớn gồm các tu sĩ. Vài vị tu sĩ hoảng sợ và đề xuất các phương pháp khác nhau để dập tắt ngọn lửa, trong khi những người khác nói rằng họ nên tìm kiếm sự bảo vệ của Đức Phật. Họ đã làm như vậy và Đức Phật đã đưa họ đến một địa điểm nhất định, nơi Ngài dừng lại. Những ngọn lửa đến không gần hơn mười sáu chiều dài so với nơi họ đang đứng, và khi đến gần địa điểm đó, chúng đã tự dập tắt. Khi các tu sĩ kinh ngạc trước sức mạnh to lớn của Đức Phật, Ngài đã kể cho họ nghe câu chuyện quá khứ và nói rằng, nhờ vào Lời Nguyện Sự Thật của Ngài khi còn là một con chim cút, địa điểm đó sẽ không bao giờ bị tổn hại bởi những ngọn lửa trong suốt toàn bộ *kappa* này. Ja.i.212ff.; so sánh i.172.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Varuṇa"
 disambiguator: "15"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -27,6 +27,6 @@ Varuṇa 15. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Varuṇa 15. Một vị Long vương (*Nāga king*) vào thời đức Phật Anomadassī, là tiền kiếp của Mahā Moggallāna. Ông đã trổi nhạc cho đức Phật nghe và thiết đãi ngài tại nơi ở của mình. Ap.i.31.
 
 ## Notes

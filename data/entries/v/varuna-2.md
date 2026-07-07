@@ -5,7 +5,7 @@ base_headword: "Vāruṇā"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vāruṇā. A class of deities, followers of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vāruṇā. Một hạng chư thiên, tùy tùng của Varuṇa, những người đã có mặt tại buổi thuyết giảng Mahā Samayasutta. DN.ii.259.
 
 ## Notes

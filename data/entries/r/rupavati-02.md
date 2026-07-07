@@ -5,7 +5,7 @@ base_headword: "Rūpavatī"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -27,6 +27,6 @@ Rūpavatī 02. Queen of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rūpavatī 02. Hoàng hậu của vua Parakkamabāhu I. Bà là hậu duệ của vua Kittisirimegha. Bà được đề cập đến như là người đã dựng lên một "bảo tháp bằng vàng ở Pulatthipura." Cv.lxxiii.137, 142ff. Bảo tháp này đã được nhận diện là *Pabuḷu Vehera* hiện nay (*Archeological Survey of Ceylon*, vi.1014, p. 6).
 
 ## Notes

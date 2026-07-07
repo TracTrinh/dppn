@@ -5,7 +5,7 @@ base_headword: "Tapassu"
 disambiguator: "02"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Tapassu 02. Chief of the lay disciples of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tapassu 02. Vị trưởng giả đệ tử của Dīpaṅkara Buddha. Bv.ii.215.
 
 ## Notes

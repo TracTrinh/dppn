@@ -5,7 +5,7 @@ base_headword: "Phulla"
 disambiguator: ""
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -26,6 +26,6 @@ Phulla. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phulla. *v.l.* Puppha. Chín mươi hai *kappa* trước, có bảy vị vua mang tên này, tất cả đều là các tiền kiếp của Saṅgharakkhita (Kadambapupphiya) Thera. Thag­a.i.217; Ap.i.217.
 
 ## Notes

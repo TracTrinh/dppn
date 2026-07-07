@@ -5,7 +5,7 @@ base_headword: "Laṅkāpura"
 disambiguator: "02"
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -53,6 +53,8 @@ It is curious that no mention is made in the Ceylon Chronicles of <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Laṅkāpura 02. Laṅkāpura Daṇḍanātha. Một tướng quân của Parakkamabāhu I. Ông có thể là con trai của Laṅkādhinātha Kitti (Cv.lxx.218; Cv.Trs.305, n.5). Ta đầu tiên nghe về ông là khi ông đã đẩy lui cuộc tấn công của quân Gajabāhu tại đèo Khaṇḍigāma. Sau đó ông được phái chỉ huy cuộc viễn chinh chống lại Kulasekhara, để giúp vị vua Paṇḍu là Parakkama của Madhurā. Ông đổ bộ tại cảng Paṇḍu là Talaḍilla và chiếm đóng Rāmissara. Từ đó ông tiến về Kundukāla. Các tù nhân ông gửi về Tích Lan được dùng để phụ trợ việc trùng tu *cetiya* Ratanavāluka. Tại Kundukāla, Laṅkāpura xây pháo đài Parakkamapura. Ông đánh bại Kulasekhara và nhiều đồng minh của ông trong nhiều trận chiến, thu phục một số đồng minh của ông, như Iḷaṅkiyarāyara, Mālavarāyara và Coḷagaṅgara, bằng quà cáp và danh hiệu, và chiếm được, trong số các nơi khác, pháo đài Semponmāri. Ông được sự hỗ trợ của Laṅkāpura Deva và Laṅkāgiri Sora, tướng quân Gokaṇṇa, các Kesadhātu là Loka và Kitti, và một viên quan tên Jagadvijaya. Sau đó ông chiếm Muṇḍikkāra và nhiều pháo đài khác rồi chiếm đóng Rājinā. Ông khuất phục các xứ Coḷa và Paṇḍu, và được nói là đã phát hành đồng tiền mang tên Parakkamabāhu I., trong khi phục hồi vương quốc Paṇḍu cho Vīrapaṇḍu. Làng Paṇḍuvijaya được nhà vua lập ra để kỷ niệm chiến thắng của Laṅkāpura. Bản tường thuật về những chiến công của Laṅkāpura được tìm thấy trong Cv.lxxvi.76ff.; lxxvii.1ff.
+
+Điều kỳ lạ là các biên niên sử Tích Lan không đề cập đến việc Laṅkāpura trở về Tích Lan, cũng không đề cập đến bất kỳ vinh dự nào mà nhà vua ban cho ông. Các bi ký Nam Ấn Độ kể rằng Laṅkāpura đã bị đánh bại, và đầu ông cùng với đầu của các viên quan của ông đã bị đóng đinh lên cổng thành Madhurā. Codr.62, 74; xem thêm Smith, *Early History of India*, p.340.
 
 ## Notes

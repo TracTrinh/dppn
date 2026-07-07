@@ -5,7 +5,7 @@ base_headword: "Sudassana"
 disambiguator: "29"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -28,6 +28,6 @@ Sudassana 29. called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudassana 29. Được gọi là Sudassanakūṭa, Sudassanagiri, Sudassanasiluccaya. Dãy đầu tiên trong số năm dãy núi bao quanh Anotatta. Nó có màu vàng, cao hai trăm do-tuần, và uốn cong vào trong giống như mỏ quả (Snp­a.ii.437; cf. 443; AN­a.ii.759; Ja.vi.125). Dīpaṅkara Buddha đã tổ chức một buổi tụ hội của các tỳ-kheo tại đó. Bv.ii.200.
 
 ## Notes

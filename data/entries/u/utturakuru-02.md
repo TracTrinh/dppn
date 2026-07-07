@@ -5,7 +5,7 @@ base_headword: "Utturakuru"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Utturakuru 02. A garden laid out by <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Utturakuru 02. Một khu vườn do Parakkamabāhu I. quy hoạch. (Cv.lxxix.11).
 
 ## Notes

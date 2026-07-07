@@ -5,7 +5,7 @@ base_headword: "Siddhattha"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Siddhattha 02. The personal name of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Siddhattha 02. Tên thánh của Gotama Buddha. Ja.i.56, 58, v.v...; iv. 50, 328; vi. 479; Dhp­a.iii.195; Dpv.iii.197; xix.18; Mhv.ii. 24, 25. Trong *Mahā Vastu*, ngài được gọi là Sarvārthasiddha.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kekaka"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kekaka. A city, regarded in ancient times as one of the three chief cities of <s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kekaka. Một thành phố, vào thời cổ đại được coi là một trong ba thành phố chính của Jambudīpa, các thành phố khác là Uttarapañcāla và Indapatta. Ja.ii.213.
 
 ## Notes

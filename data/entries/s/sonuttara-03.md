@@ -5,7 +5,7 @@ base_headword: "Soṇuttara"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -27,6 +27,6 @@ Soṇuttara 03. The name given to the princes of <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Soṇuttara 03. Tên được đặt cho các vương tử của Suvaṇṇabhūmi (*q.v.*) sau chuyến thăm của Soṇa và Uttara đến vương quốc này. Mhv.xii.54.
 
 ## Notes

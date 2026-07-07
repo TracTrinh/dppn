@@ -5,7 +5,7 @@ base_headword: "Kirāvāpi"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kirāvāpi. A tank restored by <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kirāvāpi. Một hồ nước được Parakkamabāhu I phục hồi (Cv.lxviii.47); ngày nay là Kiraveva. Cv.Trs.i.280, n.5.
 
 ## Notes

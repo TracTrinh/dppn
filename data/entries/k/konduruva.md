@@ -5,7 +5,7 @@ base_headword: "Konduruva"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -24,6 +24,6 @@ Konduruva. A locality in Ceylon, where <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Konduruva. Một địa phương ở Tích Lan, nơi Māṇābharaṇa (2) từng lánh nạn. Cv.lxxii.231; xem Cv.Trs.i.340, n.5.
 
 ## Notes

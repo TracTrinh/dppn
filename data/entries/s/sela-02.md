@@ -5,7 +5,7 @@ base_headword: "Sela"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -42,6 +42,12 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="16" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sela 02. Một Bà-la-môn ở Aṅguttarāpa. Ông là người bạn thân thiết của Keniya, vị Jaṭila, và đến thăm Keniya khi Keniya đang chuẩn bị khoản đãi Đức Phật. Khi nghe từ “*Buddha*” từ Keniya, Sela tràn ngập niềm hoan hỷ và phấn chấn, và cùng hai trăm năm mươi đệ tử của mình đến thăm Đức Phật trong khu rừng gần Āpana. Tại đó, ông quan sát trên thân của Đức Phật ba mươi hai tướng của một Đại Nhân, trừ hai tướng — tức là tướng mã âm tàng và lưỡi dài. Đức Phật đọc được tâm ý của ông và dùng thần thông *iddhi* sắp xếp để Sela được thỏa mãn về hai điểm đó (tự này được đề cập tại Mil.167; DN­a.i.276, v.v...). Sela sau đó tán thán Đức Phật bằng một loạt bài kệ và đặt câu hỏi với Ngài. Cuối buổi đàm luận, Sela gia nhập Tăng đoàn cùng với các đệ tử, và cuối một tuần, ông chứng đắc *Arahant* (Snp. p.104 ff. = MN.ii.146f).
+
+Vào thời Padumuttara Buddha, Sela đã là thủ lĩnh của cùng một hội nhóm ba trăm người, và cùng với họ, đã xây dựng một *pariveṇa* cho Đức Phật và thực hiện nhiều thiện hành. Nhờ kết quả của những việc đó, họ đã nhận được sự xuất gia “*ehi Bhikkhu*” *pabbajjā* trong đời cuối này (Snp­a.ii.455; MN­a.ii.782; xem thêm Ap.i.316; Thag.vs.818-41; Th4gA.ii.47f).
+
+Mahā Sela, được đề cập là thầy của Sugandha Thera (Thag­a.i.80f), có lẽ đồng nhất với Sela này. Sela sống đến tuổi một trăm hai mươi (DN­a.ii.413).
+
+Theo Dhammapada Commentary (Dhp­a.i.384; cũng AN­a.i.219), Đức Phật lần đầu gặp Sela trên đường đến Bhaddiya để hóa độ Visākhā và các người thân của bà. Visākhā lúc đó bảy tuổi. Apadāna (Ap.i.318) cho biết cha của Sela là một Bà-la-môn giàu có tên là Vāseṭṭha.
 
 ## Notes

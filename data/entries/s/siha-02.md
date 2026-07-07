@@ -5,7 +5,7 @@ base_headword: "Sīha"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -36,6 +36,10 @@ He was once a *Kinnara* on the banks of the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīha 02. Sīha Thera. Ông sinh ra trong một gia đình *rājā* ở xứ Malla và đã đến thăm Đức Phật. Đức Phật thuyết cho ông một bài pháp phù hợp với tính khí của ông, và ông gia nhập Saṅgha. Ông sống trong rừng tu thiền, nhưng tâm trí ông bị phân tán. Đức Phật, thấy vậy, đã đi qua không trung và nói chuyện riêng với ông, khuyên ông kiên trì. Được khích lệ như vậy, ông nỗ lực hết mình và đạt được quả vị *Arahant*.
+
+Ông từng là một *Kinnara* bên bờ sông Candabhāgā, và khi thấy Atthadassī Buddha đang đi qua không trung, ông đứng yên, chiêm ngưỡng Ngài với hai tay chắp lại. Đức Phật hạ xuống và ngồi dưới một gốc cây, nơi vị *Kinnara* dâng lên Ngài hoa và gỗ chiên đàn.
+
+Sīha ba lần làm vua, dưới tên Rohiṇī (Thag­a.i.179). Ông có lẽ chính là Candanapūjaka trong Apadāna. Ap.i.165.
 
 ## Notes

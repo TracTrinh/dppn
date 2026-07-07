@@ -5,7 +5,7 @@ base_headword: "Parābhavasutta"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Parābhavasutta 02. Seven conditions that bring about loss. AN.iv.26f.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parābhavasutta 02. Bảy điều kiện dẫn đến sự suy vong. AN.iv.26f.
 
 ## Notes

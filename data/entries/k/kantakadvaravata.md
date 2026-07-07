@@ -5,7 +5,7 @@ base_headword: "Kaṇṭakadvāravāta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kaṇṭakadvāravāta. A village in <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇṭakadvāravāta. Một ngôi làng ở Rohaṇa, nơi các lực lượng của Parakkamabāhu I. đã giáng một thất bại nặng nề cho những kẻ thù của họ (Cv.lxxiv.85). Nó được đồng nhất với Kaṭupelella ngày nay. Cv.Trs.ii.29, n.3.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sotthiyākara"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -29,6 +29,6 @@ Sotthiyākara, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sotthiyākara, Sotthiyākaravihāra. Một tu viện được dựng lên bởi Vua Sirimeghavaṇṇa tại cổng phía đông của Anurādhapura. Trong mười hai ngày, bức tượng của Mahinda, do nhà vua chế tác, đã lưu lại đó; sau đó nó được tôn trí trong Mahā Vihāra. Cv.xxxvii.82f.; về việc xác định vị trí xem Cv.Trs.i.6, n.1.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vattitasutta"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -23,6 +23,6 @@ Vattitasutta. On the eight proper ways of dealing with a monk guilty of some off
 
 ## Vietnamese translation
 
-Chưa dịch.
+Về tám cách thích hợp để xử lý một tu sĩ phạm phải một số lỗi lầm, người đã bị tiến hành các thủ tục kỷ luật. AN.iv.347; so sánh Vin.ii.86; MN.ii.249.
 
 ## Notes

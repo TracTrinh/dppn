@@ -5,7 +5,7 @@ base_headword: "Kummasutta"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -24,6 +24,6 @@ Kummasutta 01. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+*v.l.* Dukkarasutta. Một vị tỳ-kheo nên giống như con rùa, thu mình vào trong (SN.i.7).
 
 ## Notes

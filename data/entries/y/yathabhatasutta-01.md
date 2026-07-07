@@ -5,7 +5,7 @@ base_headword: "Yathābhatasutta"
 disambiguator: "01"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -24,6 +24,6 @@ Yathābhatasutta 01. Five qualities which lead a monk to hell: he is faithless, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yathābhatasutta 01. Năm phẩm chất dẫn một tỳ-kheo đến địa ngục: vị ấy là người vô tín, thiếu lương tâm, không sợ bị khiển trách, lười biếng và không có tuệ giác. AN.iii.3.
 
 ## Notes

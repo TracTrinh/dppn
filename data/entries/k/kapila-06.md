@@ -5,7 +5,7 @@ base_headword: "Kapila"
 disambiguator: "06"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kapila 06. The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kapila 06. Chú giải Majjhima (i.75) có nhắc đến một tỳ-kheo tên là Kapila, người mà vì lòng tham lam tài sản của mình, được miêu tả là đã tái sinh với một y *saṅghāṭi* bốc cháy (*saṅghātī pi ādittā hoti*). Điều này có lẽ đề cập đến một tỳ-kheo được đề cập trong Pārājikā (Vin.iii.107), người đã tái sinh làm một ngạ quỷ (*Peta*) và được nhìn thấy đi xuyên qua không trung với chiếc y đang bốc cháy.
 
 ## Notes

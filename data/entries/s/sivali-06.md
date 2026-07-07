@@ -5,7 +5,7 @@ base_headword: "Sīvalī"
 disambiguator: "06"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -25,6 +25,6 @@ Sīvalī 06. One of the founders of the *Sīhalasaṅgha* in Burma (Sās.,<span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīvalī 06. Một trong những vị sáng lập Sīhalasaṅgha ở Miến Điện (Sās.,p.65). Về sau ngài sáng lập một tông phái riêng của mình (Sās.,p.67).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kesārāma"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -26,6 +26,6 @@ Kesārāma. A park in the city of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kesārāma. Một công viên trong thành phố Sīlavatī. Đức Phật Dhammadassī đã viên tịch ở đó. Bv.xvi.25; Bv­a.185.
 
 ## Notes

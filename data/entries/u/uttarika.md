@@ -5,7 +5,7 @@ base_headword: "Uttarika"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uttarika. A diminutive form of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttarika. Hình thức thu nhỏ của Uttarā, được Uttaramātā, vị *Yakkhinī*, dùng để gọi con gái của mình. SN.i.210.
 
 ## Notes

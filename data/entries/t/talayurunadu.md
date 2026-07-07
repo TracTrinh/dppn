@@ -5,7 +5,7 @@ base_headword: "Tāḷayūrunāḍu"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Tāḷayūrunāḍu. A district in South India. Cv.lxxvi.261.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tāḷayūrunāḍu. Một quận ở Nam Ấn. Cv.lxxvi.261.
 
 ## Notes

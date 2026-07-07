@@ -5,7 +5,7 @@ base_headword: "Lahusutta"
 disambiguator: "02"
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -23,6 +23,6 @@ Lahusutta 02. here is no other single thing so quick to change (*lahuparivatta*)
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lahusutta 02. Không có một pháp đơn nào khác nhanh thay đổi (*lahuparivatta*) như tâm. AN.i.10.
 
 ## Notes

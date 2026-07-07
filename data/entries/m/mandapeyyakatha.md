@@ -5,7 +5,7 @@ base_headword: "Maṇḍapeyyakathā"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Maṇḍapeyyakathā. The tenth chapter of the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇḍapeyyakathā. Chương thứ mười của Mahā Vagga trong Paṭisambhidāmagga.
 
 ## Notes

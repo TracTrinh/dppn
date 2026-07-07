@@ -5,7 +5,7 @@ base_headword: "Vasavattīsutta"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vasavattīsutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+*Devaputta* Vasavattī đến thăm Moggallāna cùng với năm trăm *Devaputta* khác và đồng tình với Moggallāna trong việc tán thán Đức Phật, Pháp và Tăng đoàn. SN.iv.280.
 
 ## Notes

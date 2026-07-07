@@ -5,7 +5,7 @@ base_headword: "Somadattajātaka"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -30,6 +30,8 @@ The story was related in reference to a monk who had ordained a novice, and, whe
 
 ## Vietnamese translation
 
-Chưa dịch.
+Somadattajātaka 02. (Ja 410). Một Bà-la-môn giàu có ở Benares một lần xuất gia và trở thành ẩn sĩ ở Himālaya, nơi ông nuôi một vọi voi con, gọi nó là Somadatta. Một ngày, con voi ăn quá nhiều và bị ốm. Vị Bà-la-môn đi tìm quả dại cho nó, nhưng trước khi ông trở về, con vật đã chết. Vị ẩn sĩ đầy đầu đau buồn. Sakka (Bodhisatta) nhìn thấy điều này và, hiện trước mặt ông, nhắc nhở ông rằng không phải vì điều này mà ông đã rời bỏ vợ, của cải và con cái.
+
+Câu chuyện được kể liên quan đến một tỳ-khẻo đã độ một sa-di xuất gia, và khi người kia mất, ông đầy đầu đau khổ. Somadatta được đồng nhất với sa-di và vị Bà-la-môn với tỳ-khẻo. Ja.iii.388-91.
 
 ## Notes

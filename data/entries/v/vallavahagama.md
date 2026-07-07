@@ -5,7 +5,7 @@ base_headword: "Vallavahagāma"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vallavahagāma. A village in Ceylon, the birthplace of <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vallavahagāma. Một làng ở Tích Lan, quê hương của Tambasumana. Ras.ii.24.
 
 ## Notes

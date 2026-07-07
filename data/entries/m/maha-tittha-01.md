@@ -5,7 +5,7 @@ base_headword: "Mahā Tittha"
 disambiguator: "01"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Tittha 01. A Brahmin village in <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Tittha 01. Một ngôi làng của Bà-la-môn ở Magadha, nơi sinh của Mahā Kassapa. Thag­a.ii.141; AN­a.i.99; SN­a.ii.143.
 
 ## Notes

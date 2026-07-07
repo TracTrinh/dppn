@@ -5,7 +5,7 @@ base_headword: "Vidhura"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -28,6 +28,6 @@ Vidhura 01. A Brahmin, chaplain of the king of <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vidhura 01. Một Bà-la-môn, tế sư của vua xứ Benares. Để biết chi tiết xem Sambhavajātaka (Ja 515). Ông được đồng nhất với Mahā Kassapa (Ja.v.67). Con trai của Vidhura là Bhadrakāra. Ja.v.60.
 
 ## Notes

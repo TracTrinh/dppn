@@ -5,7 +5,7 @@ base_headword: "Kumudamāliya Thera"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,6 @@ Kumudamāliya Thera 01. An Arahant. In the time of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị Arahant. Vào thời của Atthadassī, ông là một *rakkhasa* ở một cái hồ gần Himavā và đã cúng dường Đức Phật một vòng hoa. Mười lăm *kappa* trước, ông đã làm vua bảy lần dưới cái tên Sahassaratha (Ap.i.186f).
 
 ## Notes

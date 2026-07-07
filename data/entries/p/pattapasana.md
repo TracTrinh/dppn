@@ -5,7 +5,7 @@ base_headword: "Pattapāsāṇa"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Pattapāsāṇa. A district of Ceylon, given for the maintenance of the <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pattapāsāṇa. Một khu vực của Tích Lan, được ban tặng cho việc duy trì Jeṭṭhārāma, bởi Jeṭṭhā, hoàng hậu trưởng của Aggabodhi IV. Cv.xlvi.28.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kūṭadantasutta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -31,6 +31,10 @@ At the conclusion of the discourse <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Được thuyết giảng tại Khānumata. Kūṭadanta thỉnh giáo Đức Phật về cách thức tốt nhất để làm cho một buổi hiến tế trở nên linh nghiệm, và Đức Phật kể cho ông nghe về một buổi hiến tế được tổ chức vào thời xưa bởi Vua Mahā Vijitāvī, dưới sự hướng dẫn của vị *Purohita* giác ngộ của ngài. Buổi hiến tế được tiến hành với sự hợp tác của bốn tầng lớp thần dân của nhà vua. Nhà vua có tám phẩm chất cá nhân, vị đạo sư của ngài cũng vậy. Không một sinh linh nào bị tổn hại; mọi lao động đều là tự nguyện và lễ hiến tế được dâng lên, không chỉ thay mặt cho nhà vua, mà cho tất cả những người lương thiện. Không có bất kỳ sự hối tiếc nào được cảm nhận ở bất kỳ giai đoạn nào của lễ hiến tế.
+
+Đức Phật sau đó tiếp tục nói với Kūṭadanta về các hình thức "hiến tế" khác có năng lực hơn là việc bố thí những vật chất, và kết thúc *Sutta* bằng sự mô tả về quả vị *Arahant*.
+
+Khi kết thúc bài thuyết pháp Kūṭadanta tuyên bố mình là một tín đồ của Đức Phật. DN.i.127ff.
 
 ## Notes

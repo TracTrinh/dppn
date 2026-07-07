@@ -5,7 +5,7 @@ base_headword: "Uppādasaṁyutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -25,6 +25,6 @@ Uppādasaṁyutta. The twenty-sixth section of the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uppādasaṁyutta. Phần thứ hai mươi sáu của Saṁyuttanikāya. SN.iii.228-31.
 
 ## Notes

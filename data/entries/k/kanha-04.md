@@ -5,7 +5,7 @@ base_headword: "Kaṇha"
 disambiguator: "04"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -29,6 +29,6 @@ Kaṇha 04. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇha 04. Con trai của Disā, một nữ tì của Okkāka. Cậu được gọi là Kaṇha vì cậu đen đúa và, giống như một ác quỷ (*kaṇha*), đã biết nói ngay khi vừa mới sinh ra. Cậu là thủy tổ của Kaṇhāyanagotta (DN.i.93). Sau này cậu đã đi đến Dekkhan và, sau khi học được những câu thần chú, đã trở thành một nhà tiên tri đầy quyền năng. Trở lại gặp Okkāka, Kaṇha đã đòi kết hôn với con gái của nhà vua là Maddarūpī. Lúc đầu yêu cầu này đã bị từ chối một cách phẫn nộ, nhưng khi Kaṇha phô diễn những năng lực siêu nhiên của mình, cậu đã giành được công chúa. DN.i.96f.; DN­a.i.266.
 
 ## Notes

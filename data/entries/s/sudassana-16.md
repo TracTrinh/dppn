@@ -5,7 +5,7 @@ base_headword: "Sudassana"
 disambiguator: "16"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sudassana 16. A *nigama* where the daughter of <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudassana 16. Một thị trấn (*nigama*) nơi con gái của vị trưởng giả (*seṭṭhi*) Piyadassī đã cúng dường cơm sữa cho Sikhī Buddha. Bv­a.201.
 
 ## Notes

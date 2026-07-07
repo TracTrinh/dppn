@@ -5,7 +5,7 @@ base_headword: "Veṇu"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -28,6 +28,6 @@ Veṇu. A river in Ceylon, on the way from <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Veṇu. Một con sông ở Tích Lan, trên đường từ Anurādhapura đến Dakkhiṇadesa. Nó nằm giữa Tissavāpi và Jajjaranadī. Vibh­a. p. 446.
 
 ## Notes

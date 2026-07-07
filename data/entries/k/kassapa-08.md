@@ -5,7 +5,7 @@ base_headword: "Kassapa"
 disambiguator: "08"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -24,6 +24,6 @@ Kassapa 08. A Brahmin ascetic, father of the Bodhisatta in the story of the <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapa 08. Một tu sĩ khổ hạnh Bà-la-môn, cha của Bodhisatta trong câu chuyện Kassapamandiyajātaka. Ja.iii.38.
 
 ## Notes

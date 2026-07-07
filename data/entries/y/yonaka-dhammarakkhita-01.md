@@ -5,7 +5,7 @@ base_headword: "Yonaka Dhammarakkhita"
 disambiguator: "01"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -26,6 +26,6 @@ Yonaka Dhammarakkhita 01. A *Thera*. He was sent to <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yonaka Dhammarakkhita 01. Một vị *Thera*. Ngài được cử đến Aparantaka vào lúc kết thúc Cuộc kết tập của Moggaliputtatissa (Mhv.xii.4). Tại đó, ngài đã thuyết giảng Aggikkhandhopamasutta và hóa độ ba mươi bảy ngàn chúng sinh. Mhv.xii.34f.; Dpv.viii.7; Vin-a.i.67.
 
 ## Notes

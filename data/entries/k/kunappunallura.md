@@ -5,7 +5,7 @@ base_headword: "Kuṇappunallura"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kuṇappunallura. A market town in South India in the district of <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một thị trấn giao thương ở Nam Ấn Độ thuộc quận Vīragaṅga (Cv.lxxvi.131).
 
 ## Notes

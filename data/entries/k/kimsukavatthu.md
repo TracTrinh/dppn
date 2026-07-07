@@ -5,7 +5,7 @@ base_headword: "Kiṁsukavatthu"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,6 @@ Kiṁsukavatthu. A village in <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kiṁsukavatthu. Một ngôi làng ở Rohaṇa. Tại đây quân đội của Rakkha và Bhūta đã chiến đấu một trận khốc liệt chống lại kẻ thù của họ. Cv.lxxiv.75f.
 
 ## Notes

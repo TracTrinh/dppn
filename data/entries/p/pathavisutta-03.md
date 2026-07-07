@@ -5,7 +5,7 @@ base_headword: "Paṭhavīsutta"
 disambiguator: "03"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Paṭhavīsutta 03. Incalculable is *Saṁsāra*. The number of parents a man ha
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṭhavīsutta 03. *Saṁsāra* là không thể tính đếm. Số lượng cha mẹ mà một người đã có sẽ còn lớn hơn cả số lượng các cục đất sét, mỗi cục có kích thước bằng một hạt *kola* (táo ta), mà có thể được tạo ra từ đất của trái đất. SN.ii.179.
 
 ## Notes

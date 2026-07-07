@@ -5,7 +5,7 @@ base_headword: "Māṇicara"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Māṇicara. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māṇicara. Một tù trưởng Yakkha mà những người theo đạo Phật có thể cầu khẩn khi gặp khó khăn. Xem DN­a.iii.970; A iii.205; nhưng xem Cara (2).
 
 ## Notes

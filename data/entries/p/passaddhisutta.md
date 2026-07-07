@@ -5,7 +5,7 @@ base_headword: "Passaddhisutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Passaddhisutta. On tranquillity – a conversation between <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Passaddhisutta. Về sự khinh an – một cuộc trò chuyện giữa Ānanda và Udāyī. AN.iv.455.
 
 ## Notes

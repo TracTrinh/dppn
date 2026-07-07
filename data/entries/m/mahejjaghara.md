@@ -5,7 +5,7 @@ base_headword: "Mahejjāghara"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -34,6 +34,6 @@ Mahejjāghara, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahejjāghara, Maheja, Mahejjāgharavatthu, Mahejjāvatthu, Mahejjāgharāsanasālā, Pahecivatthu. Một tòa nhà ở Anurādhapura, gần cổng phía tây. Khuôn viên của tòa nhà đã được sắp đặt bởi Paṇḍukābhaya (Mhv.x.90; xvii.30). Gajabāhu I. là người đầu tiên dựng lên Mahejjāsanasālā (Mhv.xxxv.122). Mahā Vaṁsaṭīkā (p.378) giải thích rằng Mahejavatthu là một điện thờ (*devaṭṭhāna*) dành riêng cho Yakkha tên là Maheja.
 
 ## Notes

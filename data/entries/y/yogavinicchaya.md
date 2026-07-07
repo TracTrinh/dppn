@@ -5,7 +5,7 @@ base_headword: "Yogavinicchaya"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -24,6 +24,6 @@ Yogavinicchaya. A Vinaya Sub-Commentary by <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yogavinicchaya. Một cuốn Phụ Chú Giải Vinaya do Vācissara biên soạn. Gv.68; PLC.202.
 
 ## Notes

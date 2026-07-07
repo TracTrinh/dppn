@@ -5,7 +5,7 @@ base_headword: "Kapijātaka"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -28,6 +28,8 @@ The story was told in reference to <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kapijātaka 02. (Ja 404). Có một thời Bodhisatta và Devadatta cả hai đều sinh ra làm những con khỉ. Một ngày nọ, một con khỉ tinh quái đã ngồi trên mái vòm phía trên cổng vào công viên và, khi vị giáo sĩ của nhà vua đi ngang qua dưới mái vòm, nó đã thả phân rơi trên đầu ông, và, khi vị giáo sĩ ngước nhìn lên, thậm chí vào cả trong miệng ông. Vị giáo sĩ đã thề sẽ trả thù những con khỉ, và Bodhisatta, nghe được điều đó, đã khuyên chúng nên tìm nơi cư trú ở nơi khác. Lời khuyên của ngài đã được tất cả làm theo ngoại trừ con khỉ, tức là Devadatta, và một vài kẻ theo nó. Đôi lúc sau đó, những con voi của nhà vua đã bị thiêu rụi do một ngọn lửa bùng phát trong chuồng của chúng. Một con dê đã ăn một ít gạo được mang ra phơi khô và bị đánh bằng một ngọn đuốc; lông của nó bắt lửa và ngọn lửa lan sang các chuồng. Vị giáo sĩ, nắm lấy cơ hội của mình, đã nói với các bác sĩ thú y trị voi rằng phương thuốc tốt nhất cho vết bỏng là mỡ khỉ, và năm trăm con khỉ trong những khu vườn hoàng gia đã bị các cung thủ sát hại vì mỡ của chúng.
+
+Câu chuyện được kể liên quan đến việc Devadatta bị đất nuốt chửng. Ja.iii.355f; cp. Kākajātaka.
 
 ## Notes

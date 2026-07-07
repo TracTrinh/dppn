@@ -5,7 +5,7 @@ base_headword: "Khuddakavatthukhandhaka"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -25,6 +25,6 @@ Khuddakavatthukhandhaka. The fifth chapter of the <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khuddakavatthukhandhaka. Chương thứ năm thuộc Cūḷa Vagga của Vinayapiṭaka. Vin.ii.105-43.
 
 ## Notes

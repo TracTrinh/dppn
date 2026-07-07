@@ -5,7 +5,7 @@ base_headword: "Mahā Saṅgharakkhita"
 disambiguator: "03"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -27,6 +27,6 @@ Mahā Saṅgharakkhita 03. Called *Malayavāsī* <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Saṅgharakkhita 03. Được gọi là *Malayavāsī* Mahā Saṅgharakkhita hoặc *Uparimaṇḍalakamalayavāsī*. Tissabhūti đã đến gặp ngài, sau khi nhận ra tâm trí của mình bị ô nhiễm bởi những tư tưởng tội lỗi, và sau khi nhận được từ Saṅgharakkhita một đề mục thiền định, ông đã chứng đắc quả vị *Arahant* (AN­a.i.23f.; MN­a.i.55). Ông là một trong những vị *Arahant* cuối cùng. J. L. Makārakkhira. Ja.iv.490; vi.30.
 
 ## Notes

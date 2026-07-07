@@ -5,7 +5,7 @@ base_headword: "Soṇa"
 disambiguator: "10"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Soṇa 10. A *gahapatiputta* (son of a householder) of <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Soṇa 10. Một *gahapatiputta* (con trai của một người tại gia) ở Rājagaha. Ông được đề cập là đã có hai cuộc đàm thoại với Đức Phật tại Veḷuvana: một về sự vô thường của thân xác, các cảm giác, v.v..., nguồn gốc và sự đoạn diệt của chúng (SN.iii.48f); và, trong một dịp khác, về lý do tại sao một số chúng sinh đạt được sự chấm dứt hoàn toàn trong đời này còn một số khác thì không. SN.iv.113.
 
 ## Notes

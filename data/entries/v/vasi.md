@@ -5,7 +5,7 @@ base_headword: "Vasī"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -24,6 +24,6 @@ Vasī. An epithet of *Mahā Brahmā*, e.g., Ja.vi.201.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một danh hiệu của *Mahā Brahmā*, ví dụ, Ja.vi.201.
 
 ## Notes

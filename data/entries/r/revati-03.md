@@ -5,7 +5,7 @@ base_headword: "Revatī"
 disambiguator: "03"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -29,6 +29,6 @@ Revatī 03. Another name, according to the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Revatī 03. Theo Dīpavaṁsa (xxi.40f.; cp. Mhv.xxxv.14f), đây là một tên gọi khác của Sīvalī, con gái của vua Āmaṇḍagāmaṇī Abhaya. Bà là em gái của Cūḷābhaya và kế vị ông trong thời gian bốn tháng, cho đến khi bị Iḷanāga phế truất.
 
 ## Notes

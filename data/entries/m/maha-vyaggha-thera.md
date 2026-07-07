@@ -5,7 +5,7 @@ base_headword: "Mahā Vyaggha Thera"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -26,6 +26,6 @@ Mahā Vyaggha Thera. An *Arahant* of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Vyaggha Thera. Một vị *Arahant* của *vihāra* Ukkanagara. Ngài đã nhận được một phần cháo hạt kê chua do Duṭṭhagāmaṇī cúng dường, và đã chia phần của mình cho bảy trăm vị tỳ-kheo. Mhv.x.xxii.54.
 
 ## Notes

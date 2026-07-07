@@ -5,7 +5,7 @@ base_headword: "Uppala"
 disambiguator: "03"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -24,6 +24,6 @@ Uppala 03. Father of the warrior <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uppala 03. Cha của chiến binh Ummādaphussadeva. Mhv.xxiii.82.
 
 ## Notes

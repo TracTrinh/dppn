@@ -5,7 +5,7 @@ base_headword: "Kaṇṭakacetiya"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -29,6 +29,6 @@ Kaṇṭakacetiya. A *cetiya* on <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇṭakacetiya. Một *cetiya* trên Cetiyapabbata. Tại đây Kāḷa Buddharakkhita Thera (*q.v.*) đã thuyết Kāḷakārāmasutta (MN­a.i.469f). Xem thêm Kaṭṭhaka và Kaṇṭaka.
 
 ## Notes

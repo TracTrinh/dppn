@@ -5,7 +5,7 @@ base_headword: "Kasiṇasutta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -24,6 +24,6 @@ Kasiṇasutta. The ten spheres of *kasiṇa* (*kasiṇāyatanāni*) – e.g., *p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kasiṇasutta. Mười lĩnh vực của *kasiṇa* (*kasiṇāyatanāni*) - ví dụ, *paṭhavi*, *āpo*, *tejo*, v.v. (AN.v.46)
 
 ## Notes

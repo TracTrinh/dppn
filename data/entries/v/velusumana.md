@@ -5,7 +5,7 @@ base_headword: "Veḷusumana"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/066.html"
@@ -42,6 +42,8 @@ When <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Veḷusumana. Một vị tướng của Duṭṭhagāmaṇī. Ông là con trai của Vasabha, một gia chủ ở Kuṭumbiyaṅgaṇa xứ Girijanapada. Khi đứa trẻ chào đời, hai người bạn của Vasabha là Veḷa và Sumana đã đến mang theo những món quà, và cậu bé được đặt theo hai tên của họ. Khi Veḷusumana lớn lên, ông đến sống với Sumana, tổng trấn xứ Girijanapada, và thu phục được một con ngựa mà những người khác đều thất bại. Do đó, Sumana đã thưởng cho ông một trăm ngàn và gửi ông đến triều đình của Kākavaṇṇatissa (Mhv.xxiii.68ff).
+
+Khi Vihāradevī muốn uống nước trong đó đã gươm đã được rửa sau khi chặt đầu Nandasārathi, dũng sĩ hàng đầu của Eḷāra, Veḷusumana đã được giao phó nhiệm vụ giết chết Nandasārathi. Do đó ông đã đến Anurādhapura, nơi ông kết bạn với người canh giữ ngựa của nhà vua, Vāha. Một ngày nọ, ông dắt con ngựa đi tắm ở dòng Kadambanadī, và, sau khi xưng tên mình, ông cưỡi ngựa tẩu thoát. Eḷāra cử Nandasārathi đuổi theo. Veḷusumana đứng nấp sau một bụi rậm, trên một gò đất tên là Nigrodhasāla, với thanh kiếm được rút sẵn, và khi Nandasārathi phóng qua nhanh, ông ta đã bị xuyên thủng bởi thanh kiếm của Veḷusumana (Mhv.xxii.51ff.; Mhv­ṭ. 440f). Veḷusumana đóng một vai trò nổi bật trong việc chiếm được Vijitapura (Mhv.xxv.25). Xem thêm Ras.ii.6f. và 97f. nơi các chi tiết có phần khác biệt.
 
 ## Notes

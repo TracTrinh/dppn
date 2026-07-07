@@ -5,7 +5,7 @@ base_headword: "Vātīyamaṇḍapa"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vātīyamaṇḍapa. A village mentioned in the account of the campaigns of <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngôi làng được nhắc đến trong bản tường thuật về các chiến dịch của Parakkamabāhu I. Cv.lxxii.32.
 
 ## Notes

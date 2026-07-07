@@ -5,7 +5,7 @@ base_headword: "Sugandha"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Sugandha 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sugandha 03. Sugandha Thera. Trong quá khứ, ông từng là một *seṭṭhiputta* của Benares và đã gia nhập Tăng đoàn dưới thời Kassapa Buddha, trở nên nổi tiếng như một người thuyết pháp. Sau khi qua đời, ông được sinh ra ở Tusita, và trong kiếp này được sinh ra giữa loài người, với một cơ thể tỏa hương thơm do đó có tên này. Ông gia nhập Tăng đoàn và trở thành một *Arahant*. Ap.ii.459-63.
 
 ## Notes

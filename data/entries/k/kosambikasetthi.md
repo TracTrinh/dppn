@@ -5,7 +5,7 @@ base_headword: "Kosambikaseṭṭhi"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -30,6 +30,8 @@ Kosambikaseṭṭhi. The banker of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kosambikaseṭṭhi. Vị trưởng giả của Kosambī. Ông đã nhận nuôi Ghosaka (*xem mục này*), nhưng sau này, khi có một đứa con trai ruột của mình, ông đã cố gắng bằng nhiều cách để giết Ghosaka. Tất cả các kế hoạch của ông đều thất bại, và ông bị bệnh tiêu chảy rồi qua đời, ngay cả kế hoạch tước quyền thừa kế của Ghosaka cũng bị người vợ của Ghosaka làm thất bại.
+
+Người nữ tỳ của Kosambikaseṭṭhi, người đã giúp đỡ trong tất cả các âm mưu thâm độc của ông, được gọi là Kāḷī. Dhp­a.i.174-85.
 
 ## Notes

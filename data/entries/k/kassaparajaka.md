@@ -5,7 +5,7 @@ base_headword: "Kassaparājaka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -28,6 +28,6 @@ Kassaparājaka. A monastery begun by a young prince, called <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassaparājaka. Một tu viện được khởi công bởi một vương tử trẻ tuổi tên là Kassapa dưới thời Vua Dappula và được hoàn thành bởi Sena I (Cv.l.81). Một bản khắc (Ep.Zey.i.42ff) có đề cập rằng một “Kasubraja-vehara” (có lẽ cũng chính là tu viện nói trên), đã được Kassapa V trùng tu.
 
 ## Notes

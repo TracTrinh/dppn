@@ -5,7 +5,7 @@ base_headword: "Kattikapabbata"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kattikapabbata. A village in <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kattikapabbata. Một ngôi làng ở Rohaṇa được Dappula I ban tặng cho Tissavihāra. Cv.xlv.59.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kokilā"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -26,6 +26,6 @@ Kokilā. Daughter of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kokilā. Con gái của Ekarāja và là chị em gái của Candakumāra. Ja.vi.134.
 
 ## Notes

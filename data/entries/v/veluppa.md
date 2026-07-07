@@ -5,7 +5,7 @@ base_headword: "Veḷuppa"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -28,6 +28,6 @@ Veḷuppa. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Veḷuppa. Một chiến binh Damiḷa đã giúp đỡ Aggabodhi III. trong cuộc chiến chống lại Jeṭṭhatissa III. Khi Jeṭṭhatissa nằm kiệt sức trên con voi của mình giữa trận chiến ác liệt, ông nhìn thấy Veḷuppa tiến đến, và vì không muốn bị giết bởi hắn, ông đã tự cắt cổ mình. Cv.xliv.111f.
 
 ## Notes

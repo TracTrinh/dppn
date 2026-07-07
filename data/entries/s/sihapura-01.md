@@ -5,7 +5,7 @@ base_headword: "Sīhapura"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -26,6 +26,6 @@ Sīhapura 01. A city, built by the third son of King <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhapura 01. Một thành phố, được xây dựng bởi người con trai thứ ba của vua Upacara thuộc vương triều Mahā Sammata. Ja.iii.460.
 
 ## Notes

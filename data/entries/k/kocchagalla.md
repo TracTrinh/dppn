@@ -5,7 +5,7 @@ base_headword: "Kocchagalla"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -24,6 +24,6 @@ Kocchagalla. A *Sāmaṇera* who went from Ceylon to <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kocchagalla. Một vị *Sāmaṇera* đã đi từ Tích Lan đến Amarapura vào năm 1662 của kỷ nguyên Kaliyuga. Sās.135.
 
 ## Notes

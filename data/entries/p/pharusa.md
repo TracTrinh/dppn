@@ -5,7 +5,7 @@ base_headword: "Phārusa"
 disambiguator: ""
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -26,6 +26,6 @@ Phārusa, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phārusa, Phārusaka. Một trong những khu vườn của Tāvatiṁsa. Ja.vi.278; Vibh-a.439; Paṭis-a.259, v.v.
 
 ## Notes

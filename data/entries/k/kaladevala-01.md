@@ -5,7 +5,7 @@ base_headword: "Kāḷadevala"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -25,6 +25,6 @@ Kāḷadevala 01. A sage; see <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷadevala 01. Một hiền triết; xem Asitadevala (2).
 
 ## Notes

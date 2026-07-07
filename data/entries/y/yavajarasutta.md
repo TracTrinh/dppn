@@ -5,7 +5,7 @@ base_headword: "Yāvajarāsutta"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -26,6 +26,6 @@ Yāvajarāsutta. A name given in the <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yāvajarāsutta. Một cái tên được đặt trong Suttasaṅgaha (Số 36) cho Jarāsutta (2) (*q.v.*).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Soṇadaṇḍasutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -27,6 +27,6 @@ Soṇadaṇḍasutta. The fourth *Sutta* of the <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Soṇadaṇḍasutta. *Sutta* thứ tư của Dīghanikāya. Ghi lại cuộc trao đổi giữa Đức Phật và Soṇadaṇḍa. Đức Phật hỏi ông những phẩm chất nào cho phép một người có quyền nhận mình là Bà-la-môn, và Soṇadaṇḍa trả lời. Đức Phật khiến ông phải thừa nhận rằng xuất thân không có ý nghĩa gì, chỉ có cuộc sống lành mạnh mới quan trọng. Đức Phật sau đó chỉ cho ông biết ý nghĩa của cuộc sống lành mạnh trong giáo pháp của Đức Phật, theo cách rất giống với Sāmaññaphalasutta. DN.i.111ff.
 
 ## Notes

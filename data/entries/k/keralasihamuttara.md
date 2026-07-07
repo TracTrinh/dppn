@@ -5,7 +5,7 @@ base_headword: "Keraḷasīhamuttara"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,6 @@ Keraḷasīhamuttara. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Keraḷasīhamuttara. Một thủ lĩnh người Damiḷa, một đồng minh của Kulasekhara (Cv.lxxvi.141). Sau này ông đã kết tình bằng hữu với Laṅkāpura. Cv.lxxvii.7.
 
 ## Notes

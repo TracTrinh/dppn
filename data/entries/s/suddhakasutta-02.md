@@ -5,7 +5,7 @@ base_headword: "Suddhakasutta"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -23,6 +23,6 @@ Suddhakasutta 02. On the six sense faculties. SN.v.203.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suddhakasutta 02. Về sáu giác quan (lục căn). SN.v.203.
 
 ## Notes

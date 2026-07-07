@@ -5,7 +5,7 @@ base_headword: "Sobhita"
 disambiguator: "05"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Sobhita 05. A mountain near <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sobhita 05. Một ngọn núi gần Himavā. Ap.i.328, 416.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vajjī"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -78,6 +78,18 @@ According to Xuanzang (Beal-Xuan: op.cit., 77), who visited it, the Vajjī (Vṛ
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vajjī, Vajjīs, Vajjians. Tên của một quốc gia và người dân của quốc gia đó. Đây là một trong mười sáu Mahā Janapadas. Cư dân dường như bao gồm nhiều bộ tộc liên minh, trong đó Licchavī và Videha là chủ đạo. Một đoạn trong các Chú giải (e.g., DN­a.ii.519) — ghi rằng trong số những người có trách nhiệm quản lý tư pháp ở nước Vajjī (xem Licchavī) có *Aṭṭhakulakā* — đã dẫn đến suy đoán rằng *Aṭṭhakulakā* có nghĩa là thủ lĩnh của tám tộc hợp thành liên minh Vajjī. Không có bằng chứng nào khác về số lượng các tộc. Các *Aṭṭhakulakā* có lẽ là một ủy ban tư pháp.
+
+Theo thời gian, Licchavī trở thành tộc hùng mạnh nhất trong số các tộc này (*Licchavī Vajjiraṭṭhavāsīhi pasatthā*) (e.g., MN­a.i.394), và các tên Vajjī và Licchavī thường đồng nghĩa với nhau. Xem Licchavī; trong *Trikandaseṣa*, được Cunningham trích dẫn (*Ancient Geography of India*. 509), *Licchavī*, *Vaideha* và *Tirabhukti* là đồng nghĩa. Trong một đoạn (AN.iii.76), Licchavī Mahā Nāma, khi thấy một nhóm Licchavī trẻ vừa đi săn về tụ tập quanh Đức Phật, được mô tả là nói rằng: "Những Licchavī này rồi sẽ trở thành người Vajjī" (*bhavissanti Vajjī*). Điều này có lẽ chỉ có nghĩa là có hy vọng lớn là những thanh niên này sẽ trở thành những người Vajjī đích thực, thực hành bảy điều kiện phúc lợi mà Đức Phật đã dạy, những điều kiện đảm bảo sự thịnh vượng của họ. Nhưng xem GS.iii.62, n.1 and 3.
+
+Vesālī là thủ đô của người Licchavī và Mithilā là của người Videha. Vào thời Gotama Buddha, cả Vesālī và Mithilā đều là các nền cộng hòa, dù Mithilā trước đây đã là một vương quốc dưới triều đại Janaka.
+
+Vào thời Đức Phật, và ngay cả cho đến khi Ngài viên tịch, người Vajjī là một cộng đồng rất thịnh vượng và hạnh phúc. Đức Phật quy nguyên nhân điều này cho việc họ thực hành bảy điều kiện phúc lợi mà Ngài đã dạy họ tại cetiya Sārandada. Chi tiết về lời dạy này và nhiều vấn đề khác liên quan đến Vajjī được trình bày dưới mục Licchavī. Nhưng không lâu sau khi Đức Phật viên tịch (ba năm sau lần viếng thăm cuối cùng của Đức Phật tại Vesālī, theo Buddhaghosa, DN­a.ii.522), Ajātasattu, với sự giúp đỡ của quan đại thần Vassakāra, đã gieo bất hòa trong hàng ngũ người Vajjī và chinh phục lãnh thổ của họ.
+
+Đức Phật đã nhiều lần đi qua vùng đất Vajjī, tuyến đường thông thường là qua Kosala, Malla, Vajjī, Kāsi, Magadha, rồi trở về (See, e.g., SN.v.348), và Ngài thuyết pháp cho dân chúng, phần lớn tại Kūṭāgārasālā ở Vesālī. Trong số các địa danh ngoài Vesālī mà Đức Phật đã viếng thăm, có đề cập đến Ukkācelā, Koṭigāma (see, e.g., Ja.ii.232, nơi được gọi là một làng của người Vajjī, trên bờ sông Ganges), Nādikā (trong đó có Giñjakāvasatha và Gosiṅgasālavana), Beluvagāma (hay Veḷuvagāma), Bhaṇḍagāma, Bhogagāma và Hatthigāma. Pubbavijjhana, quê hương của Channa, cũng được đề cập là một làng của người Vajjī (SN.iv.59). Sông Vaggumudā chảy qua lãnh thổ Vajjī (Ud.iii.3).
+
+Trong một ngữ cảnh (Ud­a., p. 382), Dhammapāla mô tả Udena là *Vajjirājā*. Đây có lẽ là một sự nhầm lẫn, vì Udena, vốn là vua của người Vatsas (hay Vaṁsas), không bao giờ được gọi là vua của người Vajjī. Người Vajjī được đề cập trong Mahā Nāradakassapajātaka (Ja 544). Đáng chú ý là cuộc ly giáo lớn đầu tiên trong Tăng đoàn Phật giáo nổ ra ở Vajjī, khi những Vajjiputtakā đưa ra Mười Điều của họ. Ngay cả trong thời Đức Phật còn sống, một số tỳ-kheo ở Vajjī đã theo Devadatta (Vin.ii.199f).
+
+Theo Xuanzang (Beal-Xuan: op.cit., 77), người đã đến thăm nơi đây, vùng đất Vajjī (Vṛji) rộng từ đông sang tây và hẹp từ bắc xuống nam. Người dân ở các nước lân cận được gọi là *Saṁvajji*, hay Liên minh Vajjī. Để biết chi tiết, xem Cunningham, *Ancient Geography of India*. 512ff. Các Chú giải chứa một tường thuật thần thoại về nguồn gốc của tên Vajjī. Xem Licchavī.
 
 ## Notes

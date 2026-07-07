@@ -5,7 +5,7 @@ base_headword: "Kumbhaghosaka"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,8 @@ The king tells the story to the Buddha, who praises Kumbhaghosaka. Dhp­a.i.321f
 
 ## Vietnamese translation
 
-Chưa dịch.
+Con trai của vị trưởng khố đứng đầu của Rājagaha. Bệnh dịch bùng phát trong thành phố và tấn công vị trưởng khố và vợ của ông. Khi sắp chết, họ từ biệt Kumbhaghosaka, dặn anh chạy trốn để cứu lấy mạng sống và quay lại sau để đào kho báu của họ lên. Anh đã trải qua mười hai năm trong một khu rừng và quay lại thì thấy kho báu không bị xáo trộn; nhưng suy nghĩ rằng vì anh không được biết đến trong thành phố, anh có thể bị làm phiền nếu bị bắt gặp đang đào kho báu lên và tiêu xài nó, anh quyết định tự kiếm sống và có được một vị trí đốc công. Một ngày nọ nhà vua, nghe thấy giọng nói của anh, thốt lên: "Đó là giọng của một người giàu có nào đó." Vài lần điều này xảy ra, và sau đó một nữ tỳ, tình cờ nghe được lời của nhà vua, đã đề nghị một khoản thù lao để biến nhà vua thành chủ nhân của tài sản của người đàn ông đó. Cô ta kiếm chỗ trọ cho bản thân và con gái mình trong nhà của Kumbhaghosaka và tìm cách khiến anh ta quyến rũ con gái mình. Một cuộc hôn nhân được sắp xếp, và Kumbhaghosaka buộc phải đào một phần của cải lên để trang trải các chi phí khác nhau do lệnh của nhà vua công bố. Khi âm mưu hoàn tất, Kumbhaghosaka được triệu tập trước nhà vua, nhà vua sau khi nghe câu chuyện của anh, đã xác nhận anh vào quyền thừa kế của mình và gả con gái của chính ngài cho anh làm vợ.
+
+Nhà vua kể câu chuyện cho Đức Phật, Ngài khen ngợi Kumbhaghosaka. Dhp­a.i.321ff.
 
 ## Notes

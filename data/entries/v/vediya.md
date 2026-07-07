@@ -5,7 +5,7 @@ base_headword: "Vediya"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -37,6 +37,8 @@ On the mountain lived an owl, who would accompany the Buddha half-way to the vil
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vediya, Vediyaka, Vediyagiri, Vedisaka. Một ngọn núi ở phía bắc của Ambasaṇḍā, trong đó có Indasālaguhā, nơi Gotama Buddha đã ngụ lại. Ngọn núi ngập tràn ánh hào quang khi Sakka đến viếng thăm Đức Phật nhân dịp thuyết giảng kinh Sakkapañhasutta (DN.ii.263, 264). Buddhaghosa nói rằng (DN­a.iii.697) ngọn núi được gọi như vậy vì chân núi được bao phủ bởi một vành đai rừng, trông giống như một hàng rào châu báu (*maṇivedikā*).
+
+Trên núi có một con cú sinh sống, nó thường đồng hành cùng Đức Phật đến nửa đường vào làng khi ngài đi khất thực, và sau đó quay về cùng ngài. Một ngày nọ, con cú đứng với đôi cánh rũ xuống, các móng vuốt chắp lại với nhau. Đức Phật đã mỉm cười khi nhìn thấy nó, và, để trả lời câu hỏi của Ānanda, ngài nói rằng con cú này, sau khi trải qua một trăm ngàn *kappas* giữa chư thiên và loài người, sẽ trở thành một vị Pacceka Buddha tên là Somanassa. MN­a.i.255f; cp. Khp-a.151, nơi ngọn núi được gọi là Vedisaka.
 
 ## Notes

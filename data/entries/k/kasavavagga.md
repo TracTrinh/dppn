@@ -5,7 +5,7 @@ base_headword: "Kāsāvavagga"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -25,6 +25,6 @@ Kāsāvavagga. The eighth section of the *Dukanipāta* of the <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāsāvavagga. Phần thứ tám của *Dukanipāta* thuộc Chú giải Jātaka Ja.ii.196-221.
 
 ## Notes

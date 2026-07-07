@@ -5,7 +5,7 @@ base_headword: "Parihānisutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Parihānisutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parihānisutta. Sāriputta nói với các tỳ-kheo về bốn phẩm chất mang lại sự "thối thất": đầy rẫy tham ái, sân hận, và si mê, và sự thiếu trí tuệ trong những vấn đề sâu sắc. AN.ii.143f.
 
 ## Notes

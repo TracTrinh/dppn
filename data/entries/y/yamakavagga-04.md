@@ -5,7 +5,7 @@ base_headword: "Yamakavagga"
 disambiguator: "04"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -24,6 +24,6 @@ Yamakavagga 04. The second chapter of the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yamakavagga 04. Chương thứ hai của Saḷāyatanasaṁyutta. SN.iv.6-15.
 
 ## Notes

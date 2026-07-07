@@ -5,7 +5,7 @@ base_headword: "Kalandakanivāpa"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -30,6 +30,8 @@ Kalandakanivāpa was evidently a favourite resort of the Buddha and his monks. S
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kalandakanivāpa. Một khu rừng ở Veḷuvana. Tại đây thức ăn (*nivāpa*) đã được đặt thường xuyên cho những con sóc. Người ta nói rằng có lần nọ một vị *rājā* nhất định đã đi đến đó cho một buổi dã ngoại và, vì đã uống quá say, nên ngủ thiếp đi. Đoàn tùy tùng của vị ấy, thấy vị ấy đang ngủ, đã đi lang thang ra xa, để tìm kiếm hoa và trái cây. Một con rắn, bị thu hút bởi mùi rượu, đã tiến về phía nhà vua từ một thân cây lân cận, và lẽ ra đã cắn vị ấy nếu không có một thọ thần, hóa thân thành hình dáng của một con sóc, đã đánh thức vị ấy bằng tiếng kêu của mình. Để tỏ lòng biết ơn, vị *rājā* đã ra lệnh rằng từ đó trở đi những con sóc trong khu vực đó sẽ phải được cho ăn thường xuyên. Ud­a.60; Snp-a.ii.419. Theo một số người, đó là món quà của một thương nhân tên là Kalandaka (Beal: *Romantic Legend of the Buddha*, p.315); các nguồn tài liệu Tây Tạng nhận diện vị *rājā* là Bimbisāra và nói rằng con rắn là một hóa thân của người chủ mà đất đai của ông đã bị nhà vua tịch thu. Theo cùng những nguồn tài liệu này, cái tên là Kalantaka và được miêu tả như tên của một loài chim (Rockhill, p.43).
+
+Kalandakanivāpa hiển nhiên là một nơi lui tới yêu thích của Đức Phật và các tỳ-kheo của Ngài. Xem Veḷuvana.
 
 ## Notes

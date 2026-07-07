@@ -5,7 +5,7 @@ base_headword: "Uppāde Sutta"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -25,6 +25,6 @@ Uppāde Sutta 01. The eight conditions – right views, etc. – come into being
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uppāde Sutta 01. Tám điều kiện – chánh kiến, v.v. – chỉ xuất hiện khi có sự xuất hiện của một vị Tathāgata. SN.v.14.
 
 ## Notes

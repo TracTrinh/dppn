@@ -5,7 +5,7 @@ base_headword: "Yamakoḷī"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -27,6 +27,6 @@ Yamakoḷī. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yamakoḷī. Một Yakkha, cùng với một ngàn vị khác, đã đứng gác ở cổng thứ nhất của cung điện Jotika (Dhp­a.iv.208). Khi Ajātasattu cố gắng chiếm lấy cung điện, vị Yakkha đã xua đuổi ông đi. Dhp­a.iv.222.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Taṇḍulapāladvāra"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Taṇḍulapāladvāra. One of the gates of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Taṇḍulapāladvāra. Một trong các cổng thành của Rājagaha. Gần cổng thành này là nơi ở của vị Bà-la-môn Dhānañjāni. MN.ii.185; MN­a.ii.795.
 
 ## Notes

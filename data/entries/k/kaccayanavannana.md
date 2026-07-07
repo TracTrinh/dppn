@@ -5,7 +5,7 @@ base_headword: "Kaccāyanavaṇṇanā"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kaccāyanavaṇṇanā. A commentary on <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaccāyanavaṇṇanā. Một bản chú giải về ngữ pháp của Kaccāyana do một vị Trưởng lão của Tích Lan, tên là Vijitāvī, biên soạn (Svd.1242). Nó đề cập đến các phần về *Sandhikappa*. Bode, 46.
 
 ## Notes

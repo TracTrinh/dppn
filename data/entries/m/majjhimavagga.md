@@ -5,7 +5,7 @@ base_headword: "Majjhimavagga"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Majjhimavagga. A district in the <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Majjhimavagga. Một vùng trong xứ sở Malaya của Tích Lan, được đề cập trong bản tường thuật về các chiến dịch của Parakkamabāhu I. Cv.lxx. 20, 21, 23; xem Cv.Trs.i.289, n.1.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kanthaka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -35,6 +35,10 @@ In this journey of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kanthaka (*v.l.* Kaṇṭhaka). Con ngựa mà Gotama đã cưỡi khi rời khỏi cung điện của cha mình, cùng với người hầu tòng của ngài là Channa. Người ta nói rằng khi Kanthaka được thắng yên cho chuyến đi, nó đã nhận ra tầm quan trọng của giờ phút đó và hí vang vì vui sướng, nhưng chư thiên đã làm nghẹt tiếng hí của nó cũng như tiếng bước chân của nó khi nó phi nước đại qua các con phố; thông thường tiếng hí và tiếng phi nước đại của nó có thể được nghe thấy khắp Kapilavatthu. Nó dài mười tám cubit từ cổ đến đuôi và rộng tương xứng, màu trắng toát, giống như một vỏ ốc xà cừ sạch sẽ.
+
+Trong chuyến đi này của Gotama, Channa bám vào đuôi của Kanthaka. Con ngựa có đủ sức mạnh, nếu cần thiết, để vượt qua các thành lũy của thành phố, cao mười tám sải tay, chỉ bằng một bước nhảy, cùng với vị hoàng tử và Channa trên lưng. Ngay bên ngoài Kapilavatthu, hoàng tử đã cho dừng ngựa lại, để nhìn thành phố lần cuối. Một *cetiya* sau đó đã được dựng lên trên địa điểm này và được gọi là *Kanthakanivattacetiya*. Con ngựa đã đi được ba mươi do-tuần từ nửa đêm cho đến sáng hôm sau, cho đến tận sông Anomā. Người ta nói rằng Kanthaka có thể đi vòng quanh toàn bộ *cakkavāla* trong một đêm. Với một cú nhảy, con ngựa đã nhảy qua dòng sông, rộng tám sải (fathoms). Khi đến bờ đối diện, Bodhisatta đã ra lệnh rằng Kanthaka nên được đưa trở lại Kapilavatthu, nhưng Kanthaka cứ liên tục nhìn lại người chủ của mình, và khi Bodhisatta khuất tầm nhìn, con ngựa đã chết vì đau lòng, và tái sinh ở Tāvatiṁsa dưới cái tên Kanthaka Devaputta. (Ja.i.62-5; Mvu.ii.159f., 165, 189, 190; Vibh­a.34, v.v.; *Buddhacarita*, v.3, 68; vi.53ff).
+
+Kanthaka sinh cùng ngày với Bodhisatta (Ja.i.54; Bv­a.106, 234, v.v.). Trên cõi trời, ngài có một cung điện nguy nga làm bằng ngọc *veluriya*, mà Moggallāna đã đến thăm trong một trong những chuyến du hành của ông ở Tāvatiṁsa. (Vv.73f;-Vv-a.311-18; xem thêm Dhp­a.i.70; iii.195).
 
 ## Notes

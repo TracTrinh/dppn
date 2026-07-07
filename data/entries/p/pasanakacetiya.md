@@ -5,7 +5,7 @@ base_headword: "Pāsāṇakacetiya"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -28,6 +28,6 @@ Pāsāṇakacetiya. A shrine near <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāsāṇakacetiya. Một điện thờ gần Rājagaha, nơi các đệ tử của Bāvarī đã gặp và vấn đáp Đức Phật (Snp.vs.1013). Đức Phật đã đi từ Sāvatthī đến đó, vì biết rằng đó là nơi tốt nhất để gặp họ. Các đệ tử của Bāvarī đã đi theo ngài đến đó. *Cetiya* ban đầu là một điện thờ dành cho một vị thần linh (*devaṭṭhāna*) và được xây dựng trên một tảng đá lớn, do đó có tên như vậy. Sau này, nó được chuyển đổi thành một *vihāra* cho Đức Phật, vì nằm trong khoảng cách dễ dàng đi đến từ thị trấn. Sakka đã xây dựng ở đó một hội trường lớn (*maṇḍapa*) cho Đức Phật (Snp­a. 583, 584). Hội trường này rõ ràng nằm phía sau *cetiya* (*piṭṭhipāsāne*). AN­a.i.184.
 
 ## Notes

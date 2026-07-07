@@ -5,7 +5,7 @@ base_headword: "Sudhammā"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sudhammā 01. An *Aggasāvikā* of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudhammā 01. Một Thượng thủ Nữ thinh văn (*Aggasāvikā*) của Atthadassī Buddha. Bv.xv.20; Ja.i.39.
 
 ## Notes

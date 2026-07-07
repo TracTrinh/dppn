@@ -5,7 +5,7 @@ base_headword: "Lābhavāsī"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -30,6 +30,6 @@ Lābhavāsī, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lābhavāsī, Lābhavāsīs. Một nhóm tỳ-kheo tu khổ hạnh trong Tăng đoàn Phật giáo tại Tích Lan. Mahinda IV. đặc biệt ưu đãi họ (Cv.liv.27), còn Vijayabāhu I. cấp các làng Antaraviṭṭhi, Saṅghātagāma và Sirimaṇḍagalagāma để nuôi dưỡng họ và cung cấp các vật dụng cần thiết. Cv.lx.68, 72.
 
 ## Notes

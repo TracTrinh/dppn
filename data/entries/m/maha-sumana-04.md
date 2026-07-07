@@ -5,7 +5,7 @@ base_headword: "Mahā Sumana"
 disambiguator: "04"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Sumana 04. A *Devaputta* of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sumana 04. Một vị thiên tử của Ariṭṭhapabbata. Ras.ii.169.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kimatthiyasutta"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -23,6 +23,6 @@ Kimatthiyasutta 02. Same as above. AN.v.311f.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kimatthiyasutta 02. Giống như trên. AN.v.311f.
 
 ## Notes

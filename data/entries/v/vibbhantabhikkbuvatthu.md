@@ -5,7 +5,7 @@ base_headword: "Vibbhantabhikkbuvatthu"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vibbhantabhikkbuvatthu. The story of a monk, living with <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vibbhantabhikkbuvatthu. Câu chuyện về một tỳ-kheo, sống cùng với Mahā Kassapa, người đã hoàn tục và giao du với những bạn bè xấu. Một ngày nọ, Kassapa nhìn thấy ông ta bị dẫn đi hành quyết vì một tội ác nào đó và đã bảo ông ta nhớ lại pháp hành thiền mà, trong những ngày trước đây, đã giúp ông ta đạt được *jhāna* thứ tư. Người đàn ông làm theo và không còn sợ hãi. Những người đao phủ, nhận thấy ông ta không bận tâm đến những hình phạt của họ dành cho mình, đã đưa ông ta đến gặp nhà vua, người mà, sau khi tra xét, đã thả ông ta ra. Sau đó, ông ta đến viếng thăm Đức Phật và trở thành một bậc *Arahant*. Dhp­a.iv.52f.
 
 ## Notes

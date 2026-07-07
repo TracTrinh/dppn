@@ -5,7 +5,7 @@ base_headword: "Pasūrasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -29,6 +29,6 @@ Pasūrasutta. The eighth *Sutta* of the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pasūrasutta. *Sutta* thứ tám thuộc Aṭṭhakavagga của Suttanipāta. Được thuyết giảng cho Pasūra tại Jetavana. Những người tranh luận cãi vã lẫn nhau và gọi nhau là những kẻ ngu; họ mong muốn sự ngợi khen và, khi không đạt được, trở nên bất mãn. Không một ai được thanh tịnh bởi sự tranh luận (Snp.vs.824, 834). *Sutta* này được chú giải trong Mahā Niddesa (pp. 161ff).
 
 ## Notes

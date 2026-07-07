@@ -5,7 +5,7 @@ base_headword: "Subhaddā"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Subhaddā 03. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subhaddā 03. Vợ của Tissa Buddha trước khi Ngài xuất gia. Bv.xviii.18.
 
 ## Notes

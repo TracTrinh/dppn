@@ -5,7 +5,7 @@ base_headword: "Yodhavagga"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -24,6 +24,6 @@ Yodhavagga. The eighth section of the <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yodhavagga. Phần thứ tám của Rasavāhinī.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Paribbājakavagga"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Paribbājakavagga. The eighth chapter of the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paribbājakavagga. Phẩm thứ tám của Majjhimanikāya, chứa các bài *Sutta* từ 71-80. MN.i.481ff.
 
 ## Notes

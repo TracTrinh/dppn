@@ -5,7 +5,7 @@ base_headword: "Mānacchidda"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mānacchidda. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mānacchidda. Một Pacceka Buddha. MN.i.70; Ap­a.i.107.
 
 ## Notes

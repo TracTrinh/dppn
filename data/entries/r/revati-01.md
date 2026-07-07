@@ -5,7 +5,7 @@ base_headword: "Revatī"
 disambiguator: "01"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -27,6 +27,6 @@ Revatī 01. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Revatī 01. Vợ của Nandiya (*q.v.*). Câu chuyện của bà được kể tại Dhp­a.iii.290ff. và cũng tại Vv-a.220ff, cũng được nhắc đến tại Pv-a.257. Theo bản Vv-a, Nandiya sau khi chết được sinh vào cõi Tāvatiṁsa, nhưng Revatī, sau khi chồng mất, đã chấm dứt việc bố thí mà ông đã thiết lập, mắng nhiếc các tỳ-kheo, và bị đọa sống vào địa ngục.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sīvalī"
 disambiguator: "03"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -28,6 +28,6 @@ Sīvalī 03. Daughter of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīvalī 03. Con gái của Āmaṇḍagāmaṇī và em gái của Cūḷābhaya. Bà trị vì ở Tích Lan trong bốn tháng (vào năm 93 CE.); sau đó bà bị Iḷanāga phế truất. Họ hiệu của bà là Revatī. Mhv.xxxv.14; Dpv.xxi.40f.
 
 ## Notes

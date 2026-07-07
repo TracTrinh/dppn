@@ -5,7 +5,7 @@ base_headword: "Sehāla-uparājaka"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Sehāla-uparājaka. A monastic building erected by <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sehāla-uparājaka. Một công trình tu viện được xây dựng bởi Saṅghatissa, *Uparāja* của Aggabodhi IV. Cv.xlvi.24.
 
 ## Notes

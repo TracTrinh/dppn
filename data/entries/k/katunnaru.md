@@ -5,7 +5,7 @@ base_headword: "Kaṭunnarū"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kaṭunnarū. A tank in South Ceylon repaired by <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṭunnarū. Một hồ chứa nước ở Nam Tích Lan được Vijayabāhu I (Cv.lx.48) và sau đó là Parakkamabāhu I trùng tu lại trước khi ông lên ngôi. Cv.lxviii.46.
 
 ## Notes

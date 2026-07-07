@@ -5,7 +5,7 @@ base_headword: "Seyyāsutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Seyyāsutta. On the four postures: that of *Petas*, of the luxurious, of the lio
 
 ## Vietnamese translation
 
-Chưa dịch.
+Seyyāsutta. Về bốn tư thế: tư thế của *Peta*, của người hưởng thụ, của sư tử, và của Tathāgata. AN.ii.244.
 
 ## Notes

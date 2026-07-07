@@ -5,7 +5,7 @@ base_headword: "Sucanda"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sucanda 02. A palace occupied by <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sucanda 02. Một cung điện nơi Sumana Buddha ngự trị trước khi Ngài xuất gia. Bv.v.22.
 
 ## Notes

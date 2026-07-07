@@ -5,7 +5,7 @@ base_headword: "Mahī"
 disambiguator: "02"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Mahī 02. A *Laṅkāgiri*, an officer of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahī 02. Một *Laṅkāgiri*, một viên chức của Parakkamabāhu I., được bố trí tại Assamaṇḍalatittha. Cv.lxxii.27.
 
 ## Notes

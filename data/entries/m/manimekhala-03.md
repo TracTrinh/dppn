@@ -5,7 +5,7 @@ base_headword: "Maṇimekhalā"
 disambiguator: "03"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -27,6 +27,6 @@ Maṇimekhalā 03. A district in Ceylon, founded by the general <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇimekhalā 03. Một huyện ở Tích Lan, do tướng quân Saṅkha thành lập trong thời gian kẻ tiếm quyền Māgha trị vì ở Pulatthipura. (Cv.li.72.)
 
 ## Notes

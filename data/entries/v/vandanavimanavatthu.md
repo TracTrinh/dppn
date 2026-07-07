@@ -5,7 +5,7 @@ base_headword: "Vandanavimānavatthu"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -27,6 +27,6 @@ Vandanavimānavatthu. The story of a woman who, seeing monks on their way to vis
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vandanavimānavatthu. Câu chuyện về một người phụ nữ, khi nhìn thấy các tỳ-kheo trên đường đến thăm đức Phật tại Sāvatthī, cô đã đảnh lễ họ với lòng thành kính sâu sắc, dõi theo họ cho đến khi khuất bóng. Về sau cô được tái sinh ở Tāvatiṁsa nơi Moggallāna đã nhìn thấy cô và nghe cô kể lại câu chuyện của mình. Vv.iv.11; Vv-a.205f.
 
 ## Notes

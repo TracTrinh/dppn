@@ -5,7 +5,7 @@ base_headword: "Kāḷigodhā"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -36,6 +36,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷigodhā. Một phu nhân người Sākiyan. Bà được tuyên bố là một *Sotāpanna*, và một cuộc trò chuyện giữa bà và Đức Phật, người đã đến thăm bà trong khi đang lưu lại tại Nigrodhārāma ở Kapilavatthu, được ghi lại trong Kālisutta (SN.v.396). Trong *Sutta*, bà được gọi là Godhā; bà có thể thuộc cùng dòng họ với Godha (xem ở mục từ tương ứng). Bà là mẹ của Bhaddiya Thera, người được tuyên bố là đệ nhất trong số các tỳ-kheo xuất thân từ dòng dõi quý tộc (Thag.v.864; AN.i.23; Thag­a.ii.55).
+
+Chú giải Aṅguttara (AN­a.i.109) nói rằng tên của bà là Godhā, và bà được gọi là Kāḷi vì nước da ngăm đen của bà. Bà là người thâm niên nhất trong số các phu nhân người Sākyan vào thời điểm đó. Dhammapāla nói về bà như là *āgataphalā, viññātasāsanā*. Ud­a.161.
 
 ## Notes

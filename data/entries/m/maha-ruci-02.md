@@ -5,7 +5,7 @@ base_headword: "Mahā Ruci"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Ruci 02. king of thirty-eight *kappas* ago, a previous birth of <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Ruci 02. Vị vua của ba mươi tám *kappa* về trước, một tiền kiếp của Trưởng lão Sucintita. Ap.i.133.
 
 ## Notes

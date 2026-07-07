@@ -5,7 +5,7 @@ base_headword: "Taddhigāma"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -27,6 +27,6 @@ Taddhigāma. A chieftain of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Taddhigāma. Một thủ lĩnh của Rohaṇa, bị Parakkamabāhu I khuất phục. Ông giữ tước hiệu Laṅkāpura. Cv.lxxv.180.
 
 ## Notes

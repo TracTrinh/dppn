@@ -5,7 +5,7 @@ base_headword: "Soṇa"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Soṇa 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Soṇa 01. Soṇa Thera. *Aggasāvaka* của Vessabhū Buddha. Ngài là em trai của Đức Phật, và bài thuyết pháp đầu tiên của Đức Phật được giảng cho ngài. Ja.i.42; Bv.xxii.23; Bv­a.205; DN.ii.4.
 
 ## Notes

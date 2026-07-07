@@ -5,7 +5,7 @@ base_headword: "Sudassanā"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sudassanā 01. Mother of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudassanā 01. Mẹ của Atthadassī Buddha. Bv.xv.14; Ja.i.39.
 
 ## Notes

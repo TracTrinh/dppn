@@ -5,7 +5,7 @@ base_headword: "Kattala"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -24,6 +24,6 @@ Kattala. A village in South India belonging to <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kattala. Một ngôi làng ở miền Nam Ấn Độ thuộc về Toṇḍamāna. Cv.lxxvii.51.
 
 ## Notes

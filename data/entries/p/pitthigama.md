@@ -5,7 +5,7 @@ base_headword: "Piṭṭhigāma"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -26,6 +26,6 @@ Piṭṭhigāma. A monastery built in <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piṭṭhigāma. Một tu viện được Moggallāna III xây dựng ở Kārapiṭṭhi. Cv.xliv.50.
 
 ## Notes

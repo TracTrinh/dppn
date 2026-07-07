@@ -5,7 +5,7 @@ base_headword: "Kappagallaka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kappagallaka. A village in <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kappagallaka. Một ngôi làng ở Rohaṇa nơi Mahinda V. đã thành lập một thị trấn mà, trong một thời gian, đã là nơi đặt chính phủ của ông (Cv.lv.11).
 
 ## Notes

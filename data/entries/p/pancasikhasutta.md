@@ -5,7 +5,7 @@ base_headword: "Pañcasikhasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Pañcasikhasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcasikhasutta. Pañcasikha đến thăm Đức Phật tại Gijjhakūṭa và hỏi tại sao có một số chúng sinh được hoàn toàn giải thoát ngay trong đời này, trong khi những người khác thì không. Đức Phật đã khai sáng cho vị ấy. SN.iv.103f.
 
 ## Notes

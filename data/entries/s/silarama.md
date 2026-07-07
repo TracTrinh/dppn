@@ -5,7 +5,7 @@ base_headword: "Silārāma"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Silārāma. A park in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Silārāma. Một khu vườn ở Candavatī, nơi Sujāta Buddha viên tịch. Bv.xiii.36; Bv­a.171.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sirivaḍḍhaka"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sirivaḍḍhaka. The name of the architect of the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirivaḍḍhaka. Tên của vị kiến trúc sư xây dựng Mahā Thūpa. Mhv­ṭ. 535.
 
 ## Notes

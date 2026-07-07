@@ -5,7 +5,7 @@ base_headword: "Pilindagāma"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Pilindagāma. Another name for <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pilindagāma. Một tên gọi khác của Ārāmikagāma (*q.v.*).
 
 ## Notes

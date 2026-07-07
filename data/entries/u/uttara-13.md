@@ -5,7 +5,7 @@ base_headword: "Uttara"
 disambiguator: "13"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Uttara 13. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttara 13. Con trai của Kakusandha Buddha trong kiếp sống cuối cùng của ngài. Bv.xxiii.17.
 
 ## Notes

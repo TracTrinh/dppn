@@ -5,7 +5,7 @@ base_headword: "Upālisutta"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -28,6 +28,6 @@ Upālisutta 01. Records the events that lead to the conversation of <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upālisutta 01. Ghi lại các sự kiện dẫn đến cuộc trò chuyện của gia chủ Upāli. Đức Phật được hỏi, trước tiên là bởi Dīgha Tapassī và sau đó là Upāli, về việc trong ba loại hành động – thân, khẩu và ý – loại nào là tội lỗi nhất. Đức Phật nói là ý; những người theo Nātaputta nói là thân. Bằng nhiều minh họa khác nhau, Đức Phật thuyết phục Upāli rằng những luận điểm của ông là sai lầm. Kinh kết thúc bằng một loạt các vần kệ (Upāligāthā) trong đó Upāli hát những lời ca ngợi Đức Phật. MN.i.371ff.
 
 ## Notes

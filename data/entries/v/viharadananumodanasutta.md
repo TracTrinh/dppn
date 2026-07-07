@@ -5,7 +5,7 @@ base_headword: "Vihāradānānumodanāsutta"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vihāradānānumodanāsutta. A *Sutta* quoted in the <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vihāradānānumodanāsutta. Một bài *Sutta* được trích dẫn trong Suttasaṅgaha (Số 63) từ Vinayapiṭaka (Vin.147f.) nói về giá trị của việc cúng dường các tinh xá (*vihāra*)
 
 ## Notes

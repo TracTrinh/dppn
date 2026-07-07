@@ -5,7 +5,7 @@ base_headword: "Majjhimagāma"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Majjhimagāma. A village in <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Majjhimagāma. Một ngôi làng ở Rohaṇa, được nhắc đến trong bản tường thuật về các chiến dịch của Parakkamabāhu I. Cv.lxxiv.83.
 
 ## Notes

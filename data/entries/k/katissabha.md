@@ -5,7 +5,7 @@ base_headword: "Kaṭissabha"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,6 @@ Kaṭissabha *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṭissabha, các dị bản Kaṭissaha. Một nam cư sĩ đệ tử của Đức Phật tại Nādikā, một trong số những người mà, sau khi họ qua đời, đã được Đức Phật tuyên bố, nhằm trả lời một câu hỏi của Ānanda, rằng đã đoạn trừ được năm kiết sử orambhāgiya và được sinh lên các cõi trời cao nhất, từ đó không bao giờ trở lại nữa. DN.ii.92; SN.v.358f.
 
 ## Notes

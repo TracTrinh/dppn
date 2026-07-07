@@ -5,7 +5,7 @@ base_headword: "Littajātaka"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -24,6 +24,6 @@ Littajātaka (Ja 91). The Bodhisatta was once a dice player, and used to play wi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Littajātaka (Ja 91). Bodhisatta thuở xưa là một người chơi xúc xắc, và thường chơi với một tay gian lận, kẻ này khi thấy mình đang thua sẽ ngậm một trong những viên xúc xắc vào miệng, giả vờ nó bị mất. Bodhisatta phát hiện ra điều này, và một ngày mang theo những viên xúc xắc đã được bôi thuốc độc khô. Kẻ gian lận chơi thủ thuật thường lệ và đau đớn ghê gớm vì thuốc độc. Sau đó Bodhisatta chữa lành cho y, từ đó dạy y trở nên lương thiện trong tương lai. Câu chuyện được kể liên quan đến một số tỳ-kheo không cẩn thận trong việc sử dụng các vật dụng cần thiết được cấp cho họ. Ja.i.379f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kaṇha"
 disambiguator: "03"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kaṇha 03. Another name of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇha 03. Một tên khác của Vāsudeva (Ja.iv.84, 86; vi.421; Pv-a.94ff); nhà chú giải giải thích rằng ông thuộc về Kaṇhāyanagotta (*xem bài này*).
 
 ## Notes

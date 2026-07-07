@@ -5,7 +5,7 @@ base_headword: "Khattiyānī"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -27,6 +27,6 @@ Khattiyānī or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khattiyānī hoặc Velāmikā. Đứng đầu trong số tám mươi bốn ngàn người nữ hầu hạ Bodhisatta khi ngài từng là một vị vua hùng mạnh Mahā Sudassana của Mahā Sammata. SN.iii.146; nhưng xem DN.ii.188.
 
 ## Notes

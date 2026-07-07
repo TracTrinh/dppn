@@ -5,7 +5,7 @@ base_headword: "Pāpaṇika"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -24,6 +24,6 @@ Pāpaṇika 02. The shopkeeper who is shrewd, supremely capable, and who inspire
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāpaṇika 02. Người chủ tiệm sắc sảo, vô cùng tài ba và tạo được sự tin cậy sẽ sớm đạt đến sự vĩ đại và gia tăng của cải; vị tỳ-kheo cũng sẽ đạt đến sự phát triển tâm linh theo cách tương tự. AN.i.115f.
 
 ## Notes

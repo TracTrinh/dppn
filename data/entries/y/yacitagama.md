@@ -5,7 +5,7 @@ base_headword: "Yācitagāma"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -25,6 +25,6 @@ Yācitagāma. A ford in the <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yācitagāma. Một bến sông trên sông Mahā Vālukagaṅgā. Cv.lxxii.39.
 
 ## Notes

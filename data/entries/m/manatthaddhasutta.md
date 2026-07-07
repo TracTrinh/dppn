@@ -5,7 +5,7 @@ base_headword: "Mānatthaddhasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mānatthaddhasutta. Records the visit of the Brahmin <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mānatthaddhasutta. Ghi lại cuộc viếng thăm của Bà-la-môn Mānatthaddha đến gặp Đức Phật. SN.i.177f.
 
 ## Notes

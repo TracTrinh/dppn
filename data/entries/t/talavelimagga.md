@@ -5,7 +5,7 @@ base_headword: "Tāḷavelimagga"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -29,6 +29,8 @@ On this road lived the mother of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tāḷavelimagga. Một con đường nằm giữa Mahā Gāma và Anurādhapura.
+
+Sống trên con đường này là mẹ của vị quan đại thần Tissa (xem Tissa 2), và tương truyền rằng bà đã ném xuống đường một mảnh vải trị giá một trăm đồng, mảnh vải từng được dùng trong lúc bà sinh nở. Vsm. p.63; *Path of Purity*, i.70, n.1.
 
 ## Notes

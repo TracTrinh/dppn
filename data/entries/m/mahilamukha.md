@@ -5,7 +5,7 @@ base_headword: "Mahilāmukha"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -27,6 +27,6 @@ Mahilāmukha. The state elephant of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahilāmukha. Con voi hoàng gia của Brahmadatta, vua của Benares. Xem Mahilāmukhajātaka (Ja 26).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sūkarajātaka"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -29,6 +29,8 @@ The story was told in reference to an old and foolish monk. One night the Buddha
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sūkarajātaka (Ja 153). Bodhisatta là một con sư tử sống trong một hang núi; trên bờ của một hồ nước gần đó có rất nhiều lợn rừng sinh sống, và trong khu vực lân cận có một vài đạo sĩ ẩn cư. Một ngày nọ sư tử, sau khi ăn một ít thịt thú săn, đã đi đến hồ nước để uống; nhưng sau khi uống xong, nhìn thấy một con lợn rừng mà nó không muốn làm cho hoảng sợ bỏ chạy, nó đã len lén bỏ đi với ý định sẽ ăn thịt nó khi thức ăn khan hiếm. Con lợn rừng đã nhìn thấy điều này, và, nghĩ rằng sư tử sợ mình, nó đã thách thức nó một trận chiến. Sư tử đồng ý sẽ chiến đấu một tuần sau đó. Con lợn rừng vô cùng mừng rỡ, và kể cho những người họ hàng của mình về điều này. Nhưng tất cả họ đều làm cho nó khiếp sợ và khuyên nó nên dành bảy ngày tiếp theo để lăn lộn trong đống phân của các đạo sĩ ẩn cư. Khi chất bẩn đã khô, nó phải làm ẩm cơ thể của mình bằng sương và đi đến địa điểm gặp gỡ từ sớm, đứng đón ngay đầu hướng gió. Nó đã làm như vậy, và khi sư tử đến nơi và ngửi thấy mùi hôi thối, con lợn rừng đã được phép rời đi mà không bị thương tích.
+
+Câu chuyện đã được kể liên quan đến một vị tỳ-kheo già cả và ngu ngốc. Một đêm nọ Đức Phật quay trở về thất của ngài vào đêm khuya sau khi thuyết pháp. Khi đó Moggallāna đã hỏi Sāriputta những câu hỏi khác nhau, và người sau đã giải thích. Những người dân vẫn ở lại, say mê với những lời diễn giải của Sāriputta. Một vị tỳ-kheo già, muốn thu hút sự chú ý vào bản thân, đã đứng lên và hỏi một câu hỏi ngu ngốc. Sāriputta, đọc được những suy nghĩ của ông, đã đứng dậy khỏi chỗ ngồi của mình và bỏ đi; Moggallāna cũng làm như vậy. Những nam cư sĩ có mặt ở đó đã bực mình với vị tỳ-kheo già và đuổi ông ta đi. Khi chạy ông đã rơi vào một hầm phân và bị bao phủ bởi chất bẩn. Những nam cư sĩ sau đó cảm thấy hối hận và đã đến thăm Đức Phật để xin ngài tha thứ. Vị tỳ-kheo già được đồng nhất với con lợn rừng. Ja.ii.9-12; cf. Dhp­a.iii.344f.; người ta nói rằng câu chuyện đã được kể liên quan đến Lāḷudāyī.
 
 ## Notes

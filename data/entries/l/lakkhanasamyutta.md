@@ -5,7 +5,7 @@ base_headword: "Lakkhaṇasaṁyutta"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -27,6 +27,6 @@ Lakkhaṇasaṁyutta. The nineteenth section of the <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lakkhaṇasaṁyutta. Phần thứ mười chín của Saṁyuttanikāya. Phần này chứa các câu chuyện về các *Petas* mà Moggallāna nhìn thấy khi đi cùng với Lakkhaṇa Thera. SN.ii.254-63.
 
 ## Notes

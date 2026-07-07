@@ -5,7 +5,7 @@ base_headword: "Maṅgana"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -30,6 +30,6 @@ Maṅgana. A locality, probably a monastery in Ceylon, the residence of an *Arah
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṅgana. Một địa điểm, có lẽ là một tu viện ở Tích Lan, nơi cư trú của một Arahant là Khuddakatissa (Kujjakatissa) (Mhv.xxxii.53; Ja.vi.30). Nơi này cách Anurādhapura năm do-tuần và được Saddhātissa viếng thăm (AN­a.i.384). Một *vihāra* Maṅgana được nhắc đến trong số các công trình tôn giáo do Dhātusena xây dựng (Cv.xxxviii.48). Đây có lẽ là một lần trùng tu công trình gốc.
 
 ## Notes

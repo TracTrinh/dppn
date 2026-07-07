@@ -5,7 +5,7 @@ base_headword: "Kusumārāma"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kusumārāma. Another name for <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tên gọi khác của Pupphārāma. (Cv. ci.7)
 
 ## Notes

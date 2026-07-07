@@ -5,7 +5,7 @@ base_headword: "Piyapāla"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Piyapāla. A teacher of the <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piyapāla. Một vị thầy về Abhidhamma (Vi-diệu-pháp). Dhs-a., p.32.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Piṅgala"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -26,6 +26,6 @@ Mahā Piṅgala. King of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Piṅgala. Vua của xứ Benares, cha của Bodhisatta. Ông được đồng nhất với Devadatta. Xem Mahā Piṅgalajātaka (Ja 240).
 
 ## Notes

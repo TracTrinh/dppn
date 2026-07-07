@@ -5,7 +5,7 @@ base_headword: "Paṭibhānasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Paṭibhānasutta. The four kinds of people in the world: he who replies to the 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṭibhānasutta. Bốn hạng người trên thế gian: người trả lời đúng trọng tâm, không dông dài; người trả lời dông dài; v.v. AN.ii.135.
 
 ## Notes

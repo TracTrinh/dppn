@@ -5,7 +5,7 @@ base_headword: "Kakkaṭajātaka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -43,6 +43,16 @@ The story is also found in the <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kakkaṭajātaka (Ja 267). Có lần một con cua vàng to bằng cả cái sân đập lúa sống ở *Kulīradaha* thuộc Himālaya, chuyên bắt và ăn thịt những con voi đi xuống hồ để uống nước. Trong sự kinh hãi, chúng đã rời khỏi khu vực này. Bodhisatta, khi sinh ra giữa bầy voi, đã cáo biệt cha mình, và quay trở lại hồ cùng với bạn bè. Bodhisatta, là người cuối cùng rời khỏi mặt nước, đã bị càng cua quắp lấy; nghe thấy tiếng kêu đau đớn của ngài, tất cả những con voi khác đều bỏ chạy ngoại trừ con voi cái bạn đời của ngài, người mà ngài đã cầu xin đừng rời bỏ ngài.
+
+Nhận ra bổn phận của mình, con voi cái đã nói với con cua những lời dụ dỗ và nịnh nọt; con cua, bị mê hoặc bởi âm thanh của một giọng nói nữ tính, đã buông con mồi ra. Ngay lập tức, Bodhisatta đã giẫm nó đến chết. Từ hai cái càng cua, về sau người ta đã chế tạo ra những chiếc trống Ānaka và Āḷambara (*q.v.*).
+
+Câu chuyện được kể lại liên quan đến người vợ của một địa chủ ở Sāvatthī. Hai vợ chồng đang trên đường đi thu nợ thì bị bọn cướp chặn đường. Tên trùm sơn tặc, vì muốn chiếm đoạt người vợ vì sắc đẹp của cô, đã lên kế hoạch giết người chồng. Người vợ bày tỏ quyết tâm sẽ tự tử nếu chồng cô bị giết, và sau đó cả hai đều được thả đi. Con voi cái trong Jātaka chính là người vợ của vị địa chủ (Ja.ii.341-5).
+
+Jātaka này được minh họa trong Barhut Stūpa (Cunningham; Bharhut plate xxv.2).
+
+Kakkaṭajātaka được đề cập (Dhp­a.i.119) trong số những câu chuyện do Đức Phật thuyết giảng đưa ra những ví dụ nơi Ānanda đã hiến dâng mạng sống của mình cho Bodhisatta. Điểm tham chiếu rõ ràng là Suvaṇṇakakkaṭajātaka (*q.v.*).
+
+Câu chuyện cũng được tìm thấy trong Saṁyutta Commentary (SN­a.ii.167), nhưng ở đó mạng sống của Bodhisatta không được cứu bởi người bạn đời mà bởi người mẹ của ngài.
 
 ## Notes

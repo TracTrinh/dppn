@@ -5,7 +5,7 @@ base_headword: "Vajjita Thera"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -31,6 +31,8 @@ Sixty-five *kappas* ago he was born in a remote village as a woodsman, and seein
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vajjita Thera. Ông thuộc một gia đình gia nhân (*ibbha*) ở Kosala, và vì ông đến từ cõi Brahma, ông khóc mỗi khi một phụ nữ ôm ông trong tay. Vì ông tránh sự chạm xúc của phụ nữ như vậy, ông được gọi là "*Vajjita*". Khi đủ tuổi, ông thấy phép Song thông của Đức Phật, gia nhập Tăng đoàn, và ngay ngày hôm đó đắc quả vị Arahant với *abhiññā* sáu phần.
+
+Sáu mươi lăm *kappa* trước, ông được sinh ra ở một làng xa xôi làm người tiều phu, và khi thấy Pacceka Buddha Upasanta, ông đã dâng tặng Ngài một bông hoa *campaka* (Thag­a.i.336). Hai bài kệ do ông nói được ghi trong Theragāthā (vss.215-6). Ông rõ ràng đồng nhất với Ekacampakapupphiya trong Apadāna. Ap.i.288.
 
 ## Notes

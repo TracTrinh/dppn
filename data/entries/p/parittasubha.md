@@ -5,7 +5,7 @@ base_headword: "Parittasubhā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Parittasubhā. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parittasubhā. Một tầng chư thiên thuộc nhóm Subha (MN.iii.102). Chúng sinh tái sinh vào cõi này sau khi đạt được *jhāna* thứ ba (Vibh­a. 507). Thọ mạng của họ là mười sáu *kappa*. Abhidh-s. 23.
 
 ## Notes

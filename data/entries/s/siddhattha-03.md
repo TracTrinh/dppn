@@ -5,7 +5,7 @@ base_headword: "Siddhattha"
 disambiguator: "03"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Siddhattha 03. An eminent monk in the time of <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Siddhattha 03. Một vị tỳ-khẻo nổi bật trong thời Duṭhāgāmaṇī. Nhìn thấy trước những nguy hiểm sắp đến, ngài ngăn cản nhà vua định vị một khu vực rất lớn cho Mahā Thūpa (Mhv.xxix.52). Ngài hiển nhiên được đặt ở vị trí đầu trong số các tỳ-khẻo có mặt tại Lễ Khởi Công của Mahā Thūpa. Xem Mhv­ṭ. 522, 524.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Uttarā"
 disambiguator: "08"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uttarā 08. Mother of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttarā 08. Mẹ của Maṅgala Buddha. Bv.iv.18; Ja.i.34.
 
 ## Notes

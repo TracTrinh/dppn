@@ -5,7 +5,7 @@ base_headword: "Kodhasuttā"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -24,6 +24,6 @@ Kodhasuttā 01. Two *Suttas* on four persons showing regard to wrath, hypocrisy,
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kodhasuttā 01. Hai bài kinh (*Suttas*) nói về bốn hạng người thể hiện sự lưu tâm đến sự phẫn nộ, sự đạo đức giả, lợi lộc và danh dự, và về hậu quả của bốn đặc tính này. AN.ii.46.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kesavajātaka"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -54,6 +54,18 @@ It was this reluctance of the <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kesavajātaka (Ja 346). Vị đạo sĩ Kesava sống ở Himavā cùng với năm trăm đệ tử. Bodhisatta, lúc đó sinh ra với tên gọi Kappa, một người Bà-la-môn xứ Kāsī, đã gia nhập cùng ngài và trở thành người đệ tử cao cấp nhất. Khi các đạo sĩ đến Benares để lấy muối và giấm, nhà vua đã cho họ ở lại trong công viên của mình và cung cấp thức ăn cho họ, và khi họ trở về Himavā, nhà vua đã thuyết phục Kesava ở lại. Kesava lâm bệnh vì cô đơn, và năm vị ngự y của nhà vua không thể chữa khỏi cho ngài. Thể theo yêu cầu của chính ngài, nhà vua đã sai quan đại thần Nārada đưa ngài đến Himālaya, và ở đó, khi nhìn thấy lại những nơi chốn quen thuộc và người đệ tử Kappa của mình, ngài đã bình phục ngay lập tức, mặc dù phương thuốc chữa bệnh của ngài chỉ là nước luộc của lúa hoang.
+
+Vị vua trong Jātaka chính là Ānanda, Nārada là Sāriputta, và Kesava là Bakabrahma.
+
+Câu chuyện này được kể lại cho Pasenadi. Sau khi phát hiện ra rằng Anāthapiṇḍika hàng ngày đều dâng cúng thức ăn cho năm trăm tỳ-kheo tại nhà mình, nhà vua đã ra lệnh cũng phải làm điều tương tự trong hoàng cung của mình. Một ngày nọ, ông phát hiện ra rằng các tỳ-kheo sẽ nhận thức ăn từ hoàng cung, nhưng sẽ ăn thức ăn được người khác dâng cúng cho họ ở nơi khác vì những người đó phục vụ họ bằng tấm lòng yêu mến. Khi nhà vua báo cáo điều này với Đức Phật, Đức Phật đã chỉ ra cho ông thấy rằng thức ăn ngon nhất là thức ăn được trao đi bằng tình yêu thương; tình yêu thương là thứ gia vị tuyệt vời nhất cho món ăn (Ja.iii.142-5; iii.362; SN.i.144; SN­a.i.165).
+
+Theo Dhammapada Commentary (Dhp­a.i.342ff), nhà vua đã đích thân chăm sóc các tỳ-kheo trong bảy ngày, sau đó ông quên bẵng đi và họ không được chăm lo nữa. Vì thế họ đã không đến hoàng cung nữa.
+
+Câu chuyện về quá khứ như được đưa ra trong bản Chú giải này khác biệt đáng kể so với phiên bản Jātaka. Ở đây Kesava được mô tả là một vị vua đã từ bỏ thế gian và trở thành một đạo sĩ. Các đạo sĩ rời khỏi công viên hoàng gia vì không thích sự ồn ào ở đó, nhưng họ đã để Kappa ở lại cùng Kesava. Chẳng bao lâu sau, Kappa cũng bỏ đi, và chính lúc đó Kesava mới đổ bệnh.
+
+Kesava được xác định với Bodhisatta, Kappa với Ānanda, vua xứ Benares với Moggallāna, và Nārada với Sāriputta.
+
+Chính sự miễn cưỡng này của các tỳ-kheo gốc Sākyan trong việc tiếp nhận lòng hiếu khách của Pasenadi đã dẫn đến việc ông tìm cách kết hôn với một thiếu nữ Sākyan; nhưng những người Sākiyan đã gả Vāsabhakhattiyā (xem mục này) cho ông.
 
 ## Notes

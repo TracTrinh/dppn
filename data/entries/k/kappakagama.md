@@ -5,7 +5,7 @@ base_headword: "Kappakagāma"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -28,6 +28,6 @@ Kappakagāma, (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kappakagāma, (Kappukagāma). Một *vihāra* ở Tích Lan, là nơi cư trú của Thera Deva. Chính từ ông mà Vua Vohārikatissa đã nghe Giáo pháp (Dhamma) và, như một dấu hiệu của sự sủng ái, nhà vua đã phục hồi năm tòa nhà thuộc về tu viện Kappakagāma (Mhv.xxxvi.29).
 
 ## Notes

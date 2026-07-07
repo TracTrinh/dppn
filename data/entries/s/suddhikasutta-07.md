@@ -5,7 +5,7 @@ base_headword: "Suddhikasutta"
 disambiguator: "07"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Suddhikasutta 07. or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suddhikasutta 07. Hoặc Samuddakasutta. Không có gì là thường còn. SN.iii.149.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kammasutta"
 disambiguator: "03"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -32,6 +32,6 @@ Kammasutta 03. Preached at <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kammasutta 03. Được thuyết giảng tại Gijjhakūṭa. Đức Phật nhìn thấy Sāriputta đang đi bộ với một số tỳ-kheo lỗi lạc khác, bao gồm Mahā Moggallāna, Mahā Kassapa, Anuruddha, Puṇṇa Mantānīputta, Upāli, Ānanda, và Devadatta, và khen ngợi mỗi người về một phẩm chất đặc biệt nào đó. Ngài kết thúc bài pháp này bằng cách nói rằng những chúng sinh có cùng khuynh hướng sẽ tụ họp lại với nhau. SN.ii.155.
 
 ## Notes

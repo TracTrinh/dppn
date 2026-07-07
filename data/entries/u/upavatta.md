@@ -5,7 +5,7 @@ base_headword: "Upavatta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -39,6 +39,10 @@ Here <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upavatta (Upavattana). Khu rừng *sāla* của những người Malla ở Kusināra, nằm ở bờ bên kia của Hiraññavatī. Đây là nơi nghỉ ngơi cuối cùng của Đức Phật trong chuyến du hành cuối cùng của Ngài, và tại đây Ngài đã viên tịch, nằm trên một chiếc giường được đặt giữa hai cây *sāla* (DN.ii.137ff; Dpv.xv.70).
+
+Tại đây Subhadda đã đến thăm Đức Phật vào phần đầu của đêm cuối cùng trong cuộc đời Ngài, được cải đạo và được nhận vào Tăng đoàn, sau đó đắc quả *Arahant* (xem thêm Dhp­a.iii.377). Cũng chính tại đây, Đức Phật đã hỏi các tỳ-kheo liệu họ có bất kỳ nghi ngờ nào họ muốn được nghe giải đáp liên quan đến Đức Phật, Pháp và Tăng đoàn, *magga* (đạo) và *paṭipadā* (đạo lộ), hay bất kỳ câu hỏi nào họ muốn hỏi (AN.ii.79), và tại đây Ngài đã đưa ra lời khuyên nhủ cuối cùng của Ngài cho các tỳ-kheo (SN.i.157; xem thêm Ud.37f). Ānanda đã cố gắng thuyết phục Ngài viên tịch ở một nơi có tầm quan trọng lớn hơn, và Đức Phật, để xóa tan những lầm tưởng trong tâm trí ngài ấy, đã thuyết cho ngài ấy Mahā Sudassanasutta (DN.ii.169f).
+
+Buddhaghosa nói (DN­a.ii.572f) rằng con đường đến khu rừng *sāla* từ Hiraññavatī bắt đầu từ bờ bên kia của dòng sông, giống như con đường từ Kadambanadī đến Thūpārāma ở Anurādhapura, đi qua Rājamātuvihāra. Hàng cây *sāla* trải dài từ nam sang đông và sau đó tiếp tục đi về phía bắc ("giống như con đường chính ở Anurādhapura"). Do đó có tên là Upavattana. Khu rừng nằm ở phía tây nam của Kusināra. Ud­a.238.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Khajjakadāyaka Thera"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -27,6 +27,6 @@ Khajjakadāyaka Thera. An *Arahant*. Ninety-two *kappas* ago he gave a ripe *pan
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khajjakadāyaka Thera. Một vị Arahant. Chín mươi hai kappa trước ngài đã dâng một trái mít (panasa) chín, cùng với một trái dừa, cho Đức Phật Tissa; và mười ba kappa trước ngài là một vị vua tên là Indasoma (Ap.i.182). Ngài có thể đồng nhất với Setuccha Thera. Thag­a.i.206f.
 
 ## Notes

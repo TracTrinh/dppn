@@ -5,7 +5,7 @@ base_headword: "Paṭijagga"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Paṭijagga. Sixty-seven *kappas* ago there were seven kings of this name, all p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṭijagga. Sáu mươi bảy *kappa* trước, có bảy vị vua mang tên này, tất cả đều là tiền kiếp của Citakapūjaka Thera. Ap.i.237.
 
 ## Notes

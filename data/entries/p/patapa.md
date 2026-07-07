@@ -5,7 +5,7 @@ base_headword: "Patāpa"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -28,6 +28,6 @@ Patāpa. A mythical king, descendant of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Patāpa. Một vị vua huyền thoại, hậu duệ của Mahā Sammata. Cha của ông là Mahā Ruci (hoặc Suruci) và con trai của ông là Mahā Patāpa. Dpv.iii.7; Mhv.ii.44.
 
 ## Notes

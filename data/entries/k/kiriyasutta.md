@@ -5,7 +5,7 @@ base_headword: "Kiriyasutta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -23,6 +23,6 @@ Kiriyasutta. The three ways (*dāna*, *sīla*, *bhāvanā*) of acquiring merit, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kiriyasutta. Ba cách (*dāna*, *sīla*, *bhāvanā*) để tích lũy công đức, được xem xét trong tám kết quả khác nhau được tạo ra tùy thuộc vào việc cách này hay cách kia được thực hành, ở mức độ nhỏ hay lớn. AN.iv.241f.
 
 ## Notes

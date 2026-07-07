@@ -5,7 +5,7 @@ base_headword: "Sucaritavagga"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sucaritavagga. The twenty-third chapter of the *Catukkanipāta* of the <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sucaritavagga. Chương thứ hai mươi ba của *Catukkanipāta* (Chương Bốn Pháp) thuộc Aṅguttaranikāya. AN.ii.228-30.
 
 ## Notes

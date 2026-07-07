@@ -5,7 +5,7 @@ base_headword: "Kiṁsīlasutta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -31,6 +31,10 @@ This *Sutta* is the ninth of the <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kiṁsīlasutta. Được Đức Phật thuyết để trả lời một câu hỏi của Sāriputta bắt đầu bằng từ *kiṁsīla*. Sāriputta đã đến thăm Đức Phật, dẫn theo một thanh niên, con trai của một người bạn của cha ông. Chàng thanh niên đã gia nhập Tăng đoàn dưới sự hướng dẫn của Sāriputta sau khi từ bỏ tài sản khổng lồ của mình, nhưng anh ta không đạt được thành tựu nào. Sāriputta muốn anh ta nghe Đức Phật giảng giải, do đó ông đã đặt câu hỏi (Snp-a.i.331).
+
+Người khao khát điều thiện cao tột không nên ghen tị, ngoan cố, hoặc bất cẩn, mà phải siêng năng trong sự tu tập của mình, trau dồi sự tự chế và phạm hạnh, chuyên tâm vào Pháp, xem Pháp là mối quan tâm đầu tiên và cuối cùng của mình (Sn.pp.56f).
+
+*Sutta* này là bài kinh thứ chín của Cūḷa Vagga thuộc Suttanipāta, và lấy tên từ từ đầu tiên (*kiṁsilo*) trong câu hỏi của Sāriputta.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Khandhāsutta"
 disambiguator: "01"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -24,6 +24,6 @@ Khandhāsutta 01. The five *khandhas* and the five *upādānakkhandhas*. SN.iii.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khandhāsutta 01. Bàn về năm khandha và năm upādānakkhandha. SN.iii.47.
 
 ## Notes

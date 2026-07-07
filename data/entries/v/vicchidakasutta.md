@@ -5,7 +5,7 @@ base_headword: "Vicchidakasutta"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -23,6 +23,6 @@ Vicchidakasutta. The idea of a fissured corpse, if cultivated, leads to great pr
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vicchidakasutta. Ý niệm về một tử thi bị xẻ nứt (fissured), nếu được tu tập, sẽ dẫn đến lợi ích lớn lao. SN.v.131.
 
 ## Notes

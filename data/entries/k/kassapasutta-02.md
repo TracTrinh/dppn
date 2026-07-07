@@ -5,7 +5,7 @@ base_headword: "Kassapasutta"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -27,6 +27,6 @@ Kassapasutta 02. Contains the thoughts that came to <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapasutta 02. Chứa đựng những suy nghĩ đã đến với Đức Phật Kassapa, trước khi ngài Giác ngộ, về bản chất của sự sinh tồn, của sự đoạn diệt, v.v. (SN.ii.9; so sánh với DN.ii.30f). Những tư tưởng tương tự cũng được cho là của những vị Phật khác, từ Đức Phật Vipassī trở về sau. Để biết thêm chi tiết, xem Gotamasutta.
 
 ## Notes

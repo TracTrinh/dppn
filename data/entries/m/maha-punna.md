@@ -5,7 +5,7 @@ base_headword: "Mahā Puṇṇa"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -27,6 +27,6 @@ Mahā Puṇṇa. A village in Ceylon where <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Puṇṇa. Một ngôi làng ở Tích Lan nơi Lakuṇṭaka Atimbara sống cùng với vợ của ông là Sumanā. Nó nằm gần *vihāra* Koṭapabbata. Dhp­a.i.117.
 
 ## Notes

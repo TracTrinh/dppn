@@ -5,7 +5,7 @@ base_headword: "Yasodhara"
 disambiguator: "02"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -24,6 +24,6 @@ Yasodhara 02. There were once seventy-seven kings of this name, all previous bir
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yasodhara 02. Từng có bảy mươi bảy vị vua mang tên này, tất cả đều là tiền kiếp của Soṇa Koḷivisa. Thag­a.i.546; Ap.i.94.
 
 ## Notes

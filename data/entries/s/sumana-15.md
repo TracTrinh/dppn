@@ -5,7 +5,7 @@ base_headword: "Sumana"
 disambiguator: "15"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -30,6 +30,6 @@ Sumana 15. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumana 15. Con trai của Saṅghamittā và Aggibrahmā (Mhv.v.170). Ông gia nhập Tăng đoàn ở tuổi lên bảy; ngay cả khi còn là một *Sāmaṇera* ông đã được ban cho sáu loại *abhiññā* và tháp tùng Mahinda đến Tích Lan (Mhv.xiii.4,18). Một lần khi ông thông báo rằng Mahinda chuẩn bị thuyết pháp, giọng nói của ông đã vang vọng khắp toàn bộ Tích Lan (Mhv.xiv.33). Để thu thập các xá lợi cho các *cetiya* ở Tích Lan, ông đã đi (bằng đường không) đến Pupphapura (Pāṭaliputta), và từ đó đến nơi ở của Sakka, để lấy xương quai xanh bên phải của Đức Phật. Ông đã giám sát việc đặt các xá lợi vào *cetiya* Thūpārāma. Mhv.xvii.7, 21; xix.24, 42; xem thêm Dpv.xii.13, 26, 39; xv.5f., 28, 93.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Soṇasuttā"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Soṇasuttā. Two *Suttas*, recording conversations between the Buddha and <span
 
 ## Vietnamese translation
 
-Chưa dịch.
+Soṇasuttā. Hai *Sutta* ghi lại các cuộc trò chuyện giữa Đức Phật và Soṇa-*gahapati* của Rājagaha. SN.iii.48f.; iv.113.
 
 ## Notes

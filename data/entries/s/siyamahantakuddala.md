@@ -5,7 +5,7 @@ base_headword: "Siyāmahantakuddāla"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -27,6 +27,6 @@ Siyāmahantakuddāla. A village near <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Siyāmahantakuddāla. Một ngôi làng gần Anurādhapura và sát bên Tissavāpi, được nhắc đến trong tường thuật về các cuộc chinh chiến của Gajabāhu. Cv.lxx.149, 154, 161.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vātaggasindhavajātaka"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -30,6 +30,8 @@ The story was told to a landowner of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhisatta từng sinh ra làm con ngựa chiến của vua xứ Benares, tên ngài là Vātaggasindhava. Một con lừa cái, Kuṇḍalī, đã yêu ngài và từ chối ăn. Con trai cô phát hiện ra điều này, và khiến con ngựa đồng ý đến gặp cô sau khi tắm. Nhưng khi con ngựa đến, Kuṇḍalī, không muốn khiến bản thân mình trở nên rẻ rúng, đã đá vào hàm ngài và suýt giết chết ngài. Con ngựa cảm thấy xấu hổ và không lặp lại chuyến viếng thăm của mình nữa, và Kuṇḍalī đã chết vì tình yêu không được đáp lại.
+
+Câu chuyện được kể liên quan đến một điền chủ ở Sāvatthī, một người phụ nữ xinh đẹp đã yêu ông say đắm. Bạn bè của cô, với rất nhiều khó khăn, đã thuyết phục được ông đến thăm cô vào một đêm, nhưng cô lại thất thường và từ chối những lời tán tỉnh của ông. Ông bỏ đi không bao giờ quay lại, và cô đã chết vì tình yêu không được đáp lại. Khi ông nghe tin về cái chết của cô, ông đã tìm đến Đức Phật, Ngài kể cho ông nghe câu chuyện này. Con lừa cái được đồng nhất với người phụ nữ. Ja.ii.337ff.
 
 ## Notes

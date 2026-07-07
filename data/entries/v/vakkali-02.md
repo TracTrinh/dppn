@@ -5,7 +5,7 @@ base_headword: "Vakkali"
 disambiguator: "02"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -24,6 +24,6 @@ Vakkali 02. A monk in the time of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vakkali 02. Một tỳ-kheo thời Padumuttara Buddha, được tuyên bố đứng đầu trong số những người có niềm tin không lay chuyển. Thag­a.i.422; Ap.ii.466.
 
 ## Notes

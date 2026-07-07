@@ -5,7 +5,7 @@ base_headword: "Kaliṅgarasutta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -29,6 +29,6 @@ Kaliṅgarasutta. Preached at the <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaliṅgarasutta. Được thuyết giảng tại Kūṭāgārasālā ở Vesālī. Chừng nào những người Licchavī ngủ trên rơm rạ (*kaliṅgara*) thì chừng đó họ sẽ có thể tự bảo vệ mình khỏi kẻ thù của họ, Ajātasattu; khi họ bắt đầu ngủ trên những chiếc giường êm ái, họ sẽ phải chịu thất bại. Do đó, điều này cũng giống như vậy đối với các tỳ-kheo và Māra. SN.ii.267f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vācissara"
 disambiguator: "02"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -31,6 +31,6 @@ Vācissara 02. A monk of Ceylon, pupil of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vācissara 02. Một tỳ-kheo người Tích Lan, đệ tử của Sāriputta. Nhiều tác phẩm được gán cho ông, trong đó có các chú giải về nhiều bộ ngữ pháp: *ṭīkā* Sambandhacintā, *ṭīkā* Subodhālaṅkāra, *vivaraṇa* Vuttodaya. Ông cũng soạn *Sumaṅgalapasādanī* về Khuddasikkhā và một bản chú giải về *vyākaraṇa* Moggallāna (PLC. 204). Ông dường như cũng đã viết bản Pāli Thūpavaṁsa và nhiều sách bằng tiếng Tích Lan. PLC.217; also Gv.62, 71.
 
 ## Notes

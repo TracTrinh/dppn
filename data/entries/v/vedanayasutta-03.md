@@ -5,7 +5,7 @@ base_headword: "Vedanāyasutta"
 disambiguator: "03"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vedanāyasutta 03. The desire and lust that is in feeling born of contact of the
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vedanāyasutta 03. Dục và tham trong thọ sinh ra từ sự tiếp xúc của mắt, v.v., đây là một sự ô nhiễm của tâm. SN.iii.233.
 
 ## Notes

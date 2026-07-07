@@ -5,7 +5,7 @@ base_headword: "Vācavācaka"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -27,6 +27,6 @@ Vācavācaka or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vācavācaka hay Vaccavācaka. Một luận thư ngữ pháp do Dhammadassī ở Pagan soạn (Sās., p.75; Bode, 22, and n.6). Có nhiều bản chú giải về tác phẩm này, nổi tiếng nhất là của Saddhammanandi. Các bản khác được gọi là *Vaccavācakavaṇṇanā*, *Vacavācakarikā* và *Vaccavācakadīpanī*.
 
 ## Notes

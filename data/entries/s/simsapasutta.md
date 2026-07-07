@@ -5,7 +5,7 @@ base_headword: "Siṁsapāsutta"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -27,6 +27,6 @@ Siṁsapāsutta. The Buddha, while staying in <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Siṁsapāsutta. Đức Phật, trong khi lưu trú tại Siṁsapāvana ở Kosambī, cầm lên một nắm lá và nói với các tỳ-kheo rằng những điều Ngài đã khám phá ra nhưng chưa tiết lộ, so với những điều Ngài đã tiết lộ, cũng như nắm lá này so với những chiếc lá trong rừng. Những gì Ngài chưa tiết lộ không dẫn đến sự tịch tĩnh, *Nibbāna*. Ngài đã tiết lộ khổ đau, nguyên nhân của nó, sự đoạn diệt, và con đường dẫn đến đó; điều này dẫn đến *Nibbāna*. SN.v.437.
 
 ## Notes

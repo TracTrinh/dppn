@@ -5,7 +5,7 @@ base_headword: "Kaṭṭhavāhananagara"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,6 @@ Kaṭṭhavāhananagara. The city of king <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṭṭhavāhananagara. Thành phố của vua Kaṭṭhavāhana (1) (Snp-a.ii.576). Nó cách Benares một ngày đường và cách Sāvatthī hai mươi yojana (Snp-a.ii.579).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Yamakapāṭihāriya"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -54,6 +54,10 @@ The Twin Miracle is described at DN­a.i.57, and in very great detail at Dhp­a.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yamakapāṭihāriya. Phép lạ “song song” (song thông). Khi Đức Phật ban hành một giới luật cấm các tỳ-kheo thi triển thần thông – sau phép lạ do Piṇḍola Bhāradvāja (*q.v.*) thực hiện – những kẻ ngoại đạo đi rêu rao rằng từ nay về sau họ sẽ không thực hiện phép lạ nào ngoại trừ với Đức Phật. Bimbisāra đã báo cáo điều này với Đức Phật, Ngài ngay lập tức chấp nhận lời thách thức, và giải thích rằng giới luật này dành cho các đệ tử của Ngài và không áp dụng cho chính Ngài. Do đó, Ngài đã đi đến Sāvatthī, nơi mà tất cả chư Phật thực hiện Phép lạ. Để trả lời Pasenadi, Đức Phật nói rằng Ngài sẽ thực hiện phép lạ ở gốc cây Gaṇḍamba vào ngày trăng tròn tháng *Āsāḷha*. Lúc đó là vào năm thứ bảy sau khi Giác Ngộ (DN­a.i.57).
+
+Do đó, những kẻ ngoại đạo đã nhổ bật rễ tất cả các cây xoài trong bán kính một do-tuần, nhưng, vào ngày đã hứa, Đức Phật đã đi đến khu vườn của nhà vua, nhận lấy trái xoài do Gaṇḍa cúng dường, và làm cho một cái cây kỳ diệu mọc lên từ hạt của nó. Dân chúng, khi phát hiện ra những gì những kẻ ngoại đạo đã làm, đã tấn công họ, và họ phải bỏ chạy tán loạn. Chính trong lúc bỏ trốn này mà Pūraṇa Kassapa (*q.v.*) đã tự tử. Đám đông, tụ tập để chứng kiến phép lạ, kéo dài đến một khoảng cách ba mươi sáu do-tuần. Đức Phật đã tạo ra một lối đi kinh hành bằng ngọc báu trong không trung bên cạnh cây Gaṇḍamba. Khi các đệ tử của Đức Phật biết được những gì trong tâm Ngài, một số vị đã đề nghị thực hiện các phép lạ và do đó bác bỏ những lời ám chỉ của những kẻ ngoại đạo. Trong số các đệ tử đó có Gharaṇī, Cūḷa Anātthapiṇḍika, Cīrā, Cunda, Uppalavaṇṇā và Moggallāna. Đức Phật đã từ chối những lời đề nghị của họ và kể các câu chuyện Kaṇha-usabhajātaka và Nandivisālajātaka. Sau đó, đứng trên lối đi kinh hành bằng ngọc báu, Ngài bắt đầu thực hiện phép lạ Yamakapāṭihāriya (Song Thông), được gọi như vậy vì nó bao gồm sự xuất hiện của các hiện tượng có tính chất đối lập nhau theo từng cặp – ví dụ: tạo ra ngọn lửa từ phần trên của cơ thể và một dòng nước từ phần dưới, và sau đó luân phiên nhau. Những ngọn lửa và dòng nước cũng luân phiên phát ra từ phía bên phải cơ thể Ngài và từ phía bên trái. DN­a.l.57; Dhp­a.iii.214f. giải thích cách điều này được thực hiện. Từ mọi lỗ chân lông trên cơ thể Ngài, những tia sáng sáu màu phóng ra, hướng lên tới cõi trời *Brahma* và hướng xuống tới rìa của núi Cakkavāḷa. Phép lạ kéo dài trong một lúc lâu, và khi Đức Phật đi tới đi lui trên thềm ngọc báu, thỉnh thoảng Ngài lại thuyết pháp cho đám đông. Người ta nói rằng Ngài đã thực hiện các phép lạ và thuyết giảng các bài kinh trong mười sáu ngày, tùy theo các căn cơ khác nhau của những người hiện diện trong pháp hội. Khi kết thúc Phép lạ, Đức Phật, noi gương các vị Phật tiền nhiệm, đã thực hiện ba bước để đến Tāvatiṁsa, nơi đó để thuyết giảng Abhidhammapiṭaka cho mẫu thân Ngài, lúc này đã sinh làm một vị *Devaputta*.
+
+Phép lạ Song Thông được mô tả tại DN­a.i.57, và với rất nhiều chi tiết tại Dhp­a.iii.204; xem thêm Ja.iv.263ff. Phiên bản Dhammapada Commentary có vẻ hoàn toàn khác với phiên bản Jātaka; phiên bản sau rất ngắn gọn và thiếu nhiều chi tiết, đặc biệt là về phép lạ của Piṇḍola và việc thuyết giảng Abhidhamma ở Tāvatiṁsa. Ghi chép được đưa ra trong *Divyāvadāna* (143-66) lại khác; Phép lạ hiển nhiên đã được Đức Phật thực hiện nhiều lần (ví dụ, xem Candanamālā), và nó thường xuyên được nhắc đến – ví dụ, Ja.i.77, 88, 193; Paṭis.i.125; Snp­a.i.36; AN­a.i.71; MN­a.ii.962; Mil. 349; Vsm.390; Pv-a.137; Dāṭhāvaṁsa i.50. Phép lạ cũng được thực hiện bởi xá-lợi của Đức Phật; xem, ví dụ, Mhv.xvii.52f.; Vin-a.i.88, 92. Người ta nói (Mil.349) rằng hai trăm triệu chúng sinh đã thấu hiểu Dhamma khi kết thúc Phép lạ. Phép lạ Song Thông chỉ có thể được thực hiện bởi một vị Buddha. Mil.106.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kaccānasutta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -30,6 +30,6 @@ Kaccānasutta. A discourse to the monks by <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaccānasutta. Một bài thuyết giảng cho các tỳ-kheo của Mahā Kaccāna về sáu chủ đề tùy niệm – Đức Phật, Pháp và Tăng đoàn, các đức hạnh của chính mình, sự bố thí và chư thiên (AN.iii.314ff). Nó được trích dẫn trong Visuddhimagga (p.519), nơi có nói rằng việc nói về những sự cố ngẫu nhiên như một sự phát sinh đơn thuần là mâu thuẫn với cả Padesavihārasutta và Kaccānasutta. Xem thêm Kaccānapeyyāla.
 
 ## Notes

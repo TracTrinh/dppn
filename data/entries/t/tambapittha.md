@@ -5,7 +5,7 @@ base_headword: "Tambapiṭṭha"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -29,6 +29,6 @@ Tambapiṭṭha. A village seven leagues to the east of <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tambapiṭṭha. Một ngôi làng cách Anurādhapura bảy do-tuần về phía đông, trên bờ sông Mahā Vālukanadī. Khi Duṭṭhagāmaṇī lập kế hoạch xây dựng Mahā Thūpa, những cục vàng đã xuất hiện ở Tambapiṭṭha. Mhv.xxviii.16.
 
 ## Notes

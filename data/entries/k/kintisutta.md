@@ -5,7 +5,7 @@ base_headword: "Kintisutta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kintisutta. Preached at <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kintisutta. Được thuyết tại Baliharaṇa ở Kusinārā. Đức Phật dạy các tỳ-kheo rằng họ nên tự rèn luyện bản thân trong những giáo lý cao thượng mà ngài đã giảng dạy, chẳng hạn như *satipaṭṭhāna*, *iddhipāda*, v.v., và đề ra các quy định về việc đối xử với những tỳ-kheo tranh luận về ý nghĩa và văn tự của Pháp và những người phạm lỗi. *Sutta* lấy tên từ những từ đầu tiên (*kinti*) do Đức Phật thốt ra khi bắt đầu bài thuyết giảng. MN.ii.238ff.
 
 ## Notes

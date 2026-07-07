@@ -5,7 +5,7 @@ base_headword: "Uttara"
 disambiguator: "09"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -29,6 +29,6 @@ Uttara 09. A pupil of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttara 09. Một đệ tử của Brahmāyu. Ông được thầy mình phái đi từ Mithilā đến Videha, để tìm hiểu xem liệu Đức Phật có mang những dấu hiệu của một Bậc Đại Nhân hay không. Sau khi chắc chắn về sự hiện diện của tất cả ba mươi hai dấu hiệu trên thân thể Đức Phật, ông đã bám theo gót chân Đức Phật trong suốt bảy tháng, để quan sát dáng điệu của ngài trong từng tư thế. Vào thời điểm kết thúc khoảng thời gian đó, ông quay trở về gặp Brahmāyu và báo cáo những gì ông đã nhìn thấy (MN.ii.134ff; Snp-a.i.37). Buddhaghosa cho biết (MN­a.ii.765) rằng Uttara được biết đến với tên gọi Buddhavīmaṁsakamāṇava vì sự theo dõi sát sao của ông đối với Đức Phật.
 
 ## Notes

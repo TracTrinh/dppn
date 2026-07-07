@@ -5,7 +5,7 @@ base_headword: "Vedanāyasutta"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vedanāyasutta 02. The feeling born of contact by the eye, ear, etc., this is th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vedanāyasutta 02. Thọ sinh ra từ sự tiếp xúc của mắt, tai, v.v., đây là sự xuất hiện của sự già và chết. Sự chấm dứt của cái trước là sự đi đến chấm dứt của cái sau. SN.iii.230.
 
 ## Notes

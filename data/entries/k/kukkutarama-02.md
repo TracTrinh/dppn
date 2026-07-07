@@ -5,7 +5,7 @@ base_headword: "Kukkuṭārāma"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -48,6 +48,6 @@ Kukkuṭārāma 02. A pleasaunce in <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kukkuṭārāma 02. Một hoa viên ở Pāṭaliputta. Nó rõ ràng là nơi cư ngụ của các tỳ-kheo từ thời rất xa xưa, có lẽ, trong một khoảng thời gian, là của chính Đức Phật. Mahā Vagga (Vin.i.300) đề cập đến tên của một số vị Thera (Trưởng lão) đã sống ở đó: Nilavāsi, Sāṇavāsi, Gopaka, Bhagu, Phalikasandana. Saṁyuttanikāya (SN.v.15f; 171f) ghi lại một số cuộc thảo luận đã diễn ra ở đó giữa Ānanda và Bhadda. Nó có thể là một nơi lui tới ưa thích của Ānanda, vì chúng ta thấy cư sĩ Dasama của Aṭṭhakanagara đã đến đó để dò hỏi về nơi ở của ngài (AN.v.342; MN.i.349). Nó cũng (có lẽ vào một thời điểm muộn hơn) là nơi ở của Nārada người đã cải đạo Vua Muṇḍa (AN.iii.57f), và sau đó là của Soṇaka, *upajjhāya* (thầy tế độ) của Siggava, và của Caṇḍavajji, thầy của Moggaliputtatissa (Mhv.v.122). Buddhaghosa có đề cập (MN­a.ii.571; AN­a.ii.866) rằng Kukkuṭārāma được xây dựng bởi *seṭṭhi* (trưởng giả) Kukkuṭa, nhưng không cung cấp thêm thông tin chi tiết nào. Ở đây có lẽ có một chút nhầm lẫn với *ārāma* (tu viện) cùng tên ở Kosambī. Huyền Trang (Xuanzang) (Beal-Xuan: op.cit.ii, 95) nói rằng Kukkuṭārāma nằm ở phía đông nam của thành phố cổ Pāṭaliputta và do Asoka xây dựng khi ngài lần đầu tiên trở thành một người cải đạo sang giáo pháp của Đức Phật. “Nó là một loại thành quả đầu tiên và là một khuôn mẫu của kiến trúc hùng vĩ.” Chỉ còn lại nền móng của tòa nhà vào thời điểm Huyền Trang đến thăm. Rất có thể lời tường thuật này đề cập đến Asokārāma mà Asoka đã xây dựng làm cấu trúc Phật giáo đầu tiên của mình, và rằng Asokārāma được xây dựng trên địa điểm của Kukkuṭārāma cũ. Điều đáng chú ý là các kinh sách Pāli, trong việc ghi chép lại các hành động của Asoka, không đề cập đến một Kukkuṭārāma tồn tại vào thời của ngài, mặc dù các văn bản tiếng Phạn, ví dụ như *Divyāvadāna*, có thường xuyên đề cập đến nó (ví dụ, pp.381f, 430ff; xem thêm Smith: *Asoka*, 183, 193f). Nếu phỏng đoán được đưa ra ở trên, cụ thể là Asokārāma đã thay thế Kukkuṭārāma, là chính xác, thì có thể nơi đó đã được biết đến bằng cả hai cái tên vào thời Asoka.
 
 ## Notes

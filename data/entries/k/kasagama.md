@@ -5,7 +5,7 @@ base_headword: "Kasagāma"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kasagāma. A village in Ceylon, given to the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kasagāma. Một ngôi làng ở Tích Lan, được Dāṭhopatissa II dâng cúng cho Morapariveṇa. Cv.xlv.28.
 
 ## Notes

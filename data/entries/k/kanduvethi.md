@@ -5,7 +5,7 @@ base_headword: "Kaṇḍuveṭhi"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,6 @@ Kaṇḍuveṭhi. A city in India, the capital of <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇḍuveṭhi. Một thành phố ở Ấn Độ, thủ đô của Narasīha; có lẽ là một cách đọc khác của Kaṇḍuveṭṭi (Cv.xlvii.7). Hultszch nói (JRAS.1913, p.527) rằng cả hai tên đều đồng nghĩa với Kādavarū, một danh xưng của các vị vua Pallava.
 
 ## Notes

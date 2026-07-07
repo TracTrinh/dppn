@@ -5,7 +5,7 @@ base_headword: "Piḷayamāra"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -27,6 +27,6 @@ Piḷayamāra. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piḷayamāra. Một kẻ tiếm quyền người Damiḷa, là *senāpati* của Panayamāra, người mà ông đã sát hại. Đến lượt mình, ông lại bị chính *senāpati* của mình là Dāṭhika giết. Piḷayamāra trị vì trong bảy năm (giữa năm 44-29 TCN). Mhv.xxxiii.58; Dpv.xix.15; xx.16.
 
 ## Notes

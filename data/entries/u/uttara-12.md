@@ -5,7 +5,7 @@ base_headword: "Uttara"
 disambiguator: "12"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -28,6 +28,6 @@ Uttara 12. Younger brother of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttara 12. Em trai của Vessabhū Buddha. Đức Phật đã thuyết bài kinh đầu tiên của mình cho Uttara và Soṇa tại khu lâm viên Aruṇa gần Anupama. Về sau Uttara trở thành Aggasāvaka của Đức Phật. Bv.xxii.23; Bv­a.205; Ja.i.42; DN.ii.4.
 
 ## Notes

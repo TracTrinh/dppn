@@ -5,7 +5,7 @@ base_headword: "Khomadussasutta"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -24,6 +24,6 @@ Khomadussasutta. Records the visit of the Buddha to <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khomadussasutta. Ghi chép về chuyến viếng thăm của Đức Phật đến Khomadussa. Các Bà-la-môn đang tụ họp về một công việc nào đó, và Đức Phật bước vào hội chúng của họ, khiến họ tức giận. Người ta nói rằng ngài đã làm cho một trận mưa rơi xuống (có lẽ để có cớ cho ngài trú mưa). Khi các Bà-la-môn phản đối sự xâm nhập của ngài, Đức Phật bảo họ rằng đây không phải là một "hội đồng" nơi không có những bậc thiện nhân, và nơi mà những quy tắc tranh luận không được tuân thủ; bài pháp này đã làm họ hài lòng. SN.i.184; SN­a.i.207.
 
 ## Notes

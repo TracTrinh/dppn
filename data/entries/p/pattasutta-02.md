@@ -5,7 +5,7 @@ base_headword: "Pattasutta"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Pattasutta 02. The Buddha was once preaching a sermon to the monks on the five *
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pattasutta 02. Có lần Đức Phật đang thuyết giảng một bài kinh cho các tỳ-kheo về năm *upādānakkhandhā*, và Māra, với ý định muốn quấy nhiễu những suy nghĩ của họ, đã xuất hiện dưới hình dạng một con bò đực và đi lang thang giữa những chiếc bát đã được đặt ra để phơi khô. Nhưng ông ta đã bị nhận ra và đành phải bối rối rút lui. SN.i.112f.
 
 ## Notes

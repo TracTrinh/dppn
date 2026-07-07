@@ -5,7 +5,7 @@ base_headword: "Sirī"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sirī 02. One of the four daughters of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirī 02. Một trong bốn người con gái của Sakka (Ja.v.392). Xem Sudhābhojanajātaka (Ja 535).
 
 ## Notes

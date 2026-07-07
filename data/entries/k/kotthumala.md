@@ -5,7 +5,7 @@ base_headword: "Kotthumala"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -27,6 +27,6 @@ Kotthumala. A hill in the <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kotthumala. Một ngọn đồi ở Māyāraṭṭha tại Tích Lan. Bình bát và Xá lợi Răng của Đức Phật đã từng được Vācissara chôn cất ở đó như một sự bảo vệ khỏi kẻ thù. Sau này, Vijayabāhu III. đã cho di dời chúng đến Jambuddoṇi. Cv.lxxxi.18ff; xem thêm Cv.Trs.ii.137, n.1.
 
 ## Notes

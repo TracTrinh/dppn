@@ -5,7 +5,7 @@ base_headword: "Mahīpālaraṭṭha"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mahīpālaraṭṭha. A district in the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahīpālaraṭṭha. Một khu vực ở Dakkhiṇadesa của Tích Lan. Cv.lxix.8.
 
 ## Notes

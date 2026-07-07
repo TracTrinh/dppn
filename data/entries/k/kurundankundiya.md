@@ -5,7 +5,7 @@ base_headword: "Kurundaṅkuṇḍiya"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -24,6 +24,6 @@ Kurundaṅkuṇḍiya. A locality in South India. Cv.lxxvi.236, 266.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một địa phương ở Nam Ấn. Cv.lxxvi.236, 266.
 
 ## Notes

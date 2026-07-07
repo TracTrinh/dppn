@@ -5,7 +5,7 @@ base_headword: "Subhaddā"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Subhaddā 02. One of the chief women lay supporters of <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subhaddā 02. Một trong những nữ đại thí chủ của Sujāta Buddha. Bv.xiii.30.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Tālapuṭa"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -29,6 +29,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tālapuṭa, Talapuṭa. Một *naṭagāmaṇi* (quản lý rạp hát) ở Rājagaha. Cùng với một đoàn kịch năm trăm người, ông đã thực hiện những buổi biểu diễn kịch vô cùng tráng lệ tại các thị trấn, làng mạc và cung đình, giành được nhiều danh tiếng và ân sủng. Một hôm, ông đến yết kiến Đức Phật và hỏi có đúng không khi nói rằng những diễn viên mang lại niềm vui cho đông đảo khán giả sẽ được tái sinh vào giữa những chư thiên của tiếng cười. Ba lần Đức Phật từ chối trả lời, nhưng cuối cùng ngài đã thuận theo lời thỉnh cầu, và bảo với Tālapuṭa rằng những ai khơi dậy trạng thái nhục dục nơi người khác sẽ bị tái sinh trong địa ngục. Tālapuṭa rơi lệ khi nghĩ rằng các diễn viên đi trước lại có thể lừa dối ông như vậy khi kể cho ông nghe những lý thuyết của họ, và, sau khi nghe Đức Phật thuyết pháp, ông gia nhập Tăng đoàn và chẳng bao lâu sau trở thành một Arahant (SN.iv.306ff; Thag.1091-1145; Thag­a.ii.155ff).
+
+Saṁyutta Commentary (SN­a.iii.100) nói rằng ông có được cái tên đó nhờ nước da sáng và tươi tắn, giống như màu của một quả cọ chín.
 
 ## Notes

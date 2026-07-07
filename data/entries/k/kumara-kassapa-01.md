@@ -5,7 +5,7 @@ base_headword: "Kumāra Kassapa"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -52,6 +52,12 @@ Two verses of deep significance ascribed to <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị Trưởng lão. Ông là người đứng đầu trong số những người có khả năng thuyết pháp đa dạng và linh hoạt (*cittakathikānaṁ*) (AN.i.24). Mẹ ông là con gái của một trưởng giả ở Rājagaha, và vì bà không nhận được sự đồng ý của cha mẹ để trở thành một vị tỳ-kheo-ni, bà đã kết hôn và, với sự đồng ý của chồng, gia nhập Tăng đoàn mà không biết rằng mình đang mang thai. Khi tình trạng của bà bị phát hiện, các đồng đạo của bà đã tham khảo ý kiến của Devadatta, người đã tuyên bố rằng bà không phải là một vị tỳ-kheo-ni chân chính. Gotama Buddha, khi được tham khảo ý kiến, đã giao phó vấn đề này cho Upāli, người đã nhờ Visākhā và những cư dân khác của Sāvatthī điều tra đầy đủ vấn đề, và ông đã đưa ra kết luận của mình trong hội chúng, trước sự có mặt của nhà vua, rằng vị tỳ-kheo-ni đó vô tội. (Để biết chi tiết xem Ja.i.148; việc Upāli xử lý vụ việc đã giành được lời khen ngợi đặc biệt của Đức Phật, xem, ví dụ, AN­a.i.172). Khi đứa trẻ ra đời, nhà vua đã nuôi dưỡng nó, và cậu bé đã được xuất gia khi mới lên bảy tuổi. Cậu bé được gọi là Kumāra, bởi vì cậu gia nhập Tăng đoàn khi còn quá trẻ và được nuôi dưỡng trong hoàng gia, và cũng bởi vì Đức Phật, khi gửi cho cậu những món ngon nhỏ như trái cây, đã gọi cậu là Kumāra Kassapa. Một lần khi Kumāra Kassapa đang thiền định trong Andhavana, một vị Phạm thiên *Anāgāmī*, người từng là bạn đồng tu của ông vào thời Đức Phật Kassapa, đã xuất hiện trước mặt ông và hỏi ông mười lăm câu hỏi mà chỉ Đức Phật mới có thể trả lời. Điều này dẫn đến việc thuyết giảng Vammikasutta (MN.i.143ff), và sau khi chiêm nghiệm về những giáo lý của nó, Kassapa đã trở thành một vị *Arahant*. (Về câu chuyện của Kumāra Kassapa xem Ja.i.147ff; AN­a.i.158f; Thag­a.i.322f; MN­a.i.335f). Mẹ của ông cũng phát triển tuệ giác và đắc quả vị *Arahant*. Có người nói rằng bà đã khóc suốt mười hai năm vì không được ở bên Kassapa, và một ngày nọ, khi nhìn thấy ông trên đường, khi bà chạy về phía ông và vấp ngã, sữa đã chảy ra từ ngực bà và làm ướt tấm y của bà. Kassapa, nhận ra rằng tình yêu vĩ đại của bà đang cản trở những sự chứng đắc của bà, đã nói lời cay nghiệt với bà để bà có thể bớt yêu ông hơn. Mưu kế đó đã thành công và bà đã trở thành một vị *Arahant* ngay trong ngày hôm đó (Dhp­a.iii.147).
+
+Vào thời Đức Phật Padumuttara, Kassapa là một Bà-la-môn uyên bác, và khi nghe thấy một vị tỳ-kheo được xếp hạng cao nhất về sự lưu loát, ông đã mong muốn có được một sự vinh danh tương tự và đã làm nhiều hành động đạo đức vì mục đích đó. Khi những giáo lý của Đức Phật Kassapa đang bị lãng quên, ông, cùng với sáu người khác, đã gia nhập Tăng đoàn và sống một cuộc sống khổ hạnh nghiêm ngặt trên đỉnh một ngọn núi. (Ap.ii.473f; các chi tiết của câu chuyện này được đưa ra trong Dhp­a.ii.210-12; trong số những người bạn đồng tu của Kassapa còn có Pukkusāti, Dārucīriya, Dabba Mallaputta và Sabhiya; xem thêm Ud­a.80f).
+
+Hai câu kệ mang ý nghĩa sâu sắc được cho là của Kumāra Kassapa được tìm thấy trong Theragāthā (cc.201.202). Mặc dù người ta nói rằng ông là một người nói rất lưu loát, những ví dụ đưa ra về bài thuyết pháp của ông lại cực kỳ khan hiếm. Aṅguttara Commentary (i.159) nói rằng Đức Phật đã ban cho ông tước hiệu của ông từ cách tranh luận khéo léo của ông với Pāyāsi, như được kể lại trong Pāyāsisutta; nhưng điều này không thể đúng vì, theo Dhammapāla (Vv-a.297), những sự kiện của Pāyāsisutta đã diễn ra sau khi Đức Phật nhập diệt. Tuy nhiên, *Sutta* này lại biện minh cho danh tiếng của Kassapa. (Về những lời khen ngợi dành cho ông xem thêm MN­a.i.500f).
+
+Lễ *upasampadā* của Kassapa diễn ra vào năm ông hai mươi tuổi. Một sự hoài nghi nảy sinh về việc liệu điều này có hợp lệ hay không bởi vì, theo luật, phải hoàn thành hai mươi tuổi thì mới được *upasampadā*. Đức Phật giữ quan điểm rằng trong việc tính tuổi, khoảng thời gian ở trong bụng mẹ cũng có thể được tính vào. Vin.i.93; Vin-a.iv.867.
 
 ## Notes

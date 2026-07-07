@@ -5,7 +5,7 @@ base_headword: "Vasavattī"
 disambiguator: "05"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -27,6 +27,6 @@ Vasavattī 05. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vua của Pupphavatī, cha của Candakumāra. Về câu chuyện của ông, xem Khaṇḍahālajātaka. Ja.vi.131ff.
 
 ## Notes

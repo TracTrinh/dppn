@@ -5,7 +5,7 @@ base_headword: "Vaṅkāvaṭṭakagalla"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vaṅkāvaṭṭakagalla. A monastery in Ceylon, built by <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaṅkāvaṭṭakagalla. Một tu viện ở Tích Lan (Ceylon), do Mahā Cūḷi Mahā Tissa xây dựng. Mhv.xxxiv.9.
 
 ## Notes

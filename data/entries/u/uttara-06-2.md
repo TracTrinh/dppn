@@ -5,7 +5,7 @@ base_headword: "Uttarā"
 disambiguator: "06"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,6 @@ Uttarā 06. Daughter of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttarā 06. Con gái của Nandaka, vị tướng của Piṅgala, vua xứ Suraṭṭha (Pv-a.241f). Để biết câu chuyện của cô, xem Nandaka.
 
 ## Notes

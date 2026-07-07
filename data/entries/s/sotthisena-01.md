@@ -5,7 +5,7 @@ base_headword: "Sotthisena"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -29,6 +29,6 @@ Sotthisena 01. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sotthisena 01. Vị vua của xứ Benares và là con trai của Brahmadatta. Vợ của ông là Sambulā. Xem Sambulajātaka (Ja 519). Ông được nhận diện là vị vua của Kosala (? Pasenadi). Ja.v.98.
 
 ## Notes

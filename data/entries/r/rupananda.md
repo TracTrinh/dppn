@@ -5,7 +5,7 @@ base_headword: "Rūpanandā"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -28,6 +28,6 @@ Rūpanandā. Called *Janapadakaḷyāni* <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rūpanandā. Được gọi là *Janapadakaḷyāni* Rūpanandā (Dhp­a.iii.113ff). Bà rõ ràng được đồng nhất với Janapadakaḷyānī Nandā (tại AN­a.i.198 bà thực sự được đồng nhất với người này, nhưng xem Sundarīnandā) (*q.v.*), và được mô tả là em gái (? em gái cùng cha khác mẹ) của Đức Phật. Người được nhắc đến như là chồng của bà (*bhattā*) có lẽ là Nanda (*q.v.*), người em trai cùng cha khác mẹ của Đức Phật; nói một cách nghiêm ngặt, ông đã gia nhập Tăng đoàn mà chưa hề kết hôn với bà, mặc dù đám cưới đã được thông báo và mọi sự chuẩn bị đang được tiến hành.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kadambapupphiya Thera"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -30,6 +30,6 @@ Kadambapupphiya Thera 01. An Arahant. Ninety-four *kappas* ago he saw seven <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kadambapupphiya Thera 01. Một vị *Arahant*. Chín mươi tư *kappa* trước, ông đã nhìn thấy bảy vị Pacceka Buddha trên một ngọn núi tên là Kukkuṭa, gần Himavā, và đã tôn kính họ bằng những bông hoa Kadamba. Chín mươi hai *kappa* trước, ông trở thành vua bảy lần, dưới cái tên là Phulla (*v.l.* Puppha) (Ap.i.178). Ông có lẽ đồng nhất với Trưởng lão Saṅgharakkhita. Thag­a.i.216.
 
 ## Notes

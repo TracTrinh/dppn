@@ -5,7 +5,7 @@ base_headword: "Paramaṭṭhakasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -30,6 +30,8 @@ One should not give oneself up to philosophical speculations which lead nowhere 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paramaṭṭhakasutta. Bài Sutta thứ năm thuộc phẩm Aṭṭhakavagga của Suttanipāta. Nó được giảng liên quan đến sự khác biệt về quan điểm của nhiều đạo sư khác nhau ở Sāvatthī. Nhà vua, khi nghe về những cuộc tranh chấp triền miên của họ, đã ra lệnh tập hợp một nhóm người mù và đặt một con voi trước mặt họ. Sau đó, họ được yêu cầu chạm vào con voi, và mỗi người mô tả xem nó trông như thế nào đối với họ. Mỗi người đều mô tả phần mà mình đã chạm vào. Nhà vua nói với các ngoại đạo rằng những quan điểm trái ngược nhau của họ cũng không đáng tin cậy như những mô tả của những người mù về con voi. Đức Phật, khi nghe điều này, đã giảng bài Sutta nhằm khẳng định phán quyết của nhà vua.
+
+Người ta không nên buông mình vào những suy đoán triết học vốn không dẫn đến đâu và chỉ làm thúc đẩy những cuộc tranh cãi (Snp.vs.796-803; Snp­a.ii.1529ff). Bài Sutta được chú giải trong Mahā Niddesa (MNid.102ff).
 
 ## Notes

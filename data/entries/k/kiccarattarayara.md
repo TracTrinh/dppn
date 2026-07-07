@@ -5,7 +5,7 @@ base_headword: "Kiccārattarayara"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,6 @@ Kiccārattarayara. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kiccārattarayara. Một thủ lĩnh Damiḷa vùng Coḷa, một đồng minh của Nigaḷadha. Cv.lxxvii.17.
 
 ## Notes

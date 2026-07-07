@@ -5,7 +5,7 @@ base_headword: "Kusumamūlagāma"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kusumamūlagāma. A village near <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngôi làng gần Padumanagara, là nơi cư ngụ của Thera Dhammadhara. (Sās.163)
 
 ## Notes

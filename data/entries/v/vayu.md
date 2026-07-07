@@ -5,7 +5,7 @@ base_headword: "Vāyu"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vāyu. A deity, whose son was a *Vijjādhara*. See the <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị chư thiên, con trai của ông là một *Vijjādhara*. Xem Samuggajātaka (Ja 436).
 
 ## Notes

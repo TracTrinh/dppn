@@ -5,7 +5,7 @@ base_headword: "Sujāta"
 disambiguator: "06"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sujāta 06. A *yavapālaka*, who gave grass for his seat to <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sujāta 06. Một người *yavapālaka*, người đã dâng cúng cỏ dùng làm chỗ ngồi cho Vipassī Buddha. Bv­a.195.
 
 ## Notes

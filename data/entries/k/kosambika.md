@@ -5,7 +5,7 @@ base_headword: "Kosambika"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -25,6 +25,6 @@ Kosambika. Name of a king of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kosambika. Tên của một vị vua của Kosambī. Xem thêm Kosambaka ở trên. Ja.iv.56.
 
 ## Notes

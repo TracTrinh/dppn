@@ -5,7 +5,7 @@ base_headword: "Maṇikhaṇḍa"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -27,6 +27,6 @@ Maṇikhaṇḍa. A section of the <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇikhaṇḍa. Một đoạn trong Vidhurapaṇḍitajātaka (Ja 545), chứa đựng mô tả về viên ngọc kỳ diệu mà Puṇṇaka đưa ra làm vật cược trong cuộc chơi xúc xắc với Koravya. (Ja.vi.275-9.)
 
 ## Notes

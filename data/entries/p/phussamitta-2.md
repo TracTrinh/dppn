@@ -5,7 +5,7 @@ base_headword: "Phussamittā"
 disambiguator: ""
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -24,6 +24,6 @@ Phussamittā. A denizen of purgatory (*vinipātikā*) who had the power of trave
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phussamittā. Một chúng sinh ở địa ngục (*vinipātikā*), người có quyền năng di chuyển trong không trung. Vsm.382; Paṭis-a.79.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sotāpannasaṁyutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Sotāpannasaṁyutta. The fifty-fifth <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sotāpannasaṁyutta. Saṁyutta thứ năm mươi lăm của Saṁyuttanikāya. SN.v.342-60.
 
 ## Notes

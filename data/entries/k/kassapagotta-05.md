@@ -5,7 +5,7 @@ base_headword: "Kassapagotta"
 disambiguator: "05"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -28,6 +28,8 @@ In a relic-urn, found in Tope No.2 of Sāñchi group, were the ashes of this mon
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapagotta 05. Một trong số những tỳ-kheo đã đồng hành cùng Trưởng lão Majjhima trong chuyến du hành đến đất nước Himālaya với mục đích truyền bá Đạo Phật tại nơi này (Dpv.viii.10; Vin-a.i.68; Mbv.115; Mhv­ṭ.317).
+
+Trong một bình xá-lợi, được tìm thấy ở Tope số 2 thuộc nhóm Sāñchi, có chứa tro cốt của vị tỳ-kheo này, trong đó ngài được mô tả là “Hemavatācariya.” Cunningham: *Bhilsā Topes*, 287.
 
 ## Notes

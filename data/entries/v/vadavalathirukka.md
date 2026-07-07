@@ -5,7 +5,7 @@ base_headword: "Vaḍavalathirukka"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vaḍavalathirukka. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaḍavalathirukka. Một thủ lĩnh Damiḷa, đồng minh của Kulasekhara. Cv.lxxvi.94.
 
 ## Notes

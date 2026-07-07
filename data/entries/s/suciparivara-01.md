@@ -5,7 +5,7 @@ base_headword: "Suciparivāra"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Suciparivāra 01. The Bodhisatta born as *seṭṭhi* of <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suciparivāra 01. Bodhisatta sinh làm trưởng giả (*seṭṭhi*) ở Benares. Xem Sirikālakaṇṇijātaka (Ja 192). Ja.iii.257f.
 
 ## Notes

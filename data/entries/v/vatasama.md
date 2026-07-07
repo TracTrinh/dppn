@@ -5,7 +5,7 @@ base_headword: "Vātasama"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -27,6 +27,6 @@ Vātasama. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một Cakkavatti của thời xa xưa, một tiền kiếp của Māṇava (Sammukhāthavika) Thera. Thag­a.i.164; Ap.i.159.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Karoto Sutta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -24,6 +24,6 @@ Karoto Sutta. Discussion of the view that there is neither merit nor demerit in 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Karoto Sutta. Sự thảo luận về quan điểm cho rằng không có công đức cũng như không có tội lỗi trong bất kỳ loại hành động nào cho dù đó là hành động tốt hay xấu (SN.iii.208). Sự tham chiếu rõ ràng là đến tà kiến của Pūraṇa Kassapa (C.p. DN.i.52).
 
 ## Notes

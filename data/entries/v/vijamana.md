@@ -5,7 +5,7 @@ base_headword: "Vījamāna"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vījamāna. Sixty thousand *kappas* ago there were sixteen kings of this name, a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vījamāna. Sáu mươi ngàn *kappa* trước đã có mười sáu vị vua mang tên này, tất cả đều là tiền kiếp của Vidhūpanadāyaka Thera. Ap.i.103.
 
 ## Notes

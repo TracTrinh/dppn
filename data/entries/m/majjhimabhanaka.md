@@ -5,7 +5,7 @@ base_headword: "Majjhimabhāṇakā"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -33,6 +33,8 @@ This “school” included the <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Majjhimabhāṇakā. Những "người tụng đọc" của Majjhimanikāya (*xem mục từ này*), những người đã học hỏi và truyền tụng nó, có lẽ là "trường phái" của Sāriputta.
+
+"Trường phái" này bao gồm Cariyāpiṭaka, Apadāna và Buddhavaṁsa thuộc Khuddakanikāya, và gán toàn bộ Nikāya này cho Suttapiṭaka. DN­a.i.15; Mil.341.
 
 ## Notes

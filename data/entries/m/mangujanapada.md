@@ -5,7 +5,7 @@ base_headword: "Maṅgujanapada"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -24,6 +24,6 @@ Maṅgujanapada. A district in Ceylon. Ras.ii.180
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṅgujanapada. Một huyện ở Tích Lan. Ras.ii.180
 
 ## Notes

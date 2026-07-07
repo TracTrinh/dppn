@@ -5,7 +5,7 @@ base_headword: "Mānaggabodhi"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mānaggabodhi. A monastery built by <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mānaggabodhi. Một tu viện do Aggabodhi VII. xây dựng. Cv.xlviii.64.
 
 ## Notes

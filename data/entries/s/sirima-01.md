@@ -5,7 +5,7 @@ base_headword: "Sirimā"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -38,6 +38,10 @@ He is evidently identical with <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirimā 01. Sirimā Thera. Ngài sinh ra trong gia đình một gia chủ ở Sāvatthī và được gọi là Sirimā vì sự thịnh vượng không ngừng của gia đình ngài. Em trai ngài là Sirivaḍḍha. Cả hai đều có mặt khi Đức Phật nhận Jetavana, và, cảm kích trước uy nghi của Ngài, họ đã gia nhập Saṅgha. Sirivaḍḍha, tuy không có sở đắc đặc biệt nào, lại nhận được sự tôn kính lớn từ hàng cư sĩ lẫn sa-môn, còn Sirimā thì ít được tôn kính. Tuy nhiên, nhờ tu tập chỉ và quán, ngài sớm chứng quả *Arahant*. Các vị tăng và sa-di bình thường vẫn tiếp tục xem thường ngài, và vị Trưởng lão đã phải khiển trách họ vì sự phán xét sai lầm của họ. Sirivaḍḍha, được điều này khơi dậy cảm hứng, cũng tự mình trở thành một *Arahant*.
+
+Vào thời Padumuttara Buddha, trước khi Đức Phật xuất hiện trên đời, Sirimā là một vị khổ hạnh tên là Devala, có đông đệ tử theo học, và, sau khi biết được oai lực của Đức Phật qua việc nghiên cứu khoa tướng số, ông đã xây một Thūpa bằng cát, để đảnh lễ nhân danh chư Phật quá khứ. Đức Phật đản sinh trên đời, sự đản sinh của Ngài đi kèm với nhiều điềm lành khác nhau. Vị khổ hạnh cho các đệ tử mình thấy những điềm ấy, và, sau khi khiến họ khao khát được thấy Đức Phật, ông qua đời, và tái sinh vào cõi Brahma. Sau đó, ông hiện ra trước họ, khơi dậy nơi họ sự tinh tấn hơn nữa (Thag.vss. 159-60; Thag­a.i.279f).
+
+Ngài rõ ràng đồng nhất với Puḷinuppādaka Thera trong Apadāna. Ap.ii.426.
 
 ## Notes

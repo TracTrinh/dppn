@@ -5,7 +5,7 @@ base_headword: "Pārāsariya"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -27,6 +27,6 @@ Pārāsariya 02. A Brahmin teacher mentioned in the <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pārāsariya 02. Một đạo sư Bà-la-môn được đề cập trong Indriyabhāvanāsutta. Ông được cho là, theo lời học trò của ông là Uttara, đã dạy rằng những ai đã phát triển các indriya (*indriyas*) của mình thì không thể nhìn thấy các sắc bằng mắt cũng như không thể nghe thấy âm thanh bằng tai (MN.iii.298). Ông có lẽ đồng nhất với Pārāpariya Thera.
 
 ## Notes

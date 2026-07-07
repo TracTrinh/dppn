@@ -5,7 +5,7 @@ base_headword: "Kokavāta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -25,6 +25,6 @@ Kokavāta. A district in Ceylon. <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kokavāta. Một quận ở Tích Lan. Mahā Sena đã xây dựng tại đó một *vihāra* lớn và kiến tạo một hồ nước. Mhv.xxxvii.42, 47.
 
 ## Notes

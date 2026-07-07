@@ -5,7 +5,7 @@ base_headword: "Lakkhaṇajātaka"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -32,6 +32,10 @@ The story was related in reference to <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lakkhaṇajātaka (Ja 11). Bodhisatta thuở xưa là một con nai và có hai người con trai, Lakkhaṇa và Kāḷa. Khi đến mùa thu hoạch, ngài bảo các con hãy tìm nơi ẩn náu trong vùng núi rừng cùng với đàn của họ. Họ đồng ý, nhưng Kāḷa, vì thiếu kinh nghiệm, dẫn đàn nai đi sớm và về muộn, và người ta, bắt gặp chúng, đã giết phần lớn trong số đó. Lakkhaṇa, ngược lại, chỉ di chuyển đàn nai vào lúc nửa đêm và đến được khu rừng mà không mất con nào trong đàn. Điều tương tự xảy ra trong chuyến trở về bốn tháng sau đó, và Bodhisatta ca ngợi trí tuệ của Lakkhaṇa.
+
+Câu chuyện được kể liên quan đến Devadatta và Sāriputta. Devadatta đã thuyết phục năm trăm tỳ-kheo tách khỏi Đức Phật và đi theo mình, nhưng Sāriputta đã đến thăm họ và đưa tất cả họ trở lại.
+
+Devadatta được đồng nhất với Kāḷa và Sāriputta với Lakkhaṇa. Ja.i.142f.; câu chuyện được nhắc đến tại Dhp­a.i.122.
 
 ## Notes

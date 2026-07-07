@@ -5,7 +5,7 @@ base_headword: "Uttara"
 disambiguator: "20"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uttara 20. The city of King <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttara 20. Thành phố của vua Arindama. Revata Buddha đã thuyết pháp tại đó cho nhà vua và đám đông đang tụ tập. Bv­a.133.
 
 ## Notes

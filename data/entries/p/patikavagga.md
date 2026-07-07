@@ -5,7 +5,7 @@ base_headword: "Pāṭikavagga"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -27,6 +27,6 @@ Pāṭikavagga (or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāṭikavagga (hoặc Pāṭiyavagga). Phần thứ ba và là phần cuối cùng của Dīghanikāya, với *Sutta* đầu tiên của phần này là Pāṭikasutta.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Vinayasaṅgahapakaraṇa"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Vinayasaṅgahapakaraṇa. Another name for the <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Vinayasaṅgahapakaraṇa. Một tên gọi khác của Vinayavinicchaya.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Varuṇa"
 disambiguator: "04"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Varuṇa 04. The personal attendant of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Varuṇa 04. Vị thị giả của đức Phật Paduma. Bv.ix.21; Ja.i.36.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kuraṅgavī"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -34,6 +34,10 @@ The story of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Con gái của vua xứ Benares. Nàng đã phải lòng Eḷakamāra (*q.v.*) và cuối cùng được gả cho ông ta.
+
+Nàng đã ngoại tình với Chalaṅgakumāra và người hầu của ông ta là Dhanantevāsī (Ja.v.429f).
+
+Câu chuyện về Kuraṅgavī tạo thành một trong những câu chuyện do Kuṇāla kể.
 
 ## Notes

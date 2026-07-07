@@ -5,7 +5,7 @@ base_headword: "Verasutta"
 disambiguator: "04"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Verasutta 04. Preached to <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Verasutta 04. Được thuyết giảng cho Anāthapiṇḍika, về những lợi ích của việc diệt trừ năm nỗi sợ hãi khủng khiếp. AN.v.182f.
 
 ## Notes

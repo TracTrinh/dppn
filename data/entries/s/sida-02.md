@@ -5,7 +5,7 @@ base_headword: "Sīdā"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sīdā 02. An ocean, probably identical with <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīdā 02. Một đại dương, có lẽ đồng nhất với Sīdantara. Đây là nơi cư ngụ của các Nāga. Ja.vi.125.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kaccānivagga"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kaccānivagga. The first section of the *Aṭṭhakanipāta* of the <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaccānivagga. Phần đầu tiên của *Aṭṭhakanipāta* của Jātaka Commentary. Ja.iii.422-28.
 
 ## Notes

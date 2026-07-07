@@ -5,7 +5,7 @@ base_headword: "Vāyāmasutta"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -24,6 +24,6 @@ Vāyāmasutta. A nun who speaks carelessly in praise of the unworthy and in blam
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tỳ-kheo-ni ăn nói bất cẩn ca ngợi những người không xứng đáng và đổ lỗi cho những người đáng khen ngợi, người bị sai lệch về chánh niệm và từ chối các món quà của đức tin, được định sẵn cho địa ngục. AN.iii.141.
 
 ## Notes

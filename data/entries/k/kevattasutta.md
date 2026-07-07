@@ -5,7 +5,7 @@ base_headword: "Kevaṭṭasutta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -30,6 +30,8 @@ The monk seeks the Buddha, who explains to him that the question is wrongly put;
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kevaṭṭasutta (biến thể Kevaḍḍhasutta). Được thuyết giảng tại Pāvārika-ambavana ở Nālandā. Kevaṭṭa (1) đến thăm Đức Phật và thỉnh cầu ngài ra lệnh cho một tỳ-kheo thực hiện phép thần thông nào đó để làm tăng trưởng niềm tin của các đệ tử Phật. Đức Phật bày tỏ sự chán ghét của ngài đối với những phép lạ và nói với Kevaṭṭa rằng một phép lạ lớn lao hơn và tốt đẹp hơn bất kỳ phép lạ nào hay tất cả những phép lạ đó gộp lại, chính là sự giáo dục trong hệ thống tự rèn luyện dẫn đến quả vị Arahant. Để minh họa cho điều này, ngài kể một truyền thuyết: Một vị tỳ-kheo, đi tìm câu trả lời cho câu hỏi "Các nguyên tố biến mất ở đâu?", đã đi lên cao mãi, bằng sức mạnh iddhi của mình, từ thế giới này sang thế giới khác, hỏi các vị thần để tìm câu trả lời. Ở mỗi tầng trời, ông lại được chỉ dẫn đến hỏi những người ở trên cao hơn, cho đến cuối cùng khi đến gặp chính vị Đại Phạm Thiên, người đã kéo ông sang một bên và nói với ông rằng ông ta không biết câu trả lời.
+
+Vị tỳ-kheo tìm đến Đức Phật, ngài đã giải thích cho ông rằng câu hỏi đó đã được đặt ra sai; câu hỏi nên là: "Nơi nào các nguyên tố không tìm thấy chỗ đứng; nơi nào nāma và rūpa đoạn diệt?" Và câu trả lời là: "Trong tâm trí của vị Arahant, khi thức (viññāṇa) chấm dứt, thì nāma và rūpa cũng đoạn diệt." DN.i.211ff; so sánh với Ud.i.10.
 
 ## Notes

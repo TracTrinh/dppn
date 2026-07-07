@@ -5,7 +5,7 @@ base_headword: "Kyānagāma"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -28,6 +28,6 @@ Kyānagāma. A village in the <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngôi làng ở quốc gia Malaya, không xa Pulatthipura. *Laṅkādhikāri* Kitti từng đóng quân tại đó (Cv.lxx.283, 300; lxxii.207), và Parakkamabāhu I. đã đến đó cải trang thành một nhạc công. Cv.lxxii.264.
 
 ## Notes

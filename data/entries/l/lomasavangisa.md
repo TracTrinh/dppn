@@ -5,7 +5,7 @@ base_headword: "Lomasavaṅgīsa"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -35,6 +35,8 @@ The interview took place in the <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lomasavaṅgīsa. Saṁyuttanikāya có nhắc đến một cuộc phỏng vấn giữa một vị Trưởng lão có tên này và người Sākyan Mahā Nāma. Mahā Nāma đã hỏi vị Trưởng lão liệu lối sống của một bậc hữu học có giống hệt với lối sống của một vị Tathāgata hay không. Vaṅgīsa trả lời rằng không phải như vậy; các bậc hữu học chỉ từ bỏ năm triền cái; các vị *Arahant* đã đoạn diệt hoàn toàn chúng tận gốc rễ.
+
+Cuộc phỏng vấn đã diễn ra trong Nigrodhārāma ở Kapilavatthu. Cái tên Lomasavaṅgīsa, có lẽ, là một cách đọc sai hoặc biến thể của Lomasakaṅgiya (*q.v.*). SN.v.327f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Uppalavaṇṇāsutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -27,6 +27,6 @@ Uppalavaṇṇāsutta. Records a conversation between <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uppalavaṇṇāsutta. Ghi lại một cuộc trò chuyện giữa Uppalavaṇṇā và Māra (SN.i.131f). Các ý tưởng thì giống với những ý tưởng chứa trong các bài kệ được tìm thấy trong Therīgāthā (vv.230-5) nhưng cách dùng từ thì có phần khác.
 
 ## Notes

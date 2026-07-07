@@ -5,7 +5,7 @@ base_headword: "Khaṇḍa"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -26,6 +26,6 @@ Khaṇḍa. Name of a god, the Pāḷi equivalent of the Sanskrit Skanda, mentio
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khaṇḍa. Tên của một vị thần, từ tương đương trong tiếng Pāḷi của Skanda trong tiếng Phạn, được nhắc đến cùng với Siva trong Chú giải Udāna. Ud-a.351.
 
 ## Notes

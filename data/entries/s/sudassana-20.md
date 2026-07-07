@@ -5,7 +5,7 @@ base_headword: "Sudassana"
 disambiguator: "20"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sudassana 20. One of the disciples of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudassana 20. Một trong những đệ tử của Padumuttara Buddha. Ngài được tuyên bố là tối thắng trong số những người sở hữu May mắn. Chính tấm gương của ngài đã khơi nguồn cảm hứng để Sīvalī ước nguyện đạt được vinh dự tương tự. Ap.ii.493.
 
 ## Notes

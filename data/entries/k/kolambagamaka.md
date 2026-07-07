@@ -5,7 +5,7 @@ base_headword: "Kolambagāmaka"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -25,6 +25,6 @@ Kolambagāmaka. A tank built by King <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kolambagāmaka. Một hồ nước do Vua Vasabha xây dựng. Mhv.xxxv.94.
 
 ## Notes

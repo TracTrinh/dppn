@@ -5,7 +5,7 @@ base_headword: "Mallikā"
 disambiguator: "02"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Mallikā 02. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mallikā 02. Vợ của Bandhula. Bà được gọi là *Mallarājaputtā* (Vv-a.165), và rõ ràng là thuộc về một gia tộc Malla.
 
 ## Notes

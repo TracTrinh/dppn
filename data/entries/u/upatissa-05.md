@@ -5,7 +5,7 @@ base_headword: "Upatissa"
 disambiguator: "05"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -26,6 +26,6 @@ Upatissa 05. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upatissa 05. Con trai của Silākāla và là anh/em trai của Dāṭhāpabhuti và Moggallāna II. Ông là một chàng trai khôi ngô và là người con cưng của cha mình. Ông đã bị Dāṭhāpabhuti giết chết (Cv.xli.33ff).
 
 ## Notes

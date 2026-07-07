@@ -5,7 +5,7 @@ base_headword: "Majjhima"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -42,6 +42,15 @@ Dpv.viii.10; Mhv­ṭ. (317) has <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Majjhima. Một vị Arahant. Sau Kết tập lần thứ Ba, ngài đi đến xứ sở Himālaya với tư cách là một nhà truyền giáo (Mhv.xii.6), được đồng hành bởi bốn vị khác:
+
+- Kassapagotta,
+- Durabhissara,
+- Sahadeva, và
+- Mūlakadeva.
+
+Dpv.viii.10; Mhv­ṭ. (317) có Dundubhissara thay cho Durabhissara; Mbv. (115) đồng tình với Mhv­ṭ., nhưng lại có Sahassadeva; Vin-a.(i.68) đưa ra tên của các ngài là Kassapagotta, Ālokadeva, Dundubhissara, và Sahadeva.
+
+Majjhima đã thuyết bài kinh Dhammacakkappavattanasutta và tám mươi crore người đã trở thành Sotāpanna. Năm vị Trưởng lão, một cách riêng rẽ, đã cải đạo cho năm vương quốc, và mỗi người trong số các ngài đã cho một trăm ngàn người xuất gia. Mhv.xii.41ff.
 
 ## Notes

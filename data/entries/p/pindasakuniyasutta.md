@@ -5,7 +5,7 @@ base_headword: "Piṇḍasakuṇiyasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Piṇḍasakuṇiyasutta. The story of a fowler of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piṇḍasakuṇiyasutta. Câu chuyện về một người đánh bẫy chim ở Rājagaha, bị sinh làm ngạ quỷ (*Peta*). SN.ii.256.
 
 ## Notes

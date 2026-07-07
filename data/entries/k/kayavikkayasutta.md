@@ -5,7 +5,7 @@ base_headword: "Kayavikkayasutta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -23,6 +23,6 @@ Kayavikkayasutta. Few are they who abstain from buying and selling, more numerou
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kayavikkayasutta. Rất ít người kiêng tránh việc mua bán, và đông hơn nhiều là những người không kiêng tránh việc này (SN.v.473).
 
 ## Notes

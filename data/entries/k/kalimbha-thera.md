@@ -5,7 +5,7 @@ base_headword: "Kalimbha Thera"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -29,6 +29,6 @@ Kalimbha Thera, (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kalimbha Thera, (Kalimma Thera). Một trong số những vị tỳ-kheo sống tại Kūṭāgārasālā ở Vesālī. Nhận thấy rằng sự thanh bình của Mahā Vana đang bị xáo trộn bởi những người Licchavī đến thăm Đức Phật, tôn giả, cùng với các vị tỳ-kheo khác, đã đi đến Gosiṅgasālavana. AN.v.133f.
 
 ## Notes

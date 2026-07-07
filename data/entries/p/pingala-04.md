@@ -5,7 +5,7 @@ base_headword: "Piṅgala"
 disambiguator: "04"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -24,6 +24,6 @@ Piṅgala 04. A race of elephants (MN­a.i.262; Vibh­a.397; Ud­a.403; AN­a.ii
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piṅgala 04. Một giống voi (MN­a.i.262; Vibh­a.397; Ud­a.403; AN­a.ii.822), mỗi con có sức mạnh bằng một trăm ngàn người. Bv­a.37.
 
 ## Notes

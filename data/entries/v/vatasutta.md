@@ -5,7 +5,7 @@ base_headword: "Vātasutta"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -24,6 +24,6 @@ Vātasutta. It is because of clinging to body, etc., that such views arise as th
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chính vì bám chấp vào sắc, v.v., mà nảy sinh những tà kiến như gió không thổi, phụ nữ mang thai không sinh nở, mặt trời và mặt trăng không mọc hay lặn; mà tất cả những thứ này đều ổn định như một cây cột. Những điều này sẽ biến mất với những nghi ngờ của người đệ tử của bậc Thánh liên quan đến khổ não, nguyên nhân của nó, sự diệt tận của nó, và con đường dẫn đến sự diệt tận đó. SN.iii.202f.
 
 ## Notes

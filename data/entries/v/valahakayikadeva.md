@@ -5,7 +5,7 @@ base_headword: "Valāhakāyikādevā"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -24,6 +24,6 @@ Valāhakāyikādevā. A class of deities, spirits of the skies, divided into *U�
 
 ## Vietnamese translation
 
-Chưa dịch.
+Valāhakāyikādevā. Một tầng lớp chư thiên, những thần linh của bầu trời, được chia thành *Uṇhavalāhakā* (thần mây nóng), *Sītavalāhakā* (thần mây lạnh), *Abbhavalāhakā* (thần mây không khí), *Vātavalāhakā* (thần mây gió), *Vassavalāhakā* (thần mây mưa). Những thay đổi thời tiết là do các thần linh này gây ra. SN.iii.254f.
 
 ## Notes

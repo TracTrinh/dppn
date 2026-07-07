@@ -5,7 +5,7 @@ base_headword: "Vasavattī"
 disambiguator: "04"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vasavattī 04. An epithet of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một danh hiệu của Mahā Brahma: “*Sabbaṁ janaṁ vase vattemī*, Ta giữ mọi người dưới sự kiểm soát của mình.” DN­a.i.111.
 
 ## Notes

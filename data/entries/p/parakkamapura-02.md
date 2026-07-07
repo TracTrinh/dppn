@@ -5,7 +5,7 @@ base_headword: "Parakkamapura"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Parakkamapura 02. A stronghold in South India, built at <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parakkamapura 02. Một pháo đài ở Nam Ấn Độ, được xây dựng tại Kundukāla bởi tướng quân Laṅkāpura. Biên niên sử chứa một tài liệu miêu tả sống động về một trận chiến, diễn ra ngay bên ngoài cổng của pháo đài giữa quân đội của Laṅkāpura và của Kulasekhara. Nhưng không còn nghe nói gì thêm về pháo đài này nữa; nó có thể đã bị bỏ hoang để nhường chỗ cho một pháo đài khác. Cv.lxxvi.121, 133, 147, 150.
 
 ## Notes

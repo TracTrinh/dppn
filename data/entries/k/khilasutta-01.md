@@ -5,7 +5,7 @@ base_headword: "Khilasutta"
 disambiguator: "01"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -23,6 +23,6 @@ Khilasutta 01. Fallowness of heart arises from doubt in the Buddha, the Dhamma, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khilasutta 01. Trạng thái khô cằn của tâm nảy sinh từ sự hoài nghi vào Đức Phật, Pháp, Tăng đoàn, và con đường huấn luyện (*sikkhā*), và từ sự tức giận đối với những người bạn đồng tu phạm hạnh. AN.iii.248; iv.460; DN.iii.237; MN.i.101; Vibh.377, v.v.
 
 ## Notes

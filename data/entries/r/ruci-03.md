@@ -5,7 +5,7 @@ base_headword: "Ruci"
 disambiguator: "03"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Ruci 03. A palace occupied by <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ruci 03. Một cung điện nơi Đức Phật Vessabhū cư ngụ khi ngài vẫn còn là cư sĩ. Bv.xxii.19.
 
 ## Notes

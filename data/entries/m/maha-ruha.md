@@ -5,7 +5,7 @@ base_headword: "Mahā Ruhā"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Ruhā. A nun, skilled in the <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Ruhā. Một tỳ-kheo-ni, tinh thông về Saddhammavaṁsa; bà đã đến Tích Lan từ Ấn Độ. Dpv.xviii.31.
 
 ## Notes

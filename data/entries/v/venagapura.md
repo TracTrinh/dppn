@@ -5,7 +5,7 @@ base_headword: "Venāgapura"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Venāgapura. A Brahmin village of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Venāgapura. Một ngôi làng Bà-la-môn xứ Kosala, nơi Đức Phật thuyết giảng kinh Venāgasutta. AN.i.180.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Piṇḍola"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -26,6 +26,6 @@ Piṇḍola. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piṇḍola. Piṇḍola. Một vị Phật Độc giác (Pacceka Buddha), có tên trong một danh sách các danh xưng. MN.iii.69; Ap­a.i.106.
 
 ## Notes

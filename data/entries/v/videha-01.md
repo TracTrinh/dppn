@@ -5,7 +5,7 @@ base_headword: "Videha"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Videha 01. A *seṭṭhi* in the time of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Videha 01. Một trưởng giả (*seṭṭhi*) trong thời của Padumuttara Buddha. Ông là tiền kiếp của Mahā Kassapa. Vợ ông là Bhaddā Kāpilānī trong thời kỳ này. Ap.ii.578.
 
 ## Notes

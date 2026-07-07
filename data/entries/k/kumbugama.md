@@ -5,7 +5,7 @@ base_headword: "Kumbugāma"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,6 @@ Kumbugāma (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngôi làng ở Rohaṇa. Nó được đề cập đến trong các chiến dịch quân sự của *Damiḷādhakārī* Rakkha (Cv.lxxv.149, 167, 172).
 
 ## Notes

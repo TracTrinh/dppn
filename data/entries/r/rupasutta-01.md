@@ -5,7 +5,7 @@ base_headword: "Rūpasutta"
 disambiguator: "01"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rūpasutta 01. Two of a group of *Suttas* preached to <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rūpasutta 01. Hai trong một nhóm các bài kinh được giảng cho Rāhula, để chỉ cho ông thấy rằng mọi thứ đều là vô thường, đau khổ và thay đổi. SN.ii.245, 251.
 
 ## Notes

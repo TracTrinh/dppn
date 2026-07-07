@@ -5,7 +5,7 @@ base_headword: "Khadiraṅgārajātaka"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -42,6 +42,12 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="15" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khadiraṅgārajātaka (Ja 40). Có một lần Bodhisatta là Trưởng giả xứ Benares, và một vị Pacceka Buddha, vừa xả thiền sau một kỳ samāpatti kéo dài bảy ngày, đã đến nhà ngài vào giờ khất thực. Bodhisatta sai người mang thức ăn ra dâng cúng cho ngài, nhưng Māra đã tạo ra một hố than khadira rực hồng nằm giữa vị Pacceka Buddha và ngôi nhà của Trưởng giả. Khi vị Trưởng giả nghe báo về điều này, ngài đích thân cầm bình bát đựng thức ăn và bước xuống hố than, sẵn sàng chết chứ không để cho việc bố thí của mình bị cản trở. Một bông hoa sen mọc lên đỡ lấy bàn chân ngài, cái hố biến mất, và Māra, vô cùng bối rối, cũng biến mất.
+
+Câu chuyện này được kể lại cho Anāthapiṇḍika.
+
+Một vị Devatā, sống ở tầng trên cùng trong cung điện của ông, phải đưa các con mình xuống tầng trệt mỗi khi Đức Phật đến thăm Anāthapiṇḍika. Bà cố gắng ngăn cản sự hào phóng của vị trưởng giả bằng cách nói chuyện với người quản lý và cậu con trai cả của ông, nhưng mọi nỗ lực đều vô ích. Cuối cùng, khi tài sản của Anāthapiṇḍika cạn kiệt do lòng sùng mộ quá mức của ông, vị Devatā đã đánh bạo đến gần ông và cảnh báo ông về sự hủy hoại sắp tới nếu ông không chú ý. Ông đã ra lệnh đuổi bà ra khỏi nhà, và bà buộc phải vâng lời. Trong lúc tuyệt vọng, bà đã tìm đến sự giúp đỡ của Sakka, người đã gợi ý rằng bà nên đi thu hồi tất cả các khoản nợ cho vị trưởng giả, và tiết lộ cho ông biết về kho báu được cất giấu của ông đã bị lãng quên. Bà đã làm như vậy, nhưng Anāthapiṇḍika, trước khi đồng ý tha thứ cho bà, đã đưa bà đến gặp Đức Phật, và ngài đã kể lại Jātaka này. Velāmakasutta cũng được thuyết giảng nhân dịp này (Ja.i.226-34; xem thêm Visayhajātaka (Ja 340)). Phần tiếp theo của câu chuyện này được kể trong Sirijātaka (Ja 284).
+
+Theo Dhammapada Commentary (Dhp­a.i.447), bài Khadiraṅgāra Jākata được thuyết giảng liên quan đến hai người bạn Sirigutta và Gharadinna. Người ta kể rằng (AN­a.i.57) tại buổi thuyết giảng Jātaka này, đã có tám mươi bốn ngàn chúng sinh liễu ngộ Chân lý.
 
 ## Notes

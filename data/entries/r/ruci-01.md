@@ -5,7 +5,7 @@ base_headword: "Ruci"
 disambiguator: "01"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Ruci 01. A king of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ruci 01. Một vị vua thuộc vương triều Mahā Sammata. Ông là con của Aṅgīrasa và là cha của Suruci. Mhv.ii.4; cf. Dpv.iii.7.
 
 ## Notes

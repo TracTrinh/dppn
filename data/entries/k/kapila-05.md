@@ -5,7 +5,7 @@ base_headword: "Kapila"
 disambiguator: "05"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kapila 05. A sinful monk who lived in a village near <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kapila 05. Một tỳ-kheo tội lỗi đã sống tại một ngôi làng gần Kosambī. Ông ta là bạn của Paṇḍaka (*q.v.*). Vin.iii.67.
 
 ## Notes

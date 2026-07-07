@@ -5,7 +5,7 @@ base_headword: "Vessāmitta"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/066.html"
@@ -25,6 +25,6 @@ Vessāmitta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vessāmitta 01. Vessāmitta. Một nhà hiền triết nổi tiếng thời xưa. Vin.i.245; DN.i.104; MN.ii.169, 200; AN.iii.224; iv. 61, v.v.
 
 ## Notes

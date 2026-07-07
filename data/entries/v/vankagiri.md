@@ -5,7 +5,7 @@ base_headword: "Vaṅkagiri"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -44,6 +44,8 @@ Vaṅkagiri, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaṅkagiri, Vaṅkapabbata, Vaṅkatapabbata. Một ngọn núi ở Himavā nơi Vessantara cùng gia đình mình đã bị lưu đày đến đó. Nơi này cách đất nước Ceta ba mươi do-tuần (leagues) và cách Jetuttara sáu mươi do-tuần, tuyến đường đi qua Suvaṇṇagiritāla, vượt qua sông Kontimāra, ngang qua Arañjaragiri, Dunniviṭṭha, hướng về phía bắc đi qua Gandhamādana, vượt qua ngọn núi Vipula, băng qua dòng sông Ketumatī, xuyên qua ngọn núi Nāḷika và hồ Mucalinda (Cp.i.9; Ja.vi.514, 518, 519).
+
+Vessantara và gia đình ông đã sống ở đó trong một am thất do Vissakamma xây dựng theo sự gợi ý của Sakka (Ja.vi.520). Về sau, Sañjaya đã xây dựng một con đường, rộng tám *usabha*, từ Jetuttara đến Vaṅka. Ja.vi.580.
 
 ## Notes

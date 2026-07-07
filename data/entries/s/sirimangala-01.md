@@ -5,7 +5,7 @@ base_headword: "Sirimaṅgala"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sirimaṅgala 01. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirimaṅgala 01. Cách đọc khác: Sirisumaṅgala. Một vị tăng người Miến Điện thế kỷ mười bốn, tác giả của một số bộ chú giải về các tác phẩm của Buddhaghosa (Bode, 27).
 
 ## Notes

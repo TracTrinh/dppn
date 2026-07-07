@@ -5,7 +5,7 @@ base_headword: "Vaṅgīsasutta"
 disambiguator: "01"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -31,6 +31,6 @@ Vaṅgīsasutta 01. Preached by the Buddha at <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaṅgīsasutta 01. Được đức Phật thuyết tại Aggāḷavacetiya. Thầy của Vaṅgīsa là Nigrodhakappa vừa viên tịch tại đó, và Vaṅgīsa liền hỏi đức Phật xem liệu ông ấy đã đạt đến *Nibbāna* hay chưa. Bản thân câu hỏi của Vaṅgīsa thực ra là một bài thơ, bao gồm mười bài kệ, ca ngợi đức Phật. Đức Phật nói rằng Kappa đã đạt được *Nibbāna*, vì ông ấy đã cắt đứt mọi sự trói buộc của Māra. Vaṅgīsa sau đó tuyên bố rằng Kappa đạt được trạng thái đó là nhờ noi theo giáo lý của đức Phật. Snp. pp. 59ff.; những bài kệ của bài *Sutta* này được bao gồm trong Theragāthā (1263-79). Trong phần Chú giải (Snp­a.i.345), bài *Sutta* được gọi là Nigrodhakappasutta.
 
 ## Notes

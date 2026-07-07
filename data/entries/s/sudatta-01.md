@@ -5,7 +5,7 @@ base_headword: "Sudatta"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sudatta 01. One of the eight Brahmins who was called in to examine the signs at 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudatta 01. Một trong tám vị Bà-la-môn được gọi đến để kiểm tra các tướng tốt khi Siddhattha đản sinh. Ja.i.56; Mil.236.
 
 ## Notes

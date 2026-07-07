@@ -5,7 +5,7 @@ base_headword: "Piṅgala Buddharakkhita"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -30,6 +30,6 @@ Piṅgala Buddharakkhita. A monk of Ceylon, incumbent of the <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piṅgala Buddharakkhita. Một vị tỳ-kheo ở Tích Lan, là người cư trú tại Ambariyavihāra. Cư sĩ (*upāsaka*) của Uttaravaḍḍhamānaka (hoặc Antaravaḍḍhamānaka) đã thọ giới từ ngài và ngay sau đó bị một con rắn tấn công. Cư sĩ đã quyết tâm không phạm giới, và con rắn đã thả ông ra (MN­a.i.165; SN­a.ii.113; Dhs-a.103, v.v.). Tu viện của Piṅgala Buddharakkhita ở gần Uttaragāma (Uttaravaḍḍhamāna?) và có một trăm ngôi nhà trong làng, ngài đã đến thăm tất cả, và không có một ngôi nhà nào mà ở trước cửa nhà đó ngài chưa từng nhập *samāpatti*. MN­a.ii.978.
 
 ## Notes

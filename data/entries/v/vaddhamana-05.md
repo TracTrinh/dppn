@@ -5,7 +5,7 @@ base_headword: "Vaḍḍhamāna"
 disambiguator: "05"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vaḍḍhamāna 05. A palace to be occupied by the future <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaḍḍhamāna 05. Một cung điện dành cho Metteyya Buddha tương lai cư ngụ. Anāg.vs.46.
 
 ## Notes

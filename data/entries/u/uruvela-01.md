@@ -5,7 +5,7 @@ base_headword: "Uruvelā"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -72,6 +72,18 @@ The name <span class="dppn-term dppn-term-t14" data-dppn-term-pos="54" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uruvelā 01. Một địa phương trên bờ sông Nerañjarā, ở vùng lân cận của cây Bodhi tại Buddhagayā. Tại đây, sau khi rời bỏ Āḷāra và Uddaka, Bodhisatta đã thực hành những pháp khổ hạnh khắc nghiệt nhất trong suốt sáu năm. Những người bạn đồng hành của ngài là các tỳ-kheo Pañcavaggiya, tuy nhiên họ đã rời bỏ ngài khi ngài nới lỏng sự khắc nghiệt của các pháp khổ hạnh của mình (MN.i.166). Nơi được Bodhisatta chọn cho các pháp khổ hạnh của ngài được gọi là Senānigama.
+
+Phiên bản Jātaka (Ja.i.67f) có chứa thêm các chi tiết. Nó kể lại rằng có lần Bodhisatta đã ngất xỉu dưới các pháp khổ hạnh của mình, và tin tức được truyền đến cha ngài rằng ngài đã chết. Tuy nhiên, Suddhodana từ chối tin điều này, vì nhớ lại lời tiên tri của Kāḷadevala. Khi Bodhisatta quyết định dùng lại thức ăn bình thường, nó được dâng cho ngài bởi một cô gái, Sujātā, con gái của Senānī ở thị trấn Senānī. Ở vùng lân cận Uruvelā cũng có cây Đa (Banyan) Ajapāla, cây Mucalinda và cây Rājāyatana, nơi Đức Phật đã dành một thời gian ở đó sau sự Giác ngộ (Awakening) của ngài, và là nơi các điện thờ khác nhau, chẳng hạn như Animisacetiya, Ratanacaṅkamacetiya và Ratanaghara về sau đã được hình thành.
+
+Từ Uruvela, Đức Phật đã đi đến Isipatana, nhưng sau khi ngài đã tạo ra sáu mươi mốt Arahant và gửi họ đi du hành để thuyết giảng Pháp (Dhamma), ngài quay trở lại Uruvelā, đến Kappāsikavanasaṇḍa và hóa độ các Bhaddavaggiyā (Vin.i.23f; Dhp­a.i.72). Tại Uruvelā cũng có các Tebhātikajaṭila sinh sống: Uruvelā Kassapa, Nadī Kassapa và Gayā Kassapa, tất cả họ đều trở thành những người đi theo Đức Phật (Vin.i.25).
+
+Theo Biên niên sử Tích Lan (ví dụ: Mhv.i.17ff; Dpv.i.35, 38, 81), chính trong lúc trải qua mùa an cư tại Uruvelā, chờ đợi thời điểm khi anh em Kassapa chín muồi để được hóa độ, Đức Phật, vào ngày trăng tròn của tháng Phussa, trong tháng thứ chín sau sự Giác ngộ (Awakening), đã thực hiện chuyến viếng thăm đầu tiên của ngài tới Tích Lan (Ceylon).
+
+Có sự đề cập đến một số sự cám dỗ đối với Đức Phật khi ngài trú ngụ tại Uruvelā, bên cạnh cuộc giao tranh tối hậu với Māra, dưới cây Bodhi. Có lần Māra đã đến gặp ngài trong bóng tối của đêm đen dưới chiêu bài một con voi đáng sợ, cố gắng làm ngài hoảng sợ. Vào một đêm tối khác khi mưa rơi từng giọt, Māra đã đến gặp Đức Phật và mang lấy nhiều hình dạng kỳ diệu khác nhau, đẹp đẽ và xấu xí. Một lần khác Māra cố gắng nhồi nhét tâm trí Đức Phật bằng sự nghi ngờ về việc liệu ngài đã thực sự bẻ gãy mọi kiết sử và giành được sự Giác ngộ (Awakening) hoàn toàn hay chưa (SN.i.103ff). Bảy năm sau sự Xuất Gia của Đức Phật, Māra lại nỗ lực thêm một lần nữa nhằm khiến Đức Phật bất mãn với số phận cô độc của ngài và chính lúc đó, khi Māra đã bỏ đi trong sự thất bại, ba cô con gái của Māra, Taṇhā, Ratī và Ragā, đã thực hiện một nỗ lực cuối cùng để lôi kéo Đức Phật ra khỏi mục đích của ngài (SN.i.124f).
+
+Cũng chính tại Uruvelā, Đức Phật đã có những mối e ngại trong tâm trí ngài về tính hữu ích của việc thuyết giảng Pháp (Dhamma) mà ngài đã liễu ngộ, cho một thế giới bị làm cho mù quáng bởi các dục vọng và thành kiến. Phạm thiên (Brahma) Sahampati ngay sau đó đã thỉnh cầu Đức Phật đừng nhượng bộ trước sự e ngại như vậy (SN.i.136ff; Vin.i.4f). Người ta ghi lại rằng hoặc trong chính dịp này hoặc khá sớm ngay sau đó, suy nghĩ đã khởi lên trong tâm trí Đức Phật rằng phương pháp duy nhất để giành được Nibbāna là tu tập bốn niệm xứ (satipaṭṭhāna) và rằng Sahampati đã đến thăm Thế Tôn và xác nhận quan điểm của ngài (SN.v.167; và một lần nữa, 185). Một phiên bản khác xuất hiện ở nơi khác (SN.v.232), trong đó suy nghĩ khởi lên trong tâm trí Đức Phật đề cập đến năm chức năng kiểm soát (saddhindriya, v.v.), và Phạm thiên (Brahma) nói với Đức Phật rằng vào thời của Kassapa vị này từng là một tỳ-kheo tên là Sahaka và khi đó vị này đã thực hành năm chức năng này.
+
+Tên gọi Uruvelā được giải thích là có nghĩa là một bãi cát lớn (mahāvelā, mahanto vālikarāsi). Một câu chuyện được kể lại nhằm cung cấp một cách giải thích thay thế: Trước khi Đức Phật xuất hiện trên thế giới, có mười ngàn đạo sĩ đã sống ở địa phương này, và họ tự quyết định với nhau rằng nếu bất kỳ suy nghĩ tà ác nào khởi lên trong tâm trí của bất kỳ ai trong số họ, vị đó nên mang một giỏ cát đến một địa điểm nhất định. Lượng cát được thu thập theo cách này cuối cùng đã hình thành nên một bãi bồi lớn (AN­a.ii.476; Ud­a.26; MN­a.i.376; Mhv­ṭ.84). Trong Divyāvadāna (p.202), nơi này được gọi là Uruvilvā. Mahā Vastu (Mvu.ii.207) đề cập đến bốn ngôi làng nằm trong Uruvelā: Praskandaka, Balākalpa, Ujjaṅgala và Jaṅgala.
 
 ## Notes

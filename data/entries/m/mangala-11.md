@@ -5,7 +5,7 @@ base_headword: "Maṅgala"
 disambiguator: "11"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Maṅgala 11. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṅgala 11. Một Pacceka Buddha. MN.iii.70.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kappinasutta"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -24,6 +24,6 @@ Kappinasutta 02. The Buddha sees <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kappinasutta 02. Đức Phật nhìn thấy Mahā Kappina đang ngồi kiết già, với thân thể thẳng đứng, và chánh niệm. Ngài chỉ ông cho các tỳ-kheo, nói với họ rằng ông có thể ngồi như thế không bị rung lắc hay chao đảo thân thể là vì ông đã phát triển định tâm vào hơi thở. SN.v.315f.
 
 ## Notes

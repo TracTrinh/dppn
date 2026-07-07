@@ -5,7 +5,7 @@ base_headword: "Kosikī"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -26,6 +26,6 @@ Kosikī. A river, probably a branch of the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kosikī. Một con sông, có lẽ là một nhánh của sông Ganges (sông Hằng). Nó chảy từ Himavā, và trên bờ sông của nó có một vườn xoài rộng ba do-tuần. Ja.v.2, 5, 6.
 
 ## Notes

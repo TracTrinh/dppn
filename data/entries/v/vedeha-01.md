@@ -5,7 +5,7 @@ base_headword: "Vedeha"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -30,6 +30,6 @@ Vedeha 01. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vedeha 01. *v.l.* Videha. Tước hiệu của một số vị vua của Mithilā, thủ đô của Videha – ví dụ: Suruci (Ja.iv.319); Sādhīna (Ja.iv.355, 356); Somanassa (Ja.vi.47); Nimi (Ja.vi.102), và Aṅgati (Ja.vi.222, etc.).
 
 ## Notes

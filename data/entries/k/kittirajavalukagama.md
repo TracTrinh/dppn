@@ -5,7 +5,7 @@ base_headword: "Kittirājavālukagāma"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kittirājavālukagāma. A village in <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kittirājavālukagāma. Một ngôi làng ở Rohaṇa. Một trận chiến đã được đánh tại đó trong các chiến dịch của Parakkamabāhu I. Cv.lxxv.17.
 
 ## Notes

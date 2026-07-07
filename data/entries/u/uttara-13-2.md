@@ -5,7 +5,7 @@ base_headword: "Uttarā"
 disambiguator: "13"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,6 @@ Uttarā 13. Daughter of the banker <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttarā 13. Con gái của chủ ngân hàng Uttara. Cô đã cúng dường một bữa ăn cơm sữa cho Maṅgala Buddha ngay trước khi ngài Giác ngộ (Awakening) (Bv­a.116).
 
 ## Notes

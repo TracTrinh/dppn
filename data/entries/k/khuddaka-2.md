@@ -5,7 +5,7 @@ base_headword: "Khuddakā"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -24,6 +24,6 @@ Khuddakā. Name of a tribe. Ap.ii.359.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khuddakā. Tên của một bộ tộc. Ap.ii.359.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Varuṇa"
 disambiguator: "09"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Varuṇa 09. One hundred and sixty *kappas* ago there were two kings of this nam
 
 ## Vietnamese translation
 
-Chưa dịch.
+Varuṇa 09. Một trăm sáu mươi *kappa* trước có hai vị vua mang tên này, là tiền kiếp của Sucintita Thera. Ap.i.115.
 
 ## Notes

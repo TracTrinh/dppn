@@ -5,7 +5,7 @@ base_headword: "Kambaladāyakatissa"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,6 @@ Kambaladāyakatissa. A name given to the monk who was later known as <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kambaladāyakatissa. Một cái tên được đặt cho vị tỳ-kheo mà sau này được gọi là Vanavāsītissa (*xem bài này*). Mặc dù chỉ mới bảy tuổi, cậu đã có công đức lớn lao, và khi thấy các tỳ-kheo chịu đựng cái lạnh, cậu đã đảm nhận việc tìm mền cho họ. Một nghìn tỳ-kheo đã đi đến Sāvatthī cùng cậu, và trong một thời gian rất ngắn, cậu đã có được cho họ nhiều hơn số mền cần thiết. Từ đó về sau cậu được gọi bằng cái tên Kambaladāyaka. Dhp­a.ii.89f.
 
 ## Notes

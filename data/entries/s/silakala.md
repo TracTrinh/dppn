@@ -5,7 +5,7 @@ base_headword: "Silākāla"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -44,6 +44,12 @@ He had three sons: <span class="dppn-term dppn-term-t14" data-dppn-term-pos="17"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Silākāla. Một người Lambakaṇṇa, con trai của Dāṭhāpabhuti. Ông chạy trốn đến Jambudīpa, vì sợ Kassapa I., và trở thành một tỳ-kheo tại *vihāra* Bodhimaṇḍa. Ở đó, vì một trái xoài mà ông đã dâng cúng cho tăng chúng, ông được biết đến với tên *Ambasāmaṇera*, Sa-di Xoài.
+
+Vào thời Moggallāna I., ông đã mang Xá-lợi Tóc của Đức Phật đến Tích Lan và được nhà vua vô cùng tôn kính. Silākāla trở lại đời sống cư sĩ, và Moggallāna phong ông làm người mang kiếm hộ tống xá-lợi — do đó có tên Asiggāhakasilākāla.
+
+Ông kết hôn với em gái của nhà vua và cũng với con gái của Upatissa III. Sau đó ông trở về địa hạt Malaya, nơi ông nổi loạn chống lại Upatissa. Ông đánh bại con trai của nhà vua, Kassapa, người đã tự sát, và khi Upatissa chết vì đau buồn, Silākāla trở thành vua dưới tên Ambasāmaṇerasilākāla, trị vì trong mười ba năm (524-37 CN).
+
+Ông có ba người con trai: Moggallāna, Dāṭhāpabhuti và Upatissa. Cv.xxxix. 44, 55; xli.10ff.
 
 ## Notes

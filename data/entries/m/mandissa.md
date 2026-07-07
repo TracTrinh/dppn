@@ -5,7 +5,7 @@ base_headword: "Maṇḍissa"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -28,6 +28,6 @@ Maṇḍissa. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇḍissa. *v.l.* Muṇḍiya. Một Paribbājaka ở Kosambī, bạn của Jāliya. Chính với họ mà Jāliyasutta đã được thuyết giảng.
 
 ## Notes

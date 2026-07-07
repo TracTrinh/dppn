@@ -5,7 +5,7 @@ base_headword: "Kalandagāma"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kalandagāma. A Brahmin village in Ceylon, where King <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kalandagāma. Một ngôi làng của các Bà-la-môn ở Tích Lan, nơi Vua Mahā Sena đã xây dựng một *vihāra* trên nền của một ngôi đền Hindu cũ. Mhv.xxxvii.41.
 
 ## Notes

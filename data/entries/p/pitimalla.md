@@ -5,7 +5,7 @@ base_headword: "Pītimalla"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -34,6 +34,10 @@ His story is given as an example of a monk striving amid great discomfort, e.g.,
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pītimalla, Pītimallaka, Pītamallaka. Một vị Thera (Trưởng lão). Từng giành được cờ chiến thắng của ba quốc gia, ngài đã đi đến thăm Tích Lan và được nhà vua vinh danh. Khi đi ngang qua cánh cửa của Kiñjakāsanasālā, ngài nghe thấy một tỳ-kheo đang tụng Na tumhāka Vagga, và, xúc động trước điều đó, ngài đã đi đến Mahā Vihāra và gia nhập Tăng đoàn. Sau khi học xong hai *Mātikā*, ngài đi cùng với ba mươi người khác đến Gavaravāliya-aṅgaṇa, và tại đó thực hành thiền trong khi đi tới đi lui. Khi chân đau nhức, ngài đi bằng đầu gối.
+
+Một ngày nọ, một thợ săn, tưởng nhầm ngài là một con vật, đã bắn vào ngài. Mũi lao đâm xuyên qua ngài, nhưng ngài đã nhét các loại thảo mộc vào vết thương, nằm xuống một phiến đá, phát triển tuệ quán và đạt được quả vị *Arahant*. Đối với các tỳ-kheo tụ tập quanh mình, ngài bày tỏ niềm vui sướng tột độ khi đã thành công trong cuộc tìm kiếm của mình, và họ nói rằng nếu Đức Phật còn tại thế, Ngài sẽ xoa đầu ngài (MN­a.i.190).
+
+Câu chuyện của ngài được đưa ra như một ví dụ về một tỳ-kheo nỗ lực tinh tấn giữa sự vô cùng khó khăn, ví dụ như ở AN­a.i.29; SN­a.ii.216.
 
 ## Notes

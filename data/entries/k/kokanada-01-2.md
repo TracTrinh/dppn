@@ -5,7 +5,7 @@ base_headword: "Kokanadā"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -28,6 +28,6 @@ Kokanadā 01. Two daughters of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kokanadā 01. Hai người con gái của Pajjunna, cả hai đều tên là Kokanadā, mặc dù người em thỉnh thoảng được gọi là Cūḷa Kokanadā. Họ đã đến thăm Đức Phật tại Kūṭāgārasālā và thốt lên những bài kệ ca ngợi Đức Phật, Pháp và Tăng đoàn. SN.i.29f.
 
 ## Notes

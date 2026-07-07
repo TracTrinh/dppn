@@ -5,7 +5,7 @@ base_headword: "Vaṅkaka"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vaṅkaka. The name of Mount <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaṅkaka. Tên của ngọn núi Vepulla vào thời đức Phật Koṇāgamana. SN.ii.191.
 
 ## Notes

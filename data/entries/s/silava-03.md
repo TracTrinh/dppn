@@ -5,7 +5,7 @@ base_headword: "Sīlava"
 disambiguator: "03"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -26,6 +26,6 @@ Sīlava 03. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīlava 03. Con trai của Maṅgala Buddha, trong kiếp làm cư sĩ cuối cùng của Ngài. Sīvala. Bv­a.i.124.
 
 ## Notes

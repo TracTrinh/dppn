@@ -5,7 +5,7 @@ base_headword: "Katthaka Cetiya"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -34,6 +34,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Katthaka Cetiya. Một công trình do hoàng hậu của Udaya I xây dựng (Cv.xlix.23). Liệu công trình này có thể giống với Kaṇṭaka Cetiya (xem mục này)? (Xem thêm Cv.Trs.i.129, n.3).
+
+Sumaṅgalavilāsinī (DN­a.i.291) có đề cập đến một Katthakasālapariveṇa (biến thể Kanthakasāla, Kandarasālā), nơi ở của một vị tỳ-kheo tên là Mahā Satthivassa (xem mục này), người đã sống dưới thời Vua Vasabha. Katthakasālapariveṇa (? Katthakasāla) cũng là nơi cư trú của một vị sa-di trẻ tuổi đã giành được sự kính trọng của Tissa, một vị quan của Vua Saddhā Tissā (AN­a.i.262).
 
 ## Notes

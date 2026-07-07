@@ -5,7 +5,7 @@ base_headword: "Piyaṅkarasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Piyaṅkarasutta. Records the incident, above related, of <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piyaṅkarasutta. Ghi lại sự việc kể trên về mẹ của Piyaṅkara.
 
 ## Notes

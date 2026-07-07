@@ -5,7 +5,7 @@ base_headword: "Koraṇḍavaṇṇa"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -25,6 +25,6 @@ Koraṇḍavaṇṇa. One of the ten sons of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koraṇḍavaṇṇa. Một trong mười người con trai của Kāḷāsoka.
 
 ## Notes

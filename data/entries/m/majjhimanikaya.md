@@ -5,7 +5,7 @@ base_headword: "Majjhimanikāya"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -41,6 +41,16 @@ When the *Sāsana* (Buddhism) disappears, the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Majjhimanikāya. "Quyển sách" thứ hai, hay bộ sưu tập thứ hai, của Suttapiṭaka, chứa đựng các bài giảng có độ dài trung bình.
+
+Nó bao gồm tám mươi bhāṇavāra và được chia làm ba phần, mỗi phần gồm năm mươi Sutta (*Paṇṇāsa*), riêng Paṇṇāsa cuối cùng gồm năm mươi hai Sutta.
+
+Tại Kết tập lần thứ Nhất, nhiệm vụ học thuộc lòng Majjhimanikāya và truyền tụng nó nguyên vẹn được giao cho "trường phái" của Sāriputta (DN­a.i.15).
+
+Buddhaghosa đã viết một bản chú giải cho Majjhimanikāya, nó được gọi là Papañcasūdanī, và Sāriputta người Tích Lan đã viết bản Ṭīkā của nó.
+
+Majjhimanikāya cũng được gọi là Majjhima Saṅgīti (ví dụ, MN­a.i.2; Mhv­ṭ.193, 305).
+
+Khi Sāsana (Giáo pháp) biến mất, Majjhima sẽ diệt vong trước Dīghanikāya. MN­a.ii.881.
 
 ## Notes

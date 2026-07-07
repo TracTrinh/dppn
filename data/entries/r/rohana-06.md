@@ -5,7 +5,7 @@ base_headword: "Rohaṇa"
 disambiguator: "06"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -31,6 +31,6 @@ Rohaṇa 06. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rohaṇa 06. Rohaṇa Thera. Khi Assagutta triệu tập các vị đứng đầu Tăng đoàn đến một cuộc họp về tà thuyết của Milinda, Rohaṇa đang nhập định sâu, nên phải cử một sứ giả đi mời ngài. Vì lỗi này, ngài bị giao nhiệm vụ thuyết phục Nāgasena gia nhập Tăng đoàn. Để thực hiện việc này, Rohaṇa phải đến nhà của cha Nāgasena là Soṇuttara, suốt bảy năm mười tháng, mà không hề nhận được một lời tử tế nào, cho đến một ngày kia Soṇuttara hài lòng trước sự tử tế và lễ độ của ngài nên đã cho ngài thức ăn hằng ngày tại nhà. Khi Nāgasena trưởng thành và học xong kinh Veda, Rohaṇa mời cậu vào một cuộc tranh luận, nhờ đó Nāgasena gia nhập Tăng đoàn dưới sự hướng dẫn của Rohaṇa, người đã, với tư cách là bổn sư đầu tiên của cậu, dạy cho cậu Abhidhamma. Một ngày nọ, Nāgasena xem nhẹ thầy mình, và Rohaṇa, đọc được ý nghĩ đó, đã quở trách cậu. Nāgasena xin ngài tha thứ, nhưng Rohaṇa nói rằng ngài chỉ tha thứ nếu Nāgasena thành công trong việc bác bỏ các quan điểm tà kiến của Milinda. Mil. 7ff.
 
 ## Notes

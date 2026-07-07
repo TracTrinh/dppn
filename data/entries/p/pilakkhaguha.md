@@ -5,7 +5,7 @@ base_headword: "Pilakkhaguhā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -27,6 +27,6 @@ Pilakkhaguhā. A cave near <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pilakkhaguhā. Một hang động gần Kosambī. Vị *Paribbājaka* tên Sandaka được cho là đã trú tại đó. Gần đó là Devakaṭasobbha (MN.i.513). Hang động này được gọi như vậy vì có một cây *pilakkha* mọc ở phía trước nó. MN­a.ii.687.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vācissara"
 disambiguator: "01"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -31,6 +31,6 @@ Vācissara 01. A Sinhalese monk who wrote Commentaries to <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vācissara 01. Một tỳ-kheo người Tích Lan đã viết chú giải cho các tác phẩm của Buddhadatta: Abhidhammāvatāra, Vinayavinicchaya, Uttaravinicchaya, Khemappakaraṇa. Ông có lẽ thuộc thế kỷ mười hai, và cũng là tác giả của Rūpārūpavibhaṅga và Sīmālaṅkāra (*q.v.*). PLC.108f., 156, 174, 202; also Gv.62, 71.
 
 ## Notes

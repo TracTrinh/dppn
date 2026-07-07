@@ -5,7 +5,7 @@ base_headword: "Yasavatī"
 disambiguator: "03"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -25,6 +25,6 @@ Yasavatī 03. Chief of the women patrons of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yasavatī 03. Trưởng nhóm nữ thí chủ của Revata Buddha. Bv.vi.23.
 
 ## Notes

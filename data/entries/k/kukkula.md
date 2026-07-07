@@ -5,7 +5,7 @@ base_headword: "Kukkuḷa"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -32,6 +32,10 @@ Beside this *niraya* are the <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kukkuḷa. Một trong các *niraya* (địa ngục). Vua Daṇḍakī đã bị tái sanh vào đó vì tội ác tày trời của ông (Ja.v.114, 143; Iti-a.195).
+
+Sarabhaṅga nói về ông ta đang chịu đựng ở đó, chìm trong một khối than hồng rực (*kukkuḷa*) sâu một trăm do-tuần; những tia lửa đỏ rực khổng lồ rơi xuống ông và xâm nhập vào cơ thể ông qua chín vết thương (Ja.v.144).
+
+Bên cạnh *niraya* này là Gūthaniraya và Simbalivana. MN.iii.185.
 
 ## Notes

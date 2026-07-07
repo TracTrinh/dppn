@@ -5,7 +5,7 @@ base_headword: "Kukkuṭa"
 disambiguator: "03"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kukkuṭa 03. A rock near <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kukkuṭa 03. Một tảng đá gần Himavā. Bảy vị Pacceka Buddha đã từng sống ở đó. Thag­a.i.216; Ap.i.178.
 
 ## Notes

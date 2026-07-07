@@ -5,7 +5,7 @@ base_headword: "Valāhakasutta"
 disambiguator: "01"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -24,6 +24,6 @@ Valāhakasutta 01. There are four kinds of rain clouds: those which produce thun
 
 ## Vietnamese translation
 
-Chưa dịch.
+Valāhakasutta 01. Có bốn loại đám mây mưa: những đám sấm sét mà không mưa; những đám mưa mà không sấm sét; những đám không sấm sét cũng không mưa; những đám có cả hai. Có bốn loại người tương tự: những người nói nhưng không làm; những người làm nhưng không nói; những người không làm cũng không nói; và những người làm cả hai. AN.ii.102.
 
 ## Notes

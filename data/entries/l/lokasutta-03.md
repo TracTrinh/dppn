@@ -5,7 +5,7 @@ base_headword: "Lokasutta"
 disambiguator: "03"
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -23,6 +23,6 @@ Lokasutta 03. The origin and passing away of the world depend on the senses and 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lokasutta 03. Sự khởi sinh và hoại diệt của thế giới phụ thuộc vào các căn và các đối tượng của chúng. SN.ii.73.
 
 ## Notes

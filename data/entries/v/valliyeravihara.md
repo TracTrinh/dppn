@@ -5,7 +5,7 @@ base_headword: "Valliyeravihāra"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -27,6 +27,6 @@ Valliyeravihāra. A monastery in <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Valliyeravihāra. Một tu viện ở Rohaṇa. Để cho một Trưởng lão sống ở đó sử dụng, vua Vasabha đã xây dựng Mahā Valligottavihāra. Mhv.xxxv.82; Mhv­ṭ. 652.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Parappasādaka Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -28,6 +28,6 @@ Parappasādaka Thera. An *Arahant*. Ninety-four *kappas* ago he was a Brahmin na
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parappasādaka Thera. Một vị Arahant. Chín mươi tư kappa trước, ông là một vị Bà-la-môn tên là Sena, người đã nhìn thấy Đức Phật Siddhattha và ca ngợi Ngài trong bốn bài kệ. Mười bốn kappa trước, ông từng bốn lần làm vua dưới tên gọi Uggata (Ap.i.113f). Ông có lẽ đồng nhất với Bhūta Thera. Thag­a.i.494.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Somārāma"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Somārāma. A *vihāra* built in the name of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Somārāma. Một *vihāra* được Vaṭṭagāmaṇī xây nhân danh Somadevī, tại nơi mà khi ẩn náu, bà đã thấy một *Sāmaṇera* dùng tay che khi đi tiểu. Mhv.xxxiii.84; về việc xác định xem Mhv.Trs.235, n.3.
 
 ## Notes

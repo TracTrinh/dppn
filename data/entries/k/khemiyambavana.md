@@ -5,7 +5,7 @@ base_headword: "Khemiyambavana"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -25,6 +25,6 @@ Khemiyambavana. A mango grove near <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khemiyambavana. Một xoài viên gần Benares. Udena đã từng ở lại đó và thuyết Ghoṭamukhasutta. MN.ii.157.
 
 ## Notes

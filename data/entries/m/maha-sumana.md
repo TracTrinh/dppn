@@ -5,7 +5,7 @@ base_headword: "Mahā Sumanā"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -24,6 +24,6 @@ Mahā Sumanā. One of the pre-eminent nuns of Ceylon. Dpv.xviii.39.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sumanā. Một trong những vị ni sư xuất chúng của Ceylon. Dpv.xviii.39.
 
 ## Notes

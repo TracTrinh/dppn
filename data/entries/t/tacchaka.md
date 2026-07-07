@@ -5,7 +5,7 @@ base_headword: "Tacchakā"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tacchakā. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tacchakā. Một hạng Nāga có mặt tại Mahā Samaya. DN.ii.258.
 
 ## Notes

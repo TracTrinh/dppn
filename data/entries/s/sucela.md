@@ -5,7 +5,7 @@ base_headword: "Sucela"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sucela. Seven *kappas* ago there were eight kings of this name, previous births 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sucela. Bảy *kappa* trước đây có tám vị vua mang tên này, là các tiền kiếp của Kapparukkhiya Thera (Kappa Thera). Ap.i.91.
 
 ## Notes

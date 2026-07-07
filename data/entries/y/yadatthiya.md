@@ -5,7 +5,7 @@ base_headword: "Yadatthīya"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -25,6 +25,6 @@ Yadatthīya. A king of twenty-seven *kappas* ago, a former birth of <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yadatthīya. Một vị vua cách đây hai mươi bảy *kappa*, một tiền kiếp của Paṇṇadāyaka. Ap.i.229.
 
 ## Notes

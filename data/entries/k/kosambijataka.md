@@ -5,7 +5,7 @@ base_headword: "Kosambījātaka"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -32,6 +32,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kosambījātaka (Ja 428). Câu chuyện dẫn nhập kể về việc các tỳ-kheo ở Kosambī đã cãi vã và gây ra sự bất hòa lớn giữa họ vì một người trong số họ đã để lại phần nước thừa để súc miệng trong một cái bình. Khi Đức Phật thấy ngài không thể thuyết phục các tỳ-kheo sống hòa hợp, ngài đã kể cho họ nghe câu chuyện về Dīghīti, vua của Kosala, và khi ngay cả điều đó cũng thất bại trong việc tạo ra hiệu quả mong muốn, ngài đã đọc mười vần kệ, lơ lửng trên không trung, và rời khỏi Kosambī, để mặc các tỳ-kheo với số phận của họ.
+
+Kosambījātaka chỉ chứa một phần nhỏ trong câu chuyện về Dīghīti, hầu như chỉ là một sự ám chỉ đến nó. Dīghīti Kosalajātaka (*xem mục này*) chứa nhiều chi tiết hơn, nhưng ngay cả khi gộp lại, hai bản này không làm cho câu chuyện được trọn vẹn. Câu chuyện đầy đủ được kể trong Vinayapiṭaka (Vin.i.342ff).
 
 ## Notes

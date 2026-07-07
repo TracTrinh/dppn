@@ -5,7 +5,7 @@ base_headword: "Kimatthasutta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -24,6 +24,6 @@ Kimatthasutta. When <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kimatthasutta. Khi các Paribbājaka, những người nắm giữ các quan điểm khác, hỏi tại sao các thành viên trong Tăng đoàn của Đức Phật sống phạm hạnh, câu trả lời nên là "để liễu tri trọn vẹn *dukkha*." Họ cũng nên được kể cho nghe về con đường dẫn đến sự liễu tri đó. SN.v.6.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kurundiyavihāra"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kurundiyavihāra. A monastery repaired by <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tu viện được Vijayabāhu I. sửa chữa (Cv.lx.60); có lẽ đồng nhất với Kurundavihāra.
 
 ## Notes

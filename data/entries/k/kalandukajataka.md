@@ -5,7 +5,7 @@ base_headword: "Kalaṇḍukajātaka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -29,6 +29,8 @@ The Treasurer sent a parrot to seek for him. The parrot saw him hawking and spit
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kalaṇḍukajātaka (Ja 127). Kalaṇḍuka là người hầu của vị Trưởng khố xứ Benares. Anh ta đã bỏ trốn, và với sự giúp đỡ của một bức thư giả mạo, giống hệt như Kaṭāhaka (xem ở mục từ tương ứng) đã làm, đã kết hôn với con gái của một thương nhân ở biên giới.
+
+Vị Trưởng khố đã cử một con vẹt đi tìm anh ta. Con vẹt nhìn thấy anh ta đang khạc nhổ và phun sữa vào đầu vợ mình để khẳng định quyền lực của mình, và, với mong muốn dạy cho anh ta một bài học, đã đe dọa sẽ vạch mặt anh ta. Vị Trưởng khố, nghe con vẹt báo về nơi ở của Kalaṇḍuka, đã cho người đưa anh ta về và bắt phải làm nô lệ trở lại. Ja.i.458.
 
 ## Notes

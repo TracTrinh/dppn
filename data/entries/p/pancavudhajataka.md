@@ -5,7 +5,7 @@ base_headword: "Pañcavudhajātaka"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -33,6 +33,8 @@ The ogre is identified with <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcavudhajātaka (Ja 55). Bodhisatta sinh ra làm vua của Benares. Ngài là con trai của Brahmadatta, và được đặt tên là Pañcāvudhakumāra vì tám trăm Bà-la-môn đã tiên tri rằng ngài sẽ giành được vinh quang nhờ tài nghệ binh khí. Ngài học tại Takkasilā, và vào cuối khóa học, thầy của ngài đã tặng ngài một bộ năm loại binh khí. Trên đường trở về nhà, ngài đã đụng độ với một dạ xoa tên là Silesaloma, người mà những binh khí của ngài không có tác dụng, vì chúng không thể xuyên qua lớp lông của dạ xoa. Nhưng ngài vẫn tiếp tục chiến đấu, và dạ xoa, kinh ngạc trước lòng can đảm và sự không sợ hãi của ngài, đã tha mạng cho ngài. Sau đó ngài đã thuyết pháp cho dạ xoa và cảm hóa ông ta. Pañcāvudha sau này trở thành vua của Benares. Ja.i.272ff.
+
+Dạ xoa được đồng nhất với Aṅgulimāla. Câu chuyện được kể lại liên quan đến một vị tỳ-kheo đã từ bỏ mọi nỗ lực. Ja.i.272ff.
 
 ## Notes

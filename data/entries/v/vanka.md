@@ -5,7 +5,7 @@ base_headword: "Vaṅka"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -27,6 +27,6 @@ Vaṅka. A king of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaṅka. Một vị vua xứ Sāvatthī. Về câu chuyện của ông, xem Ghatajātaka (Ja 355). Ông được đồng nhất với Ānanda. Ja.iii.170.
 
 ## Notes

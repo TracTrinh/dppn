@@ -5,7 +5,7 @@ base_headword: "Kāliṅga"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -29,6 +29,6 @@ Kāliṅga 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāliṅga 01. Kaliṅga. Một cư dân của Ñātika. Trong khi lưu lại ở Ñātika, tại Giñjakāvasatha, Đức Phật kể cho Ānanda rằng Kāliṅga đã tái sinh sau khi chết ở Suddhāvāsā, và tại đó vị ấy sẽ đạt đến *Nibbāna*. DN.ii.92; SN.v.358f.
 
 ## Notes

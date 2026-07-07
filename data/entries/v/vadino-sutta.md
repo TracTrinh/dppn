@@ -5,7 +5,7 @@ base_headword: "Vādino Sutta"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -24,6 +24,6 @@ Vādino Sutta. No dogmatists, no matter where from, can make a monk who understa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vādino Sutta. Không một người chủ trương giáo thuyết nào, dù từ bất cứ đâu đến, có thể khiến một tỳ-kheo hiểu rõ khổ đau, nguyên nhân của nó, v.v., phải run sợ hay dao động. Vị ấy như một cột đá dài mười sáu khuỷu tay, phân nửa được chôn sâu dưới đất. Không có gió nào có thể làm nó rung chuyển. SN.v.445.
 
 ## Notes

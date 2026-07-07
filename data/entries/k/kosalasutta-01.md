@@ -5,7 +5,7 @@ base_headword: "Kosalasutta"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -25,6 +25,6 @@ Kosalasutta 01. While <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kosalasutta 01. Trong khi Pasenadi đang viếng thăm Đức Phật, một người đưa tin đến và thông báo về cái chết của Mallikā. Nhà vua vô cùng đau buồn, nhưng Đức Phật an ủi ông bằng cách chỉ ra rằng không thể nào tránh khỏi tuổi già, suy yếu, bệnh tật, hoại diệt. AN.iii.57.
 
 ## Notes

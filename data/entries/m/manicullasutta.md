@@ -5,7 +5,7 @@ base_headword: "Maṇicullasutta"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -27,6 +27,6 @@ Maṇicullasutta. In the royal palace at <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇicullasutta. Một lần tại hoàng cung ở Rājagaha, trong giới tùy tùng có tin đồn rằng các sa-môn người Sākyan được phép cầm vàng và bạc. Trưởng thôn Maṇicullaka, lúc đó có mặt, bác bỏ điều này, nhưng vì không thuyết phục được mọi người, ông đến hỏi Đức Phật, và Đức Phật xác nhận với ông rằng các tỳ-kheo đó không được phép tìm cầu cũng không được phép nhận vàng và bạc. (SN.iv.325f.; cp. Vin.ii.296f.)
 
 ## Notes

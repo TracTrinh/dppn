@@ -5,7 +5,7 @@ base_headword: "Subodhālaṅkāra"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Subodhālaṅkāra. A work on Pāli poetics by <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subodhālaṅkāra. Một tác phẩm về thi pháp tiếng Pāli của Saṅgharakkhita Thera xứ Ceylon. Gv.61; PLC.199f.
 
 ## Notes

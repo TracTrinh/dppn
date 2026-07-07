@@ -5,7 +5,7 @@ base_headword: "Kuṇḍi"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -28,6 +28,6 @@ Kuṇḍi 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngôi làng của những người Kuru. Gần ngôi làng có một khu rừng nơi Aṅgaṇika Bhāradvāja sinh sống. Gần đó là Uggārāma. Thag­a.i.339.
 
 ## Notes

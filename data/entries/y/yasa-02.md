@@ -5,7 +5,7 @@ base_headword: "Yasa"
 disambiguator: "02"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -57,6 +57,12 @@ The monks who refused to accept the findings of the committee held another convo
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yasa 02. Yasa Kākaṇḍakaputta. Ông là con trai của Bà-la-môn Kākaṇḍaka và là đệ tử của Ānanda. Người ta nói rằng ông đã may mắn được gặp Đức Phật khi Ngài còn tại thế (Mhv.iv.57f). Khi đến Kūṭāgārasālā tại Mahā Vana, ông phát hiện ra rằng các tỳ-kheo Vajjī đã đưa ra “Mười Điểm” (*dasavatthu*) trái với lời dạy của Đức Phật, và rằng họ đang công khai yêu cầu các đệ tử tại gia của mình quyên góp tiền bạc. Yasa do đó đã phản đối những hành vi sai trái như vậy, và các tỳ-kheo Vajjī, hy vọng có thể thu phục được ông, đã đề nghị chia cho ông một phần số tiền họ đã thu được. Đề nghị này đã bị ông từ chối với vẻ khinh bỉ, và các tỳ-kheo đã giáng hình phạt *Paṭisāraṇīyakamma* (Cầu xin người cư sĩ tha thứ) lên ông. Hình phạt này bắt buộc Yasa phải được cử đến giữa những cư sĩ tại gia, có một sứ giả đi cùng, có lẽ để xin họ tha thứ vì đã thông tin sai lệch cho họ. Nhưng thay vì làm điều này, Yasa đã nói với các cư sĩ tại gia rằng hành vi của các tỳ-kheo Vajjī hoàn toàn trái ngược với các quy định do Đức Phật ban hành, và trích dẫn các bài kinh của Đức Phật để chứng minh lời buộc tội của mình.
+
+Khi các tỳ-kheo Vajjī nghe về điều này, họ đã tuyên án ông bằng hình phạt *Ukkhepaniyakamma* (Treo Y Bát), nhưng khi họ tập hợp lại để thực hiện việc đó, Yasa đã bay xuyên không trung đến Kosambī, từ đó ông phái các sứ giả đến các tỳ-kheo ở Avanti, ở miền Tây (*Pāṭheyyakā* hoặc *Pāveyyakā*) và ở miền Nam (*Dakkhiṇāpatha*), yêu cầu họ hỗ trợ trong việc ngăn chặn sự hủ bại của tôn giáo. Cùng với họ, ông đã đến thăm Sambhūta *Sānavāsī* tại Ahogaṅgapabbata, và tại đó, họ quyết định tham khảo ý kiến của Revata người đang sống tại Soreyya. Do đó, Yasa đã đến gặp Revata, đi theo ngài qua Saṅkassa, Kaṇṇakujja, Udumbara, Aggaḷapura và Sahajāti. Sau khi tìm thấy Revata, ông đã hỏi ngài về mười điểm đó, và đã nhận được lời hứa hỗ trợ từ ngài.
+
+Họ cùng nhau trở lại Vesālī, nơi có Sabbakāmī sinh sống, vị Thera lớn tuổi nhất lúc bấy giờ. Sau khi lấy ý kiến của ngài về vấn đề này, một cuộc họp của các tỳ-kheo đã được tổ chức và một ủy ban được chỉ định (để giải quyết vấn đề bằng một cuộc *Ubbāhikā*) gồm bốn người từ phương Đông: Sabbakāmī, Sāḷha, Khujjasobhita, và Vāsabhagāmika; và bốn người từ phương Tây: Revata, Sambhūta *Sānavāsī*, Yasa và Sumana. Họ tranh luận về câu hỏi tại Vālikārāma, với Revata đóng vai trò người hỏi và Sabbakāmī trả lời các câu hỏi của ngài. Vào cuối cuộc điều tra, quyết định được đưa ra là chống lại mười điểm của các tỳ-kheo Vajjī, và quyết định này đã được truyền đạt đến hội đồng. Sau đó, cuộc kết tập Vinaya đã được tổ chức với bảy trăm tỳ-kheo tham gia; cuộc kết tập này được gọi là *Sattasatī*. Vin.ii.294ff.; Mhv.iv.9ff.; Dpv.iv.45ff.; Dpv.v.23. Tác phẩm Mhv. nói rằng lúc đầu nhà vua (Kāḷāsoka) có khuynh hướng ủng hộ những người Vajjians, nhưng em gái ông, Nandā Therī, đã cảnh báo ông về điều này (Mhv.iv. 37ff.).
+
+Các tỳ-kheo không chịu chấp nhận những kết luận của ủy ban đã tổ chức một cuộc Kết Tập khác, được gọi là *Mahā Saṅgīti* (Dpv.v.30ff.). Cuộc kết tập *Sattasatī* (Đại hội Bảy Trăm, cũng gọi là Cuộc Kết Tập Lần Thứ Hai) cũng được gọi là (ví dụ, AN­a.i.251; MN­a.ii.880) *Yasatherasaṅgīti*, rõ ràng là do vai trò nổi bật của Yasa. Yasa được xếp hạng (Xem, ví dụ, DN­a.ii.525) trong số những ân nhân vĩ đại của tôn giáo.
 
 ## Notes

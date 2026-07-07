@@ -5,7 +5,7 @@ base_headword: "Mahā Sumana"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -27,6 +27,6 @@ Mahā Sumana 02. Elder son of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sumana 02. Con trai lớn của Mahā Muṇḍa. Ông đã phục vụ Anuruddha tại nhà cha mình và cha ông đã đề nghị cho ông được xuất gia. Nhưng Anuruddha lại chuộng người em trai Cūḷa Sumana của ông hơn. Dhp­a.iv.128f.
 
 ## Notes

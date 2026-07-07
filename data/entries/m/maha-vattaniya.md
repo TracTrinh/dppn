@@ -5,7 +5,7 @@ base_headword: "Mahā Vattaniya"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -24,6 +24,6 @@ Mahā Vattaniya. A desert in India. Ras.i.23.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Vattaniya. Một sa mạc ở Ấn Độ. Ras.i.23.
 
 ## Notes

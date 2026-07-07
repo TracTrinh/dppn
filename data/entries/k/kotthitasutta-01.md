@@ -5,7 +5,7 @@ base_headword: "Koṭṭhitasutta"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -27,6 +27,6 @@ Koṭṭhitasutta 01. A conversation between <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koṭṭhitasutta 01. Một cuộc trò chuyện giữa Mahā Koṭṭhita và Sāriputta về việc liệu có hay không có bất cứ điều gì tồn tại sau sự đoạn diệt ly tham, không còn dư tàn, của sáu xúc xứ (*phassāyatanānaṁ asesavirāganirodhā*). Cuộc trò chuyện được lặp lại giữa Mahā Koṭṭhita và Ānanda. AN.ii.161f.
 
 ## Notes

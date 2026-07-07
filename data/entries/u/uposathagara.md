@@ -5,7 +5,7 @@ base_headword: "Uposathāgāra"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -27,6 +27,6 @@ Uposathāgāra. A building connected with the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uposathāgāra. Một tòa nhà được kết nối với Thūpārāma. Nó được xây dựng bởi Bhātikābhaya và được mở rộng bởi Āmaṇḍagāmaṇī Abhaya. Mhv.xxxiv.39; xxxv.3; Mhv­ṭ.629, 639.
 
 ## Notes

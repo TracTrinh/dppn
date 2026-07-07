@@ -5,7 +5,7 @@ base_headword: "Pillaviṭṭhi"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -27,6 +27,6 @@ Pillaviṭṭhi. A village near the <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pillaviṭṭhi. Một ngôi làng gần Kālavāpī, được đề cập trong bản ghi chép về các chiến dịch của Parakkamabāhu I. (Cv.lxxii.163, 170). Rất có thể nó chính là Pilaviṭṭhi. Cv.Trs.i.335, n.4.
 
 ## Notes

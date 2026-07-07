@@ -5,7 +5,7 @@ base_headword: "Sudassana"
 disambiguator: "09"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sudassana 09. A pleasance in <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudassana 09. Một khu vườn ở Subhavatī nơi Anomadassī Buddha thuyết bài pháp đầu tiên của mình. Bv­a.143.
 
 ## Notes

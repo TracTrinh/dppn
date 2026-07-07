@@ -5,7 +5,7 @@ base_headword: "Sucittā"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sucittā. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sucittā. Vợ của Vessabhū Buddha, trước khi ngài xuất gia. Bv.xxii.20.
 
 ## Notes

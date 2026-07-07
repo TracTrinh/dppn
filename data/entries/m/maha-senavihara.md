@@ -5,7 +5,7 @@ base_headword: "Mahā Senavihāra"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -28,6 +28,6 @@ Mahā Senavihāra. A *vihāra* called after King <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Senavihāra. Một *vihāra* được đặt theo tên của Vua Mahā Sena, nơi mà Aggabodhi V. đã ban cho ngôi làng Paṇṇabhatta (Cv.xlviii.8; Cv.Trs.i.111, n.1). Trong *vihāra* này có một pho tượng Phật, và Sena II. đã ban cho nó một ngôi làng và chỉ định những người canh gác để chăm sóc cho nó. (Cv.li.76)
 
 ## Notes

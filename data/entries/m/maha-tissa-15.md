@@ -5,7 +5,7 @@ base_headword: "Mahā Tissa"
 disambiguator: "15"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -29,6 +29,6 @@ Mahā Tissa 15. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Tissa 15. Mahā Tissa Thera. Ngay cả khi đã sáu mươi tuổi ngài vẫn không nhận ra rằng ngài là một kẻ phàm phu (puthujjana). Thế rồi, một ngày nọ, đệ tử của ngài là Dhammadinna của Talaṅgara đến gặp ngài, yêu cầu ngài đi cùng trong một cuộc hành trình đến Tissa Mahā Vihāra, nơi ngài ấy được mời đến để thuyết pháp. Mahā Tissa đã chào đón ngài ấy, và trong quá trình trò chuyện, Dhammadinna phát hiện ra rằng vị thầy của mình đang ở trong một ấn tượng sai lầm rằng bản thân ngài là một *Arahant*. Muốn cho ngài thấy được lỗi lầm của mình, ngài ấy đã thuyết phục Mahā Tissa, bằng oai lực *iddhi* của mình, tạo ra một cái ao, và trong ao có một đóa hoa sen, mà một thiếu nữ đang hái nó. Khi nhìn thấy cô gái, Mahā Tissa đã bị dục vọng chiếm hữu, và nhận ra rằng mình không phải là một *Arahant*. Dhammadinna rút lui, và cùng ngày hôm đó Mahā Tissa đã nỗ lực tinh tấn và đạt được quả vị *Arahant*. AN­a.i.25.
 
 ## Notes

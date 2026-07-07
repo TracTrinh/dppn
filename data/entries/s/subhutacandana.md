@@ -5,7 +5,7 @@ base_headword: "Subhūtacandana"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Subhūtacandana. A Thera of Pagan who wrote the <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subhūtacandana. Một vị Thera (Trưởng lão) xứ Pagan, người đã biên soạn Liṅgatthavivaraṇa, một cuốn ngữ pháp tiếng Pāli. Gv.63, 72; Bode, 22.
 
 ## Notes

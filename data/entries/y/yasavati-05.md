@@ -5,7 +5,7 @@ base_headword: "Yasavatī"
 disambiguator: "05"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -26,6 +26,6 @@ Yasavatī 05. One of the chief women supporters of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yasavatī 05. Một trong những nữ thí chủ chính của Metteyya Buddha. Bà sẽ là một trong những nhà lãnh đạo của những phụ nữ sẽ đồng hành cùng Metteyya khi Ngài Xuất gia. Anāg.vs.63, 99.
 
 ## Notes

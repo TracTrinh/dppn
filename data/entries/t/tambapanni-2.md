@@ -5,7 +5,7 @@ base_headword: "Tambapaṇṇī"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tambapaṇṇī. An irrigation channel built by <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tambapaṇṇī. Một con kênh thủy lợi do Parakkamabāhu I xây dựng. Nó chảy về hướng bắc từ hồ nước Ambāla. Cv.lxxix.50.
 
 ## Notes

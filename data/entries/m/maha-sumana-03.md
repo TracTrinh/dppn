@@ -5,7 +5,7 @@ base_headword: "Mahā Sumana"
 disambiguator: "03"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Sumana 03. A Thera*,* present at the Foundation Ceremony of the <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sumana 03. Một vị Trưởng lão, có mặt tại Lễ Đặt Nền Móng của Mahā Thūpa; khi nền móng được đặt, ngài đã dâng cúng những bông hoa *jātisumana*. Mhv­ṭ. 524, 527, 528.
 
 ## Notes

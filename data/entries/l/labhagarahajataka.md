@@ -5,7 +5,7 @@ base_headword: "Lābhagarahajātaka"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -27,6 +27,8 @@ The story was related in reference to a colleague who asked <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lābhagarahajātaka (Ja 287). Đức Phật thuở xưa là một vị thầy nổi tiếng về kinh Veda với năm trăm học trò. Một học trò hỏi thầy rằng người ta có thể đạt được lợi lộc trong đời này bằng cách nào. Người thầy trả lời rằng trong một thế giới đầy kẻ ngu, kẻ nào xuyên tạc, có thủ thuật của diễn viên và mang tin xấu xa thì sẽ được phồn thịnh. Người học trò bày tỏ sự thất vọng rồi tiếp tục đời sống tu hành của mình.
+
+Câu chuyện được kể liên quan đến một người bạn đồng tu đã hỏi Sāriputta cùng câu hỏi đó và nhận được câu trả lời như trên. Ja.ii.420-3.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Veṇhu"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -28,6 +28,6 @@ Veṇhu. A *Deva* who was present, with his retinue, at the preaching of the <sp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Veṇhu. Một vị chư thiên (*Deva*) đã có mặt, cùng với đoàn tùy tùng của mình, tại buổi thuyết giảng kinh Mahā Samayasutta (DN.ii.259). Xem thêm Veṇḍu ở trên. Veṇhu là một dạng tiếng Pāli của Viṣṇu. Xem thêm Andhakaveṇhudāsaputta.
 
 ## Notes

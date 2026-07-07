@@ -5,7 +5,7 @@ base_headword: "Paṅkadhā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Paṅkadhā. A township in <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṅkadhā. Một thị trấn ở Kosala, nơi cư ngụ của một vị tỳ-kheo tên là Kassapa thuộc Kassapagotta. Đức Phật được đề cập là đã từng dừng chân tại đây trong các chuyến hoằng pháp của Ngài ở Kosala. AN.i.236; AN­a.i.446.
 
 ## Notes

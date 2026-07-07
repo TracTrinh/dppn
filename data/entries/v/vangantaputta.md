@@ -5,7 +5,7 @@ base_headword: "Vaṅgantaputta"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vaṅgantaputta. The epithet applied to <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaṅgantaputta. Tính ngữ được dùng cho Upasena, anh em trai của Sāriputta, để phân biệt ông với những người khác có cùng tên.
 
 ## Notes

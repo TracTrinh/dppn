@@ -5,7 +5,7 @@ base_headword: "Tamosutta"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Tamosutta. The four types of people found in the world – those who, being in d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tamosutta. Bốn hạng người được tìm thấy trên thế gian – những người đang ở trong bóng tối, hướng đến bóng tối, những người đang ở trong bóng tối nhưng hướng đến ánh sáng, v.v. AN.ii.85; cf. Pp. p.51; và SN.i.93, nơi *Sutta* được thuyết cho Pasenadi.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Rāhulovādasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -26,6 +26,6 @@ Mahā Rāhulovādasutta. The Buddha and <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Rāhulovādasutta. Đức Phật và Rāhula đang trên đường đến làng để khất thực, và Đức Phật nói với Rāhula rằng tất cả *rūpa* nên được quán chiếu là *anatta* (vô ngã), và không chỉ *rūpa*, mà cả những *khandha* (uẩn) khác cũng vậy. Rāhula dừng lại và ngồi xuống dưới một cái cây để thiền định. Sāriputta đi đến gần và gợi ý rằng ông nên phát triển *ānāpānasati* (niệm hơi thở). Tối hôm đó, Rāhula hỏi Đức Phật làm thế nào ông có thể làm được điều này. Đức Phật mô tả cách thực hành điều đó bằng việc quán chiếu tất cả các đại: đất, nước, lửa, gió và hư không, cả bên trong thân và bên ngoài bằng sự ghê tởm và nhàm chán của tâm. Một người không nên để những ấn tượng của các giác quan chiếm đoạt tâm mình, giống như đất vẫn thản nhiên bất kể thứ gì có thể bị ném lên đó. Với những đại khác cũng vậy. Một người nên tu tập lòng từ, bi, hỷ đối với hạnh phúc của người khác, xả, quán chiếu sự thối rữa của cơ thể, nhận thức về bản chất vô thường của vạn pháp, và chánh niệm sinh ra từ việc kiểm soát hơi thở theo trật tự. MN.i.420-6; có lẽ một phần của bài *Sutta* này đã được trích dẫn ở Mil. 385, 388; xem Mil. Trs.ii.312, n.1.
 
 ## Notes

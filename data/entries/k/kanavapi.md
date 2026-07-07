@@ -5,7 +5,7 @@ base_headword: "Kāṇavāpī"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -30,6 +30,6 @@ Kāṇavāpī. A tank near the <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāṇavāpī. Một hồ chứa nước gần Cetiyagiri, được ban bởi Sena I để cho các tỳ-kheo ở đó sử dụng (Cv.l.72). Sena II đã xây một con đập vắt ngang qua nó tại Kaṭṭhantanagara (Cv.li.73), và cả Vijayabāhu I (Cv.lx.50) cùng Parakkamabāhu I (Cv.lxxix.34) đều đã khôi phục lại nó.
 
 ## Notes

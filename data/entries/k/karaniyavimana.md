@@ -5,7 +5,7 @@ base_headword: "Karaṇīyavimāna"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -30,6 +30,8 @@ A further story is told similar to the above, except that the person fed is a mo
 
 ## Vietnamese translation
 
-Chưa dịch.
+Karaṇīyavimāna. Một nam cư sĩ nhất định ở Sāvatthī đã tắm trên sông Aciravatī, và trên đường trở về, nhìn thấy Đức Phật, đã thỉnh mời ngài một bữa ăn. Đức Phật đã nhận lời và được phục vụ với lòng sùng mộ to lớn. Kết quả là nam cư sĩ đã được tái sinh ở Tāvatiṁsa, trong một cung điện được biết đến với tên gọi là Karaṇīyavimāna.
+
+Một câu chuyện tiếp theo được kể lại tương tự như trên, ngoại trừ việc người được dâng thức ăn là một vị tỳ-kheo chứ không phải Đức Phật (Vv.55; Vv-a.248f).
 
 ## Notes

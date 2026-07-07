@@ -5,7 +5,7 @@ base_headword: "Kumbhakaṇṇa"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,6 @@ Kumbhakaṇṇa. A powerful <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một Yakkha hùng mạnh mà Đức Phật Sumedha đã hàng phục dưới quyền lực của Ngài. Câu chuyện của ông tương tự như câu chuyện của Āḷavaka. Người dân đã mang đến cho Yakkha một hoàng tử như một vật hiến tế, và Yakkha đã giao nộp hoàng tử cho Đức Phật. Chín mươi crore người đã nhận ra Sự thật vào dịp đó. Bv.xii.5; Bv­a.164f.
 
 ## Notes

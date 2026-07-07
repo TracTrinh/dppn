@@ -5,7 +5,7 @@ base_headword: "Sumanā"
 disambiguator: "11"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -30,6 +30,6 @@ Sumanā 11. The name of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumanā 11. Tên của Ubbirī, khi cô được sinh ra ở Bhokkantagāma, là con gái của Sumana. Cô đã kết hôn với Lakuṇṭaka Atimbara, vị bộ trưởng của Duṭṭhagāmaṇī. Về sau cô đã gia nhập những nữ tỳ-kheo Pañcabalaka và trở thành một *Arahant*. Xem Ubbirī (1).
 
 ## Notes

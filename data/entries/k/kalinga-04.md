@@ -5,7 +5,7 @@ base_headword: "Kāliṅga"
 disambiguator: "04"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -26,6 +26,6 @@ Kāliṅga 04. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāliṅga 04. Con trai của Cūḷa Kāliṅga. Xem Kāliṅgabodhijātaka (Ja 479).
 
 ## Notes

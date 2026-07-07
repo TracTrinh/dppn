@@ -5,7 +5,7 @@ base_headword: "Khema"
 disambiguator: "06"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -26,6 +26,6 @@ Khema 06. The pleasance in which <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khema 06. Khu tịnh viên nơi Kakusandha Buddha viên tịch (Bv.xxiii.27). Nó nằm gần Khemavatī và là nơi đản sanh của Kakusandha. Bv­a.209.
 
 ## Notes

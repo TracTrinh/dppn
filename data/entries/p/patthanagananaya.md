@@ -5,7 +5,7 @@ base_headword: "Paṭṭhānagaṇānaya"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Paṭṭhānagaṇānaya. An <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṭṭhānagaṇānaya. Một luận thư *Abhidhamma* được gán cho Saddhammajotipāla. Gv.64,74.
 
 ## Notes

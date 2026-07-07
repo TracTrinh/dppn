@@ -5,7 +5,7 @@ base_headword: "Uttara"
 disambiguator: "07"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -30,6 +30,8 @@ One day, while on his way to the forest to fell timber, he saw <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttara 07. Một thanh niên ở Kosambī, con trai của một vị quan đại thần của vua Udena. Khi cha ông qua đời, chàng thanh niên được nhà vua bổ nhiệm để thực hiện một số công trình nhất định trong thành phố mà cha anh ta để lại dang dở.
+
+Một ngày nọ, trong khi đang trên đường vào rừng để đốn gỗ, ông nhìn thấy Mahā Kaccāna và, cảm thấy hoan hỷ trước phong thái của vị Trưởng lão (Thera), đã đi đến và đảnh lễ ngài. Vị Trưởng lão (Thera) thuyết pháp cho ông, và chàng thanh niên đã mời ngài cùng những người bạn đồng hành của ngài đến dùng một bữa ăn tại nhà mình. Vào lúc kết thúc bữa ăn Uttara đã đi theo Mahā Kaccāna đến vihāra và thỉnh cầu ngài luôn luôn dùng bữa tại nhà của ông. Về sau ông trở thành một Sotāpanna và xây dựng một vihāra. Ông đã thuyết phục hầu hết người thân của mình cùng tham gia vào những việc làm phước báu của ông, nhưng mẹ ông từ chối giúp đỡ và đã lăng mạ các tỳ-kheo. Kết quả là bà đã bị sinh vào thế giới ngạ quỷ (Peta) (xem Uttaramātā). Pv-a.140ff.
 
 ## Notes

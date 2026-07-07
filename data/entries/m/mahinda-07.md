@@ -5,7 +5,7 @@ base_headword: "Mahinda"
 disambiguator: "07"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -43,6 +43,8 @@ Among <span class="dppn-term dppn-term-t14" data-dppn-term-pos="18" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahinda 07. Con trai của Silāmegha (Aggabodhi VI.) (Cv.xlviii.42, 76). Aggabodhi đã phong ông làm *senāpati* (tổng tư lệnh) và trao quyền cai trị chính phủ lại cho ông. Nhưng khi Aggabodhi VI. qua đời và Aggabodhi VII. lên ngôi, Mahinda đã đi đến Mahā Tittha. Sau đó, vào lúc cái chết của Aggabodhi VII., Mahinda đã dập tắt mọi cuộc nổi loạn và tống giam hoàng hậu vì bà đã âm mưu giết ông. Người anh em họ của ông là Dappula đã nổi dậy chống lại ông, nhưng đã bị đánh bại sau nhiều trận chiến. Sau đó Mahinda đã kết hôn với hoàng hậu của Aggabodhi VI. và trở thành vua với danh xưng là Mahinda II., khi một người con trai đã được sinh ra cho ông. Dappula lại nổi dậy một lần nữa, nhưng Mahinda đã lập một hiệp ước với ông ta và trao cho ông ta một phần của Rohaṇa với Gāḷhagaṅgā như là ranh giới.
+
+Trong số những việc làm thiện nguyện của Mahinda có việc xây dựng *pariveṇa* Dāmavihāra và *vihāra* Sannīratittha ở Pulatthipura, cũng như Ratanapāsāda đắt giá, có chứa một bức tượng vàng của Đức Phật. Đối với ni viện Silāmegha thì Mahinda đã trao tặng một bức tượng Bồ-tát bằng bạc. Ông đã yêu cầu các vị tỳ-kheo của *vihāra* Hemasāli tụng đọc Abhidhamma, và đã xây dựng nhiều điện thờ cũng như giúp đỡ những người nghèo khổ hoặc gặp rắc rối. Đối với những người què quặt thì ông tặng những con bò đực và đối với những người Damiḷa thì là những con ngựa. Ông đã củng cố thêm cho con đập của hồ *Kālavāpi*. Ông đã cai trị trong hai mươi năm (772-92 Công Nguyên) và được kế vị bởi con trai của mình là Udaya I. (Cv.xlviii.83ff).
 
 ## Notes

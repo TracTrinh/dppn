@@ -5,7 +5,7 @@ base_headword: "Vessantarajātaka"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/066.html"
@@ -104,6 +104,37 @@ The story of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="134" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vessantarajātaka (Ja 547). Vessantara (Bodhisatta) là con trai của Sañjaya, vua xứ Sivi, và vương hậu Phusatī, và được đặt tên như vậy vì mẹ ngài bắt đầu chuyển dạ khi bà đi ngang qua khu phố *Vessa* trong thành Jetuttara, và ngài được sinh ra trong một ngôi nhà ở cùng khu phố đó. Ngài nói được ngay khi vừa chào đời (Cf. Bv­a.228). Vào cùng ngày đó, một con voi trắng tên là Paccaya cũng ra đời. Lên tám tuổi, Vessantara ước muốn thực hiện một đại bố thí và trái đất rung chuyển. Ngài kết hôn với Maddī vào năm mười sáu tuổi, và những đứa con của họ là Jāli và Kaṇhajinā.
+
+Vào lúc bấy giờ, có một đợt hạn hán lớn ở Kāliṅga, và tám Bà-la-môn từ đó đã đến chỗ Vessantara để xin con voi trắng của ngài, con voi có năng lực làm cho mưa rơi. Ngài đã chấp thuận lời thỉnh cầu của họ, và ban cho con voi cùng với những đồ trang sức vô giá của nó (Ja.vi.488f. cung cấp chi tiết về những thứ này). Cư dân của Jetuttara rất buồn bực vì con voi của họ đã bị đem cho, và yêu cầu Sañjaya rằng Vessantara phải bị trục xuất đến Vaṅkagiri. Ý chí của người dân đã thắng thế, và Vessantara được yêu cầu đi theo con đường mà những kẻ phạm tội thường đi. Ngài đồng ý ra đi, nhưng trước khi lên đường, ngài đã xin phép nhà vua tổ chức một buổi bố thí gọi là "Sự Bố Thí Của Bảy Trăm" (*Sattasataka*), trong đó ngài đem cho bảy trăm thứ mỗi loại. Mọi người từ khắp nơi ở Jambudīpa đã đến để nhận những món quà của ngài, và buổi bố thí kéo dài trọn một ngày.
+
+Khi Vessantara cáo từ cha mẹ và chuẩn bị cho chuyến đi, Maddī nài nỉ được đi theo ngài cùng với hai đứa con. Họ được chở trên một cỗ xe tuyệt đẹp do bốn con ngựa kéo, nhưng ở bên ngoài kinh thành, Vessantara đã gặp bốn Bà-la-môn xin những con ngựa của ngài. Sau đó, bốn vị chư thiên (Devas) đã kéo cỗ xe, nhưng một Bà-la-môn khác nhanh chóng xuất hiện và xin được cỗ xe. Từ đó trở đi, họ đi bộ, qua Suvaṇṇagiritāla, băng qua sông Kantimārā, tới phía bên kia Núi Arañjaragiri và Dunniviṭṭha, đến kinh thành của chú ngài, trong vương quốc Ceta. Chư thiên đã rút ngắn quãng đường cho họ, và cây cối hạ thấp trái xuống để họ có thể ăn. Sáu mươi ngàn người Sát-đế-lỵ (*Khattiyas*) đã ra đón Vessantara và hiến dâng vương quốc của họ cho ngài, tuy nhiên, ngài đã từ chối. Ngài thậm chí không vào thành, mà ở lại bên ngoài cổng, và khi ngài rời đi vào sáng sớm hôm sau, người dân Ceta, do Cetaputta dẫn đầu, đã đi cùng ngài mười lăm do-tuần, cho đến khi họ tới lối vào khu rừng. Vessantara và gia đình ngài sau đó tiến về phía bắc, đến Gandhamādana, qua chân Núi Vipula tới dòng sông Ketumatī, nơi một người đi rừng đã khoản đãi họ và cho họ đồ ăn. Từ đó, họ băng qua con sông để đến bên kia Nāḷika, dọc theo bờ Hồ Mucalinda, tới góc đông bắc của nó, rồi đi dọc theo một lối đi hẹp vào trong khu rừng rậm rạp, tới Vaṅkagiri. Ở đó, Vissakamma đã xây sẵn hai thảo am, theo lệnh của Sakka, một cái cho Vessantara và một cái cho Maddī cùng các con, và họ đã đến ở tại đó. Nhờ oai lực của Vessantara, các loài dã thú trong khoảng cách ba do-tuần trở nên hiền lành. Maddī thức dậy hàng ngày vào lúc bình minh, và sau khi đi lấy nước để tắm rửa, bà đi vào rừng tìm khoai và trái cây. Buổi tối bà trở về, tắm rửa cho các con, và gia đình ngồi xuống dùng bữa. Bốn tháng trôi qua như thế.
+
+Rồi từ Dunniviṭṭha có một Bà-la-môn già đi đến thảo am, tên là Jūjaka, người đã được người vợ trẻ của mình, Amittatāpanā, sai đi tìm nô lệ cho cô ta, bởi vì khi cô ta ra giếng lấy nước, những phụ nữ khác đã cười nhạo cô, gọi cô là "cục cưng của một lão già". Cô nói với Jūjaka rằng ông ta có thể dễ dàng bắt những đứa trẻ của Vessantara làm nô lệ, và vì thế ông ta đã đến Vaṅkagiri. Hỏi đường nhiều người, kể cả đạo sĩ Accuta, Jūjaka đã đến Vaṅkagiri vào chiều muộn và trải qua đêm trên đỉnh đồi. Đêm đó Maddī có một giấc mơ, và trong sự hoảng sợ, bà tìm đến Vessantara. Ngài biết giấc mơ báo điềm gì, nhưng đã an ủi bà và sai bà đi tìm thức ăn vào ngày hôm sau. Trong lúc bà đi vắng, Jūjaka đến và đưa ra lời thỉnh cầu. Ông ta không muốn đợi Maddī trở về, và Vessantara đã sẵn lòng ban cho ông ta hai đứa trẻ. Nhưng chúng chạy trốn và trốn trong một cái ao cho đến khi được cha bảo đi theo Jūjaka. Khi Vessantara rưới nước lên tay Jūjaka như một biểu tượng cho sự bố thí của ngài, trái đất rung chuyển vì vui sướng. Các con ngài lại trốn thoát một lần nữa và chạy về phía cha chúng, nhưng ngài đã củng cố quyết tâm của mình với những giọt nước mắt ứa ra. Jūjaka dẫn hai đứa trẻ đi, đánh đập chúng dọc đường cho đến khi máu chúng tuôn rơi.
+
+Trời đã về chiều muộn khi Maddī trở về vì chư thiên (Devas), biến thành hình dáng của những con thú săn mồi, đã cản trở việc bà quay lại, e rằng bà sẽ cản trở việc bố thí của Vessantara. Đáp lại những câu hỏi của bà, Vessantara không nói một lời nào, và bà đã thức trắng đêm để tìm các con. Buổi sáng bà trở lại thảo am và ngã xuống bất tỉnh. Vessantara làm bà tỉnh lại và kể cho bà nghe những gì đã xảy ra, giải thích lý do tại sao ngài không nói với bà sớm hơn. Khi bà nghe câu chuyện của ngài, bà đã bày tỏ niềm vui sướng, khẳng định rằng ngài đã làm một sự bố thí cao thượng vì mục đích đạt được sự toàn tri. Và sau đó, e rằng một kẻ thấp hèn nào đó sẽ đến và xin Maddī, Sakka, hóa thân thành một Bà-la-môn, đã xuất hiện và xin bà. Vessantara nhìn Maddī, và bà đã bày tỏ sự ưng thuận. Vì vậy, ngài đã trao Maddī cho người Bà-la-môn, và trái đất rung chuyển. Sakka tiết lộ danh tính của mình, trả Maddī lại cho Vessantara, và ban cho ngài tám ân huệ. Vessantara đã xin rằng
+
+- (1) ngài được gọi trở về kinh thành của cha mình,
+- (2) ngài không được kết án tử hình một người nào,
+- (3) ngài phải là người giúp đỡ tất cả mọi người như nhau
+- (4) ngài không được phạm tội tà dâm,
+- (5) con trai ngài được sống lâu,
+- (6) ngài có thức ăn cõi trời,
+- (7) phương tiện bố thí của ngài không bao giờ vơi cạn,
+- (8) sau khi chết ngài được tái sinh trên thiên giới.
+
+Trong khi đó, Jūjaka đã đi sáu mươi do-tuần cùng với hai đứa trẻ, những người được chư thiên chăm sóc và bảo vệ. Được chư thiên hướng dẫn, họ đã đến Jetuttara trong mười lăm ngày, mặc dù Jūjaka đã định đi đến Kāliṅga. Sañjaya đã mua lại những đứa trẻ từ Jūjaka, trả một cái giá cao, bao gồm cả món quà là một cung điện bảy tầng. Nhưng Jūjaka chết vì ăn quá nhiều, và vì không tìm được người thân nào của ông ta, tài sản của ông ta đã quay trở lại với nhà vua. Sañjaya ra lệnh chuẩn bị quân đội và xây dựng một con đường từ Jetuttara đến Vaṅkagiri, rộng tám *usabha*. Bảy ngày sau, dưới sự dẫn dắt của Jāli, Sañjaya và Phusatī lên đường đến Vaṅkagiri.
+
+Trong quân đội có con voi trắng, vốn đã được trả lại vì người dân Kāliṅga không thể nuôi nổi nó. Có sự hân hoan lớn lao trong ngày đoàn tụ của gia đình, và sáu người hoàng tộc đã ngất xỉu cho đến khi họ được làm tỉnh lại nhờ một cơn mưa do Sakka gửi đến, cơn mưa chỉ làm ướt những ai muốn điều đó. Vessantara được phong làm vua xứ Sivi, với Maddī là vương hậu của ngài. Sau một tháng vui chơi trong rừng, họ trở về Jetuttara. Vào ngày Vessantara tiến vào thành phố, ngài đã trả tự do cho mọi tù nhân, kể cả mèo. Buổi tối, khi ngài nằm tự hỏi làm thế nào ngài có thể làm hài lòng những người đến cầu xin vào ngày hôm sau, ngai vàng của Sakka nóng lên, và ông đã gửi xuống một cơn mưa gồm bảy loại châu báu, cho đến khi khuôn viên cung điện được lấp đầy đến ngang hông. Do đó, Vessantara đã có thể thực hành sự hào phóng của ngài cho đến cuối đời. Sau khi qua đời, ngài được sinh ra ở Tusita (Ja.i.47; Dhp­a.i.69).
+
+Câu chuyện được kể lại vào dịp Đức Phật viếng thăm Kapilavatthu lần đầu tiên. Những người thân của Đức Phật đã hộ tống Ngài đến Nigrodhārāma, nhưng ngồi quanh Ngài mà không tỏ lòng tôn kính, vì họ rất kiêu hãnh. Đức Phật sau đó đã thi triển Song thông, và những người Sākiyan, do Suddhodana dẫn đầu, đã đảnh lễ Ngài. Sau đó có một cơn mưa rào, làm sảng khoái tất cả mọi người và chỉ rơi xuống những ai muốn thế. Khi mọi người bày tỏ sự kinh ngạc, Đức Phật đã kể câu chuyện này, cho thấy rằng trong quá khứ, mưa cũng đã rơi xuống những người thân của Ngài để làm họ tỉnh lại (theo Bv­a.245, Jātaka này được kể vào cuối phần tụng đọc của Buddhavaṁsa).
+
+Devadatta được nhận diện với Jūjaka, Ciñcā với Amittatāpanā, Channa với Cetaputta, Sāriputta với Accuta, Anuruddha với Sakka, Sañjaya với Suddhodana, Mahā Māyā với Phusatī, Rāhulamātā với Maddī, Rāhula với Jāli, và Uppalavaṇṇa với Kaṇhajinā (câu chuyện được kể tại Ja.vi.479-593).
+
+Câu chuyện này cũng xuất hiện trong Cariyāpiṭaka (i.9), và thường được nhắc đến (vd, Vin-a.i.245; VbhA.414; Cv.xlii.5; c.74) như là câu chuyện về một kiếp sống mà *dānapāramitā* (hạnh bố thí ba-la-mật) của Bồ-tát đã đạt đến đỉnh điểm. Trái đất rung chuyển bảy lần khi Vessantara thực hiện sự bố thí của ngài, và điều này hình thành nên chủ đề của một câu hỏi khó trong Milindapañha (Mil. p.113; đối với một câu hỏi khác, xem ibid. 274f).
+
+Câu chuyện về Jātaka này được điêu khắc trong Xá-lợi thất của Mahā Thūpa (Mhv.xxx.88).
+
+Câu chuyện về Vessantara là Jātaka đầu tiên biến mất khỏi thế giới (AN­a.i.51). Xem thêm Gūḷhavessantara.
 
 ## Notes

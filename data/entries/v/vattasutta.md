@@ -5,7 +5,7 @@ base_headword: "Vattasutta"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vattasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāriputta giảng cho các tu sĩ tại Sāvatthī về bảy *bojjhaṅga* (thất giác chi) và về khả năng của ngài có thể an trú trong bất kỳ chi phần nào trong số này tùy theo mong muốn của ngài; giống như một nhà quý tộc sở hữu nhiều chiếc áo choàng có thể mặc bất cứ chiếc nào ông ta muốn. SN.v.70f.
 
 ## Notes

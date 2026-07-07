@@ -5,7 +5,7 @@ base_headword: "Lañjakāsanasālā"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -25,6 +25,6 @@ Lañjakāsanasālā. A building in Ceylon, erected by <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lañjakāsanasālā. Một công trình ở Tích Lan, được Lañjatissa xây dựng cho các tỳ-kheo sử dụng. Mhv.xxxiii.24.
 
 ## Notes

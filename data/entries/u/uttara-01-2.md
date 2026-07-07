@@ -5,7 +5,7 @@ base_headword: "Uttarā"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,6 @@ Uttarā 01. A Therī. She was born in <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttarā 01. Một vị Trưởng lão ni (Therī). Bà sinh ra ở Kapilavatthu trong một gia đình người Sākyan. Bà đã trở thành một phu nhân trong cung điện của Bodhisatta và sau đó từ bỏ thế gian cùng với Pajāpatī Gotamī. Khi bà đang phát triển tuệ giác, Đức Phật đã xuất hiện trước mặt bà để khuyến khích bà và bà đã trở thành một Arahant. Thīg.v.15; Thīg­a.21f.
 
 ## Notes

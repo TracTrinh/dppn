@@ -5,7 +5,7 @@ base_headword: "Yudhañjayavagga"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -25,6 +25,6 @@ Yudhañjayavagga. The third section of the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yudhañjayavagga. Phần thứ ba của Cariyāpiṭaka.
 
 ## Notes

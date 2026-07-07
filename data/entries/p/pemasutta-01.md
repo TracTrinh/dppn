@@ -5,7 +5,7 @@ base_headword: "Pemasutta"
 disambiguator: "01"
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -24,6 +24,6 @@ Pemasutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pemasutta 01. Pemasutta. Từ tình cảm có thể sinh ra cả tình cảm và ác ý; tương tự như vậy đối với ác ý. Sự thoát khỏi những trạng thái này đạt được bằng việc tu tập các *jhāna*. AN.ii.213ff.
 
 ## Notes

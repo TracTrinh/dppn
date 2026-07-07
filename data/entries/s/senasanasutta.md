@@ -5,7 +5,7 @@ base_headword: "Senāsanasutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Senāsanasutta. The five factors which make an ideal lodging place, and the five
 
 ## Vietnamese translation
 
-Chưa dịch.
+Senāsanasutta. Năm yếu tố tạo nên một chỗ ở lý tưởng, và năm yếu tố mà một tỳ-kheo cần có để sử dụng tốt những chỗ ở như vậy. AN.v.15f.
 
 ## Notes

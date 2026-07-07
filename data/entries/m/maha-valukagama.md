@@ -5,7 +5,7 @@ base_headword: "Mahā Vālukagāma"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -26,6 +26,6 @@ Mahā Vālukagāma. A village on the south coast of Ceylon. It is mentioned in t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Vālukagāma. Một ngôi làng trên bờ biển phía nam của Ceylon. Nó được nhắc đến trong lời tường thuật về các chiến dịch của Parakkamabāhu I. So sánh với Vālukagāma. Cv.lxxv. 36f, 40, 45.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Pattavagga"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Pattavagga 01. The third chapter of the *Nissaggiya* of the <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pattavagga 01. Chương thứ ba của phần *Nissaggiya* thuộc Vinayapiṭaka.
 
 ## Notes

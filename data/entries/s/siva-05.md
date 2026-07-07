@@ -5,7 +5,7 @@ base_headword: "Siva"
 disambiguator: "05"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Siva 05. One of the ten sons of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Siva 05. Một trong mười người con trai của Muṭasiva (Dpv.xi.7; xvii.76). Ông trị vì trong mười năm và thành lập Nagaraṅgaṇavihāra. Dpv.xviii.45.
 
 ## Notes

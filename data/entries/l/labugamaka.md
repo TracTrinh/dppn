@@ -5,7 +5,7 @@ base_headword: "Lābugāmaka"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -26,6 +26,6 @@ Lābugāmaka. A village in Ceylon where <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lābugāmaka. Một ngôi làng ở Tích Lan nơi Paṇḍukābhaya đánh bại các chú của mình. Đầu họ được thu lại và nằm "như một đống bầu," do đó có tên làng này (Mhv.x.72; xem thêm Mhv.Trs.73, n.2.). Tên gốc của nó là Nagaragāma. Mhv­ṭ. 292.
 
 ## Notes

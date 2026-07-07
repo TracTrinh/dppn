@@ -5,7 +5,7 @@ base_headword: "Vāseṭṭha"
 disambiguator: "01"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vāseṭṭha 01. The constant attendant of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Người thị giả thường trực của Nārada Buddha. Ja.i.37; Bv.x.23.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kuṭhārivihāra"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,6 @@ Kuṭhārivihāra. A monastery in <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tu viện ở Ambaṭṭhakola được Moggallāna I. sử dụng làm trụ sở của mình trong chiến dịch chống lại Kassapa I. Cv.xxxix.21.
 
 ## Notes

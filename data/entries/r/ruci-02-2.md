@@ -5,7 +5,7 @@ base_headword: "Rucī"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rucī 02. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rucī 02. *v.l.* Rūpī. Một nữ cư sĩ (*upāsikā*), được nêu ra như một tấm gương cho người khác (AN.iv. 347; AN­a.ii.791).
 
 ## Notes

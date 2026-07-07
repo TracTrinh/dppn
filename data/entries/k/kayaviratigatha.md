@@ -5,7 +5,7 @@ base_headword: "Kāyaviratigāthā"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -27,6 +27,8 @@ The work is in two sections, the first describing the formation of the body, its
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāyaviratigāthā. Một bài thơ Pāli tuyệt hay, gồm hai trăm bảy mươi tư đoạn thơ, nói về sự điều phục các dục vọng, được viết ở Tích Lan, có lẽ vào thế kỷ thứ mười bảy. Một ṭīkā về bài thơ này được cho là của một tỳ-kheo ở Pakudhanagara (Pegu). (Gv.65, 75; Bode, 44, n.7).
+
+Tác phẩm này được chia thành hai phần, phần thứ nhất mô tả sự cấu tạo của cơ thể, sự ô uế và sự vô giá trị của nó, và phần thứ hai đề cập đến tâm trí và những lợi ích của việc phát triển tâm trí mà không màng đến cơ thể. Có một bản dịch tiếng Sinhalese có lẽ do chính tác giả thực hiện. PLC.285.
 
 ## Notes

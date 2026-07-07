@@ -5,7 +5,7 @@ base_headword: "Kañcanaguhā"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -48,6 +48,12 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="22" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kañcanaguhā. Một hang động trong vùng Himālaya, theo một mô tả (Ja.ii.176; nhưng xem Ja.v.357, nơi nó được nói là ở gần Cittakūṭa) trên mặt của núi (*pabbata*) Cittakūṭa. Hang động này là nơi ở của Bodhisatta khi ngài được sinh ra làm một con sư tử, như được mô tả trong Virocanajātaka (Ja.i.491f), và một lần nữa trong Sigālajātaka (Ja.ii.6). Gần đó là Rajatapabbata. Hang động này cũng là nơi cư ngụ của những con ngỗng được nhắc đến trong Kacchapajātaka (Ja.ii.176), và trong hang động mọc cây Abbhantaramba (Ja.ii.396), tài sản của Vessavaṇa. Trong phần chú giải của Hatthipālajātaka (Ja.iv.484), Kañcanagūha được nhắc đến như là nơi ở của con nhện Unnābhi và chín mươi sáu ngàn con ngỗng đã trú ẩn ở đó, chờ cho những cơn mưa tạnh. Gần hang động là hồ (*daha*) Chaddanta và Đức Phật, khi ngài được sinh ra làm con voi Chaddanta, đã biến hang động thành đại bản doanh của mình (Ja.v.37f). Trong bối cảnh này, hang động được mô tả là nằm ở Suvaṇṇapabbata (có lẽ là một tên khác của Kañcanapabbata) về phía tây của hồ Chaddanta, và được nói là có diện tích rộng mười hai do-tuần. Tại đó vua voi sống cùng với tám nghìn người bạn đồng hành. Vị đạo sĩ (*tāpasa*) Nanda từng sống bảy ngày ở lối vào hang động, đi đến Uttarakuru để lấy thức ăn (Ja.v.316, 392).
+
+Những chim ngỗng *Pākahaṁsa* có sức mạnh lớn lao cũng sống trong hang động (Ja.v.357, 368), có lần số lượng lên tới chín mươi nghìn (Ja.v.381).
+
+Trong Sudhābhojanajātaka (Ja.v.392), hang động được cho là nằm trên đỉnh của Manosilātala.
+
+Kañcanagūha được nhắc đến trong văn học như là nơi cư ngụ của những con sư tử có bờm (*kesarasīhā*) (ví dụ, Ud­a.71, 105).
 
 ## Notes

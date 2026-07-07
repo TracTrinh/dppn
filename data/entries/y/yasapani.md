@@ -5,7 +5,7 @@ base_headword: "Yasapāṇī"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -26,6 +26,6 @@ Yasapāṇī. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yasapāṇī. Vua của xứ Benares. Xem Dhammaddhajajātaka (Ja 220).
 
 ## Notes

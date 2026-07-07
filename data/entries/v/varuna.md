@@ -5,7 +5,7 @@ base_headword: "Varuṇā"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Varuṇā. A class of deities present at the preaching of the <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Varuṇā. Một hạng chư thiên đã có mặt tại buổi thuyết giảng Mahā Samayasutta (DN.ii.259, 260). Họ có lẽ đã tạo thành đoàn tùy tùng của Varuṇa (18).
 
 ## Notes

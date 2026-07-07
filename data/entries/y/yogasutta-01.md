@@ -5,7 +5,7 @@ base_headword: "Yogasutta"
 disambiguator: "01"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -23,6 +23,6 @@ Yogasutta 01. The four bonds – sensual desire, becoming, wrong view, ignorance
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yogasutta 01. Bốn sự trói buộc – dục lậu, hữu lậu, kiến lậu, vô minh lậu – để hiểu rõ về chúng, Bát Thánh đạo phải được thực hành. SN.v.59.
 
 ## Notes

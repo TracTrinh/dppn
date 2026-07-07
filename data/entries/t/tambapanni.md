@@ -5,7 +5,7 @@ base_headword: "Tambapaṇṇi"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -39,6 +39,10 @@ In <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tambapaṇṇi. Tên gọi dành cho khu vực đó ở Tích Lan nơi Vijaya đã đổ bộ sau khi rời Suppāraka (Mhv.vi.47; Dpv.ix.30). Tương truyền rằng nó được gọi như vậy vì khi những tùy tùng của Vijaya, sau khi rời thuyền, đã ngồi xuống đó, trong lúc mệt mỏi, họ tỳ tay xuống đất, và thấy chúng bị nhuộm màu bởi lớp bụi đỏ phủ trên mặt đất. Về sau Vijaya đã lập kinh đô tại Tambapaṇṇi, và sau đó toàn bộ hòn đảo cũng mang cùng cái tên này (Dpv.vii.38-42). Tambapaṇṇi nguyên thủy là nơi sinh sống của loài Yakkha, có kinh đô tại Sirīsavatthu (*q.v.*). Valāhassajātaka (Ja 196, Ja.ii.129) có nhắc đến một *Tambapaṇṇisara*. Theo Saṁyutta Commentary, *Tambapaṇṇidīpa* có diện tích một trăm do-tuần (ii.83; nhưng trong VbhA.p.444 thì nó được nhắc đến là *tiyojana satika*).
+
+Anurādhapura tạo thành Majjhimadesa trong *Tambapaṇṇidīpa*, phần còn lại là Paccantimadesa (AN­a.i.265).
+
+Trong các Chỉ Dụ Đá II. và XIII. của Asoka, Tambapaṇṇi được nhắc đến như một trong những vùng *Pratyanta deśa* (vùng biên viễn), cùng với *Coḍa*, *Pāṇḍya*, *Satiyaputta*, *Keralaputta*, và vương quốc của *Antiyaka Yonarāja*, như một lãnh thổ chưa bị chinh phục mà Asoka có mối quan hệ thân thiện với người dân ở đó. Vincent Smith đồng nhất vùng này, không phải với Tích Lan, mà với sông Tāmraparṇi ở Tinnevelly (*Asoka* (3rd edn.), p.163; nhưng xem Ind.Ant., 1919, p.195f).
 
 ## Notes

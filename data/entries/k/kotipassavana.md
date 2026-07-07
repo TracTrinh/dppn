@@ -5,7 +5,7 @@ base_headword: "Koṭipassāvana"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -26,6 +26,6 @@ Koṭipassāvana. A monastery erected by <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koṭipassāvana. Một tu viện do Mahā Nāma xây dựng (Cv.xxxvii.212). Nó có lẽ giống với Koṭipassāva.
 
 ## Notes

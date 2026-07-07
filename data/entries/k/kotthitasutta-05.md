@@ -5,7 +5,7 @@ base_headword: "Koṭṭhitasutta"
 disambiguator: "05"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -26,6 +26,6 @@ Koṭṭhitasutta 05. A group of three *Suttas* containing conversations between
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koṭṭhitasutta 05. Một nhóm ba bài *Sutta* bao gồm các cuộc trò chuyện giữa Mahā Koṭṭhita và Sāriputta về việc điều gì cấu thành nên vô minh. SN.iii.175.
 
 ## Notes

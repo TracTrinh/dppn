@@ -5,7 +5,7 @@ base_headword: "Mahā Tissa"
 disambiguator: "12"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -32,6 +32,6 @@ Mahā Tissa 12. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Tissa 12. Mahā Tissa Thera. Vị trú trì của tu viện Kupikkala. Khi Vaṭṭagāmaṇī đang trốn tránh trong khu rừng Vessagiri, vị Trưởng lão đã có lần cung cấp cho ông một bữa ăn, và nhà vua, vì lòng biết ơn, đã ban cho ngài một khoảng đất (Mhv.xxxiii.49). Về sau, các đại thần muốn nổi dậy chống lại nhà vua do sự tàn ác của ông đối với Tanasīva, nhưng vị Trưởng lão và người bạn đồng tu của ngài là Mahā Tissa từ Kambugallaka, đã ngăn cản họ làm như vậy (Mhv.xxxiii.76). Khi Vaṭṭagāmaṇī xây dựng Abhayagirivihāra, ông đã giao nó cho Mahā Tissa quản lý. Mhv.xxxiii.83.
 
 ## Notes

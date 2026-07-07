@@ -5,7 +5,7 @@ base_headword: "Kuveranālinī"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kuveranālinī. A name given to <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tên được đặt cho Dharaṇī. DN.iii.202; DN­a.iii.968.
 
 ## Notes

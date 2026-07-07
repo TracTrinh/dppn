@@ -5,7 +5,7 @@ base_headword: "Kuṇḍadhāna Thera"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -52,6 +52,14 @@ Kuṇḍadhāna was among those to whom the Buddha preached the <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị *Arahant*. Ông được tuyên bố là người đứng đầu trong số những người nhận thẻ thức ăn (*salāka*) (AN.i.24). Ông xuất thân từ một gia đình Bà-la-môn ở Sāvatthī và tên của ông là Dhāna. Ông thuộc lòng kinh Veda, và khi đã lớn tuổi, ông nghe Đức Phật thuyết pháp và gia nhập Tăng đoàn. Tuy nhiên, kể từ ngày đó, trong mọi hoạt động của ông, hình bóng của một người phụ nữ trẻ luôn đi theo ông bất kể ông đi đâu, mặc dù bản thân ông không thể nhìn thấy hình bóng đó. Điều này gây ra sự chế giễu lớn và gợi lên nhiều lời nhận xét mỉa mai, mà ông không thể hiểu được. Khi ông đi khất thực, những người phụ nữ sẽ bỏ vào bình bát của ông hai phần thức ăn, và nói, "Một phần cho ngài và phần kia cho bạn của ngài, người bạn đồng hành của ngài, vị tiểu thư kia." Trong tu viện, các chú sa-di và các vị tỳ-kheo trẻ sẽ chỉ vào ông và nói: "Nhìn kìa, vị tôn giả của chúng ta đã trở thành một *koṇḍa* (kẻ phong lưu?)" Từ đó ông được biết đến với tên gọi Koṇḍadhāna hay Kuṇḍadhāna. Bị đẩy đến chỗ điên tiết bởi sự trêu chọc này, ông trở nên chửi bới và bị báo cáo lên Đức Phật, Ngài bảo ông hãy kiên nhẫn vì ông chỉ đang bị truy đuổi bởi tàn dư của một ác nghiệp (*kamma*). Pasenadi, vua của Kosala, nghe về Kuṇḍadhāna, đã tỏ ra thích thú, và khi cảm thấy hài lòng nhờ vào việc tự mình điều tra rằng vị Trưởng lão này là người không có lỗi, đã chu cấp cho ông mọi vật dụng cần thiết, để ông không cần phải đi khất thực nữa. Điều này giúp ông có thể tập trung tâm trí, và ông đã trở thành một vị *Arahant*. Sau đó hình bóng của người phụ nữ biến mất.
+
+Danh hiệu của Kuṇḍadhāna là người đứng đầu trong số những người nhận *salāka* là do việc ông là người nhận được thẻ thức ăn đầu tiên khi Đức Phật đến thăm Mahā Subhaddā ở Ugganagara, Cūḷa Subhaddā ở Sāketa, và cũng là *janapada* Sunāparanta. Chỉ có các vị *khīṇāsava* mới được phép tháp tùng Đức Phật trong những chuyến đi này.
+
+Quyết tâm của Kuṇḍadhāna nhằm đạt được sự xuất chúng đặc biệt này đã được hình thành vào thời của Đức Phật Padumuttara. Một lần ông đã cúng dường cho Padumuttara một "nải" chuối chín kỹ khi Đức Phật vừa xuất khỏi một thời *jhāna* dài. Kết quả là ông đã mười một lần trở thành vua của chư thiên và hai mươi bốn lần làm vua cõi người.
+
+Ông từng là một vị thần địa cầu vào thời Đức Phật Kassapa. Nhìn thấy hai vị tỳ-kheo, là những người bạn thân thiết, đang trên đường đến dự buổi lễ *uposatha* do Đức Phật tổ chức, ông có mong muốn tinh nghịch là thử thách tình bạn của họ, và khi một vị tỳ-kheo lui vào rừng để vị kia ở lại trên đường, ông đã đi theo vị kia, mà không để cho vị ấy nhìn thấy, lấy hình dáng của một người phụ nữ đang chải tóc, chỉnh lại y phục, vân vân. Vị tỳ-kheo thứ hai, nhìn thấy bạn mình quay lại và bị sốc trước hành vi sai trái rõ ràng của bạn mình, đã bỏ đi trong sự ghê tởm, từ chối thực hiện *uposatha* với ông ấy. Nhận ra hậu quả từ trò đùa tai hại của mình, vị thần đã làm mọi việc có thể để chuộc lỗi, nhưng tình bạn của hai vị tỳ-kheo đã bị phá hỏng mãi mãi. Vị thần đã phải chịu những nỗi sợ hãi của địa ngục trong suốt một kỷ nguyên Phật, và thậm chí trong lần sinh cuối cùng của mình với tư cách là Kuṇḍadhāna, ác nghiệp của ông vẫn truy đuổi ông, như đã thấy ở trên. AN­a.i.146ff; Thag.A.i.62ff; cũng xem Ap.i.81f; Thag.15. Phiên bản được đưa ra trong Dhp-a.iii.52f khác nhau rất ít về một số chi tiết.
+
+Kuṇḍadhāna nằm trong số những người được Đức Phật thuyết giảng Naḷakapānasutta, và do đó có lẽ là bạn của Anuruddha và các quý tộc Sākyan khác có mặt trong dịp đó (MN.i.462).
 
 ## Notes

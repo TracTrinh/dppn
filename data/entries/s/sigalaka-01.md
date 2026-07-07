@@ -5,7 +5,7 @@ base_headword: "Sigālaka"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sigālaka 01. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sigālaka 01. Con trai của Sigālakapitā (*q.v.*).
 
 ## Notes

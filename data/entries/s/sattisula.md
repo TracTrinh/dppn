@@ -5,7 +5,7 @@ base_headword: "Sattisūla"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -27,6 +27,6 @@ Sattisūla. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sattisūla. Một địa ngục (Niraya). Ajjuna từng bị sinh vào đó vì đã tra tấn Aṅgīrasa Gotama. Thân ông cao ba do-tuần. Các ngục tốt đâm ông bằng những cọc sắt nung đỏ và bắt ông trèo lên một ngọn núi sắt nung nóng. Từ đó một cơn gió đã hất ông rơi xuống một cây cọc. Ja.v.143, 145.
 
 ## Notes

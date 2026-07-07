@@ -5,7 +5,7 @@ base_headword: "Koraṇḍapupphiya Thera"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -29,6 +29,6 @@ Koraṇḍapupphiya Thera 02. An Arahant. He was a woodsman in the time of <span
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koraṇḍapupphiya Thera 02. Một vị Arahant. Ngài là một người tiều phu vào thời của Tissa Buddha, và sau khi nhìn thấy ba dấu chân của Đức Phật, ngài đã dâng cúng lên ngài một cây *koraṇḍa* đang nở hoa. Trong tất cả các kiếp sống sau đó, da của ngài có màu sắc của hoa *koraṇḍa*. Những vần kệ này xuất hiện ở hai nơi trong Apadāna với những khác biệt rất nhỏ (Ap.ii.383, 434). Có lẽ đây là hai người khác biệt, vì trong Chú giải Theragāthā, các vần kệ này xuất hiện hai lần – một lần dưới tên của Sugandha (Thag­a.i.81) và một lần dưới tên của Sabbamitta (Thag­a.i.270).
 
 ## Notes

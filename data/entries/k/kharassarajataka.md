@@ -5,7 +5,7 @@ base_headword: "Kharassarajātaka"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -28,6 +28,8 @@ The story was related in reference to a minister of the <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kharassarajātaka (Ja 79). Một quan đại thần của vua xứ Benares đã bí mật sắp xếp với một băng cướp rằng khi ông thu thuế của một ngôi làng ở biên giới xong, ông sẽ đưa quân vào rừng, để băng cướp tự do lấy đi chiến lợi phẩm. Kế hoạch được thực hiện, và một nửa chiến lợi phẩm được trao cho ông; nhưng sự phản trắc của ông bị bại lộ và ông bị thất sủng.
+
+Câu chuyện được kể liên quan đến một đại thần của vua Kosala, người cũng phạm tội phản trắc tương tự. Ja.i.354f.
 
 ## Notes

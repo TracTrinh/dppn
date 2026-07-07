@@ -5,7 +5,7 @@ base_headword: "Pāsa"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Pāsa. A locality in South India, captured by <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāsa. Một địa phương ở Nam Ấn Độ, bị Laṅkāpura chiếm giữ. Cv.lxxvi.236.
 
 ## Notes

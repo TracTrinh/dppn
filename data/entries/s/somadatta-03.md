@@ -5,7 +5,7 @@ base_headword: "Somadatta"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Somadatta 03. A Brahmin. For his story see the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Somadatta 03. Một Bà-la-môn. Về câu chuyện của ông, xem Bhūridattajātaka (Ja 543). Ông được đồng nhất với Ānanda. Ja.vi.219.
 
 ## Notes

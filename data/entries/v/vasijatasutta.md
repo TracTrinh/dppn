@@ -5,7 +5,7 @@ base_headword: "Vāsijaṭasutta"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vāsijaṭasutta (or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vāsijaṭasutta (hoặc Nāvāsutta). Các *āsava* bị đoạn tận chỉ bằng sự tự rèn luyện, không phải chỉ bằng cách mong muốn cho sự đoạn tận của chúng. Một con gà mái có thể mong muốn cho đàn gà con của mình mổ vỏ trứng chui ra bằng chân, hoặc móng vuốt, hoặc miệng, hoặc mỏ, nhưng chúng sẽ không làm như vậy cho đến khi chúng được sưởi ấm đầy đủ, được ấp ủ đầy đủ bởi gà mẹ. Khi chúng sẵn sàng mổ vỏ chui ra, chúng sẽ làm như vậy, bất kể mong muốn của gà mẹ là gì. Một người thợ mộc biết rằng cán chiếc rìu nhỏ của mình đã bị mòn, không phải bằng cách nhìn vào những dấu ngón tay trên cán, mà chỉ qua việc nó bị mòn. Một con tàu đi biển, bị mắc cạn không có nước và bị vùi dập bởi gió và nắng, sẽ dễ dàng vỡ tan tành và không cần nỗ lực. Các *āsava* cũng sẽ như vậy nơi một tu sĩ sống chú tâm vào việc tự rèn luyện. SN.iii.152f.; so sánh AN.iv.126f.
 
 ## Notes

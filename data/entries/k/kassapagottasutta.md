@@ -5,7 +5,7 @@ base_headword: "Kassapagottasutta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -25,6 +25,6 @@ Kassapagottasutta or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapagottasutta hoặc Chetasutta. Kể lại câu chuyện về nỗ lực cải đạo một người thợ săn của Kassapagotta (4). SN.i.198f.
 
 ## Notes

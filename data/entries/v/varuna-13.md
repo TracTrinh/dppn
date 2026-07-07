@@ -5,7 +5,7 @@ base_headword: "Varuṇa"
 disambiguator: "13"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Varuṇa 13. A Brahmin village, residence of the Brahmin <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Varuṇa 13. Một ngôi làng của các Bà-la-môn, là nơi cư trú của Bà-la-môn Vasabha. Bv­a.172.
 
 ## Notes

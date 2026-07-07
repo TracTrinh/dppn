@@ -5,7 +5,7 @@ base_headword: "Kasī Bhāradvājasutta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -30,6 +30,6 @@ Kasī Bhāradvājasutta. The Buddhist Parable of the Sower, forming the fourth *
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kasī Bhāradvājasutta. Bài Dụ ngôn Phật giáo về Người gieo giống, hình thành nên *Sutta* thứ tư của Uragavagga thuộc Suttanipāta. (Pp.12ff; cũng được tìm thấy trong Saṁyutta i.171ff dưới tên gọi Kasīsutta và được bao gồm trong Paritta). Nó chứa câu chuyện về chuyến thăm của Đức Phật đến Kasī Bhāradvāja. Đức Phật nói với ông ta rằng trong công việc của ngài như một vị Đạo sư sẽ được tìm thấy tất cả các yếu tố của những nhiệm vụ của một người nông dân: đức tin là hạt giống, trí tuệ là cái cày, chánh niệm là lưỡi cày và cây gậy, tinh tấn là cỗ xe chở đồ. Mùa màng được tạo ra bởi việc gieo hạt là Nibbāna và thức ăn là cam lộ, thoát khỏi đau khổ và muộn phiền.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Sīhanādasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -35,6 +35,8 @@ Mahā Sīhanādasutta. Preached at the <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sīhanādasutta. Được thuyết giảng tại Mahā Vana ở Vesālī. Sāriputta nói với Đức Phật rằng Sunakkhatta, người vừa mới rời khỏi Tăng đoàn, đã đi rêu rao rằng không có gì kỳ diệu về kiến thức và tuệ giác của Đức Phật và rằng những giáo lý của Ngài không dẫn đến sự tận diệt của khổ đau. Đức Phật nói rằng Sunakkhatta là một kẻ phẫn nộ và ngu muội và không có khả năng đánh giá cao sự tốt đẹp của Tathāgata hoặc của những giáo lý của Ngài. Sau đó Ngài đưa ra lời thách thức của mình với hàm ý rằng không một ai có thể phủ nhận việc Tathāgata sở hữu mười sức mạnh (*balā*) – được liệt kê ra – và bốn sự tự tin (*vesārajjā*). Tathāgata có thể tham dự bất kỳ hội chúng nào trong số tám hội chúng mà không hề sợ hãi; Ngài biết các sự phân loại khác nhau của chúng sinh, sự tái sinh của chúng sinh, con đường dẫn đến *Nibbāna*; Ngài có thể đọc được tâm trí của con người và năm cõi giới đang chờ đợi các chúng sinh khác nhau. Ngài đã sống đời sống phạm hạnh gồm bốn phần, đứng đầu trong việc thực hành khổ hạnh, trong sự gớm ghiếc, trong sự thận trọng, trong sự viễn ly. Không một ai đã vượt qua Ngài trong việc thực hành những điều này. Bằng sự trải nghiệm, Ngài đã khám phá ra sự vô ích trong những lời tuyên bố của những kẻ khẳng định rằng sự thanh tịnh đến từ thức ăn, hoặc lễ vật cúng tế, hoặc nghi lễ. Dù đã tám mươi tuổi và thân thể đã rệu rã, nhưng những sức mạnh tâm trí của Ngài vẫn ở thời kỳ sung mãn nhất; ngay cả khi Ngài phải được khiêng trên một chiếc cáng, thì tâm trí của Ngài vẫn sẽ duy trì những sức mạnh của nó (MN.i.68-83).
+
+Nāgasamāla, người đang ở gần đó, hỏi Đức Phật về tựa đề cho bài thuyết giảng, và Đức Phật đặt tên cho nó là Lomahaṁsapariyāya. đối chiếu Lomahaṁsajātaka.
 
 ## Notes

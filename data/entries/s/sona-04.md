@@ -5,7 +5,7 @@ base_headword: "Soṇa"
 disambiguator: "04"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -71,6 +71,25 @@ Soṇa is evidently identical with <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Soṇa 04. Soṇa Kuṭikaṇṇa, Soṇa Koṭikaṇṇa. Một Thera, được tuyên bố thượng thủ trong số những người có giảng thuyết rõ ràng (AN.i.24). Ngài là con trai của Kāḷī Kuraragharikā, và được thụ thai trước khi Đức Phật xuất hiện trong thế gian (theo Thag­a.i.429, cha của ngài là một *seṭṭhi* giàu có; không có đề cập đến mẹ của ngài ở đó).
+
+Một thời gian trước khi đứa trẻ sinh ra, Kāḷī đến nhà cha mẹ ở Rājagaha, và một ngày, khi bà đang hủng mát, bà nghe cuộc trò chuyện giữa hai Yakkha là Sātāgira và Hemavata. Khi nghe câu chuyện của họ, tâm bà đầy những suy nghĩ về đức hạnh của Đức Phật, và bà trở thành một Sotāpanna. Chính đêm đó đứa trẻ ra đời và được đặt tên là Soṇa. Mẹ ngài về sau trở lại Kuraraghara. Vào lúc đó Mahā Kaccāna sống gần đó và thường hay đến thăm nhà bà. Soṇa rất quyến luyến với ngài, và về sau được ngài thọ giới xuất gia. Ba năm sau, ngài nhận *upasampadā*, và, với sự cho phép của Mahā Kaccāna, đến thăm Đức Phật. Kāḷī trao cho ngài một tấm thảm lớn để trải trong Gandhakuṭi của Đức Phật.
+
+Khi Soṇa đến Gandhakuṭi, ngài lạy Đức Phật, Đức Phật yêu cầu Ānanda tìm chỗ ở cho ngài. Ānanda, hiểu ý Đức Phật, trải chiếu trong phòng của Đức Phật. Khuya đêm, Soṇa đi ngủ, và rất sớm sáng hôm sau, Đức Phật đánh thức ngài và yêu cầu ngài đọc tung Pháp. Soṇa đọc tung toàn bộ Aṭṭhakavagga mà ngài đã học từ Mahā Kaccāna. Sau khi đọc xong, Đức Phật tán thán ngài và ban một ân điện cho ngài. Soṇa xin phép *Vinayadharapñcamagana upasampadā* mà Kaccāna đã bảo ngài lựa chọn (nghĩa là cho phép nhận một tỳ-khẻo vào Tăng đoàn với hội chứng chỉ có năm tỳ-khẻo, trong đó một người tinh thông Vinaya. Chi tiết về chuyến thăm của Soṇa đến gặp Đức Phật, xem Vin.i.194ff.; cf. Ud.v.6). Về sau ngài trở lại Kuraraghara và thăm nhà mẹ. Bà đã nghe tin Đức Phật tán thán ngài từ các chư thiên, và muốn Soṇa đọc tung Pháp đúng như ngài đã làm trước Đức Phật, và ngài đã làm như vậy.
+
+Vào thời Padumuttara Buddha, Soṇa đã nguyện chượng ưu việt này. Vào thời Vipassī Buddha, ngài là một thành viên của Tăng đoàn và khâu một bộ y cho một tỳ-khẻo. Về sau ngài là một thợ may ở Benares và vá y cho một Pacceka Buddha (Thag.vss.365-9; AN­a.i.133f.; Thag­a.i.429).
+
+Dhammapada Commentary (Dhp­a.iv.103f) kể rằng, vào ngày Soṇa đọc tung Pháp ở Kuraraghara, Kāḷī đi nghe ngài, chỉ để lại một nữ tì lệ trong nhà. Nhà bà có bảy lớp tường và cổng phòng thủ, với những con chó dữ được xích lại. Chì lỏng chảy xung quanh tường vào ban đêm, tạo ra bề mặt trơn trợt, khó đi lại. Chín trăm tên cướp đã chờ đợi cơ hội đột nhập vào nhà, và hôm nay chúng thấy thời cơ. Chúng bố trí một đứa canh chừng Kāḷī, và giết bà nếu bà bắt đầu về nhà sau khi bọn cướp đã đột nhập. Khi chúng đến, nữ tì lệ chạy đến tu viện để báo bà. Nhưng bà không bị phân tâm và sai cô ấy trở về. Lại một lần nữa cô đến, lại bị sai trở về. Khi tên cướp canh Kāḷī nhìn thấy lòng thành khẩn kỳ lạ của bà, hắn đầy ân hận, và sau buổi pháp thoại, cầu xin bà tha thứ. Tất cả chín trăm tên cướp đều gia nhập Tăng đoàn dưới sự dẫn dắt của Soṇa Kuṭikaṇṇa, và vào ngày họ chứng đắc *Arahant*, Đức Phật hiện ra trước mặt họ trong một luồng hào quang để động viên họ.
+
+Theo Udāna Commentary (Ud­a.307), Soṇa được gọi là Kuṭikaṇṇa vì ngài đeo đồ trang sức tai trị giá một crore (*koṭi*). Người ta nói rằng một lần ngài đi cùng một đoàn lữ hành đến Ujjenī, và khi đoàn dừng nghỉ đêm, ngài ngủ riêng tách xa những người khác. Đoàn lên đường rất sớm và không ai đánh thức Soṇa. Khi ngài cuối cùng tỉnh dậy, ngài chạy theo con đường cho đến khi gặp một cây lớn. ở đó ngài thấy một người xấu xí đang rứt thịt của mình để ăn. Khi hỏi, Soṇa được biết rằng hắn đã là một thương nhân gian ác ở Bhārukaccha, đã sinh làm một *Peta* vì đã lừa dối những đại lý của mình. Sự tiết lộ này khiến Soṇa đầy lo lắng, và một cảnh tượng nữa làm tăng thêm sự lo lắng: hai cậu bé *Peta* với máu chảy ra từ môi. Chúng là những thanh niên, cũng ở Bhārukaccha, đã chỉ trích mẹ mình vì cho một tỳ-khẻo *Arahant* ăn. Khi Soṇa trở về từ Ujjenī, ngài tham vấn Mahā Kaccāna về những điều này, và quyết định gia nhập Tăng đoàn.
+
+Vinaya (Vin.i.195f) kể rằng khi Kaccāna muốn trao đại giới cho Soṇa, đã mất ba năm trước khi ngài tập hợp được hội chứng gồm mười tỳ-khẻo cần thiết. Điều này là vì có rất ít tỳ-khẻo ở Avanti và ở các vùng phía Nam; vì vậy Soṇa mới cầu xin Đức Phật cho phép năm tỳ-khẻo có thể làm pháp sự ở Avanti. Những ân điện khác mà Soṇa cầu xin và được Đức Phật chấp thuận là:
+
+- (1) Cho phép dùng ở Avanti, dép lót dày, vì đất Avanti màu đen và luôn luôn lầy lội;
+- (2) cho phép tắm thường xuyên;
+- (3) dùng da thuộc làm chăn phủ;
+- (4) nhận y phục được đạt riêng cho những tỳ-khẻo vắng mặt ngay cả khi đã quá mười ngày.
+
+Soṇa hiển nhiên đồng nhất với Pāṭihīrasaññaka trong Apadāna (Ap.ii.392). Gosāla Thera là bạn của Soṇa Kuṭikaṇṇa. Thag­a.i.79.
 
 ## Notes

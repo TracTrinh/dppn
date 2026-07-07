@@ -5,7 +5,7 @@ base_headword: "Yasa"
 disambiguator: "04"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -25,6 +25,6 @@ Yasa 04. A monk, author of the *Porānaṭīkā* on the <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yasa 04. Một tỳ-kheo, tác giả của tác phẩm *Porānaṭīkā* về Khuddasikkhā (Svd.1208). Xem thêm Mahā Yasa.
 
 ## Notes

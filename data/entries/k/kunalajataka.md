@@ -5,7 +5,7 @@ base_headword: "Kuṇālajātaka"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -86,6 +86,38 @@ See also the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="57" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kuṇāla, vua của các con chim *Citrakokila*, mặc dù được những con chim mái phục vụ chu đáo, nhưng luôn coi thường và tìm ra lỗi của chúng. Mặt khác, vua của những con chim Phussakokila, Puṇṇamukha, luôn ca ngợi đoàn hộ tống của mình. Một ngày nọ, hai vị vua gặp nhau, và Puṇṇamukha đã hỏi Kuṇāla tại sao ông không tử tế hơn với các quý bà của mình. "Bởi vì tôi biết quá nhiều về phụ nữ," là câu trả lời; nhưng Puṇṇamukha không có tâm trạng để thảo luận thêm về vấn đề này.
+
+Sau đó, Puṇṇamukha lâm bệnh, và bầy chim mái của ông đã bỏ rơi ông và đến với Kuṇāla. Ông đã xua đuổi chúng đi, chăm sóc cho Puṇṇamukha, và an ủi ông ấy. Một thời gian sau, Kuṇāla, đang ngồi trên Manosilātala ở Himavā (theo Buddhaghosa, DN.ii.675, đây là trên bờ Kuṇāladaha), bắt đầu kể cho người bạn của mình nghe về sự xấu xa của phụ nữ. Nghe về điều này, nhiều cư dân của vô số cõi thế giới đã đến để lắng nghe ông, trong số đó có Ānanda, vua của loài kên kên, và vị đạo sĩ Nārada. Có rất nhiều ví dụ được Kuṇāla đưa ra để minh họa cho sự dối trá, vô ơn và sự vô đạo đức của phụ nữ – trong số đó có những câu chuyện về:
+
+- Kaṇhā
+- Saccatapāvī
+- Kākātī (Ja 327)
+- Kuraṅgavī,
+- mẹ của Brahmadatta, người đã phạm tội với Pañcālacaṇḍa
+- hoàng hậu Kiṇṇarā
+- Pañcapāpā và
+- Piṅgiyānī
+
+Sau lời đả kích của Kuṇāla là lời đả kích của Ānanda, và sau đó là của Nārada, mỗi người đều khẳng định là nói từ những sự thật trong hiểu biết của họ.
+
+Trong những câu chuyện do Kuṇāla kể, vua chim được đồng nhất với một trong những nhân vật liên quan trong mỗi câu chuyện, do đó ông có thể nói với thẩm quyền. Cụ thể, ông là
+
+- Ajjuna, một trong những người chồng của Kaṇha;
+- người thợ kim hoàn trong câu chuyện về Saccatapāvī;
+- Garuḍa trong câu chuyện của Kākātī;
+- Chalaṅgakumāra, người đã cư xử không đứng đắn với Kuraṅgavī;
+- Pañcālacaṇḍa, người tình của mẹ Brahmadatta;
+- vị giáo sĩ, cũng tên là Pañcālacaṇḍa, người đã cứu Kiṇṇarā khỏi cơn thịnh nộ của chồng nàng;
+- Baka, người từng là chồng của Pañcapāpā;
+- và Brahmadatta, chồng của Piṅgiyānī.
+
+Puṇṇamukha được đồng nhất với Udāyī, vua kên kên với Ānanda và Nārada với Sāriputta.
+
+Sau khi thuyết giảng Kuṇālajātaka, Đức Phật đã thuyết giảng Mahā Samayasutta.
+
+*Jātaka* này được kể lại nhằm mục đích dập tắt sự bất mãn nổi lên trong lòng các thanh niên Sākiyan, những người thân của Đức Phật, những người sau khi gia nhập Tăng đoàn, đã bị băn khoăn bởi suy nghĩ về những người vợ mà họ đã bỏ lại phía sau. Do đó, Đức Phật đã đưa họ đến Himālaya, cho họ thấy vẻ đẹp tráng lệ của khu vực này, đặc biệt là những vẻ vang diệu kỳ của Kuṇāladaha, và đã thuyết giảng cho họ ở đó. Vào phần cuối của *Jātaka*, tất cả họ đều trở thành các vị *Arahant* (Ja.v.412-56; cũng xem DN­a.ii.674ff; AN­a.i.173).
+
+Xem thêm Cūḷa Kuṇālajātaka (Ja 464).
 
 ## Notes

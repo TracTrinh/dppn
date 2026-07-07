@@ -5,7 +5,7 @@ base_headword: "Sīlava"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -25,6 +25,6 @@ Sīlava 02. The Bodhisatta, born as an elephant. See the <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīlava 02. Bodhisatta, sinh làm một con voi. Xem Sīlavanāgajātaka (Ja 72).
 
 ## Notes

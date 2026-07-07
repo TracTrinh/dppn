@@ -5,7 +5,7 @@ base_headword: "Vajjīsutta"
 disambiguator: "01"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vajjīsutta 01. Records the visit of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vajjīsutta 01. Ghi lại cuộc viếng thăm của Uggagahapati đến Đức Phật tại Hatthigāma. SN.iv.109.
 
 ## Notes

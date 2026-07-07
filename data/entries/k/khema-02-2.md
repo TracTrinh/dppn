@@ -5,7 +5,7 @@ base_headword: "Khemā"
 disambiguator: "02"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -26,6 +26,6 @@ Khemā 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khemā 02. Khemā Therī. Một trong hai nữ đệ tử hàng đầu của Dhammadassī Buddha (Bv.xvi.19; Ja.i.39).
 
 ## Notes

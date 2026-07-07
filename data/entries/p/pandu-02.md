@@ -5,7 +5,7 @@ base_headword: "Paṇḍu"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -34,6 +34,8 @@ His wife was <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇḍu 02. Một người Sākiyan, con trai của Amitodana; ông là cha của Bhaddakaccānā và sáu người anh em trai của bà. Khi nghe các thầy bói tiên đoán về sự diệt vong sắp xảy ra của người Sākiyan bởi Viḍūḍabha, Paṇḍu đã rời bỏ đất nước Sākiyan và định cư bên kia sông Ganges. Mhv.viii.18 f.; Dpv.x.i.
+
+Vợ ông là Susīmā. Mhv­ṭ. 275.
 
 ## Notes

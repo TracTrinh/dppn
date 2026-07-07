@@ -5,7 +5,7 @@ base_headword: "Vanapatthasutta"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -23,6 +23,6 @@ Vanapatthasutta. On the principles which should guide a monk’s life wherever h
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vanapatthasutta. Về các nguyên tắc nên định hướng đời sống của một vị tỳ-kheo dù vị ấy sống ở đâu – trong rừng, làng mạc, thị trấn, hoặc cùng với một người khác. Vị ấy chỉ nên rời khỏi nơi trú ngụ của mình nếu thất bại trong việc phát triển chánh niệm, sự kiên định của tâm, v.v., chứ không phải vì nhận thấy khó khăn trong việc kiếm thức ăn, v.v. MN.i.104ff.
 
 ## Notes

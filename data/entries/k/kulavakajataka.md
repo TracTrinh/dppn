@@ -5,7 +5,7 @@ base_headword: "Kulāvakajātaka"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -54,6 +54,14 @@ See also <span class="dppn-term dppn-term-t14" data-dppn-term-pos="42" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhisatta được sinh ra ở Macala dưới cái tên Magha. Ông đã dành thời gian của mình cùng với những người đứng đầu của hai mươi chín gia đình khác trong làng, tham gia vào các hình thức phục vụ xã hội khác nhau. Trưởng làng, nhận thấy lợi ích của mình bị giảm sút, đã báo cáo sai sự thật lên nhà vua, người đã ra lệnh cho Magha và bạn bè của ông bị voi giẫm đạp; nhưng nhờ vào *mettā* của họ mà họ không thể bị giết, và sau đó nhà vua đã ban cho họ ân sủng lớn. Sau khi chết, tất cả họ đều được sinh ra ở Tāvatiṁsa, với Magha là Sakka.
+
+Ba trong số những người vợ của Magha – Sudhammā, Cittā và Nandā – những người đã thuyết phục ông để họ chia sẻ công việc tốt đẹp của ông, đã được sinh ra làm tỳ nữ của Sakka. Nhưng Sujātā, người không tham gia vào các hoạt động của họ, không nhận được vinh dự như vậy. Vào lúc đó, các Asura chia sẻ Tāvatiṁsa với chư thiên, nhưng một ngày nọ họ say rượu và bị ném xuống chân núi Sineru. Do đó, họ tuyên chiến với chư thiên, và trong một trong những trận chiến ác liệt của họ, Sakka đã bị đánh bại và chạy trốn qua biển trên cỗ xe Vejayanta của mình. Khi đến Simbalivana, cỗ xe đã đốn ngã những cái cây ở đó, và những con *Garuḷa* non bị ném xuống biển. Nghe thấy tiếng kêu đau đớn của chúng, Sakka đã bảo người đánh xe của mình, Mātali, quay cỗ xe lại và đi lùi lại. Các Asura, thấy ông quay lại, nghĩ rằng đó là một Sakka khác đến cùng với viện binh, và đã bỏ chạy trong kinh hoàng. Vejayantapāsāda mọc lên từ mặt đất, và Sakka sống trong đó, sau khi củng cố thành phố của mình bằng một đội bảo vệ năm lớp.
+
+Câu chuyện được kể liên quan đến một vị tỳ-kheo đã uống nước mà không lọc trước, bởi vì người bạn mà ông đi cùng và người mà ông đã xảy ra xích mích có cái rây duy nhất có sẵn. Mātali được đồng nhất với Ānanda (Ja.i.198ff; về câu chuyện dẫn nhập xem Vin.ii.118).
+
+Trong phiên bản được đưa ra trong Dhammapada Commentary, câu chuyện về Magha được kể lại để trả lời một câu hỏi mà người Licchavī Mahāli hỏi Đức Phật (Dhp-a.i.263ff; xem thêm SN­a.i.260f; DN­a.iii.710ff; và Snp­a.ii.484f; theo các bản kể này Sakka được giúp đỡ bởi không phải 29 mà là 33 người khác). Lý do được đưa ra cho chuyến chạy trốn của Sakka trong Vejayantaratha cũng khác nhau. Theo bản kể này, khi Sujātā (*q.v.*) tái sinh làm con gái của Vepacitti và đến lúc cô phải chọn chồng, Sakka đã đến hội chúng dưới lớp vỏ của một Asura già và được Sujātā chọn. Sau đó, Sakka đã tiết lộ danh tính của mình và chạy trốn cùng cô dâu của mình trên cỗ xe, với các Asura đuổi theo sát nút.
+
+Xem thêm Kulāvakasutta.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Rohaṇa"
 disambiguator: "03"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rohaṇa 03. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rohaṇa 03. Một hoàng tử Sākiyan, một trong các anh em của Bhaddakaccānā. Ông sang Tích Lan và tại đó lập nên một khu định cư được đặt tên theo ông. Mhv.ix.10; Dpv.x.6.
 
 ## Notes

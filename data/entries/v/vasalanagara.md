@@ -5,7 +5,7 @@ base_headword: "Vasālanagara"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -27,6 +27,6 @@ Vasālanagara. A village in Ceylon, probably near <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngôi làng ở Ceylon, có lẽ gần Cittalapabbata. Đây là nơi cư ngụ của hai anh em, Cūḷa Nāga và Mahā Nāga, những người sau này trở thành tu sĩ. SN­a.ii.125.
 
 ## Notes

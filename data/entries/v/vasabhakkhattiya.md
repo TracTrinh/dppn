@@ -5,7 +5,7 @@ base_headword: "Vāsabhakkhattiyā"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -36,6 +36,10 @@ It is said that when <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Con gái của Mahā Nāma người Sākiyan với một nữ tì tên là Nāgamuṇḍā (Ja.i.133). Khi Pasenadi ngỏ lời xin cưới một cô gái Sākiyan, bà đã được gả cho ông. Mahā Nāma đã làm động tác giả vờ dùng bữa cùng bà để xoa dịu những nghi ngờ của Pasenadi. Người ta nói rằng (Ja.iv.145) Mahā Nāma đã ngồi xuống để dùng bữa cùng bà, nhưng khi ông chuẩn bị ăn miếng đầu tiên, một sứ giả đã đến, như đã sắp đặt từ trước, và mang cho ông một bức thư khẩn. Sau đó, ông đã bỏ lại thức ăn chưa đụng đến để đọc thư, và bảo Vāsabhakkhattiyā hãy ăn xong bữa của mình.
+
+Viḍūḍabha là con trai của Vāsabhakkhattiyā. Chính sự dối trá này đối với Pasenadi đã khiến Viḍūḍabha trả thù những người Sākiyan (Dhp­a.i.345f; Ja.iv.145f).
+
+Người ta nói rằng khi Pasenadi phát hiện ra nguồn gốc nô lệ của Vāsabhakkhattiyā, ông đã giáng chức cả bà và con trai bà khỏi tước vị của họ, và họ không bao giờ đi ra ngoài cung điện (Ja.i.133f.; iv.148; xem thêm MN.ii.110, nơi bà được gọi là Vāsabhā). Khi Đức Phật nghe được điều này, Ngài đã đến thăm nhà vua, thuyết cho ông bài Kaṭṭhahārijātaka, và đã khôi phục lại danh dự cho hoàng hậu.
 
 ## Notes

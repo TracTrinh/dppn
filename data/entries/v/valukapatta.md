@@ -5,7 +5,7 @@ base_headword: "Vālukapatta"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vālukapatta. A village near <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vālukapatta. Một ngôi làng gần Pulatthipura. Cv.lxx.318.
 
 ## Notes

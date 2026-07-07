@@ -5,7 +5,7 @@ base_headword: "Pañcālacaṇḍasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Pañcālacaṇḍasutta. Recounts the discussion between the Buddha and the *Dev
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcālacaṇḍasutta. Thuật lại cuộc thảo luận giữa Đức Phật và *Devaputta* Pañcālacaṇḍa (1). SN.i.48.
 
 ## Notes

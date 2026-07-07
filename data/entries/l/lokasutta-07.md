@@ -5,7 +5,7 @@ base_headword: "Lokasutta"
 disambiguator: "07"
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -24,6 +24,6 @@ Lokasutta 07. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lokasutta 07. Anuruddha nói với các bạn đồng tu rằng ông biết thế giới với các hình dạng và hình thức đa dạng của nó thông qua các *satipaṭṭhāna*. SN.v.304.
 
 ## Notes

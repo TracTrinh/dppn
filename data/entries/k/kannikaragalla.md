@@ -5,7 +5,7 @@ base_headword: "Kaṇṇikāragalla"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kaṇṇikāragalla. A tank in Ceylon, restored by <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇṇikāragalla. Một hồ chứa nước ở Tích Lan, được trùng tu bởi Gajabāhu. Cv.lxviii.45.
 
 ## Notes

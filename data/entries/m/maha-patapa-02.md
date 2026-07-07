@@ -5,7 +5,7 @@ base_headword: "Mahā Patāpa"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Patāpa 02. A king of thirty-five *kappas* ago, a former birth of <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Patāpa 02. Một vị vua của ba mươi lăm *kappa* về trước, một tiền kiếp của Trưởng lão Vīra (hay Nigguṇḍipupphiya). Thag­a.i.50; Ap.i.205.
 
 ## Notes

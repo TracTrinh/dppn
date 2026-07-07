@@ -5,7 +5,7 @@ base_headword: "Kittinissaṅkavihāra"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kittinissaṅkavihāra. A monastery built by <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kittinissaṅkavihāra. Một tu viện được xây dựng bởi Kittinissaṅka và được trang hoàng với một trăm *pāsādas*. Ngài đã ban tặng các khoản quyên góp để duy trì tu viện. Cv.lxxx.21.
 
 ## Notes

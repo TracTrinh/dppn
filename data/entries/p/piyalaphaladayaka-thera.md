@@ -5,7 +5,7 @@ base_headword: "Piyālaphaladāyaka Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -27,6 +27,6 @@ Piyālaphaladāyaka Thera. An *Arahant*. Thirty-one *kappas* ago he was a hunter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piyālaphaladāyaka Thera. Một vị *Arahant*. Ba mươi mốt *kappa* trước, ngài là một thợ săn, và khi nhìn thấy Buddha Nārada, ngài đã dâng cúng cho Ngài một quả *piyāla* (Ap.i.440f). Ngài có lẽ là cùng một người với Piṇḍola Bhāradvāja (Thag­a.i.245). Xem thêm Phaladāyaka.
 
 ## Notes

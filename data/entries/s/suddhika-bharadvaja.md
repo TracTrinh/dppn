@@ -5,7 +5,7 @@ base_headword: "Suddhika Bhāradvāja"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -30,6 +30,8 @@ Suddhika Bhāradvāja. A Brahmin who visited the Buddha at <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suddhika Bhāradvāja. Một Bà-la-môn đã đến viếng thăm Đức Phật tại Jetavana và tuyên bố rằng một người chỉ có thể được thanh lọc nhờ vào kiến thức của kinh Vệ-đà. Đức Phật trả lời rằng điều quan trọng không phải là kiến thức về những lời chú, mà là sự thanh tịnh trong tâm của một người, của một người đã nỗ lực để đạt được sự thanh tịnh vô thượng về phẩm hạnh (SN.i.165).
+
+Buddhaghosa nói (SN­a.i.179) rằng Bà-la-môn này được gọi là Suddhika để phân biệt với những vị Bhāradvāja khác qua bản chất câu hỏi của ông.
 
 ## Notes

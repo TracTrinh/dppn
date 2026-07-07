@@ -5,7 +5,7 @@ base_headword: "Sayha"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -27,6 +27,6 @@ Sayha 03. A counsellor of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sayha 03. Một cố vấn của Brahmadatta, vua Benares. Ngài được đồng nhất với Sāriputta. Xem Lomasa Kassapajātaka (Ja 433)
 
 ## Notes

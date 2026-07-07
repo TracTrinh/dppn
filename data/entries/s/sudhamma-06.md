@@ -5,7 +5,7 @@ base_headword: "Sudhammā"
 disambiguator: "06"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sudhammā 06. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudhammā 06. Một nhóm chư thiên (*Deva*) thuộc về tập hội chư thiên (*Devanikāya*) Tāvatiṁsa. Vv-a.258.
 
 ## Notes

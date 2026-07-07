@@ -5,7 +5,7 @@ base_headword: "Seggu"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Seggu. A greengrocer’s daughter. See the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Seggu. Con gái của một người bán rau. Xem Seggujātaka (Ja 217).
 
 ## Notes

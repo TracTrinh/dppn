@@ -5,7 +5,7 @@ base_headword: "Mahā Rājapabba"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Rājapabba. A section of the <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Rājapabba. Một phần của Vessantarajātaka (Ja 547). Ja.vi.582.
 
 ## Notes

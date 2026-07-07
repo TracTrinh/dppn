@@ -5,7 +5,7 @@ base_headword: "Kāḷāyanakaṇṇika"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -28,6 +28,6 @@ Kāḷāyanakaṇṇika. A locality in <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷāyanakaṇṇika. Một địa phương ở Rohaṇa. Ở đó Mahā Dāṭhika Mahā Nāga đã xây dựng hai *vihāra*, Maṇināgapabbata và Kalanda. Mhv.xxxiv.89; Mhv­ṭ.637.
 
 ## Notes

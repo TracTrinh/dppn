@@ -5,7 +5,7 @@ base_headword: "Lokagalla"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -25,6 +25,6 @@ Lokagalla. An important strategic position in <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lokagalla. Một vị trí chiến lược quan trọng ở Rohaṇa, được đề cập trong bản tường thuật về các chiến dịch của Parakkamabāhu I. Cv.lxxiv.79, 81, 83, 166.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Panādajātaka"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -26,6 +26,6 @@ Mahā Panādajātaka (Ja 264). The story of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Panādajātaka (Ja 264). Câu chuyện về Mahā Panāda, được kể lại trong Surucijātaka (Ja 489). Cp. Divy.56ff.
 
 ## Notes

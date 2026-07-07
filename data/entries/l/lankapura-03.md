@@ -5,7 +5,7 @@ base_headword: "Laṅkāpura"
 disambiguator: "03"
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -27,6 +27,6 @@ Laṅkāpura 03. The name seems to have been used also as a title and was confer
 
 ## Vietnamese translation
 
-Chưa dịch.
+Laṅkāpura 03. Tên gọi này có vẻ đã được dùng như một danh hiệu và được phong cho Kaḍakkuḍa (Cv.lxxii.39), Rakkha (Cv.lxxv.70) và Deva (Cv.lxxv.130).
 
 ## Notes

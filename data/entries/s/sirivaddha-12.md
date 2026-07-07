@@ -5,7 +5,7 @@ base_headword: "Sirivaḍḍha"
 disambiguator: "12"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sirivaḍḍha 12. A minister of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirivaḍḍha 12. Một vị quan của Pasenadi, người mà nhà vua từng gửi một thông điệp qua ông đến Ānanda. MN.ii.112.
 
 ## Notes

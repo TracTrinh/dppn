@@ -5,7 +5,7 @@ base_headword: "Sikkhāpadasutta"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Sikkhāpadasutta 01. The unworthy man is he who takes life, steals, etc. The wor
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sikkhāpadasutta 01. Người bất thiện là người sát sinh, trộm cắp, v.v. Người thiện là người từ bỏ những điều này. AN.ii.217.
 
 ## Notes

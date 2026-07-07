@@ -5,7 +5,7 @@ base_headword: "Mahinda"
 disambiguator: "10"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -27,6 +27,6 @@ Mahinda 10. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahinda 10. Con trai của Mahinda III. Khi Aggabodhi IX. lên ngôi, trái với luật kế vị, Mahinda đã trốn sang Ấn Độ (Cv.xlix.84f). Sau đó ông đã bị giết bởi Sena I. (Cv.l.4).
 
 ## Notes

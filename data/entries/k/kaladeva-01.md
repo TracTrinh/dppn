@@ -5,7 +5,7 @@ base_headword: "Kāḷadeva"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -25,6 +25,6 @@ Kāḷadeva 01. Thera*,* incumbent of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷadeva 01. Trưởng lão*,* người trụ trì Vajagaragirivihāra. Ông được đề cập đến như là người đã biết được chính xác sự trôi qua của thời gian mà không cần sự trợ giúp của một "chiếc đồng hồ cát" (*yāmayantanālika*). MN­a.i.100f.
 
 ## Notes

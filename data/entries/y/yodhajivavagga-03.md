@@ -5,7 +5,7 @@ base_headword: "Yodhājīvavagga"
 disambiguator: "03"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -25,6 +25,6 @@ Yodhājīvavagga 03. The eighth chapter of the *Pañcakanipāta* of the <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yodhājīvavagga 03. Chương thứ tám của phần *Pañcakanipāta* thuộc Aṅguttaranikāya. AN.iii.84-110.
 
 ## Notes

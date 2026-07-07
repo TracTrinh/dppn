@@ -5,7 +5,7 @@ base_headword: "Kulāvakasutta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -28,6 +28,6 @@ Kulāvakasutta. The story of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Câu chuyện về chuyến chạy trốn của Sakka khỏi các Asura. Khi thấy những con *Garuḷa* bị nghiền nát dưới bánh xe cỗ xe của mình, ông đã bảo người đánh xe của mình, Mātali, quay lại và đánh liều cái chết dưới tay các Asura. Nhưng các Asura đã bỏ chạy (SN.i.224). So sánh với Kulāvakajātaka.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Padesasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -29,6 +29,8 @@ The same applies to that which is said to have been learnt from a group of monks
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Padesasutta. Được thuyết giảng tại *cetiya* Ānanda ở Bhoganagara. Đức Phật nói cho các tỳ-kheo về bốn *mahāpadesā* cần được họ tôn trọng. Nếu một tỳ-kheo nói rằng ông ta có một giáo lý nào đó trực tiếp từ chính Đức Phật, lời tuyên bố của ông ta nên được so sánh với phần còn lại của Vinaya và Pháp; nếu những điều này không tương đồng, nó nên bị từ chối; nếu chúng tương đồng, hãy chấp nhận.
+
+Điều tương tự cũng áp dụng cho những gì được nói là đã được học từ một nhóm các tỳ-kheo do một vị Trưởng lão dẫn đầu, từ một tập thể các tỳ-kheo thâm niên cư trú tại một nơi nhất định, hoặc từ một vị tỳ-kheo thâm niên duy nhất, thông thạo về Pháp, Vinaya và Mātikā. AN.ii.167ff.; bài *Sutta* này được hợp nhất vào Mahā Parinibbānasutta (DN.ii.123ff).
 
 ## Notes

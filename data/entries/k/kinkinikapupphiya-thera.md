@@ -5,7 +5,7 @@ base_headword: "Kiṅkinikapupphiya Thera"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -31,6 +31,10 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kiṅkinikapupphiya Thera. Một vị *Arahant*. Chín mươi mốt *kappa* trước, vào thời của Vipassī Buddha, ngài đã nhìn thấy Đức Phật đang tắm và dâng lên ngài những bông hoa *kiṅkinika*.
+
+Bảy mươi bảy *kappa* trước, ngài là một vị vua tên là Bhīmaratha (Ap.i.204).
+
+Ngài có lẽ đồng nhất với Sirivaḍḍha Thera (Thag­a.i.107).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vāseṭṭha"
 disambiguator: "03"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -29,6 +29,6 @@ Vāseṭṭha 03. Name of a *gotta*, probably tracing its descent to the sage <s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tên của một *gotta*, có lẽ bắt nguồn từ nhà hiền triết Vāseṭṭha (Skt. Vasiṣṭha). Trong Mahā Parinibbānasutta (DN.ii.147, 159), chúng ta thấy những người Malla của Kusināra được gọi là Vāseṭṭhā, cũng như những người Malla của Pāvā (DN.iii.209). Đây là một *gotta* được kính trọng (*ukkaṭṭha*), ví dụ, Vin.iv.8.
 
 ## Notes

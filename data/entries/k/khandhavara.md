@@ -5,7 +5,7 @@ base_headword: "Khandhāvara"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -26,6 +26,6 @@ Khandhāvara. The family name of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khandhāvara. Tên dòng họ của Āyasmanta (Cv.lxxx.37). Họ là những người tôn thờ vị thần Skanda, và là một nhánh của Moriyavaṁsa. Theo như phần vĩ bạt của bài thơ Sinhalese, Sālalihiṇisandesa.
 
 ## Notes

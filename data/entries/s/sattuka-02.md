@@ -5,7 +5,7 @@ base_headword: "Sattuka"
 disambiguator: "02"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -26,6 +26,6 @@ Sattuka 02. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sattuka 02. *v.l.* Satthuka. Con trai của một vị tư tế hoàng gia ở Rājagaha. Sau đó ông trở thành một tên cướp. Về câu chuyện, xem Bhaddā Kuṇḍalakesā. Thīg­a.99; AN­a.i.200; cf. Dhp­a.ii.217f.
 
 ## Notes

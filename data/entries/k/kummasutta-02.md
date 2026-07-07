@@ -5,7 +5,7 @@ base_headword: "Kummasutta"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -24,6 +24,6 @@ Kummasutta 02. Gains, favours and flattery – these are the snares of <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lợi lộc, ân sủng và sự xu nịnh – đây là những cạm bẫy của Māra, giống như chiếc lao có buộc dây mà con rùa thời xưa đã vô tình bị bắt lấy. SN.ii.226.
 
 ## Notes

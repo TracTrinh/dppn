@@ -5,7 +5,7 @@ base_headword: "Subhadda"
 disambiguator: "05"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -30,6 +30,8 @@ Subhadda 05. A barber of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subhadda 05. Một người thợ cạo ở Atumā. Vị này đã gia nhập Tăng đoàn và bực bội khi phải tuân giữ nhiều học giới khác nhau, cả lớn lẫn nhỏ. Khi Đức Phật viên tịch và các tỳ-kheo đang đứng khóc, Subhadda đã bảo họ hãy vui mừng thay vì như vậy, nói rằng: "Chúng ta đã thoát khỏi *Mahā Samaṇa* (Đại Sa-môn) một cách tốt đẹp; từ nay chúng ta sẽ làm đúng như những gì chúng ta thích." Mahā Kassapa đã nghe được điều này khi ngài đang trên đường từ Pāvā đến Kusināra, và chính lời nhận xét này đã khiến ngài quyết định tổ chức kỳ kết tập Tăng đoàn lần thứ nhất sau khi Đức Phật viên tịch (Vin.ii.284f; DN.ii.162; Mhv.iii.6).
+
+Subhadda đã từng là một *Sāmaṇera* (sa-di) vào thời điểm Đức Phật đến thăm Atumā, và đã có hai người con trai trước khi gia nhập Tăng đoàn. Khi nghe tin Đức Phật sắp đến, ông đã cho gọi hai người con trai của mình và ra lệnh thu thập nhiều loại thức ăn khác nhau để cúng dường Đức Phật và một ngàn hai trăm năm mươi vị tỳ-kheo. Đức Phật đã đến vào buổi tối và nghỉ lại tại Atumā. Suốt cả đêm Subhadda đi loanh quanh để đưa ra các chỉ dẫn liên quan đến việc chuẩn bị thức ăn. Sáng ngày hôm sau Đức Phật đi khất thực, và Subhadda đã đến gần Ngài và thỉnh mời Ngài thọ dụng thức ăn mà ông đã chuẩn bị. Nhưng Đức Phật đã vặn hỏi ông, và khi phát hiện ra những gì ông đã làm, Ngài đã từ chối nhận bữa ăn đó, đồng thời cũng cấm các tỳ-kheo làm như vậy. Điều này đã chọc giận Subhadda, và ông ta đã chờ đợi một cơ hội để bày tỏ sự bất mãn của mình đối với Đức Phật. Cơ hội này đã đến khi ông ta nghe tin Đức Phật viên tịch. DN­a.ii.599; cf. Vin.i.249f.
 
 ## Notes

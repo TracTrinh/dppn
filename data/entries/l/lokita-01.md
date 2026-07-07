@@ -5,7 +5,7 @@ base_headword: "Lokitā"
 disambiguator: "01"
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -29,6 +29,6 @@ Lokitā 01. A Sinhalese princess, sister of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lokitā 01. Một công chúa người Sinhalese, em gái của Devalā. Bà kết hôn với con trai của cô ruột mình, Kassapa (sau này là Vikkamabāhu I.), và có hai người con trai, Moggallāna và Loka. Cv.lvii.27f.
 
 ## Notes

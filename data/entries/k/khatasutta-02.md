@@ -5,7 +5,7 @@ base_headword: "Khatasutta"
 disambiguator: "02"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -24,6 +24,6 @@ Khatasutta 02. A man guilty of wrong conduct towards mother, father, the <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khatasutta 02. Một người có hành vi sai trái đối với mẹ, cha, Tathāgata hoặc một tín đồ của Tathāgata thì mang một tự ngã bị nhổ rễ, vô hồn. AN.ii.4f.
 
 ## Notes

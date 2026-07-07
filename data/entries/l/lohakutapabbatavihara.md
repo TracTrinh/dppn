@@ -5,7 +5,7 @@ base_headword: "Lohakūṭapabbatavihāra"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -25,6 +25,6 @@ Lohakūṭapabbatavihāra. A monastery in a very remote place in India. It could
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lohakūṭapabbatavihāra. Một tu viện ở nơi rất hẻo lánh tại Ấn Độ. Chỉ có thể đến đó bằng cách bám vào cành cây khi gió thổi cong nó. Dāṭhāsena đã đạt quả vị *Arahant* ở đó. Ras.ii.110f.
 
 ## Notes

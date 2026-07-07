@@ -5,7 +5,7 @@ base_headword: "Sayampabha"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sayampabha. A king of seventy-two *kappas* ago, a previous birth of <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sayampabha. Một vị vua bảy mươi hai kappa trước, một tiền kiếp của Trưởng lão Pañcaṅguliya. Ap.i.186.
 
 ## Notes

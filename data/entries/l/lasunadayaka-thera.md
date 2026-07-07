@@ -5,7 +5,7 @@ base_headword: "Lasuṇadāyaka Thera"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -25,6 +25,6 @@ Lasuṇadāyaka Thera. An *Arahant*. In the time of <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lasuṇadāyaka Thera. Một vị *Arahant*. Vào thời Vipassī Buddha, ông là một tu sĩ khổ hạnh sống bằng tỏi (*lasuṇa*). Vui mừng với Đức Phật và các tỳ-kheo, một lần ông đã bố thí cả một gánh tỏi cho tu viện. Ap.i.89.
 
 ## Notes

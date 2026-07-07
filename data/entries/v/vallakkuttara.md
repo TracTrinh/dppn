@@ -5,7 +5,7 @@ base_headword: "Vallakkuttāra"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -24,6 +24,6 @@ Vallakkuttāra. A district in South India. Cv.lxxvi.247, 260.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vallakkuttāra. Một quận ở Nam Ấn Độ. Cv.lxxvi.247, 260.
 
 ## Notes

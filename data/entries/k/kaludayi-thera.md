@@ -5,7 +5,7 @@ base_headword: "Kāḷudāyī Thera"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -56,6 +56,16 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="32" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷudāyī Thera. Con trai của một trong những vị đại thần của Suddhodana tại Kapilavatthu; ông sinh cùng ngày với Bodhisatta và lớn lên như một người bạn vui chơi của ngài. Sau khi Gotama rời bỏ thế gian, Suddhodana đã phong Kāḷudāyī làm một trong những vị cố vấn được tin tưởng nhất của ông. Khi nhà vua nghe tin về sự Giác ngộ của con trai mình, ông đã phái một số vị đại thần cùng với những đoàn tùy tùng lớn đi thỉnh Đức Phật về Kapilavatthu, nhưng tất cả họ đều trở thành *Arahant* ngay khi họ nghe bài thuyết giảng của Đức Phật và sau đó quên mất sứ mệnh của mình. Cuối cùng, nhà vua đã phái Kāḷudāyī, với thỏa thuận rằng trước tiên ông nên được phép gia nhập Tăng đoàn (theo Mhv.iii.233, ông được tháp tùng bởi Channa trong sứ mệnh này). Ông đã đi đến gặp Đức Phật và, sau khi lắng nghe Ngài, bản thân ông đã trở thành một *Arahant*. Khi những cơn mưa trút xuống, bao phủ mặt đất với vẻ huy hoàng của những chiếc lá và những bông hoa, Kāḷudāyī cảm thấy rằng đã đến lúc để Đức Phật đến thăm những người bà con của Ngài, và đã trao cho Ngài lời mời của họ, ca ngợi vẻ đẹp của mùa trong một loạt các bài kệ. Đức Phật đã mất sáu mươi ngày để đi hết sáu mươi do-tuần từ Rājagaha đến Kapilavatthu, và mỗi ngày Kāḷudāyī đều bay xuyên qua không trung đến cung điện của nhà vua để báo cho ông biết về tiến độ đạt được trong cuộc hành trình và để mang từ cung điện về cho Đức Phật một bát thức ăn tuyệt hảo. Vào thời điểm Đức Phật về đến quê nhà của Ngài, những người bà con của Ngài đã tràn đầy niềm tin vào Ngài. Bởi vì Kāḷudāyī đã hoàn thành kỳ tích này, tôn giả được tuyên bố là đệ nhất trong số những vị làm hoan hỷ các gia tộc (*kulappasādakānaṁ aggo*) (AN.i.25; Thag.527-36; Ja.i.54, 86f; AN­a.i.107, 117; Thag­a.i.497ff; Ud­a.168; DN­a.ii.425).
+
+Người ta nói rằng tôn giả được gọi là Udāyī bởi vì tôn giả được sinh ra vào một ngày mà những người dân tràn đầy niềm vui sướng (*udaggacittadivase jātattā*); và được gọi là Kāḷa bởi vì màu da hơi ngăm đen của tôn giả. AN­a.i.167; Thag­a.i.498.
+
+Theo Apadāna (ii.500f; xem thêm Ap.i.86f, nơi một tập hợp các bài kệ khác được gán cho Kāḷudāyī), Kāḷudāyī từng là con trai của một vị đại thần xứ Haṁsavatī trong thời của Padumuttara Buddha, và sau khi nghe Đức Phật nói ra những lời ca ngợi một vị tỳ-kheo khéo léo trong việc cảm hóa các gia đình, đã mong ước có được sự lỗi lạc tương tự.
+
+Aṅguttaranikāya (AN.iv.449f) ghi lại một cuộc trò chuyện giữa Udāyī (người mà, theo Buddhaghosa (AN­a.ii.815), được đồng nhất với Kāḷudāyī) và Ānanda. Udāyī yêu cầu Ānanda giải thích chi tiết về một câu hỏi được ghi lại trong Saṁyuttanikāya (SN.i.48) như là đã được hỏi Đức Phật bởi Pañcālacaṇḍa *Devaputta* (xem Pañcālasutta).
+
+Chú giải Dhammapada (Dhp-a.iv.143) đề cập đến một cuộc hội kiến tại đó Kāḷudāyī đã hiện diện, thân hình có màu vàng rực rỡ của tôn giả, đang ngồi gần Pasenadi, lúc hoàng hôn, cùng với mặt trăng đang mọc lên ở bầu trời phía đông. Ānanda nhìn họ và tuyên bố làm thế nào mà Đức Phật đã bao trùm lên tất cả bọn họ bằng ánh hào quang của Ngài.
+
+Kāḷudāyī được nhận diện với Sakka trong Bhisajātaka (Ja.iv.314).
 
 ## Notes

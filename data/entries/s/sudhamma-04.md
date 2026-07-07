@@ -5,7 +5,7 @@ base_headword: "Sudhamma"
 disambiguator: "04"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sudhamma 04. A park in <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudhamma 04. Một công viên trong thành phố Sudhammavatī, nơi Sujāta Buddha tổ chức buổi hội chúng tỳ-kheo đầu tiên của mình. Bv­a.169.
 
 ## Notes

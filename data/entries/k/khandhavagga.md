@@ -5,7 +5,7 @@ base_headword: "Khandhavagga"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -24,6 +24,6 @@ Khandhavagga. The third book of the <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khandhavagga. Quyển thứ ba của Saṁyuttanikāya. Nó bao gồm mười ba chương (Saṁyutta). Ở Miến Điện, một bản ṭīkā đặc biệt đã được biên soạn riêng cho phần này. Bode, 103.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Laṅkātilaka"
 disambiguator: "03"
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -26,6 +26,6 @@ Laṅkātilaka 03. A monastery near the modern Kandy, restored by <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Laṅkātilaka 03. Một tu viện gần Kandy ngày nay, được Parakkamabāhu VI. trùng tu (Cv.xci.30). Nó được Bhuvanekabāhu IV. xây dựng. Codr.83.
 
 ## Notes

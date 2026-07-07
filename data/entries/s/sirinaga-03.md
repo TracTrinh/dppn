@@ -5,7 +5,7 @@ base_headword: "Sirināga"
 disambiguator: "03"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -28,6 +28,6 @@ Sirināga 03. A Brahmin. Wishing to become king of Ceylon, he sought to obtain t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirināga 03. Một người Bà-la-môn. Muốn trở thành vua xứ Tích Lan, ông tìm cách chiếm đoạt các kho báu từ cetiya ở Dakkhiṇa Mahā Vihāra. Nhưng Bahula, người biết lối đi bí mật, đã từ chối giúp ông và bị xử tử. Sirināga cướp phá Madhupiṭṭhiyacetiya, và, với của cải đó, trở thành vua của Anurādhapura. Về sau ông mắc bệnh dạ dày và tái sinh vào địa ngục. Ras.ii.7f.
 
 ## Notes

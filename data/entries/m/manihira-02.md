@@ -5,7 +5,7 @@ base_headword: "Maṇihīra"
 disambiguator: "02"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -33,6 +33,6 @@ Maṇihīra 02. A tank built by <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇihīra 02. Một hồ chứa nước do Mahā Sena xây dựng (Mhv.xxxvii.47). Aggabodhi đã xây một kênh thoát nước từ hồ này (Cv.xlii.34); Sena II. cũng vậy (Cv.li.72). Trong số các kênh dẫn nước vào hồ có kênh Tilavatthuka, được Vijayabāhu I. trùng tu (Cv.lx.53). Parakkamabāhu I. đã xây lại hồ (Cv.lxxix.31) và đào kênh Kālindī để dẫn nước tràn ra từ phía nam (Cv.xlii.54). Gần hồ này, Saṅghatissa bị những người của Moggallāna III. bắt giam. (Cv.xliv.30.)
 
 ## Notes

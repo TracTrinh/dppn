@@ -5,7 +5,7 @@ base_headword: "Tālavantadāyaka Thera"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tālavantadāyaka Thera. An *Arahant*. Ninety-two *kappas* ago he gave a fan mad
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tālavantadāyaka Thera. Một Arahant. Cách đây chín mươi hai kappa, ngài đã dâng một chiếc quạt làm bằng lá cọ cho Tissa Buddha. Cách đây sáu mươi ba kappa, ngài làm vua nhiều lần dưới tên gọi Mahārāma. Ap.i.211.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Maṇikāragāma"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Maṇikāragāma. A village in Ceylon near which <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇikāragāma. Một ngôi làng ở Tích Lan, gần đó Candamukhasiva đào một hồ chứa nước, và lợi tức từ hồ ông dâng tặng cho Issarasamaṇavihāra. (Mhv.xxxv.47.)
 
 ## Notes

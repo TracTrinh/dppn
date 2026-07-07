@@ -5,7 +5,7 @@ base_headword: "Mahā Vana"
 disambiguator: "03"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -27,6 +27,6 @@ Mahā Vana 03. A forest on the outskirts of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Vana 03. Một khu rừng ở vùng ngoại ô Uruvelakappa, nơi Đức Phật lui về để nghỉ trưa sau bữa ăn của Ngài tại Uruvelakappa. Chính tại khu rừng nhỏ đó Ānanda đã đưa Tapussa đến để diện kiến Ngài. AN.iv.437f.
 
 ## Notes

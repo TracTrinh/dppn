@@ -5,7 +5,7 @@ base_headword: "Mahā Thala"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Thala. A village in which <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Thala. Một ngôi làng mà tại đó Aggabodhi V đã xây dựng tu viện Kadambagona. Cv.xlviii.3.
 
 ## Notes

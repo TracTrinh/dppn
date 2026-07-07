@@ -5,7 +5,7 @@ base_headword: "Pāṭaligāma"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -58,6 +58,14 @@ Pāṭaliputta was also called <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāṭaligāma, Pāṭaliputta, Pupphapura, Kusamapura. Thủ đô của Magadha và nằm gần Patna hiện đại. Đức Phật đã đến thăm nơi này ngay trước khi ngài nhập diệt. Khi đó, nó chỉ là một ngôi làng và được biết đến với tên gọi Pāṭaligāma. Tại thời điểm đó, các vị quan của Ajātasattu, Sunīdha và Vassakāra, đang bận rộn xây dựng các pháo đài ở đó để chống lại những người Vajjian. Đức Phật đã tiên tri về sự vĩ đại trong tương lai của Pāṭaligāma, và cũng đề cập đến nguy cơ nó bị phá hủy bởi lửa, nước, hoặc sự bất hòa nội bộ. Cổng mà Đức Phật đi ra khỏi thị trấn được gọi là Gotamadvāra, và bến phà nơi ngài băng qua sông, Gotamatittha (Vin.i.226-30; DN.ii.86ff).
+
+Thời điểm mà Pāṭaliputtta trở thành thủ đô không chắc chắn. Huyền Trang (Xuanzang) dường như ghi lại rằng Kāḷāsoka là người đã dời kinh đô đến đó (Beal-Xuan.ii.85, n.11). Những người Jain khẳng định rằng đó là Udāyī, con trai của Ajātasattu (Vin. Texts ii.102, n.1). Truyền thống sau này có lẽ là đúng vì, theo Aṅguttaranikāya (iii.57), ngay cả Muṇḍa cũng được nhắc đến là đang cư trú tại Pāṭaliputta. Tuy nhiên, dưới thời của Asoka thì thành phố này đã đạt được đỉnh cao vinh quang. Vào năm thứ chín trong triều đại của mình, thu nhập của Asoka từ bốn cổng của thành phố được cho là bốn trăm ngàn *kahāpaṇa* mỗi ngày, với một trăm ngàn khác cho *sabhā* hoặc Hội đồng của ông (Vin-a.i.52).
+
+Thành phố được người Hy Lạp biết đến với tên gọi Pālibothra, và Megasthenes, người đã dành một thời gian ở đó, đã để lại một mô tả sống động về nó (*Buddhist India* 262f). Nó tiếp tục là thủ đô trong phần lớn vương triều Gupta, từ thế kỷ thứ tư đến thế kỷ thứ sáu Tây lịch. Gần Pāṭaliputta có Kukkuṭārāma, nơi các vị tỳ-kheo (ví dụ Ānanda, Bhadda và Nārada) thường dừng chân khi họ đến Pāṭaliputta (MN.i.349; AN.v.341; AN.iii.57; SN.v.15f., 171f). Theo sự gợi ý của Udena Thera*,* vị Bà-la-môn Ghoṭamukha đã xây dựng một hội trường cho các tỳ-kheo trong thành phố (MN.ii.163).
+
+Pāṭaligāma được gọi như vậy vì vào ngày thành lập, có nhiều chồi cây *pāṭali* đâm chồi từ dưới mặt đất. Các vị quan của Ajātasattu và của các hoàng tử Licchavī thỉnh thoảng sẽ đến Pāṭaligāma, đuổi mọi người ra khỏi nhà của họ, và tự mình chiếm đoạt chúng. Do đó, một hội trường lớn đã được xây dựng ở giữa làng, được chia thành nhiều khu nhà khác nhau để làm chỗ ở cho các vị quan và những người tùy tùng của họ khi cần thiết. Đức Phật đã đến ngôi làng vào ngày khánh thành tòa nhà, và dân làng đã thỉnh ngài ở lại đó một đêm, để nó có thể được ban phước bởi sự hiện diện của ngài. Vào ngày hôm sau, họ đã thết đãi Đức Phật và các vị tỳ-kheo của ngài một bữa ăn (Ud.viii.6; Ud­a.407ff).
+
+Pāṭaliputta cũng được gọi là Pupphapura (Mhv.iv.31, etc.; Dpv.xi.28) và Kusamapura (Mbv.p.153). Hành trình từ Jambukola, ở Tích Lan, đến Pāṭaliputta mất mười bốn ngày, bảy ngày trong số đó được dùng cho chuyến hành trình trên biển đến Tāmalitti (ví dụ, Mhv.xi.24). Asokārāma do Asoka xây dựng nằm gần Pāṭaliputta (Mhv.xxix.36). Bình đựng nước và dây nịt của Đức Phật đã được cất giữ ở Pāṭaliputta sau khi ngài nhập diệt (Bv.xxviii.9). Chú giải Petavatthu (p.271) đề cập rằng các hoạt động thương mại đã diễn ra giữa Pāṭaliputta và Suvaṇṇabhūmi.
 
 ## Notes

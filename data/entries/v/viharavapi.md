@@ -5,7 +5,7 @@ base_headword: "Vihāravāpi"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vihāravāpi. A village in Ceylon, near <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vihāravāpi. Một ngôi làng ở Tích Lan, gần *pabbata* Tulādhāra. Đây là nơi sinh của Labhiya Vasabha. Mhv.xxiii.90.
 
 ## Notes

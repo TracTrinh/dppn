@@ -5,7 +5,7 @@ base_headword: "Mālārāma"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -28,6 +28,6 @@ Mālārāma, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mālārāma, Mālārāmavihāra. Một *vihāra* ở Tích Lan, gần Uppalavāpi, vào thời của Vua Kuṭakaṇṇatissa. Thera Cūḷa Sudhamma đã cư trú tại đó. Vibh-a.452.
 
 ## Notes

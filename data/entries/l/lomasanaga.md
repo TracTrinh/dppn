@@ -5,7 +5,7 @@ base_headword: "Lomasanāga"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -26,6 +26,6 @@ Lomasanāga. A monk of Ceylon who lived in the *Padhānaghara* in the <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lomasanāga. Một vị tỳ-kheo của Tích Lan đã sống trong một *Padhānaghara* ở Piyaṅguguhā trên núi Cetiyapabbata. Ngài được đưa ra như một tấm gương của một vị tỳ-kheo đã không từ bỏ các phương pháp thiền tập của mình bất chấp cái lạnh hay cái nóng tột độ. MN­a.i.65.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Somara"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Somara, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Somara, Somāra. Hiển nhiên là tên của một quốc gia nổi tiếng với lụa tơ (*somarapaṭa*), vd., Vibh­a.159; Vsm.109, 550.
 
 ## Notes

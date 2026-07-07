@@ -5,7 +5,7 @@ base_headword: "Licchavībhāṇavāra"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -26,6 +26,6 @@ Licchavībhāṇavāra. The second *bhāṇavāra* of the sixth <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Licchavībhāṇavāra. *Bhāṇavāra* thứ hai của Khandhaka thứ sáu của Mahā Vagga. Vin.i.210-33.
 
 ## Notes

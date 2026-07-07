@@ -5,7 +5,7 @@ base_headword: "Upāsakavagga"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -25,6 +25,6 @@ Upāsakavagga 02. The eighteenth chapter of the *Pañcakanipāta* of the <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upāsakavagga 02. Chương thứ mười tám của Pañcakanipāta thuộc Aṅguttaranikāya; về các vấn đề khác nhau, chủ yếu liên quan đến cư sĩ. AN.iii.203-18.
 
 ## Notes

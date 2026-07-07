@@ -5,7 +5,7 @@ base_headword: "Mahā Paṭhavi"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -25,6 +25,6 @@ Mahā Paṭhavi. The name of the Bodhisatta once born as a monkey. In that birth
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Paṭhavi. Tên gọi của Bodhisatta từng có lần sinh làm một con khỉ. Trong kiếp đó Devadatta là một người đàn ông kiếm sống bằng nghề sàng sảy ngũ cốc; do đó ông ta có địa vị cao hơn Bodhisatta. Mil. 201.
 
 ## Notes

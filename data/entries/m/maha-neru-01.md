@@ -5,7 +5,7 @@ base_headword: "Mahā Neru"
 disambiguator: "01"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Neru 01. A mountain. Another name for <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Neru 01. Một ngọn núi. Một tên gọi khác của Meru (Sumeru). MN.i.338; DN.iii.199; Ja.iii.210.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Uttaracūḷabhājaniya"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uttaracūḷabhājaniya. Mentioned in the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttaracūḷabhājaniya. Được nhắc đến trong Vibhaṅga Commentary (p.308).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kosambī"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -107,6 +107,26 @@ Kosambī is mentioned in the <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kosambī. Thủ đô của dân tộc Vatsa hoặc Vaṁsa (Ja.iv.28; vi.236). Vào thời Gotama Buddha, vị vua của nó là Parantapa, và sau ông, con trai ông là Udena trị vì. (MN­a.ii.740f; Dhp­a.i.164f). Kosambī rõ ràng là một thành phố rất quan trọng vào thời Đức Phật vì chúng ta thấy Ānanda đề cập đến nó như một trong những nơi thích hợp cho Parinibbāna của Đức Phật (DN.ii.146,169). Nó cũng là trạm dừng quan trọng nhất cho giao thông đi đến Kosala và Magadha từ phía nam và phía tây (xem, ví dụ, Vin.i.277).
+
+Thành phố này cách Benares ba mươi do-tuần đường sông. (Do đó, chúng ta được kể rằng con cá đã nuốt Bakkula di chuyển ba mươi do-tuần qua Yamunā, từ Kosambī đến Benares, AN­a.i.170; Paṭis-a.491). Tuyến đường thông thường từ Rājagaha đến Kosambī là đi ngược dòng sông (đây là tuyến đường được Ānanda thực hiện khi ông cùng năm trăm vị khác đi thi hành hình phạt cao hơn đối với Channa, Vin.ii.290), mặc dù dường như đã có một tuyến đường bộ đi qua Anupiya và Kosambī đến Rājagaha (xem Vin.ii.184f). Trong Suttanipāta (vv.1010-13), toàn bộ tuyến đường được đưa ra từ Mahissati đến Rājagaha, đi qua Kosambī, các trạm dừng được đề cập là Ujjenī, Gonaddha, Vedisa, Vanasavhya, Kosambī, Sāketa, Sāvatthī, Setavyā, Kapilavatthu, Kusinārā, Pāvā, Bhoganagara và Vesālī.
+
+Gần Kosambī, bên bờ sông, là khu vườn của Udena, Udakavana, nơi Ānanda và Piṇḍola Bhāradvāja đã thuyết pháp cho những người phụ nữ trong cung điện của Udena vào hai dịp khác nhau (Vin.ii.290f; Snp­a.ii.514; Ja.iv.375). Đức Phật được đề cập là đã từng ở tại Siṁsapāvana thuộc Kosambī (SN.v.437). Mahā Kaccāna sống trong một khu rừng gần Kosambī sau khi tổ chức Đại Kết Tập lần thứ nhất (Pv-a.141).
+
+Ngay từ thời Đức Phật đã có bốn cơ sở của Tăng đoàn ở Kosambī – Kukkuṭārāma, Ghositārāma, Pāvārika-ambavana (chúng được dâng cúng bởi ba trong số những công dân xuất chúng nhất của Kosambī, lần lượt có tên là Kukkuṭa, Ghosita và Pāvārika), và Badarikārāma. Đức Phật đã đến thăm Kosambī trong một vài dịp, dừng lại ở một hay nơi cư ngụ khác trong số những nơi này, và nhiều bài kinh được thuyết giảng trong các chuyến thăm này được ghi lại trong kinh sách. (Thomas: *Life and Legend of the Buddha*, 115, n.2, nghi ngờ tính xác thực của những câu chuyện liên quan đến các chuyến thăm của Đức Phật đến Kosambī, cho rằng những câu chuyện này là sự bịa đặt sau này).
+
+Đức Phật đã trải qua mùa an cư thứ chín của mình tại Kosambī, và trên đường đến đó vào dịp này, ngài đã đi đường vòng đến Kammāsadamma và được đề nghị kết hôn với Māgandiyā, con gái của Bà-la-môn Māgandiya. Các chi tiết được kể lại liên quan đến Māgandiyasutta. Māgandiyā coi sự từ chối của Đức Phật là một sự xúc phạm đối với bản thân, và, sau khi kết hôn với Vua Udena, đã cố gắng bằng nhiều cách để trả thù Đức Phật, và cả đối với người vợ của Udena là Sāmāvatī, người đã từng là môn đồ của Đức Phật. (Dhp­a.i.199ff; iii.193ff; iv.1ff; Ud.vii.10).
+
+Một sự chia rẽ lớn đã từng phát sanh trong số các vị tỳ-kheo ở Kosambī. Một số tỳ-kheo buộc tội một trong những đồng tu của họ đã phạm giới, nhưng ông từ chối thừa nhận lời buộc tội và, vì bản thân cũng thông hiểu Vinaya, đã tranh luận trường hợp của mình và cầu xin bác bỏ lời buộc tội. Các giới luật rất phức tạp; một mặt, vị tỳ-kheo đã vi phạm một giới luật và bị đối xử như một người phạm lỗi, nhưng mặt khác, lẽ ra ông không nên bị đối xử như vậy nếu ông không thể thấy rằng mình đã làm sai. Vị tỳ-kheo cuối cùng đã bị trục xuất khỏi Tăng đoàn, và điều này mang lại một sự bất hòa lớn. Khi sự việc được báo cáo lên Đức Phật, ngài đã quở trách những người theo cả hai phe và thúc giục họ từ bỏ sự khác biệt, nhưng họ không để tâm, và thậm chí đã có xô xát. Dân chúng Kosambī, trở nên tức giận trước hành vi của các tỳ-kheo, cuộc cãi vã ngày càng lớn. Đức Phật một lần nữa khuyên bảo sự hòa hợp, kể cho các tỳ-kheo câu chuyện về Vua Dīghīti của Kosala, nhưng những nỗ lực hòa giải của ngài không mang lại kết quả, một trong những vị tỳ-kheo thực sự đã yêu cầu ngài để mặc họ giải quyết sự khác biệt của mình mà không có sự can thiệp của ngài. Trong sự chán nản, Đức Phật rời Kosambī và, hành trình qua Bālakaloṇakāragāma và Pācīnavaṁsadaya, một mình rút lui để an cư trong khu rừng Pārileyyaka. Trong thời gian đó, các tỳ-kheo của cả hai phe đều hối hận, một phần do áp lực của những cư sĩ theo họ ở Kosambī tạo ra, và, tìm đến Đức Phật tại Sāvatthī, họ xin ngài tha thứ và giải quyết tranh chấp của mình (Vin.i.337-57; Ja.iii.486ff (cp.iii.211ff); Dhp­a.i.44ff; SN­a.ii.222f; câu chuyện Đức Phật đi vào rừng được đưa ra trong Ud.iv.5. và trong SN.iii.94, nhưng lý do được đưa ra trong các văn bản này là vì ngài thấy Kosambī không thoải mái do số lượng lớn tỳ-kheo, cư sĩ và ngoại đạo. Nhưng xem Ud­a.248f, và SN­a.ii.222f).
+
+Các Chú giải đưa ra hai lý do cho cái tên Kosambī. Lý do được chuộng hơn là thành phố được gọi như vậy vì nó được thành lập bên trong hoặc gần địa điểm của am thất từng được ẩn sĩ Kusumba (*v.l.* Kusumbha) sử dụng (ví dụ, Ud­a.248; Snp­a.300; MN­a.i.535. Truyền thuyết sử thi gán sự thành lập của Kosambī cho một hoàng tử Ceḍi, trong khi nguồn gốc của người Vatsa được bắt nguồn từ một vị vua của Kāsī, xem PHAI.83, 84). Một cách giải thích khác là (ví dụ, MN­a i.539; Paṭis-a.413) có những cây *margosa* (cây sầu đâu) lớn và hùng vĩ (*Kosambarukkhā*) mọc với số lượng lớn trong và xung quanh thành phố.
+
+Bakkula là con trai của một trưởng giả ở Kosambī (MN­a.ii.929; AN­a.i.170). Vào thời Đức Phật, có một Long vương (Nāga) quyền năng sống gần bến phà ở Kosambī, là hiện thân của một thuyền trưởng trước đây. Vị Nāga này đã được Sāgata thu phục, qua đó ông giành được danh tiếng lớn (AN­a.i.179; nhưng xem Ja.i.360, nơi sự việc được cho là xảy ra ở Bhaddavatikā). Rujā sinh ra trong một gia đình trưởng giả ở Kosambī (Ja.vi.237f). Cittapaṇḍita cũng được sinh ra ở đó (Ja.iv.392). Một vị vua, tên là Kosambaka (*xem mục này*), đã từng cai trị ở đó.
+
+Trong thời kỳ tà thuyết của người Vajjī, khi các tỳ-kheo người Vajjī ở Vesālī muốn trục xuất Yasa Kākaṇḍakaputta, ông đã bay đến Kosambī, và từ đó gửi các sứ giả đến các tỳ-kheo chính thống ở các trung tâm khác nhau (Vin.ii.298; Mhv.iv.17).
+
+Chính tại Kosambī, Đức Phật đã ban hành giới luật cấm các tỳ-kheo sử dụng các chất say (Vin.ii.307).
+
+Kosambī được đề cập trong Saṁyuttanikāya (SN.iv.179; nhưng xem AN­a.i.170; MN­a.ii.929; Paṭis-a.491, tất cả đều chỉ ra rằng thành phố nằm trên sông Yamunā) là “*Gaṅgāya nadiyā tīre*”. Đây là một lỗi, hoặc ở đây cái tên Gaṅgā không chỉ sông Ganges (sông Hằng) mà là sông Yamunā. Kosambī được xác định là hai ngôi làng Kosam trên sông Jumna, cách Allahabad khoảng chín mươi dặm về phía tây (CAGI.448f; Vincent Smith đặt nó ở xa hơn về phía nam, JRAS.1898, 503ff).
 
 ## Notes

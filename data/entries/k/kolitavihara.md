@@ -5,7 +5,7 @@ base_headword: "Koḷitavihāra"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -25,6 +25,6 @@ Koḷitavihāra. A monastery, probably in Ceylon; the residence of <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koḷitavihāra. Một tu viện, có lẽ ở Tích Lan; nơi ở của Catunikāyikatissa Thera. AN­a.i.343.
 
 ## Notes

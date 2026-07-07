@@ -5,7 +5,7 @@ base_headword: "Mahā Nigghosa"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Nigghosa. Twenty-four *kappas* ago there were sixteen kings of this name, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nigghosa. Hai mươi bốn *kappa* về trước có mười sáu vị vua mang tên này, những tiền kiếp của Trưởng lão Vimala (hay Buddhupaṭṭhāka). Thag­a.i.122; Ap.i.139.
 
 ## Notes

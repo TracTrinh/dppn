@@ -5,7 +5,7 @@ base_headword: "Kaccāyanabheda"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -30,6 +30,6 @@ Kaccāyanabheda. Also called <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaccāyanabheda. Cũng được gọi là Kaccāyanabhedadīpikā. Một luận thư về ngữ pháp của Kaccāyana, do Mahā Yasa vùng Thaton biên soạn, có lẽ vào khoảng thế kỷ thứ mười bốn. Một *ṭīkā* về luận thư này, được gọi là Sāraṭṭhavikāsini, do Ariyālaṅkāra biên soạn. Svd.1250; Bode, 36f, nhưng xem Gv.74, nơi tác giả được gọi là Dhammānanda.
 
 ## Notes

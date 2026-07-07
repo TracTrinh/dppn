@@ -5,7 +5,7 @@ base_headword: "Varuṇa"
 disambiguator: "12"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Varuṇa 12. A *yavapāla* who gave grass to <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Varuṇa 12. Một *yavapāla* (người cắt cỏ) đã dâng cỏ cho đức Phật Siddhattha để làm bảo tọa cho ngài. Bv­a.185.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sudassanamāla"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -28,6 +28,6 @@ Sudassanamāla. A place in <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudassanamāla. Một nơi ở Anurādhapura, gần Ratanamāla. Koṇāgamana Buddha và Kassapa Buddha đã thuyết pháp tại đó trong những chuyến viếng thăm Tích Lan. Mhv.xv.124, 158.
 
 ## Notes

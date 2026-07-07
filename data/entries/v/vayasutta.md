@@ -5,7 +5,7 @@ base_headword: "Vayasutta"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -23,6 +23,6 @@ Vayasutta. That which is transient by nature must be put away. SN.iii.197.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Cái gì có bản chất vô thường thì phải được từ bỏ. SN.iii.197.
 
 ## Notes

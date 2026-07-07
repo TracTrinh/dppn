@@ -5,7 +5,7 @@ base_headword: "Vāpinagara"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vāpinagara. A stronghold mentioned in the account of the campaigns of <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vāpinagara. Một thành trì được đề cập trong bản ghi chép về các chiến dịch của Vijayabāhu I. Cv.lviii.43.
 
 ## Notes

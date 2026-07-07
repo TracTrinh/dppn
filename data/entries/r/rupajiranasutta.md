@@ -5,7 +5,7 @@ base_headword: "Rūpajīranasutta"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rūpajīranasutta. A name given in the <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rūpajīranasutta. Một cái tên được đặt trong Suttasaṅgaha (No.40) để chỉ kinh Na jirati Sutta (*q.v.*).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sucindhara"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sucindhara. A pleasance near <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sucindhara. Một khu vườn gần Sobhana, nơi Atthadassī Buddha đản sinh. Bv­a.178.
 
 ## Notes

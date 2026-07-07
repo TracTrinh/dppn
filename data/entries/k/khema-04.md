@@ -5,7 +5,7 @@ base_headword: "Khema"
 disambiguator: "04"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -27,6 +27,6 @@ Khema 04. A *Khattiya*, the Bodhisatta in the time of <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khema 04. Một Khattiya, là Bodhisatta trong thời của Kakusandha Buddha. Ngài đã cúng dường cho Đức Phật và chư tăng và thiết đãi Tăng đoàn (DN.ii.7; Ja.i.42; Bv.xxiii.13; Bv­a.211). Ngài đã giúp Rūpanandā mang một nhánh cây bodhi của Kakusandha đến Tích Lan. Xem thêm Khemaṅkara. Mhv.xv.79; Mhv­ṭ.351.
 
 ## Notes

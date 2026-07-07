@@ -5,7 +5,7 @@ base_headword: "Kāḷāvaka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -24,6 +24,6 @@ Kāḷāvaka. The tribe of ordinary elephants, each one of which possesses the s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷāvaka. Bầy voi thuộc loài thông thường, mỗi một con trong đó sở hữu sức mạnh của mười người đàn ông. MN­a.i.263; Ud­a.403; Vibh­a.397; Bv­a.37, v.v.
 
 ## Notes

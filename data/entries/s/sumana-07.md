@@ -5,7 +5,7 @@ base_headword: "Sumana"
 disambiguator: "07"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -31,6 +31,8 @@ Ninety-five *kappas* ago he gave a *harītaka*-fruit to a <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumana 07. Sumana Thera Ông thuộc về một gia đình Bà-la-môn ở Kosala. Anh trai của mẹ ông là một vị *Arahant*, và đã xuất gia cho ông ngay khi ông lớn lên. Sumana nhanh chóng đạt được bốn *jhāna* và năm loại *aññā* và, đến thời điểm thích hợp, đã đạt được quả vị *Arahant*.
+
+Chín mươi lăm *kappa* trước ông đã dâng một quả *harītaka* cho một vị Pacceka Buddha đang bị bệnh (Thag.vss.330-4; Thag­a.i.411f). Ông rõ ràng được đồng nhất với Harītakadāyaka của Apadāna. Ap.ii.394; cf. Avś.ii. 67-70.
 
 ## Notes

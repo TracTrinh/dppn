@@ -5,7 +5,7 @@ base_headword: "Pārāsariya"
 disambiguator: "03"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -26,6 +26,6 @@ Pārāsariya 03. A Brahmin teacher of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pārāsariya 03. Một đạo sư Bà-la-môn của Takkasilā, được đề cập trong Cūḷa Nandiyajātaka. Ja.ii.202.
 
 ## Notes

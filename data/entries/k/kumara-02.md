@@ -5,7 +5,7 @@ base_headword: "Kumāra"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kumāra 02. Name of the god Skanda. He rode on a peacock. It is said that <span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tên của vị thần Skanda. Ông cưỡi trên một con công. Có người nói rằng Kumāra đã ban một ân huệ cho Māṇavamma. Cv.lvii.7, 10; xem thêm Hopkins: *Epic Mythology*, p.227.
 
 ## Notes

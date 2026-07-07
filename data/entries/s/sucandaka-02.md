@@ -5,7 +5,7 @@ base_headword: "Sucandaka"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sucandaka 02. The city where <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sucandaka 02. Thành phố nơi Atthadassī Buddha lần đầu tiên gặp gỡ các vị Thượng thủ Thanh văn của mình. Bv­a.179.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Nipāta"
 disambiguator: "01"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -25,6 +25,6 @@ Mahā Nipāta 01. The twenty-second section of the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nipāta 01. Phần thứ hai mươi hai của Chú giải Jātaka. Ja.vi.1-593.
 
 ## Notes

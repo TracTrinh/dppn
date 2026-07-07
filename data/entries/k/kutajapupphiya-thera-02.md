@@ -5,7 +5,7 @@ base_headword: "Kuṭajapupphiya Thera"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -30,6 +30,6 @@ Kuṭajapupphiya Thera 02. Thirty-one *kappas* ago, while travelling through the
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ba mươi mốt *kappa* trước, trong khi đang di chuyển xuyên qua không trung, ngài đã nhìn thấy Pacceka Buddha Sudassana tại Cāvala gần Himavā, và đã cúng dường cho ngài một bông hoa *kuṭaja* (Ap.i.451). Ngài có lẽ được đồng nhất với Hārita Thera (Thag­a.i.88) hoặc Candana Thera (Thag­a.i.395f).
 
 ## Notes

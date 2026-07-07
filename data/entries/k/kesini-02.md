@@ -5,7 +5,7 @@ base_headword: "Kesinī"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -27,6 +27,6 @@ Kesinī 02. Mother of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kesinī 02. Mẹ của Buddhaghosa (Buddhaghosuppatti, p.38). Sāsanavaṁsa (p.29) gọi bà là Kesī.
 
 ## Notes

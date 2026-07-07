@@ -5,7 +5,7 @@ base_headword: "Mahā Sīva"
 disambiguator: "06"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Sīva 06. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sīva 06. Trưởng lão Mahā Sīva. Được đề cập đến như là một vị đạo sư lỗi lạc về Vinaya (Vin.v.3; Vin-a.i.63). Ngài có lẽ cũng chính là một trong những vị đã được nói đến ở trên.
 
 ## Notes

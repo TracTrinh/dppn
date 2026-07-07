@@ -5,7 +5,7 @@ base_headword: "Maṇikaṇṭhajātaka"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -38,6 +38,12 @@ On the same occasion were preached the <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇikaṇṭhajātaka (Ja 253). Bodhisatta và người em trai, sau khi cha mẹ qua đời, sống như những đạo sĩ trong các lều lá bên bờ sông Hằng, người anh ở thượng nguồn hơn người em. Một ngày kia, vua Nāga Maṇikaṇṭha, trong khi đi dạo theo bờ sông dưới dạng người thường, đến lều của người đạo sĩ em và trở thành bạn của ông ta. Từ đó ông đến mỗi ngày và tình bạn ngày càng thắm thiết. Maṇikaṇṭha cuối cùng quý mến người đạo sĩ đến nỗi bỏ lốt người, quấn thân mình quanh người kia, và nằm như vậy một lúc mỗi ngày cho đến khi thỏa mãn tình cảm. Nhưng người đạo sĩ sợ hình dạng Nāga của ông và trở nên ốm yếu, mặt mày tái nhợt.
+
+Bodhisatta nhận ra điều này và gợi ý rằng lần sau khi Maṇikaṇṭha đến, người em hãy xin viên ngọc mà ông ta đeo quanh cổ. Hôm sau, khi người đạo sĩ đưa ra yêu cầu này, Maṇikaṇṭha vội vã bỏ đi. Việc như vậy xảy ra nhiều lần, rồi ông không còn đến nữa. Người đạo sĩ rất buồn vì sự vắng mặt của ông ta, nhưng được Bodhisatta an ủi.
+
+Đức Phật kể câu chuyện này tại Aggāḷavacetiya gần Āḷavī. Các vị tỳ-kheo ở Āḷavī đã xin xỏ quá nhiều vật liệu xây dựng từ các gia chủ đến nỗi chỉ cần thấy bóng một vị tỳ-kheo là các gia chủ đã vội vã chạy vào trong nhà. Mahā Kassapa biết điều này và báo cáo với Đức Phật, Ngài bèn khuyên nhắc các tỳ-kheo không được cầu xin vật dụng của người khác. (Ja.ii.282-6; cũng tại Vin.iii.146f., nơi các chi tiết của câu chuyện quá khứ có đôi chỗ khác nhau.)
+
+Cùng dịp đó cũng được thuyết giảng Brahmadattajātaka và Aṭṭhisenajātaka (*q.v.*).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Sena"
 disambiguator: "05"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -27,6 +27,6 @@ Mahā Sena 05. A king of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sena 05. Một vị vua của Pāṭaliputta. Ông và em gái của mình đã tự tay làm việc và cúng dường vật thực cho 500 tỳ-kheo từ Piyaṅgudīpa, trong số đó có Mahā Sīva (8). Vị tỳ-kheo ước rằng họ nên nhìn thấy vật thực cúng dường của mình đang được các tỳ-kheo thọ dụng ở Piyaṅgudīpa. Ras.i.72f.
 
 ## Notes

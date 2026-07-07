@@ -5,7 +5,7 @@ base_headword: "Maṅgala"
 disambiguator: "05"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Maṅgala 05. A flood gate in the <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṅgala 05. Một cửa xả lũ ở hồ Parakkamasamudda, từ đó phân nhánh ra sông Maṅgala Gaṅgā. Cv.lxxix.45.
 
 ## Notes

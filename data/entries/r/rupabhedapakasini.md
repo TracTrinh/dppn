@@ -5,7 +5,7 @@ base_headword: "Rūpabhedapakāsinī"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rūpabhedapakāsinī. A little grammatical treatise by a Burmese monk called <sp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rūpabhedapakāsinī. Một chuyên luận ngữ pháp nhỏ của một vị tỳ-kheo Miến Điện tên là Jambudhaja. Bode, 55.
 
 ## Notes

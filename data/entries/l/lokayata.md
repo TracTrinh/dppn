@@ -5,7 +5,7 @@ base_headword: "Lokāyata"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -24,6 +24,6 @@ Lokāyata. Name of a branch of Brahmin learning (DN.i.11, etc.); the name signif
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lokāyata. Tên của một nhánh học thuật Bà-la-môn (DN.i.11, v.v.); cái tên này có nghĩa là điều thuộc về quan điểm thông thường (về thế giới) – tức là, triết học phổ thông hay bình dân – gần giống với *lokakkhāyika* (triết học phổ thông). Để xem một cuộc thảo luận về từ này, hãy xem Dial.i.166-72.
 
 ## Notes

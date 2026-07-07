@@ -5,7 +5,7 @@ base_headword: "Vāraṇa"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -35,6 +35,10 @@ He is evidently identical with <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vāraṇa Thera. Ông sinh ra trong một gia đình Bà-la-môn ở Kosala, và sau khi nghe một vị tỳ-kheo sống trong rừng thuyết pháp, ông đã gia nhập Tăng đoàn. Một ngày nọ, trên đường đến thăm đức Phật, ông nhìn thấy một cuộc chiến giữa những con rắn và những con chồn mangut, trong đó có rất nhiều con bị bỏ mạng. Vô cùng đau lòng trước cảnh tượng chúng thù hận lẫn nhau, ông đã tìm đến sự giúp đỡ của đức Phật, và ngài đã thuyết cho ông ba bài kệ (Thag.237-9). Vào cuối lúc tụng đọc, Vāraṇa đã phát triển tuệ minh sát và đắc quả vị *Arahant*.
+
+Chín mươi hai *kappa* trước, ông được sinh ra trong gia đình của Bà-la-môn Sumedha, và sau khi trở nên thông thạo về những truyền thống Bà-la-môn, ông đã bước vào đời sống ẩn sĩ. Khi ông đang ngồi dạy những bài thánh ca cho các đệ tử của mình thì một trận động đất đã xảy ra, đánh dấu sự thọ thai của đức Phật Tissa. Mọi người, trong sự khiếp sợ, đã tìm đến vị hiền triết, người đã giải thích điều đó cho họ, qua đó bản thân ông cũng cảm nhận được niềm hỷ lạc to lớn khi suy niệm về sự vinh quang của đức Phật (Thag­a.i.353f).
+
+Ông hiển nhiên đồng nhất với Nimittivyākaraṇīya trong Apadāna. Ap.ii.411f.
 
 ## Notes

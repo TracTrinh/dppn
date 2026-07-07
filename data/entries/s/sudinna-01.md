@@ -5,7 +5,7 @@ base_headword: "Sudinna"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sudinna 01. Father of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudinna 01. Cha của Piyadassī Buddha (Ja.i.39); nhưng xem Sudatta (9).
 
 ## Notes

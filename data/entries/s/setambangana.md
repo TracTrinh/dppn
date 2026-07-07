@@ -5,7 +5,7 @@ base_headword: "Setambaṅgaṇa"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Setambaṅgaṇa. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Setambaṅgaṇa. *v.l.* Pemambaṅgaṇa. Một địa danh ở Tích Lan. Khi vua Mahā Nāga đang chạy trốn khỏi Tích Lan sang Ấn Độ, ngài nhận được sự giúp đỡ từ một vị Trưởng lão đang cư trú tại đó. Về sau, khi ngài lấy lại ngai vàng, ngài đã ban tặng một món quà thuốc lớn cho Setambaṅgaṇa suốt thời gian ngài còn sống (Dhs-a.399).
 
 ## Notes

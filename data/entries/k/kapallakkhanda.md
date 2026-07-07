@@ -5,7 +5,7 @@ base_headword: "Kapallakkhaṇḍa"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,6 @@ Kapallakkhaṇḍa. A locality in Ceylon on the field of <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kapallakkhaṇḍa. Một địa phương ở Tích Lan trên cánh đồng Haṅkārapiṭṭhi. Tại đây đã nổ ra một trận chiến ác liệt giữa Iḷanāga và những người Lambakaṇṇa, trong đó những người sau đã bị tàn sát với số lượng lớn (Mhv.xxxv.34).
 
 ## Notes

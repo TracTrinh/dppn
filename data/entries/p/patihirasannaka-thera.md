@@ -5,7 +5,7 @@ base_headword: "Pāṭihīrasaññaka Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Pāṭihīrasaññaka Thera. An *Arahant*. In the past he had seen the miracles 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāṭihīrasaññaka Thera. Một *Arahant*. Trong quá khứ, ngài đã nhìn thấy những phép lạ diễn ra khi Đức Phật Padumuttara tiến vào thành phố của ngài và đã kinh ngạc trước những điều đó. Ap.ii.392.
 
 ## Notes

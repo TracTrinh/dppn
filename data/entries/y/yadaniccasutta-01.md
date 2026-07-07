@@ -5,7 +5,7 @@ base_headword: "Yadaniccasutta"
 disambiguator: "01"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -23,6 +23,6 @@ Yadaniccasutta 01. The *khandhas* are impermanent, what is impermanent is suffer
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yadaniccasutta 01. Các uẩn (*khandhas*) là vô thường, cái gì vô thường là khổ, và cái gì khổ là vô ngã. Bậc Thánh đệ tử thấu hiểu các pháp như vậy. SN.iii.22.
 
 ## Notes

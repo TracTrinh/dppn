@@ -5,7 +5,7 @@ base_headword: "Pañcapaṇḍitajātaka"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -32,6 +32,6 @@ Pañcapaṇḍitajātaka, also called <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcapaṇḍitajātaka, cũng gọi là Pañcapaṇḍitapañha và Paṇḍitapañha (Ja 508). Tên được đặt cho một phần của Mahā Ummaggajātaka, liên quan đến âm mưu của Senaka, Pukkusa, Kāvinda và Devinda, muốn giết Mahosadha bằng cách báo cho nhà vua rằng Mahosadha có một bí mật tội lỗi mà ông ta không muốn ai biết. Nhưng Mahosadha đã biết được bí mật của họ và đánh bại ý đồ của họ. Ja.iv.473; v.81; vi.379, 389.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Khuramāla"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -27,6 +27,6 @@ Khuramāla, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khuramāla, Khuramālī. Một vùng biển. Ngày xưa, các thương nhân đi từ Bhārukaccha bị lạc đường trong vùng biển này và được Suppāraka cứu thoát. Trong vùng biển đó có những loài cá mang thân người và mõm sắc như dao cạo. Ja.iv.139.
 
 ## Notes

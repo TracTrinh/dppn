@@ -5,7 +5,7 @@ base_headword: "Mahā Senagāma"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -27,6 +27,6 @@ Mahā Senagāma. A village in <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Senagāma. Một ngôi làng ở Rohaṇa, có *vihāra* đã được phục hồi bởi Vijayabāhu I. (Cv.lx.62). Ngôi làng được đề cập trong lời kể về các chiến dịch của Parakkamabāhu I. Cv.lxxv.109; Cv.Trs.ii.55, n.2.
 
 ## Notes

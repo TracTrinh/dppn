@@ -5,7 +5,7 @@ base_headword: "Sūkarapeta"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -27,6 +27,6 @@ Sūkarapeta 02. A monk in the time of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sūkarapeta 02. Một vị tỳ-kheo trong thời của Kassapa Buddha, tái sinh thành một *Peta* trên Gijjhakūṭa, nơi ông bị Nārada nhìn thấy. Ông từng là người biết kiềm chế trong các hành động thuộc về thân của mình, nhưng lại có một cái lưỡi độc ác. Ông có khuôn mặt của một con lợn. Pv.i.3; Pv-a.9f.
 
 ## Notes

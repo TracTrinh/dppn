@@ -5,7 +5,7 @@ base_headword: "Uttaramadhurā"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uttaramadhurā 02. The pleasance in which <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttaramadhurā 02. Khu vườn cảnh nơi Maṅgala Buddha đản sinh. Bv­a.115.
 
 ## Notes

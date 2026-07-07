@@ -5,7 +5,7 @@ base_headword: "Koṭipassāva"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -26,6 +26,6 @@ Koṭipassāva. A monastery built by <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koṭipassāva. Một tu viện do Dhātusena xây dựng (Cv.xxxviii.46). Nếu nó được đồng nhất với Koṭipassāvana (*xem mục này*), thì nó chỉ được Dhātusena trùng tu lại.
 
 ## Notes

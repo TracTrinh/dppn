@@ -5,7 +5,7 @@ base_headword: "Sumana"
 disambiguator: "10"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sumana 10. A *seṭṭhi* in the time of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumana 10. Một *seṭṭhi* trong thời của Padumuttara Buddha. Ông là người chủ và, sau này, là bạn của Annabhāra (*q.v.*).
 
 ## Notes

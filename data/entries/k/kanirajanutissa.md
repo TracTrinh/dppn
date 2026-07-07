@@ -5,7 +5,7 @@ base_headword: "Kaṇirajānutissa"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,6 @@ Kaṇirajānutissa. King of Ceylon (CE89-92). He slew his elder brother <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇirajānutissa. Vua của Tích Lan (89-92 CN). Ông đã giết người anh trai của mình là Āmaṇḍagāmaṇī Abhaya và chiếm lấy ngai vàng. Có lần ông đã đưa ra phán quyết trong một vụ kiện liên quan đến ngôi nhà Bố-tát (*uposatha*) trong tu viện (*vihāra*) Cetiyagiri, và sáu mươi vị tỳ-kheo bị kết tội phản quốc chống lại ông đã bị bắt giữ theo lệnh của ông và bị ném vào một hang động tên là Kaṇira. Do đó, có lẽ đó là tên của ông. Mhv.xxxv.9ff; Mhv­ṭ.640; Dpv.xx.38.
 
 ## Notes

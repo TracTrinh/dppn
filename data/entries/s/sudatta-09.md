@@ -5,7 +5,7 @@ base_headword: "Sudatta"
 disambiguator: "09"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sudatta 09. Father of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudatta 09. Cha của Piyadassī Buddha. Bv.xiv.15; nhưng xem Sudinna (1).
 
 ## Notes

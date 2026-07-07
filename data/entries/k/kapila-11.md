@@ -5,7 +5,7 @@ base_headword: "Kapila"
 disambiguator: "11"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -24,6 +24,6 @@ Kapila 11. An ancient teacher of philosophy, mentioned together with <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kapila 11. Một giáo viên triết học cổ đại, được đề cập cùng với Kanāda như là đã dạy rằng linh hồn là vô hạn (*na antavā*) (Ud­a.339; xem thêm *Śvetāśvatara Upaniṣad* v.2, và *Rāmāyaṇa* i.40). Ông có lẽ đồng nhất với người sáng lập ra hệ thống *Sāṅkhya*.
 
 ## Notes

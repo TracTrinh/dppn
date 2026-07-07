@@ -5,7 +5,7 @@ base_headword: "Uttarapāla"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -32,6 +32,10 @@ He is evidently identical with <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttarapāla. Một Trưởng lão. Ông là con trai của một người Bà-la-môn tại Sāvatthī. Khi đến tuổi trưởng thành, ông được chứng kiến Song thông và gia nhập Tăng đoàn. Một ngày, trong khi đang ngồi thiền tản mạn, ông bị các dục vọng xâm chiếm, nhưng sau một cuộc chiến đấu tinh thần quyết liệt, ông đã chặn đứng các ác niệm và đắc quả vị *Arahant*.
+
+Vào thời Vipassī Buddha, ông đã bắc một cây cầu để Đức Phật đi qua (Thag.252-4; Thag­a.i.371f).
+
+Ông rõ ràng là đồng nhất với Setudāyaka trong Apadāna (ii.408).
 
 ## Notes

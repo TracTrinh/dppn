@@ -5,7 +5,7 @@ base_headword: "Kanakapabbata"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -29,6 +29,8 @@ The mountain came into existence as a result of <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kanakapabbata. *cách đọc khác:* Kañcanapabbata. Một ngọn núi gần Saṅkassa. Tại đó Vua Arindama đã hỏi Đức Phật Sumaṅgala về sự diệt (*nirodha*), và tám mươi crore chúng sinh đã nhận ra Chân lý.
+
+Ngọn núi ra đời như một kết quả từ phước báo của Arindama. Bv.v.13; Bv­a.129.
 
 ## Notes

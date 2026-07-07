@@ -5,7 +5,7 @@ base_headword: "Mahā Vijita"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Vijita. A king of long ago, whose exemplary sacrifice, held under the dire
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Vijita. Một vị vua từ thời xa xưa, mà buổi lễ tế đàn gương mẫu của ông, được tổ chức dưới sự hướng dẫn của vị quốc sư của ông, đã được kể lại trong Kūṭadantasutta (*xem từ này*).
 
 ## Notes

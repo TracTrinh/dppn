@@ -5,7 +5,7 @@ base_headword: "Kācaragāma"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -40,6 +40,8 @@ The village is now chiefly famous for the celebrated shrine of Skanda.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kācaragāma, Kājaragāma, Kāṭaragāma. Một ngôi làng ở miền Nam Tích Lan, trên sông Maṇigaṅgā (Mānik-gaṅga), khoảng mười dặm về phía bắc Tissamahārāma, trên con đường cũ từ Mahā Gāma đến Guttasāla. Ngôi làng này hẳn là một trung tâm quan trọng ngay cả vào thời Devānampiyatissa, vì chúng ta thấy rằng các quý tộc của Kājaragāma được nhắc đến trong số những người tham gia lễ hội Cây bodhi khi cây được Saṅghamittā mang sang (Mhv.xix.54). Trong làng có trồng một trong tám chồi non sinh ra từ Cây bodhi (Mhv.xix.62; Mbv.161f; Vin-a.i.100). Một *vihāra* được Aggabodhi, vị cai trị Rohaṇa, xây dựng ở Kācaragāma (Cv.xlv.45), trong số những người cư ngụ tại đó có nhắc đến Trưởng lão Milakkhatissa (AN­a.i.22). Nơi đây có tầm quan trọng về mặt chiến lược, và đôi khi được dùng làm nơi đặt chính quyền ở Rohaṇa, ví dụ, bởi Loka (Cv.lvii.2), bởi Kassapa, vị Kesadhātu (Cv.lvii.66ff); xem thêm Cv.lviii.6.
+
+Ngôi làng ngày nay chủ yếu nổi tiếng nhờ đền thờ Skanda lừng danh.
 
 ## Notes

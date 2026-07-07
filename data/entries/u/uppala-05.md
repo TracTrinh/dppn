@@ -5,7 +5,7 @@ base_headword: "Uppala"
 disambiguator: "05"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -23,6 +23,6 @@ Uppala 05. One of the treasure-troves that rose up from the earth on the day of 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uppala 05. Một trong những kho báu trồi lên từ lòng đất vào ngày Bodhisatta đản sinh. Nó rộng ba gāvuta. DN­a.i.284.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Uppalavaṇṇa"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -31,6 +31,6 @@ Uppalavaṇṇa. The god to whom <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uppalavaṇṇa. Vị thiên nhân mà Sakka đã giao phó nhiệm vụ bảo hộ Laṅkā và người dân ở đó. Vị này đã gặp Vijaya và những người đi theo ông khi họ đổ bộ lên Tích Lan (Ceylon) và vảy nước lên họ rồi quấn một sợi chỉ thiêng quanh tay họ để bảo vệ (Mhv.vii.5). Vị thiên nhân này thường được đồng nhất với Viṣṇu, mặc dù có bằng chứng cho thấy rằng, ít nhất là trong thần thoại thời sau, hai vị thần này là khác biệt. Khoảng năm 790 CN, một đền thờ đã được dựng lên cho Uppalavaṇṇa ở Devanagara (Dondra ngày nay) tại Nam Tích Lan. Đền thờ này sau đó đã bị người Bồ Đào Nha cướp phá. Vua Vīrabāhu đã dâng lên đó một lễ tế chiến thắng (Cv.lxxxiii.49; xem thêm Cv.Trs.ii.152, n.3) và Parakkamabāhu II đã xây dựng lại đền thờ.
 
 ## Notes

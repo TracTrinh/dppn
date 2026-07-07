@@ -5,7 +5,7 @@ base_headword: "Uttara"
 disambiguator: "24"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Uttara 24. A nunnery built by King <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttara 24. Một ni viện được xây dựng bởi vua Mahā Sena. Mhv.xxxvii.43.
 
 ## Notes

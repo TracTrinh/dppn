@@ -5,7 +5,7 @@ base_headword: "Sīsupācālasutta"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -26,6 +26,6 @@ Sīsupācālasutta. The story of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīsupācālasutta. Câu chuyện về sự cám dỗ của Māra đối với Sīsupacālā. SN.i.133f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Siddhatthikā"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Siddhatthikā. One of the seven heterodox sects which branched off in the second
 
 ## Vietnamese translation
 
-Chưa dịch.
+Siddhatthikā. Một trong bảy bộ phái dị giáo phân nhánh ra trong thế kỷ thứ hai sau khi Đức Phật viên tịch (Mhv.v.12; Dpv.v.54). Họ thuộc nhóm Andhakas (*q.v.*) và chấp giữ các quan điểm giống nhau. Kv.104; Introd.xx.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Pāsāṇasinna"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -26,6 +26,6 @@ Pāsāṇasinna. A locality in Ceylon where <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāsāṇasinna. Một địa phương ở Tích Lan nơi Dhātusena đã xây dựng *vihāra* Dhātusenapabbata. Cv.xxxviii.47.
 
 ## Notes

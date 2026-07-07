@@ -5,7 +5,7 @@ base_headword: "Sirimandapañha"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -29,6 +29,6 @@ Sirimandapañha. A section of the <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirimandapañha. Một phần của Mahā Ummaggajātaka (Ja 546), chứa đựng cuộc thảo luận giữa Senaka và Mahosadha trước sự hiện diện của Vedeha về giá trị của tài sản và trí tuệ (Ja.vi.356-63). Phần này rõ ràng cũng từng tạo thành một Jātaka riêng biệt, ví dụ, tại Ja.iv.412.
 
 ## Notes

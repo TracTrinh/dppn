@@ -5,7 +5,7 @@ base_headword: "Pañhamaṇḍapaṭṭhāna"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Pañhamaṇḍapaṭṭhāna. A place near the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañhamaṇḍapaṭṭhāna. Một địa điểm gần Abhayavāpi ở Anurādhapura. SN­a.iii.151.
 
 ## Notes

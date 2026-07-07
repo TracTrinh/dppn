@@ -5,7 +5,7 @@ base_headword: "Keniya"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -34,6 +34,12 @@ Keniya is mentioned (e.g., DN­a.i.270; see also Dhp­a.i.323; Ud­a.241) as an 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Keniya 01. Một vị Jaṭila. Ông sống ở Āpaṇa, và có một lần khi Đức Phật đến đó lưu lại cùng với 1.250 tỳ-kheo, Keniya đã đến thăm Đức Phật, mang theo nhiều loại thức uống khác nhau dâng lên ngài và các tỳ-kheo. Ngày hôm sau, ông đã mời toàn thể hội chúng đến dùng bữa và thể hiện sự hiếu khách vô cùng nhiệt tình. Chính nhờ những thức uống do Keniya dâng cúng mà Đức Phật đã đặt ra một quy định về những loại thức uống nào được phép dùng đối với các tỳ-kheo và loại nào thì không (Vin.i.245f).
+
+Theo Suttanipāta (p.104; MN.ii.146f; xem thêm Thag­a.ii.47), chính nhờ sự chuẩn bị chu đáo của Keniya cho bữa ăn dâng lên Đức Phật và Saṅgha mà người Bà-la-môn Sela, người bạn và cũng là quân sư của Keniya, đã phát hiện ra sự hiện diện của Đức Phật tại Āpaṇa. Kết quả là sự cải đạo và xuất gia của Sela cùng ba trăm học trò của ông.
+
+Buddhaghosa kể lại (Snp­a.ii.440; MN­a.ii.779; Ap.i.318) rằng Keniya từng là một người Bà-la-môn Mahā Sāla, và ông trở thành một Jaṭila với mục đích bảo vệ tài sản của mình. Ông đã mua một mảnh đất từ nhà vua và dựng am thất ở đó, rồi trở thành người bảo trợ (nissaya) cho một ngàn gia đình. Trong am thất của ông có một cây cọ mỗi ngày cho ra một quả bằng vàng. Ban ngày Keniya là một đạo sĩ khoác áo y vàng; nhưng ban đêm ông vẫn hưởng thụ những lạc thú giác quan. Lần đầu tiên đến thăm Đức Phật, ông đã mang theo năm trăm gánh badarapāna (nước ép táo ta) (Snp­a.ii.446).
+
+Keniya được nhắc đến (ví dụ, DN­a.i.270; xem thêm Dhp­a.i.323; Ud­a.241) như một ví dụ về một trong tám hạng đạo sĩ khổ hạnh – những người vẫn nuôi vợ con (saputtabhariya).
 
 ## Notes

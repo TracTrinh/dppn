@@ -5,7 +5,7 @@ base_headword: "Sattuka"
 disambiguator: "03"
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -23,6 +23,6 @@ Sattuka 03. A sage of old. Ap.i.46 (vs. 123).
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sattuka 03. Một vị hiền giả thời xưa. Ap.i.46 (vs. 123).
 
 ## Notes

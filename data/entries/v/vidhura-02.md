@@ -5,7 +5,7 @@ base_headword: "Vidhura"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -41,6 +41,10 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vidhura 02. Bồ-tát sinh ra làm vị đại thần của Dhanañjaya Korabba. Xem Vidhurapaṇḍitajātaka (Ja 545).
+
+Cha ngài là Bà-la-môn Canda (Ja.vi.262), và ngài sở hữu ba cung điện: Koñca, Mayūra và Piyaketa (Ja.vi.289). Anujjā là vợ ngài và Cetā là con dâu của ngài; trong số những người con trai của ngài có Dhammapāla (Ja.vi.290). Ở một chỗ (Ja.vi.301), ngài được nói đến là có một ngàn người vợ và bảy trăm nữ tì.
+
+Vidhurapaṇḍita của Dhūmakārijātaka (Ja 413) có lẽ đồng nhất với nhân vật ở trên, cũng như vị đại thần cùng tên trong Dasabrāhmaṇajātaka (Ja 495). Câu chuyện sau chứa một cuộc thảo luận dài giữa Vidhūra và vị vua xứ Korabba về những phẩm chất của một Bà-la-môn đích thực.
 
 ## Notes

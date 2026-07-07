@@ -5,7 +5,7 @@ base_headword: "Katthakā"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,6 @@ Katthakā *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Katthakā biến thể Kathaka. Một hạng Deva có mặt tại buổi giảng Mahā Samayasutta (DN.ii.261).
 
 ## Notes

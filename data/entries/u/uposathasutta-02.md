@@ -5,7 +5,7 @@ base_headword: "Uposathasutta"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -26,6 +26,6 @@ Uposathasutta 02. One *Uposatha*-day, the Buddha, surrounded by the company of m
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uposathasutta 02. Vào một ngày *Uposatha*, Đức Phật, được bao quanh bởi hội chúng các tỳ-kheo, đang an tọa tại Migāramātupāsāda, ở Sāvatthī. Nhìn quanh và thấy họ đang ngồi trong im lặng, Ngài đã nói những lời ca ngợi họ, rằng làm thế nào một số người trong số họ đã giành được quyền tiếp cận chư thiên, một số tiếp cận *Brahma*, những người khác tiếp cận cõi Bất Động (*ānejja*), và vẫn còn những người khác tiếp cận trạng thái của bậc Thánh. AN.ii.183f.
 
 ## Notes

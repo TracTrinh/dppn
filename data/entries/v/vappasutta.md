@@ -5,7 +5,7 @@ base_headword: "Vappasutta"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vappasutta. The conversation between <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vappasutta. Cuộc đàm thoại giữa Vappa, người Sākyan, và đức Phật. Xem Vappa (2). AN.ii.196f.
 
 ## Notes

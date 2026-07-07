@@ -5,7 +5,7 @@ base_headword: "Vasavattī"
 disambiguator: "03"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vasavattī 03. A *Devaputta*, king of the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một *Devaputta*, vị vua của chư thiên thuộc cõi *Parinimmitavasavatti* (DN.i.219). Do sự hào phóng và đức hạnh đã thực hành trong các tiền kiếp, ông vượt trội hơn chư thiên ở cõi của mình về mười phương diện: thọ mạng chư thiên, sắc đẹp, hạnh phúc, sự vinh quang và quyền lực, sắc chư thiên, âm thanh, hương, vị và xúc giác (AN.iv.243). Māra cũng cai trị một phần cõi này, nhưng chủ yếu giống như một chư hầu ngang bướng. MN­a.i.28.
 
 ## Notes

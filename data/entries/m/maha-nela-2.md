@@ -5,7 +5,7 @@ base_headword: "Mahā Nela"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Nela. A servitor of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nela. Một người hầu của Kākavaṇṇatissa. Anh ta rất có tài chạy nhanh, mặc dù anh ta từ chối làm việc bằng tay của mình. Trong tiền kiếp anh ta là Kurudeva. Ras.ii.111f.
 
 ## Notes

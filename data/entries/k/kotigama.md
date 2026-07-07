@@ -5,7 +5,7 @@ base_headword: "Koṭigāma"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -45,6 +45,12 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="19" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koṭigāma. Một ngôi làng ở vùng lân cận Bhaddiyanagara. Ngôi làng cách sông Ganges (sông Hằng) một *gāvuta* (Mhv­ṭ.560). Đức Phật đã đi đến đó từ Bhaddiyanagara. Bhaddaji đã đi trước Gotama Buddha đến Koṭigāma và chờ ngài đến ở đó. Dân chúng, dưới sự dẫn dắt của Nanduttara, đã chuẩn bị sẵn một bữa ăn và cung cấp thuyền để Đức Phật và các tỳ-kheo có thể qua sông. Ở giữa dòng sông, chìm dưới nước, là cung điện từng thuộc về Mahā Panāda (Ja.ii.332f; Thag­a.i.287f; Mhv.xxxi.5f).
+
+Trong chuyến du hành cuối cùng của mình, Đức Phật đã qua sông ở Pāṭaligāma, đi tiếp đến Koṭigāma, và ở lại trong ngôi làng đó thuyết pháp cho các tỳ-kheo. Nghe tin Đức Phật đang ở đó, Ambapālī và rất đông người Licchavī đã từ Vesālī đến thăm ngài, và Ambapālī đã dâng cho ngài một bữa ăn. Từ Koṭigāma, Đức Phật đã đi đến Nādikā (Vin.i.230f; DN.ii.90f).
+
+Buddhaghosa nói (DN­a.ii.542; iii.856) rằng ngôi làng được gọi như vậy vì nó được xây dựng gần tháp (*koṭi* hoặc *thūpikā*) của cung điện của Mahā Panāda.
+
+Theo Saṁyuttanikāya (v.431), Koṭigāma là một ngôi làng của người Vajjī.
 
 ## Notes

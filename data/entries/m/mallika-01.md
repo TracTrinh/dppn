@@ -5,7 +5,7 @@ base_headword: "Mallikā"
 disambiguator: "01"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -71,6 +71,26 @@ Mallikā had a garden, called the <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mallikā 01. Hoàng hậu chánh thất của Pasenadi, vua xứ Kosala. Bà là con gái của người thợ kết hoa trưởng của xứ Kosala, bà rất tốt bụng và xinh đẹp. Khi mới mười sáu tuổi, một ngày nọ, trên đường đi đến khu vườn cùng với một vài người bạn, bà mang theo ba phần cháo chua trong một cái giỏ. Gặp Đức Phật, bà đã dâng cúng chúng cho ngài và đảnh lễ ngài. Đức Phật, khi thấy bà tràn ngập niềm vui sướng, đã mỉm cười, và, để trả lời câu hỏi của Ānanda, ngài nói rằng bà sẽ trở thành hoàng hậu chánh thất của Kosala ngay trong ngày hôm đó. Ja.iii.405; SN­a.i.110ff. Kummāsapiṇḍajātaka (Ja 416) đã được thuyết để giải thích cho phước báo tốt lành của Mallikā.
+
+Tình cờ thay, Pasenadi, sau khi phải chịu thất bại dưới tay Ajātasattu ngay trong ngày hôm đó, đang đi ngang qua và đã bước vào vườn hoa do bị thu hút bởi giọng nói của Mallikā. Mallikā, thấy vị vua đang đến, và nhận ra sự mệt mỏi của ngài, liền nắm lấy dây cương ngựa của ngài. Nhà vua, khi biết bà vẫn chưa kết hôn, đã xuống ngựa, và, sau khi nghỉ ngơi một lúc với đầu gối lên đùi bà, đã cùng bà tiến vào thị trấn và đưa bà về nhà riêng của bà. Vào buổi tối, nhà vua phái một cỗ xe ngựa đến đón bà, và với sự tôn vinh cùng sự lộng lẫy tuyệt vời, ngài đã đón bà từ nhà riêng của bà, đặt bà lên một đống châu báu và phong bà làm hoàng hậu chánh thất. Kể từ ngày đó trở đi, bà là một người vợ được yêu thương và tận tụy của nhà vua và là một tín đồ kiên trung của Đức Phật (Dhp­a.iii.121f). Nhà vua nhận thấy bà rất thông minh và có đầu óc thực tế nên đã tham khảo ý kiến của bà và chấp nhận lời khuyên của bà khi gặp khó khăn – ví dụ, trong Asadisadāna, khi ngài muốn vượt trội hơn những thần dân của mình, và một lần nữa khi ngài bị bối rối bởi những giấc mơ xấu xa như được tường thuật trong Mahā Supīnajātaka (Ja 77). Dhp­a.ii.8ff. nói rằng Mallikā đã gọi nhà vua là một kẻ ngốc vì đã đặt niềm tin vào các Bà-la-môn và dẫn ngài đến gặp Đức Phật, và trong lúc nhà vua đang ngồi run rẩy, bà đã thay mặt ngài hỏi các câu hỏi và nhờ giải đáp.
+
+Jātaka nêu rõ việc Mallikā đã cứu nhiều mạng người vô tội khỏi bị đem đi hiến tế như thế nào, và Đức Phật tuyên bố rằng trong một tiền kiếp cũng vậy, khi là Dinnā (*xem mục từ này*), bà cũng đã dùng trí tuệ của mình để cứu mạng sống của một số lượng lớn người (Dhp­a.ii.15f).
+
+Cả Mallikā và một vị hoàng hậu khác của Pasenadi, Vāsabhakhattiyā, đều mong muốn được học Dhamma, và, theo yêu cầu của họ được chuyển đến thông qua Pasenadi, Đức Phật đã bảo Ānanda thường xuyên đến cung điện để dạy Dhamma cho họ. Ānanda nhận thấy ở Mallikā một người học trò có năng khiếu và tiếp thu nhanh, rất tận tâm với công việc của mình; trong khi Vāsabhakhattiyā thì không được tận tụy như vậy với bổn phận của mình. Dhp­a.i.382f. Về một sự kiện liên quan đến chuyến viếng thăm cung điện của Ānanda, xem Vin.iv.158f.
+
+Sự hiểu biết của Mallikā về Dhamma đã khiến bà trở nên khôn ngoan hơn những gì mà Pasenadi mong muốn, và có lần, trong một khoảnh khắc vô cùng âu yếm, ngài đã hỏi liệu có ai thân thiết với bà hơn chính bản “ngã” của bà không. “Dạ không, tâu bệ hạ,” bà trả lời; nhà vua rõ ràng là rất thất vọng, bởi ngài đã tìm đến Đức Phật, người đã giải thích cho ngài rằng Mallikā, khi đưa ra câu trả lời đó, đã nói lên một sự thật vĩ đại (SN.i.75; Ud.v.1). Mallikā, mặc dù là một người vợ gương mẫu, nhưng không phải là không có những sai sót. Người ta có nhắc đến những cuộc cãi vã giữa bà với chồng mình, ít nhất là một lần, về vấn đề quyền lợi vợ chồng, kết quả là cả hai đều hờn dỗi nhau và phải được Đức Phật hòa giải. Ja.iv.437; cũng xem Ja.iii.20; trong những cuộc cãi vã này, nhà vua có lẽ đáng trách hơn là Mallikā; người ta nói rằng cho đến khi được Đức Phật hòa giải, ngài đã phớt lờ cả sự tồn tại của bà, ngài nói rằng sự hưng thịnh đã khiến bà kiêu ngạo.
+
+Dhammapada Commentary (Dhp­a.iii.119ff) kể lại một câu chuyện lố bịch về sự cư xử sai trái của bà với một con chó trong nhà tắm. Pasenadi là một nhân chứng cho cảnh tượng này, nhưng bà đã có thể thuyết phục ngài rằng đó là lỗi của hệ thống ánh sáng trong nhà tắm. Tuy nhiên, người ta nói rằng vào khoảnh khắc lâm chung, bà đã nhớ lại hành động sai trái này, và, kết quả là, bà đã tái sinh vào Avīci. Nhà vua bị choáng ngợp bởi nỗi đau buồn trước cái chết của Mallikā, và, sau khi hoàn tất các nghi thức tang lễ, ngài đã đến gặp Đức Phật để hỏi xem bà đã được tái sinh ở đâu. Đức Phật, không muốn ngài biết điều đó, đã khiến nhà vua quên mất câu hỏi, mỗi lần ngài đến *vihāra*, trong suốt cả một tuần, cho đến khi sự chịu khổ của Mallikā ở Avīci kết thúc; sau đó ngài mới cho phép câu hỏi được đặt ra, và ngài đã có thể đảm bảo với Pasenadi rằng bà đã được tái sinh ở Tusita và an ủi ngài trong nỗi đau buồn. Người ta kể lại (AN.iii.57) rằng Pasenadi đang viếng thăm Đức Phật thì một người đàn ông đến với thông báo thì thầm rằng hoàng hậu đã băng hà. Đó là một cú sốc khủng khiếp, “vai ngài chùng xuống, miệng há hốc, và ngài ngồi thẫn thờ, không thể thốt nên lời.”
+
+Mallikā đã có một người con gái với Pasenadi; không có sự đề cập nào về việc có một người con trai. Có lẽ đó là Vajīrī, người được nói đến là người con gái duy nhất của nhà vua (MN.ii.110). Ngài được cho là đã thất vọng khi nghe tin đứa trẻ là một bé gái; nhưng Đức Phật trấn an ngài rằng phụ nữ đôi khi còn khôn ngoan hơn đàn ông (SN.i.86f).
+
+Mallikā được nhắc đến (Mil. 115, 291) như là một trong bảy người mà những hành động sùng đạo của họ đã kết trái ngay trong kiếp sống này và danh tiếng của họ đã lan đến tận chư thiên. Chỉ có một ví dụ được ghi chép lại về việc Mallikā hỏi một câu hỏi đối với Đức Phật. Bà muốn biết tại sao một số phụ nữ thì xấu xí, số khác thì xinh đẹp, một số thì giàu có, và số khác lại nghèo khổ. Và Đức Phật đã giải thích cho bà những lý do cho sự khác biệt này (Xem Mallikāsutta 1).
+
+Trong Piyajātikasutta (MN.ii.106ff) Pasenadi được cho là đã chế nhạo bà bởi vì “vị sa-môn Gotama của bà” đã nói rằng những người thân yêu sẽ mang đến nỗi sầu muộn và sự khổ sở. “Nếu Thế Tôn đã nói như vậy, thì ắt hẳn phải là như vậy,” bà trả lời; nhưng lại bí mật cử Nālijaṅgha đi tìm hiểu từ chính Đức Phật xem ngài có nói như vậy không và tại sao. Sau khi biết được sự thật, bà lại đối mặt với Pasenadi, và cũng đã thuyết phục ngài rằng Đức Phật đã đúng.
+
+Mallikā có một khu vườn, gọi là Mallikārāma, ở trong đó có một Sảnh đường nằm giữa những cây Deispyros (*tindukācīra*) được dành riêng cho các cuộc thảo luận tôn giáo giữa các thành viên của những giáo phái khác nhau (*samayappavādaka*). MN.ii.22; MN­a.710; DN.i.178; xem Ekasālā.
+
+Mallikā được đồng nhất với Sujātā của Sujātajātaka (Ja 269, Ja.iii.22), vị *Kinnarī* trong Bhallāṭiyajātaka (Ja 504, Ja.iv.444) và Sambulā trong Sambulajātaka (Ja 519, Ja.v.98). Trong cả ba kiếp sống đó, Pasenadi đều là chồng của bà. Mallikā được đưa vào danh sách các *upāsikā* xuất chúng (AN.iv.348).
 
 ## Notes

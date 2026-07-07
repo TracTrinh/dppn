@@ -5,7 +5,7 @@ base_headword: "Kesakārī"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -29,6 +29,8 @@ After death she became one of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kesakārī. Một thiếu nữ người Bà-la-môn ở Bārāṇasī. Từng thấy một vị tỳ-kheo trẻ đi khất thực, cô đã hỏi mẹ tại sao những người đàn ông đang ở độ tuổi thanh xuân rực rỡ lại phải từ bỏ thế gian. Mẹ cô đã kể cho cô nghe về sự xuất hiện của Đức Phật trên thế gian. Một upāsaka tình cờ nghe được cuộc trò chuyện đã kể cho cô nghe nhiều hơn về Đức Phật và dạy cô về những pháp nương tựa (saraṇa) và các giới luật (sīla). Sau đó ông nói cho cô nghe về bản chất của thân thể, và cô, khi quán chiếu về điều đó, đã trở thành một Sotāpanna.
+
+Sau khi qua đời, cô trở thành một trong những nữ thị giả của Sakka, và câu chuyện của cô đã được Sakka kể lại cho Moggallāna nghe. Vv.i.17; Vv­a.86f.
 
 ## Notes

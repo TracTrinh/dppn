@@ -5,7 +5,7 @@ base_headword: "Khemavatī"
 disambiguator: "01"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -27,6 +27,6 @@ Khemavatī 01. The capital of King <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khemavatī 01. Thủ đô của vua Khemaṅkara và là nơi đản sanh của Kakusandha (DN.ii.7; Bv.xxii.13; Bv­a.209; Divy.242). Nó đôi khi được gọi là Khema, ví dụ: Ja.i.42.
 
 ## Notes

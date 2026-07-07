@@ -5,7 +5,7 @@ base_headword: "Sīhasutta"
 disambiguator: "04"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -24,6 +24,6 @@ Sīhasutta 04. Very similar to No. 2 above. AN.iv.79f.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhasutta 04. Rất giống với bài số 2 ở trên. AN.iv.79f.
 
 ## Notes

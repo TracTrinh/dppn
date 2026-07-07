@@ -5,7 +5,7 @@ base_headword: "Patiṭṭhāna"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Patiṭṭhāna. The capital of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Patiṭṭhāna. Thủ đô của Aḷaka, địa điểm đầu tiên mà các đệ tử của Bāvarī đi ngang qua trên đường họ đến Sāvatthī (Snp.vs.1011). Nơi này được đồng nhất với Baithana hoặc Paitana của Ptolemy.
 
 ## Notes

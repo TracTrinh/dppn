@@ -5,7 +5,7 @@ base_headword: "Sirivaḍḍha"
 disambiguator: "05"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sirivaḍḍha 05. An ascetic who gave grass for his seat to <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirivaḍḍha 05. Một vị khổ hạnh đã dâng cỏ làm chỗ ngồi cho Phussa Buddha. Ông vốn là một người giàu có và đã từ bỏ thế tục. Đức Phật đã thuyết pháp cho ông và các đệ tử của ông. Bv­a. 192,193.
 
 ## Notes

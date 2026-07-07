@@ -5,7 +5,7 @@ base_headword: "Vajjiyamāhita"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -27,6 +27,6 @@ Vajjiyamāhita. A householder of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vajjiyamāhita. Một cư sĩ ở Campā, một đệ tử sùng tín và thiện xảo của Đức Phật. Một lần, trên đường đến gặp Đức Phật tại hồ Gaggarā, ông thấy mình đến quá sớm và ghé vào tu viện của các du sĩ ngoại đạo gần đó. Các Paribbājakas hỏi ông liệu có thật rằng Đức Phật chế giễu mọi hình thức khổ hạnh và ẩn tu. Họ mô tả Đức Phật là một người thầy về giới luật mà bản thân không tuân theo (*venayika*) và là kẻ hủy hoại chúng sinh (*appaññattika*) (để giải thích các thuật ngữ này, xem AN­a.v.64). Vajjiyamāhita bác bỏ các lập luận của họ, khẳng định rằng Đức Phật tuyên thuyết điều gì là tốt và điều gì là xấu, và sự thật của giáo pháp Ngài có thể được chứng minh. Sau khi đã làm họ im lặng như vậy, ông đi tìm Đức Phật và kể lại cuộc đối thoại đó. Đức Phật tán dương ông và nói rằng điều không đúng là Ngài nản lòng tất cả mọi hình thức khổ hạnh và ẩn tu; những hình thức khổ hạnh nào dẫn đến sự đoạn tận các trạng thái bất thiện và thúc đẩy các trạng thái thiện, Ngài đón nhận và khuyến khích. Khi Vajjiyamāhita đã rời đi, Đức Phật nêu ông làm gương cho các tỳ-kheo về một cư sĩ tốt lành, có khả năng thảo luận hữu ích với những người theo các tín thuyết khác. AN.v.189ff.; see also AN.iii.451.
 
 ## Notes

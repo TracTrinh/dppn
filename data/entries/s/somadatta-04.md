@@ -5,7 +5,7 @@ base_headword: "Somadatta"
 disambiguator: "04"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Somadatta 04. An elephant calf. See the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Somadatta 04. Một vọi voi con. Xem Somadattajātaka (Ja 410).
 
 ## Notes

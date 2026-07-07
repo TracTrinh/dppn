@@ -5,7 +5,7 @@ base_headword: "Mālāgāma"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Mālāgāma. A village in Ceylon, given by <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mālāgāma. Một ngôi làng ở Tích Lan, được Kittisirirājasīha ban tặng cho Majjhapallivihāra. Cv.c.236; Cv.Trs.ii.293, n.5.
 
 ## Notes

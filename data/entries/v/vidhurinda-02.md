@@ -5,7 +5,7 @@ base_headword: "Vidhurinda"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vidhurinda 02. One of the brothers of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vidhurinda 02. Một trong những người anh em của Vedisadevī. Ông đã hộ tống cây Bồ-đề tới Tích Lan và được phong tước vị *Laṅkāparisuddhanāyaka*. Mbv.169.
 
 ## Notes

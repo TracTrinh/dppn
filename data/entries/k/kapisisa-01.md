@@ -5,7 +5,7 @@ base_headword: "Kapisīsa"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,6 @@ Kapisīsa 01. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kapisīsa 01. *v.l.* Kavisīsa. Một vị tướng quân người Tamil đã bị Duṭṭhagāmaṇī khuất phục tại Kacchatittha sau một cuộc bao vây kéo dài bốn tháng. Mhv.xxv.12
 
 ## Notes

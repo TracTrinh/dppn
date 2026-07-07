@@ -5,7 +5,7 @@ base_headword: "Kassapakārāma"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -29,6 +29,6 @@ Kassapakārāma (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapakārāma (Kassapārāma). Một tu viện ở Rājagaha, có lẽ gần Veḷuvana. Tại đây Assaji đã ở lại trong suốt căn bệnh cuối cùng của mình, khi Đức Phật đến thăm để an ủi ngài (SN.iii.125). Tu viện do một vị trưởng giả tên là Kassapa xây dựng. SN­a.ii.230.
 
 ## Notes

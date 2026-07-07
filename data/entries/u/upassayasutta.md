@@ -5,7 +5,7 @@ base_headword: "Upassayasutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -27,6 +27,6 @@ Upassayasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upassayasutta. Ānanda, với sự khó khăn lớn, thuyết phục Mahā Kassapa đi cùng mình đến một khu định cư của các tỳ-kheo-ni. Mahā Kassapa đến và thuyết pháp cho họ, nhưng Thullatissā, không hài lòng với bài pháp, đã mắng mỏ Mahā Kassapa vì những gì cô gọi là sự hỗn xược của ông khi thuyết pháp trong khi Ānanda đang có mặt. "Làm sao kẻ bán rong kim lại nghĩ rằng hắn có thể bán một chiếc kim cho người làm kim?" Kassapa rất buồn bực, và Ānanda xin được tha thứ nhân danh tỳ-kheo-ni đó, vì phụ nữ, ngài nói, thật ngu ngốc, và người ta phải khoan dung với họ. Kassapa nhắc nhở hội chúng rằng chính bản thân ông và không phải Ānanda mới được Đức Phật tuyên bố là người ngang hàng với Đức Phật trong việc chứng đắc các *jhāna*. SN.ii.214.
 
 ## Notes

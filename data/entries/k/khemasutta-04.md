@@ -5,7 +5,7 @@ base_headword: "Khemasutta"
 disambiguator: "04"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -23,6 +23,6 @@ Khemasutta 04. The Buddha preaches peace and the path thereto. SN.iv.371.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khemasutta 04. Đức Phật giảng về sự an tịnh và con đường dẫn đến điều đó. SN.iv.371.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kaccānapeyyāla"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -29,6 +29,6 @@ Kaccānapeyyāla. Mentioned in the <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaccānapeyyāla. Được nhắc đến trong Aṅguttara Commentary (AN­a.i.118) cùng với Madhupiṇḍikasutta và Pārāyaṇasutta như một bài thuyết giảng của Mahā Kaccāna, mà nhờ đó Đức Phật đã tuyên bố vị Trưởng lão này là người đệ nhất trong số những người có thể giải thích chi tiết những điều đã được nói tóm tắt. Sự đề cập này có lẽ nói đến Kaccānasutta.
 
 ## Notes

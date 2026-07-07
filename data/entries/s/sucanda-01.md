@@ -5,7 +5,7 @@ base_headword: "Sucanda"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sucanda 01. A palace occupied by <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sucanda 01. Một cung điện nơi Sikhī Buddha ngự trị trước khi Ngài xuất gia. Bv.xxi.16; Bv­a. (201) gọi nó là Sucandaka Siri.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kumuda"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kumuda 01. A *niraya* – strictly speaking, a period of suffering. It is equal 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một *niraya* (địa ngục) – nói đúng ra là một khoảng thời gian chịu đau khổ. Nó bằng mười hai Paduma. Vị tỳ-kheo Kokālika đã bị sinh vào *niraya* Kumuda. SN.i.152f; xem thêm Snp., p.126; Snp­a.ii.476.
 
 ## Notes

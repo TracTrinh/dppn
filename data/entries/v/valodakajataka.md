@@ -5,7 +5,7 @@ base_headword: "Vālodakajātaka"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -34,6 +34,10 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vālodakajātaka (Ja 183). Một thuở nọ Brahmadatta, vua xứ Benares, đi cùng một đội quân lớn để dẹp yên một cuộc nổi loạn ở vùng biên giới, và trên đường trở về, nhà vua ra lệnh cho bầy ngựa uống một ít nước ép nho. Những con ngựa đã uống và đứng yên lặng trong chuồng của chúng. Có một đống cặn bã nho không còn chút dưỡng chất nào, nhà vua ra lệnh đem nhào với nước, lọc qua, và cho những con lừa chở thức ăn cho ngựa uống. Bầy lừa uống xong, chạy nhảy lồng lộn và hí ầm ĩ. Nhà vua hỏi vị quan cận thần (Bodhisatta) nguyên nhân của chuyện này, và vị quan đáp rằng những kẻ thấp hèn thì thiếu đi sự tự chủ.
+
+Câu chuyện được kể liên quan đến một vài cậu bé, là những người theo hầu của các thiện tín ở Sāvatthī. Bản thân các thiện tín rất điềm tĩnh và tự chủ, nhưng những cậu bé này sau khi ăn xong liền chạy nhảy ầm ĩ dọc bờ sông Aciravatī. Họ được đồng nhất với những con lừa (Ja.ii.95f).
+
+Theo Dhammapada Commentary (Dhp­a.ii.154f) thì câu chuyện được kể lại sau khi các tỳ-kheo từ Verañjā trở về Sāvatthī. Những người theo hầu của họ vốn rất im lặng ở Verañjā, nơi có rất ít thức ăn, nhưng ở Sāvatthī họ đã ăn những thức ăn thừa của các tỳ-kheo và gây ồn ào rất lớn.
 
 ## Notes

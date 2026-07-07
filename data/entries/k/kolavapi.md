@@ -5,7 +5,7 @@ base_headword: "Kolavāpi"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -26,6 +26,6 @@ Kolavāpi. A tank dedicated by <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kolavāpi. Một hồ nước do Silāmeghavaṇṇa cung hiến cho pho tượng đá trong Abhayagiri Vihāra. Cv.xliv.69.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Siri"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Siri 01. One of the palaces of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Siri 01. Một trong các cung điện của Anomadassī Buddha trong kiếp làm cư sĩ cuối cùng của Ngài. Bv.viii.18.
 
 ## Notes

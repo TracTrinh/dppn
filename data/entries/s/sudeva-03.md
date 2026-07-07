@@ -5,7 +5,7 @@ base_headword: "Sudeva"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sudeva 03. *Aggasāvaka* of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudeva 03. Thượng thủ Thinh văn (*Aggasāvaka*) của Sujāta Buddha (Bv.xiii.25); nhưng xem *Deva*.
 
 ## Notes

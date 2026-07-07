@@ -5,7 +5,7 @@ base_headword: "Sindhavasandana"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Sindhavasandana. A king of twenty-seven *kappas* ago, a previous birth of <span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sindhavasandana. Một vị vua cách đây hai mươi bảy *kappa*, một tiền thân của Khomadāyaka Thera. Ap.i.81.
 
 ## Notes

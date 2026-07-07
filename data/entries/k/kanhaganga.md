@@ -5,7 +5,7 @@ base_headword: "Kaṇhagaṅgā"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kaṇhagaṅgā. The name of one part of the river which flows from <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇhagaṅgā. Tên của một phần của con sông chảy ra từ Anotatta. Khúc sông này dài sáu mươi do-tuần và chảy qua một lòng sông đầy đá. Snp-a.ii.439; AN­a.ii.760; Ud­a.302; MN­a.ii.586, v.v.
 
 ## Notes

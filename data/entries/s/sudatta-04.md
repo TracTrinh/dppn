@@ -5,7 +5,7 @@ base_headword: "Sudatta"
 disambiguator: "04"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sudatta 04. One of the chief lay patrons of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudatta 04. Một trong những nam thí chủ chính của Sobhita Buddha. Bv.vii.23.
 
 ## Notes

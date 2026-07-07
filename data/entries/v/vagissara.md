@@ -5,7 +5,7 @@ base_headword: "Vāgissara"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -27,6 +27,6 @@ Vāgissara. One of the Sinhalese envoys sent by <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vāgissara. Một trong các sứ giả người Tích Lan được Parakkamabāhu I. cử đến Rāmañña. Người bạn đồng hành của ông là Dhammakitti. Vua Rāmañña đặt họ lên một chiếc thuyền bị rò rỉ và cho về nước. Cv.lxxvi.32.
 
 ## Notes

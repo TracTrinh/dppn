@@ -5,7 +5,7 @@ base_headword: "Kumbhavagga"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -24,6 +24,6 @@ Kumbhavagga. The fifth chapter of the *Tikanipāta* of the <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Chương thứ năm của *Tikanipāta* của Jātaka Commentary. Ja.ii.431-51.
 
 ## Notes

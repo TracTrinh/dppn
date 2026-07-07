@@ -5,7 +5,7 @@ base_headword: "Vettavatī"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -34,6 +34,8 @@ In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vettavatī 01. Một con sông, có thể nằm trong vương quốc Mejjha. Theo Mātaṅgajātaka (Ja.iv.388; cf. Divy.451, 456), Mātaṅga đã sống trong một thảo am ở thượng nguồn dòng sông để hạ nhục sự kiêu hãnh của Jātimanta, người sống ở hạ nguồn. Trên bờ sông này có một thành phố, cũng được gọi là Vettavatī.
+
+Trong Milindapañhā (p.114), sông Vettavatī được nhắc đến như là một trong mười con sông chính chảy từ Himālaya. Nó có lẽ đồng nhất với con sông Vetravatī được nhắc đến trong Meghadūta của Kālidāsa, và được đồng nhất với sông Betuva ngày nay ở Bhopal (Vidīsa thời cổ đại).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mandāravapūjaka Thera"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -27,6 +27,6 @@ Mandāravapūjaka Thera. An *Arahant*. In the time of <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mandāravapūjaka Thera. Một Arahant. Vào thời Đức Phật Sikhī, ông là một thiên tử và đã dâng cúng Đức Phật những bông hoa *mandārava*, và những bông hoa đó vẫn như một tán che trên đầu Đức Phật suốt bảy ngày. Mười kappa trước, ông là một vị vua tên Jutindhara (Ap.i.178). Ông có lẽ đồng nhất với Usabha Thera. Thag­a.i.219.
 
 ## Notes

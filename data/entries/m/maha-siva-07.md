@@ -5,7 +5,7 @@ base_headword: "Mahā Sīva"
 disambiguator: "07"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -27,6 +27,6 @@ Mahā Sīva 07. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sīva 07. Trưởng lão Mahā Sīva. Chính vì ngài mà Aggabodhi I. đã xây dựng một *pariveṇa* và cả *vihāra* Kurunda với một hồ nước và một rặng dừa. Cv.xlii.11, 16.
 
 ## Notes

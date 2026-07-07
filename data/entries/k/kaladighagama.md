@@ -5,7 +5,7 @@ base_headword: "Kāḷadīghagāma"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -25,6 +25,6 @@ Kāḷadīghagāma. A village in Ceylon, evidently near <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷadīghagāma. Một ngôi làng ở Tích Lan, rõ ràng là gần Kalyāṇi Vihāra, vì các tỳ-kheo của *vihāra* này được cho là đã đến thăm ngôi làng để khất thực. Một cô gái trong làng có lần đã gặp một vị tỳ-kheo trẻ đến đó, và đã yêu tha thiết đến mức cô đã chết vì nỗi khao khát dành cho vị ấy; khi vị tỳ-kheo nhận ra những gì mình đã bỏ lỡ do không biết về tình yêu của cô, vị ấy cũng đã chết vì đau khổ. Snp-a.i.70; Ap­a.i.128; câu chuyện hơi khác một chút trong AN­a.i.13f.
 
 ## Notes

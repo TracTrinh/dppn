@@ -5,7 +5,7 @@ base_headword: "Sigālajātaka"
 disambiguator: "03"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -28,6 +28,8 @@ The story was told in reference to five hundred companions, rich men of <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sigālajātaka 03. (Ja 148). Bodhisatta từng sinh ra làm một con chó rừng, và, gặp xác một con voi chết, đã ăn từ phía sau và sống bên trong xác đó. Khi xác khô lại, nó trở thành tù nhân và cố gắng điên cuồng để thoát ra. Rồi một cơn bão nổi lên, làm ẩm bộ da và cho phép nó chui ra qua đầu, nhưng không tránh khỏi mất hết lông khi bò qua. Nó bèn quyết tâm từ bỏ lòng tham.
+
+Câu chuyện được kể liên quan đến năm trăm người bạn, những người giàu có ở Sāvatthī, đã gia nhập Saṅgha. Một đêm nọ, Đức Phật nhận thấy rằng họ đầy những ý nghĩ dục vọng. Ngài bèn sai Ānanda đi triệu tập tất cả các tỳ-kheo trong tu viện, và kể câu chuyện này để minh họa những hậu quả xấu xa của dục vọng. Năm trăm vị tỳ-kheo ấy đều trở thành *Arahant*. Ja.i.601f.
 
 ## Notes

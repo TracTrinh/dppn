@@ -5,7 +5,7 @@ base_headword: "Pañcālasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -28,6 +28,6 @@ Pañcālasutta. A discussion between <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcālasutta. Một cuộc thảo luận giữa Ānanda và Udāyī (Kāḷudāyi) liên quan đến một bài kệ do *Devaputta* Pañcālacaṇḍa thốt lên (Xem SN.i.48) về việc điều gì tạo thành những chướng ngại (*sambādha*) trên thế gian và điều gì là sự giải thoát khỏi chúng (*okāsādhigama*). Udāyī nói rằng năm dục là *sambādha*, và *okāsādhigama* bao gồm việc đạt được các *jhāna*. AN.iv.449f.; AN­a.ii.815.
 
 ## Notes

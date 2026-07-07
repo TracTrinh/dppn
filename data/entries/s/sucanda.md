@@ -5,7 +5,7 @@ base_headword: "Sucandā"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sucandā. Mother of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sucandā. Mẹ của Piyadassī Buddha và là vợ của Sudatta. Bv.xiv.15; Bv­a. (172) gọi bà là Candā.
 
 ## Notes

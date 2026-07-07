@@ -5,7 +5,7 @@ base_headword: "Verañjā"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -70,6 +70,18 @@ A road led from Verañjā to <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Verañjā. Một thị trấn nơi Đức Phật từng trải qua mùa an cư kiết hạ theo lời mời của vị Bà-la-môn Verañja (vào năm thứ mười hai, theo Buddhaghosa, ví dụ, AN­a.ii.758; cf. Bv­a.3). Verañja đến thăm Đức Phật dưới gốc cây Naḷerupucimanda, nơi ngài đang ở, và hỏi ngài một loạt câu hỏi, câu hỏi đầu tiên là: có đúng là Đức Phật không tôn trọng những người Bà-la-môn lớn tuổi hay không. Đức Phật trả lời rằng ngài chưa thấy một người Bà-la-môn nào trên toàn thế giới xứng đáng được ngài tôn trọng như vậy. Nếu Tathāgata tôn vinh bất kỳ ai như vậy, đầu của người đó sẽ vỡ tung thành nhiều mảnh. Những câu hỏi khác tiếp theo là về giáo lý và sự thực hành của Đức Phật. Đức Phật kết luận bằng cách đưa ra một lời tường thuật về việc ngài đạt được tam minh. Cuộc phỏng vấn kết thúc với sự quy y của Verañja và lời mời Đức Phật trải qua mùa an cư kiết hạ ở đó. Tại đây, ngài đã nói về Vijjāttaya, theo Ud­a (p. 183), bởi vì tất cả các tỳ-kheo đi cùng Đức Phật đều là những vị đắc lục thông (*chaḷabhiññā*), và do đó không cần phải đề cập đặc biệt đến *abhiññā*.
+
+Vào thời điểm đó có một nạn đói, và năm trăm gia chủ của Uttarāpatha, đang lưu trú tại Verañjā, đã cung cấp thức ăn cho các tỳ-kheo. Moggallāna đề xuất lấy thức ăn bằng cách thi triển thần thông của ngài hoặc bằng cách đi cùng các tỳ-kheo đến Uttarakuru, nhưng ngài đã bị Đức Phật can ngăn. Trong thời gian lưu trú này, Sāriputta đã nhận được từ Đức Phật một lời giải thích về lý do tại sao các hệ thống tôn giáo của ba vị Phật trước đó kéo dài rất lâu, trong khi của ba vị Phật trước đó nữa – Vipassī, Sikhī và Vessabhū - lại không.
+
+Vào cuối mùa *vassa*, Đức Phật muốn từ biệt Verañja trước khi khởi hành, như phong tục của chư Phật khi ngài nhận được lòng hiếu khách. Verañja thừa nhận rằng, mặc dù ông đã mời Đức Phật, nhưng ông đã không giữ lời hứa, và điều này là do ông có quá nhiều bổn phận trong nhà. Các nhà chú giải nói thêm rằng Verañja quên mất lời mời của mình vì Māra, trong một tâm trạng hằn học, đã chiếm giữ ông và tất cả cư dân của Verañja (Vin-a.i.178f; Dhp­a.ii.153; cf. Ja.iii.494).
+
+Ông đã mời Đức Phật và các tỳ-kheo đến dùng bữa vào ngày hôm sau, và, vào cuối bữa ăn, ông dâng tặng một bộ ba y cho Đức Phật và một cặp cho mỗi vị tỳ-kheo.
+
+Sau khi rời khỏi Verañjā, Đức Phật đến Benares, đi qua Soreyya, Saṅkassa và Kaṇṇakujja, và băng qua sông Ganges tại Payāgapatiṭṭhāna. Từ Benares ngài tiến đến Vesālī. Lời kể này, về chuyến thăm của Đức Phật đến Verañja, tạo thành phần giới thiệu cho Vinaya và được tìm thấy tại Vin.iii.1-11. Cuộc phỏng vấn với Verañja được đưa ra tại AN.iv.172ff. Con đường Đức Phật đi từ Verañjā đến Benares, theo Buddhaghosa (Vin-a.i.201), là con đường ngắn nhất, và Đức Phật biết các tỳ-kheo đã mệt mỏi sau những trải nghiệm của họ ở Verañjā. Ngay sau đó, ngài dường như đã đến thăm Kapilavatthu. Tại đó ngài đã được Mahā Nāma, người Sākyan viếng thăm, ông đã xin phép được thiết đãi ngài và các tỳ-kheo trong bốn tháng để họ có thể phục hồi sức khỏe. Vào cuối bốn tháng, ông đã lặp lại lời yêu cầu của mình, và do đó đã chăm sóc các tỳ-kheo trong một năm trọn vẹn. Chính hành động này đã mang về cho ông danh hiệu *aggo paṇītadāyakānaṁ* (AN.A.i.213).
+
+Người ta nói rằng (Snp­a.i.154; Mil. 232) các Devas đã đặt thêm hương vị (*ojā*) vào từng miếng thức ăn của Đức Phật tại Verañjā. Theo Apadāna, Bodhisatta được sinh ra trong một gia đình quý tộc vào thời của Phussa Buddha, và, có một lần, khi thấy các tỳ-kheo đang ăn thức ăn ngon, ngài đã mắng nhiếc họ và bảo họ ăn yến mạch (*yava*) (Ap.i.301; Ap­a.i.103f.; cf. Ud­a.265). Chính vì lý do này Đức Phật đã bị phạt phải ăn *yava* trong ba tháng tại Verañjā.
+
+Một con đường dẫn từ Verañjā đến Madhurā, và Aṅguttaranikāya (AN.ii.57f) có chứa một bài pháp do Đức Phật thuyết cho một số lượng lớn dân chúng trong khi ngài nghỉ chân bên vệ đường. Rõ ràng có sự qua lại thường xuyên giữa Sāvatthī và Verañjā, và Verañjakasutta (*q.v.*) đã được thuyết cho một số người Bà-la-môn đến viếng thăm Đức Phật tại Sāvatthī, nơi mà họ đã đến vì công việc. Những cuốn sách cũng ghi chép lại (AN.iv.198f) về một chuyến thăm của Asura Pahārāda đến gặp Đức Phật tại Verañjā. Vālodakajātaka (Ja 183, *q.v.*) và Cūḷa Sukajātaka (Ja 430, *q.v.*) đã được thuyết giảng ngay sau khi Đức Phật trở về từ Verañjā.
 
 ## Notes

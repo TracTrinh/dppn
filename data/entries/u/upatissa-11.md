@@ -5,7 +5,7 @@ base_headword: "Upatissa"
 disambiguator: "11"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Upatissa 11. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upatissa 11. Một Pacceka Buddha, được tìm thấy trong một danh sách tên (MN.iii.69). Tên này cũng được tìm thấy trong Apadāna (i.280; ii.454).
 
 ## Notes

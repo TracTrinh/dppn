@@ -5,7 +5,7 @@ base_headword: "Kusaṭṭhakadāyaka Thera"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kusaṭṭhakadāyaka Thera. An *Arahant*. In the time of <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một *Arahant*. Trong thời của Kassapa Buddha ngài là một Bà-la-môn và đã dâng cúng lên Đức Phật *kusaṭṭhaka* (tám nắm cỏ *kusa*?) (Ap.ii.416). Ngài hiển nhiên được đồng nhất với Migasira Thera. Thag­a.i.306.
 
 ## Notes

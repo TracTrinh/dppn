@@ -5,7 +5,7 @@ base_headword: "Sīhapura"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -32,6 +32,8 @@ Sīhapura 02. A town in <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhapura 02. Một thị trấn ở Lāḷa, từ đó Vijaya và những người theo ông đã đến Tích Lan. Nó được thành lập bởi Sīhabāhu, người trở thành vị vua đầu tiên của nó (Mhv.vi.35; Dpv.ix.4, 5, 43).
+
+Tilokasundarī, hoàng hậu của Vijayabāhu I., sinh ra tại Sīhapura (Cv.lix.46). Nó nằm về phía bắc của Kāliṅga. Địa hạt đông nam của Chutiā Nāgpur, phía tây Bengal, ngày nay vẫn còn được gọi là Siṅghabhūm. Cv.Trs.i.213, n.1.
 
 ## Notes

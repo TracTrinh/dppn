@@ -5,7 +5,7 @@ base_headword: "Upananda"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Upananda 02. A king of fifty-seven *kappas* ago; a previous birth of <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upananda 02. Một vị vua của năm mươi bảy kappa trước đây; một tiền kiếp của Trưởng lão Tindukadāyaka. Ap.i.201.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kāḷa Khemaka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -30,6 +30,6 @@ Kāḷa Khemaka. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷa Khemaka. Một người Sākyan. Tên của ông là Khemaka, nhưng vì ông có nước da ngăm đen nên ông được gọi là Kāḷa Khemaka. Ông đã xây dựng một tu viện ở Nigrodhārāma, gần Kapilavatthu, và có lần, trong thời gian may y, nhiều tỳ-kheo đã sống ở đó. Nhân dịp này Đức Phật đã thuyết giảng Mahā Suññatāsutta. MN.iii.109; MN­a.ii.906.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Senāsandāyaka Thera"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Senāsandāyaka Thera. An *Arahant* (Ap.i.137f). He is evidently identical with 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Senāsandāyaka Thera. Một vị *Arahant* (Ap.i.137f). Vị này rõ ràng đồng nhất với Channa Thera (*q.v.*). Thag­a.i.155.
 
 ## Notes

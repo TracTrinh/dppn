@@ -5,7 +5,7 @@ base_headword: "Sukhāya Sutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sukhāya Sutta. He who sees the world as ill, false and perishable, frees himsel
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sukhāya Sutta. Người nhìn thấy thế gian là đau khổ, dối trá và phù du, sẽ tự giải thoát bản thân mình khỏi nó. SN.iv.204.
 
 ## Notes

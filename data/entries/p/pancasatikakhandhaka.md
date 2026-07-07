@@ -5,7 +5,7 @@ base_headword: "Pañcasatikakhandhaka"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Pañcasatikakhandhaka. The eleventh section of the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcasatikakhandhaka. Phần thứ mười một của Cūḷa Vagga thuộc Vinayapiṭaka, nói về kỳ Đại Kết Tập thứ nhất.
 
 ## Notes

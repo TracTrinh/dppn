@@ -5,7 +5,7 @@ base_headword: "Paṭipannasutta"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Paṭipannasutta 02. By the completion and the fulfilment of the five *indriyas*
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṭipannasutta 02. Thông qua sự hoàn thiện và sự viên mãn của năm *indriya*, một người trở thành một *Arahant*; sự tu tập chúng ở một mức độ thấp hơn sẽ mang lại những thành tựu thấp hơn. SN.v.202.
 
 ## Notes

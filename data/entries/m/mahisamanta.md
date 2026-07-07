@@ -5,7 +5,7 @@ base_headword: "Mahisamanta"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -24,6 +24,6 @@ Mahisamanta. Long ago there were thirty-eight kings of this name, previous birth
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahisamanta. Rất lâu về trước, từng có ba mươi tám vị vua mang tên gọi này, là những tiền kiếp của Trưởng lão Isimuggadāyaka. Ap.i.194.
 
 ## Notes

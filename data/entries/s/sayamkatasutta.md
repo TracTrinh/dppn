@@ -5,7 +5,7 @@ base_headword: "Sayaṁkatasutta"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Sayaṁkatasutta. When one has right view, one knows that weal and woe are self 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sayaṁkatasutta. Khi có chánh kiến, người ta biết rằng hạnh phúc và khổ đau là do tự mình tạo ra, v.v. AN.iii.440.
 
 ## Notes

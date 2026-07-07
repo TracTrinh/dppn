@@ -5,7 +5,7 @@ base_headword: "Khānumata"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -29,6 +29,6 @@ Khānumata. A Brahmin village of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khānumata. Một ngôi làng của những người Bà-la-môn ở Magadha, được Bimbisāra ban tặng cho Kūṭadanta. Đức Phật đã từng lưu lại đó tại khu vườn Ambalaṭṭhika, và tại đó ngài đã thuyết giảng bài Kūṭadantasutta. DN.i.127.
 
 ## Notes

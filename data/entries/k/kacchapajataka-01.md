@@ -5,7 +5,7 @@ base_headword: "Kacchapajātaka"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -30,6 +30,10 @@ The story was told to a young man of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kacchapajātaka 01. (Ja 178). Câu chuyện về một con rùa không chịu rời khỏi cái hồ nơi nó sống dù tất cả những con rùa khác, vì biết sẽ có một đợt hạn hán, đã bơi kịp thời đến con sông lân cận. Khi hạn hán đến, nó tự vùi mình trong một cái hố. Tại đó nó bị đào lên bởi Bodhisatta, người đang đào đất sét, do ngài tái sinh làm một thợ gốm. Vỏ con rùa bị nứt bởi chiếc xẻng của người thợ gốm và nó chết, sau khi thốt ra hai bài kệ về sự ngu ngốc của việc bám víu quá nhiều vào mọi thứ. Bodhisatta mang xác nó vào làng và thuyết giảng cho dân làng.
+
+Câu chuyện được kể cho một thanh niên ở Sāvatthī, người mà khi dịch bệnh bùng phát trong nhà, đã nghe theo lời khuyên của cha mẹ và trốn thoát qua một cái lỗ trên tường. Khi nguy hiểm qua đi, anh quay lại cứu lấy kho báu được cất giấu trong nhà và, một ngày nọ, đến thăm Đức Phật với nhiều lễ vật.
+
+Ānanda được đồng nhất với con rùa trong câu chuyện. Ja.ii.79-81.
 
 ## Notes

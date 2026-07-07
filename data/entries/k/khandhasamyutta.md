@@ -5,7 +5,7 @@ base_headword: "Khandhasaṁyutta"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -26,6 +26,6 @@ Khandhasaṁyutta. The twenty-second chapter of the <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khandhasaṁyutta. Chương thứ hai mươi hai của Saṁyuttanikāya và là chương đầu tiên của Khandhavagga. Nó bao gồm một trăm năm mươi Sutta, được chia thành ba phần. Chương này chủ yếu đề cập đến năm khandha hoặc các yếu tố cấu thành. SN.iii.1-188.
 
 ## Notes

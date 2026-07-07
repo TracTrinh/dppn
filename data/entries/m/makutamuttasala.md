@@ -5,7 +5,7 @@ base_headword: "Makuṭamuttasālā"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Makuṭamuttasālā. A hall built in <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Makuṭamuttasālā. Một hội trường được dựng tại Anurādhapura ngay trên địa điểm nơi các cung nữ đã tháo bỏ đồ trang sức của họ ngay sau khi Duṭṭhagāmaṇī băng hà. Mhv.xxxii.78; Mhv­ṭ.601.
 
 ## Notes

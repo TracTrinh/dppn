@@ -5,7 +5,7 @@ base_headword: "Parivīmaṁsanasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Parivīmaṁsanasutta. A monk, when pondering on *dukkha*, realizes that it is t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parivīmaṁsanasutta. Một vị tỳ-kheo, khi chiêm nghiệm về *dukkha*, nhận ra rằng đó là kết quả của sự sinh, và vị ấy thực hành theo Pháp để mang lại sự chấm dứt của nó. Vị ấy chiêm nghiệm sâu hơn và thấu hiểu nguyên nhân gốc rễ của mọi sự vật; sau đó vị ấy nhận ra một trạng thái thoát khỏi sự sinh, sự hoại, tuổi già và cái chết, và vị ấy ý thức được sự chứng ngộ đó. SN.ii.80ff.
 
 ## Notes

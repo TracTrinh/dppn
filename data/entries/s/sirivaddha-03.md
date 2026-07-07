@@ -5,7 +5,7 @@ base_headword: "Sirivaḍḍha"
 disambiguator: "03"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sirivaḍḍha 03. An <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirivaḍḍha 03. Một Ājīvaka, người đã dâng cỏ làm chỗ ngồi cho Sumedha Buddha. Bv­a.164.
 
 ## Notes

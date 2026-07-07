@@ -5,7 +5,7 @@ base_headword: "Kulumbasutta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một bài thuyết pháp, có vẻ như được biết đến nhiều, nhưng không được đưa vào trong Ba Kỳ Kết Tập (*tisso saṅgīti*) (Vin-a.iv.742, 743).
+
+Atthasālinī (Dhs-a.91) đưa ra một đoạn trích từ đó và đề cập "đến một kẻ giết trẻ sơ sinh ở Kulumba." Trích dẫn nhằm chỉ ra rằng một hành động bằng thân cũng có thể phát sinh ở ý môn.
 
 ## Notes

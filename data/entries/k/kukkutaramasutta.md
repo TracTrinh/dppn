@@ -5,7 +5,7 @@ base_headword: "Kukkuṭārāmasutta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -28,6 +28,6 @@ Kukkuṭārāmasutta. Three *Suttas* which contain discussions between <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kukkuṭārāmasutta. Ba bài *Sutta* có chứa các cuộc thảo luận giữa Ānanda và Bhadda, tại Kukkuṭārāma ở Pāṭaliputta, về đời sống phạm hạnh (SN.v.15f).
 
 ## Notes

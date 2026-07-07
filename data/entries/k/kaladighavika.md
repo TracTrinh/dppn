@@ -5,7 +5,7 @@ base_headword: "Kāḷadīghāvika"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -25,6 +25,6 @@ Kāḷadīghāvika. A *padhānaghara* built by <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷadīghāvika. Một *padhānaghara* do Hatthadāṭha xây dựng. Cv.xlvi.46.
 
 ## Notes

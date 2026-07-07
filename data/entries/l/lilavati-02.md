@@ -5,7 +5,7 @@ base_headword: "Līlāvatī"
 disambiguator: "02"
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -29,6 +29,6 @@ Līlāvatī 02. Daughter of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Līlāvatī 02. Con gái của Vīravamma và Yasodharā, người sau là con gái của Vijayabāhu I. và hoàng hậu Līlāvatī. Bà kết hôn với Vikkamabāhu. Cv.lix. 28, 50. Xem Vikkamabāhu (2).
 
 ## Notes

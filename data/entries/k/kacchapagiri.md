@@ -5,7 +5,7 @@ base_headword: "Kacchapagiri"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kacchapagiri. Another name, according to the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kacchapagiri. Theo Mahā Vaṁsaṭīkā (Mhv­ṭ.652), đây là một tên gọi khác của Issarasamaṇavihāra. Nó có lẽ là một biến thể của Kassapagiri.
 
 ## Notes

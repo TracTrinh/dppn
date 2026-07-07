@@ -5,7 +5,7 @@ base_headword: "Sudhammā"
 disambiguator: "07"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sudhammā 07. Mother of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudhammā 07. Mẹ của Sobhita Buddha. Bv.vii.16; Ja.i.35.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Taṇhāsutta"
 disambiguator: "03"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Taṇhāsutta 03. The nine evil things which have their ultimate origin in *ta�
 
 ## Vietnamese translation
 
-Chưa dịch.
+Taṇhāsutta 03. Chín điều ác có nguồn gốc sâu xa từ *taṇhā*. AN.iv.400f.
 
 ## Notes

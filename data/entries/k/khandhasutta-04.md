@@ -5,7 +5,7 @@ base_headword: "Khandhasutta"
 disambiguator: "04"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -23,6 +23,6 @@ Khandhasutta 04. The Four Noble Truths in respect to the five *upādānakkhandha
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khandhasutta 04. Bốn Sự Thật Cao Quý liên quan đến năm upādānakkhandha. SN.v.425.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Korabya"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -39,6 +39,6 @@ Korabya, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Korabya, Koravya, Korabba. Có lẽ là tên chung được đặt cho vị vua của dân tộc Kuru (so sánh Brahmadatta). Một lần trong các Jātaka, Koravya được đưa ra như là tên của vị vua của Indapatta ở xứ Kuru, vị vua này là cha của Sutasoma (Ja.v.457). Ở nơi khác, Koravya xuất hiện như một danh xưng của Dhanañjaya, vua của dân tộc Kuru (Ja.ii.368; iii.400, 402; v.59, 61, 65; vi.256, 268, 273). Koravya cũng có thể đã được sử dụng như một tính từ, vì chúng ta thấy nó được giải thích là *Kururaṭṭha-vāsika* (ví dụ, Ja.vi.273). Vua Koravya có lẽ thuộc về *gotta* Yudhiṭṭhila (Xem Ja.iv.361). Aṅguttaranikāya (iii.369f) có đề cập đến một vị vua Koravya sở hữu một cây đa lớn tên là Suppatiṭṭha. Theo Raṭṭhapālasutta, vào thời Đức Phật, người cai trị xứ Kuru cũng được gọi là Koravyarājā, và ông sở hữu một khu vườn dường như được gọi là Migācīra (*xem mục này*) (MN.ii.65; xem thêm Thag.776.ff; Thag­a.ii.34; chi tiết xem Raṭṭhapāla). Vị vua này rõ ràng quan tâm đến các cuộc thảo luận tôn giáo. Thullakoṭṭhika là thủ đô của ông. Cuốn *Avadānaśataka* nói đến một vị Kauravya của Thullakoṭṭhika (i.67; ii.118; xem thêm *Cambridge History of India*, i.121, nói đến một vị vua Pañcāla nửa huyền thoại, Kraivya).
 
 ## Notes

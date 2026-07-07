@@ -5,7 +5,7 @@ base_headword: "Kāḷa"
 disambiguator: "05"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -26,6 +26,6 @@ Kāḷa 05. The name given by his wife to the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷa 05. Cái tên được vợ ông đặt cho Ājīvaka Upaka (Thīg­a.i.223) vì nước da ngăm đen của ông (Thīg­a.i.226).
 
 ## Notes

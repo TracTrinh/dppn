@@ -5,7 +5,7 @@ base_headword: "Seta"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Seta 01. The chief peak of the <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Seta 01. Đỉnh núi chính của Himālaya (SN.i.67 = Mil.242). Đây rõ ràng là một tên gọi khác của Kailāśa.
 
 ## Notes

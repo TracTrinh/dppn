@@ -5,7 +5,7 @@ base_headword: "Phāsusutta"
 disambiguator: "01"
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -24,6 +24,6 @@ Phāsusutta 01. The five abodes of comfort: the four *jhānas* and final emancip
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phāsusutta 01. Năm chỗ trú ngụ thoải mái: bốn *jhāna* và sự tâm giải thoát cứu cánh thông qua tuệ quán. AN.iii.119.
 
 ## Notes

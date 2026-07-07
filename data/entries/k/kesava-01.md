@@ -5,7 +5,7 @@ base_headword: "Kesava"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,6 @@ Kesava 01. An ascetic in <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kesava 01. Một đạo sĩ ở Himavā. Câu chuyện của ngài được kể trong Kesavajātaka. Ngài được xác định với Bakabrahma (Ja.iii.145; SN.i.144; SN­a.i.165; MN­a.i.555). Ngài đôi khi cũng được gọi là Kesī, ví dụ, Ja.iii.144, 362.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Paṇḍukābhaya"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -50,6 +50,8 @@ After establishing peace in the land, <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇḍukābhaya. Vua của Tích Lan (377-307 TR.TL.). Ngài là con trai của Dīghagāmaṇī và Ummādacittā và khi còn là trẻ sơ sinh ngài đã được cứu khỏi cái chết bởi Citta và Kāḷavela, những người sau này trở thành các Yakkha. Ngài được nuôi nấng bởi một người đàn ông ở Dvāramaṇḍalaka, nhưng nhiều lần các người chú của ngài, khi phát hiện ra nơi ở của ngài, đã cố gắng giết ngài, vì có lời tiên tri rằng ngài sẽ giết các chú của mình để giành lấy vương quốc. Lên mười sáu tuổi, ngài học việc với Bà-la-môn Paṇḍula, người đã dạy ngài nhiều nghệ thuật khác nhau và sau này cung cấp cho ngài số tiền cần thiết để xây dựng một đội quân. Con trai của Paṇḍula, Canda, được giao làm bạn và cố vấn cho Paṇḍukābhaya. Paṇḍukābhaya đã ép cưới một thiếu nữ tên là Suvaṇṇapālī, và tuyên chiến với các chú của mình, tất cả những người này, ngoại trừ người anh cả, Abhaya, đều quyết tâm giết ngài. Với sự giúp đỡ của *Yakkhinī* Cetiyā, người sống ở Dhūmarakkhapabbata, Paṇḍukābhaya đã chuẩn bị mọi thứ cho chiến dịch cuối cùng chống lại các chú của mình. Trong bốn năm ngài sống ở Dhūmarakkha, và sau đó bảy năm ở Ariṭṭhapabbata. Theo lời khuyên của Cetiyā, ngài đã dụ các chú của mình vào bẫy, và giết họ cùng những người theo họ tại Lābugāmaka. Sau đó ngài tiến đến Anurādhagāma, nơi ngài thiết lập thủ đô của mình, nơi từ đó trở đi, được gọi là Anurādhapura. Chú của ngài, Abhaya, được phong làm *Nagaraguttika*, và được giao quyền cai quản thành phố vào ban đêm.
+
+Sau khi thiết lập hòa bình trong nước, Paṇḍukābhaya tiến hành quy hoạch thủ đô của mình thành một thành phố, và trong số những công trình mà ngài xây dựng có các am thất cho những Nigaṇṭha Jotiya, Giri và Kumbhaṇḍa, và những nơi ở cho những người Ājīvaka, các Bà-la-môn, v.v. Ngài cũng vạch ranh giới các làng mạc trên toàn hòn đảo. Ngài cai trị trong bảy mươi năm, và qua đời ở tuổi 107. Người kế vị ngài là con trai ngài, Muṭasīva. Mhv.ix.28; x.1ff.; xi.1; Dpv.v.69, 81; x.9; xi.1-12.
 
 ## Notes

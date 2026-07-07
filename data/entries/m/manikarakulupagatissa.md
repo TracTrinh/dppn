@@ -5,7 +5,7 @@ base_headword: "Maṇikārakulūpagatissa"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -29,6 +29,8 @@ One day when the jeweller was chopping some meat, <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇikārakulūpagatissa. Một Trưởng lão đã thọ trai tại nhà của một người thợ kim hoàn ở Sāvatthī trong mười hai năm.
+
+Một ngày kia khi người thợ kim hoàn đang thái thịt, Pasenadi sai mang đến cho ông một viên đá quý để chùi bóng và xâu chuỗi. Người thợ kim hoàn cầm viên đá mà không lau tay và đặt vào hộp. Khi ông đi rửa tay, con diệc cưng của ông, tưởng đó là miếng thịt, liền nuốt vào. Tissa đang có mặt và thấy sự việc đó xảy ra. Người thợ kim hoàn không tìm thấy viên đá, bèn nghi ngờ Tissa và tra hỏi ông. Trưởng lão phủ nhận việc lấy viên đá, nhưng không nói gì về con diệc vì sợ nó bị giết. Người thợ kim hoàn nổi giận, và tin chắc rằng Tissa là kẻ trộm, bắt đầu tra tấn ông, bất chấp sự phản đối của vợ mình. Khi máu chảy ra từ thân của Trưởng lão, con diệc đến uống, nhưng người thợ kim hoàn đá nó và nó ngã xuống chết. Rồi Tissa mới kể cho người thợ kim hoàn biết những gì đã xảy ra. Diều của con diệc được mổ ra và viên đá được lấy lại. Người thợ kim hoàn đầy ăn năn và cầu xin Tissa tha thứ, được sẵn lòng tha, nhưng không lâu sau đó, Tissa viên tịch vào Nibbāna. Con diệc tái sinh vào bụng vợ của người thợ kim hoàn. Bà sau khi chết được tái sinh làm thiên nhân, còn người thợ kim hoàn tái sinh vào địa ngục. (Dhp­a.iii.34ff.)
 
 ## Notes

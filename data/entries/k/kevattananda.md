@@ -5,7 +5,7 @@ base_headword: "Kevaṭṭananda"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kevaṭṭananda. One of the <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kevaṭṭananda. Một trong số Nava Nandā.
 
 ## Notes

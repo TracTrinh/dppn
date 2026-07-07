@@ -5,7 +5,7 @@ base_headword: "Vāsuladatta"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -30,6 +30,6 @@ Vāsuladatta. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một Nāga của Mañjerikabhavana. Ông là cháu trai của Mahā Kāḷa, và khi Soṇuttara đi đến thế giới loài Nāga để lấy xá-lợi của Đức Phật cho Mahā Thūpa, Mahā Kāḷa đã ra hiệu cho Vāsuladatta giấu chúng. Vāsuladatta đã mang một hình dạng Nāga khổng lồ, dài ba trăm do-tuần, với cái đầu rộng một do-tuần, và sau khi nuốt chiếc tráp chứa các xá-lợi, đã nằm xuống ở dưới chân núi Sineru. Nhưng Soṇuttara, bằng năng lực *iddhi* của mình, đã thọc tay vào dạ dày của Nāga và lấy ra những xá-lợi vô hình đó. Mhv.xxxi.52ff.
 
 ## Notes

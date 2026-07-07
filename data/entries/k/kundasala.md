@@ -5,7 +5,7 @@ base_headword: "Kuṇḍasālā"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -28,6 +28,6 @@ Kuṇḍasālā. A suburb of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vùng ngoại ô của Sirivaḍḍhanapura (Kandy), trên bờ sông Mahā Vālukagaṅgā. Nó được xây dựng bởi Vua Narindasīha, người đã biến nơi đây thành nơi cư trú yêu thích của mình (Cv.xcvii.34). Kittisirirājasīha đã lên kế hoạch cho khu vườn của nó và dựng lên một *vihāra*. Cv.c.216f.
 
 ## Notes

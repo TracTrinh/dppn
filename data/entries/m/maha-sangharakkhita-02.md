@@ -5,7 +5,7 @@ base_headword: "Mahā Saṅgharakkhita"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -26,6 +26,6 @@ Mahā Saṅgharakkhita 02. A monk of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Saṅgharakkhita 02. Một tỳ-kheo của *vihāra* Corakaṇḍaka; một trong những vị đã nhận bữa ăn được dâng cúng bởi Hoàng tử Sāliya trong tiền kiếp của vị hoàng tử này là một thợ rèn. Mhv­ṭ. 606.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Khīragāma"
 disambiguator: "01"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -28,6 +28,6 @@ Khīragāma 01. A village in <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khīragāma 01. Một ngôi làng ở Rohaṇa, nơi lực lượng của Parakkamabāhu I đã chiến đấu chống lại quân nổi loạn (Cv.lxxiv.162f). Tại Khīragāma, hoàng hậu Ratnāvalī đã được hỏa táng, và trên địa điểm đó một *cetiya* đã được dựng lên. Cv.lxxix.71; xem thêm Cv.Trs.ii.36, chú thích số 2.
 
 ## Notes

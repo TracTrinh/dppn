@@ -5,7 +5,7 @@ base_headword: "Vātamigajātaka"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -34,6 +34,10 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhisatta từng sinh ra làm Brahmadatta, vua xứ Benares. Ông có một người làm vườn tên là Sañjaya. Một con *vātamiga* thường đến thăm khu vườn hoàng gia, và nhà vua yêu cầu Sañjaya bắt nó. Sañjaya đặt mật ong lên bãi cỏ nơi con vật ăn, và, vào thời điểm thích hợp, con vật đã đến ăn trên tay ông. Do đó, ông đã có thể dụ nó vào tận trong cung điện, nơi ông đóng cửa nhốt nó lại. Nhà vua kinh ngạc rằng một con *vātamiga*, vốn rất nhút nhát đến mức nếu nó từng nhìn thấy một người thì nó sẽ không đến thăm lại nơi đó trong một tuần sau đó, lại có thể để bản thân bị mắc bẫy bởi lòng tham.
+
+Câu chuyện được kể liên quan đến Cūḷa Piṇḍapātikatissa (*q.v.*), người đã bị dụ dỗ quay trở lại đời sống thế tục bởi một nữ tì. Sañjaya được đồng nhất với nữ tì và *vātamiga* với vị tu sĩ. Ja.i.156ff.
+
+Tuy nhiên, theo Bản chú giải Dhammapada (Dhp­a.iv.199), câu chuyện này được kể liên quan đến Sundarasamudda.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vāseṭṭha"
 disambiguator: "02"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vāseṭṭha 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vāsiṭṭha. Tên của một *ṛṣi* thời xưa được đánh giá cao vì kiến thức của mình. Ông là một trong những người khởi xướng các bài chú Vệ-đà. Vin.i.245; DN.i.104; MN.ii.164, 200; Mil.162, v.v.; xem Vasiṣṭha trong Vedic Index.
 
 ## Notes

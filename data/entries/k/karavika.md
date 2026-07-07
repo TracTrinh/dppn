@@ -5,7 +5,7 @@ base_headword: "Karavīka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -29,6 +29,6 @@ Karavīka. One of the seven mountains surrounding <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Karavīka. Một trong bảy ngọn núi bao quanh Sineru (Snp-a.ii.443; Vin-a.i.119; Vsm.206; Dhs­a.298). Giữa Karavīka và Īsādhara là Sīdantarasamudda. Ja.vi.125; xem thêm Mvu.ii.300, nơi nó được gọi là Khadiraka, và Divy.217, 450.
 
 ## Notes

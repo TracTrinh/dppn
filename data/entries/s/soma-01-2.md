@@ -5,7 +5,7 @@ base_headword: "Somā"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -39,6 +39,10 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Somā 01. Somā Therī. Bà là con gái của vị tế quan của vua Bimbīsāra. Khi trưởng thành, bà nhìn thấy Đức Phật trong lần đầu tiên Ngài đến thăm Rājagaha và trở thành nữ cư sĩ tại gia. Về sau, bà gia nhập Tăng đoàn, tu tập tuệ quán, và chứng đắc *Arahant*.
+
+Một ngày nọ, khi bà đang nghỉ trưa dưới gốc cây trong Andhavana, Māra, muốn quấy rầy sự đơn cô của bà, đến gần bà, vô hình trong không trung, và chọc giễu bà, nói về tri thức “hai ngón tay” của phụ nữ (Chú giải giải thích rằng phụ nữ khi nấu cơm, không biết cơm đã chín chưa mà không thử giữa hai ngón tay, do đó mà có cách nói này). Somā quở trách hắn, nói rằng việc là một người phụ nữ không phải là trở ngại cho việc thông hiểu Pháp (sự việc này cũng được ghi lại tại SN.i.129).
+
+Vo đthời Sikhī Buddha, Somā sinh ra trong gia đình của một quý tộc nổi bật và trở thành hoàng hậu chính của vua Aruṇavā (Thīg.vs.60-62; Thīg­a.66f). Phần còn lại câu chuyện của bà giống hệt với câu chuyện của Abhayā Therī (*q.v.*). Bà hiển nhiên đồng nhất với Uppaldāyikā trong Apadāna. Ap.ii.601f.
 
 ## Notes

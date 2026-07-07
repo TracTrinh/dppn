@@ -5,7 +5,7 @@ base_headword: "Vattakālaka"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vattakālaka. A village near <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngôi làng gần *vihāra* Girikaṇḍaka. Một cô gái của ngôi làng này đã bay vút lên bầu trời bằng sức mạnh của sự hỷ lạc khi nghĩ về Đức Phật. Cha mẹ cô đi đến tu viện, để cô ở nhà vì cô không đủ sức để đi bộ. Từ nhà mình cô nhìn thấy tu viện được thắp sáng và nghe các tu sĩ tụng kinh, và cô tràn ngập niềm hỷ lạc đến nỗi cô đã được dịch chuyển đến *vihāra*. Vsm.i.143f.; Dhs-a.116.
 
 ## Notes

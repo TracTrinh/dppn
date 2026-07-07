@@ -5,7 +5,7 @@ base_headword: "Parosatavagga"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Parosatavagga. The eleventh chapter of the *Ekanipāta* of the <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parosatavagga. Phẩm thứ mười một của *Ekanipāta* thuộc Jātaka Commentary Ja.i.410-24.
 
 ## Notes

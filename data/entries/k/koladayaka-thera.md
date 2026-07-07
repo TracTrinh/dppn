@@ -5,7 +5,7 @@ base_headword: "Koladāyaka Thera"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -26,6 +26,6 @@ Koladāyaka Thera. An *Arahant*. He was a hermit in the time of <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koladāyaka Thera. Một vị *Arahant*. Ngài từng là một đạo sĩ trong thời kỳ của Sikhī Buddha, và, khi nhìn thấy Đức Phật ở một mình, ngài đã dâng cho ngài một quả *kola* (táo ta) (Ap.ii.397). Ngài có lẽ đồng nhất với Gayā Kassapa. Thag­a.i.417.
 
 ## Notes

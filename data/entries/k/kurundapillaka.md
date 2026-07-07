@@ -5,7 +5,7 @@ base_headword: "Kurundapillaka"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -24,6 +24,6 @@ Kurundapillaka. A monastery in Ceylon. <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tu viện ở Ceylon. Potthakuṭṭha đã dựng một *pāsāda* ở đó (Cv.xlvi.21).
 
 ## Notes

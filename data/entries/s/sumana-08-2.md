@@ -5,7 +5,7 @@ base_headword: "Sumanā"
 disambiguator: "08"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sumanā 08. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumanā 08. Vợ của Siddhattha Buddha trong kiếp sống cư sĩ cuối cùng của ngài. Bv.xvii.15; Bv­a.185,187 gọi bà là Somanassā.
 
 ## Notes

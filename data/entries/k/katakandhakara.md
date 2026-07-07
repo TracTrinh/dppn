@@ -5,7 +5,7 @@ base_headword: "Kaṭakandhakāra"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -34,6 +34,6 @@ Kaṭakandhakāra. A monastery or a village where lived the Thera <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṭakandhakāra. Một tu viện hoặc một ngôi làng nơi Trưởng lão Phussadeva sinh sống, được nhắc đến trong bản phụ chú của Hatthipālajātaka (Ja.iv.490) và trong Mūgapakkhajātaka (Ja.vi.30; xem thêm Vsm.i.228). Có lẽ nơi ở này giống với Kaṭandhakāra được nhắc đến trong Cūḷa Vaṁsa (Cv.xlv.3). Kassapa II đã dành nhiều sự tôn kính cho một vị Trưởng lão không rõ tên sinh sống ở đó. Người ta nói rằng nhà vua đã cho ghi chép lại các văn bản thiêng liêng với một bản tóm tắt ngắn gọn để tôn vinh vị Trưởng lão này. Geiger cho rằng (Cv.Trs.i.89, n.4) Padhānaghara được gọi là Mahallarāja, công trình do Aggabodhi III, em trai của Kassapa II, xây dựng cùng với Yuvarāja Māna, vốn trực thuộc tu viện Katandhakāra.
 
 ## Notes

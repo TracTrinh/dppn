@@ -5,7 +5,7 @@ base_headword: "Khuddakatissa"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -33,6 +33,6 @@ Khuddakatissa (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khuddakatissa (Khuddatissa). Một vị Thera được ghi nhận có sức mạnh *iddhi* lớn lao. Ngài sống ở Maṅgana, và là một trong những người đã chia sẻ phần cháo kê chua mà Duṭṭhagāmaṇī cúng dường khi chạy trốn khỏi trận chiến. Khuddakatissa đã chia đều nó cho sáu mươi ngàn tỳ-kheo ở Kelāsavihāra (Mhv.xxxii.53f). Ngài là một trong những người *pacchāgatakā* (người đến muộn?) trong Hội chúng của Kuddālaka, Mūgapakkha, Ayoghara, và Hatthipāla (Ja.vi.30). Có lẽ ngài đồng nhất với Kujjatissa (*q.v.*).
 
 ## Notes

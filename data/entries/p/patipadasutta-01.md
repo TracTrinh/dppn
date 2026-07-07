@@ -5,7 +5,7 @@ base_headword: "Paṭipadāsutta"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Paṭipadāsutta 01. The Buddha teaches both the wrong way and the right way. SN
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṭipadāsutta 01. Đức Phật giảng dạy cả về con đường sai lầm lẫn con đường chân chính. SN.ii.4.
 
 ## Notes

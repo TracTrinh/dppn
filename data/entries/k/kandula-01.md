@@ -5,7 +5,7 @@ base_headword: "Kaṇḍula"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -35,6 +35,8 @@ He grew up to be of great strength. When <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇḍula 01. Con voi quốc gia của Duṭṭhagāmiṇī. Nó thuộc dòng dõi Chaddanta, và bị mẹ bỏ lại rồi được phát hiện bởi một ngư dân, tên là Kaṇḍula, người mà sau đó nó được đặt tên theo. Mhv.xxii.62f.
+
+Nó lớn lên và có sức mạnh to lớn. Khi cha của Duṭṭhagāmiṇī qua đời, người con trai út của ông, Tissa, đã chiếm lấy thái hậu và Kaṇḍula, con voi quốc gia, rồi bỏ trốn, nhưng trong trận chiến giữa hai anh em, Kaṇḍula đã giằng mình thoát khỏi Tissa và đi theo Duṭṭhagāmiṇī, người mà nó đã phục vụ cho đến cuối đời. Kaṇḍula đã đóng một vai trò nổi bật trong chiến dịch chống lại người Damiḷa, đặc biệt làm rạng danh bản thân trong cuộc bao vây Vijitapura (Mhv.xxiv.15, 89). Trong trận chiến tay đôi giữa Eḷāra và Duṭṭhagāmiṇī, Kaṇḍula đã tấn công con voi của Eḷāra, Mahā Pabbata, và vô hiệu hóa nó (Mhv.xxv.5-83). Người ta nói rằng có lần chiến binh Nandhimitta đã tóm lấy ngà của Kaṇḍula và ép nó phải quỳ xuống bằng hai chân sau, và Kaṇḍula đã nuôi hận ông ta cho đến khi Nandhimitta cứu nó khỏi bị đè bẹp dưới một tháp cổng đổ sập lên người nó trong cuộc tấn công của nó vào Vijitapura. Mhv.xxv.22, 39f.; xem thêm Dpv.xviii.53; Mbv.133.
 
 ## Notes

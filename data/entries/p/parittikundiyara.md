@@ -5,7 +5,7 @@ base_headword: "Parittikuṇḍiyāra"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Parittikuṇḍiyāra. A <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parittikuṇḍiyāra. Một thủ lĩnh Damiḷa, đồng minh của Kulasekhara. Cv.lxxvi.137, 221.
 
 ## Notes

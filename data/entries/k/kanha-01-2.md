@@ -5,7 +5,7 @@ base_headword: "Kaṇhā"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -38,6 +38,8 @@ By her strong passions she won the love of them all. Not satisfied with them, sh
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇhā 01. Con gái của vua xứ Kosala. Trước khi cô ra đời, Brahmadatta, vua xứ Benares, đã giết cha cô và bắt cóc mẹ cô. Khi đứa bé ra đời, Brahmadatta đã nhận cô làm con gái của chính mình; do đó, cô được gọi là *dvepitikā* (=có hai cha). Nhà vua hứa sẽ ban cho cô một ân huệ, và cô đã tổ chức một lễ kén rể (*svayaṁvara*), tại đó cô đã chọn tất cả năm người con trai của Vua Paṇḍu làm chồng mình; Ajjuna, Bhīma, Nakula, Yuddhiṭṭhila, và Sahadeva. Theo *Mahā Bhārata*, Draupadī, con gái của vua Pañcāla, là vợ của năm vị vương tử này.
+
+Bằng những nhục dục mạnh mẽ của mình, cô đã giành được tình yêu của tất cả họ. Chưa thỏa mãn với họ, cô còn ân ái với một người nô lệ gù lưng đang hầu hạ cô. Một ngày nọ, khi cô bị ốm, tất cả các người chồng của cô đều tụ tập quanh cô, và cô đã ra dấu hiệu cho từng người trong số họ để cho thấy rằng cô yêu người đó nhất. Tuy nhiên, Ajjuna đã nghi ngờ, và bằng cách tra hỏi người gù lưng, đã biết được sự thật. Năm anh em đã rời bỏ cô và lui về Himālaya, nơi họ trở thành những đạo sĩ. Câu chuyện được kể bởi Kuṇāla, người được đồng nhất với Ajjuna. Ja.v.424, 426f.
 
 ## Notes

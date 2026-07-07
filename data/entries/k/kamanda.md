@@ -5,7 +5,7 @@ base_headword: "Kāmaṇḍā"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -27,6 +27,6 @@ Kāmaṇḍā. A village in which was the mango-grove of <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāmaṇḍā. Một ngôi làng, nơi có vườn xoài của Todeyya. Udāyī từng ở lại đó và được đến thăm bởi một đệ tử nội trú của nữ Bà-la-môn thuộc gia tộc Verahaccāni. SN.iv.121f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kukkuṭagiripariveṇa"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -32,6 +32,10 @@ The place is also referred to as the <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kukkuṭagiripariveṇa. Một dãy phòng do Kaniṭṭhatissa xây dựng sau khi ông đã phá hủy các ranh giới của Mahā Vihāra (Mhv.xxxvi.10).
+
+Chúng sau đó được Mahā Sena trùng tu lại (Mhv.xxxvii.15; Mhv­ṭ.678).
+
+Nơi này cũng được gọi là Kukkuṭārāma (ví dụ, Mhv.xxxvii.15).
 
 ## Notes

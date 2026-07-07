@@ -5,7 +5,7 @@ base_headword: "Upasamā Therī"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,6 @@ Upasamā Therī. She was born in a <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upasamā Therī. Cô được sinh ra trong một gia đình Sākyan ở Kapilavatthu và trở thành một tỳ nữ trong triều đình của Bồ-tát. Sau đó, cùng với Pajāpatī Gotamī, cô từ bỏ thế tục và gia nhập Tăng đoàn. Một ngày nọ, trong khi cô đang thiền định, Đức Phật phóng ra một tia sáng vinh quang và khuyên bảo cô. Cô, ngay lập tức, phát triển tuệ quán và trở thành một *Arahant*. Thīg.v.10; Thīg­a.12f.
 
 ## Notes

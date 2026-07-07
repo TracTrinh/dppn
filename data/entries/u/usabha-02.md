@@ -5,7 +5,7 @@ base_headword: "Usabha"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -30,6 +30,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Usabha 02. Ông sinh ra trong một gia đình người Sākyan ở Kapilavatthu. Khi Đức Phật đến thăm gia đình ông, Usabha đã nhìn thấy uy lực và trí tuệ của ngài và gia nhập Tăng đoàn. Nhưng ông không làm tròn bất kỳ phận sự tôn giáo nào, trải qua ban ngày trong việc tụ tập giao du và ban đêm trong giấc ngủ. Một đêm nọ, ông mơ thấy mình cạo đầu, mặc một chiếc y màu đỏ sẫm, và, ngồi trên một con voi, đi vào thị trấn để khất thực. Tại đó, khi thấy mọi người tụ tập lại với nhau, ông xuống voi, tràn đầy sự xấu hổ. Ngập tràn nỗi sầu khổ khi nghĩ đến sự hồ đồ của chính mình, ông nỗ lực tinh tấn hướng đến tuệ giác và trở thành một Arahant (Thag.197-8; Thag­a.i.319f).
+
+Vào thời của Sikhī Buddha, ông là một gia chủ và đã dâng lên Đức Phật một quả kosamba. Ông rõ ràng đồng nhất với Kosambaphaliya của Apadāna. Ap.ii.449.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kumāribhūtavagga"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kumāribhūtavagga. The eighth section of the <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phần thứ tám của Bhikkhunī Pācittiya. Vin.iv.327-37.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Koṭṭhasāra"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -35,6 +35,8 @@ Later, the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koṭṭhasāra. Một ngôi làng ở phía đông của Pulatthipura. Nó từng là nơi ẩn náu của Vikkamabāhu II. (Cv.lxi.43) và, lần nữa, là của Gajabāhu (Cv.lxx.355). Sau cái chết của Gajabāhu, các đại thần của ông đã mang thi thể của ông đến Koṭṭhasāra, và ngôi làng đã trở thành đại bản doanh của Māṇābharaṇa (Cv.lxxi.6, 11). Có một đồn bót ở trong làng dành cho những người lính đánh thuê, đặc biệt là người Keraḷa, và đồn bót này đã từng nổi dậy chống lại Parakkamabāhu I. (Cv.lxxiv.44).
+
+Sau đó, những người Damiḷa, Māgha và Jayabāhu, đã dựng lên một pháo đài ở đó (Cv.lxxxiii.15; xem thêm Cv.Trs.i.229, n.1). Nó rõ ràng là một điểm có tầm quan trọng chiến lược.
 
 ## Notes

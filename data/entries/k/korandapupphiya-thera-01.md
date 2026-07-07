@@ -5,7 +5,7 @@ base_headword: "Koraṇḍapupphiya Thera"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -27,6 +27,6 @@ Koraṇḍapupphiya Thera 01. An Arahant. Ninety-one *kappas* ago he saw the foo
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koraṇḍapupphiya Thera 01. Một vị Arahant. Chín mươi mốt *kappa* trước, ngài đã nhìn thấy dấu chân của Vipassī Buddha và đã dâng cúng cho dấu chân đó một cây *koraṇḍa* đang nở hoa. Năm mươi bảy *kappa* trước, ngài là một vị vua tên là Vītamala (Ap.i.206). Ngài có lẽ được đồng nhất với Ramanīyavihārī. Thag­a.i.116.
 
 ## Notes

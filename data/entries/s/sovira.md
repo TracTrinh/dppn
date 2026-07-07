@@ -5,7 +5,7 @@ base_headword: "Sovīra"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -37,6 +37,12 @@ Sovīrajātaka. See the Ādittajātaka (Ja 424).
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sovīra. Một quốc gia được đề cập trong Mahā Govindasutta (DN.ii.235), và một lần nữa trong Ādittajātaka (Ja 424). (Ja.iii.470; cf. Mil.359, nơi mà nó được nhắc đến như một nơi có thể đến thăm bằng đường biển). Vào thời Vua Reṇu, Bharata là vua của Sovīra, và Roruka là thủ đô của nó.
+
+Cunningham nhận diện Sovīra với Eder, một quận thuộc tỉnh Gujarat, ở phần đầu của vịnh Cambay (*Ancient Geography of India*, p.569f.; ông nhận diện Sauvīra với Sophir hoặc Ophir; cf. Hopkins, Great Epic, 373, 474.).
+
+Từ ghép Sindhusovīra (ví dụ, Vv-a.332) gợi ý rằng Sovīra nằm giữa vùng Indus và Jhelum.
+
+Sovīrajātaka. Xem Ādittajātaka (Ja 424).
 
 ## Notes

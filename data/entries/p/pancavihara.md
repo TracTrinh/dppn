@@ -5,7 +5,7 @@ base_headword: "Pañcavihāra"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Pañcavihāra. A place near <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcavihāra. Một địa điểm gần Pulatthinagara, nơi Parakkamabāhu I và những người theo ông đã rút lui trong khi chờ cơ hội thuận lợi để tiến quân chống lại Māṇābharaṇa. Cv.lxxii.116f.
 
 ## Notes

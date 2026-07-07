@@ -5,7 +5,7 @@ base_headword: "Rucirajātaka"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rucirajātaka (Ja 275). The story of a pigeon (the Bodhisatta) and a greedy crow
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rucirajātaka (Ja 275). Câu chuyện về một con chim bồ câu (tiền kiếp của Bodhisatta) và một con quạ tham lam. Câu chuyện này giống hệt với câu chuyện của Lolajātaka (Ja 274).
 
 ## Notes

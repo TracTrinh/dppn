@@ -5,7 +5,7 @@ base_headword: "Siṅgāla"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -27,6 +27,6 @@ Siṅgāla. One of the four leading merchants of <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Siṅgāla. Một trong bốn thương nhân hàng đầu của Pupphavatī (Benares) vào thời Ekarāja. Ja.vi.135.
 
 ## Notes

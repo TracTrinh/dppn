@@ -5,7 +5,7 @@ base_headword: "Phaladāyaka Thera"
 disambiguator: "05"
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -26,6 +26,6 @@ Phaladāyaka Thera 05. An *Arahant*. In the time of <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phaladāyaka Thera 05. Một *Arahant*. Trong thời của Đức Phật Vipassī ngài là một ẩn sĩ sống trên bờ sông Bhāgīrathī và đã dâng cúng cho Đức Phật tất cả số trái cây ngài đã hái lượm được cho bữa ăn của chính mình. Ap.i.250.
 
 ## Notes

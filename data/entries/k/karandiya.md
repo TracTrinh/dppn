@@ -5,7 +5,7 @@ base_headword: "Kāraṇḍiya"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -26,6 +26,6 @@ Kāraṇḍiya (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāraṇḍiya (Kāraṇḍika). Một thanh niên sinh viên Bà-la-môn, là Bodhisatta. Câu chuyện của ông được kể lại trong Kāraṇḍiyajātaka (Ja 356).
 
 ## Notes

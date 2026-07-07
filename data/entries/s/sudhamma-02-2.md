@@ -5,7 +5,7 @@ base_headword: "Sudhammā"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -28,6 +28,6 @@ Sudhammā 02. The queen consort of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudhammā 02. Vương hậu của Reṇu, vị vua của Uttarapañcāla. Xem Somanassajātaka (Ja 505). Bà được đồng nhất với Mahā Māyā. Ja.i.453.
 
 ## Notes

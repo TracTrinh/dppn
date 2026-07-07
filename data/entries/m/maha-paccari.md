@@ -5,7 +5,7 @@ base_headword: "Mahā Paccarī"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Paccarī. An old Commentary on the *Tipiṭaka*, used by <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Paccarī. Một bộ Chú giải cổ về *Tipiṭaka*, được Buddhaghosa sử dụng trong việc biên soạn các tác phẩm của mình. Nó thường được đề cập trong Samantapāsādika và những lời bình của nó được trích dẫn. Truyền thống nói rằng nó được gọi như vậy vì nó được biên soạn trên một chiếc bè, ví dụ như Vin-a.i.283; iii.527, 536, 553, 615; iv. 763, 770, 776, 778, 782, 803, 806, 807, 813, 861, 914, 923, v.v.
 
 ## Notes

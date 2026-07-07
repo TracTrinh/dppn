@@ -5,7 +5,7 @@ base_headword: "Sirisaṅghabodhivihāra"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -27,6 +27,6 @@ Sirisaṅghabodhivihāra 01. A monastery, built by <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirisaṅghabodhivihāra 01. Một tu viện, do Meghavaṇṇābhaya xây dựng, về phía nam của Issarasamaṇavihāra và tại địa điểm nơi thi thể của Saṅghabodhi (xem từ này) được hỏa táng. Mhv­ṭ. 671.
 
 ## Notes

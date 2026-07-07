@@ -5,7 +5,7 @@ base_headword: "Upasiri"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Upasiri 02. A palace similarly occupied by <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upasiri 02. Một cung điện tương tự được cư ngụ bởi Đức Phật Sujāta. Bv.xiii.21.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Venigāma"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Venigāma. The Chief of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Venigāma. Người cai trị Cūḷa Nāga. Ambāmacca là con trai của ông. Ras.ii.145.
 
 ## Notes

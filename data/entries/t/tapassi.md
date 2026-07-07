@@ -5,7 +5,7 @@ base_headword: "Tapassī"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tapassī. An envoy sent by the king of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tapassī. Một phái viên được nhà vua Rāmañña gửi đến cho Parakkamabāhu I. Cv.lxxvi.23.
 
 ## Notes

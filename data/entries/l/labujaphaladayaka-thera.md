@@ -5,7 +5,7 @@ base_headword: "Labujaphaladāyaka Thera"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -25,6 +25,6 @@ Labujaphaladāyaka Thera. An *Arahant* (Ap.i.295). The story given is identicall
 
 ## Vietnamese translation
 
-Chưa dịch.
+Labujaphaladāyaka Thera. Một vị *Arahant* (Ap.i.295). Câu chuyện được kể hoàn toàn giống hệt như câu chuyện của Labujadāyaka (*q.v.*).
 
 ## Notes

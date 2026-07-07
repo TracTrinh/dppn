@@ -5,7 +5,7 @@ base_headword: "Soṇa"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -29,6 +29,6 @@ Soṇa 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Soṇa 02. Soṇa Thera. Kẻ thù và đối thủ của Piyadassī Buddha, tương đương với Devadatta. Ông đã cấu kết với Mahā Paduma để giết Đức Phật, nhưng không thành công. Bv­a.174f.; chi tiết xem Piyadassī.
 
 ## Notes

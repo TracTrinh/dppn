@@ -5,7 +5,7 @@ base_headword: "Ussada"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -34,6 +34,12 @@ In the scholiast to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ussada. Một địa ngục (Niraya). Nó giống như một thành phố có bốn cổng và một bức tường thành. Mittavindaka, khi đến Ussaka trong những cuộc lang thang của mình, đã nhìn thấy ở đó một người đàn ông đang đội một bánh xe sắc như dao cạo, mà đối với Mittavindaka nó lại trông giống như một bông hoa sen. Mittavindaka đã lấy nó từ người kia, và rồi nhận ra nó là gì, bèn cố gắng trốn thoát, nhưng không thành công. Đây là nỗi đau khổ mà những người đã đánh đập mẹ mình phải trải qua. Sakka, trong một chuyến viếng thăm Ussaka, đã nhìn thấy Mittavindaka, nhưng không thể làm gì cho anh ta (Ja.iv.3f; iii.206f).
+
+Ussada được coi là một nơi có nhiều sự đau khổ lớn (ví dụ: Ja.iv.403), và cũng là nơi mà những kẻ, đã hứa tặng một món quà nhưng lại không tặng nó, bị sinh vào (Ja.iv.405). Có lần Bodhisatta đã sinh ra trong Ussada, vì sự tàn ác trong thời gian ngài trị vì với tư cách là vua xứ Benares, và ngài đã phải chịu đau khổ trong tám mươi ngàn năm (Ja.vi.2). Chúng sinh được sinh ra ở đó bị đâm thủng lưỡi bằng những chiếc móc đỏ rực và bị kéo lê trên một sàn nhà bằng kim loại nung nóng (Ja.vi.112).
+
+Trong phần chú thích cho Matakabhattajātaka (Ja.i.168) có sự đề cập đến mười sáu Ussada-nirayā.
+
+Revatī (q.v.) có lần đã bị ném vào Ussada-nirayā. Vv-a.223.
 
 ## Notes

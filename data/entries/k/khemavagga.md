@@ -5,7 +5,7 @@ base_headword: "Khemavagga"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -24,6 +24,6 @@ Khemavagga. The sixth chapter of the *Navakanipāta* of the <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khemavagga. Phẩm thứ sáu của phần *Navakanipāta* trong Aṅguttaranikāya. AN.iv.455f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Majjhima Kāḷa"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -30,6 +30,8 @@ He had four crores. Dhp­a.i.66, 73.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Majjhima Kāḷa. Người con thứ hai trong ba anh em đều tên là Kāḷa, người xứ Setavyā. Cūḷa Kāḷa và Mahā Kāḷa, người em út và người anh cả, thường đi lại cùng với các đoàn lữ hành và kiếm hàng hóa, rồi được Majjhima Kāḷa bán giúp họ.
+
+Ông có bốn crore tài sản. Dhp­a.i.66, 73.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kandarakasutta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,6 @@ Kandarakasutta. Once, when the Buddha was at <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kandarakasutta. Có một lần, khi Đức Phật đang ở Campā, trên bờ hồ Gaggarā, ngài đã được Pessa, con trai của người huấn luyện voi, và du sĩ Kandaraka đến thăm. Pessa đảnh lễ Đức Phật và ngồi xuống, trong khi Kandaraka, sau lời chào của mình, vẫn đứng. Quan sát hội chúng tỳ-kheo tụ tập quanh Đức Phật và nhận thấy sự im lặng tuyệt đối của họ, Kandaraka bày tỏ sự ngưỡng mộ của mình đối với sự rèn luyện của Đức Phật. Đức Phật giải thích rằng tất cả chư Phật đều huấn luyện đệ tử của mình trong bốn niệm xứ (*satipaṭṭhāna*). Pessa nói rằng việc huấn luyện con người khó khăn hơn nhiều so với động vật. Đức Phật đồng ý và liệt kê bốn loại người trên thế gian: những người hành hạ bản thân, hành hạ kẻ khác, hành hạ cả bản thân và kẻ khác, và cuối cùng là những người không hành hạ ai cả, sống vượt ra khỏi các dục vọng, trong niềm an lạc và sự thánh thiện. Pessa tuyên bố rằng anh chỉ tôn trọng hạng người thứ tư, và sau khi đưa ra lý do của mình, anh đã rời đi. Đức Phật bày tỏ sự tiếc nuối rằng Pessa không thể nán lại để nghe về những sự khác biệt giữa bốn loại người này; và theo lời thỉnh cầu của các tỳ-kheo, Đức Phật đã tiếp tục mô tả về họ (MN.i.339ff).
 
 ## Notes

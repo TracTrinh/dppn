@@ -5,7 +5,7 @@ base_headword: "Linatthadīpanī"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -26,6 +26,6 @@ Linatthadīpanī. A *ṭīkā* by <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Linatthadīpanī. Một *ṭīkā* của Vācissara về Paṭisambhidāmagga. PLC.217.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sīhā Therī"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -28,6 +28,6 @@ Sīhā Therī. She was the niece of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhā Therī. Bà là cháu gái của Sīhasenāpati và sinh ra ở Vesālī. Một ngày nọ, bà nghe Gotama Buddha thuyết pháp cho Sāriputta, và gia nhập Saṅgha với sự đồng ý của cha mẹ. Trong bảy năm, bà cố gắng, không thành công, để tập trung tâm trí. Rồi bà buộc một sợi dây thòng lọng quanh cổ mình và cột đầu kia vào một gốc cây, và trong tư thế này bà ép tâm mình đạt được tuệ quán. Sau đó bà tháo sợi dây thòng lọng ra. Thīg.vss.77-81; Thīg­a.79.
 
 ## Notes

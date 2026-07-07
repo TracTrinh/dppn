@@ -5,7 +5,7 @@ base_headword: "Tathāgatasuttā"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tathāgatasuttā. A group of *Suttas* in which the simile of the <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tathāgatasuttā. Một nhóm các *Sutta* trong đó hình ảnh so sánh về Tathāgata, vốn là người tối thượng nhất của tất cả mọi loài chúng sinh, được lặp đi lặp lại. SN.v.41ff; lặp lại tại v.135.
 
 ## Notes

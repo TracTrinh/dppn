@@ -5,7 +5,7 @@ base_headword: "Kassakasutta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kassakasutta. Once the Buddha was at <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassakasutta. Một lần Đức Phật đang ở Sāvatthī thuyết giảng cho các tỳ-kheo về Nibbāna. Māra xuất hiện trong lớp vỏ bọc của một người nông dân, đầu tóc rối bù, mặc quần áo bằng gai, với một cái cày khổng lồ trên vai, và hỏi Đức Phật xem ngài có nhìn thấy những con bò của ông ta không. Đức Phật tuyên bố, một cách rõ ràng, rằng ngài không có đôi mắt đối với những thứ được sở hữu; đã hoàn toàn trốn thoát khỏi những khao khát trần tục, sự chiếm hữu và quyền sở hữu, tâm trí ngài không cung cấp một lối vào nào cho Māra. SN.i.114.
 
 ## Notes

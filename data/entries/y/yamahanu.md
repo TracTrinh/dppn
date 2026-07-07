@@ -5,7 +5,7 @@ base_headword: "Yāmahanu"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -24,6 +24,6 @@ Yāmahanu. One of the seven sages who lived the holy life and were reborn in the
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yāmahanu. Một trong bảy vị hiền triết đã sống đời sống phạm hạnh và được tái sinh vào cõi *Brahma*. Ja.vi.99.
 
 ## Notes

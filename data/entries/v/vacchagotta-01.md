@@ -5,7 +5,7 @@ base_headword: "Vacchagotta"
 disambiguator: "01"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -52,6 +52,10 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="27" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vacchagotta 01. Một Paribbājaka, về sau trở thành Arahant Trưởng lão. Nhiều cuộc đối thoại của ông với Đức Phật được đề cập trong các bộ kinh. Để biết chi tiết, xem Tevijja Vacchagottasutta, Aggi Vacchagottasutta, Mahā Vacchagottasutta, Vacchasutta và Vacchagottasutta. Một số *Sutta* này được trích dẫn trong Kathāvatthu (e.g., p. 267, 505). Saṁyuttanikāya có cả một phần riêng về Vacchagotta; các cuộc thảo luận của ông chủ yếu liên quan đến những vấn đề siêu hình như liệu thế giới có vĩnh hằng hay không, bản chất của sự sống, sự tồn tại hay không tồn tại của Tathāgata sau khi chết, v.v. SN.iii.257ff.; xem thêm SN.iv.391ff., về nhiều cuộc thảo luận của Vacchagotta với Moggallāna, Ānanda và Sabhiya Kaccāna về các chủ đề tương tự. Ba bản Vacchagottasutta trong Majjhimanikāya dường như chứa đựng câu chuyện về sự cải hóa của Vacchagotta theo trình tự: ở phần kết thúc của Tevijja Vacchagotta (No. 72), chỉ ghi rằng "Paribbājaka Vacchagotta hoan hỷ với những gì Đức Thế Tôn đã nói." Ở cuối bài tiếp theo, Aggi Vacchagotta, ông được nhắc đến là đã chấp nhận Đức Phật làm thầy. Trong bài thứ ba, Mahā Vacchagotta, ông cầu xin thọ giới từ Đức Phật tại Rājagaha, và được thọ giới sau thời gian thử thách bốn tháng bắt buộc. Ông trở lại gặp Đức Phật sau hai tuần và báo cáo rằng ông đã đạt được tất cả những gì có thể đạt được bởi sự hiểu biết của người chưa phải *Arahant*, và cầu xin Đức Phật giảng thêm về Pháp. Đức Phật bảo ông tiến tu định và tuệ, nhờ đó có thể đắc được *abhiññā* sáu phần. Vacchagotta thu nhận bài học và không lâu sau trở thành Arahant. Ông liền gửi tin tức về sự chứng đắc của mình đến Đức Phật qua một số vị tỳ-kheo, và Đức Phật nói Ngài đã nghe tin này từ chư thiên (MN.i.493-97).
+
+Câu chuyện này đã xác định rõ ràng vị Paribbājaka với vị Trưởng lão cùng tên, bài kệ hoan ca của ông được ghi trong Theragāthā (vs. 112). Theo Chú giải (Thag­a.i.221), ông thuộc một gia đình Bà-la-môn giàu có thuộc dòng tộc Vaccha (Vacchagotta). Tên thật của ông không được ghi lại. Ông trở nên thông thạo học vấn Bà-la-môn, nhưng vì không tìm thấy điều mình cầu cạnh ở đó, ông trở thành một Paribbājaka, và về sau gia nhập Tăng đoàn của Đức Phật.
+
+Vào thời Vipassī Buddha, ông là một cư sĩ ở Bandhumatī, và một ngày, khi Đức Phật và các tỳ-kheo được thỉnh đến cung điện vua, ông đã quét đường mà Đức Phật đi qua và dựng một mảnh vải rách để trang trí. Nhờ công đức đó, bốn *kappa* trước, ông được sinh làm một vị *rājā* tên Sudhaja. Ông có lẽ đồng nhất với Vīthisammajjaka trong Apadāna. Ap.i.177.
 
 ## Notes

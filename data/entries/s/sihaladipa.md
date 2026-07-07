@@ -5,7 +5,7 @@ base_headword: "Sīhaladīpa"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -25,6 +25,6 @@ Sīhaladīpa. The name given to Ceylon (<span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhaladīpa. Tên gọi dành cho Tích Lan (Tambapaṇṇi) kể từ khi nó trở thành xứ sở của người Sīhalā. Nó được nhắc đến như một *paṭirūpadesa*, một địa điểm thích hợp. Dhs-a., p.103.
 
 ## Notes

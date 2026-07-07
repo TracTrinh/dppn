@@ -5,7 +5,7 @@ base_headword: "Sūkaratittha"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -27,6 +27,6 @@ Sūkaratittha. A place, probably in the north of Ceylon, where the <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sūkaratittha. Một địa điểm, có lẽ ở phía bắc của Tích Lan, nơi những người Damiḷas Māgha và Jayabāhu thiết lập các công sự. Cv.lxxxiii.18.
 
 ## Notes

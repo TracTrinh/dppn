@@ -5,7 +5,7 @@ base_headword: "Kuṇāla"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,6 @@ Kuṇāla 02. The Bodhisatta, born as the king of the *Citrakokilas*. He lived i
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bodhisatta, được sinh ra làm vua của các con chim *Citrakokila*. Ông sống trong một khu rừng tuyệt đẹp ở Himālaya, được hầu hạ bởi ba nghìn năm trăm con chim mái. Ông được hai con chim khiêng đi trên một cái gậy trong khi ở đằng trước, đằng sau, bên trên và bên dưới là đoàn tùy tùng đông đảo bay theo, bảo vệ ông khỏi mọi tổn hại và cung cấp mọi nhu cầu cho ông. Ông không tin tưởng và coi thường tất cả phụ nữ, và những câu chuyện của ông về các mưu mô của họ, như ông kể lại cho người bạn Puṇṇamukha, được đưa ra trong Kuṇālajātaka (Ja 536).
 
 ## Notes

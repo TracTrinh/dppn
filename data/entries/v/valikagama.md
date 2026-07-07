@@ -5,7 +5,7 @@ base_headword: "Vālikagāma"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -27,6 +27,6 @@ Vālikagāma. A village in Ceylon, evidently a seaport, where the <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vālikagāma. Một làng ở Tích Lan, rõ ràng là một cảng biển, nơi những người Damiḷas dưới quyền Māgha và Jayabāhu đã từng có một pháo đài. Cv.lxxxiii.17.
 
 ## Notes

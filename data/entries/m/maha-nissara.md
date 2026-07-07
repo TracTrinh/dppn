@@ -5,7 +5,7 @@ base_headword: "Mahā Nissara"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -27,6 +27,6 @@ Mahā Nissara. A work ascribed to <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nissara. Một tác phẩm được gán cho Ariyavaṁsa của Ava (Gv.65). Cách đọc chính xác có lẽ là Mahā Nissaya, và đề cập đến bản *atthayojanā* do ông viết về Abhidhamma.
 
 ## Notes

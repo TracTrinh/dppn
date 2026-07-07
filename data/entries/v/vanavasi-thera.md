@@ -5,7 +5,7 @@ base_headword: "Vanavāsī Thera"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -27,6 +27,6 @@ Vanavāsī Thera. The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vanavāsī Thera. Chú giải Theragāthā (i.440) có đề cập đến một Vanavāsī Thera với tư cách là thầy của Tekicchakāni. Đây có lẽ không phải là một danh từ riêng mà chỉ là một tính ngữ miêu tả.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kāradīpa"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -28,6 +28,6 @@ Kāradīpa. An island in the <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāradīpa. Một hòn đảo ở xứ Damiḷa, gần Nāgadīpa. Tên ban đầu của nó là Ahidīpa. Akitti đã cư ngụ ở đó và sống dựa vào lá và trái của cây *kāra* mọc tại đây. Do đó hòn đảo đã được biết đến với tên gọi mới của nó. Ja.iv.238.
 
 ## Notes

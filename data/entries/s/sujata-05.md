@@ -5,7 +5,7 @@ base_headword: "Sujāta"
 disambiguator: "05"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sujāta 05. A king, who later became a hermit. He was the Bodhisatta in the time
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sujāta 05. Một vị vua, người về sau đã trở thành một đạo sĩ ẩn cư. Ông là vị Bodhisatta trong thời của Tissa Buddha. Bv.xviii.9f.; Ja.i.40.
 
 ## Notes

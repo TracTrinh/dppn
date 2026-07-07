@@ -5,7 +5,7 @@ base_headword: "Vāseṭṭha"
 disambiguator: "05"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -28,6 +28,6 @@ Vāseṭṭha 05. A lay disciple, evidently distinct from <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một nam cư sĩ, hiển nhiên khác với Vāseṭṭha (3). Ông đã đến thăm Đức Phật tại Kūṭāgārasālā ở Vesālī và Đức Phật đã thuyết pháp cho ông (AN.iv.258). Xem Vāseṭṭhasutta (2). Ông được nhắc đến trong số các nam cư sĩ kiệt xuất của Đức Phật. AN.iii.451.
 
 ## Notes

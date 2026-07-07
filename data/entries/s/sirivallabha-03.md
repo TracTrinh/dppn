@@ -5,7 +5,7 @@ base_headword: "Sirivallabha"
 disambiguator: "03"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sirivallabha 03. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirivallabha 03. Một thủ lĩnh Damiḷa, đồng minh của Kulasekhara. Cv.lxxvii.6.
 
 ## Notes

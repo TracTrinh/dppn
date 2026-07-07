@@ -5,7 +5,7 @@ base_headword: "Paṇḍuka Nanda"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Paṇḍuka Nanda. One of the <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇḍuka Nanda. Một trong Nava Nandā.
 
 ## Notes

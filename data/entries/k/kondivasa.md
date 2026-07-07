@@ -5,7 +5,7 @@ base_headword: "Koṇḍivāsa"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -24,6 +24,6 @@ Koṇḍivāsa. A district in Ceylon. Cv.l.30.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koṇḍivāsa. Một quận ở Tích Lan. Cv.l.30.
 
 ## Notes

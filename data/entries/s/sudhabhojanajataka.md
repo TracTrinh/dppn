@@ -5,7 +5,7 @@ base_headword: "Sudhābhojanajātaka"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -50,6 +50,10 @@ The story was told in reference to a monk of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudhābhojanajātaka (Ja 535). Xưa kia ở Benares có một nam cư sĩ giàu có, tài sản trị giá tám mươi crore. Ông đã dâng hiến tài sản của mình cho nhà vua, tuy nhiên nhà vua không cần đến; vì vậy ông đã phân phát phần lớn tài sản để làm quà tặng và được tái sinh làm Sakka. Con cháu của ông cũng hào phóng không kém – Canda, Suriya, Mātali và Pañcasikha. Nhưng người cháu chắt nối dõi tiếp theo, con trai của Pañcasikha, là Macchari Kosiya, lại trở thành một kẻ keo kiệt. Ông ta ngừng việc bố thí và sống trong cảnh nghèo khổ cùng cực. Một ngày nọ, thấy viên phó thủ quỹ của mình đang ăn cháo gạo, ông ta cũng thèm ăn, nhưng vì bản tính keo kiệt, ông ta đã cải trang đi đến bờ sông với một ít gạo và bắt đầu nấu cháo ở đó với sự giúp đỡ của một người hầu. Sakka đã nhìn thấy điều này, và cùng với Canda và những người khác, xuất hiện trước mặt ông ta dưới lớp cải trang là một Bà-la-môn. Tiến về phía ông ta, Sakka hỏi đường đến Benares, và giả vờ bị điếc, tiến đến chỗ đang nấu cháo và xin một ít. Macchari Kosiya từ chối cho, nhưng Sakka cứ khăng khăng đọc cho ông ta nghe một số bài kệ về giá trị của sự bố thí, và sau đó Kosiya đồng ý cho ông một ít cháo. Từng người một trong số những người khác, cũng cải trang thành Bà-la-môn, tiến đến, và mặc dù đã cố gắng hết sức, Kosiya vẫn buộc phải mời họ cùng chia sẻ bữa ăn với mình. Ông ta bảo họ đi lấy những chiếc lá nhỏ, nhưng khi vào tay họ những chiếc lá nhỏ lại biến thành những chiếc lá lớn. Sau khi cháo đã được múc ra, Pañcasikha biến thành một con chó, rồi lại biến thành một con ngựa thay đổi màu sắc, và bắt đầu đuổi theo Kosiya, trong khi những người khác đứng bất động trên không trung. Kosiya hỏi làm thế nào chúng sinh có thể đạt được những quyền năng như vậy, và Sakka đã giải thích cho ông ta và tiết lộ thân phận thật của họ. Macchari Kosiya quay trở về Benares và đem phân phát của cải của mình để làm việc thiện. Về sau ông trở thành một đạo sĩ ẩn cư và sống trong một túp lều.
+
+Vào thời gian đó bốn người con gái của Sakka – Āsā, Saddhā, Sirī và Hirī – đã đến Anotatta để chơi đùa trong nước. Ở đó họ nhìn thấy Nārada dưới một bông hoa *pāricchattaka*, bông hoa được ông dùng như một chiếc ô che nắng, và mỗi người đều xin ông bông hoa đó. Nārada nói rằng ông sẽ tặng nó cho người giỏi nhất trong số họ, và bảo họ hãy đến hỏi Sakka. Sakka đã phái Mātali mang một chén cam lộ (*sudhābhojana*) đến cho Kosiya, và nói rằng bất kỳ người con gái nào thuyết phục được Kosiya chia sẻ thức uống của ông ta với mình sẽ được đánh giá là người giỏi nhất. Ông lắng nghe tất cả những lời thỉnh cầu của họ và quyết định nghiêng về Hirī. Sakka, muốn biết lý do tại sao ông ta lại quyết định như vậy, đã phái Mātali cưỡi cỗ xe của mình đến để hỏi. Trong khi Mātali vẫn đang nói chuyện với ông ta, thì Kosiya qua đời và được tái sinh ở Tāvatiṁsa. Sakka đã gả Hirī cho ông làm vợ và cũng chia cho ông một phần vương quốc Tāvatiṁsa.
+
+Câu chuyện này được kể liên quan đến một tỳ-kheo ở Sāvatthī, một người vô cùng hào phóng đến mức ngài có thể cho đi cả thức ăn và nước uống của chính mình để rồi phải chịu nhịn đói. Vị đó được đồng nhất với Macchari Kosiya, Uppalavaṇṇā là Hirī, Anuruddha là Pañcasikha, Ānanda là Mātali, Kassapa là Suriya, Moggallāna là Canda, Sāriputta là Nārada, và Sakka là chính Bodhisatta. Ja.v.382-412.
 
 ## Notes

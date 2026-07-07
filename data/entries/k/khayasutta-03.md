@@ -5,7 +5,7 @@ base_headword: "Khayasutta"
 disambiguator: "03"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -24,6 +24,6 @@ Khayasutta 03. The Buddha exhorts the monks to cultivate the seven *bojjhaṅgas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khayasutta 03. Đức Phật khuyến khích các tỳ-kheo tu tập bảy bojjhaṅga, dẫn đến sự đoạn tận ái. Để trả lời câu hỏi của Udāyī, ngài tiếp tục giải thích cách thức tu tập. SN.v.86f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kaṇṇakatthalasutta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -38,6 +38,12 @@ The king proceeds to ask whether there is any distinction of caste in the matter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇṇakatthalasutta. Pasenadi đến thăm Gotama Buddha tại Lộc uyển ở Kaṇṇakatthala và chuyển đến ngài lời chào của hai hoàng hậu Somā và Sakulā.
+
+Sau đó, ông hỏi Đức Phật liệu có đúng là, theo ngài, không một sa-môn hay Bà-la-môn nào có thể tuyên bố có tri kiến tuyệt đối không. Đức Phật giải thích rằng giáo lý của ngài là không ai có thể biết và thấy mọi thứ cùng một lúc.
+
+Nhà vua tiếp tục hỏi liệu có bất kỳ sự phân biệt giai cấp nào trong vấn đề giải thoát không và liệu có chư thần hay không.
+
+Viḍūḍabha và Ānanda tham gia vào cuộc thảo luận, và sau đó Sañjaya Ākāsagotta, bị buộc tội đã truyền bá một sự diễn giải sai lầm về giáo lý của Đức Phật, được thông báo đến và đổ lỗi cho Viḍūḍabha. Sự xuất hiện cỗ xe ngựa của nhà vua đã chấm dứt cuộc tranh luận (MN.ii.125ff).
 
 ## Notes

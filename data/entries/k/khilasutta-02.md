@@ -5,7 +5,7 @@ base_headword: "Khilasutta"
 disambiguator: "02"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -24,6 +24,6 @@ Khilasutta 02. Same as the above, but here the five *vinibandhā*, which are els
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khilasutta 02. Giống như bài trên, nhưng ở đây có thêm năm *vinibandhā*, mà ở chỗ khác được đưa ra như một phần riêng biệt (xem Vinibandhasutta), được thêm vào cuối phần *khilā*. AN.v.17ff.
 
 ## Notes

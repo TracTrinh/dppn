@@ -5,7 +5,7 @@ base_headword: "Rukkhasutta"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -23,6 +23,6 @@ Rukkhasutta 02. On four kinds of trees and four corresponding kinds of men. Some
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rukkhasutta 02. Bàn về bốn loại cây và bốn kiểu người tương ứng. Một số người xấu xa và những người bầu bạn với họ cũng xấu xa, một số người tốt đẹp và những người bầu bạn với họ thì xấu xa, v.v. AN.ii.109.
 
 ## Notes

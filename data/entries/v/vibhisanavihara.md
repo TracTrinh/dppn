@@ -5,7 +5,7 @@ base_headword: "Vibhīsanavihāra"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Vibhīsanavihāra. A monastery built by <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vibhīsanavihāra. Một tu viện do Dhātusena xây dựng. Cv.xxxviii.49.
 
 ## Notes

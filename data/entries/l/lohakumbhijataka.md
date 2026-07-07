@@ -5,7 +5,7 @@ base_headword: "Lohakumbhījātaka"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -33,6 +33,10 @@ The story was told in reference to <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lohakumbhījātaka (Ja 314). Bodhisatta thuở xưa là một tu sĩ khổ hạnh có đại thần lực. Vua Benares, đêm nghe bốn tiếng — du, sa, na, so — do bốn chúng sinh sống trong địa ngục thốt ra, đã vô cùng hoảng sợ. Khi ông tham vấn *Purohita* của mình, vị này ra lệnh thực hiện một cuộc hiến tế bốn loại. Bodhisatta, thấy số phận đang chờ đợi vô số chúng sinh, đến công viên của nhà vua và ở đó, với sự trợ giúp của đệ tử trưởng của *Purohita* — người không tán thành lễ hiến tế — giải thích cho nhà vua ý nghĩa của các tiếng đó và đã được thả các con vật tế. Đệ tử của *Purohita* được đồng nhất với Sāriputta.
+
+Câu chuyện được kể liên quan đến Pasenadi, người một đêm nghe bốn âm tiết do bốn dân cư địa ngục thốt ra. Họ từng là quý tộc ở Sāvatthī, phạm tội ngoại tình. Sau khi chết, họ tái sinh trong bốn cái vạc sắt. Sau sáu mươi nghìn năm, họ dần dần trồi lên đến miệng những cái vạc đó và thốt ra những âm tiết đó trong nỗ lực tuyên bố nỗi đau khổ của mình. Nhà vua, vô cùng sợ hãi, tham vấn các thầy tế, những người ra lệnh hiến tế. Nhưng Mallikā can thiệp và đưa nhà vua đến gặp Đức Phật, người giải thích sự việc và xoa dịu nỗi sợ hãi của nhà vua. Ja.iii.43-8; các câu chuyện cả về quá khứ lẫn hiện tại cũng xuất hiện tại Dhp­a.ii.5ff. và Pv-a.279ff. Ở cả hai nơi, câu chuyện giới thiệu cung cấp thêm chi tiết.
+
+Pasenadi nghe thấy những tiếng đó trong khi nằm không ngủ được, vì ông đang nghĩ đến việc giết chết một người đàn ông bất lực để chiếm đoạt người vợ xinh đẹp của ông ta. Cũng có những điểm khác nhau giữa hai bản tường thuật. Để biết chi tiết xem Burlingame: *Buddhist Legends* ii.100, n.1.
 
 ## Notes

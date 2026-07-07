@@ -5,7 +5,7 @@ base_headword: "Uppādena Sutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -25,6 +25,6 @@ Uppādena Sutta. The uprising of the six sense objects – forms, sounds, etc. �
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uppādena Sutta. Sự khởi lên của sáu đối tượng giác quan – sắc, thanh, v.v. – là sự khởi lên của khổ đau, sự tồn tại của bệnh tật, sự biểu hiện của già và chết. Sự diệt tận của cái trước dẫn đến sự biến mất của cái sau. SN.iv.14.
 
 ## Notes

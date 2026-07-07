@@ -5,7 +5,7 @@ base_headword: "Khuddapārinda"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -26,6 +26,6 @@ Khuddapārinda. A Tamil usurper. He was the brother of <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khuddapārinda. Một kẻ soán ngôi người Tamil. Ông là anh trai của Parinda, người đã chiếm ngai vàng của Dhātusena. Ông trị vì mười sáu năm (từ năm 430 đến 460 TL.). Cv.xxxviii.30f.
 
 ## Notes

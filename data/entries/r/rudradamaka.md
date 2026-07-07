@@ -5,7 +5,7 @@ base_headword: "Rudradāmaka"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Rudradāmaka. Mentioned in connection with different kinds of coins. Vin-a.ii.29
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rudradāmaka. Được đề cập đến liên quan đến các loại tiền xu khác nhau. Vin-a.ii.297.
 
 ## Notes

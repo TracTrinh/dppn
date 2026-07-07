@@ -5,7 +5,7 @@ base_headword: "Vaṇṇabodhana"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vaṇṇabodhana. A treatise on the Pāli language by <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaṇṇabodhana. Một luận thuyết về ngôn ngữ Pāli do Ukkaṁsamāla ở Ava biên soạn. Sās, p. 120; Bode, 65.
 
 ## Notes

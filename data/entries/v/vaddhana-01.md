@@ -5,7 +5,7 @@ base_headword: "Vaḍḍhana"
 disambiguator: "01"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vaḍḍhana 01. A palace occupied by <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaḍḍhana 01. Một cung điện mà Vessabhū Buddha cư ngụ trước khi xuất gia. Bv.xxii.19; Bv­a. (p. 205) gọi nó là Rativaḍḍhana.
 
 ## Notes

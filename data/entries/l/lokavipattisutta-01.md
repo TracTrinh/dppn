@@ -5,7 +5,7 @@ base_headword: "Lokavipattisutta"
 disambiguator: "01"
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -23,6 +23,6 @@ Lokavipattisutta 01. On eight worldly conditions which obsess the world and roun
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lokavipattisutta 01. Về tám pháp thế gian chi phối thế giới và thế giới xoay quanh chúng: được và mất, danh thơm và tiếng xấu, chê bai và khen ngợi, an lạc và đau khổ. AN.iv.156.
 
 ## Notes

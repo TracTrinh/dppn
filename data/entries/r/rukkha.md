@@ -5,7 +5,7 @@ base_headword: "Rukkha"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -27,6 +27,6 @@ Rukkha. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rukkha. *v.l.* Rakkha. Một quan chức của vua Kassapa IV. Ông đã xây dựng một vihāra ở Savāraka và đã trao lại cho Mahā Vihāra. Ông cũng đặt ra các quy tắc để hướng dẫn cho chư tỳ-kheo (Cv.lii.31).
 
 ## Notes

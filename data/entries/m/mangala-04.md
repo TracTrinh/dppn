@@ -5,7 +5,7 @@ base_headword: "Maṅgala"
 disambiguator: "04"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -27,6 +27,6 @@ Maṅgala 04. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṅgala 04. Maṅgala Thera. Một Arahant. Ngài có mặt tại lễ đặt nền móng Mahā Thūpa (Dpv.xix.8). Xem Mahā Maṅgala.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kāmanītajātaka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -32,6 +32,8 @@ In this case the physician who cures the king is <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāmanītajātaka (Ja 228). Vua xứ Benares có hai người con trai; người anh trở thành vua, nhưng vô cùng tham lam của cải. Phần còn lại của câu chuyện tương tự như Kāmajātaka (Ja 467); ba thành phố mà Sakka đề nghị chiếm lấy cho nhà vua được đưa ra là Uttarapañcāla, Indapatta và Kekaka.
+
+Trong trường hợp này, vị lương y chữa bệnh cho nhà vua chính là Sakka, người được đồng nhất với Bodhisatta (Ja.ii.212-16). Câu chuyện được kể trong cùng hoàn cảnh với Kāmajātaka (Ja 467).
 
 ## Notes

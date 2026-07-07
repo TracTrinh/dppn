@@ -5,7 +5,7 @@ base_headword: "Sīhasīvalī"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -27,6 +27,6 @@ Sīhasīvalī. Sister and, later, wife of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhasīvalī. Em gái, và sau đó là vợ, của Sīhabāhu, và mẹ của Vijaya. Mẹ bà là Susīmā và cha bà là một con sư tử. Mhv.vi.10, 34, 36; Dpv.ix.3.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Uttara"
 disambiguator: "10"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uttara 10. A youth, evidently a personal attendant of <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttara 10. Một thanh niên, rõ ràng là một người hầu cận của Pasenadi. Đức Phật đã dạy cho ông một bài kệ để đọc tụng mỗi khi nhà vua ngồi xuống dùng bữa. Bài kệ này nói về những lợi ích của sự tiết độ trong ăn uống. Dhp­a.iv.17; nhưng xem SN.i.81-2 cho một phiên bản khác của những gì dường như chính là sự việc tương tự. Tại đó chàng thanh niên được gọi là Sudassana.
 
 ## Notes

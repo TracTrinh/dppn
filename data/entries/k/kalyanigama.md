@@ -5,7 +5,7 @@ base_headword: "Kalyanigāma"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kalyanigāma. A village, probably in or near <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kalyanigāma. Một ngôi làng, có lẽ ở bên trong hoặc gần Kalyāṇī; đó là nơi ở của Mahā Tissa Thera. Snp-a.i.6.
 
 ## Notes

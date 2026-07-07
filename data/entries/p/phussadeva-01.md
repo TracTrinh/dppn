@@ -5,7 +5,7 @@ base_headword: "Phussadeva"
 disambiguator: "01"
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -24,6 +24,6 @@ Phussadeva 01. One of the two chief disciples of <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phussadeva 01. Một trong hai đệ tử thinh văn hàng đầu của Dhammadassī Buddha. Ja.i.39; Bv.xvi.18.
 
 ## Notes

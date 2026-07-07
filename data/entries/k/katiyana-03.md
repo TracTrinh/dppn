@@ -5,7 +5,7 @@ base_headword: "Kātiyāna"
 disambiguator: "03"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -32,6 +32,8 @@ From the story of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kātiyāna 03. Trưởng lão Kātiyāna. Là con trai của một người Bà-la-môn thuộc dòng dõi Kosiyagotta ở Sāvatthī, ngài được gọi là Kātiyāna theo gia tộc bên ngoại. Khi người bạn Sāmaññakāni gia nhập Saṅgha, ngài cũng noi gương bạn và tinh tấn thiền định, ngủ rất ít. Một đêm nọ, do quá buồn ngủ, ngài đã ngã quỵ trên sân thượng nơi ngài đang đi tới đi lui, và Đức Phật, nhìn thấy ngài, đã đích thân đến giúp đỡ ngài và khuyên ngài đừng từ bỏ những nỗ lực của mình mà hãy tập trung và quán chiếu. Nhờ lời khuyến tấn này, Kātiyāna đã sớm đắc quả vị Arahant. Bài pháp của Đức Phật được bao gồm trong Theragāthā (Thag.vv.411-16; Thag­a.i.450f).
+
+Từ câu chuyện của Sāmaññakāni, được kể lại trong Chú giải Theragāthā (i, p.99f), có vẻ như Kātiyāna đã từng là một Paribbājaka trong một thời gian. Ngài rơi vào cảnh túng quẫn, vì kể từ khi Đức Phật xuất hiện, ngài đã mất đi mọi sự hỗ trợ từ các cư sĩ. Do đó, ngài đã tìm đến Sāmaññakāni và xin ý kiến, sau đó ngài đã làm theo bằng cách gia nhập Saṅgha.
 
 ## Notes

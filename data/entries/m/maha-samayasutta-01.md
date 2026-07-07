@@ -5,7 +5,7 @@ base_headword: "Mahā Samayasutta"
 disambiguator: "01"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -66,6 +66,16 @@ The preaching of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Samayasutta 01. Được thuyết giảng tại Mahā Vana ở Kapilavatthu, nơi Gotama Buddha đang lưu trú cùng với năm trăm vị *Arahant*. Chư thiên từ mười ngàn thế giới đã đến viếng thăm Đức Phật và các tỳ-kheo, và được tham gia cùng với bốn vị thần từ Suddhāvāsā, những vị đã đảnh lễ Đức Phật bằng thơ ca. Sau đó Đức Phật đã ngỏ lời với các tỳ-kheo và tụng bài *Sutta* này (DN.ii.253-62). Có thể chia bài thuyết giảng thành ba phần.
+
+Phần đầu chứa một danh sách chư thiên và những chúng sinh khác có mặt để đảnh lễ Đức Phật. Đây là một danh sách dài các tên gọi kỳ lạ được đưa ra bằng những bài kệ, chủ yếu là thơ hài hước. Nhiều chúng sinh được đề cập hiện nay đối với chúng ta chỉ là những cái tên, không có thông tin đặc biệt nào kèm theo. Hầu hết bọn họ có lẽ là những vị thần địa phương, sự nhân cách hóa của các hiện tượng tự nhiên, những vị thần hộ mệnh, tiên nữ, quái điểu, nữ thần sông nước, nữ thần cây cỏ, và nhiều loài khác, những người ở đây được miêu tả như là những tín đồ của Đức Phật, đến để bày tỏ sự tôn kính Ngài. Đáng chú ý là ngay cả những vị thần quan trọng nhất – ví dụ, Soma, Varuṇa và Brahma – cũng chỉ được đề cập một cách tình cờ, được thêm vào danh sách, có thể nói như vậy, mà không có sự phân biệt đặc biệt nào. Một danh sách tương tự về chư thiên được tìm thấy trong Mahā Vastu (Mvu.i.245; iii.68, 77); việc thêm Siva vào danh sách này là điều đáng chú ý. Danh sách các vị thần được đưa ra trong Mahā Samaya nên được so sánh với danh sách được đưa ra trong Āṭānāṭiyasutta.
+
+Phần thứ hai của bài *Sutta* là phần khung cho những lời dạy được cho là của Đức Phật, giới thiệu danh sách chư thiên, đưa ra lời cảnh báo của Đức Phật đối với các tỳ-kheo hãy cẩn thận với Māra và lời tuyên bố của Māra rằng ông ta không có quyền lực đối với họ vì các vị *Arahant* không còn sự sợ hãi.
+
+Phần thứ ba của bài *Sutta* có thể được gọi là phần mở đầu, những bài kệ chào hỏi được nói bởi chư thiên từ Suddhāvāsā (Rhys Davids, Dial.ii.282f). Phần mở đầu này được bảo tồn ở một nơi khác như là một tình tiết riêng biệt (SN.i.27).
+
+Các Chú giải đưa ra những lời kể dài dòng về việc thuyết giảng Mahā Samaya (ví dụ, Snp­a. 357ff.; DN­a.ii.672ff). Các vị *Arahant* được đề cập đến là những thanh niên Sākiyan và Koḷiyan, đại diện cho các gia tộc Sākiyan và Koḷiyan, được cử đến để gia nhập Tăng đoàn như là một dấu hiệu của lòng biết ơn đối với Đức Phật vì đã ngăn chặn cuộc tranh chấp giữa hai gia tộc liên quan đến nguồn nước của sông Rohiṇī. Trong dịp đó, Đức Phật đã thuyết giảng cho hai đội quân đối lập Attadaṇḍasutta và Phandana (Ja 475), Laṭukika (Ja 357) và Vaṭṭakajātakas (Ja 35) (DN­a.ii.674 thêm vào Paṭhavi-uddriyana (Ja 322) và Rukkhadhammajātakas (Ja 74)). Sau đó Ngài kể lại câu chuyện về nguồn gốc của họ, cho thấy rằng cả hai gia tộc đều xuất phát từ một dòng dõi chung. Khi cuộc tranh chấp được giải quyết theo cách này, hai trăm năm mươi thanh niên từ mỗi gia tộc đã gia nhập Tăng đoàn và Đức Phật đã cư ngụ cùng họ tại Mahā Vana. Nhưng những người vợ của họ đã cố gắng lôi kéo họ trở về; do đó, Đức Phật đã đưa họ đến Himavā, nơi Ngài thuyết giảng cho họ Kuṇālajātaka (Ja 536) trên bờ hồ Kuṇāla. Khi kết thúc bài thuyết giảng, họ đã chứng đạt được nhiều Thánh quả khác nhau, từ *Anāgāmīphala* cho đến *Sotāpatti*. Sau đó Ngài cùng họ trở về Mahā Vana, nơi họ phát triển tuệ quán và trở thành các vị *Arahant*. Họ đã tập hợp lại để đảnh lễ vị đạo sư của mình vào buổi tối ngày trăng rằm tháng *Jeṭṭhamāsa* (vào tháng Sáu) và chư thiên của mười ngàn thế giới cũng đến tham dự hội chúng. Đức Phật đã nói cho các tỳ-kheo biết tên của chư thiên có mặt (như được đưa ra trong Mahā Samaya), và, quan sát hội chúng, thấy rằng nó bao gồm hai loại chúng sinh, một loại có khả năng hưởng lợi từ giáo pháp của Ngài (*bhabbā*), và loại kia không có khả năng như vậy (*abhabbā*). Hàng *bhabbā*, Ngài thấy, có thể được chia thành sáu nhóm – *rāgacaritā* và *dosacaritā*, *mohacaritā*, *vitakkacaritā*, *saddhācaritā*, và *buddhicaritā*, tùy theo tính khí. Đối với mỗi nhóm này, một cách tương ứng, Ngài đã thuyết giảng sáu bài *Sutta*, được tính toán để mang lại lợi ích cho từng nhóm riêng biệt, và, để mỗi bài *Sutta* có thể mang hình thức hỏi và đáp, Ngài đã hóa hiện ra một hình tướng Phật để đặt câu hỏi, trong khi chính Ngài trả lời chúng. Sáu bài *Sutta*, được thuyết giảng như vậy, là Purābheda, Kalahavivāda, Cūḷa Vyūha, Mahā Vyūha, Tuvaṭaka và Sammāparibbājaniya. Vô số chúng sinh đã chứng ngộ Chân lý (AN­a.i.173, 320; Mil. 20, 350; Snp­a.i.174).
+
+Việc thuyết giảng Mahā Samayasutta nằm trong số những sự kiện trong cuộc đời Đức Phật được điêu khắc trong Phòng chứa Xá lợi của Mahā Thūpa. Mhv.xxx.83.
 
 ## Notes

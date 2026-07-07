@@ -5,7 +5,7 @@ base_headword: "Yaññadatta"
 disambiguator: "02"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -28,6 +28,6 @@ Yaññadatta 02. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yaññadatta 02. Con trai của Āṇi Maṇḍavya. Khi cậu đang chơi đùa, quả bóng của cậu lăn vào một ụ kiến, và, không mảy may nghi ngờ, cậu thò tay vào và bị một con rắn cắn. Cậu đã được chữa khỏi bằng "Những Lời Nguyện Sự Thật" do cha mẹ cậu và Kaṇhadīpāyana thực hiện (Ja.iv.30f). Xem Kaṇhadīpāyanajātaka. Cậu được đồng nhất với Rāhula. Ja.iv.37.
 
 ## Notes

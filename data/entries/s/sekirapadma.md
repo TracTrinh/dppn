@@ -5,7 +5,7 @@ base_headword: "Sekīrapadma"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Sekīrapadma. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sekīrapadma. Một thủ lĩnh Damiḷa, đồng minh của Kulasekhara. Cv.lxxvii.76.
 
 ## Notes

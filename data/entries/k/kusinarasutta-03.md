@@ -5,7 +5,7 @@ base_headword: "Kusinārāsutta"
 disambiguator: "03"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -28,6 +28,6 @@ Kusinārāsutta 03. Preached at <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Được thuyết giảng tại Upavattana ở Kusinārā, trong khu rừng *Sāla* của người Mallas. Đức Phật, ngay trước khi ngài nhập diệt, đã mời các tỳ-kheo đặt câu hỏi cho ngài về bất kỳ nghi ngờ hoặc thắc mắc nào mà họ có thể có. Họ vẫn giữ im lặng (AN.ii.79f). *Sutta* này cũng xuất hiện như là một phần của Mahā Parinibbānasutta. DN.ii.137, 154.
 
 ## Notes

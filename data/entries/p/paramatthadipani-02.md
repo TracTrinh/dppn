@@ -5,7 +5,7 @@ base_headword: "Paramatthadīpanī"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Paramatthadīpanī 02. The name given to the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paramatthadīpanī 02. Tên được đặt cho Pañcappakaraṇaṭṭhakathā. Sās-d.60.
 
 ## Notes

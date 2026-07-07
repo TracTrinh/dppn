@@ -5,7 +5,7 @@ base_headword: "Uttarāpatha"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -53,6 +53,16 @@ There was regular trade between <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttarāpatha. Khu vực phía bắc của Jambudīpa. Ranh giới của nó không được nêu rõ ở bất kỳ đâu trong văn học Pāli. Có ý kiến cho rằng (xem Law, *Geography of Early Buddhism*, pp.48ff) Uttarāpatha ban đầu là tên của một tuyến đường thương mại lớn, con đường cao tốc phía bắc trải dài từ Sāvatthī đến Takkasilā ở Gandhāra, và nó đã cho mượn tên mình — như cách mà Dakkhiṇāpatha đã làm — cho vùng đất mà nó đi qua. Nếu vậy, cái tên này sẽ bao gồm gần như toàn bộ miền Bắc Ấn Độ, từ Aṅga ở phía đông đến Gandhāra ở tây bắc, và từ Himālaya ở phía bắc đến Vindhyā ở phía nam. Theo truyền thống Bà-la-môn, như được ghi lại trong *Kāvyamīmāṁsā* (p.93), Uttarāpatha nằm ở phía tây của Prithudaka (Pehoa, khoảng mười bốn dặm về phía tây của Thāneswar).
+
+Các khu vực chính nằm trong lãnh thổ này được văn học Pāli đề cập đến là Kasmīra-Gandhāra và Kamboja. Vùng này nổi tiếng từ rất sớm về ngựa và các thương nhân ngựa (xem, chẳng hạn, Vin.iii.6; Vin-a.i.175), và ngựa được đưa xuống bán từ đó đến các thành phố như Benares (Ja.ii.287).
+
+Tại Uttarāpatha là Kaṁsabhoga, nơi vua Mahā Kaṁsa trị vì ở thành phố Asitañjana (Ja.iv.79). *Divyāvadāna* (p.470) đề cập một thành phố khác, Utpalavatī.
+
+Theo *Mahā Vastu* (Mvu.iii.303), Ukkala, nơi cư trú của Tapassu và Bhalluka, nằm trong Uttarāpatha, cũng như Takkasilā, trường đại học nổi tiếng (Mvu.ii.166).
+
+Đã có quan hệ thương mại thường xuyên giữa Sāvatthī và Uttarāpatha (Pv-a.100).
+
+Aṅgaṇika Bhāradvāja có bạn bè tại Uttarāpatha (Thag­a.i.339).
 
 ## Notes

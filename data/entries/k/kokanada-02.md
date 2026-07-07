@@ -5,7 +5,7 @@ base_headword: "Kokanada"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -28,6 +28,6 @@ Kokanada 02. A lute (*vinā*) given by <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kokanada 02. Một cây đàn tỳ bà (*vinā*) do Sakka trao cho Sīlavatī, mẹ của Kusa, và sau đó được Kusa sử dụng để giành lại Pabhāvatī (Ja.v.281, 290). Nó được gọi như vậy là từ đất nước xuất xứ của nó hoặc từ màu sắc của nó. Xem Jātaka Trs.v.143 n.
 
 ## Notes

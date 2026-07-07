@@ -5,7 +5,7 @@ base_headword: "Roja"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -28,6 +28,6 @@ Roja 02. A primeval king, son of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Roja 02. Một vị vua thời nguyên thủy, con của Mahā Sammata, và do đó là tổ tiên của người Sākiyan. Con của Roja là Vararoja. Ja.ii.311; iii.454; Snp­a.i.353; Dpv.iii.4; Mhv.ii.2; Mhv­ṭ. 124; cp. Mvu.i.384 nơi ông được gọi là Rava.
 
 ## Notes

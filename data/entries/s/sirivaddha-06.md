@@ -5,7 +5,7 @@ base_headword: "Sirivaḍḍha"
 disambiguator: "06"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sirivaḍḍha 06. A palace occupied by <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirivaḍḍha 06. Một cung điện mà Anomadassī Buddha ở trong kiếp làm cư sĩ cuối cùng của Ngài. Bv­a.141; Bv.viii.18 gọi nó là Vaḍḍha.
 
 ## Notes

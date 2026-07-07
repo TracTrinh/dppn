@@ -5,7 +5,7 @@ base_headword: "Kalyāṇamittasutta"
 disambiguator: "03"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -24,6 +24,6 @@ Kalyāṇamittasutta 03. There is no better means of perfecting the Noble Eightf
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kalyāṇamittasutta 03. Không có phương tiện nào tốt hơn cho việc tu tập Bát Thánh đạo bằng sự làm bạn với người tốt. SN.v.32.
 
 ## Notes

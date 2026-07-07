@@ -5,7 +5,7 @@ base_headword: "Mahā Rathavimānavatthu"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Rathavimānavatthu. The story of the *Devaputta* <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Rathavimānavatthu. Câu chuyện về *Devaputta* Gopāla. Vv.v.14; Vv-a.270ff.
 
 ## Notes

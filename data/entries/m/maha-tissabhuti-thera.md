@@ -5,7 +5,7 @@ base_headword: "Mahā Tissabhūti Thera"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Tissabhūti Thera. An incumbent of the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Tissabhūti Thera. Một vị trú trì của Maṇḍalārāma. Trong khi đi khất thực trong làng, tâm của ngài đã bị ô nhiễm bởi một cảnh tượng bất thường. Do đó ngài đã quay trở về tu viện, nhưng, ngay cả trong giấc ngủ của mình, ngài vẫn bị ám ảnh bởi những gì ngài đã nhìn thấy, và, vô cùng kích động, ngài đã đi đến gặp Mahā Saṅgharakkhita và nhận được từ ngài ấy một công thức thiền định để dùng nó chống lại những cảm giác dục vọng đó. Với công thức này, ngài đã đi vào trong một lùm cây và nằm trên tấm y *paṁsukūla* (phấn tảo y) của mình và trở thành một *Anāgāmī*. MN­a.i.55.
 
 ## Notes

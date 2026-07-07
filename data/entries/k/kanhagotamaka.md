@@ -5,7 +5,7 @@ base_headword: "Kaṇhāgotamakā"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kaṇhāgotamakā, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇhāgotamakā, Kaṇhāgotamikā. Một hoàng tộc của những Nāga. AN.ii.72; Ja.ii.145.
 
 ## Notes

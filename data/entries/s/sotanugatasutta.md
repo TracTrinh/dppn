@@ -5,7 +5,7 @@ base_headword: "Sotānugatasutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Sotānugatasutta. A detailed explanation of the four advantages to be looked for
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sotānugatasutta. Một lời giải thích chi tiết về bốn lợi ích có thể được mong đợi từ việc thường xuyên thực hành bằng lời nói những lời dạy được nghe bằng tai, từ việc xem xét chúng trong tâm, và từ việc thấu suốt chúng một cách cặn kẽ nhờ chánh kiến. AN.ii.185ff.
 
 ## Notes

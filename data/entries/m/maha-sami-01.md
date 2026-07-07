@@ -5,7 +5,7 @@ base_headword: "Mahā Sāmi"
 disambiguator: "01"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -27,6 +27,6 @@ Mahā Sāmi 01. A name given by his people to <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sāmi 01. Một cái tên được dân chúng đặt cho Dappula, thống đốc của Rohaṇa và là cha của Māṇavamma. Cv.xlv.50.
 
 ## Notes

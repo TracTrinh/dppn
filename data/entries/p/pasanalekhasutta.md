@@ -5,7 +5,7 @@ base_headword: "Pāsāṇalekhasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -24,6 +24,6 @@ Pāsāṇalekhasutta. Three kinds of persons: like carvings on rock, on the grou
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāsāṇalekhasutta. Ba hạng người: giống như nét chạm khắc trên đá, trên mặt đất và trên mặt nước. Hạng thứ nhất dễ tức giận và sự tức giận của người ấy kéo dài; sự tức giận của hạng thứ hai không kéo dài; hạng thứ ba dễ dàng hòa giải. AN.i.283.
 
 ## Notes

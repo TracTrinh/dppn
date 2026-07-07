@@ -5,7 +5,7 @@ base_headword: "Sudatta"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sudatta 03. A *Khattiya*, father of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudatta 03. Một Sát-đế-lỵ (*Khattiya*), cha của Sumedha Buddha. Bv.xii.18; Ja.i.38; nhưng Bv­a. (172) gọi ông là Sudassana.
 
 ## Notes

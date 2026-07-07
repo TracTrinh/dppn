@@ -5,7 +5,7 @@ base_headword: "Romamukkharaṭṭha"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -27,6 +27,6 @@ Romamukkharaṭṭha. A country mentioned in the <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Romamukkharaṭṭha. Một xứ được nhắc đến trong Chú giải Mahā Vaṁsa là nơi giàu san hô; chính từ đó Bhātikābhaya (*q.v.*) đã lấy san hô để làm tấm lưới mà ông phủ lên Mahā Thūpa. Mhv­ṭ. 630.
 
 ## Notes

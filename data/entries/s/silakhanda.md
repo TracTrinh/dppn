@@ -5,7 +5,7 @@ base_headword: "Sīlakhaṇḍa"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -25,6 +25,6 @@ Sīlakhaṇḍa. A section of the <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīlakhaṇḍa. Một phần của Bhūridattajātaka (Ja 543). Ja.vi.184.
 
 ## Notes

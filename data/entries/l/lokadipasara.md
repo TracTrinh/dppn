@@ -5,7 +5,7 @@ base_headword: "Lokadīpasāra"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -26,6 +26,6 @@ Lokadīpasāra. A collection of chapters on different subjects hell, animal king
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lokadīpasāra. Một tập hợp các chương về các chủ đề khác nhau — địa ngục, thế giới động vật, v.v. — được viết bởi Medhaṅkara của Muttima *nagara*. Gv.64, 74; Bode, 35f.
 
 ## Notes

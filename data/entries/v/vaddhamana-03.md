@@ -5,7 +5,7 @@ base_headword: "Vaḍḍhamāna"
 disambiguator: "03"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -28,6 +28,8 @@ A story is related (AN­a.ii.522) of a hunter of Vaḍḍhamāna who, in the nam
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaḍḍhamāna 03. Một thành phố (*nagara*) ở Mahā Gāma, mà Gāmaṇi Abhaya (về sau là Duṭṭhagāmaṇī) được bổ nhiệm làm thủ lĩnh không lâu sau khi ra đời (Mhv­ṭ.443).
+
+Một câu chuyện được kể (AN­a.ii.522) về một người thợ săn ở Vaḍḍhamāna, người, nhân danh người thân đã khuất, đã bố thí cho một vị tỳ-kheo xấu ác. Ông làm vậy ba lần, cho đến khi vong hồn của *Peta* ấy kêu la phản đối. Ông liền bố thí cho một vị tỳ-kheo tốt lành. Vị *Peta* được lợi ích từ sự bố thí của ông.
 
 ## Notes

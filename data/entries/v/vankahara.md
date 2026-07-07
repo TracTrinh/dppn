@@ -5,7 +5,7 @@ base_headword: "Vaṅkahāra"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -30,6 +30,6 @@ Vaṅkahāra, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaṅkahāra, Vaṅgahāra. Một khu vực ở Ấn Độ, là nơi sinh của Tỷ-kheo-ni (Therī) Cāpā. Thīg­a.220; nhưng xem Snp­a.i.259, nơi *janapada* (quốc gia) này được gọi là Vaṅgahāra, chứ không phải Vaṅkahāra. Nó có lẽ nằm ở phía nam Magadha (Sisters.132f). Upaka từng sống ở đó một thời gian, ban đầu là một tu sĩ Ājīvaka và sau này là chồng của Cāpā. Người ta nói rằng nơi này từng bị quấy nhiễu bởi những loài ruồi dữ tợn. MN­a.i.388.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Maṅgalapāsāda"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -27,6 +27,6 @@ Maṅgalapāsāda. A palace in <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṅgalapāsāda. Một cung điện ở Kāsika, do Vissakamma xây dựng và là nơi Bodhighariya sinh sống trong một tiền kiếp sáu mươi lăm kappa trước. Ap.ii.401.
 
 ## Notes

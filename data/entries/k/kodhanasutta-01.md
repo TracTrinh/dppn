@@ -5,7 +5,7 @@ base_headword: "Kodhanasutta"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -23,6 +23,6 @@ Kodhanasutta 01. A woman who is wrathful is reborn in purgatory. SN.iv.240.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kodhanasutta 01. Một người phụ nữ hay phẫn nộ sẽ tái sinh vào địa ngục. SN.iv.240.
 
 ## Notes

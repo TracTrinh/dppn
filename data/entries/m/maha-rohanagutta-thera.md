@@ -5,7 +5,7 @@ base_headword: "Mahā Rohaṇagutta Thera"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -29,6 +29,6 @@ Mahā Rohaṇagutta Thera. Of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Rohaṇagutta Thera. Thuộc Therambatthala. Khi ngài bị ốm, ba mươi ngàn tỳ-kheo có quyền năng to lớn đã đến để chăm sóc ngài. Vua của các loài Nāga cũng có mặt, và khi nhà vua đang dâng cháo cho vị Trưởng lão, thì vua của các loài Supaṇṇa đã lao vun vút ngang qua bầu trời để bắt vua Nāga. Nhưng Buddharakkhita đã hóa hiện ra một ngọn núi, rồi ngài khiến cho vị Trưởng lão và Nāga đi vào trong đó. Vsm.155, 375; Dhs-a.187.
 
 ## Notes

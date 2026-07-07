@@ -5,7 +5,7 @@ base_headword: "Sudatta"
 disambiguator: "05"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sudatta 05. The personal name of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudatta 05. Tên riêng của Anāthapiṇḍika.
 
 ## Notes

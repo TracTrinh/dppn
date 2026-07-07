@@ -5,7 +5,7 @@ base_headword: "Mahantapariveṇa"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Mahantapariveṇa. A monastic building erected by a corporation (*pūga*) in <sp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahantapariveṇa. Một tòa nhà tu viện được dựng lên bởi một hội đoàn (*pūga*) ở Bandhumatī trong thời của Vipassī Buddha. Ap.ii.493 (vs. 19).
 
 ## Notes

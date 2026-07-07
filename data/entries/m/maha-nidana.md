@@ -5,7 +5,7 @@ base_headword: "Mahā Nidāna"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -25,6 +25,6 @@ Mahā Nidāna. Seventy-two *kappas* ago there were eight kings of this name, pre
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nidāna. Bảy mươi hai *kappa* về trước có tám vị vua mang tên này, những tiền kiếp của Trưởng lão Vātātapanivāriya. Ap.i.207.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Taṇḍulapatta"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Taṇḍulapatta. A village in <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Taṇḍulapatta. Một ngôi làng ở Rohaṇa. Cv.lxxiv.165.
 
 ## Notes

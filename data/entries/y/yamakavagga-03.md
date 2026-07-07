@@ -5,7 +5,7 @@ base_headword: "Yamakavagga"
 disambiguator: "03"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -24,6 +24,6 @@ Yamakavagga 03. The seventh chapter of the *Dasakanipāta* of the <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yamakavagga 03. Chương thứ bảy của phần *Dasakanipāta* thuộc Aṅguttaranikāya. AN.v.113-31.
 
 ## Notes

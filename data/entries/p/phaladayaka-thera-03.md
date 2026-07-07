@@ -5,7 +5,7 @@ base_headword: "Phaladāyaka Thera"
 disambiguator: "03"
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -28,6 +28,6 @@ Phaladāyaka Thera 03. An *Arahant*. Also called <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phaladāyaka Thera 03. Một *Arahant*. Cũng được gọi là Piyālaphaladāyaka. Trong thời của Đức Phật Sikhī ngài là một con chim bồ câu đã dâng cho Đức Phật một quả *piyāla*. Mười lăm *kappa* trước, ngài là một vị vua tên là Mālabhi (Ap.i.169f). Ngài có lẽ đồng nhất với Devasabha. Thag­a.i.187f.
 
 ## Notes

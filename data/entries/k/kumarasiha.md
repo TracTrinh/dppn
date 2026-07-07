@@ -5,7 +5,7 @@ base_headword: "Kumārasīha"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kumārasīha. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Con trai của Vimaladhammasūriya; ông được Vua Senāratana nhận nuôi và được ban cho tỉnh Uva. Ông mất khi còn trẻ. Cv.xcv.22; cũng xem Cv.Trs.ii.233, n.3.
 
 ## Notes

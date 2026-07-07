@@ -5,7 +5,7 @@ base_headword: "Uttarāpathaka"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uttarāpathaka. A resident of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttarāpathaka. Một người cư trú tại Uttarāpatha. Ja.ii.31; Vin.iii.6.
 
 ## Notes

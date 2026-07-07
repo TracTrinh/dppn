@@ -5,7 +5,7 @@ base_headword: "Mahā Panāda"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Panāda 02. A primeval king, descendant of <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Panāda 02. Một vị vua thời nguyên thủy, hậu duệ của Mahā Sammata. Mhv.ii.4; Dpv.iii.7.
 
 ## Notes

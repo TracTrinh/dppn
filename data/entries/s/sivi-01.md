@@ -5,7 +5,7 @@ base_headword: "Sivi"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sivi 01. A king of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sivi 01. Một vị vua của Ariṭṭhapura, cha của Bodhisatta (Ja.iv.401). Xem Sivijātaka (Ja 499).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vebhāra"
 disambiguator: "03"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vebhāra 03. The birthplace of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Nơi sinh của Siddhattha Buddha, nơi mà, sau đó, Ngài đã thuyết giảng Buddhavaṁsa, khi chín mươi crore chúng sinh liễu ngộ Chân lý. Bv.xvii.5, 13; Bv­a. p. 186; Ja.i.40.
 
 ## Notes

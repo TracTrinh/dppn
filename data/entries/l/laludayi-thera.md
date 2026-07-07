@@ -5,7 +5,7 @@ base_headword: "Lāḷudāyī Thera"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -67,6 +67,22 @@ According to the Commentaries (Vin-a.iii.517; Dhp­a.iii.5), this <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lāḷudāyī Thera. Một vị Trưởng lão nổi tiếng với tài "nói không đúng lúc." Ông sẽ đến những nơi mọi người đang vui hội rồi đọc những bài kệ thích hợp cho đám tang và ngược lại (Dhp­a.iii.123ff). Khi Gotama Buddha nghe chuyện này, ngài đã kể Somadattajātaka (Ja 211), cho thấy rằng trong các kiếp trước, Lāludāyī cũng đã có khuynh hướng tương tự. Ông được đồng nhất với người cha ngu ngốc (*Agnidatta*) của câu chuyện (Ja.ii.167; Dhp­a.iii.125). Ta cũng đọc được sự ghen tức của ông đối với những lời ca ngợi dành cho Sāriputta và Moggallāna vì kiến thức và khả năng giảng Pháp của họ, và ông tuyên bố mình có kiến thức ngang bằng với họ. Nhưng một hôm khi được yêu cầu thuyết pháp, ông ngồi trên pháp tòa cầm quạt vẽ, nhưng không tìm được gì để nói. Ông liền đồng ý sẽ thuyết vào buổi tối; nhưng điều tương tự lại xảy ra, và ông suýt mất mạng vì thính chúng quá tức giận. Đức Phật khi nghe chuyện này đã kể Sūkarajātaka (Ja 153) (trong đó Lāḷudāyī là con heo), cho thấy rằng trong quá khứ, ông cũng đã tự làm nhục mình vì tính tự cao. Ja.ii.344ff.; nhưng theo câu chuyện giới thiệu của bản thân Jātaka (trong Ja.ii.9ff.), tên của Lāḷudāyī không được đề cập, và sự kiện được mô tả có đôi chút khác biệt.
+
+Vào dịp khác, ông tranh luận với Dabba Mallaputta về việc phân phát thẻ cơm, và các tỳ-kheo, để dạy cho ông một bài học, đã giao thẻ cho ông phân phát. Nhưng ông tạo ra sự hỗn loạn đến mức ồn ào náo nhiệt, và Ānanda được Đức Phật phái đến để tìm hiểu chuyện gì đang xảy ra. Khi Ānanda trở về với câu chuyện này, Đức Phật đã kể Taṇḍulanālijātaka (Ja 5) để chỉ ra rằng trong quá khứ Lāḷudāyī đã là một kẻ thẩm định ngu ngốc (Ja.i.123ff). Naṅgalīsajātaka (Ja 123) nêu thêm một ví dụ về sự ngu ngốc và vụng về của ông (Ja.i.446ff); Padañjalijātaka (Ja 247, Ja.ii.263f) cũng vậy, trong đó ông được đồng nhất với Padañjali, một kẻ lười biếng, vô công rồi nghề. Trong Mahā Ummaggajātaka (Ja 546, Ja.vi.478) ông được đồng nhất với vị vua phần nào ngu ngốc, Vedeha.
+
+Lāḷudāyī một lần có cuộc thảo luận với Pasūra, người lúc đầu nghĩ ông thông minh và sáng suốt nên nhận ông làm thầy, được ông thọ giới. Nhưng sau đó, Pāsura dễ dàng đánh bại ông trong cuộc tranh luận (Snp­a.ii.540). Những người khác đến thăm Jetavana, thấy ông ngồi trên pháp tòa, cũng nhầm ông là một vị Trưởng lão xuất chúng, nhưng sớm phát hiện ra sự nhầm lẫn của mình (vd., Dhp­a.ii.31).
+
+Vào một dịp (AN.iii.192f.; AN­a.ii.628) Lāḷudāyī thậm chí dám bác bỏ Sāriputta về sự tái sinh trong số các *manomayadevā*. Sāriputta nhắc lại lời phát biểu của mình ba lần và Lāḷudāyī bác bỏ ba lần, và vì không có tỳ-kheo nào trong hội chúng ủng hộ Sāriputta, ông đã đưa Lāḷudāyī đến gặp Đức Phật, ở đó ông nhắc lại cùng một lời phát biểu ba lần, bị bác bỏ ba lần. Rồi Đức Phật gọi Lāḷudāyī là "kẻ ngu không có trí" và buộc ông im lặng. Ānanda là nhân chứng của cuộc tranh luận, nhưng không tham gia, do đó bị Đức Phật quở trách.
+
+Ở chỗ khác (AN.iv.414f.; AN­a.ii.810), tuy nhiên, ta thấy Lāḷudāyī lắng nghe với tất cả sự khiêm nhường một bài pháp của Sāriputta về Nibbāna, là sự an lạc không được cảm thọ (*avedayitasukha*). Dù kiến thức Pháp của Udāyī không sâu sắc, ông không ngần ngại tham gia thảo luận, thậm chí với chính Đức Phật, khi có dịp. Ta thấy ông bị Đức Phật quở trách hai lần vì biểu hiện sự vô minh này, một lần trong Mahā Kammavibhaṅgasutta (MN.iii.208) và một lần nữa trong cuộc thảo luận về *anussati* (AN.iii.322f). Trong cả hai trường hợp Ānanda đều có mặt, và trong cuộc thảo luận về *anussati*, ông được Đức Phật khen ngợi vì kiến thức của mình so với sự vô minh của Udāyī. Điều này làm Udāyī khó chịu, vì ta thấy ông đối mặt với Ānanda với sự kiện là dù ông đã thường xuyên ở bên Đức Phật, ông vẫn không thụ hưởng được điều đó, một nhận xét đã bị Đức Phật quở trách và sự xác nhận của ngài rằng Ānanda chắc chắn sẽ đạt được giải thoát trong chính kiếp này (AN.i.228; AN­a.i.441).
+
+Buddhaghosa gọi Lāḷudāyī là Kovariyaputta (Thag­a.ii.7; một số bản chép tay đọc là *nāṭakācariyaputta*). Không rõ điều này có nghĩa là cha ông được gọi là Kovariya.
+
+Vinaya (Vin.iii.110) đề cập đến một tỳ-kheo tên Udāyī là đồng nghiệp của Seyyasaka. Ông đã thuyết phục Seyyasaka phạm tội *Saṅghādisesa* đầu tiên, nói rằng chính ông cũng làm vậy. Vì điều này, hình phạt *Mānatta* được áp dụng cho ông.
+
+Theo các Chú giải (Vin-a.iii.517; Dhp­a.iii.5), vị Udāyī này được đồng nhất với Lāḷudāyī, và nếu đúng như vậy, có lẽ cùng một tỳ-kheo đó đã phạm nhiều tội Vinaya được quy cho Udāyī — xem Udāyī (2) — mặc dù Vinaya Commentary không ở đâu khác xác định rõ điều này (vd., Vin-a.iii.541, 549, 552, trong đó ông chỉ được gọi là Udāyī), ngoại trừ một lần (Vin-a.iv.804), khi ông được đề cập là đã may một chiếc y thêu cho một ni cô và thuyết phục bà mặc nó trong hội chúng của các ni! Có phải điều này là vì nhà Chú giải coi hai vị Udāyī là những người khác nhau (vd., MN­a.i.348)?
+
+Lāḷudāyī được nêu làm ví dụ về một người không làm lợi ích gì cho mình cũng như cho người khác (*neva attahitāya paṭipanno no parahitāya*). Buddhaghosa ở chỗ khác (Vin-a.iii.517) mô tả ông là "*bhantamigasappaṭibhāgo niddārāmatādiṁ anuyuttānaṁ aññataro lolabhikkhu* (một tỳ-kheo tham lam, có thể so sánh với một con nai đang hứng tình, chuyên đắm mình trong những thứ như thích ngủ, v.v.)."
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Soṇadaṇḍa"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -33,6 +33,8 @@ Soṇadaṇḍa. A rich Brahmin of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Soṇadaṇḍa. Một Bà-la-môn giàu có ở Campā, rất thông thạo các bộ Veda; người sống trong một lãnh thổ hoàng gia, được vua Bimbisāra ban cấp như một lãnh địa phong. Khi Đức Phật ở Campā, bên bờ hồ Gaggarā, Soṇadaṇḍa đến thăm Ngài bất chấp sự phản đối của các bạn hữu và đồng nghiệp. Cuộc trò chuyện của họ được ghi lại trong Soṇadaṇḍasutta. Sau kết thúc bài giảng, Soṇadaṇḍa bày tỏ sự trân trọng Đức Phật và giáo pháp, và mời Ngài cùng các tỳ-khưu dùng bữa. Kết thúc bữa ăn, Soṇadaṇḍa xin Đức Phật tha thứ nếu, trước mặt các Bà-la-môn, ông không làm lễ tầm tả trước Đức Phật, mà chỉ cúi đầu chào. Buddhaghosa giải thích rằng điều này là do Soṇadaṇḍa lớn tuổi hơn Đức Phật nhiều và không muốn người ta thấy ông làm lễ đối với người trẻ chế đủ cháu mình (DN.i.111ff., DN­a.i.292ff). Tuy nhiên, có lẽ sự cải đạo của Soṇadaṇḍa chỉ mới một phần.
+
+Aṅgaka (*q.v.*) là cháu trai (con của em gái) của Soṇadaṇḍa.
 
 ## Notes

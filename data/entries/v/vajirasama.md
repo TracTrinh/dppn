@@ -5,7 +5,7 @@ base_headword: "Vajirasama"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vajirasama. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vajirasama. *v.l.* Vajirāsakha. Chín mươi mốt *kappa* trước, có bảy vị vua mang tên này, tất cả đều là tiền thân của Sucidāyaka Trưởng lão (Ap.i.135).
 
 ## Notes

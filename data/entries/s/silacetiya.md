@@ -5,7 +5,7 @@ base_headword: "Silācetiya"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Silācetiya. A *Thūpa* in <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Silācetiya. Một *Thūpa* ở Anurādhapura, có lẽ gần Thūpārāma (AN­a.i.385). Nơi này được thánh hóa bởi việc Đức Phật đã ngồi thiền tại đó. Mhv.i.82.
 
 ## Notes

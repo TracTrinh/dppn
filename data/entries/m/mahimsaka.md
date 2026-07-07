@@ -5,7 +5,7 @@ base_headword: "Mahiṁsaka"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -39,6 +39,6 @@ Mahiṁsaka, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahiṁsaka, Mahiṁsakaraṭṭha, Mahiṁsakamaṇḍala. Một vương quốc được nhắc đến trong Saṅkhapālajātaka (Ja 524) như là nằm gần Núi Candaka. Ở đó vị Bồ-tát đã sinh sống, trong một am thất ở trên một khúc quanh của dòng sông Kaṇṇapaṇṇā, nơi nó tách ra khỏi Hồ Saṅkhapāla (Ja.v.162). Keka được nhắc đến như là thủ đô của Mahiṁsaka, nơi có một vị vua tên là Ajjuna đã từng cai trị (Ja.v.145); cũng là một thành phố, được gọi là Sakula, thủ đô của Vua Sakula. Nằm gần Sakula có một hồ nước, được gọi là Mānusiya (Ja.v.337). Trong Bhīmasenajātaka (Ja 80, Ja.i.356) vị Bồ-tát được nhắc đến là đang sống trong một khoảng thời gian ở Mahiṁsaka trong kiếp sống của ngài như là Cūḷa Dhanuggaha *paṇḍita*. Mahiṁsaka được nhắc đến (ví dụ, Vibh-a.4) như là một ví dụ về một quốc gia nơi thời tiết lạnh giá thường xuyên xảy ra. Quốc gia này thường được đồng nhất với Malayagiri, thuộc dãy núi Ghats của vùng Malabar. Xem thêm Mahisamaṇḍala.
 
 ## Notes

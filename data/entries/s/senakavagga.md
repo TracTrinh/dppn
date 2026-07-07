@@ -5,7 +5,7 @@ base_headword: "Senakavagga"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Senakavagga. The second chapter of the *Chakkanipāta* of the <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Senakavagga. Chương thứ hai của *Chakkanipāta* thuộc Jātaka Commentary. Ja.iii.276-316.
 
 ## Notes

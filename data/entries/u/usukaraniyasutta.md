@@ -5,7 +5,7 @@ base_headword: "Usukāraṇiyasutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -28,6 +28,6 @@ Usukāraṇiyasutta. Describes one of the *Petas* of <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Usukāraṇiyasutta. Mô tả một trong những ngạ quỷ (Peta) ở Gijjhakūṭa, được Moggallāna nhìn thấy, khi đi cùng với Lakkhaṇa. Vị ngạ quỷ (Peta) này từng là một vị quan tòa ở Rājagaha và đã đối xử tàn ác với các phạm nhân. Thể xác của ngạ quỷ (Peta) này tua tủa những mũi tên. SN.ii.257.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kupikkala"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,6 @@ Kupikkala. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+*v.l.* Kuvikkala, Kubbikāla, Kuṭṭhikula. Nơi sinh của Trưởng lão Mahā Tissa. Mhv.xxxiii.49.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Upayantisutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -23,6 +23,6 @@ Upayantisutta. When the ocean rises with the tide, the rivers, their tributaries
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upayantisutta. Khi đại dương dâng lên theo thủy triều, các dòng sông, các nhánh sông của chúng, các hồ và hồ nhỏ trên núi, tất cả đều dâng lên như một kết quả. Tương tự như vậy, vô minh gia tăng sẽ khiến cho, lần lượt, hữu, sinh và già và chết cũng gia tăng và tăng lên. SN.ii.118f.
 
 ## Notes

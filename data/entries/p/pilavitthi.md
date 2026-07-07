@@ -5,7 +5,7 @@ base_headword: "Pilaviṭṭhi"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -26,6 +26,6 @@ Pilaviṭṭhi. A locality in the <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pilaviṭṭhi. Một địa phương ở Dakkhiṇadesa của Tích Lan, nơi từng có một pháo đài (Cv.lxix.8; lxx.71). Nó có lẽ cũng chính là Pillaviṭṭhi.
 
 ## Notes

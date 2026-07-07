@@ -5,7 +5,7 @@ base_headword: "Vāsabhagāma"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -29,6 +29,6 @@ Vāsabhagāma. A village in <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngôi làng ở Kāsī. Nơi đây từng là nơi cư ngụ của Kassapa Thera (*q.v.*) (Vin.i.312f). Vượt qua ngôi làng này là một ngôi làng khác, tên là Cundaṭṭhila, nằm giữa Vāsabhagāma và Benares. Pv.iii.1; Pv-a. 168,170.
 
 ## Notes

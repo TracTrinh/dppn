@@ -5,7 +5,7 @@ base_headword: "Pāsasutta"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -27,6 +27,6 @@ Pāsasutta 01. Preached at the <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāsasutta 01. Được thuyết giảng tại Migadāya ở Isipatana. Đức Phật nói với các tỳ-kheo rằng ngài đã chứng ngộ sự giải thoát tối thượng bằng *yonisomanasikāra*, và khẳng định rằng ngài đã thoát khỏi cạm bẫy của Māra. SN.i.105.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vibhāta"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vibhāta. One of the eleven children of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vibhāta. Một trong mười một người con của Paṇḍuvāsudeva và Bhaddakaccānā. Dpv.x.3; xem thêm xviii.41, 44.
 
 ## Notes

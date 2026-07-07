@@ -5,7 +5,7 @@ base_headword: "Kaṇṭakā"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kaṇṭakā (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇṭakā (*v.l.* Kaṇḍakā). Một tỳ-kheo-ni phạm tội bất chính với sa-di Kaṇṭaka (Vin.i.85).
 
 ## Notes

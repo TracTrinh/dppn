@@ -5,7 +5,7 @@ base_headword: "Vāha"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vāha. The name of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vāha. Tên của con ngựa nghi lễ của Eḷāra, bị Veḷusumana đánh cắp. Mhv­ṭ.440.
 
 ## Notes

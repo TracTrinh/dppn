@@ -5,7 +5,7 @@ base_headword: "Kallagāma"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kallagāma. A village in Ceylon. In the village was the <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kallagāma. Một ngôi làng ở Tích Lan. Trong ngôi làng có Maṇḍalārāma *vihāra* (xem ở mục từ tương ứng). AN­a.i.22, 52.
 
 ## Notes

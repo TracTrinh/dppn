@@ -5,7 +5,7 @@ base_headword: "Mahinda"
 disambiguator: "22"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mahinda 22. A minister and kinsman of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahinda 22. Một đại thần và là người thân của Parakkamabāhu I. Ông đã sống trong cung điện và dựng lên tại Pulatthipura một *pāsāda* cho Xá-lợi Răng. Cv.lxxiii.124ff.
 
 ## Notes

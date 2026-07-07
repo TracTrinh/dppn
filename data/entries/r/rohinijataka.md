@@ -5,7 +5,7 @@ base_headword: "Rohiṇījātaka"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -29,6 +29,8 @@ The story was related to <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rohiṇījātaka (Ja 45). Có lần Bodhisatta là vị trưởng giả của Benares và có một nữ nô tên là Rohiṇī. Một hôm, khi Rohiṇī đang giã gạo, mẹ của nàng nằm gần đó và ruồi đậu lên người bà, cắn bà. Khi bà bảo con gái đuổi ruồi đi, người con gái nhấc chày lên và đập vào bà, định giết ruồi. Nhưng thay vì giết ruồi, nàng lại giết chết mẹ mình.
+
+Câu chuyện được kể lại cho Anāthapiṇḍika liên quan đến một nữ nô của ông cũng tên là Rohiṇī, người đã giết mẹ mình theo cách tương tự. Người mẹ và người con gái trong cả hai câu chuyện là một. Ja.i.248f.
 
 ## Notes

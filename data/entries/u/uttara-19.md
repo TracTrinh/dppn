@@ -5,7 +5,7 @@ base_headword: "Uttara"
 disambiguator: "19"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Uttara 19. The city in which <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttara 19. Thành phố nơi Maṅgala Buddha được sinh ra. Bv.iv.22; Ja.i.34.
 
 ## Notes

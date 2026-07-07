@@ -5,7 +5,7 @@ base_headword: "Keheta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -25,6 +25,6 @@ Keheta. A village in Ceylon, given by <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Keheta. Một ngôi làng ở Tích Lan, do Jeṭṭhatissa III ban tặng để duy trì Gaṅgāmātivihāra. Cv.xliv.99.
 
 ## Notes

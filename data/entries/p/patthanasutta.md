@@ -5,7 +5,7 @@ base_headword: "Paṭṭhānasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -28,6 +28,6 @@ Paṭṭhānasutta. Three good results for which the good life should be lived. 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṭṭhānasutta. Ba quả báu tốt đẹp để hướng đến tu tập đời sống phạm hạnh. Suttasaṅgaha No.29; Iti.67f. Có lẽ tên gọi chính xác là Patthanāsutta. Udāna gọi nó là Sukkasutta.
 
 ## Notes

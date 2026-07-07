@@ -5,7 +5,7 @@ base_headword: "Vaḍḍhamāna"
 disambiguator: "06"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vaḍḍhamāna 06. A district in Ceylon, given by King <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaḍḍhamāna 06. Một quận ở Tích Lan, được vua Saddhātissa ban tặng cho quan đại thần Saddhātissa (2). Ras.ii.10.
 
 ## Notes

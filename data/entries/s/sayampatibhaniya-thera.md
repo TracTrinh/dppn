@@ -5,7 +5,7 @@ base_headword: "Sayampaṭibhāniya Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -25,6 +25,6 @@ Sayampaṭibhāniya Thera. An *Arahant*. He is evidently to be identified with <
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sayampaṭibhāniya Thera. Một *Arahant*. Ngài hiển nhiên được đồng nhất với Khujjasobhita Thera. Ap.ii.410f.
 
 ## Notes

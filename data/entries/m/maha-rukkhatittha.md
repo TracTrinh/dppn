@@ -5,7 +5,7 @@ base_headword: "Mahā Rukkhatittha"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Rukkhatittha. A ford in the <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Rukkhatittha. Một bến đò trên dòng sông Mahā Vālukagaṅgā. Cv.lxxii.11; Cv.Trs.i.320, n.1.
 
 ## Notes

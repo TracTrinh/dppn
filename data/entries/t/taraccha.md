@@ -5,7 +5,7 @@ base_headword: "Taracchā"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -28,6 +28,6 @@ Taracchā. The name of a clan in Ceylon. The name is totemistic. This clan was a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Taracchā. Tên gọi của một thị tộc ở Tích Lan. Tên gọi mang tính chất vật tổ (totem). Thị tộc này là một trong số những bộ tộc đã đi theo cây Bodhi đến Tích Lan (Mhv.xix.2). Khi Aggabodhi I, dựng một bức tượng của Mahinda bên bờ hồ Mahindataṭa, bức tượng đó đã được mang vác bởi nhóm Taracchā. Cv.xlii.30; xem Cv.Trs.i.29, n.2.
 
 ## Notes

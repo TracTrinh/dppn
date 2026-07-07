@@ -5,7 +5,7 @@ base_headword: "Mahā Tissa"
 disambiguator: "09"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -29,6 +29,6 @@ Mahā Tissa 09. A man of the <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Tissa 09. Một người đàn ông thuộc dòng tộc Okkāka, cha của Dappula I. Vợ của ông là Saṅghasivā, và họ có hai người con trai khác, Aggabodhi và Maṇi­akkhika, và một cô con gái. Cv.xlv.38.
 
 ## Notes

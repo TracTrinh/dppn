@@ -5,7 +5,7 @@ base_headword: "Pātisutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -24,6 +24,6 @@ Pātisutta. Dire are gains, favours and flattery. They tempt even a man, otherwi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pātisutta. Các lợi đắc, sự ưu ái và lời xu nịnh thật là khủng khiếp. Chúng cám dỗ ngay cả một người, mặt khác vốn không thể mua chuộc, nói dối vì lợi ích của một chiếc bát bạc chứa đầy bụi vàng, hoặc một chiếc bát vàng chứa đầy bụi bạc. SN.ii.233.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kammavagga"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kammavagga. The twenty-fourth chapter of the *Catukkanipāta* of the <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kammavagga. Chương thứ hai mươi tư của *Catukkanipāta* thuộc Aṅguttaranikāya. Nó chứa mười bài kinh (*Sutta*) về nhiều loại hành động khác nhau, bốn hạng khổ hạnh và những phước lành của một người tốt (AN.ii.230-9). Bản chú giải gọi nó là Maggavagga.
 
 ## Notes

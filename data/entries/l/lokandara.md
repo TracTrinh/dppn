@@ -5,7 +5,7 @@ base_headword: "Lokaṇḍara"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -26,6 +26,6 @@ Lokaṇḍara. A monastery, evidently in Ceylon. <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lokaṇḍara. Một tu viện, có lẽ ở Tích Lan. Maliyadeva Thera đã thuyết Chachakkasutta ở đó và sáu mươi tỳ-kheo trở thành *Arahant*. MN­a.ii.1024.
 
 ## Notes

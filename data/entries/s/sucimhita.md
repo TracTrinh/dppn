@@ -5,7 +5,7 @@ base_headword: "Suciṁhita"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Suciṁhita. A celestial musician, or perhaps a musical instrument. Vv.ii.10; Vv
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suciṁhita. Một nhạc công cõi trời, hoặc có lẽ là một loại nhạc cụ. Vv.ii.10; Vv-a.93, 96, 211; nhưng xem 372.
 
 ## Notes

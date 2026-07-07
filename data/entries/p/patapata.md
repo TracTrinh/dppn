@@ -5,7 +5,7 @@ base_headword: "Pātapata"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -25,6 +25,6 @@ Pātapata. A locality in South India, mentioned in the account of the campaigns 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pātapata. Một địa phương ở Nam Ấn Độ, được nhắc đến trong bản báo cáo về các chiến dịch của Laṅkāpura. Cv.lxxvi.224, 234.
 
 ## Notes

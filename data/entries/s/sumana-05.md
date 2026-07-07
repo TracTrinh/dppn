@@ -5,7 +5,7 @@ base_headword: "Sumana"
 disambiguator: "05"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -31,6 +31,10 @@ In reply to a question by <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumana 05. Một người kết vòng hoa, được đưa ra như một ví dụ về một người mà những hành động của người đó đã mang lại kết quả ngay trong kiếp sống này (Mil.115, 291, 350; cf. Dhs-a.426; Paṭis-a.498). Anh ta là người làm vườn của Bimbisāra, và hàng ngày cung cấp cho nhà vua tám giỏ hoa nhài, đổi lại anh ta nhận được tám đồng tiền. Một ngày nọ, trong khi đang trên đường đến cung điện, anh ta nhìn thấy Đức Phật, và đã tung hai vốc hoa lên không trung, nơi chúng tạo thành một chiếc tán bên trên đầu Đức Phật. Hai vốc hoa tung về phía bên phải, hai vốc về phía bên trái và hai vốc ở phía sau, tất cả đều lưu lại tương tự ở trong không trung và đi theo Đức Phật khi ngài đi qua thành phố, một khoảng cách dài ba lý (*league*), để tất cả mọi người có thể nhìn thấy phép màu đó.
+
+Khi Sumana trở về nhà với chiếc giỏ trống không của mình và nói với vợ những gì anh ta đã làm, cô ấy đã lo sợ rằng nhà vua sẽ trừng phạt anh. Đi đến cung điện, cô thú nhận những gì anh ta đã làm, và xin được tha thứ cho bản thân cô bởi vì cô không có can dự gì vào hành động đó. Bimbisāra đã đến thăm Đức Phật và sau đó cho gọi Sumana đến. Sumana thú nhận rằng khi anh dâng những bông hoa cho Đức Phật anh đã hoàn toàn chuẩn bị sẵn sàng để mất đi mạng sống của mình. Nhà vua đã trao cho anh món quà gấp tám lần: tám nữ tỳ, tám bộ đồ trang sức, tám ngàn đồng tiền, tám người phụ nữ từ hậu cung hoàng gia, và tám ngôi làng.
+
+Trả lời một câu hỏi của Ānanda, Đức Phật nói rằng trong tương lai người kết vòng hoa đó sẽ trở thành một vị Pacceka Buddha, Sumana. Dhp­a.ii.40f.; Khp­a.129. Theo Khp­a., tên của vị Pacceka Buddha đó sẽ là Sumanissara.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sujāta"
 disambiguator: "13"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -28,6 +28,6 @@ Sujāta 13. called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sujāta 13. gọi là Sujāta Pippalāyana của Mahā Tittha. Ông đã kết hôn với con gái của người Bà-la-môn Kapila, một tiền kiếp của Bhaddā Kāpilānī. Thīg­a.73.
 
 ## Notes

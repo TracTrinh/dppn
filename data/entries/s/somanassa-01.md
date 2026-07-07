@@ -5,7 +5,7 @@ base_headword: "Somanassa"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Somanassa 01. A king of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Somanassa 01. Một vị vua của Videha, được cho là người đã lập nên thành Mithilā. Ja.vi.47, 51.
 
 ## Notes

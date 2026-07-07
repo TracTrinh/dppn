@@ -5,7 +5,7 @@ base_headword: "Kesaputta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kesaputta. A township of the <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kesaputta. Một thị trấn của người Kosala và là nơi cư trú của những người Kālāma. Có một lần Đức Phật ở lại đó, và nhân dịp này ngài đã thuyết giảng bài Kesaputtiyasutta. AN.i.188.
 
 ## Notes

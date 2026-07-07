@@ -5,7 +5,7 @@ base_headword: "Paññavagga"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Paññavagga. The third section of the <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paññavagga. Phần thứ ba của Paṭisambhidāmagga.
 
 ## Notes

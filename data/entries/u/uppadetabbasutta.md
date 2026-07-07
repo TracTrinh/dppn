@@ -5,7 +5,7 @@ base_headword: "Uppādetabbasutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -24,6 +24,6 @@ Uppādetabbasutta. On six states which a person holding right views will never r
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uppādetabbasutta. Về sáu trạng thái mà một người giữ chánh kiến sẽ không bao giờ rơi vào. AN.iii.438.
 
 ## Notes

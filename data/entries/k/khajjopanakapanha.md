@@ -5,7 +5,7 @@ base_headword: "Khajjopanakapañha"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -31,6 +31,8 @@ It is evidently this story which is mentioned elsewhere (Ja.iii.197) as a separa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khajjopanakapañha. Khi, do hậu quả của một âm mưu của Senaka và các quan đại thần khác của Vedeha, Mahosadha đã buộc phải trốn khỏi Hoàng cung và sống như một thợ gốm ở bên ngoài cổng thành, vị Devatā ngự ở lọng che của nhà vua, vì muốn nhìn thấy ngài được phục chức, đã hiện ra trước mặt nhà vua và đặt cho ông một số câu hỏi. Nhà vua đã tham khảo ý kiến của Senaka và các đồng sự của ông ta, nhưng họ không thể tìm ra giải pháp nào. Vị thần lại hiện ra trước mặt ông và nói rằng ông giống như một người, khi muốn có một ngọn lửa, lại đi thổi vào một con đom đóm, vò nát phân bò và cỏ lên trên nó, hoặc, khi muốn có sữa, lại đi vắt sừng bò. Sau đó, bà đe dọa nhà vua bằng cái chết nếu các câu hỏi của bà không được giải đáp. Trong cơn tuyệt vọng, nhà vua đã sai người đi tìm Mahosadha (Ja.vi.371f).
+
+Hiển nhiên chính là câu chuyện này được nhắc đến ở một chỗ khác (Ja.iii.197) như một Jātaka riêng biệt, nhưng không có thông tin chi tiết nào được cung cấp, và người đọc được chỉ dẫn tìm đọc trong Khajjopanakapañha.
 
 ## Notes

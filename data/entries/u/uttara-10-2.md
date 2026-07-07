@@ -5,7 +5,7 @@ base_headword: "Uttarā"
 disambiguator: "10"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uttarā 10. *Aggasāvikā* of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttarā 10. Aggasāvikā của Nārada Buddha. Ja.i.37; Bv.x.24.
 
 ## Notes

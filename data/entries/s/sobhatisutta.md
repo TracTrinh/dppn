@@ -5,7 +5,7 @@ base_headword: "Sobhatisutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -23,6 +23,6 @@ Sobhatisutta. Monks, nuns and lay disciples, both male and female, who are accom
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sobhatisutta. Chư tăng, chư ni và các đệ tử tại gia, cả nam lẫn nữ, những ai thành tựu trí tuệ, có kỷ luật, tự tin, học rộng, là người nghe Pháp, sống theo Pháp – những người này làm rạng rỡ giáo pháp. AN.ii.8.
 
 ## Notes

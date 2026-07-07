@@ -5,7 +5,7 @@ base_headword: "Koṭagerukapāsāda"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -28,6 +28,6 @@ Koṭagerukapāsāda. A building attached to the <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koṭagerukapāsāda. Một tòa nhà trực thuộc Cittalapabbatavihāra. Bhāgineyya Saṅgharakkhita từng sống ở đó, và trong khi ông bị bệnh, tám ngàn vị Arahant và Sakka, cùng với chư thiên của hai cõi *Deva*, đã hầu hạ ông. Mhv­ṭ.552.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sujātajātaka"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -29,6 +29,8 @@ The story was related to <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sujātajātaka 01. (Ja 269). Bodhisatta từng là vua của Benares. Mẹ của ngài là một người phụ nữ nóng tính, khắc nghiệt và độc mồm, và Bodhisatta đã chờ đợi một cơ hội để khuyên can bà. Một ngày nọ, khi ngài hộ tống bà đến công viên, một con giẻ cùi xanh rít lên, và các cận thần bịt tai lại, nói rằng: “Thật là một tiếng kêu thét! Hãy dừng nó lại!” Vào một ngày khác, họ nghe thấy một con chim cúc cu hót và đứng háo hức lắng nghe. Bodhisatta đã chỉ ra điều này cho mẹ của ngài và để bà tự rút ra kết luận cho riêng mình. Bà đã hiểu ra và tự sửa đổi bản thân.
+
+Câu chuyện đã được kể cho người con dâu của Anāthapiṇḍika, Sujātā, người được đồng nhất với thái hậu. Ja.ii.347-51.
 
 ## Notes

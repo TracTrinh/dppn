@@ -5,7 +5,7 @@ base_headword: "Rukkhasutta"
 disambiguator: "01"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -23,6 +23,6 @@ Rukkhasutta 01. Of those who sit at the foot of trees, he who does so because he
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rukkhasutta 01. Trong số những người ngồi dưới gốc cây, người làm như vậy vì mong muốn sự độc cư và ít nhu cầu, là người tốt nhất. AN.iii.219.
 
 ## Notes

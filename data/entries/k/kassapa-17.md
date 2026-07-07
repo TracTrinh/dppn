@@ -5,7 +5,7 @@ base_headword: "Kassapa"
 disambiguator: "17"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -27,6 +27,6 @@ Kassapa 17. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kassapa 17. Con trai của Kittaggabodhi, người cai trị Rohaṇa. Khi người anh cả của ông bị cô ruột sát hại, Kassapa đã bỏ trốn đến triều đình của Vua Sena I, nhưng sau đó, với sự giúp đỡ của Sena, ông đã giành lại được di sản của cha mình (Cv.l.54ff). Có lẽ ông đã bị giết bởi *Ādipāda* Kittaggabodhi. Cv.li.96; và Cv.Trs.i.157, n.2.
 
 ## Notes

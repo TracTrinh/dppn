@@ -5,7 +5,7 @@ base_headword: "Vāhadīpa"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -29,6 +29,6 @@ Vāhadīpa, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vāhadīpa, Vāhadīpavihāra. Một tu viện ở Tích Lan, mà Aggabodhi VI. đã cho xây thêm một *Pāsāda* (Cv.xlviii.65), và Udaya I. thêm một *pāsāda* nữa gọi là Senaggabodhipabbata (Cv.xlix.33), về sau được Dappula II. tu sửa. Cv.xlix.76.
 
 ## Notes

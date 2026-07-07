@@ -5,7 +5,7 @@ base_headword: "Pessa"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -28,6 +28,6 @@ Pessa. An elephant trainer of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pessa. Một người nài voi của Campā. Ông đã viếng thăm Đức Phật tại *pokkharaṇī* Gaggarā nơi Kandaraka cũng đang hiện diện, và cuộc trò chuyện của ông vào dịp đó được ghi lại trong Kandarakasutta. Khi Pessa đã rời đi, Đức Phật được cho là đã nói rằng ông là một người có sự hiểu biết sâu sắc, và nếu ông ở lại lâu hơn, ông đã có thể mang theo bên mình một điều gì đó chắc chắn sẽ chứng tỏ là quý giá đối với ông. MN.i.339-42.
 
 ## Notes

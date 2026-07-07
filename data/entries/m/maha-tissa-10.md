@@ -5,7 +5,7 @@ base_headword: "Mahā Tissa"
 disambiguator: "10"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -31,6 +31,6 @@ Mahā Tissa 10. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Tissa 10. Mahā Tissa Thera. Vị trú trì của tu viện Koṭapabbata và là vị thầy của Asubhakammikatissa. Ngài là một *Arahant*, và đã nghe được, bằng thiên nhĩ của mình, lời mô tả được đưa ra trong Lohapāsāda bởi Trưởng lão Cittagutta về những điều kỳ diệu của Mahā Thūpa. Mahā Tissa nói với Cittagutta rằng lời mô tả đó vẫn chưa đủ đầy đủ. Mhv­ṭ. 552f.
 
 ## Notes

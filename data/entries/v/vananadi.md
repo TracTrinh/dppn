@@ -5,7 +5,7 @@ base_headword: "Vananadī"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vananadī. A river in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vananadī. Một con sông ở Rohaṇa. Cv.lxxv.156; được xác định là Velavegaṅga (Cv.Trs.ii.59, n.4).
 
 ## Notes

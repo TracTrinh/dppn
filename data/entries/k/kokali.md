@@ -5,7 +5,7 @@ base_headword: "Kokāli"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -25,6 +25,6 @@ Kokāli. The name of a country, a town and a *seṭṭhi*, all connected with <s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kokāli. Tên của một đất nước, một thị trấn và một *seṭṭhi*, tất cả đều có liên quan đến Kokālika. Xem Kokālika 2. Snp­a.473; Ja.iv.242.
 
 ## Notes

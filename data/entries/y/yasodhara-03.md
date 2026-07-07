@@ -5,7 +5,7 @@ base_headword: "Yasodhara"
 disambiguator: "03"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -25,6 +25,6 @@ Yasodhara 03. A Brahmin, father of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yasodhara 03. Một Bà-la-môn, cha của Subhadda, người đã trở thành một trong những đệ tử chính của Koṇḍañña Buddha. Bv­a.110.
 
 ## Notes

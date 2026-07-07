@@ -5,7 +5,7 @@ base_headword: "Tāmalitti"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -34,6 +34,10 @@ When Faxian came to Ceylon, he embarked at Tāmluk. Giles: op.cit. p.65.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tāmalitti (Tāmalitthi). Bến cảng mà từ đó nhánh cây bodhi đã được Asoka gửi đến Tích Lan (Mhv.xi.38; Dpv.iii.33). Người ta kể rằng Asoka đã khởi hành từ Pāṭaliputta, vượt sông Ganges bằng thuyền, băng qua Vinijhāṭavi, và nhờ đó đến được Tāmalitti (Vin-a.i.90f).
+
+Địa điểm này được đồng nhất với Tāmluk ngày nay, trước đây nằm trên cửa sông Ganges, nhưng nay lại nằm trên bờ phía tây của dòng Rūpnārāyana.
+
+Khi Faxian (Pháp Hiển) đến Tích Lan, ông đã lên thuyền tại Tāmluk. Giles: op.cit. p.65.
 
 ## Notes

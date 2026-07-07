@@ -5,7 +5,7 @@ base_headword: "Sīlakūṭa"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -33,6 +33,6 @@ Sīlakūṭa. The summit of the <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīlakūṭa. Đỉnh của Missakapabbata ở Ambatthala. Chính tại đó Mahinda đã hạ xuống khi ngài đến Tích Lan (Mhv.xiii.20). Vào thời Kakusandha Buddha, nó được gọi là Devakūṭa; vào thời Koṇāgamana, là Sumanakūṭa; vào thời Kassapa, là Subhakūṭa. Dpv.xvii.14.
 
 ## Notes

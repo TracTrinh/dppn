@@ -5,7 +5,7 @@ base_headword: "Senā"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Senā 01. Queen of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Senā 01. Hoàng hậu của Udaya I. Cv.xlix.2.
 
 ## Notes

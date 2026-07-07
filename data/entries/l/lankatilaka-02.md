@@ -5,7 +5,7 @@ base_headword: "Laṅkātilaka"
 disambiguator: "02"
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -25,6 +25,6 @@ Laṅkātilaka 02. A park in Ceylon, laid out by <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Laṅkātilaka 02. Một công viên ở Tích Lan, được Parakkamabāhu I. quy hoạch. Cv.lxxix.9.
 
 ## Notes

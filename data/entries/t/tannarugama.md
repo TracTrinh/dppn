@@ -5,7 +5,7 @@ base_headword: "Tannarugāma"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tannarugāma. A village near <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tannarugāma. Một ngôi làng gần Pulatthipura, bối cảnh diễn ra vài cuộc đụng độ giữa lực lượng của Parakkamabāhu I. và kẻ thù của ông. Cv.ixx.313, 316, 319; lxxii.175.
 
 ## Notes

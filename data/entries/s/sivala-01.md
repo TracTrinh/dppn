@@ -5,7 +5,7 @@ base_headword: "Sīvalā"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -26,6 +26,6 @@ Sīvalā 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīvalā 01. Sīvalī. Một *Aggasāvikā* của Siddhattha Buddha. Bv.xvii.19; Ja.i.40.
 
 ## Notes

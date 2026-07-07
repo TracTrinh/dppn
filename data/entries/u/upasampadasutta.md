@@ -5,7 +5,7 @@ base_headword: "Upasampadāsutta"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -24,6 +24,6 @@ Upasampadāsutta. On the qualities which a monk should possess in order to admit
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upasampadāsutta. Về những phẩm chất mà một tỳ-kheo nên sở hữu để có thể chấp nhận những người khác vào Tăng đoàn. AN.v.72.
 
 ## Notes

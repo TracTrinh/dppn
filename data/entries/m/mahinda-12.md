@@ -5,7 +5,7 @@ base_headword: "Mahinda"
 disambiguator: "12"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mahinda 12. Eldest son of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahinda 12. Người con trai lớn nhất của Kittaggabodhi, người cai trị của Rohaṇa. Ông đã bị giết bởi người em gái của Kittaggabodhi. Cv.l.51.
 
 ## Notes

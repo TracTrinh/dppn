@@ -5,7 +5,7 @@ base_headword: "Parijānanasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Parijānanasutta. Without comprehending and detaching himself from the all – e
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parijānanasutta. Nếu không thấu hiểu và tách rời bản thân khỏi tất cả – mắt, mũi, v.v. – một người sẽ không thể dập tắt khổ đau. SN.iv.17.
 
 ## Notes

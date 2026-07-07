@@ -5,7 +5,7 @@ base_headword: "Khujjuttarā"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -53,6 +53,18 @@ It is said (Ud­a.384) that when <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khujjuttarā. Cô được sinh ra từ một vú nuôi trong nhà của vị trưởng giả Ghosita (AN­a.i.232), và sau đó trở thành nữ tỳ của Hoàng hậu Sāmāvati. Hoàng hậu cho cô mỗi ngày tám đồng tiền mà nhà vua cấp để mua hoa. Khujjuttarā mua hoa với bốn đồng tiền từ người làm vườn Sumana, bốn đồng còn lại cô giữ lại. Một ngày nọ Đức Phật đến thăm Sumana, và Khujjuttarā, sau khi nghe Đức Phật thuyết pháp cho ông, đã trở thành một *Sotāpanna*. Ngày hôm đó cô đã dùng toàn bộ số tiền để mua hoa. Hoàng hậu hỏi cô làm sao mà cô có được nhiều hoa đến vậy, và cô đã kể cho hoàng hậu nghe toàn bộ câu chuyện. Kể từ thời gian đó Sāmāvatī đã tỏ mọi lòng tôn kính đối với Khujjuttarā, tắm cho cô bằng nước hoa, và nghe cô thuyết Pháp. Khujjuttarā trở thành, như có thể nói, một người mẹ đối với Sāmāvatī, và khi đi nghe pháp thường xuyên, cô sẽ trở về và giảng lại cho hoàng hậu cùng năm trăm nữ hầu. Dưới sự hướng dẫn của Khujjuttarā tất cả họ đều trở thành *Sotāpanna*. Khi Sāmāvatī bày tỏ mong muốn được nhìn thấy Đức Phật, Khujjuttarā gợi ý rằng hoàng hậu nên đục những cái lỗ trên những bức tường của cung điện và ngắm nhìn Đức Phật khi ngài đi qua phố. Sau cái chết của Sāmāvatī, Khujjuttarā dường như đã dành toàn bộ thời gian của mình cho các công việc tôn giáo, lắng nghe các bài pháp. Đức Phật đã tuyên bố cô là nữ cư sĩ hàng đầu nhờ vào sự hiểu biết uyên bác của cô (*bahussutānaṁ*). AN.i.26; Dhp­a.i.208ff; AN­a.i.226, 237f; Iti-a.23f.; Paṭis-a.498f.
+
+Ngày xưa, trong quá khứ, cô là một thị tỳ của vua xứ Benares, và một ngày nọ, khi nhìn thấy một vị Pacceka Buddha hơi gù lưng, cô đã ném một tấm chăn qua vai, và cúi xuống trông giống như một người gù, cô bắt chước dáng đi của Đức Phật. Do đó, trong kiếp sống hiện tại này bản thân cô bị gù lưng. Vào một dịp khác tám vị Pacceka Buddha, khi nhận được bát của họ chứa đầy cháo gạo từ cung điện, thấy bát quá nóng nên đành phải chuyển từ tay này sang tay kia. Thấy vậy, Khujjuttarā đã đưa cho họ tám chiếc vòng tay bằng ngà để làm đế lót bát. Người ta nói rằng những chiếc vòng tay này vẫn được bảo tồn ở Nandamūlapabbhāra. Nhờ hành động này Khujjuttarā đã đạt được trí tuệ sâu sắc trong kiếp sống này, và có thể thuộc lòng *Tipiṭaka*. Vào thời của Kassapa Buddha cô là con gái của một vị quan giữ kho, và có một người bạn là một tỳ-kheo-ni; một ngày nọ khi cô đang trang điểm vào buổi tối thì vị tỳ-kheo-ni đến thăm cô, và vì lúc đó không có người hầu gái nào nên Khujjuttarā đã yêu cầu vị tỳ-kheo-ni làm nhiều việc cho mình. Kết quả là cô đã tái sinh làm một nô lệ.
+
+Mong ước trở thành nữ cư sĩ thông thái hàng đầu của cô đã được hình thành vào thời của Padumuttara Buddha, khi cô nhìn thấy một địa vị tương tự được ban cho một nữ cư sĩ (Dhp­a.i.226f, v.v.; Divy.339-41).
+
+Người ta nói rằng các bài kinh trong Itivuttaka là những bài kinh mà Khujjuttarā đã học được từ Đức Phật và sau đó lặp lại cho Sāmāvatī cùng những nữ hầu của bà. Vì tất cả những bài kinh này được thuyết tại Kosambī và được cô lặp lại ở đó, nên không cần phải chỉ rõ địa điểm thuyết pháp; do đó câu mở đầu "*Ekaṁ samayaṁ Bhagavā Kosambiyaṁ viharati*, một thời Thế Tôn trú tại Kosambī" bị bỏ qua, và thay vào đó là câu "*vuttam h’etaṁ Bhagavātā arahatā*, điều này đã được Thế Tôn, bậc Arahant nói." (Iti-a.32).
+
+Khujjuttarā nhiều lần được nhắc đến như là hình mẫu hoàn hảo trong số các nữ cư sĩ (ví dụ, AN.i.88; ii.164; iv.368; SN.ii.236), và trong các bộ Chú giải (ví dụ, DN­a.iii.910) cô được đưa ra như một ví dụ về *kāmabhoginiyo* (những người nữ tận hưởng những dục lạc). Cô đã sở hữu *paṭisambhidā* khi còn là một gia chủ, nhưng đó là *paṭisambhidā* của một bậc hữu học (*sekha*) (Vsm.442; Vibh­a.388).
+
+Khujjuttarā được đồng nhất với người nô tỳ trong Uragajātaka (Ja 154, Ja.iii.168) và trong Bhisajātaka (Ja 488, Ja.iv.314), người vú nuôi trong Cūḷa Sutasomajātaka (Ja 525, Ja.v.192) và người gù trong Kusajātaka (Ja 531, Ja.v.312). Nhờ kinh nghiệm cá nhân của mình (*abhijānato*), cô có sức mạnh nhớ lại những tiền kiếp của mình (Mil.78).
+
+Người ta kể lại (Ud­a.384) rằng khi Sāmāvatī và những người bạn đồng hành của bà bị thiêu chết, Khujjuttarā đã thoát khỏi vì cô không tham gia vào những hành động sai trái trước đây của họ. Vào lúc xảy ra hỏa hoạn cô đi vắng khỏi cung điện, có người nói là cô đang ở cách đó mười do-tuần.
 
 ## Notes

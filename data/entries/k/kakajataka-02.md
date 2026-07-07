@@ -5,7 +5,7 @@ base_headword: "Kākajātaka"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -31,6 +31,10 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kākajātaka 02. (Ja 146). Có lần một con quạ đực đến bờ biển cùng với bạn tình của mình và tự do ăn những tàn dư của một lễ tế được con người dâng lên các Nāga và mặc sức uống loại thức uống có cồn mà nó tìm thấy. Cả hai con quạ đều bị say, và trong khi cố gắng bơi trên sóng, con quạ mái đã bị cuốn trôi ra biển và bị một con cá ăn thịt. Nghe tiếng than khóc của quạ chồng, nhiều con quạ đã tụ tập lại với nhau và bắt đầu tát cạn đại dương, làm việc quần quật cho đến khi gần như gục ngã vì mệt mỏi. Nhìn thấy hoàn cảnh của chúng, Bodhisatta, lúc bấy giờ là một tinh linh biển, đã khiến một ngáo ộp xuất hiện từ biển cả, làm chúng sợ hãi bỏ chạy.
+
+Câu chuyện được kể lại liên quan đến một số tỳ-kheo đã gia nhập Tăng đoàn khi về già. Họ đi khất thực tại nhà của những người vợ và con cái cũ của mình, và tụ tập cùng nhau tại nhà của vợ một người trong số họ (cô ấy đặc biệt xinh đẹp), gộp chung những gì mỗi người đã nhận được lại và ăn chúng với các loại nước sốt và cà ri do người vợ xinh đẹp kia chuẩn bị. Người phụ nữ qua đời, và những vị tỳ-kheo lớn tuổi, khi trở về tu viện, đã khóc lớn vì người ân nhân của họ, người ban cho những giọt nước sốt. Sự việc được trình báo lên Đức Phật, Ngài đã đồng nhất những con quạ trong quá khứ với các vị tỳ-kheo ngu ngốc đó (Ja.i.497-9).
+
+Theo Dhammapada Commentary (Dhp-a.iii.422), tên của người phụ nữ là Madhurapācikā (Đầu bếp Ngọt ngào).
 
 ## Notes

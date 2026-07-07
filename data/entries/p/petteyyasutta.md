@@ -5,7 +5,7 @@ base_headword: "Petteyyasutta"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -23,6 +23,6 @@ Petteyyasutta. Few are they who show reverence to their fathers. SN.v.467.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Petteyyasutta. Rất ít những người thể hiện sự tôn kính đối với cha của họ. SN.v.467.
 
 ## Notes

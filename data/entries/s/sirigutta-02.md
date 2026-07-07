@@ -5,7 +5,7 @@ base_headword: "Sirigutta"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Sirigutta 02. The name of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirigutta 02. Tên con ngựa thứ hai của Eḷāra. Mhv­ṭ.441.
 
 ## Notes

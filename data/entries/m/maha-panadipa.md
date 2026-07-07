@@ -5,7 +5,7 @@ base_headword: "Mahā Pānadīpa"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -26,6 +26,6 @@ Mahā Pānadīpa. A monastery in <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Pānadīpa. Một tu viện ở Pulatthipura được xây dựng bởi Aggabodhi III. Cv.xliv.122.
 
 ## Notes

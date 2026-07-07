@@ -5,7 +5,7 @@ base_headword: "Sudassanārāma"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sudassanārāma. A monastery in which <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudassanārāma. Một tu viện nơi Dhammadassī Buddha tổ chức một hội chúng gồm các tỳ-kheo của ngài. Tại đó, ngài đã tuyên bố sự xuất chúng của người đệ tử của mình, Hārita. Bv­a.183.
 
 ## Notes

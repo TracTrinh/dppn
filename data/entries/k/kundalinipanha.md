@@ -5,7 +5,7 @@ base_headword: "Kuṇḍalinīpañha"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kuṇḍalinīpañha. The questions asked by the king and the answers given by <
 
 ## Vietnamese translation
 
-Chưa dịch.
+Những câu hỏi do nhà vua đưa ra và những câu trả lời được đưa ra bởi Kuṇḍalinī, như được nêu trong Tesakuṇajātaka. Ja.v.120.
 
 ## Notes

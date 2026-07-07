@@ -5,7 +5,7 @@ base_headword: "Phāsuvihāravagga"
 disambiguator: ""
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -25,6 +25,6 @@ Phāsuvihāravagga. The eleventh section of the *Pañcakanipāta* of the <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phāsuvihāravagga. Phẩm thứ mười một của *Pañcakanipāta* thuộc Aṅguttaranikāya. AN.iii.127 ff.
 
 ## Notes

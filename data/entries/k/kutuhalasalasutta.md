@@ -5,7 +5,7 @@ base_headword: "Kutūhalasālāsutta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -32,6 +32,10 @@ The discussion arises out of a conversation which, according to <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vacchagotta thỉnh giáo Đức Phật về việc giáo lý của ngài về chủ đề tái sinh khác biệt như thế nào so với giáo lý của các vị đạo sư khác; ví dụ, của Pūraṇa Kassapa. Đức Phật giải thích rằng, theo giáo lý của chính ngài, sự tái sinh chỉ đến với một chúng sinh có nhiên liệu, nhiên liệu đó chính là ái dục (SN.iv.398f).
+
+Cuộc thảo luận nảy sinh từ một cuộc trò chuyện mà, theo Vacchagotta, đã diễn ra giữa các *paribbājaka* trong Kutūhalasālā.
+
+Buddhaghosa nói (DN­a.ii.369; MN­a.ii.694) rằng không có địa điểm đặc biệt nào mang tên đó; bất kỳ nơi nào diễn ra các cuộc thảo luận đều có thể được gọi như vậy. Xem thêm DN.i.179.
 
 ## Notes

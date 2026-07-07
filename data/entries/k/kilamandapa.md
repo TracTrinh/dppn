@@ -5,7 +5,7 @@ base_headword: "Kīḷāmaṇḍapa"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kīḷāmaṇḍapa. A building in <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kīḷāmaṇḍapa. Một công trình kiến trúc trong Dīpuyyāna của Parakkamabāhu. Ở đó, nhà vua thường giải trí cùng với "những người sành điệu về tâm trạng vui vẻ." Cv.lxxiii.117.
 
 ## Notes

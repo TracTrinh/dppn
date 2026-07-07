@@ -5,7 +5,7 @@ base_headword: "Kāḷī"
 disambiguator: "05"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -26,6 +26,6 @@ Kāḷī 05. A crematrix (*chavadāhikā*) of <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷī 05. Một người phụ nữ hỏa táng thi hài (*chavadāhikā*) xứ Sāvatthī. Thấy Mahā Kāḷa đang thiền định trong nghĩa địa, bà đã cắt đùi và cánh tay của một thi thể vừa mới được hỏa táng, và tạo ra từ chúng một loại bát đựng sữa, rồi đặt nó gần nơi Trưởng lão đang ngồi. Thag.151; Thag­a.i.271; nhiều chi tiết hơn được đưa ra trong Dhp­a.i.57ff.
 
 ## Notes

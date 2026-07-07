@@ -5,7 +5,7 @@ base_headword: "Sudeva"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sudeva 01. A king of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudeva 01. Một vị vua của Dhaññavatī, cha của Nārada Buddha. Bv.x.18; nhưng Ja.i.37 gọi ông là Sumedha.
 
 ## Notes

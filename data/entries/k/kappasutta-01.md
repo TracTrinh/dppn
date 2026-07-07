@@ -5,7 +5,7 @@ base_headword: "Kappasutta"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kappasutta 01. Two *Suttas* where <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kappasutta 01. Hai *Sutta* nơi mà Kappa Thera - xem Kappa (3) - hỏi Đức Phật làm thế nào nó có thể từ bỏ những suy nghĩ về "Tôi" và "của tôi," và để tiêu diệt hoàn toàn sự kiêu ngạo đối với thân thể. SN.iii.169f.; xem thêm SN.ii.253f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kilesasaṁyutta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kilesasaṁyutta. The twenty-seventh division of the <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kilesasaṁyutta. Phần thứ hai mươi bảy của Saṁyuttanikāya. SN.iii.232-4.
 
 ## Notes

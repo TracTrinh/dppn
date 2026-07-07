@@ -5,7 +5,7 @@ base_headword: "Kakudha"
 disambiguator: "06"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kakudha 06. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kakudha 06. Kakudha Kaccāna. Xem Pakudha Kaccāna.
 
 ## Notes

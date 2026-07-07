@@ -5,7 +5,7 @@ base_headword: "Koka"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -31,6 +31,10 @@ The story of the past is evidently derived from the <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koka. Một người thợ săn. Đang trên đường đi vào rừng cùng với đàn chó của mình, anh ta gặp một vị tỳ-kheo. Ngày hôm đó anh ta không săn được con thú nào và đổ lỗi cho vị tỳ-kheo, người mà anh ta lại gặp trên đường về nhà. Koka thả đàn chó của mình xông vào vị tỳ-kheo, và khi vị này trèo lên một cái cây, anh ta đã bắn những mũi tên xuyên qua lòng bàn chân của vị tỳ-kheo. Chiếc y của vị tỳ-kheo rơi xuống người thợ săn, che phủ hoàn toàn anh ta. Đàn chó, tưởng rằng vị tỳ-kheo đã rơi từ trên cây xuống, liền xâu xé chính người chủ của chúng. Vị tỳ-kheo, lo sợ rằng mình có lỗi, đã tìm đến Đức Phật, ngài đã trấn an vị ấy và kể câu chuyện về một gã thầy thuốc độc ác đã dụ dỗ một cậu bé bắt một con rắn, giả vờ rằng đó là một con chim. Khi cậu bé phát hiện ra đó là một con rắn, cậu bé đã ném nó lên đầu gã thầy thuốc, kẻ đã chết vì vết cắn của nó.
+
+Gã thầy thuốc được đồng nhất với Koka. Dhp­a.iii.31f.
+
+Câu chuyện quá khứ hiển nhiên được bắt nguồn từ Sāliyajātaka, tuy nhiên, theo Chú giải Jātaka, câu chuyện này được kể lại liên quan đến Devadatta chứ không phải Koka. (Ja.iii.202f).
 
 ## Notes

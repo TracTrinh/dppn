@@ -5,7 +5,7 @@ base_headword: "Rohitassavagga"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Rohitassavagga. The fifth chapter of the *Catukkanipāta* of the <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rohitassavagga. Chương thứ năm của *Catukkanipāta* thuộc Aṅguttaranikāya. AN.ii.44-54.
 
 ## Notes

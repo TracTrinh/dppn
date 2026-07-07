@@ -5,7 +5,7 @@ base_headword: "Khattiyasutta"
 disambiguator: "02"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -24,6 +24,6 @@ Khattiyasutta 02. A conversation between <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khattiyasutta 02. Một cuộc trò chuyện giữa Jāṇussoṇī và Đức Phật về mục đích của những nỗ lực như được hình dung bởi những Khattiya, Bà-la-môn, gia chủ, phụ nữ, kẻ trộm và sa-môn. AN.iii.362f.
 
 ## Notes

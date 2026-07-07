@@ -5,7 +5,7 @@ base_headword: "Sirivaḍḍha"
 disambiguator: "11"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -27,6 +27,6 @@ Sirivaḍḍha 11. A *seṭṭhi* of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirivaḍḍha 11. Một *seṭṭhi* ở Mithilā, cha của Mahosadha. Ông được đồng nhất với Suddhodana. Ja.vi. 331, 478.
 
 ## Notes

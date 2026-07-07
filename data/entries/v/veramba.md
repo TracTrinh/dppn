@@ -5,7 +5,7 @@ base_headword: "Verambā"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Verambā, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Verambā, Verambhā. Có lẽ là tên của những cơn gió mùa. Nhà chú giải nói (Thag­a.i.534) rằng, theo một số người, đó là tên của một khe núi đầy đá (*pabbataguhāpabbhāra*).
 
 ## Notes

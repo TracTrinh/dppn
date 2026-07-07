@@ -5,7 +5,7 @@ base_headword: "Suddhakasutta"
 disambiguator: "04"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -23,6 +23,6 @@ Suddhakasutta 04. The four qualities which make the Noble Disciple a *Sotāpanna
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suddhakasutta 04. Bốn phẩm chất tạo nên một Thánh đệ tử là bậc Dự lưu (*Sotāpanna*). SN.v.403.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Subhaddā"
 disambiguator: "06"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Subhaddā 06. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subhaddā 06. Vợ của Mahā Sudassana. Xem Mahā Subhaddā.
 
 ## Notes

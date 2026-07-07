@@ -5,7 +5,7 @@ base_headword: "Phussa"
 disambiguator: "02"
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -26,6 +26,6 @@ Phussa 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phussa 02. Phussa Thera. Ngài là con trai của một vị cai trị một tỉnh và được đào tạo đủ mọi tài nghệ. Sau khi nghe một vị Đại Trưởng lão thuyết giảng, ngài đã xuất gia và gia nhập Tăng đoàn. Ngài tu tập *jhāna* và trở thành một vị *Arahant*. Một ngày nọ, một đạo sĩ tên là Paṇḍarassagotta nghe ngài thuyết giảng và hỏi ngài về sự tiến bộ trong tương lai của các Tỳ-kheo. Câu trả lời của Phussa được ghi lại trong Theragāthā, vs. 949-80; Thag­a.ii.82f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Koṭṭanāgapabbata"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -25,6 +25,6 @@ Koṭṭanāgapabbata. (*v.1.* for <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koṭṭanāgapabbata. (*v.1.* cho Tobbalanāgapabbata). Mhv­ṭ.657.
 
 ## Notes

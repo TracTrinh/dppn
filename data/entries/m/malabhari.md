@@ -5,7 +5,7 @@ base_headword: "Mālābhārī"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mālābhārī. A *Devaputta*, husband of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mālābhārī. Một *Devaputta*, phu quân của Patipūjakā.
 
 ## Notes

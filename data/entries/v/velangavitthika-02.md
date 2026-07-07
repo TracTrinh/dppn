@@ -5,7 +5,7 @@ base_headword: "Velaṅgaviṭṭhika"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Velaṅgaviṭṭhika 02. A tank in Ceylon, built by <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Velaṅgaviṭṭhika 02. Một hồ chứa nước ở Tích Lan, được xây dựng bởi Mahā Sena. Mhv.xxxvii.48.
 
 ## Notes

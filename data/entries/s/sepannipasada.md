@@ -5,7 +5,7 @@ base_headword: "Sepaṇṇipāsāda"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -28,6 +28,6 @@ Sepaṇṇipāsāda. A building erected by <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sepaṇṇipāsāda. Một công trình do Māṇavamma xây dựng trong *vihāra* Padhānarakkha (Cv.xlvii.64). Có lẽ đây cùng là Sepaṇṇipāsāda được Parakkamabāhu I. trùng tu. Cv.lxxviii.105.
 
 ## Notes

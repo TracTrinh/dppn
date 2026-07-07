@@ -5,7 +5,7 @@ base_headword: "Kāḷa"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -25,6 +25,6 @@ Kāḷa 02. An Elder. A certain woman ministered to him as though he were her so
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷa 02. Một vị Trưởng lão. Một người phụ nữ nọ đã phụng sự ông như thể ông là con trai của bà, nhưng khi bà bày tỏ mong muốn được đến gặp Đức Phật, Kāḷa đã cố gắng can ngăn bà làm như vậy. Một ngày nọ, bà đã đến thăm Đức Phật mà không nói cho Kāḷa biết về ý định của mình, và khi ông biết được bà đã đi đâu, ông đã vội vã đến chỗ Đức Phật và cố gắng ngăn cản Ngài thuyết pháp cho bà, đề phòng trường hợp bà sẽ không còn quan tâm đến ông nữa. Dhp­a.iii.155f.
 
 ## Notes

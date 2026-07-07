@@ -5,7 +5,7 @@ base_headword: "Yamunā"
 disambiguator: "01"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -35,6 +35,8 @@ It is said that the fish of the <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yamunā 01. Con sông thứ hai trong số năm con sông lớn ở Jambudīpa, thường được sử dụng trong các ví dụ so sánh. Vin.ii.237; AN.iv.101, 198, 202; v.22; SN.ii.135; v.401, v.v...; Ud.v.5; Mil.114 (nơi có mười con sông được nhắc đến); Mvu.iii.203, 363. Nằm bên bờ sông này là Kosambī và Madhurā. Về nguồn gốc của nó, xem Gaṅgā. Theo câu chuyện về Bakkula thì những đứa trẻ sơ sinh đã được tắm trong nước sông Yamunā để cầu sức khỏe (Thag­a.i.344). Con sông này rõ ràng là nơi lui tới đặc biệt của các Nāgas (Xem, ví dụ, DN.ii.259; Ja.vi.158, 161ff., 164, 197).
+
+Người ta kể rằng những con cá trên sông Yamunā tự cho mình đẹp hơn những con cá trên sông Gaṅgā. Ja.ii.151ff. Dưới sông là vương quốc của vua Nāga, Dhataraṭṭha (Ja.vi.200). Nước của sông Gaṅgā hòa vào nước sông Yamunā rất dễ dàng (Ja.v.496; vi. 412, 415).
 
 ## Notes

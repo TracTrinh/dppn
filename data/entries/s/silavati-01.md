@@ -5,7 +5,7 @@ base_headword: "Sīlavati"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -28,6 +28,6 @@ Sīlavati 01. The chief queen of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīlavati 01. Chánh hậu của Okkāka, vua thuộc dòng Mahā Sammata, và mẹ của Kusa. Xem Kusajātaka (Ja 531).
 
 ## Notes

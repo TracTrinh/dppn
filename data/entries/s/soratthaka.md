@@ -5,7 +5,7 @@ base_headword: "Soraṭṭhakā"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Soraṭṭhakā. The inhabitants of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Soraṭṭhakā. Cư dân của Suraṭṭha. Mil.331.
 
 ## Notes

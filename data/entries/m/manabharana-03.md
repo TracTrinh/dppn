@@ -5,7 +5,7 @@ base_headword: "Māṇābharaṇa"
 disambiguator: "03"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Māṇābharaṇa 03. A general of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māṇābharaṇa 03. Một vị tướng của Māgha, người chịu trách nhiệm tổ chức lễ đăng quang cho Māgha. Cv.lxxx.73.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kūṭavāṇijajātaka"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -29,6 +29,8 @@ The story was related in reference to a cheating merchant of <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Xưa kia Bodhisatta là một thương nhân tên Paṇḍita và đã góp vốn làm ăn với một người đàn ông không trung thực, Atipaṇḍita. Khi đến lúc chia lợi nhuận, người sau đó đã đòi một phần lớn hơn, vì anh ta, như tên gọi của anh ta cho thấy, là "bộ não" của công việc kinh doanh. Để giải quyết tranh chấp, anh ta đã giấu cha mình trong một bộng cây, và giả vờ thỉnh giáo một thọ thần, giao vấn đề cho Cây. Paṇḍita nghi ngờ mưu mẹo đó, bèn đốt một ngọn lửa dưới gốc cây và nhờ đó phơi bày kẻ lừa đảo.
+
+Câu chuyện được kể liên quan đến một thương nhân lừa đảo ở Sāvatthī, người được đồng nhất với Atipaṇḍita. Anh ta đã cố gắng cướp của người bạn đồng hành trung thực của mình, luôn luôn trì hoãn các yêu cầu của người kia, với hy vọng rằng người đó sẽ chết vì những gian khổ phải chịu đựng trong một hành trình dài mà họ đã thực hiện để buôn bán. Ja.i.404f.
 
 ## Notes

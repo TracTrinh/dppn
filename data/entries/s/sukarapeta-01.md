@@ -5,7 +5,7 @@ base_headword: "Sūkarapeta"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -29,6 +29,6 @@ Sūkarapeta 01. A *Peta* who lived on <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sūkarapeta 01. Một *Peta* sống trên Gijjhakūṭa. Cơ thể của ông là con người, nhưng đầu ông là đầu của một con lợn; từ trong miệng ông mọc ra một cái đuôi, và từ chiếc đuôi đó ứa ra những con giòi bọ. Moggallāna đã nhìn thấy ông và báo cáo sự việc lên Đức Phật. Đức Phật nói rằng ngài, cũng vậy, đã nhìn thấy *Peta* đó. Trong một kiếp trước ông từng là một người thuyết giảng Pháp, nhưng, vì muốn chiếm đoạt một tu viện mà ông đến thăm, ông đã gây ra sự chia rẽ giữa hai vị tỳ-kheo những người đã sống ở đó với mối quan hệ bạn bè thân thiết nhất. Sau khi chết, ông phải chịu đựng ở Avīci trong suốt một Buddhantara, và được tái sinh trong thế giới *Peta*. Dhp­a.iii.410ff.
 
 ## Notes

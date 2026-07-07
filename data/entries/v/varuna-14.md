@@ -5,7 +5,7 @@ base_headword: "Varuṇa"
 disambiguator: "14"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Varuṇa 14. A king of twenty-five *kappas* ago, a former birth of <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Varuṇa 14. Một vị vua của hai mươi lăm *kappa* trước, là tiền kiếp của Pilindavaccha Thera. Thag­a.i.52; Ap.i.59.
 
 ## Notes

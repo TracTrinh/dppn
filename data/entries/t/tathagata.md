@@ -5,7 +5,7 @@ base_headword: "Tathāgata"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -31,6 +31,12 @@ The term was evidently pre-Buddhistic, though it has not yet been found in any p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tathāgata. Một danh xưng của Gotama Buddha, được Đức Phật sử dụng khi nhắc đến chính ngài.
+
+Các Bản chú giải cung cấp tám (đôi khi được mở rộng lên thành mười sáu) lời giải thích về từ này, cho thấy rằng có lẽ không có truyền thống cố định nào về quan điểm này (DN­a.i.59-67; AN­a.i.58-63; MN­a.39-43; Ud­a.128ff., etc.).
+
+Các lời giải thích chỉ ra rằng danh xưng này có thể được sử dụng cho bất kỳ vị *Arahant* nào, và không nhất thiết chỉ dành riêng cho một vị Phật.
+
+Thuật ngữ này rõ ràng là có từ thời tiền Phật giáo, mặc dù nó vẫn chưa được tìm thấy trong bất kỳ tác phẩm tiền Phật giáo nào.
 
 ## Notes

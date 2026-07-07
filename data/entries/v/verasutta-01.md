@@ -5,7 +5,7 @@ base_headword: "Verasutta"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Verasutta 01. Preached to <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Verasutta 01. Được thuyết giảng cho Anāthapiṇḍika, về năm nỗi sợ hãi khủng khiếp: sát sinh, trộm cắp, tà dâm, nói dối, và chìm đắm trong các chất say. AN.iii.204.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kamboja"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -44,6 +44,16 @@ In later literature (e.g., Cv.lxxvi.21, 55) Kamboja is the name given to Western
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kamboja (Kambojaka). Một trong mười sáu Mahā Janapadas, cùng với Gandhāra, không thuộc về Majjhimadesa mà hiển nhiên là thuộc về Uttarāpatha (AN.i.213; iv.252, 256, 260). Nó thường được nhắc đến như là nơi sinh sản nổi tiếng của những con ngựa (*assānaṁ āyatanaṁ*) (ví dụ, DN­a.i.124; AN­a.i.399; Vsm.332; cũng xem Ja.iv.464). Trong Kuṇālajātaka (Ja.v.445), chúng ta được kể rằng người Kamboja bắt ngựa của họ bằng rêu (*jalajāta*), và nhà chú giải (Ja.v.446) giải thích chi tiết cách việc này được thực hiện. Họ rắc mật ong lên rêu và để nó ở chỗ uống nước của bầy ngựa; từ đó, bằng cách dùng mật ong rắc trên cỏ, bầy ngựa được dẫn vào một khu quây kín.
+
+Trong Assalāyanasutta (MN.ii.149), người ta khẳng định rằng ở Yona và ở Kamboja, cũng như ở các quốc gia lân cận, vào thời Đức Phật, chỉ có hai tầng lớp người, chủ và nô lệ, và một người chủ có thể trở thành nô lệ hoặc ngược lại. Bản chú giải (MN­a.ii.784) giải thích rằng một Bà-la-môn sẽ đến đó cùng vợ để buôn bán và sẽ chết ở đó. Vợ của ông sau đó sẽ bị buộc phải làm việc để kiếm sống và những đứa con của bà sẽ trở thành nô lệ.
+
+Các Jātaka (ví dụ, Ja.vi.208, 210; xem thêm Manu.x.44) sẽ khiến chúng ta tin rằng người dân Kamboja đã đánh mất các phong tục ban đầu của họ và trở nên man rợ. Ở một nơi khác' Kamboja được nhắc đến như một nơi không được phụ nữ của các quốc gia khác ghé thăm. AN.ii.82; tuy nhiên, về cách đọc đoạn này, xem GS.ii.92, chú thích 2. Bản chú giải (AN­a.ii.523) ủng hộ rõ ràng cách đọc là Kamboja.
+
+Quốc gia này hiển nhiên nằm trên một trong những tuyến đường lữ hành lớn, và có một con đường trực tiếp từ Dvāraka đến Kamboja (Pv.p.23).
+
+Theo Chỉ dụ khắc trên đá số XIII của Asoka (Văn bản Shābhāzgarhi), Kamboja nằm trong số các quốc gia được các nhà truyền giáo của Asoka viếng thăm. Quốc gia được đề cập đến có lẽ nằm trên bờ sông Kabul (Mookerji: *Asoka*, 168, chú thích 1).
+
+Trong văn học thời kỳ sau (ví dụ, Cv.lxxvi.21, 55), Kamboja là cái tên được đặt cho vùng Tây Siam.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sobhavatī"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -27,6 +27,6 @@ Sobhavatī. The city of birth of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sobhavatī. Thành phố nơi Koṇāgamana Buddha đản sinh. Vua của thành này là Sobha (Sobhana). Bv.xxiv.16; Ja.i.43; DN.ii.7.
 
 ## Notes

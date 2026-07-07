@@ -5,7 +5,7 @@ base_headword: "Kāsiyo"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -25,6 +25,6 @@ Kāsiyo. The inhabitants of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāsiyo. Những cư dân của Kāsi. Ja.v.377, v.v.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Paṭhamasambodhi"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Paṭhamasambodhi. The name of a book. Gv.65, 75.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṭhamasambodhi. Tên của một cuốn sách. Gv.65, 75.
 
 ## Notes

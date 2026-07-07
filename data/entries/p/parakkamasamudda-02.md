@@ -5,7 +5,7 @@ base_headword: "Parakkamasamudda"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -39,6 +39,6 @@ Parakkamasamudda 02. A tank built by <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parakkamasamudda 02. Một hồ chứa nước do Parakkamabāhu I xây dựng và gắn liền với hệ thống sông của Kāragaṅgā. Nó có lẽ nằm ở vùng lân cận của Pulatthipura và có nhiều kênh đào rẽ nhánh: Gambhīra, Hemavatī, Nīlavāhinī, Salaḷavatī, Vettavatī, Maṅgalagaṅgā và Campā; và chứa nhiều cống xả: Makara, Mālatīpuppha, Vettavatī, Dakkhiṇā, Maṅgala và Candī. Con kênh nối nó với Kāragaṅgā được gọi là Ākāsagaṅgā. Cv.lxxix.26f., 40ff.; xem thêm Cv.Trs.ii.117, n.5.
 
 ## Notes

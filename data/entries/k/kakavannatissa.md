@@ -5,7 +5,7 @@ base_headword: "Kākavaṇṇatissa"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -54,6 +54,12 @@ He was called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="34" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kākavaṇṇatissa (Kākavaṇṇa). Một vị vua của triều đại Rohaṇa ở Tích Lan. Ông là chắt của Mahā Nāga, anh/em trai của Devānampiyatissa, và cha của ông là Goṭhābhaya (Mhv.xv.170f; Mbv.132). Thủ đô của ông là tại Mahā Gāma. Ông có một người vợ là Devī (được biết đến nhiều hơn với tên Vihāradevī), con gái của Tissa, vua xứ Kalyāṇi, người đã bị ném xuống biển để chuộc lại những tội ác của cha cô (Mhv.xxii.20ff). Những người con của họ là Duṭṭhagāmaṇī Abhaya và Saddhātissa. Kākavaṇṇatissa đã tập hợp quanh mình tất cả những chiến binh người Sinhalese xuất sắc nhất thời bấy giờ để họ có thể sẵn sàng cho Gāmaṇi, khi thời điểm đến cho chiến dịch chống lại người Damiḷa (Mhv.xxiii.2).
+
+Nhưng lúc đầu, Kākavaṇṇatissa rất miễn cưỡng cho phép con trai mình chuẩn bị cho một chiến dịch như vậy (Mhv.xxii.82f), đến mức, trong lúc bực tức, vị hoàng tử trẻ đã có lần gửi cho cha mình một số đồ trang sức của phụ nữ để ám chỉ rằng nhà vua không phải là đàn ông (Mhv.xxiv.4). Kākavaṇṇatissa rất mộ đạo, và được cho là đã xây dựng sáu mươi tư *vihāra*, sáu mươi tư năm cũng là độ dài của triều đại ông (Mhv.xxiv.12; xem thêm AN­a.i.279). Trong số những công trình tôn giáo do ông xây dựng có Tissamahārāma, *vihāra* Cittalapabbata (Mhv.xxii.23) và *Cetiya* Mahā Nuggala. Ông được hỏa táng tại Tissamahārāma (xxiv.8, 13). Rõ ràng ông nhận được tên của mình là do màu da sẫm của mình. Dīpavaṁsa (Dpv.xviii.20; tên của họ là Mahilā và Samantā phải không?; xem thêm xix.21f) nói về những người con gái của Kākavaṇṇatissa như là những người thông thạo lịch sử của Tôn giáo (*saddhammavaṁsakovidā*).
+
+Ông đã từng là một *milakkka* ở Ấn Độ và đã chăm sóc một vị Pacceka Buddha. Một ngày nọ, ông đã dâng cho vị Pacceka Buddha một bữa ăn gồm mít chín. Vào một dịp khác, khi vị Pacceka Buddha đến thăm nhà lúc ông đi vắng, vợ ông đã cố gắng quyến rũ ngài. Không thành công, bà đã phàn nàn với chồng rằng vị Pacceka Buddha đã tấn công bà. Ông liền đi tìm vị Pacceka Buddha để giết ngài, nhưng khi nhìn thấy ngài đang lơ lửng giữa không trung đắp y, ông đã vô cùng kinh ngạc và cầu xin sự tha thứ của vị Pacceka Buddha. Về sau, ông tái sinh vào một ngôi làng của những người thợ săn gần Amaruppalalena, tên ông là Amaruppala, và đã làm nhiều việc thiện khác nhau.
+
+Ông được gọi là Kākavaṇṇatissa vì ông biết tiếng nói của loài quạ. Ras.ii.53f; xem thêm p.64, nơi một con quạ thông báo nhiều điều khác nhau cho ông.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sīlasutta"
 disambiguator: "09"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -24,6 +24,6 @@ Sīlasutta 09. The benefits which come through monks being possessed of virtue, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīlasutta 09. Những lợi ích có được nhờ các tỳ-kheo có đầy đủ giới, định, tuệ, giải thoát – giải thoát nhờ trí và kiến. SN.v.67f.
 
 ## Notes

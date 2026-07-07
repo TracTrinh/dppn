@@ -5,7 +5,7 @@ base_headword: "Sīhalavatthu"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -25,6 +25,6 @@ Sīhalavatthu. A Commentary; probably another name for the <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhalavatthu. Một bộ Chú giải; có lẽ là một tên khác của Sīhalaṭṭhakathā (*q.v.*). Gv.62, 72.
 
 ## Notes

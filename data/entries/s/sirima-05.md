@@ -5,7 +5,7 @@ base_headword: "Sirimā"
 disambiguator: "05"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sirimā 05. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirimā 05. Vợ của Anomadassī Buddha trước khi ngài xuất gia. Bv.viii.19.
 
 ## Notes

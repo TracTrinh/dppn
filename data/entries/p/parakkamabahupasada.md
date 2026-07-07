@@ -5,7 +5,7 @@ base_headword: "Parakkamabāhupāsāda"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Parakkamabāhupāsāda. A monastic building attached to the <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parakkamabāhupāsāda. Một tòa nhà tu viện gắn liền với Valligāma *vihāra* và được dựng lên bởi Parakkamabāhu IV. Cv.xc.96.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Parakkamataḷāka"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Parakkamataḷāka. A tank built by <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parakkamataḷāka. Một hồ chứa nước do Parakkamabāhu I xây dựng (Cv.lxxix.27). Xem Parakkamabāhu.
 
 ## Notes

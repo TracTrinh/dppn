@@ -5,7 +5,7 @@ base_headword: "Lāḷudāyītheravatthu"
 disambiguator: "01"
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -27,6 +27,6 @@ Lāḷudāyītheravatthu 01. The story of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lāḷudāyītheravatthu 01. Câu chuyện về tiền kiếp của Lāḷudāyī với tư cách là Aggidatta (Dhp­a.iii.123ff). Cp. Somadattajātaka (Ja 211).
 
 ## Notes

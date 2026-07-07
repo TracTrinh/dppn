@@ -5,7 +5,7 @@ base_headword: "Sinerusutta"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Sinerusutta. The *dukkha* destroyed by the Noble Disciple (*Arahant*) compared w
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sinerusutta. *Dukkha* đã được đoạn diệt bởi vị Thánh đệ tử (*Arahant*) so với những gì còn lại nơi vị ấy cho đến khi qua đời, cũng như bảy hạt cát trên đỉnh Sineru. SN.v.457f.
 
 ## Notes

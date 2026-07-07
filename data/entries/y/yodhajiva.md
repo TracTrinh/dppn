@@ -5,7 +5,7 @@ base_headword: "Yodhājīva"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -25,6 +25,6 @@ Yodhājīva. A headman (*gāmaṇī*) who visited the Buddha and asked if it was
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yodhājīva. Một trưởng thôn (*gāmaṇī*) đã đến thăm Đức Phật và hỏi liệu có đúng là những người chết khi đang chiến đấu trên chiến trường sẽ được tái sinh trong số những chư thiên Sārañjita Devas hay không. Ban đầu, Đức Phật từ chối trả lời câu hỏi, nhưng nhận thấy Yodhājīva khăng khăng muốn hỏi, Ngài đã giải thích cho ông rằng những người chiến đấu sau khi chết sẽ tái sinh vào *niraya* Sārājita hoặc vào cõi súc sinh. Vị trưởng thôn đã trở thành đệ tử của Đức Phật. SN.iv.308.
 
 ## Notes

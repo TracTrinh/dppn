@@ -5,7 +5,7 @@ base_headword: "Kadamba"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kadamba 02. A mountain near <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kadamba 02. Một ngọn núi gần Himavā. Bảy vị Pacceka Buddha từng sống ở đó. Ap.ii.382.
 
 ## Notes

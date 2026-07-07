@@ -5,7 +5,7 @@ base_headword: "Līnatthappakāsinī"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -25,6 +25,6 @@ Līnatthappakāsinī. A *ṭīkā* on the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Līnatthappakāsinī. Một *ṭīkā* về Kaṅkhāvitaraṇī, của tác giả khuyết danh. Gv.62, 72.
 
 ## Notes

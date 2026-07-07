@@ -5,7 +5,7 @@ base_headword: "Veḷukajātaka"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -28,6 +28,8 @@ The story was told in reference to a headstrong monk who is identified with <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Veḷukajātaka (Ja 43). Bodhisatta từng là người đứng đầu năm trăm đạo sĩ, một trong số đó nuôi một con rắn lục cưng tên là Veḷuka, vì nó được giữ trong một ống tre. Bodhisatta đã cảnh báo vị ẩn sĩ về con rắn, nhưng lời cảnh báo của ngài không được chú ý. Do đó vị ẩn sĩ này được gọi là Veḷukapitā. Một ngày nọ, các đạo sĩ vào rừng và đi vắng vài ngày, và khi Veḷukapitā chạm vào con rắn lục lúc trở về, con vật vừa đói vừa tức giận đã cắn ông, và ông gục xuống chết.
+
+Câu chuyện được kể liên quan đến một vị tỳ-kheo bướng bỉnh được đồng nhất với Veḷukapitā. Ja.i.245f.
 
 ## Notes

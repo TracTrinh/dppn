@@ -5,7 +5,7 @@ base_headword: "Veṇḍu"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Veṇḍu (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Veṇḍu (Veṇhu). Một vị *Devaputta*. Ngài đã viếng thăm Đức Phật và hỏi ngài một câu hỏi. SN.i.52; SN­a. (i.87) gọi ngài là Veṇhu.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kapila"
 disambiguator: "08"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -29,6 +29,6 @@ Kapila 08. A Brahmin of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kapila 08. Một Bà-la-môn ở Sāgala, thuộc Xứ Madda, cha của Bhaddākapilānī. Vợ của Kapila là Sucīmatī (Thag­a.73; Ap.ii.583). Từ Kapilāni có lẽ được bắt nguồn từ tên của ông.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Rohitassasutta"
 disambiguator: "01"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rohitassasutta 01. (also called <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rohitassasutta 01. (còn được gọi là Rohitasutta). Một cuộc đối thoại giữa Đức Phật và Rohitassa (1). SN.i.61f.; AN.ii.47f.
 
 ## Notes

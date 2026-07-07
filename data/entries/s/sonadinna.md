@@ -5,7 +5,7 @@ base_headword: "Soṇadinna"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -30,6 +30,6 @@ Soṇadinna. A *Devaputta* who had seven mansions in <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Soṇadinna. Một *Devaputta* có bảy cung điện trong cõi Tāvatiṃsa. Vua Nimi thấy chúng trong chuyến thăm Sakka, và Mātali giải thích cho ngài rằng Soṇadinna đã là một người tại gia trong một làng Kāsi vào thời Kassapa Buddha, và đã xây những thảo luận cho những người thánh thiện, cung cấp cho họ mọi thứ cần thiết. Ja.vi.118f.
 
 ## Notes

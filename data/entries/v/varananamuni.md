@@ -5,7 +5,7 @@ base_headword: "Varañāṇamuni"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Varañāṇamuni. A Thera. One of the two Theras appointed to lead the delegatio
 
 ## Vietnamese translation
 
-Chưa dịch.
+Varañāṇamuni. Một vị Thera. Một trong hai vị Thera được chỉ định dẫn đầu phái đoàn tỳ-kheo rời Ayojjhā (ở Siam) để đi đến Tích Lan (Ceylon), nhằm mục đích phát triển Tăng đoàn ở Tích Lan, dưới triều đại của Kittisirirājasīha. Ông rất am hiểu về Pháp (Dhamma) và Luật (Vinaya) và đã giảng dạy chúng cho các tỳ-kheo ở Tích Lan. Cv.c.138, 174.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Yodhājīvasutta"
 disambiguator: "01"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -24,6 +24,6 @@ Yodhājīvasutta 01. On five kinds of warriors: those who are frightened by a cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yodhājīvasutta 01. Về năm loại chiến binh: những người bị hoảng sợ bởi một đám bụi, bởi việc nhìn thấy một lá cờ, bởi sự hỗn loạn, bởi sự xung đột, và những người chiến đấu anh dũng; và về năm hạng tỳ-kheo tương tự. AN.iii.87f.
 
 ## Notes

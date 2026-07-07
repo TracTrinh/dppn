@@ -5,7 +5,7 @@ base_headword: "Kuṭelitissa Mahā Vihāra"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -28,6 +28,8 @@ It may perhaps be the same as the <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tu viện ở Ceylon. Nó từng là nơi cư ngụ của một *Sāmaṇera* có năng lực *iddhi* vĩ đại, người sau đó đã đánh mất tất cả những năng lực này do kết quả của việc phải lòng con gái của một người thợ dệt ở Kabupelanda (Vibh­a.293; nhưng xem MN­a.ii.700).
+
+Nó có lẽ đồng nhất với Kūṭālivihāra (*xem từ này*).
 
 ## Notes

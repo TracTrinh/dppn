@@ -5,7 +5,7 @@ base_headword: "Koṭalavāpigāma"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -25,6 +25,6 @@ Koṭalavāpigāma *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koṭalavāpigāma *v.l.* Kālavāpigāma. Một ngôi làng ở Tích Lan. Có một câu chuyện được kể về việc vợ của một nam cư sĩ trưởng làng đã bị những người thu thuế của nhà vua trói lại, do tưởng rằng bà là một nữ tỳ. Vibh­a.441.
 
 ## Notes

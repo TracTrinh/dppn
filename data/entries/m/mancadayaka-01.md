@@ -5,7 +5,7 @@ base_headword: "Mañcadāyaka"
 disambiguator: "01"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Mañcadāyaka 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mañcadāyaka 01. Mañcadāyaka Thera. Một *Arahant*. Vào thời Đức Phật Siddhattha, ông là một người Caṇḍāla và đã làm một cái ngưỡng cửa dâng cúng cho Tăng đoàn. Ông đã năm mươi lần làm vua cõi trời và tám mươi lần làm vua cõi người. Ap.ii.377f.
 
 ## Notes

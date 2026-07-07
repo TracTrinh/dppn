@@ -5,7 +5,7 @@ base_headword: "Mahā Summa Thera"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Summa Thera 02. A monk of Ceylon. King <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Summa Thera 02. Một vị tỳ-kheo của Ceylon. Vua Mahā Cūḷi Mahā Tissa đã lao động trong một vụ gặt lúa, và, với tiền công nhận được như vậy, đã cúng dường đến ngài. Mhv.xxxiv.3.
 
 ## Notes

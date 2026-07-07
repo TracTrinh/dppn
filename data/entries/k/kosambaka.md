@@ -5,7 +5,7 @@ base_headword: "Kosambakā"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -25,6 +25,6 @@ Kosambakā. The monks of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kosambakā. Các tỳ-kheo của Kosambī (*xem mục này*), những người đã gây ra sự chia rẽ trong Tăng đoàn.
 
 ## Notes

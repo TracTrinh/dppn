@@ -5,7 +5,7 @@ base_headword: "Kumbulapabbata"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -24,6 +24,6 @@ Kumbulapabbata. A mountain in Ceylon. <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngọn núi ở Tích Lan. Ariyagālatissa đã tìm thấy sáu mươi kho báu ở đó. Ras.ii.137.
 
 ## Notes

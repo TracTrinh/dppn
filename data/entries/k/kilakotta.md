@@ -5,7 +5,7 @@ base_headword: "Kīḷakoṭṭa"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kīḷakoṭṭa. A locality in South India where <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kīḷakoṭṭa. Một địa phương ở Nam Ấn Độ nơi Laṅkāpura chiến đấu với người Damiḷa. Cv.lxxvi.297.
 
 ## Notes

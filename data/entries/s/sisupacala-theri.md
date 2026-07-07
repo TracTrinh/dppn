@@ -5,7 +5,7 @@ base_headword: "Sīsupacālā Therī"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -30,6 +30,8 @@ Her story resembles that of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīsupacālā Therī. Một trong những người em gái của Sāriputta. Māra từng cám dỗ bà bằng những ý nghĩ về các khoái lạc của Kāmaloka (thế giới nhục dục), nhưng bà đã đuổi hắn đi trong sự hổ thẹn (Thīg.vss.190-203; Thīg­a.168f.; SN.i.133f).
+
+Câu chuyện của bà giống với câu chuyện của Cālā. Bà có một người con trai cùng tên với chính mình. Thag­a.i.110.
 
 ## Notes

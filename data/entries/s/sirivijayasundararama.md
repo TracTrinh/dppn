@@ -5,7 +5,7 @@ base_headword: "Sirivijayasundarārāma"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -27,6 +27,6 @@ Sirivijayasundarārāma. A monastery in <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirivijayasundarārāma. Một tu viện ở Jambuddoṇi, do Vijayabāhu III xây dựng. Parakkamabāhu II đã xây quanh đó một bức tường với các tháp cổng. Cv.lxxxv.90f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kalyāṇa"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -29,6 +29,6 @@ Kalyāṇa (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kalyāṇa (Kalyāṇaka). Một vị vua thuộc dòng dõi Mahā Sammata. Ông là con trai của Vararoja và là một trong những tổ tiên của những người Sākiyan. Con trai của ông là Varakalyāṇa. DN­a.i.258; Snp-a.i.352; Ja.ii.311; iii.464; Mhv.ii.2; Dpv.iii.4; Mvu.i.345.
 
 ## Notes

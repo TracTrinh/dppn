@@ -5,7 +5,7 @@ base_headword: "Vāmadeva"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vāmadeva. One of the great sages honoured by the Brahmins as authors of hymns, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vāmadeva. Một trong những vị đại hiền triết được những người Bà-la-môn tôn vinh như tác giả của các bài thánh ca, v.v. Vin.i.245; DN.i.104, v.v.; xem Vāmaka; cf. *Ṛgveda* iv. 26; *Rāmāyaṇa* i.7, v.v.
 
 ## Notes

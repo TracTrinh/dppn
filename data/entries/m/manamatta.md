@@ -5,7 +5,7 @@ base_headword: "Mānamatta"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -27,6 +27,6 @@ Mānamatta. A village, probably in North Ceylon; one of the spots where the <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mānamatta. Một ngôi làng, có lẽ ở miền Bắc Tích Lan; là một trong những địa điểm mà người Damiḷas dưới sự chỉ huy của Māgha và Jayabāhu đã xây dựng công sự. Cv.lxxxiii.16.
 
 ## Notes

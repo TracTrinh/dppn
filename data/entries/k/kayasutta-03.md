@@ -5,7 +5,7 @@ base_headword: "Kāyasutta"
 disambiguator: "03"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -24,6 +24,6 @@ Kāyasutta 03. Same as above, but in reference to the seven *bojjhaṅgas*. SN.v
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāyasutta 03. Giống như trên, nhưng liên quan đến bảy bojjhaṅga. SN.v.65f.
 
 ## Notes

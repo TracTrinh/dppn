@@ -5,7 +5,7 @@ base_headword: "Kapallapūva"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,6 @@ Kapallapūva. A cave near the gateway of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kapallapūva. Một hang động gần cổng Jetavana, nơi Macchariya Kosiya (*q.v.*) và vợ ông đã ném đi những chiếc bánh còn sót lại sau khi họ đã cúng dường thức ăn cho Đức Phật và năm trăm tỳ-kheo. Từ hành động này, địa điểm đã lấy tên là Kapallapūva (Bánh trong hũ). Ja.i.348; Dhp­a.i.373.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Uposatha"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -30,6 +30,6 @@ Uposatha 01. King, son of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uposatha 01. Vị vua, con trai của Varakaḷyāna và là một tổ tiên của bộ tộc Sākyan. Con trai ông là Mandhātā (Dpv.iii.4). Ông là một trong những vị vua vào giai đoạn đầu của *kappa* (Ja.ii.311; iii.454). Trong Bản chú giải Dīgha (DN­a.i.258) ông được xem là con trai của Varamandhātā và là cha của Cara. Trong các văn bản phương bắc, ông được gọi là Uposadha. Mvu.i.348; Divy.210.
 
 ## Notes

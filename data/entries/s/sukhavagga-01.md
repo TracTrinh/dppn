@@ -5,7 +5,7 @@ base_headword: "Sukhavagga"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sukhavagga 01. The fifteenth chapter of the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sukhavagga 01. Phẩm thứ mười lăm của Dhammapada.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kimatthisutta"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,6 @@ Kimatthisutta 02. A discussion between <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kimatthisutta 02. Một cuộc thảo luận giữa Sāriputta và Jambukhādaka tại Nālaka. "Mục đích của đời sống tốt đẹp là gì?" "Sự thấu hiểu về khổ." "Có con đường nào dẫn đến đó không?" "Có, Bát Thánh Đạo." SN.iv.253.
 
 ## Notes

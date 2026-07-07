@@ -5,7 +5,7 @@ base_headword: "Parakkamabāhu"
 disambiguator: "03"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Parakkamabāhu 03. One of the five sons of <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parakkamabāhu 03. Một trong năm người con trai của Parakkamabāhu II. Không có gì được biết thêm về ông. Cv.lxxxvii.16.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sattipaṇṇiya Thera"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/067.html"
@@ -28,6 +28,8 @@ He is evidently identical with <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Trưởng lão Sattipaṇṇiya. Một vị Arahant. Một trăm ngàn kappa trước, ông đã dâng một đóa hoa satti lên thân Đức Phật (? Padumuttara) khi thân ấy đang được đem đi hỏa táng (Ap.ii.406).
+
+Ông rõ ràng là cùng một người với Trưởng lão Vimala. Thag­a.i.377.
 
 ## Notes

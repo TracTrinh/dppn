@@ -5,7 +5,7 @@ base_headword: "Vidadhimukhamaṇḍaṭīkā"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,6 @@ Vidadhimukhamaṇḍaṭīkā. A Commentary by <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vidadhimukhamaṇḍaṭīkā. Một bộ Chú giải của Vepullabuddhi (Gv.64, 74). Nó có lẽ là Chú giải cho Vidaghamukhamaṇḍana (một cuốn sách về các câu đố) của Dhammadāsa. Bode, 28, chú thích số 3.
 
 ## Notes

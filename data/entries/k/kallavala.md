@@ -5,7 +5,7 @@ base_headword: "Kallavāla"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,6 @@ Kallavāla, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kallavāla, Kanavālamutta. Một ngôi làng ở Magadha. Mahā Moggallāna đã sống ở đó ngay sau khi thọ giới của mình, và vào ngày thứ bảy, trong khi đang thiền định tại đó, tôn giả đã trở thành một *Arahant*, nhờ được nhắc nhở bởi Đức Phật, người đã cảnh báo tôn giả về sự lười biếng. AN.iv.85; Thag­a.ii.94; Dhp­a.i.79; AN­a.i.91.
 
 ## Notes

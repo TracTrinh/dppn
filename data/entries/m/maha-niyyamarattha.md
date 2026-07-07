@@ -5,7 +5,7 @@ base_headword: "Mahā Niyyāmaraṭṭha"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -25,6 +25,6 @@ Mahā Niyyāmaraṭṭha. A district in Ceylon, mentioned in the account of the 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Niyyāmaraṭṭha. Một khu vực ở Tích Lan, được đề cập trong câu chuyện về các chiến dịch của Parakkamabāhu I. Cv.lxxii.57; Cv.Trs.i.324, n.2.
 
 ## Notes

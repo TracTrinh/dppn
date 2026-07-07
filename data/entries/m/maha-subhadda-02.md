@@ -5,7 +5,7 @@ base_headword: "Mahā Subhaddā"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -29,6 +29,6 @@ Mahā Subhaddā 02. Eldest daughter of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Subhaddā 02. Trưởng nữ của Anāthapiṇḍika. Trước khi kết hôn, cô đã phục vụ những tỳ-kheo đến nhà cha cô và trở thành một *Sotāpanna* (Dhp­a.i.128; Ja.i.93). Theo Chú giải Aṅguttara cô đã kết hôn với một người không có tín tâm, một gia chủ của Ugganagara, và Đức Phật, theo sự thỉnh cầu của cô, đã đi đến nhà cô cùng với năm trăm tỳ-kheo (đứng đầu trong số đó là Kuṇḍadhāna) để nhận lãnh vật thực khất thực (AN­a.i.146, 148f). Nhưng hãy xem Cūḷa Subhaddā.
 
 ## Notes

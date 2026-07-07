@@ -5,7 +5,7 @@ base_headword: "Kaccānā"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -45,6 +45,15 @@ She married <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaccānā 01. Một công chúa người Sākiyan, con gái của Devadahasakka xứ Devadaha và là chị/em gái của Añjanasakka.
+
+Bà kết hôn với Sīhahanu và có năm người con trai cùng hai người con gái:
+
+- Suddhodana,
+- Dhotodana,
+- Sakkodana,
+- Sukkodana,
+- Amitodana,
+- Amitā và Pamitā. Mhv.ii.17-20.
 
 ## Notes

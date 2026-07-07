@@ -5,7 +5,7 @@ base_headword: "Sīlava"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -26,6 +26,6 @@ Sīlava 01. The Bodhisatta, born as king of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīlava 01. Bodhisatta, sinh làm vua Benares; xem Mahā Sīlavajātaka (Ja 51).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vāsidāyaka Thera"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vāsidāyaka Thera. An *Arahant*. Ninety-four *kappas* ago he was an artisan (*k
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị *Arahant*. Chín mươi tư *kappa* trước, ngài là một nghệ nhân (*kammāra*) ở Tivarā và đã cúng dường một lưỡi dao cạo cho Đức Phật. Ap.i.221.
 
 ## Notes

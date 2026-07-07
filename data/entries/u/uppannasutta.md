@@ -5,7 +5,7 @@ base_headword: "Uppannasuttā"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -26,6 +26,6 @@ Uppannasuttā (or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uppannasuttā (hoặc Uppādasuttā). Hai bài kinh (Sutta) tuyên bố rằng bảy bojjhaṅga không xuất hiện nếu không có sự thị hiện của một Tathāgata. SN.v.77.
 
 ## Notes

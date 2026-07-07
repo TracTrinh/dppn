@@ -5,7 +5,7 @@ base_headword: "Uppalavaṇṇā"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -139,6 +139,52 @@ It was <span class="dppn-term dppn-term-t14" data-dppn-term-pos="93" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uppalavaṇṇā 01. Uppalavaṇṇā Therī. Một trong hai nữ đệ tử hàng đầu của Đức Phật. Bà sinh ra ở Sāvatthī, là con gái của một vị trưởng giả, và được đặt tên là Uppalavaṇṇā vì làn da của bà có màu như lõi của hoa sen xanh. Khi bà đến tuổi trưởng thành, các vị vua và dân thường từ khắp Ấn Độ đã cử sứ giả đến gặp cha bà để xin cưới bà. Không muốn làm phật lòng bất kỳ ai trong số họ, ông đề nghị Uppalavaṇṇā nên xuất gia. Nhờ có upanissaya (tiềm năng) của mình, bà rất sẵn lòng đồng ý và được thọ giới Tỳ-kheo-ni. Chẳng bao lâu sau, đến lượt bà thực hiện một số phận sự trong giảng đường uposatha. Thắp đèn lên, bà quét dọn căn phòng. Lấy ngọn lửa của cây đèn làm đề mục thiền hình sắc của mình, bà phát triển tejokasiṇa và, khi đạt đến jhāna, đã trở thành một Arahant sở hữu bốn đạt chứng đặc biệt (paṭisambhidā). Bà đặc biệt tinh thông năng lực thần bí của sự biến hóa (iddhivikubbana). Khi Đức Phật đến cây Gaṇḍamba để thực hiện Song thông, Uppalavaṇṇā đã đề nghị tự mình thực hiện một số phép thần thông, nếu Đức Phật cho phép, nhưng ngài đã từ chối (Thīg­a.190, 195). Sau đó, tại Jetavana, trong hội chúng của Tăng đoàn, ngài đã tuyên bố bà là vị nữ đệ tử tối thắng về thần thông (iddhi) (AN.i.25). Therīgāthā (vv.234-5) có chứa một số bài kệ được cho là của bà.
+
+Ba bài trong số đó đã được thốt lên trong nỗi sầu khổ bởi một người mẹ, người vô tình sống như tình địch của chính con gái mình với người đàn ông sau này trở thành tỳ-kheo Gaṅgātīriya (q.v.). Uppalavaṇṇā đã lặp lại chúng để giúp bà quán chiếu về tác hại và sự đê tiện của những dục vọng. Hai bài khác là những lời hỉ lạc về các phẩm vị mà bà đã giành được và một bài khác ghi lại phép thần thông bà đã thực hiện trước Đức Phật, với sự cho phép của ngài. Phần còn lại chứa một cuộc trò chuyện giữa Uppalavaṇṇā và Māra (một cuộc trò chuyện, ít nhiều giống với cuộc trò chuyện trước đó, được ghi lại trong SN.i.131f), trong đó bà nói với ông ta rằng bà đã hoàn toàn vượt khỏi quyền lực của ông ta.
+
+Các sách ghi lại một số tình tiết liên quan đến Uppalavaṇṇā. Có lần, một thanh niên tên là Ānanda, là anh họ của bà và đã đem lòng yêu bà trong suốt thời kỳ bà còn là cư sĩ, đã trốn trong túp lều của bà ở Andhavana và, bất chấp sự phản kháng của bà, đã cướp đi sự trinh trắng của bà. Người ta nói rằng anh ta đã bị ngọn lửa của Avīci nuốt chửng. Từ đó trở đi, các tỳ-kheo-ni bị cấm sống ở Andhavana (Dhp­a.ii.49f; sự việc này được nhắc đến trong Vin.iii.35). Người ta nói (ví dụ: Dhp­a.iv.166f) rằng sự việc này đã làm nảy sinh câu hỏi liệu ngay cả các Arahant có tận hưởng những thú vui tình ái và muốn thỏa mãn dục vọng của mình hay không. Tại sao họ lại không? Vì họ không phải là cây cối hay tổ kiến, mà là những sinh vật sống có da thịt ướt át. Đức Phật đã tuyên bố dứt khoát rằng những suy nghĩ ái dục không bao giờ xâm nhập vào trái tim của các bậc thánh. Trong một dịp khác, Uppalavaṇṇā tình cờ thấy ở Andhavana một ít thịt do một tên trộm tốt bụng bỏ lại, rõ ràng là dành cho bà; sau khi nấu thịt xong, bà mang nó đến cho Đức Phật tại Veḷuvana. Thấy ngài đi vắng trên đường khất thực, bà để thịt lại cho Udāyī, người đang trông coi vihāra, để đưa cho Đức Phật, nhưng Udāyī khăng khăng đòi Uppalavaṇṇā phải đưa cho ông ta chiếc y trong của bà như một phần thưởng cho công lao của ông ta (Vin.iii.208f).
+
+Theo Dhammapada Commentary (Dhp-a.iii.211), phép thần thông mà Uppalavaṇṇā tình nguyện thực hiện tại cây Gaṇḍamba, là việc hóa thân thành một Cakkavatti, với đoàn tùy tùng kéo dài ba mươi sáu do-tuần và đảnh lễ Đức Phật, cùng với tất cả những người theo Cakkavatti, trước sự hiện diện của quần chúng.
+
+Có đề cập đến một học trò của Uppalavaṇṇā, người đã theo Đức Phật trong bảy năm, học tập Vinaya (Vin.ii.261).
+
+Đức Phật tuyên bố rằng Khemā và Uppalavaṇṇā là thước đo cho các nữ đệ tử của ngài, và vị tỳ-kheo-ni có đức tin, nếu muốn phát nguyện một cách trọn vẹn, thì nên nguyện được như họ (AN.i.88; ii.164; SN.ii.236).
+
+Trong thời của Padumuttara, Uppalavaṇṇā đã nhìn thấy một nữ đệ tử được xưng tán là vị xuất sắc nhất trong số những người sở hữu thần thông, và mong ước cho mình một phẩm vị tương tự trong giáo pháp của một vị Phật tương lai. Vào thời của Kassapa, bà là một trong bảy người con gái của Kikī, vua xứ Benares, và sau khi làm nhiều việc thiện, đã được sinh lên cõi trời. Sau đó, bà sinh vào thế giới loài người và phải tự làm việc để kiếm sống. Một ngày nọ, bà cúng dường cho một Pacceka Buddha vừa xả samādhi, một bữa cơm rang trong bát của ngài và đậy nó bằng một bông sen xinh đẹp; bữa ăn này vốn được chuẩn bị cho chính bà. Sau đó bà lấy lại bông sen nhưng rồi lại đặt nó vào, xin Pacceka Buddha tha thứ. Bà phát nguyện rằng bà sẽ sinh được số con trai bằng với số hạt gạo trong món quà của bà, và rằng những bông sen sẽ mọc lên dưới chân bà khi bà bước đi. Trong lần sinh tiếp theo, bà sinh ra trong một bông hoa sen. Một đạo sĩ đã nhận bà làm con gái nuôi, nhưng khi bà lớn lên, vua xứ Benares, nghe nói về vẻ đẹp của bà, đã hỏi xin đạo sĩ để cưới bà và biến bà thành chánh hậu của mình, dưới cái tên Padumavatī. Các người vợ khác của nhà vua ghen tị với vẻ đẹp của bà, và khi nhà vua đi vắng, dẹp loạn các bộ lạc biên giới, họ đã giấu năm trăm người con trai, trong đó đứng đầu là vương tử Mahā Paduma (q.v.), do Padumavatī sinh ra, vào trong các tráp, và nói với nhà vua rằng Padumavatī là phi nhân và đã sinh ra một khúc gỗ. Padumavatī bị đuổi đi trong nỗi ô nhục, nhưng sau đó, qua sự can thiệp của Sakka, mưu kế đã bị vạch trần, và Padumavatī lấy lại được tất cả quyền lực và vinh quang trước đây của mình (sự thất sủng tạm thời của bà là do bà đã rút lại món quà là bông hoa sen cúng cho Pacceka Buddha.) Sau đó, khi Mahā Paduma và các anh em của mình trở thành các Pacceka Buddha, Padumavatī chết vì đau buồn và được sinh ra ở một ngôi làng bên ngoài Rājagaha. Tại đó, một số vị Pacceka Buddha từng là con trai của bà đã tìm thấy bà, và tất cả họ đều đến dùng bữa tại nhà bà. Cuối bữa ăn, bà cúng dường cho họ những bông sen xanh, và phát nguyện rằng nước da của bà sẽ giống như lõi của bông sen xanh.
+
+Ghi chép này là bản tóm tắt của Therīgāthā Commentary, pp.182ff; AN­a.i.188ff; nhưng xem thêm Dhp­a.ii.48f.
+
+Phần ghi chép của Apadāna về các kiếp quá khứ của Uppalavaṇṇā khác với phần trên ở một số chi tiết (ii.551. Nhưng vv.1-15 được trích dẫn trong Thīg­a. khác với những bài kệ trong Apadāna, và thống nhất với ghi chép của Thīg­a.). Theo ghi chép này, vào thời của Padumuttara, bà là một thiếu nữ Nāga tên là Vimalā và rất ấn tượng trước năng lực iddhi do một vị tỳ-kheo-ni thể hiện, do đó bà mong ước có được năng lực tương tự. Apadāna cũng đề cập đến sự kiện Uppalavaṇṇā sinh ra là con gái của một trưởng giả xứ Benares, vào thời của Vipassī. Bà đã bố thí lớn cho Đức Phật cùng các tỳ-kheo và cúng dường hoa sen. Bà là con gái thứ hai của Kikī và tên của bà là Samaṇaguttā. Trong kiếp sống tiếp theo, bà trở thành cô con gái tuyệt trần của Tirīṭavaccha xứ Ariṭṭhapura. Trong lần sinh cuối cùng, bà đã trở thành một Arahant trong vòng nửa tháng sau khi thọ giới.
+
+Tên của Uppalavaṇṇā xuất hiện vài lần trong các Jātaka.
+
+- Trong Kharādiyajātaka (Ja.i.160), bà là một con nai, em gái của Bodhisatta;
+- trong Tipallatthamigajātaka (Ja.i.164), bà là mẹ của Rāhula, khi đó sinh làm một con nai đực.
+- Bà được đồng nhất với bà lão, nhũ mẫu của Ayyakālaka (Ja.i.196),
+- với vương hậu Mudulakkhaṇā (Ja.i.306),
+- nữ Bà-la-môn trong Sārambha (Ja.i.375),
+- kỹ nữ trong Kurudhamma (Ja.ii.381),
+- con gái của vị Bà-la-môn (và là em gái của Rāhula) trong Dhonasākha (Ja.iii.168),
+- Siridevī trong Sirikālakaṇṇi (Ja.iii.264),
+- thiên nữ trong Bhisapuppha (Ja.iii.310),
+- em gái của Manoja trong Manoja (Ja.iii.324),
+- con gái của đạo sĩ trong Kumbhakāra (Ja.iii.383),
+- vị thiên nhân trong Jāgarajā (Ja.iii.405), trong Saṅkha (Ja.iv.22), và trong Kiñchanda (Ja.v.11),
+- người em gái trong Bhisa (Ja.iv.314),
+- Sutanā trong Rohantamiga (Ja.iv.423),
+- người em gái trong Jayaddisa (Ja.v.36),
+- Kuṇḍalinī trong Tesakuṇa (Ja.v.125),
+- Ummadantī trong Ummadantī (Ja.v.227),
+- Hiridevatā trong Sudhābhojana (Ja.v.412),
+- thiên nữ che lọng trong Mūgapakkha (Ja.vi.29),
+- thủy thần trong Mahā Janaka (Ja.vi.68),
+- thiên nữ trong Sāma (Ja.vi.95),
+- Selā trong Khaṇḍahāla (Ja.vi.157),
+- Accimukhī trong Bhūridatta (Ja.vi.219),
+- Bherī trong Mahā Ummagga (Ja.vi.478) và
+- Kaṇhajinā trong Vessantara (Ja.vi.593).
+
+Chính Uppalavaṇṇā là người đã truyền giới cho Anojā cùng những người bạn đồng hành của bà, theo tâm nguyện rõ ràng của Đức Phật (AN­a.i.178).
 
 ## Notes

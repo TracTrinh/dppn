@@ -5,7 +5,7 @@ base_headword: "Sudhamma"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sudhamma 01. The city of birth of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudhamma 01. Thành phố đản sinh của Sobhita Buddha. Bv.vii.16; Ja.i.35.
 
 ## Notes

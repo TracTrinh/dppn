@@ -5,7 +5,7 @@ base_headword: "Mahaka."
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Mahaka. A novice, pupil of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahaka. Một sa-di, học trò của Upananda, người được nhắc đến là đã phạm tội lỗi về một hành vi trái với tự nhiên với Kaṇḍaka, một sa-di khác. Vin.i.70.
 
 ## Notes

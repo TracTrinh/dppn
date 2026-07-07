@@ -5,7 +5,7 @@ base_headword: "Mahā Valligottavihāra"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -26,6 +26,6 @@ Mahā Valligottavihāra. A monastery built by <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Valligottavihāra. Một tu viện được xây dựng bởi Vasabha và được ban tặng cho vị trú trì của tu viện Valliyera. Mhv.xxxv.82.
 
 ## Notes

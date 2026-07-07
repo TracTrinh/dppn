@@ -5,7 +5,7 @@ base_headword: "Siriyavala"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -23,6 +23,6 @@ Siriyavala. A district in South India. Cv.lxxvi.170, etc.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Siriyavala. Một địa hạt ở Nam Ấn Độ. Cv.lxxvi.170, etc.
 
 ## Notes

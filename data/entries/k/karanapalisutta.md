@@ -5,7 +5,7 @@ base_headword: "Kāraṇapālīsutta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -26,6 +26,6 @@ Kāraṇapālīsutta. Records the meeting of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāraṇapālīsutta. Ghi chép về cuộc gặp gỡ của Kāraṇapālī với Piṅgiyānī. AN.iii.236-9.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Puḷina"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Puḷina. A king of fifty-three *kappas* ago, a previous birth of <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Puḷina. Một vị vua của năm mươi ba *kappa* về trước, một tiền kiếp của Trưởng lão Puḷinapūjaka. Ap.i.79.
 
 ## Notes

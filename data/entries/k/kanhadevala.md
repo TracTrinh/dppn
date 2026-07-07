@@ -5,7 +5,7 @@ base_headword: "Kaṇhadevala"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kaṇhadevala. Another name for <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇhadevala. Một tên khác gọi Asita. Snp-a.ii.487.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kūṭasutta"
 disambiguator: "05"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -24,6 +24,6 @@ Kūṭasutta 05. Of the five powers (*saddhā*, *hiri*, *ottappa*, *viriya*, *pa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Trong năm sức mạnh (*saddhā*, *hiri*, *ottappa*, *viriya*, *paññā*), sức mạnh cuối cùng là đỉnh cao (AN.iii.10).
 
 ## Notes

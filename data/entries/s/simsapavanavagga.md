@@ -5,7 +5,7 @@ base_headword: "Siṁsapāvanavagga"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Siṁsapāvanavagga. The fourth chapter of the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Siṁsapāvanavagga. Chương thứ tư của Saccasaṁyutta. SN.v.437ff.
 
 ## Notes

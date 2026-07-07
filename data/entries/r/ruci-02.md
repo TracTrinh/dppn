@@ -5,7 +5,7 @@ base_headword: "Ruci"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Ruci 02. A king of thirty-eight *kappas* ago; a previous birth of <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ruci 02. Một vị vua cách đây ba mươi tám *kappa*; một tiền kiếp của Trưởng lão Sucintita. Ap.i.134.
 
 ## Notes

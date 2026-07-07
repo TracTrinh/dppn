@@ -5,7 +5,7 @@ base_headword: "Pariññāsutta"
 disambiguator: "03"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Pariññāsutta 03. (or <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pariññāsutta 03. (hoặc Addhānasutta). Năm căn (*indriyas*), nếu được phát triển, sẽ dẫn đến sự thấu hiểu về con đường giải thoát. SN.v.236.
 
 ## Notes

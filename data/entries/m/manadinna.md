@@ -5,7 +5,7 @@ base_headword: "Mānadinna"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Mānadinna. A householder of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mānadinna. Một cư sĩ ở Rājagaha. Khi ông nằm bệnh, Ānanda đến thăm và ông thổ lộ rằng ngay cả trong lúc bệnh ông vẫn tu tập bốn *satipaṭṭhāna*. Ông hoàn toàn thoát khỏi năm *orambhāgiyasaṁyojanā*. SN.v.178.
 
 ## Notes

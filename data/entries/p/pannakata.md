@@ -5,7 +5,7 @@ base_headword: "Pannakata"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -23,6 +23,6 @@ Pannakata. A city in Esikāraṭṭha. Pv.iv.7; Pv-a.195ff.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pannakata. Một thành phố ở Esikāraṭṭha. Pv.iv.7; Pv-a.195ff.
 
 ## Notes

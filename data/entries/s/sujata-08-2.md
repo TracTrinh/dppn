@@ -5,7 +5,7 @@ base_headword: "Sujātā"
 disambiguator: "08"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -28,6 +28,6 @@ Sujātā 08. Youngest sister of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sujātā 08. Người em gái út của Visākhā. Cô là con gái của *seṭṭhi* Dhanañjaya và được gả cho con trai của Anāthapiṇḍika. Cô rất kiêu ngạo và bướng bỉnh. Một ngày nọ, khi Đức Phật đến thăm nhà Anāthapiṇḍika, cô đang mắng chửi những người hầu. Đức Phật đã dừng lại những gì ngài đang nói, và, hỏi xem tiếng ồn đó là gì, ngài đã cho gọi cô đến và mô tả cho cô về bảy kiểu người vợ trên thế gian. Cô lắng nghe bài thuyết pháp và thay đổi cách sống của mình (AN.iv.91f.; Ja.ii.347f). Sujātajātaka (Ja 269) đã được thuyết cho cô nghe.
 
 ## Notes

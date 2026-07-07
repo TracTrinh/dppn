@@ -5,7 +5,7 @@ base_headword: "Uttamadevīvihāra"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Uttamadevīvihāra. A monastery to the east of <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttamadevīvihāra. Một tu viện ở phía đông của Anurādhapura. Ud­a.158; MN­a.i.471.
 
 ## Notes

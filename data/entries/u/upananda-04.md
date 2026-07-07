@@ -5,7 +5,7 @@ base_headword: "Upananda"
 disambiguator: "04"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,6 @@ Upananda 04. Commander-in-chief of the <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upananda 04. Tổng tư lệnh của vương quốc Magadha. Ông có mặt tại cuộc trò chuyện, được ghi lại trong Gopaka Moggallānasutta, giữa Ānanda và Vassakāra. MN.iii.13.
 
 ## Notes

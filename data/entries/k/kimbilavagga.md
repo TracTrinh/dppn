@@ -5,7 +5,7 @@ base_headword: "Kimbilavagga"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kimbilavagga. The twenty-first section of the *Pañcakanipāta* of the <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kimbilavagga. Phần thứ hai mươi mốt thuộc *Pañcakanipāta* của Aṅguttaranikāya. Nó chứa mười *Sutta* mà trong đó Kimbilasutta là bài kinh đầu tiên. AN.iii.247-51.
 
 ## Notes

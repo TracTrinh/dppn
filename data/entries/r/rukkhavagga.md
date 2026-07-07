@@ -5,7 +5,7 @@ base_headword: "Rukkhavagga"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Rukkhavagga. The sixth chapter of the <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rukkhavagga. Chương thứ sáu của Nidānasaṁyutta. SN.ii.80-94.
 
 ## Notes

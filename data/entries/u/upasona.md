@@ -5,7 +5,7 @@ base_headword: "Upasoṇā"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -25,6 +25,6 @@ Upasoṇā. One of the two chief women disciples of <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upasoṇā. Một trong hai nữ đại đệ tử của Đức Phật Sumana. Bv.v.27; Ja.i.24.
 
 ## Notes

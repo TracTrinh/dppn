@@ -5,7 +5,7 @@ base_headword: "Senaggabodhi"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Senaggabodhi. A shrine built by <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Senaggabodhi. Một điện thờ do Sena I. xây dựng trên Thusavāpi tại Pulatthipura. Cv.l.73.
 
 ## Notes

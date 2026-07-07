@@ -5,7 +5,7 @@ base_headword: "Pillicchakoli"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -23,6 +23,6 @@ Pillicchakoli. A locality in Ceylon. SN­a.ii.169.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pillicchakoli. Một địa phương ở Tích Lan (Ceylon). SN­a.ii.169.
 
 ## Notes

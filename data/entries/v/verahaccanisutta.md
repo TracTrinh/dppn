@@ -5,7 +5,7 @@ base_headword: "Verahaccānisutta"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Verahaccānisutta. Contains an account of the conversion of the Brahmin lady of 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Verahaccānisutta. Chứa đựng một lời tường thuật về việc chuyển đổi của một người phụ nữ Bà-la-môn thuộc Verahaccānigotta. SN.iv.412f.
 
 ## Notes

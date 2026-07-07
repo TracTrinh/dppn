@@ -5,7 +5,7 @@ base_headword: "Kesaputtiyasuttā"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kesaputtiyasuttā. A group of *Suttas* preached to the <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kesaputtiyasuttā. Một nhóm các Sutta được thuyết giảng cho những người Kālāma ở Kesaputta. Không cần phải có một truyền thống chính thức nào, không cần một uy quyền nào, không cần những lập luận tinh vi hay những điều tương tự, để xác định giáo lý chân chính và phân biệt nó với giáo lý sai lầm. Vị Thánh đệ tử có tâm trí thanh tịnh sẽ có bốn niềm an ủi. Người đó biết rằng dù có thế giới ở kiếp sau hay không thì hạnh phúc của người đó vẫn được đảm bảo. AN.i.188f.
 
 ## Notes

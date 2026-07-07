@@ -5,7 +5,7 @@ base_headword: "Sobhita"
 disambiguator: "08"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -39,6 +39,12 @@ He is evidently identical with <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sobhita 08. Sobhita Thera. Ngài thuộc một gia đình Bà-la-môn ở Sāvatthī và, sau khi nghe Đức Phật thuyết pháp, đã gia nhập Saṅgha, chứng đắc quả vị *Arahant*. Về sau Đức Phật tuyên bố ngài là đệ nhất trong số những vị có thể nhớ lại các kiếp quá khứ (*pubbenivāsānussarantānaṁ*).
+
+Ngài đã phát nguyện đạt được vị trí đệ nhất này vào thời Padumuttara Buddha, khi ngài là một gia chủ ở Haṁsavatī.
+
+Vào thời Sumedha Buddha, ngài là một người Bà-la-môn, thông thạo các Vệ-đà. Về sau ngài từ bỏ đời sống tại gia và sống trong một am thất gần Himavā. Khi nghe tin về sự xuất hiện của một vị Phật trên đời, ngài đã đến Bandhumatī với tốc độ nhanh nhất có thể và thốt lên những lời tán dương Đức Phật trong sáu bài kệ (AN.i.25; Thag.vss.165, 166; AN­a.i.172; Thag­a.i.288f).
+
+Ngài rõ ràng đồng nhất với Ñāṇatthavika trong Apadāna (Ap.ii.421f). Ngài từng bị buộc tội tự nhận có *uttarimanussadhamma*, nhưng đã được Đức Phật minh oan (Vin.iii.109). Ngài rõ ràng là một người thông thạo Abhidhamma (xem Dhs-a., p.32).
 
 ## Notes

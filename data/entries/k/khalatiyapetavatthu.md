@@ -5,7 +5,7 @@ base_headword: "Khalātiyapetavatthu"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -26,6 +26,6 @@ Khalātiyapetavatthu. The story of a courtesan. She had beautiful hair which, ho
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khalātiyapetavatthu. Câu chuyện về một kỹ nữ. Cô có mái tóc rất đẹp nhưng đã bị mất đi do những âm mưu của một tình địch. Có lần cô đã lấy trộm quần áo của vài người đàn ông đang ngủ, và vào một dịp khác cô đã bố thí cho một vị tỳ-kheo. Sau đó cô được sinh ra trong một vimāna ở đại dương với tư cách là một nữ ngạ quỷ (Peta) khỏa thân với mái tóc tuyệt đẹp; một số thương nhân, trong khi đi đến Suvaṇṇabhūmi, đã nhìn thấy cô, và khi biết được câu chuyện của cô, họ đã thay mặt cô đem quần áo tặng cho một người mộ đạo trong đoàn của họ, và kết quả là quần áo lập tức hiện ra trên người cô. Sau đó, những thương gia này đã dâng cúng thức ăn cho Đức Phật dưới danh nghĩa của cô, và cô đã được tái sinh ở cõi Tāvatiṁsa. Pv.i.10; Pv­a.46ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kappasutta"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -23,6 +23,6 @@ Kappasutta 02. On the four incalculable periods of the aeon (*kappa*): when it r
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kappasutta 02. Về bốn thời kỳ a-tăng-kỳ của đại kiếp (*kappa*): khi nó hoại diệt, khi nó trống rỗng, khi nó hình thành, và khi nó tồn tại trong trạng thái đó. AN.ii.142; cf. DN.i.14; 109; Mil.232.
 
 ## Notes

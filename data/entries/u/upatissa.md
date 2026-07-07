@@ -5,7 +5,7 @@ base_headword: "Upatissa"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -25,6 +25,6 @@ Upatissa 02. *Purohita* to <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upatissa 02. *Purohita* của Vijaya, vua của Ceylon. Ông đã thành lập một khu định cư tại Upatissagāma. Mhv.vii.44; Dpv.ix.32, 36.
 
 ## Notes

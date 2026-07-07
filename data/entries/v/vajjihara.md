@@ -5,7 +5,7 @@ base_headword: "Vajjihārā"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -24,6 +24,6 @@ Vajjihārā. The name of a tribe. Ap.ii.359 (vs. 19).
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vajjihārā. Tên của một bộ tộc. Ap.ii.359 (vs. 19).
 
 ## Notes

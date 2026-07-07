@@ -5,7 +5,7 @@ base_headword: "Sumanā"
 disambiguator: "15"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -31,6 +31,6 @@ Sumanā 15. A woman of the *Mahā Vālukavīthi* in <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumanā 15. Một người phụ nữ của khu vực *Mahā Vālukavīthi* ở Anurādhapura. Bà đã dành nhiều thời gian ở trong tu viện và đã bị người chồng của mình đuổi đi trong cơn tức giận. Bà đã nhịn đói trong bảy ngày, và trên đường quay trở về nhà bà từ Mahā Gāma, nơi bà đã kết hôn, bà đã dâng cúng một ít thức ăn, thứ mà Sakka đã cung cấp cho bà, cho Mahā Dhammadinna Thera của Talaṅgapabbata, tại Nigrodhasālakhaṇḍa. Về sau, một vị chư thiên khác đã đưa bà trên một chiếc xe đẩy đến Guḷapūvatintini, gần Anurādhapura. Nhà vua, khi nghe nói về bà, đã phong bà làm người chánh phi của mình. Ras.ii.49f.
 
 ## Notes

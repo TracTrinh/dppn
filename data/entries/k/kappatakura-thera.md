@@ -5,7 +5,7 @@ base_headword: "Kappaṭakura Thera"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -31,6 +31,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kappaṭakura Thera. Một Arahant. Ông thuộc về một gia đình nghèo ở Sāvatthī, nơi ông đã đi lại trong những bộ đồ rách rưới, cầm chảo trên tay, tìm kiếm những hạt gạo (*kura*), do đó ông có tên này ("Rách rưới và Cơm"). Sau đó ông kiếm sống bằng việc bán cỏ. Một ngày nọ, sau khi nghe một vị tỳ-kheo thuyết pháp, ông đã gia nhập Tăng đoàn, để lại những mảnh giẻ rách của mình ở một nơi nào đó; bảy lần sự bất mãn đã trỗi dậy bên trong ông, và mỗi lần như thế ông nhặt những mảnh giẻ rách của mình lên và mặc chúng vào. Khi Đức Phật nghe được điều này, ngài đã nghiêm khắc quở trách vị tỳ-kheo, và người sau, bị xáo trộn mạnh, đã phát triển tuệ minh sát và trở thành một Arahant.
+
+Vào thời của Vipassī Buddha, ông là một gia chủ, và đã dâng lên Đức Phật một vài bông hoa *ketakī* trên hai bờ của con sông Vinatā (Thag.199f.; Thag­a.i.320ff). Ông có lẽ đồng nhất với Ketakapupphiya của Apadāna. Ap.ii.449.
 
 ## Notes

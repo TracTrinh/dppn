@@ -5,7 +5,7 @@ base_headword: "Vasū"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -27,6 +27,6 @@ Vasū. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một nhóm chư thiên mà Sakka là vị đứng đầu. Xem Vāsava. DN.ii.260; DN­a.ii.690.
 
 ## Notes

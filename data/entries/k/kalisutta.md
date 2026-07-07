@@ -5,7 +5,7 @@ base_headword: "Kālisutta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -34,6 +34,13 @@ Kālisutta. The Buddha, while staying at the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kālisutta. Đức Phật, trong khi đang lưu lại tại Nigrodhārāma, đã đến thăm người bà con của Ngài là Kāḷigodhā xứ Kapilavatthu, và nói cho bà nghe về bốn phẩm chất được tìm thấy ở một *Sotāpanna* –
+
+- lòng trung thành kiên định đối với Đức Phật, Pháp và Tăng đoàn,
+- sự giải thoát khỏi mọi sự ô nhiễm của thói keo kiệt,
+- niềm hoan hỷ trong sự xả kỷ và
+- trong việc bố thí các món quà từ thiện.
+
+Kāḷigodhā phát biểu rằng bà sở hữu tất cả những phẩm chất này. SN.v.396.
 
 ## Notes

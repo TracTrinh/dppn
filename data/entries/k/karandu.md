@@ -5,7 +5,7 @@ base_headword: "Karaṇḍu"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -35,6 +35,6 @@ Karaṇḍu (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Karaṇḍu (*v.l.* Karakaṇḍa, Karaṇḍaka, Karakaṇḍaka). Vua của Dantapura trong vương quốc Kāliṅga. Một ngày nọ, trong công viên của mình, ông đã ăn xoài từ một cây sai trĩu quả; đoàn tùy tùng của ông cũng làm như vậy, cái cây nhanh chóng bị vặt trụi thui chột. Khi trở về nhà, nhà vua chú ý đến tình trạng của cái cây và so sánh nó với một cái cây khác, vì không có quả nên đã tránh khỏi những sự tàn phá như vậy. Suy ngẫm về chủ đề này, ông trở thành một Pacceka Buddha và đi đến Nandamūlapabbhāra cùng với ba người khác - Naggaji, Nimi, và Dummukha. Câu chuyện về bốn người này được đưa ra trong Kumbhakārajātaka. Ja.iii.376ff.
 
 ## Notes

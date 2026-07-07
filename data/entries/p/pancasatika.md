@@ -5,7 +5,7 @@ base_headword: "Pañcasatikā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Pañcasatikā. The name given to the First Council, which was held under the pre
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcasatikā. Tên gọi được đặt cho kỳ Đại Kết Tập thứ nhất, được tổ chức dưới sự chủ tọa của Mahā Kassapa. Năm trăm tỳ-kheo đã tham gia vào kỳ Đại Kết Tập này, do đó có tên gọi như vậy. Mhv­ṭ.151.
 
 ## Notes

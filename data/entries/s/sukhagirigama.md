@@ -5,7 +5,7 @@ base_headword: "Sukhagirigāma"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sukhagirigāma. A village in <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sukhagirigāma. Một ngôi làng ở Rohaṇa, được đề cập trong lời tường thuật về những chiến dịch của Parakkamabāhu I. Cv.lxxiv.164.
 
 ## Notes

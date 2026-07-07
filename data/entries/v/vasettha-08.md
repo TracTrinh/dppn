@@ -5,7 +5,7 @@ base_headword: "Vāseṭṭha"
 disambiguator: "08"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vāseṭṭha 08. A very rich Brahmin, father of <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một Bà-la-môn rất giàu có, cha của Sela Thera. Ap.i.318.
 
 ## Notes

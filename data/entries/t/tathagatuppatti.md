@@ -5,7 +5,7 @@ base_headword: "Tathāgatuppatti"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tathāgatuppatti. A Pāli work by <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tathāgatuppatti. Một tác phẩm tiếng Pāli do Ñāṇagambhīra biên soạn. Gv.62, 72.
 
 ## Notes

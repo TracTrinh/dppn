@@ -5,7 +5,7 @@ base_headword: "Kokālika"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -46,6 +46,14 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="24" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kokālika 02. (Kokāliya). Một vị tỳ-kheo, cũng được gọi là Cūḷa Kokālika để phân biệt với Kokālika (1). Ông là con trai của Kokāliseṭṭhi ở Kokāli và sống trong tu viện do cha ông xây dựng ở Kokāli. Có một lần, hai vị Đệ tử Tối thắng, mong muốn được yên tĩnh, đã dành mùa an cư với ông, ông hứa sẽ không nói cho ai biết về sự hiện diện của họ. Sau mùa mưa, khi các vị Trưởng lão chuẩn bị trở về, Kokālika đã thông báo cho cư dân về việc lưu trú của họ và đổ lỗi cho dân chúng vì đã không bày tỏ lòng hiếu khách với họ. Những người dân thị trấn hối hả mang nhiều lễ vật đến dâng cho các vị Trưởng lão; tuy nhiên, những món đồ này đã bị từ chối, và Kokālika, người đã mong đợi rằng những món quà đó sẽ được trao cho mình, đã bị thất vọng. Các vị Trưởng lão hứa với những người dân thị trấn sẽ đến thăm họ một lần nữa, và khi trở lại, họ đã được tháp tùng bởi một đoàn tùy tùng đông đảo các tỳ-kheo, những người mà những người dân thị trấn đã bày tỏ mọi sự tôn kính. Các món quà được chia đều cho các tỳ-kheo, Kokālika không nhận được phần nào. Sau đó, ông ta trở nên lăng mạ, và các Đệ tử Tối thắng đã rời khỏi nơi này. Mọi người rất tức giận, và khăng khăng rằng Kokālika hoặc phải đưa họ trở lại hoặc tự mình rời đi. Các vị Trưởng lão từ chối quay trở lại, và Kokālika, trong cơn giận dữ tột độ, đã tìm đến Gotama Buddha tại Sāvatthī, và bất chấp những lời dặn dò của ngài, đã nói xấu các vị Đệ tử Tối thắng. Sau ba lần buộc tội các vị Trưởng lão về những ham muốn tội lỗi, ông ta rời khỏi Jetavana, nhưng những nốt nhọt ngay lập tức nổi lên trên cơ thể ông ta, sưng tấy và vỡ ra. Rên rỉ vì đau đớn, ông ta ngã gục tại cổng Jetavana. Vị đạo sư tâm linh của ông ta, một *Anāgāmī Brahma* tên là Tudu, nghe thấy tiếng kêu la của ông ta, đã đến bên ông ta và cầu xin ông ta tìm kiếm sự tha thứ từ các vị Trưởng lão. Nhưng ông ta đã nguyền rủa vị *Brahma* và từ chối lắng nghe ngài. Kokālika đã chết và được sinh ra trong Padumaniraya. SN.i.149ff; AN.v.171f; Snp.123f; Snp­a.ii.473f; Ja.iv.242f; AN­a.ii.850; SN­a.i.167f; Dhp­a.iv.91f. Các nguồn khác nhau có sự khác biệt về một vài chi tiết nhỏ; phiên bản của Jātaka là đầy đủ nhất.
+
+Chính liên quan đến sự kiện này mà Takkāriyajātaka (Ja 481) đã được thuyết.
+
+Vị *Brahma* Sahampati đã thông báo cho Đức Phật về sự tái sinh của Kokālika trong Padumaniraya (SN.i.151; Snp. p.125).
+
+Kokālikasutta đã được thuyết liên quan đến vị Kokālika này. Xem thêm Kokālika (1).
+
+Kokālika được nhắc đến như một ví dụ về một người phạm lỗi nhẹ liên quan đến các đệ tử của Đức Phật (*Tathāgatasāvake micchāpaṭipanno*). AN­a.i.335, 466.
 
 ## Notes

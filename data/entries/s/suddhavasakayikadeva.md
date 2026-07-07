@@ -5,7 +5,7 @@ base_headword: "Suddhāvāsakāyikādevā"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Suddhāvāsakāyikādevā. A group of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suddhāvāsakāyikādevā. Một nhóm chư thiên (*Deva*), cư dân của Suddhāvāsā, những người đã xuất hiện trước Đức Phật và đọc ba bài kệ ca ngợi Tăng đoàn. SN.i.26; cf. DN.ii.253f.
 
 ## Notes

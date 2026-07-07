@@ -5,7 +5,7 @@ base_headword: "Piṅgiya"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -28,6 +28,6 @@ Piṅgiya 01. Chaplain to <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piṅgiya 01. Vị tư tế của Brahmadatta, vua xứ Benares. Ông là một tiền kiếp của Devadatta (Ja.iii.161). Câu chuyện của ông được kể trong Dhonasākhajātaka (Ja 353) (*q.v.*).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Pañcaṅgikavagga"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Pañcaṅgikavagga. The third section of the *Pañcakanipāta* of the <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcaṅgikavagga. Phần thứ ba của *Pañcakanipāta* thuộc Aṅguttaranikāya. AN.iii.14-32.
 
 ## Notes

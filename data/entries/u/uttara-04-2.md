@@ -5,7 +5,7 @@ base_headword: "Uttarā"
 disambiguator: "04"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -52,6 +52,16 @@ It is curious that <span class="dppn-term dppn-term-t14" data-dppn-term-pos="41"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttarā 04. Uttarā Nandamātā. Nữ đệ tử cư sĩ hàng đầu trong số những người hầu hạ Đức Phật (Bv.xxvi.20). Trong Aṅguttaranikāya (i.26), bà được mô tả là vị nữ đệ tử xuất sắc nhất về năng lực thiền định (jhāyīnaṁ), nhưng điều này có thể đề cập đến một Uttarā khác. Bà một lần nữa được nhắc đến (AN.iv.347; AN­a.ii.791) trong một danh sách các nữ đệ tử cư sĩ lỗi lạc, những người đã thọ trì ngày trai giới (uposatha) với tám giới.
+
+Theo Aṅguttara Commentary (i.240ff), bà là con gái của Puṇṇasīha (Puṇṇaka) (q.v.), một người hầu của trưởng giả (seṭṭhi) Sumana ở Rājagaha. Về sau, khi Puṇṇasīha được phong làm trưởng giả triệu phú (dhana-seṭṭhi) nhờ vào khối tài sản khổng lồ mà ông có được nhờ phước báu của một bữa ăn dâng cho Sāriputta, ông đã tổ chức một buổi bố thí cho Đức Phật và các tỳ-kheo của ngài trong bảy ngày. Vào ngày thứ bảy, vào lúc kết thúc bài pháp cảm tạ của Đức Phật, Puṇṇasīha, vợ và con gái của ông, tất cả đều trở thành Sotāpanna.
+
+Khi trưởng giả (seṭṭhi) Sumana dạm hỏi Uttarā cho con trai mình, yêu cầu của ông đã bị từ chối bởi vì gia đình của Sumana không thuộc về tín ngưỡng của Đức Phật. Puṇṇa đã gửi lời nhắn cho Sumana rằng Uttarā là đệ tử của Đức Phật và hàng ngày cúng dường hoa cho Đức Phật, tốn kém một kahāpaṇa. Tuy nhiên sau đó, khi Sumana hứa rằng Uttarā sẽ được cấp số hoa trị giá hai kahāpaṇa, Puṇṇa đã đồng ý và Uttarā được gả đi. Sau nhiều lần nỗ lực không thành công trong việc xin phép chồng để thọ trì trai giới, như cô đã từng làm ở nhà cha mẹ mình, cô nhận được mười lăm ngàn kahāpaṇa từ cha mình và với số tiền này cô đã mua các dịch vụ của một kỹ nữ tên là Sirimā, để chăm sóc chồng cô trong nửa tháng, và với sự đồng ý của anh ta, cô đã bước vào nửa tháng uposatha. Vào ngày cuối cùng của kỳ trai giới, trong lúc Uttarā đang bận rộn chuẩn bị thức ăn cho Đức Phật, chồng cô, đang đi cùng Sirimā, nhìn thấy cô làm việc vất vả và đã mỉm cười, nghĩ rằng cô thật là một kẻ ngốc khi không tận hưởng sự giàu có của mình. Uttarā, nhìn thấy anh ta, đã mỉm cười khi nghĩ đến sự ngu ngốc của anh ta vì đã không sử dụng đúng cách sự giàu có của mình. Sirimā, nghĩ rằng hai vợ chồng đang mỉm cười với nhau mà không đếm xỉa đến sự hiện diện của cô, đã nổi cơn thịnh nộ và, chộp lấy một nồi dầu sôi, ném nó vào đầu của Uttarā. Nhưng Uttarā vào lúc đó đang tràn đầy lòng bi mẫn đối với Sirimā, và vì thế, dầu đã không làm cô bị thương chút nào. Sirimā, nhận ra sự ngu ngốc nghiêm trọng của mình, đã cầu xin sự tha thứ từ Uttarā, người đã dẫn cô đến gặp Đức Phật và thuật lại toàn bộ câu chuyện, thỉnh cầu ngài tha thứ cho cô. Đức Phật đã thuyết pháp cho Sirimā và cô đã trở thành một Sotāpanna.
+
+Vimānavatthu Commentary (pp.631ff; Vv.11f) và Dhammapada Commentary (Dhp-a.iii.302ff; xem thêm iii.104) đưa ra câu chuyện trên với một vài sự khác biệt về chi tiết. Theo những phiên bản này, vào lúc kết thúc bài pháp của Đức Phật giảng cho Sirimā, Uttarā đã trở thành một Sakadāgāmī (Tư-đà-hàm) còn chồng và cha chồng của cô thì trở thành các Sotāpanna.
+
+Sau khi qua đời Uttarā được sinh vào Tāvatiṁsa trong một vimāna. Moggallāna đã nhìn thấy bà trong một chuyến đi của ngài đến Tāvatiṁsa và, sau khi nghe được câu chuyện của bà, đã thuật lại nó cho Đức Phật.
+
+Thật kỳ lạ là Nanda không được nhắc đến trong cả hai lời kể. Người ta đã gợi ý (ví dụ: Brethren, 41, n.1) rằng Uttarā Nandamātā có thể đồng nhất với Veḷukaṇṭakī Nandamātā, nhưng tôi không nghĩ rằng sự đồng nhất này là hợp lý. Câu chuyện của Uttarā được đưa ra trong Visuddhimagga (p.313) để chứng minh rằng lửa không thể thiêu rụi thân xác của một người sống trong tình yêu thương, và một lần nữa (p.380-1; cũng có Paṭis.ii.212; Paṭis-a.497), như một ví dụ về thần thông được khuếch tán nhờ vào sự định tâm.
 
 ## Notes

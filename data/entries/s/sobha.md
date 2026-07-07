@@ -5,7 +5,7 @@ base_headword: "Sobha"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -27,6 +27,6 @@ Sobha. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sobha. Vua xứ Sobhavatī vào thời Koṇāgamana Buddha (Bv.xxiv.16; DN.ii.7). Ông đã gửi một nhánh cây Bodhi đến Tích Lan dưới sự chăm sóc của Kanakadattā. Mhv­ṭ.355, nơi ông được gọi là Sobhana.
 
 ## Notes

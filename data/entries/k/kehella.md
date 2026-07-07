@@ -5,7 +5,7 @@ base_headword: "Kehella"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -25,6 +25,6 @@ Kehella. A village in Ceylon, the revenue from which <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kehella. Một ngôi làng ở Tích Lan, nguồn thu nhập từ đó được Aggabodhi III ban tặng cho padhānaghara tên là Mahallarāja. Cv.xliv.120.
 
 ## Notes

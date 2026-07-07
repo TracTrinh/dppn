@@ -5,7 +5,7 @@ base_headword: "Mahindasena"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mahindasena. A *pariveṇa* built and endowed by <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahindasena. Một *pariveṇa* được cất và ban tặng bởi Mahinda, phó vương của Sena II. Cv.li.60.
 
 ## Notes

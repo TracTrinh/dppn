@@ -5,7 +5,7 @@ base_headword: "Vihāradevī"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -38,6 +38,8 @@ When her husband died, <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vihāradevī. Vợ của Kākavaṇṇatissa và là mẹ của Duṭṭhagāmaṇī và Saddhātissa. Bà là con gái của Tissa, vua xứ Kalyāṇī, và đã bị thả trôi trên một chiếc thuyền ngoài đại dương để xoa dịu các vị thần biển trong cơn thịnh nộ của họ chống lại Tissa vì ông đã giết một bậc *Arahant*. Tên bà là Devī, nhưng vì bà đã dạt vào bờ gần tu viện Tolakavihāra (?) (Đây có lẽ là cách đọc đúng của cái tên; xem Mhv­ṭ. 432) nên bà được gọi là Vihāradevī (Mhv.xxii.20ff). Khi mang thai đứa con đầu lòng, bà khao khát được ăn một tổ ong mật dài một *usabha* và uống thứ nước đã dùng để rửa thanh gươm dùng để chặt đầu Nandasārathī, thủ lĩnh của những chiến binh của Eḷāra (Mhv.42ff.; Mhv­ṭ. 441). Khi bà mang thai lần thứ hai, bà ước muốn được nằm dưới một gốc cây *campaka* đang nở hoa và hít hà hương thơm của nó (Mhv­ṭ.443).
+
+Khi chồng bà qua đời, Saddhātissa đã bắt cóc bà, hy vọng qua đó sẽ chiếm được vương quốc, nhưng sau đó bà đã được trả lại cho Duṭṭhagāmaṇī. Bà là người khôn ngoan và thực tế, và đã giúp sức trong các chiến dịch của Duṭṭhagāmaṇī, đặc biệt là trong việc đánh chiếm Ambatittha và Anurādhapura (Mhv.xxv.9, 55). Chúng ta không biết gì về lịch sử sau này của bà.
 
 ## Notes

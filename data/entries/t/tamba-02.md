@@ -5,7 +5,7 @@ base_headword: "Tamba"
 disambiguator: "02"
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -26,6 +26,6 @@ Tamba 02. A Tamil general and a fort of the same name. Both were captured by <sp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tamba 02. Một vị tướng quân người Tamil và một pháo đài cùng tên. Cả hai đều bị Duṭṭhagāmaṇī chiếm giữ trong chiến dịch đánh người Tamil. Tamba là chú của Unnama. Mhv.xxv.14.
 
 ## Notes

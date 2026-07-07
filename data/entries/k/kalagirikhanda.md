@@ -5,7 +5,7 @@ base_headword: "Kāḷāgirikhaṇḍa"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -28,6 +28,6 @@ Kāḷāgirikhaṇḍa. That section of the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷāgirikhaṇḍa. Phần đó của Vidhurapaṇḍitajātaka kết thúc với việc Puṇṇaka mang Vidhura đến cõi của các Nāga. Ja.vi.314.
 
 ## Notes

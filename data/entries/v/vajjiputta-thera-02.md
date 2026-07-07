@@ -5,7 +5,7 @@ base_headword: "Vajjiputta Thera"
 disambiguator: "02"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -32,6 +32,10 @@ Ninety-four *kappas* ago, <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vajjiputta Thera 02. Ông thuộc dòng tộc của một vị *rājā* Licchavī, và khi còn trẻ đang học nhiều nghệ thuật khác nhau, như thuần phục voi, ông tràn đầy ý chí xuất ly. Một ngày ông đến một vihāra nơi Đức Phật đang thuyết pháp, gia nhập Tăng đoàn, và không lâu sau trở thành Arahant.
+
+Sau khi Đức Phật viên tịch, khi các vị Trưởng lão hàng đầu đang lưu trú ở các nơi khác nhau trước khi họ nhóm họp theo thỏa thuận để trùng tụng Pháp, ông thấy Ānanda, vẫn còn là bậc hữu học (*sekha*), đang dạy Pháp cho một đại chúng đông đảo. Muốn thúc đẩy Ānanda đạt đến mức độ cao hơn, Vajjiputta đọc một bài kệ, và bài kệ này là một trong những bài kệ dẫn đến sự chứng đắc quả vị Arahant của Ānanda. Bài kệ được tìm thấy trong Thag.vs.119. Trong SN.i.199, bài kệ được gán cho một Deva sống trong rừng muốn kích động Ānanda. Trong Rockhill (op.cit., 155f.), Vajjiputta là thị giả của Ānanda lúc đó và thuyết pháp cho dân chúng trong khi Ānanda thiền định.
+
+Chín mươi tư *kappa* trước, Vajjiputta đã thấy một Pacceka Buddha đang đi khất thực và đã cúng dường cho Ngài những quả chuối. Thag­a.i.236f.
 
 ## Notes

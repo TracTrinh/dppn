@@ -5,7 +5,7 @@ base_headword: "Yāmā"
 disambiguator: "01"
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -34,6 +34,8 @@ The meaning of Yāmā is explained in the Commentaries (e.g., Vibh­a.519; Paṭ
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yāmā 01. Một nhóm chư thiên (Devas), được đề cập trong các danh sách về chư thiên (Devas) nằm giữa những chư thiên cõi Tāvatiṁsa và cõi Tusita (ví dụ, Vin.i.12, AN.i.228; iii.287; MN.ii.194; iii.100, v.v...). Hai trăm năm tuổi thọ của con người chỉ bằng một ngày đối với chư thiên Yāma (*Yāma Devā*), và hai ngàn năm, bao gồm những ngày như vậy, tạo thành tuổi thọ của họ (AN.i.213; iv.253). Sirimā, em gái của Jīvaka, sau khi chết đã được tái sinh vào cõi trời Yāma và trở thành vợ của Suyāma, vua của cõi Dạ-ma (*Yāmabhavana*). Từ đó cô đã đến thăm Đức Phật cùng với năm trăm vị khác. Snp­a i.244f.; xem thêm Vv-a.246 kể về một nam cư sĩ (*upāsaka*) sinh vào cõi trời Yāma. Trong Hatthipālajātaka (Ja.iv.475) có đề cập đến bốn vị chư thiên Yāma (*Yāma-Devas*) đã tái sinh làm người.
+
+Ý nghĩa của Yāmā được giải thích trong các Chú giải (ví dụ, Vibh­a.519; Paṭis-a.441) là “những người đã đạt đến hạnh phúc thiêng liêng” (*dibbaṁ sukhaṁ yātā payātā sampattā ti Yāmā*). Những lời giải thích khác là “được giải thoát khỏi khổ đau” hoặc “những vị thần cai quản”. Comp.138, n.2.
 
 ## Notes

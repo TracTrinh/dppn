@@ -5,7 +5,7 @@ base_headword: "Sīlavāsutta"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -24,6 +24,6 @@ Sīlavāsutta. The inhabitants of a village or suburb in which good hermits dwel
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīlavāsutta. Cư dân của một ngôi làng hay vùng ngoại ô nơi các vị ẩn sĩ tốt lành cư trú nhờ sự hỗ trợ của họ sẽ đạt được nhiều công đức trong hành động, lời nói và ý nghĩ. AN.i.151.
 
 ## Notes

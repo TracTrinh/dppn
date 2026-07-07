@@ -5,7 +5,7 @@ base_headword: "Pañcālavagga"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Pañcālavagga. The fifth section of the *Navakanipāta* of the <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcālavagga. Phần thứ năm của *Navakanipāta* thuộc Aṅguttaranikāya. AN.iv.449-54.
 
 ## Notes

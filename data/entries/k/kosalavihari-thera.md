@@ -5,7 +5,7 @@ base_headword: "Kosalavihārī Thera"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -34,6 +34,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kosalavihārī Thera. Một vị Arahant. Ngài đản sanh ở Vesālī, và là một trong những người đã nghe Đức Phật thuyết pháp khi ngài đến để xoa dịu sự hoảng loạn phát sanh ở đó, như được ghi lại trong Ratanasutta (*xem mục này*). Sau bài pháp, Kosalavihārī đã xuất gia. Khi kết thúc thời kỳ sa-di, ngài cư ngụ trong một khu rừng gần một ngôi làng ở Kosala. Một nam cư sĩ thấy ngài đang cắm trại dưới một gốc cây bèn cất cho ngài một cái am nhỏ, và ở đó vị Thera (Trưởng lão) đã đắc quả vị Arahant. Ngài có tên như vậy vì đã cư ngụ lâu dài ở Kosala (Thag.59; Thag­a.i.134f).
+
+Vào thời của Padumuttara Buddha ngài là một ẩn sĩ ở Himavā và đã dâng cúng cho Đức Phật một ít rễ củ. Năm mươi tư *kappa* trước, ngài là một vị vua tên là Sumekhalisama. Ngài rõ ràng được đồng nhất với Bilālidāyaka của Apadāna. Ap.i.145.
 
 ## Notes

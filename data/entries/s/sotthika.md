@@ -5,7 +5,7 @@ base_headword: "Sotthika"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Sotthika. A *seṭṭhi*, one of the chief lay patrons of <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sotthika. Một *seṭṭhi* (trưởng giả), một trong những nam đại thí chủ của Vessabhū Buddha. Bv.xxii.25; Bv­a.208; nhưng Ja.i.94 gọi vị này là Sotthiya.
 
 ## Notes

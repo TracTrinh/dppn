@@ -5,7 +5,7 @@ base_headword: "Siddhattha"
 disambiguator: "04"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Siddhattha 04. A son of King <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Siddhattha 04. Một hoàng tử của vua Kassapa IV. Ngài được bổ nhiệm làm thống đốc vùng Malaya và được gọi là *Malayarājā*. Tuy nhiên, ngài mất sớm, và Kassapa đã xây dựng một hội trường dành cho tỳ-khẻo nhân danh ngài và lập một lễ cúng dưỡng. Cv.lii.68f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Uttarakuru"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -95,6 +95,29 @@ It was natural for the men of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttarakuru 01. Một quốc gia thường được đề cập trong các Nikāya và trong các tài liệu sau này như là một khu vực thần thoại. Một mô tả chi tiết về nó được đưa ra trong Āṭānāṭiyasutta. (DN.iii.199ff; ở đây Uttarakuru được nói đến như một thành phố, pura; xem thêm Uttarakuru trong Hopkins: Epic Mythology, đặc biệt p.186). Những người đàn ông sống ở đó không sở hữu tài sản cũng không có vợ của riêng mình; họ không phải làm việc để kiếm sống. Lúa tự chín và người ta tìm thấy gạo có mùi thơm ngọt đang sôi trên những chiếc bếp lò nóng. Các cư dân đi lại cưỡi trên những con bò, trên đàn ông và phụ nữ, trên các trinh nữ và thanh niên. Vua của họ cưỡi trên một con voi, trên một con ngựa, trên những cỗ xe thăng thiên và trong những chiếc kiệu của nhà nước. Các thành phố của họ được xây dựng trên không trung, và trong số những nơi được đề cập đến có Āṭānāṭā, Kusināṭā, Nāṭapuriyā, Parakusināṭā, Kapīvanta, Janogha, Navanavatiya, Ambaraambaravatiya và Āḷakamandā, nơi cuối cùng này chính là kinh thành chính.
+
+Vua của Uttarakuru là Kuvera, còn được gọi là Vessavaṇa, bởi vì tên tòa thành của ông (? rājadhāni) là Visāṇa. Những lời tuyên cáo của ông được thông báo rộng rãi bởi Tatolā, Tattalā, Tatotalā, Ojasi, Tejasi, Tetojasi, Sūra, Rāja, Ariṭṭha và Nemi. Cũng có sự đề cập đến một cái hồ tên là Dharaṇī và một hội trường tên là Bhagalavati nơi mà các Yakkha, như tên gọi các cư dân của Uttarakuru, tổ chức những cuộc tụ họp của họ.
+
+Quốc gia này luôn được nói là nằm ở phía bắc của Jambudīpa. Nó rộng tám ngàn lý và được bao quanh bởi biển cả (DN­a.ii.623; Bv­a.113). Đôi khi nó được nói đến (ví dụ: AN.i.227; v.59; Snp-a.ii.443) như một trong bốn Đại Châu (Mahā Dīpā) – những châu khác là Aparagoyāna, Pubbavideha và Jambudīpa – mỗi châu được bao quanh bởi năm trăm hòn đảo nhỏ. Bốn châu này tạo thành một Cakkavāḷa, với Núi Meru ở chính giữa chúng, một hệ thống thế giới phẳng. Sự cai trị của một cakkavattī (Chuyển luân vương) trải rộng ra trên toàn bộ bốn lục địa này (DN.ii.173; DN­a.ii.623) và vị chánh hậu của ông đến từ chủng tộc của vua Madda hoặc từ Uttarakuru; trong trường hợp sau, bà tự nguyện xuất hiện trước mặt ông, được thúc đẩy bởi vận may của mình (DN­a.ii.626; Khp­a.173).
+
+Cây cối ở Uttarakuru đơm hoa kết trái và ra lá quanh năm, và nó cũng sở hữu một Kapparukkha tồn tại trong suốt cả một kappa (AN.i.264; MN­a.ii.948). Không có những ngôi nhà ở Uttarakuru, các cư dân ngủ trên mặt đất và vì thế, được gọi là bhūmisayā (Thag­a.ii.187-8).
+
+Những người đàn ông của Uttarakuru thậm chí vượt trội hơn cả các chư thiên ở Tāvatiṁsa về bốn điều:
+
+- họ không có lòng tham (amamā) (người dân của Uttarakuru là acchandikā, Vibh­a.461),
+- không có tài sản riêng tư (apariggahā),
+- họ có một tuổi thọ xác định (niyatāyukā) (một ngàn năm, sau đó họ sẽ sinh vào cõi trời, Buddhaghosa nói, AN­a.ii.806)
+- và họ sở hữu một vẻ thanh lịch tuyệt vời (visesabhuno).
+
+Tuy nhiên, họ lại thua kém những người đàn ông của Jambudīpa về lòng dũng cảm, sự chánh niệm và trong đời sống tôn giáo (AN.iv.396; Kv.99).
+
+Một vài trường hợp được đưa ra về việc Gotama Buddha đã đi đến Uttarakuru để khất thực. Sau khi nhận được thức ăn của mình ở đó, ngài sẽ đi đến hồ Anotatta, tắm trong dòng nước của nó và, sau bữa ăn, trải qua buổi chiều trên bờ hồ (Xem, ví dụ: Vin.i.27-8; Dhs­a.16; Dhp­a.iii.222). Năng lực đi đến Uttarakuru để khất thực không chỉ giới hạn ở Đức Phật; các Pacceka Buddha và nhiều đạo sĩ khác nhau cũng được đề cập là đã viếng thăm Uttarakuru trong các vòng đi khất thực của họ (Xem, ví dụ: Ja.v.316; vi.100; MN­a.i.340; Snp-a.ii.420). Việc có thể làm được điều này được coi là một dấu hiệu của năng lực thần thông (iddhi) to lớn (ví dụ: Rohita, SN­a.i.93; cũng có Mil.84).
+
+Vợ của Jotika là một người phụ nữ của Uttarakuru; cô đã được đưa đến cho Jotika bởi các chư thiên. Cô mang theo bên mình một nồi gạo một panh duy nhất và ba viên pha lê. Nồi gạo không bao giờ cạn; bất cứ khi nào mong muốn có một bữa ăn, gạo được cho vào một cái nồi hơi và chiếc nồi hơi được đặt lên trên những viên pha lê; sức nóng của những viên pha lê sẽ tắt đi ngay khi cơm đã được nấu chín. Điều tương tự cũng xảy ra đối với các món cà ri (Dhp­a.iv.209ff). Thức ăn không bao giờ cạn kiệt ở Uttarakuru; có lần khi xảy ra một nạn đói ở Verañjā và Gotama Buddha cùng với các tỳ-kheo của ngài cảm thấy khó khăn trong việc kiếm thức ăn, chúng ta thấy Moggallāna gợi ý rằng họ nên đi đến Uttarakuru để khất thực (Vin.iii.7). Những bộ quần áo được mặc bởi các cư dân giống hệt như những thiên y (Xem, ví dụ: Pv-a.76).
+
+Đó là điều tự nhiên đối với những người đàn ông ở Uttarakuru khi không vi phạm giới đức, họ có pakati-sīla (giới tự nhiên) (Vsm.i.15).
+
+Uttarakuru có lẽ đồng nhất với quốc gia Kuru được đề cập trong Ṛg-Veda (Xem Vedic Index).
 
 ## Notes

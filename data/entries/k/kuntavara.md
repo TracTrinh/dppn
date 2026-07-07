@@ -5,7 +5,7 @@ base_headword: "Kuntavarā"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kuntavarā. The soldiers of a district in South India who fought against the Sin
 
 ## Vietnamese translation
 
-Chưa dịch.
+Những binh lính của một vùng ở Nam Ấn Độ, những người đã chiến đấu chống lại lực lượng Sinhalese xâm lược lãnh thổ của họ (Cv.lxxvi.246). Họ đã bị Kesadhātu Kitti khuất phục (Cv.lxxvi.259).
 
 ## Notes

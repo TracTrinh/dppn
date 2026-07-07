@@ -5,7 +5,7 @@ base_headword: "Subhagavatī"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Subhagavatī. The pleasance in <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subhagavatī. Hoa viên ở Khemavatī nơi Kakusandha Buddha đản sinh. Bv­a.213.
 
 ## Notes

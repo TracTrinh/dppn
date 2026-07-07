@@ -5,7 +5,7 @@ base_headword: "Kāyasutta"
 disambiguator: "01"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -24,6 +24,6 @@ Kāyasutta 01. Mindfulness relating to the body is the path to the Uncompounded 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāyasutta 01. Chánh niệm liên quan đến thân thể là con đường đi đến Pháp Vô vi (asaṅkhata). Đây là điều mà Đức Phật đã dạy cho các đệ tử của ngài. SN.iv.359.
 
 ## Notes

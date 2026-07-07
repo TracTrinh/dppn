@@ -5,7 +5,7 @@ base_headword: "Urudhammarakkhita"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -26,6 +26,6 @@ Urudhammarakkhita. A Thera who came from the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Urudhammarakkhita. Một vị Trưởng lão (Thera) đến từ Ghositārāma ở Kosambī, cùng với ba mươi ngàn tỳ-kheo, để tham dự buổi lễ đặt nền móng của Mahā Thūpa. Mhv.xxix.34.
 
 ## Notes

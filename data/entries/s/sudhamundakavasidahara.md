@@ -5,7 +5,7 @@ base_headword: "Sudhāmuṇḍakavāsidahara"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sudhāmuṇḍakavāsidahara. Given as an example of one who came to grief throu
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudhāmuṇḍakavāsidahara. Được đưa ra làm ví dụ về một người phải chịu đau khổ vì nghe thấy giọng nói của một người phụ nữ. AN­a.i.15.
 
 ## Notes

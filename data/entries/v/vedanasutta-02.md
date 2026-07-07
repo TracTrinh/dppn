@@ -5,7 +5,7 @@ base_headword: "Vedanāsutta"
 disambiguator: "02"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vedanāsutta 02. Diversity of feelings arises because of the diversity in elemen
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vedanāsutta 02. Sự đa dạng của các thọ khởi lên do sự đa dạng của các giới chứ không phải ngược lại. SN.ii.142.
 
 ## Notes

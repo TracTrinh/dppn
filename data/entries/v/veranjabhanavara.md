@@ -5,7 +5,7 @@ base_headword: "Verañjabhāṇavāra"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Verañjabhāṇavāra. The first section of the <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Verañjabhāṇavāra. Phần đầu tiên của Suttavibhaṅga. Vin.iii.111.
 
 ## Notes

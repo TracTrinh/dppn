@@ -5,7 +5,7 @@ base_headword: "Kakudha"
 disambiguator: "07"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -28,6 +28,6 @@ Kakudha 07. A little pond in <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kakudha 07. Một cái ao nhỏ ở Mahā Meghavana nằm giữa khu vực của Mahā Thūpa và Thūpārāma. Mahā Thūpa nằm ở đầu trên của ao, và địa điểm này đã được thánh hóa bởi chuyến viếng thăm của bốn vị Phật trong *kappa* hiện tại (Mhv.xv.53ff). Lañjatissa dường như đã lấp ao với chi phí rất lớn, vì vùng đất xung quanh đã trở nên ngập úng (Mhv.xxxiii.23f; Mhv­ṭ.611). Bờ kè (*pāli*) của cái ao tạo thành một phần của *Sīmā* tại Anurādhapura. Mbv.135f.
 
 ## Notes

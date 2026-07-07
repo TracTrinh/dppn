@@ -5,7 +5,7 @@ base_headword: "Sudhaññaka"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sudhaññaka, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudhaññaka, Sudhaññavatī. Thành phố đản sinh của Revata Buddha. Bv.vi.16; Ja.i.35; Bv­a.131 gọi nơi này là Sudhaññavatī.
 
 ## Notes

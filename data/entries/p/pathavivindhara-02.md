@@ -5,7 +5,7 @@ base_headword: "Paṭhavivindhara"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -28,6 +28,6 @@ Paṭhavivindhara 02. Son of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṭhavivindhara 02. Con trai của Kikī, vua xứ Benares. Ông đã xây dựng một trong những cổng vào Dhātughara của Kassapa Buddha. Snp­a.i.194.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sīhanādavagga"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -25,6 +25,6 @@ Sīhanādavagga 02. The second chapter of the *Navakanipāta* on the <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhanādavagga 02. Chương thứ hai của *Navakanipāta* thuộc Aṅguttaranikāya (AN.iv.373-96).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sirimā"
 disambiguator: "09"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sirimā 09. One of the chief lay women supporters of <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirimā 09. Một trong những nữ thí chủ hàng đầu của Vessabhū Buddha. Bv.xxii.25.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Khemā"
 disambiguator: "01"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -59,6 +59,14 @@ Once when <span class="dppn-term dppn-term-t14" data-dppn-term-pos="22" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khemā 01. Khemā Therī. Một vị Arahant, nữ đệ tử hàng đầu của Đức Phật. Bà sinh ra trong một gia đình cai trị ở Sāgala thuộc quốc độ Madda, và làn da của bà có màu vàng ròng. Bà trở thành chánh hậu của vua Bimbisāra. Bà không muốn đến thăm Đức Phật khi ngài đang ở Veḷuvana, sợ rằng ngài sẽ nói những lời chê bai nhan sắc mà bà đang say mê. Vua sai các thi sĩ hát ca ngợi vẻ đẹp của Veḷuvana và thuyết phục Khemā đến đó. Sau đó, bà được đưa đến giáp mặt Đức Phật, và ngài biến hóa ra cho bà thấy một người nữ giống như một thiên nữ đứng đối diện ngài. Ngay cả khi Khemā đang say sưa ngắm nhìn thiên nữ có sắc đẹp tuyệt trần vượt xa chính mình, bà thấy thiên nữ đó dần dần từ tuổi thanh xuân chuyển sang vô cùng già cỗi, và rồi ngã xuống trong cơn ngất của cái chết. Thấy Khemā tràn đầy kinh hoàng trước cảnh tượng đó, Đức Phật đã thuyết pháp cho bà về sự phù phiếm của dục vọng, và người ta kể rằng ngay khoảnh khắc đó bà đắc quả vị Arahant. Được sự đồng ý của Bimbisāra, bà gia nhập Tăng đoàn, và được Đức Phật xếp hạng đứng đầu trong số các nữ đệ tử về trí tuệ vĩ đại (*mahāpaññāṇaṁ aggā*) (AN.i.25; Dpv.xviii.9; cũng xem MN­a.iv.168f.; Bv.xxvi.19; Ja.i.15,16).
+
+Vào thời của Padumuttara, bà là một nữ nô lệ, và khi nhìn thấy đệ tử hàng đầu của Đức Phật là Sujāta, bà đã cúng dường ngài ba cái bánh, và ngay hôm đó bà bán tóc mình và cúng dường cho ngài.
+
+Vào thời Kassapa Buddha, bà trở thành trưởng nữ của Kikī, vua xứ Benares, và được đặt tên là Samaṇī. Cùng với các chị em của mình, bà sống phạm hạnh trong hai mươi ngàn năm và xây dựng một tu viện cho Đức Phật. Bà đã học Mahā Nidānasutta, sau khi nghe Đức Phật thuyết kinh này. Vào thời của Vipassī, bà trở thành một vị giảng sư Dhamma nổi tiếng, và trong thời của cả Kakusandha và Koṇāgamana, bà đã cho xây dựng những tu viện lớn cho Đức Phật và các tỳ-kheo của ngài. AN­a.i.187f; Thīg.139-44; Thīg­a.126ff; Ap.ii.543ff; Dhp­a.iv.57ff; xem thêm câu chuyện của Rūpanandā (Dhp­a.iii.113-9).
+
+Một lần khi Khemā đang ở Toraṇavatthu, giữa Sāvatthī và Sāketa, Pasenadi, người tình cờ ở lại một đêm tại đó, nghe tin bà có mặt và đã đến gặp bà. Ngài hỏi bà liệu Tathāgata có tồn tại sau khi chết hay không. Bà giải thích vấn đề này cho ngài bằng nhiều cách khác nhau, và Pasenadi, vui mừng trước lời giải thích của bà, đã thuật lại điều đó cho Đức Phật (SN.iv.374ff). Bà được nhắc đến ở nhiều chỗ (ví dụ: AN.i.88; ii.164; iv.347; SN.ii.236) như một hình mẫu phụ nữ lý tưởng đáng để noi theo, và được mô tả là một vị tỳ-kheo-ni xuất sắc.
+
+Khemā được đồng nhất với người mẹ trong Uragajātaka (Ja 354, Ja.iii.168), hoàng hậu trong Rohantamigajātaka (Ja 501, Ja.iv.423) và trong Haṁsajātaka (Ja 502, Ja.iv.430), hoàng hậu Khemā trong Mahā Haṁsajātaka (Ja 534, Ja.v.382), và công chúa trong Mahā Janakajātaka (Ja 539, Ja.vi.68).
 
 ## Notes

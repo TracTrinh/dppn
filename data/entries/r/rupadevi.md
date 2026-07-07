@@ -5,7 +5,7 @@ base_headword: "Rūpadevī"
 disambiguator: ""
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -26,6 +26,6 @@ Rūpadevī. A pious woman of *Devaputta*. Because of alms given in the time of <
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rūpadevī. Một người phụ nữ mộ đạo của *Devaputta*. Nhờ việc cúng dường được thực hiện trong thời của Đức Phật Vipassī, bà có được thức ăn bất cứ khi nào mong muốn. Một ngày nọ Mahā Saṅgharakkhita, người đã đến thăm nhà bà, đã tiết lộ cho bà lý do của điều này và bà trở thành một *Sotāpanna*. Ras.i.24f.
 
 ## Notes

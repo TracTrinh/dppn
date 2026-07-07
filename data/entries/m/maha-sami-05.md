@@ -5,7 +5,7 @@ base_headword: "Mahā Sāmi"
 disambiguator: "05"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -26,6 +26,6 @@ Mahā Sāmi 05. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sāmi 05. Trưởng lão Mahā Sāmi. Tác giả của một cuốn *ṭīkā* về Subodhālaṅkāra. Gv.62.
 
 ## Notes

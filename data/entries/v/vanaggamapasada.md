@@ -5,7 +5,7 @@ base_headword: "Vanaggāmapāsāda"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vanaggāmapāsāda. A monastery built by <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vanaggāmapāsāda. Một tu viện do Vijayabāhu IV xây dựng, gắn liền với nó là tu viện (*pariveṇa*) Abhayarāja. Cv.lxxxviii.51.
 
 ## Notes

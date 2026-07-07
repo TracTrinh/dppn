@@ -5,7 +5,7 @@ base_headword: "Vaṇijjāsutta"
 disambiguator: "02"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -24,6 +24,6 @@ Vaṇijjāsutta 02. The five trades which should not be plied by a lay devotee: 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaṇijjāsutta 02. Năm nghề buôn bán không nên được thực hiện bởi một cận sự nam (lay devotee): buôn bán vũ khí, con người, thịt, rượu, và chất độc. AN.iii.208.
 
 ## Notes

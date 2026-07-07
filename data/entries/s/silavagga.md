@@ -5,7 +5,7 @@ base_headword: "Sīlavagga"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -25,6 +25,6 @@ Sīlavagga. The second chapter of the *Ekanipāta* of the <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīlavagga. Chương thứ hai của *Ekanipāta* thuộc Jātaka Commentary. Ja.i.142-72.
 
 ## Notes

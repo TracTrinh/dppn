@@ -5,7 +5,7 @@ base_headword: "Somanassa"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Somanassa 02. The Bodhisatta born as the son of <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Somanassa 02. Bodhisatta sinh làm con trai của Reṇu, vua Uttarapañcāla. Xem Somanassajātaka (Ja 505).
 
 ## Notes

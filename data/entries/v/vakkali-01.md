@@ -5,7 +5,7 @@ base_headword: "Vakkali"
 disambiguator: "01"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -47,6 +47,14 @@ His resolve to become chief among the *saddhādhimuttas* had been made in the ti
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vakkali 01. Vakkali Trưởng lão. Ông thuộc một gia đình Bà-la-môn ở Sāvatthī và thông thạo ba bộ Veda. Sau khi một lần nhìn thấy Đức Phật, ông không bao giờ chán ngắm Ngài, và đi theo Ngài khắp nơi. Để được gần Ngài hơn, ông trở thành tỳ-kheo và dành toàn bộ thời gian, ngoài giờ ăn và tắm rửa, để chiêm ngưỡng thân tướng Đức Phật. Một ngày Đức Phật nói với ông: "Việc nhìn thân xác ô uế của ta là vô ích; ai thấy Pháp, người đó mới thấy ta" (*yo kho dhammaṁ passati so maṁ passati; yo maṁ passati so dhammaṁ passati*) (Cp. Iti.92). Nhưng ngay cả lúc đó Vakkali cũng không chịu rời Đức Phật cho đến khi, vào ngày cuối cùng của mùa an cư, Đức Phật truyền lệnh cho ông rời đi. Vô cùng đau khổ, Vakkali tìm đến vách đá của Gijjhakūṭa. Đức Phật, biết điều này, hiện ra trước ông và đọc một bài kệ; rồi dang tay ra, Ngài nói: "Hãy đến, tỳ-kheo." Tràn đầy hỷ lạc, Vakkali bay lên không trung quán chiếu lời Đức Phật và chứng đắc quả vị Arahant. AN­a.i.140f.; tường thuật trong Apadāna (Ap.ii.465f.) cũng tương tự. Tường thuật đó nói rằng Đức Phật đã nói với ông từ chân tảng đá. Vakkali nhảy xuống để gặp Đức Phật, từ độ cao nhiều khuỷu tay, nhưng ông hạ xuống bình an vô sự. Nhân dịp này, Đức Phật tuyên bố ông đứng đầu trong số những người có niềm tin không lay chuyển; also Dhp­a.iv.118f. Dhammapada Commentary ghi lại ba bài kệ mà Đức Phật đọc trong đó Ngài bảo đảm với Vakkali rằng Ngài sẽ giúp đỡ và chăm sóc ông.
+
+Theo Chú giải Theragāthā (Thag­a.i.420), khi Vakkali bị Đức Phật cho rời đi, ông sống trên Gijjhakūṭa, thực hành thiền định, nhưng không thể đắc tuệ vì tính cách tình cảm (*saddhā*) của ông. Đức Phật sau đó cho ông một đề mục đặc biệt, nhưng ông cũng không thể thực hiện được, và vì thiếu thức ăn, ông bị chuột rút. Đức Phật đến thăm ông và đọc một bài kệ để khích lệ. Vakkali đọc bốn bài kệ (Thag.350-4) đáp lại, và khi triển khai tuệ giác, ông đắc quả vị Arahant. Sau đó, trong hội chúng tỳ-kheo, Đức Phật tuyên bố ông đứng đầu trong số những người có niềm tin không lay chuyển (*saddhādhimuttānaṁ*) (cp. AN.i.25; also Divy.49 and Vibh­a.276; Vsm.i.129). Trong Pārāyaṇavagga (Snp. vs. 1146), Đức Phật được mô tả là nêu Vakkali làm gương cho Piṅgiya về người đắc giải thoát nhờ đức tin.
+
+Tường thuật trong Saṁyutta (SN.iii.119ff.; SN­a.ii.229) cung cấp thêm chi tiết và khác với phần trên ở một số điểm. Ở đó, Vakkali lâm bệnh trên đường đến thăm Đức Phật tại Rājagaha, và được khiêng cáng đến một nhà thợ gốm ở Rājagaha. Tại đó, theo yêu cầu của ông, Đức Phật đến thăm và an ủi ông. Ngài hỏi thăm Vakkali, người bảo đảm với Ngài rằng ông không có lý do gì để tự trách bản thân về mặt giới hạnh (*sīlato*); điều lo lắng duy nhất của ông là ông đã không thể gặp Đức Phật sớm hơn. Đức Phật bảo ông rằng thấy Pháp tương đương với thấy Ngài, và vì Vakkali đã thực chứng Pháp, ông sẽ không còn kiếp sau nữa. Sau khi Đức Phật rời đi, Vakkali yêu cầu những người hầu hạ mang ông đến Kāḷasilā trên núi Isigili. Đức Phật đang trên Gijjhakūṭa và được hai chư thiên báo tin rằng Vakkali sắp "đắc giải thoát". Đức Phật gửi lời nhắn đến ông: "Đừng sợ, Vakkali, cái chết của ông sẽ không ác." Vakkali ngồi dậy từ giường bệnh để nhận tin nhắn của Đức Phật, và gửi lời đến Đức Phật rằng ông không có ham muốn hay luyến ái đối với thân xác hay các *khandha* khác, ông rút dao và tự sát. Đức Phật đến xem thi thể ông và tuyên bố rằng ông đã đắc Nibbāna và nỗ lực của Māra tìm kiếm thức của Vakkali sẽ vô ích.
+
+Chú giải bổ sung rằng Vakkali kiêu mạn và mù quáng trước những lỗi lầm còn sót lại của mình. Ông nghĩ mình là một vị *khīṇāsava*, và rằng ông có thể thoát khỏi những đau đớn thể xác bằng cái chết. Tuy nhiên, vết đâm bằng dao gây cho ông đau đớn đến mức vào giây phút hấp hối ông nhận ra trạng thái phàm phu của mình, và cố gắng nỗ lực tột bậc, đắc quả vị Arahant.
+
+Quyết tâm trở thành đệ tử đứng đầu trong số những *saddhādhimuttas* của ông đã được lập vào thời Padumuttara Buddha, khi ông thấy một tỳ-kheo cũng tên Vakkali được Đức Phật vinh danh tương tự. Ap.ii.465f.; AN­a.i.140.
 
 ## Notes

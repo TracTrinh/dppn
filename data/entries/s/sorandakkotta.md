@@ -5,7 +5,7 @@ base_headword: "Soraṇḍakkoṭṭa"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Soraṇḍakkoṭṭa. A stronghold in South India. Cv.lxxvi.304.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Soraṇḍakkoṭṭa. Một pháo đài ở Nam Ấn Độ. Cv.lxxvi.304.
 
 ## Notes

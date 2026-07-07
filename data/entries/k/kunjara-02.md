@@ -5,7 +5,7 @@ base_headword: "Kuñjara"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kuñjara 02. One of the chief lay patrons of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một trong những nam thí chủ chính của Đức Phật Revata. Bv.vi.23.
 
 ## Notes

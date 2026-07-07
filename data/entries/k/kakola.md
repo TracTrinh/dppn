@@ -5,7 +5,7 @@ base_headword: "Kākola"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -24,6 +24,6 @@ Kākola. A hell; beings born there are dragged about by flocks of ravens, vultur
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kākola. Một địa ngục; những chúng sinh sinh ra ở đó bị lôi kéo đi khắp nơi bởi những bầy quạ, kền kền và diều hâu, và bị ăn tươi nuốt sống. Ja.vi.247.
 
 ## Notes

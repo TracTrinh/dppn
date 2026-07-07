@@ -5,7 +5,7 @@ base_headword: "Paṇiva"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Paṇiva. A locality in South India. Cv.lxxvi.184,186.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇiva. Một địa danh ở miền Nam Ấn Độ. Cv.lxxvi.184,186.
 
 ## Notes

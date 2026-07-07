@@ -5,7 +5,7 @@ base_headword: "Phassasutta"
 disambiguator: "02"
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -23,6 +23,6 @@ Phassasutta 02. Eye-contact is impermanent, changeable; so is it with the others
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phassasutta 02. Nhãn xúc là vô thường, biến hoại; các xúc khác cũng vậy. SN.iii.226.
 
 ## Notes

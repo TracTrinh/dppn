@@ -5,7 +5,7 @@ base_headword: "Kaṇhadīpāyanajātaka"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -44,6 +44,10 @@ The story is also given in the <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇhadīpāyanajātaka (Ja 444). Dưới triều đại của Kosambika ở Kosambī, hai Bà-la-môn, Dīpāyana và Maṇḍavya, đã cho đi khối tài sản khổng lồ của mình và sống trong năm mươi năm như những đạo sĩ ở Himavā. Sau đó, trong một chuyến hành hương đến Benares, họ đã được thết đãi bởi một gia chủ cũng có tên là Maṇḍavya. Dīpāyana tiếp tục hành trình trong khi vị đạo sĩ Maṇḍavya ở lại trong một nghĩa địa gần Benares. Tại đó, một số tên cướp đã để lại một số hàng hóa đánh cắp bên ngoài túp lều của ông, và Maṇḍavya, bị buộc tội trước nhà vua, đã bị đóng cọc xuyên người, nhưng nhờ vào những quyền năng lớn lao của mình, ông vẫn tiếp tục sống sót. Dīpāyana đã đến thăm bạn của mình, và khi thấy ông như vậy cũng như biết rằng ông không hề mang lòng ác ý đối với bất kỳ ai, Dīpāyana đã chọn chỗ ở của mình bên dưới thân thể đang bị đóng cọc của bạn. Những giọt máu đông rơi từ vết thương của Maṇḍavya xuống cơ thể màu vàng của Dīpāyana và khô lại ở đó, tạo thành những đốm đen; vì vậy ông được gọi là Kaṇhadīpāyana. Khi nhà vua nghe nói về điều này, ngài đã thả Maṇḍavya ra với một mảnh cọc vẫn còn cắm bên trong người ông, vì lý do đó ông được gọi là Āṇi Maṇḍavya. Dīpāyana trở về gặp vị gia chủ Maṇḍavya, người có đứa con trai Yaññadatta được ông giúp chữa lành bằng một Lời Nguyện Sự Thật, đứa trẻ đã bị một con rắn cắn trong khi đang chơi bóng. Cha mẹ của cậu bé sau đó cũng đã thực hiện những Lời Nguyện Sự Thật. Trong lời tuyên bố Sự thật này, người ta đã tiết lộ rằng Dīpāyana không có khao khát đối với cuộc sống xuất gia, rằng người cha không tin vào những quả báo của sự hào phóng, và rằng người mẹ không có tình yêu đối với chồng mình. Sau đó, họ đã khuyên răn lẫn nhau và đồng ý sửa đổi những thói hư tật xấu của mình.
+
+Maṇḍavya của câu chuyện là Ānanda, vợ của ông là Visākhā, người con trai là Rāhula, Āṇi Maṇḍavya là Sāriputta và Kaṇhadīpāyana là Bodhisatta (Ja.iv.27ff). Hoàn cảnh kể lại câu chuyện cũng giống như hoàn cảnh của Kusajātaka (*xem bài này*). Trong một bài kệ, Kaṇhadīpāyana được gọi đơn giản là Kaṇha (Ibid., p.33).
+
+Câu chuyện cũng được đưa ra trong Cariyāpiṭaka (p.99f).
 
 ## Notes

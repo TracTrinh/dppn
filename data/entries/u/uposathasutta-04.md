@@ -5,7 +5,7 @@ base_headword: "Uposathasutta"
 disambiguator: "04"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -26,6 +26,6 @@ Uposathasutta 04. (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uposathasutta 04. (*v.l.* Uposathaṅgasutta). Visākhā, sau khi đã thọ nhận các giới nguyện *uposatha*, đến viếng thăm Đức Phật vào lúc giữa trưa tại Migāramātupāsāda. Đức Phật giải thích cho cô ấy rằng có nhiều cách khác nhau để tuân giữ *uposatha*; những cách này Ngài mô tả là *uposatha* của người chăn bò, *uposatha* của những người khổ hạnh lõa thể và *uposatha* của các bậc Thánh. AN.i.206f.
 
 ## Notes

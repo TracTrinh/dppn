@@ -5,7 +5,7 @@ base_headword: "Parihānasutta"
 disambiguator: "03"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Parihānasutta 03. On the six stations of mastery (*cha abhibhāyatanāni*) whic
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parihānasutta 03. Về sáu xứ chiến thắng (*cha abhibhāyatanāni*) giúp ngăn ngừa một vị tỳ-kheo khỏi sự thối thất. Khi nhìn thấy một hình sắc bằng mắt, vị ấy không cho phép những trạng thái xấu ác và bất thiện phát sinh trong tâm mình, những ký ức và hy vọng giống như những trói buộc ràng buộc. Tương tự như vậy đối với các giác quan khác. SN.iv.76f.
 
 ## Notes

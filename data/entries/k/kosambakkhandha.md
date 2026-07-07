@@ -5,7 +5,7 @@ base_headword: "Kosambakkhandha"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -25,6 +25,6 @@ Kosambakkhandha. The tenth section of the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kosambakkhandha. Phần thứ mười của Mahā Vagga thuộc Vinayapiṭaka. Vin.i.334-59.
 
 ## Notes

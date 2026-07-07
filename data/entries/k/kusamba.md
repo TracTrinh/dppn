@@ -5,7 +5,7 @@ base_headword: "Kusamba"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kusamba (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị ẩn sĩ (*Isi*), trên địa điểm của am thất của ngài đã được xây dựng nên thành phố mà chính vì lý do đó được gọi là Kosambī. Snp­a.i.300; MN­a.ii.539; Ud­a.248; Paṭis-a.413; xem thêm *Rāmāyaṇa* i.34.
 
 ## Notes

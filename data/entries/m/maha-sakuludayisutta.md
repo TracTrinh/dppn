@@ -5,7 +5,7 @@ base_headword: "Mahā Sakuludāyīsutta"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -54,6 +54,22 @@ It is for these reasons that his disciples esteem him. MN.ii.1-22.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sakuludāyīsutta. Đức Phật viếng thăm am thất của Sakuludāyī gần Rājagaha. Sakuludāyi nói với Ngài rằng Đức Phật, không giống như những vị đạo sư tôn giáo khác, được các đệ tử của Ngài tôn kính, và ông đưa ra ý kiến của mình rằng điều này là do Đức Phật ăn uống đạm bạc, hài lòng với bất kỳ y phục nào, chấp nhận bất kỳ vật thực khất thực nào, hài lòng với bất kỳ chỗ ở nào, sống viễn ly, và khuyên những người khác cũng làm như vậy. Đức Phật trả lời rằng nếu sự tôn kính dành cho Ngài phụ thuộc vào những phẩm chất này, thì Ngài có vô số đệ tử còn khổ hạnh hơn cả bản thân Ngài đối với những thực hành này, và đưa ra năm phẩm chất khác đã mang lại cho Ngài sự tôn kính: Ngài có những giới đức cao thượng hơn, tuệ nhãn vô cùng sắc bén, trí tuệ xuất chúng, Ngài dạy cho các đệ tử của Ngài các Thánh đế, và chỉ cho họ con đường để phát triển bốn *satipaṭṭhāna*.
+
+Bên cạnh đó, Ngài đã dạy họ,
+
+- *sammāppadhāna*,
+- bốn *iddhipāda*,
+- năm *indriya*,
+- năm *bala*,
+- bảy *bojjhaṅga*,
+- Bát Thánh đạo, (*magga*)
+- tám Sự Giải Thoát (*vimokkha*),
+- tám lãnh vực làm chủ (*abhibhāyatama*),
+- mười *kasiṇāyatana*,
+- bốn *jhāna*,
+- sáu *abhiññā*.
+
+Chính vì những lý do này mà các đệ tử của Ngài tôn kính Ngài. MN.ii.1-22.
 
 ## Notes

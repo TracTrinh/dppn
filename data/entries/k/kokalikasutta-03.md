@@ -5,7 +5,7 @@ base_headword: "Kokālikasutta"
 disambiguator: "03"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -27,6 +27,6 @@ Kokālikasutta 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kokālikasutta 03. Subrahmā đến thăm Đức Phật tại Sāvatthī và thốt lên những bài kệ liên quan đến Kokālika. Kẻ cố gắng giới hạn điều không thể giới hạn sẽ trở nên bối rối. SN.i.148.
 
 ## Notes

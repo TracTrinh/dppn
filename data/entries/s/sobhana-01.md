@@ -5,7 +5,7 @@ base_headword: "Sobhana"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Sobhana 01. An *ārāma*, given by <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sobhana 01. Một *ārāma*, do Upāli trong một tiền kiếp là Sumana dâng cúng, để Padumuttara Buddha sử dụng. Thag­a.i.362.
 
 ## Notes

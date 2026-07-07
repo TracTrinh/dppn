@@ -5,7 +5,7 @@ base_headword: "Rohitassa"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -25,6 +25,6 @@ Rohitassa 02. A sage, described as <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Rohitassa 02. Một vị hiền giả, được mô tả là một Bhojaputta. Xem Rohitassa (I).
 
 ## Notes

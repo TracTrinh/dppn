@@ -5,7 +5,7 @@ base_headword: "Sīhabāhu"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -33,6 +33,8 @@ When he was sixteen he escaped with his mother and sister and arrived in the cap
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhabāhu. Cha của Vijaya. Theo truyền thuyết, cha ông là một con sư tử và mẹ ông là một công chúa của Vaṅga (xem Susīmā). Tay và chân ông giống như bàn chân sư tử. Ông có một người em gái, Sīhasīvalī.
+
+Khi ông mười sáu tuổi, ông cùng mẹ và em gái trốn thoát và đến kinh đô của Vaṅga. Sau đó ông giết cha mình để lấy phần thưởng và được đề nghị ngôi vua của Vaṅga. Ông từ chối điều này và lập nên một thành phố, Sīhapura, tại quê hương mình là Lāla, và sống ở đó cùng Sīhasīvalī, người mà ông lập làm hoàng hậu. Họ có ba mươi hai người con, trong đó Vijaya là con trưởng và Sumitta là con thứ hai. Dpv.ix.2-6; Mhv.vi.11f, 24-38; viii.2, 6.
 
 ## Notes

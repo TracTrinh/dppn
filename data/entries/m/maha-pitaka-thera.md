@@ -5,7 +5,7 @@ base_headword: "Mahā Piṭaka Thera"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -27,6 +27,6 @@ Mahā Piṭaka Thera. Of Ceylon. He was an eminent Thera and was teacher of <spa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Piṭaka Thera. Thuộc Tích Lan. Ngài là một vị Trưởng lão xuất chúng và là thầy của Trưởng lão Catunikāyikatissa. Vào thời điểm xảy ra sự xáo trộn lớn trong nước (*mahābhaya*, có lẽ là *Brāhmaṇatissamahābhaya*), chỉ có duy nhất một vị tỳ-kheo biết Mahā Niddesa, và Mahā Piṭaka đã yêu cầu vị đồng tu của ngài, Mahā Rakkhita, học lại điều đó từ vị tỳ-kheo kia. Nhưng Mahā Rakkhita đã từ chối với lý do rằng vị tỳ-kheo có kiến thức đó là một người xấu xa; nhưng cuối cùng ngài cũng đồng ý, với điều kiện là chính Mahā Piṭaka phải có mặt tại các buổi học. Vào ngày học cuối cùng, ngài phát hiện ra một người phụ nữ trốn dưới gầm giường của vị thầy đó. Vin-a.iii.695.
 
 ## Notes

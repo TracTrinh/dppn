@@ -5,7 +5,7 @@ base_headword: "Vijaya"
 disambiguator: "03"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -27,6 +27,6 @@ Vijaya 03. Minister of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vijaya 03. Đại thần của Aṅgati, vua xứ Videha. Để biết chi tiết xem Mahā Nāradakassapajātaka (Ja 544). Ông được đồng nhất với Sāriputta. Ja.vi.255.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sumana"
 disambiguator: "16"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sumana 16. Governor of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumana 16. Thống đốc của Girijanapada trong thời của Kākavaṇṇatissa. Ông là một người bạn của cha Veḷusumana. Mhv.xxiii.69.
 
 ## Notes

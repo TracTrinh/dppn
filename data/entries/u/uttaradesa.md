@@ -5,7 +5,7 @@ base_headword: "Uttaradesa"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -27,6 +27,8 @@ The district formed a convenient landing-place for invaders coming to Ceylon fro
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttaradesa. Một tỉnh của Tích Lan (Ceylon), có lẽ nằm ở phía bắc của Anurādhapura. Nó thường bị người Tamil chiếm đóng, và các thủ lĩnh của nó đã từ chối thừa nhận sự trung thành đối với các vị vua Sinhalese. Thỉnh thoảng, người dân của nó đã phải bị khuất phục bởi các vị vua Sinhalese, nhằm thiết lập nền hòa bình của đất nước và sự an ninh của ngai vàng (Xem, ví dụ: Cv.xliv.71; xlvii.3, 54; xlviii.83-4, 95, 112).
+
+Khu vực này đã hình thành một bãi đáp thuận tiện cho những kẻ xâm lược đến Tích Lan (Ceylon) từ Ấn Độ, nơi họ có thể hoàn tất các sự chuẩn bị của mình (ví dụ: Cv.i.14). Đôi khi nó được gọi là Uttararaṭṭha, Ví dụ: Cv.ixx.92.
 
 ## Notes

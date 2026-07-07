@@ -5,7 +5,7 @@ base_headword: "Kappa"
 disambiguator: "04"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -31,6 +31,6 @@ Kappa 04. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kappa 04. *v.l.* Kappaka. Một thanh niên Bà-la-môn (Kappakamāra) người mà là Bodhisatta. Về sau ông trở thành một nhà hiền triết và là đệ tử và người bạn của Kesava. Về câu chuyện của ông xem Kesavajātaka (Ja 346, Ja.iii.142ff). Câu chuyện cũng được tham chiếu đến trong Bakabrahmajātaka (Ja 405, Ja.iii.361; Dhp­a.i.342f), và được đề cập trong Saṁyuttanikāya (SN.i.144; SN­a.i.164; MN­a.i.555), nơi Bakabrahma được đồng nhất với vị giáo thọ của Kappa, Kesava.
 
 ## Notes

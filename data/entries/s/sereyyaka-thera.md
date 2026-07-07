@@ -5,7 +5,7 @@ base_headword: "Sereyyaka Thera"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Sereyyaka Thera. An *Arahant*. In the time of <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sereyyaka Thera. Một vị *Arahant*. Vào thời Vipassī Buddha, ông là một Bà-la-môn học rộng, và khi thấy Đức Phật trong rừng, đã dâng lên Ngài hoa *sereyyaka* (*sirīga*), tạo thành một tán che trên đầu Đức Phật. Mười lăm *kappa* trước, ông từng làm vua hai mươi lăm lần dưới tên Cīnamāla. Ap.i.155; so sánh Kassapa (Thag­a.i.178).
 
 ## Notes

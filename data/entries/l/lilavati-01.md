@@ -5,7 +5,7 @@ base_headword: "Līlāvatī"
 disambiguator: "01"
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -27,6 +27,6 @@ Līlāvatī 01. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Līlāvatī 01. Một công chúa Coḷa, con gái của Jagatīpāla. Bà chạy trốn cùng cha đến Tích Lan, nơi bà trở thành hoàng hậu của Vijayabāhu I. Cv.lix.24f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Parakkamapaṇḍu"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Parakkamapaṇḍu. One of the three <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parakkamapaṇḍu. Một trong ba Vīrapperaya mà Laṅkāpura đã dùng quà tặng để thu phục nhằm liên minh với Vīrapaṇḍu. Cv.lxxvii.6.
 
 ## Notes

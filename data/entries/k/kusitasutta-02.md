@@ -5,7 +5,7 @@ base_headword: "Kusītasutta"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -24,6 +24,6 @@ Kusītasutta 02. Eight occasions on which a monk is apt to become indolent (AN.i
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tám dịp mà một vị tỳ-kheo dễ trở nên lười biếng (AN.iv.332f).
 
 ## Notes

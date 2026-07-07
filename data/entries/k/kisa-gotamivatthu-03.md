@@ -5,7 +5,7 @@ base_headword: "Kisā Gotamīvatthu"
 disambiguator: "03"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kisā Gotamīvatthu 03. The story of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kisā Gotamīvatthu 03. Câu chuyện về việc Kisā Gotamī (1) trở thành một vị *Sotāpanna*. Dhp­a.iii.432f.
 
 ## Notes

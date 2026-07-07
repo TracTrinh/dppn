@@ -5,7 +5,7 @@ base_headword: "Phassasutta"
 disambiguator: "04"
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -23,6 +23,6 @@ Phassasutta 04. The desire and lust which is in the contact of the six senses is
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phassasutta 04. Dục và tham trong xúc của sáu căn là một sự ô nhiễm của tâm. SN.iii.233.
 
 ## Notes

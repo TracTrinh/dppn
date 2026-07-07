@@ -5,7 +5,7 @@ base_headword: "Sigālakapitā Thera"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -34,6 +34,8 @@ Ninety-four *kappas* ago he had given a *tāla*-fruit to the <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sigālakapitā Thera (Siṅgālakapitā Thera). Ông là một gia chủ ở Sāvatthī và có một người con trai tên là Sigālaka. Sau đó ông gia nhập Saṅgha, và Đức Phật bảo ông quán tưởng về bộ xương. Ông sống ở Bhesakalāvana tại Suṁsumāragiri, và tại đó một vị thọ thần đã từng khích lệ ông bằng một bài kệ (Thag.vs.18). Được thúc giục nỗ lực như vậy, ông phát triển tuệ quán và trở thành một *Arahant*.
+
+Chín mươi bốn *kappa* trước, ông đã cúng dường một trái *tāla* cho Pacceka Buddha Sataraṁsī. Vào thời Kassapa Buddha, ông là một tỳ-kheo và đã tu tập quán tưởng về bộ xương. Thag­a.i.70f.
 
 ## Notes

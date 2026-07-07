@@ -5,7 +5,7 @@ base_headword: "Makuṭacetiya"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -27,6 +27,6 @@ Makuṭacetiya. A monument erected by <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Makuṭacetiya. Một tháp kỷ niệm do Sakka dựng nên trên đỉnh Sineru, tôn trí một lọn tóc được cắt bởi Dīpaṅkara Buddha, khi ngài từ bỏ thế tục và xuất gia làm một Tỳ-kheo. Bv­a.68.
 
 ## Notes

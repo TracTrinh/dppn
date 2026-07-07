@@ -5,7 +5,7 @@ base_headword: "Vijambhavatthu"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vijambhavatthu. A place of residence for monks in the <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vijambhavatthu. Một nơi cư ngụ dành cho các tỳ-kheo trong *senāsana* Vattaniya, nơi Rohaṇa đã đưa Nāgasena đến để thu nhận ngài vào Tăng đoàn. Mil. p. 12.
 
 ## Notes

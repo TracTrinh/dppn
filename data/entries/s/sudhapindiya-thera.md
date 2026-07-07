@@ -5,7 +5,7 @@ base_headword: "Sudhāpiṇḍiya Thera"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sudhāpiṇḍiya Thera. An *Arahant*. Ninety-four *kappas* ago he gave mortar (
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudhāpiṇḍiya Thera. Một vị *Arahant*. Chín mươi bốn kappa trước ngài đã cúng dường vữa (*sudhāpiṇḍa*) để xây dựng cetiya của Siddhattha Buddha. Ba mươi kappa trước ngài làm vua mười ba lần với tên gọi là Paṭisaṅkhāra. Ap.i.133.
 
 ## Notes

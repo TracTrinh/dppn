@@ -5,7 +5,7 @@ base_headword: "Valāhassavāpi"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -28,6 +28,6 @@ Valāhassavāpi. A tank in Ceylon, built by <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Valāhassavāpi. Một hồ chứa nước ở Tích Lan, được Upatissa II. xây dựng (Cv.xxxvii.185) và được Aggabodhi II. (Cv.xlii.67), Vijayabāhu I. (Cv.lx.50) và Parakkamabāhu I. (Cv.lxxix.36) tu sửa.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Tālaggallakavāpi"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Tālaggallakavāpi. A tank in Ceylon repaired by <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tālaggallakavāpi. Một hồ nước ở Tích Lan được Parakkamabāhu I trùng tu. Cv.lxxix.66.
 
 ## Notes

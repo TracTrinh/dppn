@@ -5,7 +5,7 @@ base_headword: "Lakuṇṭaka Bhaddiya Thera"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -45,6 +45,12 @@ It was in reference to <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lakuṇṭaka Bhaddiya Thera. Ông sinh ra trong một gia đình giàu có ở Sāvatthī và được gọi là *Lakuṇṭaka* (Người lùn) vì vóc dáng rất nhỏ bé. Tuy nhiên, theo Ap­a., thân thể ông đẹp đẽ; nhưng xem phần dưới. Sau khi nghe Đức Phật thuyết pháp, ông gia nhập Tăng đoàn và trở nên uyên bác và hùng biện, dạy bảo người khác bằng giọng nói du dương. Một lần, vào ngày lễ hội, một người phụ nữ trong thành, đang đi xe ngựa cùng một vị Bà-la-môn, thấy vị Trưởng lão và bật cười, lộ răng. Vị Trưởng lão lấy hình ảnh hàm răng làm đề mục, tu tập *jhāna* và trở thành một *Anāgāmī*. Sau đó, sau khi được Sāriputta khuyến giáo, ông tu tập niệm thân và trở thành một *Arahant*. Udāna (vii.1, 2) đề cập đến những lời khuyến giáo của Sāriputta và niềm vui của Đức Phật khi những lời đó có tác dụng mong muốn. Chú giải (Ud­a.360f.) cung cấp thêm chi tiết.
+
+Vào thời Padumuttara Buddha, ông là một cư sĩ rất giàu có ở Haṁsavatī, và sau khi nghe Đức Phật tán dương một trong các tỳ-kheo của ngài là người có giọng nói du dương nhất trong số họ, ông mong muốn được một sự vinh dự tương tự cho mình dưới một vị Phật trong tương lai. Vào thời Phussa Buddha, ông là một *cittapattakokila*, tên Nanda (Apadāna *loc.infra* nói ông là tướng quân của vua), khi thấy Đức Phật trong vườn hoàng gia đã đặt vào bát của ngài một trái xoài chín. Vào thời Kassapa Buddha, ông là kiến trúc sư trưởng được giao phụ trách xây dựng *Thūpa* thờ xá-lợi của Đức Phật, và khi nảy sinh tranh luận về kích thước của *Thūpa*, ông quyết định ủng hộ một ngôi nhỏ; do đó mà ông có vóc dáng nhỏ bé trong kiếp cuối. Thag­a.i.469ff.; Ap.ii.489f; bản tường thuật trong AN­a.i.110f. có đôi chút khác biệt; Keḷisīlajātaka (*q.v.*) nêu lý do khác cho vóc dáng nhỏ bé của ông.
+
+Trong hội chúng tỳ-kheo, Đức Phật xếp ông vào hàng đầu trong số các tỳ-kheo có giọng nói du dương (AN.i.25) (*mañjussarānaṁ*). Nhiều câu chuyện liên quan đến Bhaddiya được ghi lại trong các kinh sách. Vì vóc dáng nhỏ bé và vẻ ngoài trẻ trung, đôi khi ông bị nhầm với một sa-di (Dhp­a.iii.387). Ở chỗ khác nói rằng, vì ông xấu xí và gù lưng, ông bị các bạn đồng tu khinh thường, và Đức Phật phải tuyên bố với họ sự vĩ đại của ông và lấy ông làm gương về một người, tuy nhỏ bé, nhưng có sức mạnh lớn lao (SN.ii.279; cp. Ud.vii.5). Một câu chuyện khác kể rằng các sa-di hay kéo tóc và véo tai mũi ông, nói rằng "Chú ơi, chú không chán tu hành sao? Chú vui thích điều đó lắm ư?" Nhưng ông không tỏ ra phẫn uất và không có lòng oán giận. Dhp­a.ii.148; phần giới thiệu của Keḷisīlajātaka (Ja 202, Ja.ii.142) kể về ba mươi tỳ-kheo từ vùng quê, khi thấy Bhaddiya tại Jetavana, đã xô đẩy ông cho đến khi được Đức Phật cho biết ông là ai.
+
+Chính vì Bhaddiya mà Đức Phật đã thuyết hai bài kệ câu đố nổi tiếng trong Dhammapada (294, 295; để giải thích câu đố xem Dhp­a.iii.454), trong đó ngài mô tả vị *Arahant* là người đã giết cha và mẹ và hai vị vua và tiêu diệt một vương quốc, nhưng vẫn vô tội — những lời đó mang ý nghĩa ẩn dụ. Nhiều bài kệ do Bhaddiya thốt lên tại Ambāṭakavana, khi ông ngồi đó tận hưởng hỷ lạc của quả vị *Arahant*, được đưa vào Theragāthā (Thag.vss.466-72). Trong *Avadānaśataka*, ông được gọi là *Lakuñcika*. Xem Avś.ii.152-60.
 
 ## Notes

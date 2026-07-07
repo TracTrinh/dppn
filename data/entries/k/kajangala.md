@@ -5,7 +5,7 @@ base_headword: "Kajaṅgala"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -40,6 +40,8 @@ Kajaṅgala (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kajaṅgala (Kajaṅgalā). Một thị trấn tạo thành ranh giới phía đông của Majjhimadesa. Vượt xa khỏi nó là Mahā Sālā (Vin.i.197; DN­a.i.173; MN­a.i.316, v.v.; AN­a.i.55, v.v.; Ja.i.49; Mbv.12). Vào thời Đức Phật, đó là một nơi sầm uất, nơi các nguồn tiếp tế có thể kiếm được một cách dễ dàng (*dabbasambhārasulabhā*, Ja.iv.310). Có lần khi Đức Phật đang ngự tại Veḷuvana ở Kajaṅgala, các cư sĩ tại đó đã nghe một bài pháp từ Đức Phật và đi đến gặp ni cô Kajaṅgalā để nhờ giải thích chi tiết (AN.v.54f). Vào một dịp khác, Đức Phật ngự tại *Mukheluvana* và được Uttara, đệ tử của Pārāsariya, đến thăm tại đó. Cuộc trò chuyện của họ được ghi lại trong Indriyabhāvanāsutta (MN.iii.298ff). Trong Milindapañha (p.10), Kajaṅgala được mô tả là một ngôi làng của người Bà-la-môn và được cho là nơi sinh của Nāgasena. Trong Kapotajātaka có đề cập đến Kajaṅgala, và chú giải (Ja.iii.226-7) giải thích rằng nó có thể giống với Benares. Theo chú giải của Bhisajātaka (Ja.iv.311), thọ thần được nhắc đến trong câu chuyện đó từng là vị tỳ-kheo thường trú chính trong một tu viện cũ ở Kajaṅgala, tu viện này ông đã gặp khó khăn trong việc sửa chữa vào thời Đức Phật Kassapa.
+
+Kajaṅgala được đồng nhất với *Kie-chu-hoh-khi-lo* của Huyền Trang, nơi ông mô tả là một khu vực có chu vi khoảng hai ngàn *lý*. (Beal-Xuan.ii.193, n.; xem thêm Cunningham, AN.G.I.723). Nó cũng có thể đồng nhất với thị trấn Puṇḍavardhana được nhắc đến trong Divy.21f). *Avadānaśataka* (ii.41) gọi nơi này là Kacaṅgalā.
 
 ## Notes

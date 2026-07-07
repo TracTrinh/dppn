@@ -5,7 +5,7 @@ base_headword: "Kakubandhagāma"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kakubandhagāma. A village in <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kakubandhagāma. Một ngôi làng ở Rohaṇa. Ras.ii.188.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vajirindha"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vajirindha. A Brahmin of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vajirindha. Một Bà-la-môn ở Sucirindha, có con gái đã dâng cúng bữa cơm sữa cho Kakusandha Buddha ngay trước khi Ngài Giác ngộ. Bv­a. p.210.
 
 ## Notes

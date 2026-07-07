@@ -5,7 +5,7 @@ base_headword: "Sobhita"
 disambiguator: "06"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Sobhita 06. A Brahmin in the time of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sobhita 06. Một người Bà-la-môn vào thời Padumuttara Buddha; một tiền kiếp của Sāgata Thera. Ông đã thốt lên những câu kệ tán dương Padumuttara. Ap.i.83.
 
 ## Notes

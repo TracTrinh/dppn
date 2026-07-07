@@ -5,7 +5,7 @@ base_headword: "Tāpanā"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -32,6 +32,8 @@ Tāpanā. The younger sister of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tāpanā. Em gái của Kapila và Sodhana, vào thời đại của Kassapa Buddha. Mẹ của cô là Sādhanī. Tất cả bọn họ đều gia nhập Tăng đoàn, nhưng đã mang sự chia rẽ vào trong đó.
+
+Kapila bị tái sinh làm một con cá trên dòng Aciravatī và Tāpanā bị sinh vào *Mahā Niraya* (Đại Địa ngục). Snp­a.i.305f, 309; Dhp­a.iv.37, 39.
 
 ## Notes

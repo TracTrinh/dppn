@@ -5,7 +5,7 @@ base_headword: "Lokānuvicaraṇasutta"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -26,6 +26,6 @@ Lokānuvicaraṇasutta. A name given in the <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Lokānuvicaraṇasutta. Tên được đặt trong Suttasaṅgaha (No. 51) cho Rājasutta (2) (*q.v.*)
 
 ## Notes

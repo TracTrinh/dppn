@@ -5,7 +5,7 @@ base_headword: "Savanaviyala"
 disambiguator: ""
 letter: "S"
 section: "Sa."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/068.html"
@@ -24,6 +24,6 @@ Savanaviyala. A place in <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Savanaviyala. Một địa điểm ở Rohaṇa. Cv.lxxv.2.
 
 ## Notes

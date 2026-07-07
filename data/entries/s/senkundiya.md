@@ -5,7 +5,7 @@ base_headword: "Seṅkuṇḍiya"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -27,6 +27,6 @@ Seṅkuṇḍiya. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Seṅkuṇḍiya. Một thủ lĩnh người Damiḷa, đồng minh của Kulasekhara, và về sau là đồng minh của Laṅkāpura. Cv.lxxvi.138, 221; lxxvii.7, 35.
 
 ## Notes

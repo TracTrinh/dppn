@@ -5,7 +5,7 @@ base_headword: "Sudāyaka"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sudāyaka. A king of five *kappas* ago, a previous birth of <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudāyaka. Một vị vua cách đây năm kappa, là tiền kiếp của Ajinadāyaka Thera. Ap.i.214.
 
 ## Notes

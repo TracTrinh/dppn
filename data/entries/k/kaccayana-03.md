@@ -5,7 +5,7 @@ base_headword: "Kaccāyana"
 disambiguator: "03"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -30,6 +30,6 @@ Kaccāyana 03. In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaccāyana 03. Trong Vidhurapaṇḍitajātaka (Ja 545), vị Yakkha tên là Puṇṇaka tự xưng và được gọi là Kaccāyana (Ja.vi.273), Kaccāna (Ja.vi.283, 286, 301, 327) và Kātiyāna (Ja.vi.299, 306, 308). Chú giải dường như không đưa ra lời giải thích nào.
 
 ## Notes

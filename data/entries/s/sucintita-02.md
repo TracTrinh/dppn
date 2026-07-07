@@ -5,7 +5,7 @@ base_headword: "Sucintita"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -28,6 +28,6 @@ Sucintita 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sucintita 02. Sucintita Thera. Một vị *Arahant*. Chín mươi hai kappa trước ngài đã cúng dường một chỗ ngồi cho Tissa Buddha. Ba mươi tám kappa trước ngài làm vua ba lần, lần lượt với các tên là Ruci, Uparuci và Mahā Ruci. Ap.i.133f.
 
 ## Notes

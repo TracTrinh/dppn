@@ -5,7 +5,7 @@ base_headword: "Paṇṇavallakabhūta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Paṇṇavallakabhūta. A monastery in Ceylon, built by <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇṇavallakabhūta. Một tu viện ở Tích Lan, do Dhātusena xây dựng. Cv.xxxviii.47.
 
 ## Notes

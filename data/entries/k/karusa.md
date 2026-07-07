@@ -5,7 +5,7 @@ base_headword: "Kārusā"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -25,6 +25,6 @@ Kārusā. Mentioned with the <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kārusā. Được đề cập cùng với nhóm Bhaggas trong danh sách các bộ tộc. Ap.ii.359.
 
 ## Notes

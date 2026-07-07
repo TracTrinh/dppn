@@ -5,7 +5,7 @@ base_headword: "Vājirīya"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -24,6 +24,6 @@ Vājirīya. A heretical sect of Buddhists, one of the seventeen schools which br
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vājirīya. Một bộ phái dị giáo trong Phật giáo, một trong mười bảy bộ phái phân ly một trăm năm sau khi Đức Phật viên tịch. Mhv.v.13; Mhv. p.97; Dpv.v.54 gọi họ là *Apararājagirikā*.
 
 ## Notes

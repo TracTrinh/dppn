@@ -5,7 +5,7 @@ base_headword: "Mahā Piṅgalajātaka"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -29,6 +29,8 @@ The story was told in reference to the great joy shown by multitudes of people a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Piṅgalajātaka (Ja 240). Mahā Piṅgala từng là vị vua xứ Benares; ông ta cực kỳ độc ác và vô cùng tàn nhẫn. Khi ông ta qua đời, dân chúng vô cùng vui sướng, và đã hỏa thiêu thi thể ông ta với một ngàn xe củi giữa một buổi lễ hội lớn. Sau đó, họ tôn con trai của ông ta, là Bodhisatta, lên làm vua. Ngài chú ý thấy trong khi tất cả những người khác đều hân hoan, người gác cổng hoàng cung lại khóc lóc, và ngài hỏi nguyên nhân. Người gác cổng trả lời rằng Mahā Piṅgala đã đánh vào đầu ông ta tám lần mỗi ngày khi đi ngang qua. Ông ta chắc chắn rằng vị vua này cũng sẽ đối xử với Yama theo cách tương tự, và sẽ bị trục xuất khỏi địa ngục, rồi quay trở lại hoàng cung nơi ông ta sẽ lại bắt đầu hành hung ông ta một lần nữa. Bodhisatta nói với người gác cổng rằng Mahā Piṅgala hoàn toàn không thể nào sống dậy từ địa ngục được nữa.
+
+Câu chuyện này được kể lại liên quan đến niềm vui to lớn của đám đông dân chúng trước cái chết của Devadatta. Devadatta được đồng nhất với Mahā Piṅgala. Ja.ii.239ff.; Dhp­a.i.126f.
 
 ## Notes

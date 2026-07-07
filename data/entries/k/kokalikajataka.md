@@ -5,7 +5,7 @@ base_headword: "Kokālikajātaka"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -28,6 +28,8 @@ The story was told in reference to <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kokālikajātaka (Ja 331). Vua Brahmadatta rất thích nói chuyện, và vị quan đại thần của ngài, Bodhisatta, đã tìm kiếm một cơ hội để khuyên răn ngài. Cơ hội này xảy ra khi họ đang quan sát một tổ quạ, trong đó có một con chim cu đã đẻ một quả trứng. Con quạ đã canh giữ nó và mớm mồi cho con chim cu non sau khi nó nở. Một ngày nọ, con chim cu cất tiếng kêu trước khi nó lớn lên, và con quạ đã giết nó và ném nó đi. Nhà vua hỏi Bodhisatta lý do cho việc này, và ngài giải thích rằng những kẻ ba hoa, nói chuyện không đúng lúc đúng chỗ, sẽ gặp phải số phận tương tự. Nhà vua đã được chữa khỏi thói quen xấu của mình.
+
+Câu chuyện được kể liên quan đến Kokālika, người được đồng nhất với con chim cu non. Ja.iii.102f.
 
 ## Notes

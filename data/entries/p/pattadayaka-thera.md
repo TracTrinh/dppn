@@ -5,7 +5,7 @@ base_headword: "Pattadāyaka Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Pattadāyaka Thera. An *Arahant*. Ninety-four *kappas* ago he gave a bowl to <sp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pattadāyaka Thera. Một *Arahant*. Chín mươi tư *kappa* trước, ngài đã cúng dường một chiếc bát cho Đức Phật Siddhattha. Ap.i.224.
 
 ## Notes

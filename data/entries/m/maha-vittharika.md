@@ -5,7 +5,7 @@ base_headword: "Mahā Vitthārika"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Vitthārika. A palace in heaven, occupied by <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Vitthārika. Một cung điện ở trên cõi trời, được chiếm đóng bởi Tīnipadumiya Thera trong một kiếp sống trước. Ap.i.124.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Petavatthu"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -32,6 +32,6 @@ Petavatthu. The seventh book of the <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Petavatthu. Cuốn sách thứ bảy của Khuddakanikāya. Nó bao gồm những câu chuyện về các cá nhân tái sinh vào cõi *Peta* do những hành vi sai trái khác nhau. Dhammapāla đã viết một bản Chú giải về nó, được gọi là Petavatthuvaṇṇanā, hoặc Petavatthu-aṭṭhakathā, và cấu thành một phần của Vimalavīlāsinī (GV.60). Mahinda đã thuyết giảng Petavatthu cho Anulā và những người bạn đồng hành của cô vào ngày ngài tiến vào Anurādhapura. Mhv.xiv.58.
 
 ## Notes

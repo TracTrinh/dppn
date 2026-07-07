@@ -5,7 +5,7 @@ base_headword: "Kañcanamālā"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kañcanamālā. Probably the name of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kañcanamālā. Có lẽ là tên chiếc lọng trắng của Sakka. Nó có chu vi năm do-tuần. Ja.v.386.
 
 ## Notes

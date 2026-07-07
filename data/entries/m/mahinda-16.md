@@ -5,7 +5,7 @@ base_headword: "Mahinda"
 disambiguator: "16"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -38,6 +38,6 @@ Mahinda 16. Younger brother of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahinda 16. Em trai của Sena V. Ông đã kế vị Sena với danh xưng là Mahinda V. và đã cai trị trong mười năm tại Anurādhapura dưới những khó khăn to lớn. Ông yếu đuối và bất lực, và những người lính Keraḷa đang làm việc cho ông đã nổi loạn để đòi hỏi mức lương cao hơn. Mahinda đã trốn thoát đến Rohaṇa bằng một lối đi ngầm, và sống tại Sīdupabbatagāma với người vợ của anh trai mình như là hoàng hậu, sau đó thì kết hôn với con gái của anh trai mình. Con trai của họ là Kassapa, và sau đó họ đã sống ở Kappagallaka. Vào năm thứ ba mươi sáu trong triều đại của Mahinda, những người Coḷa, tận dụng sự bất mãn ở Ceylon, đã xâm lược đất nước, bắt giữ nhà vua, hoàng hậu, và tất cả những vương quyền hoàng gia. Họ đã cai trị trong nhiều năm với Pulatthinagara như là căn cứ, và Mahinda đã qua đời ở Coḷa sau một thời gian bị giam cầm kéo dài trong mười hai năm (Cv.iv.1ff). Lokitā và Devalā là những người chị em họ ngoại của ông. Cv.lvii.27.
 
 ## Notes

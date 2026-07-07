@@ -5,7 +5,7 @@ base_headword: "Pañcālacaṇḍa"
 disambiguator: "02"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Pañcālacaṇḍa 02. A handsome Brahmin youth with whom the queen of a <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pañcālacaṇḍa 02. Một thanh niên Bà-la-môn tuấn tú, người mà hoàng hậu của một vị vua nước Kosala đã có hành vi sai trái trong nhiều dịp. Bà nhìn thấy và phải lòng anh ta lần đầu tiên trên đường đi thăm con trai mình; sau đó bà đã tìm nhiều cớ để đến thành phố nơi anh ta sống. Đây là một trong những câu chuyện được Kuṇāla kể lại. Ja 536, Ja.v.425, 430f.
 
 ## Notes

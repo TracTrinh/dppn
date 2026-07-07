@@ -5,7 +5,7 @@ base_headword: "Kandalīpupphiya Thera"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kandalīpupphiya Thera. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kandalīpupphiya Thera. *cách đọc khác:* Kadalī Thera. Một vị Arahant. Chín mươi bốn *kappa* trước, ngài là một nông dân trên bờ sông Sindhū, và khi nhìn thấy Siddhattha Buddha đang chìm đắm trong thiền định, ngài đã dâng lên Đức Phật bảy bông hoa *kandalī* và đảnh lễ ngài (Ap.i.257).
 
 ## Notes

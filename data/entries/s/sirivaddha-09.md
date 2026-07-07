@@ -5,7 +5,7 @@ base_headword: "Sirivaḍḍha"
 disambiguator: "09"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sirivaḍḍha 09. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirivaḍḍha 09. Sirivaḍḍha Thera. Em trai của Sirimā Thera. Về câu chuyện của ngài, xem Sirimā 1.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Subāhu"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -39,6 +39,8 @@ Ninety-nine *kappas* ago <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subāhu 02. Subāhu Thera. Ngài là con trai của một *rājā* (vua) tộc Malla xứ Pāvā. Ngài gia nhập Tăng đoàn nhân dịp chuyến thăm đầu tiên của Đức Phật đến Rājagaha và đạt được quả vị *Arahant* cùng với những người bạn của mình là Godhika, Valliya và Uttiya. Bimbisāra đã cất một túp lều cho các ngài nhưng quên lợp mái; đã không có một giọt mưa nào cho đến khi sai sót này được khắc phục (Thag.vs.52; Thag­a.i.123f).
+
+Chín mươi chín *kappa* trước đây Subāhu đã đảnh lễ Siddhattha Buddha. Ba mươi bảy *kappa* trước đây ngài đã mười sáu lần làm vua, dưới danh hiệu Agada. Ngài có lẽ đồng nhất với Ñāṇasaññaka trong Apadāna. Ap.i.140f.
 
 ## Notes

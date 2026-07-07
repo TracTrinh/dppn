@@ -5,7 +5,7 @@ base_headword: "Kosambiyasutta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -30,6 +30,8 @@ The *Sutta* deals with amity and the six means of promoting it –acts, words an
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kosambiyasutta (Kosambakasutta). Được thuyết giảng tại Ghositārāma ở Kosambī cho các tỳ-kheo hay cãi vã ở nơi đó.
+
+Bài kinh đề cập đến sự thân thiện và sáu phương pháp để thúc đẩy nó – hành động, lời nói và ý nghĩ thiện chí, chia sẻ mọi thứ với các đồng tu của mình, sống đời sống phạm hạnh một cách trọn vẹn, tuân theo giáo lý dẫn đến sự đoạn diệt khổ đau, và sự nội quán, điều dẫn đến việc liễu ngộ chân lý (MN.i.320ff; cp. Upakkilesasutta MN.ii.152ff). Kosambakasutta được đưa ra (ví dụ, trong DN­a.i.123) như một ví dụ về một bài pháp bắt nguồn từ một cuộc cãi vã.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vijayabāhupariveṇavihāra"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -28,6 +28,6 @@ Vijayabāhupariveṇavihāra. A monastery built by King <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vijayabāhupariveṇavihāra. Một tu viện do Vua Vijayabāhu III. xây dựng tại Vattalagāma (Cv.lxxxi.58). Một tỳ-kheo, tên là Kāyasatti, là vị trụ trì chính của nó vào thời Parakkamabāhu IV., Cv.xc.91.
 
 ## Notes

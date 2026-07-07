@@ -5,7 +5,7 @@ base_headword: "Parakkamabāhu"
 disambiguator: "08"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Parakkamabāhu 08. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parakkamabāhu 08. Parakkamabāhu VII. Còn được gọi là *Paṇḍita* Parakkamabāhu, con trai của Bhuvanekabāhu VI (Cv.xcii.3). Ông trị vì trong bốn năm (khoảng 1480-84 CN), và bị sát hại bởi người chú của mình, người đã trở thành vua với tước hiệu Vīra Parakkamabāhu. Codr.94f.
 
 ## Notes

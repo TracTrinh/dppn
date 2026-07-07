@@ -5,7 +5,7 @@ base_headword: "Vasalasutta"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -29,6 +29,6 @@ Vasalasutta. The seventh *Sutta* of the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Bài *Sutta* thứ bảy của Uragavagga thuộc Suttanipāta. Bài kinh này được thuyết tại Sāvatthī cho Bà-la-môn Aggikabhāradvāja (do đó nó cũng được gọi là Aggikabhāradvājasutta, Snp­a.174), người đã nhục mạ Đức Phật, gọi Ngài là kẻ hạ liệt (*vasala*) khi Đức Phật đi đến nhà ông để khất thực. Đức Phật đã trả lời rằng Bà-la-môn không biết ý nghĩa của *vasala*, cũng như điều gì làm cho một người trở thành như vậy. Theo yêu cầu của vị Bà-la-môn, Ngài đã thuyết bài *Sutta* này, ý chính của nó là không phải do dòng dõi mà một người trở thành kẻ hạ liệt hay một *brāhmaṇa*, mà là do hành động của người đó (Snp., pp. 21f). Bài *Sutta* này cũng được bao gồm trong các Paritta (*q.v.*).
 
 ## Notes

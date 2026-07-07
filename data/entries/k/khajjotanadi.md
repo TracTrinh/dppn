@@ -5,7 +5,7 @@ base_headword: "Khajjotanadī"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -26,6 +26,6 @@ Khajjotanadī. A river in Ceylon, tributary of the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khajjotanadī. Một con sông ở Tích Lan, là chi lưu của Mahā Vālukanadī. Phía trên sông này Devappatirāja đã xây một cây cầu dài ba mươi cubit. Cv.lxxxvi.22; xem thêm Cv.Trs.ii.173, n.3.
 
 ## Notes

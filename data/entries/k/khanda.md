@@ -5,7 +5,7 @@ base_headword: "Khaṇḍa"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -28,6 +28,6 @@ Khaṇḍa. The chief disciple of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khaṇḍa. Vị đệ tử hàng đầu của Đức Phật Vipassī (DN.ii.11, 40; Bv.xx.28; Ja.i.41), và cũng là anh em cùng cha khác mẹ của ngài. Đức Phật đã thuyết giảng bài kinh đầu tiên của mình cho Khaṇḍa và người bạn của ông là Tissa, con trai của vị quân sư, tại Vườn Nai ở Khema. Về sau, Khaṇḍa trở thành vị đệ tử hàng đầu của Đức Phật. Ekasaññaka (Bv-a.196; AN­a.i.80; DN­a.ii.416; xem thêm 457), trong một tiền kiếp, đã từng bố thí cho Khaṇḍa. Ap.i.121.
 
 ## Notes

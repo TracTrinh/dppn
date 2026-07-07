@@ -5,7 +5,7 @@ base_headword: "Kittinissaṅka"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -30,6 +30,6 @@ Kittinissaṅka. Also known as <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kittinissaṅka. Cũng được biết đến với tên Nissaṅka Malla, vua của Tích Lan (1187-1196 CN.). Ngài từng là *Uparāja* của Vijayabāhu II, và trở thành vua sau khi Mahinda VI bị sát hại. Trong số các hành động đạo đức của ngài là việc xây dựng một ngôi đền bằng đá cho Xá-lợi Răng tại Pulatthipura và việc trang hoàng ngôi chùa đá nổi tiếng ở Jambukolavihāra. Con trai của ngài là Vīrabāhu. Để biết các chi tiết khác, xem Cv.lxxx.30ff; cũng xem Cv.Trs.ii.127, n.1 và 2.
 
 ## Notes

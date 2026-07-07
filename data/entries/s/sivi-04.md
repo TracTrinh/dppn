@@ -5,7 +5,7 @@ base_headword: "Sivi"
 disambiguator: "04"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Sivi 04. The Bodhisatta. See the <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sivi 04. Bodhisatta. Xem Sivijātaka (Ja 499).
 
 ## Notes

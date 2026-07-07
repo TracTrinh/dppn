@@ -5,7 +5,7 @@ base_headword: "Paṭidesanīyavagga"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Paṭidesanīyavagga. One of the sub divisions of the <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṭidesanīyavagga. Một trong những phần phụ của Pācittiya. Vin.iii.175ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Pekhuṇiya"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -26,6 +26,6 @@ Pekhuṇiya. Grandson of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pekhuṇiya. Cháu nội trai của Rohaṇa (*q.v.*), do đó người này được gọi là Pekhuṇiyanattā (AN.i.193). Chú giải (AN­a.i.419) gọi Pekhuṇiya là một *seṭṭhi*.
 
 ## Notes

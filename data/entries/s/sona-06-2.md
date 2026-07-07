@@ -5,7 +5,7 @@ base_headword: "Soṇā"
 disambiguator: "06"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Soṇā 06. An eminent teacher of the Vinaya in <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Soṇā 06. Một Therī nổi bật trong việc giảng dạy Vinaya ở Jambudīpa. Dpv.xviii.10.
 
 ## Notes

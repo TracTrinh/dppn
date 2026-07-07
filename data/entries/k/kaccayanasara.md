@@ -5,7 +5,7 @@ base_headword: "Kaccāyanasāra"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -32,6 +32,6 @@ Kaccāyanasāra. A resume of the <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaccāyanasāra. Một bản tóm tắt của Kaccāyanavyākaraṇa do Mahā Yasa biên soạn (nhưng xem Bode, 36, n.3, và Gv.74), có lẽ thuộc thế kỷ thứ mười bốn. Nó chứa các trích dẫn từ các luận thư như Bālavatāra, Rūpasiddhi, Cūḷanirutti và Sambandhacintā. Một *ṭīkā* về cuốn này do chính Mahā Yasa viết, và một cuốn khác, gọi là Sammohavināsinī, do Saddhammavilāsa viết. Bode, 37.
 
 ## Notes

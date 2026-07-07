@@ -5,7 +5,7 @@ base_headword: "Kolakā"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -24,6 +24,6 @@ Kolakā. Mentioned in a list of tribes. Ap.ii.359.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kolakā. Được đề cập trong một danh sách các bộ lạc. Ap.ii.359.
 
 ## Notes

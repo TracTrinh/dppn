@@ -5,7 +5,7 @@ base_headword: "Uttiya"
 disambiguator: "02"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -37,6 +37,10 @@ In <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttiya 02. Uttiya Thera. Ông là một trong bốn người bạn đồng hành — những người kia là Godhika, Subāhu và Valliya — được sinh ra tại Pāvā là con trai của bốn *Malla-rājā*. Họ là những người bạn thân thiết, và một lần cùng nhau đi sứ đến Kapilavatthu. Tại đó, họ được chứng kiến Song thông của Đức Phật, và sau khi gia nhập Tăng đoàn, họ sớm đắc quả *Arahant*. Khi họ đến Rājagaha, Bimbisāra mời họ an cư mùa mưa tại đó và xây cho mỗi người một căn thất, nhưng lại bất cẩn quên không lợp mái. Vì vậy các Trưởng lão ở trong các căn thất không có mái che. Trong một thời gian dài không có mưa, nhà vua suy nghĩ về điều đó, nhớ ra sự sơ suất của mình và cho lợp mái, trát vữa và sơn các căn thất. Sau đó nhà vua tổ chức lễ khánh thành và bố thí cho Tăng đoàn. Các Trưởng lão vào trong các căn thất và nhập vào thiền định từ bi. Ngay lập tức, bầu trời phía tây sậm lại và mưa đổ xuống.
+
+Vào thời Siddhattha Buddha, bốn vị là những người cư sĩ và bạn bè; một người dâng cho Đức Phật một muỗng thức ăn, người khác sấp mình trước Đức Phật và đảnh lễ, người thứ ba dâng một nắm hoa, trong khi người thứ tư cúng dường ngài bằng hoa *sumana*.
+
+Vào thời Kassapa, họ cũng là bạn bè và cùng gia nhập Tăng đoàn. Thag.vv.51-4; Thag­a.i.123-6.
 
 ## Notes

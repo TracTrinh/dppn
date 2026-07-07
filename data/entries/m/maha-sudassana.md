@@ -5,7 +5,7 @@ base_headword: "Mahā Sudassana"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -26,6 +26,6 @@ Mahā Sudassana. The Bodhisatta born as king of <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sudassana. Bodhisatta khi được sinh ra làm vua của Kusāvati. Ja.i.45; Dpv.iii.8; Mhv.ii.5; Mvu.i.348. Xem Mahā Sudassanasutta.
 
 ## Notes

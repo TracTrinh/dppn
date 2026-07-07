@@ -5,7 +5,7 @@ base_headword: "Koṇāgamana Buddha"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -80,6 +80,16 @@ In the Northern books (e.g., Divy.333; Mvu.i.114; Mvu.ii.265f, 300, 302, 304, 43
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koṇāgamana Buddha (Konāgamana Buddha). Vị thứ hai mươi ba trong danh sách hai mươi bốn vị Phật và là vị Phật thứ hai được sinh ra trong Bhaddakappa. Ngài được sinh ra trong Công viên Subhagavatī ở Sobhavatī, thủ đô của Vua Sobha, cha của ngài là vị Bà-la-môn Yaññadatta và mẹ của ngài là Uttarā. Ngài sống tại gia trong ba nghìn năm, trong ba cung điện, Tusita, Santusita và Santuṭṭha; người vợ chính của ngài là Rucigattā và con trai của họ là Satthavāha. Koṇāgamana xuất gia trên một con voi và thực hành khổ hạnh chỉ trong sáu tháng, vào cuối thời gian đó ngài được con gái của vị Bà-la-môn Aggisoma dâng cơm sữa và cỏ để làm chỗ ngồi bởi người giữ lúa mạch (*yavapālaka*) tên là Tinduka. Cây Bodhi của ngài là một cây Udumbara. Bài thuyết pháp đầu tiên của ngài được thuyết tại Migadāya gần Sudassananagara, dưới gốc một cây *Mahā Sāla*. Ngài chỉ tổ chức một hội chúng các đệ tử của mình, với số lượng ba mươi nghìn người. Cơ thể của ngài cao ba mươi cubit. Ngài qua đời tại Pabbatārāma ở tuổi ba mươi nghìn. Xá-lợi của ngài được phân tán. Những đệ tử chính của ngài là Bhīyya và Uttara trong số các tỳ-kheo, và Samuddā và Uttarā trong số các tỳ-kheo ni, người hầu cận thường xuyên của ngài là Sotthiya. Những người bảo trợ chính của ngài là Ugga và Somadeva trong số các nam cư sĩ, và Sīvalā và Sāmā trong số các nữ cư sĩ. Bồ-tát (Bodhisatta) khi đó là một *Khattiya* tên là Pabbata của Mithilā. Ngài đã tổ chức một buổi bố thí, nghe Đức Phật thuyết pháp và gia nhập Tăng đoàn. (DN.i.7; Bv.xxiv; Bv­a.213ff; Ja.i.42f; theo Jātaka thì cơ thể của ngài cao hai mươi cubit; Vin-a.i.190).
+
+Vị trưởng giả Ugga đã xây dựng cho Đức Phật một Saṅghārāma rộng nửa do-tuần (Ja.i.94).
+
+Vào ngày Đức Phật giáng sinh, một trận mưa vàng đã rơi trên khắp Jambudīpa, do đó ngài được gọi là Kaṇakāgamana, Koṇāgamana là một dạng viết sai của từ đó (Bv­a.213-14).
+
+Theo các Biên niên sử Tích Lan (Dpv.ii.67; xv.25, 44, 48; xvii.9, 17, 73; Mhv.xv.91-124), Koṇāgamana đã đến thăm Hòn đảo của họ (khi đó được biết đến là Varadīpa), cùng với ba mươi nghìn đệ tử, đã thọ nhận khu vườn Mahānoma tại Vaḍḍhamāna, do Vua Samiddha dâng cúng, và đã thuyết pháp. Vào lúc kết thúc bài thuyết pháp của ngài, ba mươi nghìn người đã chứng ngộ Chân lý. Theo mong muốn của Đức Phật, vị tỳ-kheo ni Kaṇṭakānandā (*v.l.* Kanakadattā) đã mang đến Tích Lan một nhánh của cây Bodhi. Đức Phật cũng đã thuyết pháp tại Ratanamāla, Sudassanamāla và Nāgamālaka và đã trao dây nịt của mình để dân chúng chiêm bái. Ngài để lại Mahā Sumba và Kaṇṭakānandā để chăm sóc những người mới quy y.
+
+Trong thời đại của Koṇāgamana, Núi Vepulla được biết đến là Vaṅkaka, và những người sống trên ngọn núi này được gọi là Rohitassā, tuổi thọ của họ là ba mươi nghìn năm (SN.ii.191). Koṇāgamana đã tổ chức lễ *uposatha* mỗi năm một lần (Dhp­a.ii.236).
+
+Trong các kinh sách Bắc tông (ví dụ: Divy.333; Mvu.i.114; Mvu.ii.265f, 300, 302, 304, 430; iii.240-7, 330), Koṇāgamana được gọi là Kaṇakamuni, Koṇākamuni, và Kaṇakaparvata. Một bảo tháp (*Thūpa*), được dựng lên tại nơi Koṇāgamana sinh ra, được cho là đã tồn tại cho đến thời của Asoka, người đã xây dựng lại nó với kích thước gấp đôi kích thước ban đầu và đã chiêm bái nó vào năm thứ hai mươi của triều đại ngài (Hultszch: *Inscriptions of Asoka*, p.165). Huyền Trang (Xuanzang) (Beal-Xuan, op.cit., ii.19) nói rằng ông đã nhìn thấy các bảo tháp (*Thūpas*) tại nơi sinh của Koṇāgamana và cũng tại nơi ngài gặp gỡ cha mình sau khi Giác ngộ (Awakening). Pháp Hiển (Faxian) (*Travels*, p.36) đã nhìn thấy các bảo tháp (*Thūpas*) tại địa điểm thứ hai và cũng tại nơi Đức Phật qua đời.
 
 ## Notes

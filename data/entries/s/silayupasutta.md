@@ -5,7 +5,7 @@ base_headword: "Silāyupasutta"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -29,6 +29,8 @@ The *Sutta* was preached as the result of a conversation between <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Silāyupasutta. Sāriputta nói với các tỳ-kheo rằng khi một tỳ-kheo đã hoàn toàn được giải thoát, các đối tượng, âm thanh, mùi hương, v.v., nằm trong tầm giác quan của vị ấy, không thể áp đảo được tâm vị ấy. Cũng như một cột đá dài mười cubit, một nửa được chôn dưới đất, không thể bị gió lay chuyển.
+
+*Sutta* này được thuyết ra như là kết quả của một cuộc trò chuyện giữa Sāriputta và Candikāputta về những lời dạy của Devadatta. AN.iv.402f.
 
 ## Notes

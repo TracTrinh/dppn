@@ -5,7 +5,7 @@ base_headword: "Mahā Paduma"
 disambiguator: "02"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -32,6 +32,6 @@ Mahā Paduma 02. A prince of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Paduma 02. Một vị hoàng tử của Kumuda *nagara*. Trưởng lão Soṇa – người nuôi lòng thù hận đối với Piyadassī Buddha, giống hệt như Devadatta đối với Gotama – đã thuyết phục Paduma giết cha mình, và nghĩ ra nhiều âm mưu khác nhau để sát hại Đức Phật, nhưng tất cả đều thất bại. Cuối cùng, ông ta sai con voi Doṇamukha của mình, đang say rượu thốt nốt, đến tấn công Đức Phật, tuy nhiên, Ngài đã khuất phục được con vật. Bv­a.174; cp. Ajātasattu.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sucarūdassana"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Sucarūdassana. Seventeen *kappas* ago there were eight kings of this name, prev
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sucarūdassana. Mười bảy *kappa* trước đây có tám vị vua mang tên này, là các tiền kiếp của Puṇṇamāsa Thera (Paccāgamanīya Thera). Thag­a.i.54; Ap.i.113.
 
 ## Notes

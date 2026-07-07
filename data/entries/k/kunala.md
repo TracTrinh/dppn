@@ -5,7 +5,7 @@ base_headword: "Kuṇālā"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kuṇālā. The name of a river (*mahānadī*) which flows out of the <span clas
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tên của một con sông (*mahānadī*) chảy ra từ Kuṇāladaha. Nó cạn khô khi, vào cuối của *kappa*, mặt trời thứ tư mọc lên. AN.iv.101.
 
 ## Notes

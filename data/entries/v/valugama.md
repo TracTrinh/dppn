@@ -5,7 +5,7 @@ base_headword: "Vālugāma"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -25,6 +25,6 @@ Vālugāma. A village in South India which <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vālugāma. Một ngôi làng ở Nam Ấn Độ đã bị Laṅkāpura tàn phá và xây dựng lại. Cv.lxxvi.286.
 
 ## Notes

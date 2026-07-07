@@ -5,7 +5,7 @@ base_headword: "Vamatthappakāsinī"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vamatthappakāsinī. The Commentary on the <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vamatthappakāsinī. Bản chú giải của Mahā Vaṁsa, theo truyền thống được cho là của một vị Trưởng lão tên Mahā Nāma biên soạn, và có lẽ được viết vào khoảng thế kỷ thứ chín. Chi tiết xem ấn bản PTS, Phần Giới thiệu (Introd).
 
 ## Notes

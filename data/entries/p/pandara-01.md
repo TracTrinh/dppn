@@ -5,7 +5,7 @@ base_headword: "Paṇḍara"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Paṇḍara 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇḍara 01. Paṇḍaraka. Một vị vua Nāga. Xem Paṇḍarajātaka (Ja 518).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahilādīpa"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mahilādīpa. An island off the coast of India where the women, who were exiled 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahilādīpa. Một hòn đảo ngoài khơi bờ biển của Ấn Độ nơi mà những người phụ nữ, những người đã bị lưu đày cùng với Vijaya, đã đặt chân lên. Mhv.vi.45.
 
 ## Notes

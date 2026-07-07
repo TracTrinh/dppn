@@ -5,7 +5,7 @@ base_headword: "Parakkama"
 disambiguator: "03"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -28,6 +28,6 @@ Parakkama 03. The general and minister of Queen <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parakkama 03. Tướng quân và bộ trưởng của Nữ hoàng Līlāvatī. Ông thuộc dòng họ Kāḷanāgara và là người đã hỗ trợ cho sự lên ngôi của nữ hoàng. Ông dường như đã bị sát hại bởi vị vua Paṇḍu Parakkama (4) xem bên dưới (Cv.lxxx.49, 52). Parakkama này là một người bảo trợ cho học thuật, và tác phẩm Dāṭhāvaṁsa (*q.v.*) được viết theo lời thỉnh cầu của ông.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Verañja"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -28,6 +28,6 @@ Verañja. A Brahmin. See <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Verañja. Một vị Bà-la-môn. Xem Verañjā. Theo Buddhaghosa, tên thật của ông là Udaya, nhưng ông được gọi là Verañja vì ông sinh ra và sống tại Verañjā. Vin-a.i.111.
 
 ## Notes

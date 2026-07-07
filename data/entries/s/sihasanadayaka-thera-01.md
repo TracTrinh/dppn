@@ -5,7 +5,7 @@ base_headword: "Sīhāsanadāyaka Thera"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -26,6 +26,6 @@ Sīhāsanadāyaka Thera 01. An *Arahant*. He erected a throne in honour of <span
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhāsanadāyaka Thera 01. Một *Arahant*. Ông đã dựng một chiếc ngai để tôn vinh Padumuttara Buddha và dâng cúng lên đó. Ông từng tám lần làm vua dưới tên Sīluccaya. Ap.i.188f.
 
 ## Notes

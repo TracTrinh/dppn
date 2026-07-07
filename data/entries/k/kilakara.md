@@ -5,7 +5,7 @@ base_headword: "Kīḷākāra"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,6 @@ Kīḷākāra. One of the gardens laid out by <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kīḷākāra. Một trong những khu vườn do Parakkamabāhu I thiết lập (Cv.lxxix.12). Có một cống xả của Parakkamasamudda ở cuối khu vườn, và từ cống xả này rẽ ra dòng kênh Salaḷavatī (Cv.lxxix.43).
 
 ## Notes

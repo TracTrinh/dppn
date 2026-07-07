@@ -5,7 +5,7 @@ base_headword: "Mahā Tissa"
 disambiguator: "16"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Tissa 16. An incumbent of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Tissa 16. Một vị trú trì của Cittalapabbata. Ngài đã bị quấy rầy bởi những ý nghĩ đầy dục vọng và đã hỏi ý kiến vị thầy của mình. Vị Trưởng lão đã yêu cầu ngài chuẩn bị một căn phòng cho ông, việc mà ngài đã làm với sự cẩn thận vô cùng. Sau đó vị Trưởng lão yêu cầu ngài hãy ở trong đó một đêm, vì ngài đã chịu rất nhiều phiền toái vì nó. Đêm đó Mahā Tissa đã nỗ lực tinh tấn và trở thành một *Arahant*. AN­a.i.26.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mahā Tissa"
 disambiguator: "13"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -28,6 +28,6 @@ Mahā Tissa 13. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Tissa 13. Mahā Tissa Thera. Một vị trú trì của Mahā Vihāra. Ngài đã bị trục xuất vì lý do ngài có sự giao thiệp với các gia đình. Đệ tử của ngài là Bahalamassutissa do đó đã ly khai khỏi Mahā Vihāra và thành lập một giáo phái mới ở Abhayagiri. Mhv.xxxiii.95ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sumanā"
 disambiguator: "04"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Sumanā 04. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sumanā 04. Vợ của Sumana (14) và là mẹ của Nigrodha *Sāmaṇera*. Mhv.v.41.
 
 ## Notes

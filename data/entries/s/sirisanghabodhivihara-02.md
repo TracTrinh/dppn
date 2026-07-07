@@ -5,7 +5,7 @@ base_headword: "Sirisaṅghabodhivihāra"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -27,6 +27,6 @@ Sirisaṅghabodhivihāra 02. A *pariveṇa* built by <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirisaṅghabodhivihāra 02. Một pariveṇa do Aggabodhi I xây dựng (Cv.xlii.11). Māṇavamma đã xây dựng Siripāsāda tại đó. Cv.xlvii.64.
 
 ## Notes

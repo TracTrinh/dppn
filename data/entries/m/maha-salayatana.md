@@ -5,7 +5,7 @@ base_headword: "Mahā Saḷāyatana"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -25,6 +25,6 @@ Mahā Saḷāyatana, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Saḷāyatana, Mahisaḷāyatanikasutta. Đức Phật hướng dẫn các tỳ-kheo về sự cần thiết của việc đạt được loại kiến thức đúng đắn về các căn, các trần của chúng, sự nhận thức của chúng, sự xúc chạm của chúng và những cảm thọ phát sinh từ đó. Kiến thức như vậy cho phép một vị tỳ-kheo đi qua Bát Thánh đạo đến sự phát triển hoàn thiện của nó và đến việc chứng ngộ kiến thức siêu việt, đó là sự hiểu biết và sự giải thoát. MN.iii.287-90.
 
 ## Notes

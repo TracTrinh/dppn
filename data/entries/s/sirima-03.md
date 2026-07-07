@@ -5,7 +5,7 @@ base_headword: "Sirimā"
 disambiguator: "03"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sirimā 03. Mother of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirimā 03. Mẹ của Phussa Buddha và vợ của Jayasena. Bv.xix.14; Ja.i.41.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sāvajjasutta"
 disambiguator: "03"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -24,6 +24,6 @@ Sāvajjasutta 03. The four kinds of blameworthy actions of body, speech, thought
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sāvajjasutta 03. Bốn loại hành động đáng chê trách của thân, khẩu, ý và kiến, cùng những điều trái ngược với chúng. AN.ii.237.
 
 ## Notes

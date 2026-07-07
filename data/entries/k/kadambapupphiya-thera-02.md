@@ -5,7 +5,7 @@ base_headword: "Kadambapupphiya Thera"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -24,6 +24,6 @@ Kadambapupphiya Thera 02. An Arahant. Ninety-one *kappas* ago he saw <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kadambapupphiya Thera 02. Một vị *Arahant*. Chín mươi mốt *kappa* trước, ông đã nhìn thấy Đức Phật Vipassī đi ngang qua nhà mình và đã dâng cúng cho Ngài một bông hoa *kadamba* (Ap.i.287).
 
 ## Notes

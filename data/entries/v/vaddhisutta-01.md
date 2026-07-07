@@ -5,7 +5,7 @@ base_headword: "Vaḍḍhīsutta"
 disambiguator: "01"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -24,6 +24,6 @@ Vaḍḍhīsutta 01. An Ariyan woman disciple increases in five things: faith, v
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaḍḍhīsutta 01. Một nữ đệ tử bậc Thánh tăng trưởng trong năm điều: đức tin, giới hạnh, học vấn, bố thí và trí tuệ. SN.iv.250 = AN.iii.80.
 
 ## Notes

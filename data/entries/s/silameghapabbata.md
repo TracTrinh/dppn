@@ -5,7 +5,7 @@ base_headword: "Silāmeghapabbata"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Silāmeghapabbata. A building erected by <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Silāmeghapabbata. Một công trình được xây dựng bởi Kassapa V. trong Abhayagirivihāra. Cv.lii.58; xem Cv.Trs.i.168, n.1.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vedisadevī"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -37,6 +37,6 @@ Vedisadevī. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vedisadevī. Vợ của Asoka. Bà là con gái của *Deva*, một trưởng giả ở Vedisagiri, và những người con của bà là Mahinda và Saṅghamittā. Mhv­ṭ. 324. Bà có tám người anh em – Bodhigutta, Sumitta, Candagutta, Devagutta, Dhammagutta, Suriyagutta, Gotama và Jutindhara – những người đã hộ tống cây bodhi đến Tích Lan và được biết đến như là các hoàng tử Bodhidhāra. Mbv.165f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Khemaṅkara"
 disambiguator: "02"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -29,6 +29,6 @@ Khemaṅkara 02. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khemaṅkara 02. *v.l.* Khemākara. Vua xứ Khema hay Khemavatī, nơi Đức Phật Kakusandha đản sanh. *Purohita* của ngài là Aggidatta, cha của Kakusandha (Bv.xxii.13; Bv­a.209; Divy.242). Ngài đôi khi cũng được gọi là Khema (Mhv­ṭ.351; DN.ii.7).
 
 ## Notes

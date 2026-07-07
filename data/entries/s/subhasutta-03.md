@@ -5,7 +5,7 @@ base_headword: "Subhasutta"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Subhasutta 03. According to <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subhasutta 03. Theo Buddhaghosa (MN­a.ii.962, 967), Subhasutta là tên gọi thực sự cho bài Cūḷa Kammavibhaṅgasutta (*q.v.*).
 
 ## Notes

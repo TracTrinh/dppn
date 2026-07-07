@@ -5,7 +5,7 @@ base_headword: "Taṇhāvagga"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -25,6 +25,6 @@ Taṇhāvagga. The twenty-fourth chapter of the <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Taṇhāvagga. Phẩm thứ hai mươi tư của kinh Dhammapada.
 
 ## Notes

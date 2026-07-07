@@ -5,7 +5,7 @@ base_headword: "Kakkarapatta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kakkarapatta. A township of the <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kakkarapatta. Một thị trấn của người Koḷiyan. Trong lúc Đức Phật đang lưu trú ở đó thì người Koḷiyan tên Dīghajānu đã đến gặp Ngài. AN.iv.281.
 
 ## Notes

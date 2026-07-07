@@ -5,7 +5,7 @@ base_headword: "Uttama"
 disambiguator: "01"
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -23,6 +23,6 @@ Uttama 01. Author of the *Bālāvatāra­ṭīkā* and the *Liṅgatthavivaraṇ
 
 ## Vietnamese translation
 
-Chưa dịch.
+Uttama 01. Tác giả của Bālāvatāra­ṭīkā và Liṅgatthavivaraṇa­ṭīkā. Ông là người gốc Pagan. Gv.63, 73; xem thêm Bode, 22 và n.1.
 
 ## Notes

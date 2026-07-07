@@ -5,7 +5,7 @@ base_headword: "Valliggāma"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -31,6 +31,8 @@ Later, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Valliggāma. Một ngôi làng ở Nam Tích Lan (Ceylon). Dưới triều đại nữ hoàng Kalyāṇavatī (1202-8), quan nhiếp chính Āyasmanta phái quan *Ādhikārī* là Deva đến ngôi làng này, nơi ông cho xây dựng một *vihāra* (Cv.lxxx.38).
+
+Về sau, vua Parakkamabāhu IV xây dựng Parakkamabāhu *pāsāda* gắn liền với *vihāra* này và ban tặng ngôi làng Sāligiri để bảo trì nó (Cv.xc.96).
 
 ## Notes

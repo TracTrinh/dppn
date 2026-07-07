@@ -5,7 +5,7 @@ base_headword: "Seṭṭhiputtapetavatthu"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Seṭṭhiputtapetavatthu. The story of four *seṭṭhiputtas* of <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Seṭṭhiputtapetavatthu. Câu chuyện về bốn *seṭṭhiputta* ở Sāvatthī (Pv.iv.15; Pv-a.279f). Xem Lohakumbhijātaka (Ja 314).
 
 ## Notes

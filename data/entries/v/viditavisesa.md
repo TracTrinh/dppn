@@ -5,7 +5,7 @@ base_headword: "Viditavisesa"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -25,6 +25,6 @@ Viditavisesa. The name under which <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Viditavisesa. Cái tên mà Ajātasattu sẽ mang khi trở thành một vị Pacceka Buddha. DN­a.i.238.
 
 ## Notes

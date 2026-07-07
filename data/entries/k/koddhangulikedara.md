@@ -5,7 +5,7 @@ base_headword: "Koddhaṅgulikedāra"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -27,6 +27,6 @@ Koddhaṅgulikedāra. A place near <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koddhaṅgulikedāra. Một nơi gần Nālanda ở Tích Lan, được đề cập trong bản ghi chép về các chiến dịch của Parakkamabāhu I chống lại Gajabāhu. Cv.lxx.221.
 
 ## Notes

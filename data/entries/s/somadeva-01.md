@@ -5,7 +5,7 @@ base_headword: "Somadeva"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -27,6 +27,6 @@ Somadeva 01. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Somadeva 01. *v.l.* Hemadeva. Chín *kappa* trước có tám mươi lăm vị vua mang tên này, là những tiền kiếp của Ummāpupphiya Thera (Cakkhupāla). Ap.i.172; Thag­a.i.196.
 
 ## Notes

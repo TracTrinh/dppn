@@ -5,7 +5,7 @@ base_headword: "Sirīsamālaka"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -29,6 +29,6 @@ Sirīsamālaka. A sacred spot in <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirīsamālaka. Một địa điểm linh thiêng ở Anurādhapura, nơi Kakusandha Buddha đã thuyết pháp trong chuyến viếng thăm Tích Lan của Ngài (Mhv.xv.84). Nó nằm về phía nam của Nāgamalāka (Mhv.xv.118) và phía bắc của cây Bodhi, gần cetiya Silāsobbhakaṇḍaka (Mhv­ṭ. 351). Vua Thūlatthana đã xây một Thūpa tại địa điểm này (Mhv­ṭ. 355).
 
 ## Notes

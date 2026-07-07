@@ -5,7 +5,7 @@ base_headword: "Khadiravaniya"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -24,6 +24,6 @@ Khadiravaniya. The name of the Bodhisatta when he was once born as a bird in a *
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khadiravaniya. Tên gọi của Bodhisatta khi ngài có lần sinh ra làm một con chim trong một khu rừng khadira. Xem Kandagalakajātaka (Ja 210). Ja.ii.162f.
 
 ## Notes

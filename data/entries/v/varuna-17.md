@@ -5,7 +5,7 @@ base_headword: "Varuṇa"
 disambiguator: "17"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -30,6 +30,6 @@ Varuṇa 17. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Varuṇa 17. Một vị Long vương (*Nāga king*). Vợ của ông là Vimalā và con gái của họ là Irandatī. Để biết chi tiết, xem Vidhurapaṇḍitajātaka (Ja 545). Varuṇa được đồng nhất với Sāriputta. Ja.vi.329.
 
 ## Notes

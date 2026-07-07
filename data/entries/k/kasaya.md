@@ -5,7 +5,7 @@ base_headword: "Kāsaya"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -26,6 +26,6 @@ Kāsaya. Inhabitant of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāsaya. Cư dân của Kāsi (Ja.ii.402). Đối chiếu Kāsiyo.
 
 ## Notes

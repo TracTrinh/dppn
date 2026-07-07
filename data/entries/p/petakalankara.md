@@ -5,7 +5,7 @@ base_headword: "Peṭakālaṅkara"
 disambiguator: ""
 letter: "P"
 section: "Pi-Po."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/050.html"
@@ -26,6 +26,6 @@ Peṭakālaṅkara. A *ṭīkā* by <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Peṭakālaṅkara. Một bản *ṭīkā* bởi Ñāṇābhivaṁsa viết về Nettippakaraṇa. Sās.134.
 
 ## Notes

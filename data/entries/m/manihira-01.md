@@ -5,7 +5,7 @@ base_headword: "Maṇihīra"
 disambiguator: "01"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Maṇihīra 01. A *vihāra* built by <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇihīra 01. Một *vihāra* do Mahā Sena xây dựng. (Mhv.xxxvil.40.)
 
 ## Notes

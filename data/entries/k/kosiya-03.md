@@ -5,7 +5,7 @@ base_headword: "Kosiya"
 disambiguator: "03"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -32,6 +32,8 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kosiya 03. Kosiya Thera. Một vị Arahant. Ngài thuộc một gia đình Bà-la-môn ở Magadha và được gọi bằng tên *gotta* của ngài. Ngài thường xuyên nghe Sāriputta thuyết pháp và, sau khi gia nhập Tăng đoàn, ngài đã đắc quả vị Arahant. Ngài từng là người gác cổng của Bandhumatī và vào thời của Vipassī Buddha, ngài đã dâng cúng cho Đức Phật một khúc mía. (Thag.370-4; Thag­a.i.431f).
+
+Ngài có lẽ cũng chính là Ucchukaṇḍika trong Apadāna. Ap.ii.393.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kāḷanadī"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -26,6 +26,6 @@ Kāḷanadī. A river in Ceylon, the present Kalugaṅga. <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāḷanadī. Một con sông ở Tích Lan, hiện nay là Kalugaṅga. Devapaṭirāja đã xây dựng qua con sông một cây cầu dài tám mươi sáu cubit và đã bố trí một vườn dừa từ con sông cho đến Bhīmatitthavihāra. Cv.xlvi.40, 44.
 
 ## Notes

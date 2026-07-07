@@ -5,7 +5,7 @@ base_headword: "Khamāsutta"
 disambiguator: "02"
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -24,6 +24,6 @@ Khamāsutta 02. Similar to the above, but the practice of the *paṭipadā* is d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khamāsutta 02. Tương tự như bài trên, nhưng việc thực hành paṭipadā được minh họa theo một cách khác. AN.ii.153f.
 
 ## Notes

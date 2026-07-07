@@ -5,7 +5,7 @@ base_headword: "Sirīsavatthu"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -31,6 +31,6 @@ Sirīsavatthu. A city of the <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirīsavatthu. Một thành phố của các Yakkha ở Tích Lan (Tambapaṇṇidīpa) (xem Valāhassajātaka (Ja 196); cf. Mhv.vii.32). Theo Mahā Vaṁsaṭīkā (Mhv­ṭ. 259), vào thời điểm Vijaya đến Tích Lan, vị Yakkha đứng đầu thành phố này là Mahā Kāḷasena. Jutindhara là tên của một Yakkha khác sống ở đó. Mhv­ṭ. 289.
 
 ## Notes

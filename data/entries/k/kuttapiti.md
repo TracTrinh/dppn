@@ -5,7 +5,7 @@ base_headword: "Kuṭṭapiṭi"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kuṭṭapiṭi. A large village given by <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một ngôi làng lớn được Kittisirirājasīha trao tặng để duy trì Dấu Chân thiêng liêng ở Samaṇakūṭa. Cv.c.225.
 
 ## Notes

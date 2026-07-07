@@ -5,7 +5,7 @@ base_headword: "Parakkamasamudda"
 disambiguator: "01"
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -25,6 +25,6 @@ Parakkamasamudda 01. A tank built by <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parakkamasamudda 01. Một hồ chứa nước do Parakkamabāhu I xây dựng, bằng cách mở rộng Paṇḍavāpī. Cv.lxviii.40.
 
 ## Notes

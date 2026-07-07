@@ -5,7 +5,7 @@ base_headword: "Laṅkāvihāra"
 disambiguator: ""
 letter: "L"
 section: "L."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/063.html"
@@ -28,6 +28,6 @@ Laṅkāvihāra. A monastery near <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Laṅkāvihāra. Một tu viện gần Mahā Gāma; chính ở đó Kākavaṇṇatissa đã tìm thấy Vihāradevī khi bà từ biển đổ bộ lên (Mhv.xxii.22). Nhưng đây có thể là cách đọc sai. Xem Mhv­ṭ. 432, nơi địa điểm được gọi là Tolaka *vihāra*.
 
 ## Notes

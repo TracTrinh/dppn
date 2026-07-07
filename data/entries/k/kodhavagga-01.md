@@ -5,7 +5,7 @@ base_headword: "Kodhavagga"
 disambiguator: "01"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -24,6 +24,6 @@ Kodhavagga 01. The sixteenth section of the *Dukanipāta* of the <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kodhavagga 01. Phẩm thứ mười sáu của *Dukanipāta* thuộc Aṅguttaranikāya. AN.i.95-8.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Vedehiputta"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -36,6 +36,10 @@ According to the Tibetan Dulvā (Rockhill: *Life of the Buddha*, 63f), <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vedehiputta. Một biệt hiệu thường xuyên được sử dụng liên quan đến Ajātasattu. Buddhaghosa giải thích điều này bằng cách nói rằng Videhī ở đây có nghĩa là một người phụ nữ khôn ngoan chứ không phải phu nhân Videha, bởi vì mẹ của Ajātasattu là con gái, không phải của một vị vua nước Videha, mà là của một vị vua nước Kosala (e.g., Ja.iii.121; iv.342; bà được gọi là Kosaladevī, e.g., Ja.ii.403) *Vedehiputto ti, vedehī ti paṇḍitā dhivacanaṁ etaṁ; paṇḍititthiyā putto ti attho* (SN­a.i.120); cf. DN­a.i.139.
+
+Theo Nirayāvalī Sūtra, (Jacobi, *Jaina Sūtras*, SBE.xxii. Introd., p.xiii) trong số những người vợ của Bimbisāra, có Callanā, con gái của Ceṭaka, một vị *rājā* của Vaiśāli, người có chị gái là Triśālā là mẹ của Mahā Vīra. Bà còn được gọi là Śrībhadrā.
+
+Theo Dulvā của Tây Tạng (Rockhill: *Life of the Buddha*, 63f), mẹ của Ajātasattu là Vāsavī, con gái của Siṁha xứ Vaiśāli. Người ta đã tiên tri rằng con trai của Vāsavī sẽ giết cha mình. Cf. Vedehikā, Vedehamuni.
 
 ## Notes

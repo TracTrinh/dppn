@@ -5,7 +5,7 @@ base_headword: "Vibhaṅgasutta"
 disambiguator: "01"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vibhaṅgasutta 01. A detailed analysis of the causal law. SN.ii.2f.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vibhaṅgasutta 01. Một sự phân tích chi tiết về quy luật nhân quả. SN.ii.2f.
 
 ## Notes

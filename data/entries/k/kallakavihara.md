@@ -5,7 +5,7 @@ base_headword: "Kallakavihāra"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -28,6 +28,6 @@ Kallakavihāra. A monastery in Ceylon, near <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kallakavihāra. Một tu viện ở Tích Lan, gần Bhokkantagāma. Tại đó, Sumanā, vợ của Lakuṇṭaka Atimbara, đã nghe bài thuyết giảng về Āsīvisopamasutta và đã trở thành một *Arahant*. Dhp­a.iv.51.
 
 ## Notes

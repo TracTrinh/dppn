@@ -5,7 +5,7 @@ base_headword: "Varaṇa"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -27,6 +27,6 @@ Varaṇa. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Varaṇa. Một vị Cakkavatti của bốn mươi mốt *kappa* trước, là tiền kiếp của Kusumāsaniya (Suyāma) Thera. Ap.i.162; Thag­a.i.171.
 
 ## Notes

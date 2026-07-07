@@ -5,7 +5,7 @@ base_headword: "Vaṭṭakajātaka"
 disambiguator: "03"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -27,6 +27,8 @@ The story was related in reference to a greedy monk who is identified with the c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vaṭṭakajātaka 03. (Ja 394). Bodhisatta từng là một con chim cút rừng sống nhờ vào cỏ dại và các loại hạt. Một con quạ tham lam ở xứ Benares, sống trong rừng, đã nhìn thấy con chim cút và nghĩ rằng tình trạng tốt của cơ thể nó là do thức ăn ngon. Con chim cút, nhìn thấy con quạ, đã nói chuyện với nó, và sau đó con quạ phát hiện ra rằng con chim cút có một cơ thể đẹp không phải vì nó ăn thức ăn ngon, mà bởi vì nó có sự mãn nguyện trong tâm trí và không có sự sợ hãi.
+
+Câu chuyện được kể liên quan đến một vị tu sĩ tham lam được đồng nhất với con quạ. Ja.iii.312f.
 
 ## Notes

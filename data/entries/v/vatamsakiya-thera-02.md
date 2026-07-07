@@ -5,7 +5,7 @@ base_headword: "Vataṁsakiya Thera"
 disambiguator: "02"
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vataṁsakiya Thera 02. An *Arahant*. Thirty-one *kappas* ago, while riding on a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị *Arahant*. Ba mươi mốt *kappa* trước, khi đang cưỡi một con voi, ngài đã nhìn thấy Sikhī Buddha và cúng dường cho Ngài một bông hoa *vataṁsaka*. Hai mươi bảy *kappa* trước, ngài trở thành vua dưới tên gọi Mahā Patāpa. Ap.i.216.
 
 ## Notes

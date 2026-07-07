@@ -5,7 +5,7 @@ base_headword: "Khaṇḍarāja"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -25,6 +25,6 @@ Khaṇḍarāja. A monastery in Ceylon, built by <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khaṇḍarāja. Một tu viện ở Tích Lan, được xây dựng bởi Upatissa II. Cv.xxxvii.186.
 
 ## Notes

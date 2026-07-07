@@ -5,7 +5,7 @@ base_headword: "Sikhaṇḍi"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Sikhaṇḍi. A *Khattiya* of thirty-one *kappas* ago, brother of <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sikhaṇḍi. Một *Khattiya* cách đây ba mươi mốt *kappa*, anh/em trai của Sikhī Buddha. Khi Đức Phật viên tịch, ông đã dựng một *Thūpa* trên di hài của Ngài. Netti, p.142.
 
 ## Notes

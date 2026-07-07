@@ -5,7 +5,7 @@ base_headword: "Kimbila"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kimbila 02. A *seṭṭhiputta* of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kimbila 02. Một *seṭṭhiputta* của Kimbilā người sau này trở thành một tỳ-kheo. Xem Kimbila (1).
 
 ## Notes

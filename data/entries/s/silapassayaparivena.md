@@ -5,7 +5,7 @@ base_headword: "Silāpassayapariveṇa"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -26,6 +26,6 @@ Silāpassayapariveṇa. A building in the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Silāpassayapariveṇa. Một công trình trong Tissārāma. Chính tại đó vị *Sāmaṇera*, người trong kiếp này trở thành Duṭṭhagāmaṇī, đã qua đời. Mhv.xxii.28.
 
 ## Notes

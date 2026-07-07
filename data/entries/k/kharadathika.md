@@ -5,7 +5,7 @@ base_headword: "Kharadāṭhika"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -27,6 +27,6 @@ Kharadāṭhika. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kharadāṭhika. Một Yakkha. Bodhisatta, người đã trở thành Đức Phật Maṅgala trong một kiếp sau này, đã từ bỏ vương quốc của mình và sống như một đạo sĩ trong rừng cùng với vợ con. Yakkha này, khi nghe nói về sự hào phóng của Bodhisatta, đã đến gặp ngài, xin hai người con của ngài, và khi được giao cho chúng, hắn đã ăn thịt chúng ngay trước mắt cha của chúng. Ngay cả khi máu chảy ra từ miệng Yakkha, Bodhisatta vẫn không hề lay chuyển, và ước nguyện rằng trong tương lai sẽ có những tia sáng phát ra từ chính cơ thể ngài, với màu sắc giống như những dòng máu. Nhờ vào ước nguyện này, hào quang của Maṅgala luôn lan tỏa khắp mười ngàn thế giới, trong khi hào quang của các vị Phật khác thường chỉ lan tỏa một sải tay từ cơ thể của các ngài. Ja.i.31; Bv-a.116f.
 
 ## Notes

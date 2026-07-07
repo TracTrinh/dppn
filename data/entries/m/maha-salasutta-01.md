@@ -5,7 +5,7 @@ base_headword: "Mahā Sālasutta"
 disambiguator: "01"
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/058.html"
@@ -24,6 +24,6 @@ Mahā Sālasutta 01. A rich Brahmin asks the Buddha why there is an apparent dec
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Sālasutta 01. Một Bà-la-môn giàu có hỏi Đức Phật tại sao dường như có sự sụt giảm về số lượng con người. Đức Phật trả lời rằng đó là vì thế gian đang bùng cháy với những dục vọng phi pháp, những tà kiến, và những khát khao đồi bại. Không có lượng mưa hợp lý, mùa màng thất bát, và con người chết đi một cách dễ dàng. AN.i.159f.
 
 ## Notes

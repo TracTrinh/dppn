@@ -5,7 +5,7 @@ base_headword: "Mahā Tissagāma"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -25,6 +25,6 @@ Mahā Tissagāma. A village at the foot of <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Tissagāma. Một ngôi làng ở dưới chân núi Laṅkāpabbata. Ras.ii.159
 
 ## Notes

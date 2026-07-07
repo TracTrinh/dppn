@@ -5,7 +5,7 @@ base_headword: "Piṇḍolyasutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -28,6 +28,6 @@ Piṇḍolyasutta. The Buddha retires for his siesta to the <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Piṇḍolyasutta. Đức Phật lui tới Mahā Vana, gần Kapilavatthu, để nghỉ trưa, và ý nghĩ xuất hiện trong Ngài rằng Ngài nên quở trách các vị tỳ-kheo và dịu dàng chăm sóc họ vì một số người trong số họ chỉ mới gia nhập Tăng đoàn gần đây. Phạm thiên Sahampati xuất hiện trước Ngài và xác nhận ý định của Ngài. Sau đó Đức Phật đi đến Nigrodhārāma, gọi các vị tỳ-kheo đến gặp Ngài từng người hoặc từng nhóm hai người, và nói chuyện với họ. Cuộc sống của một sa-môn là sự kêu gọi thấp hèn nhất để được gọi là một “người nhặt nhạnh đồ thừa thãi”. Những vị gia chủ bước vào cuộc sống này chỉ với mục đích như một phương tiện để thoát khỏi khổ đau. Người xuất gia mà lại không hoàn thiện được cuộc sống của một vị sa-môn, thì giống như một thanh củi từ giàn hỏa thiêu, bị cháy rụi ở hai đầu và dính đầy uế trược ở giữa. Vì vậy các vị tỳ-kheo nên xa lánh những ý nghĩ dục, sân và hại, và thực hành bốn niệm xứ (*satipaṭṭhāna*). Nhờ đó họ sẽ đạt được sự giải thoát. SN.iii.91ff.
 
 ## Notes

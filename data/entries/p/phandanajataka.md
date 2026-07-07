@@ -5,7 +5,7 @@ base_headword: "Phandanajātaka"
 disambiguator: ""
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -28,6 +28,8 @@ The carpenter, adopting both suggestions, killed the lion and cut down the tree 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phandanajātaka (Ja 475). Một con sư tử có thói quen đi đến nằm dưới một cây *phandana*, nhưng một ngày nọ một nhánh cây rơi xuống vai nó và làm nó bị thương. Từ đó con sư tử sinh lòng thù hận cái cây, và khi một người thợ mộc đến tìm gỗ làm bánh xe bò, nó đề nghị anh ta nên đốn đúng cái cây đó vì loại gỗ đó sẽ rất tuyệt vời cho mục đích của anh ta. Thọ thần (deity của cây), phát hiện ra điều này, liền xuất hiện trước mặt người thợ mộc và nói với anh ta rằng nếu anh ta đặt bốn inch da của một con sư tử lên vành bánh xe của mình, giá trị của nó sẽ được nâng cao lên rất nhiều.
+
+Người thợ mộc, làm theo cả hai đề nghị, đã giết con sư tử và đốn hạ cái cây (Ja.iv.207ff). Đây là một trong những câu chuyện được Đức Phật kể trong cuộc tranh cãi giữa những người Sākyan và người Koḷiyan. Snp­a.i.358.
 
 ## Notes

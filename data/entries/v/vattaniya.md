@@ -5,7 +5,7 @@ base_headword: "Vattaniya"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -35,6 +35,8 @@ Vattaniya. A hermitage (*senāsana*) where lived <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một nơi ẩn tu (*senāsana*) nơi sinh sống của vị thầy của Rohaṇa Nāgasena, người đã truyền giới cho ngài, và Assagutta, người mà ngài đã cùng trải qua một mùa *vassa* để rèn luyện bản thân trong nghệ thuật tranh luận. Mil. 10, 12, 14; từ bối cảnh, dường như hai nơi cư trú này không đồng nhất với nhau, mà nằm cách xa nhau. Phải chăng *senāsana* Vattaniya là một danh từ chung chứ không phải là một tên riêng?
+
+Assagutta, người đã truyền giới cho Ājīvaka Janasāna (*q.v.*), cũng được cho là đã “*Vattaniyasenāsane*.” (Mhv­ṭ. 192). Tại buổi lễ đặt nền móng cho Mahā Thūpa, Thera Uttara đã đến từ “*senāsana* Vattaniya” ở Viñjhāṭavī cùng với sáu mươi nghìn người khác (Mhv.xxix.40). Cả Visuddhimagga và Atthasālinī (Vsm.430; Dhs-a.419) đều nhắc đến một vị Thera tên là Assagutta, hiển nhiên là một người khách, người đã nhìn thấy các tu sĩ tại *senāsana* Vattaniya ăn thức ăn khô, đã phát nguyện “Mong sao mỗi ngày trước bữa ăn, hồ nước này sẽ mang hương vị của sữa đông.” Từ ngày đó nước trong hồ có vị của sữa đông trước bữa ăn và trở lại thành nước tự nhiên sau bữa ăn.
 
 ## Notes

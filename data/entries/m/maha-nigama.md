@@ -5,7 +5,7 @@ base_headword: "Mahā Nigama"
 disambiguator: ""
 letter: "M"
 section: "Mahā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/057.html"
@@ -26,6 +26,6 @@ Mahā Nigama. A minister of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahā Nigama. Một vị đại thần của Mahā Nāma; ông đã xây dựng *pariveṇa* Ganthakāra. PLC. 96.
 
 ## Notes

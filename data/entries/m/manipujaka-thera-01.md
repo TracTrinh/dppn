@@ -5,7 +5,7 @@ base_headword: "Maṇipūjaka Thera"
 disambiguator: "01"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Maṇipūjaka Thera 01. An *Arahant*. Ninety-four *kappas* ago he was an ascetic
 
 ## Vietnamese translation
 
-Chưa dịch.
+Maṇipūjaka Thera 01. Một Arahant. Chín mươi bốn kappa trước ông là một đạo sĩ khổ hạnh và sau khi gặp Đức Phật (? Padumuttara), đã dâng cúng Ngài một tòa ngồi bằng ngọc. Mười hai kappa trước ông tám lần làm vua dưới tên Sataraṁsī. Ap.i.190.
 
 ## Notes

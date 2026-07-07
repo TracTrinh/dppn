@@ -5,7 +5,7 @@ base_headword: "Sīvaka"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -28,6 +28,6 @@ Sīvaka 01. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīvaka 01. Một Yakkha đã giúp Anāthapiṇḍika tìm ra Đức Phật tại Sītavana (Vin.ii.155f; SN.i.211). Ông được nhắc đến trong số các Yakkha hàng đầu được các đệ tử của Đức Phật khấn cầu khi cần thiết (DN.iii.205).
 
 ## Notes

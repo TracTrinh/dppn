@@ -5,7 +5,7 @@ base_headword: "Paramatta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Paramatta. A *Brahma* who was present at the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paramatta. Một vị Phạm thiên (*Brahma*) có mặt tại Mahā Samaya. DN.ii.260.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Paṇṇikajātaka"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -26,6 +26,6 @@ Paṇṇikajātaka (Ja 102). A greengrocer of <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇṇikajātaka (Ja 102). Một người bán rau ở Benares có một cô con gái xinh đẹp và luôn tươi cười. Trước khi đồng ý gả cô đi, người cha muốn thử thách đức hạnh của cô, để cô không mang lại sự ô nhục cho danh dự của mình. Ông đưa cô vào rừng và thì thầm những lời yêu đương với cô. Khi cô bày tỏ sự kinh hoàng, ông đã tin chắc vào sự trong trắng của cô và đồng ý cho đám cưới. Bodhisatta là một vị Thọ thần và đã chứng kiến sự việc này. Câu chuyện được kể lại cho một người bán rau ở Sāvatthī, người cũng đã đối xử với con gái mình theo cách tương tự. Sau đó ông đến thăm Đức Phật và kể cho Ngài nghe câu chuyện. Các nhân vật đều giống nhau trong cả hai trường hợp. Ja.i.411f.
 
 ## Notes

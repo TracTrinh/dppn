@@ -5,7 +5,7 @@ base_headword: "Kūṭavāṇijajātaka"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,8 @@ The introductory story is similar to that of No.1 above.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một người dân làng từng gửi năm trăm lưỡi cày cho một người bạn ở thị trấn, nhưng khi ông đến đòi lại chúng, ông được báo rằng chúng đã bị chuột ăn, và được cho xem phân mà bầy chuột để lại. Một thời gian sau người dân làng đưa con trai của người bạn đi tắm, giấu cậu bé trong một ngôi nhà, và báo cáo với người thị trấn rằng cậu bé đã bị một con diều hâu quắp đi. Khi ông ta bị đưa ra trước quan tòa, người chính là Bodhisatta, ông ta đã phản đối rằng ở một nơi mà chuột ăn lưỡi cày thì diều hâu có thể dễ dàng quắp đi một cậu bé. Bodhisatta đã giải quyết tranh chấp của họ (Ja.ii.181ff).
+
+Câu chuyện giới thiệu tương tự như câu chuyện của Số 1 ở trên.
 
 ## Notes

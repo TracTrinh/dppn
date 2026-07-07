@@ -5,7 +5,7 @@ base_headword: "Sobhanā"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Sobhanā. An eminent Therī of Ceylon. Dpv.xviii.15.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sobhanā. Một vị Trưởng lão ni lỗi lạc ở Tích Lan. Dpv.xviii.15.
 
 ## Notes

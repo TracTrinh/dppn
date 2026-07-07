@@ -5,7 +5,7 @@ base_headword: "Phaladāyaka Thera"
 disambiguator: "01"
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -26,6 +26,6 @@ Phaladāyaka Thera 01. An *Arahant*. Ninety-two *kappas* ago he was an ascetic i
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phaladāyaka Thera 01. Một *Arahant*. Chín mươi hai *kappa* trước, ngài là một ẩn sĩ ở Himavā, và đã dâng cúng một vốc trái cây cho Đức Phật Phussa. Ap.i.130.
 
 ## Notes

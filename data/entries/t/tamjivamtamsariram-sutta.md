@@ -5,7 +5,7 @@ base_headword: "Taṁjīvaṁtaṁsarīraṁ Sutta"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Taṁjīvaṁtaṁsarīraṁ Sutta. One of the views which are held in the world
 
 ## Vietnamese translation
 
-Chưa dịch.
+Taṁjīvaṁtaṁsarīraṁ Sutta. Một trong những tà kiến được giữ ở thế gian, bắt nguồn từ sự hiện hữu của các uẩn và sự chấp thủ vào chúng. SN.iii.215.
 
 ## Notes

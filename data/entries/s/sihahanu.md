@@ -5,7 +5,7 @@ base_headword: "Sīhahanu"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -39,6 +39,8 @@ Till the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="12" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīhahanu. Cha của Suddhodana, và do đó là ông nội của Đức Phật. Cha ông là Jayasena. Sīhahanu có năm người con trai và hai người con gái: Suddhodana, Dhotodana, Sakkodana, Sukkodana, Amitodana, Amitā, Pamitā. Vợ ông là Kaccānā (Mhv.ii.15f.; Dpv.iii.44f).
+
+Cho đến thời Sīhahanu, mối quan hệ thân thiết tồn tại giữa người Sākiyan và người Koḷiyan (Snp­a.i.356). Asita là *Purohita* của ông.
 
 ## Notes

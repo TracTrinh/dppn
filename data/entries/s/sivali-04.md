@@ -5,7 +5,7 @@ base_headword: "Sīvalī"
 disambiguator: "04"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/070.html"
@@ -26,6 +26,6 @@ Sīvalī 04. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīvalī 04. Sīvalī Thera. Một vị tăng lỗi lạc có mặt tại Lễ Đặt Nền Móng của Mahā Thūpa. Dpv.xix.8.
 
 ## Notes

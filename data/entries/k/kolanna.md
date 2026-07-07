@@ -5,7 +5,7 @@ base_headword: "Kolañña"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -27,6 +27,6 @@ Kolañña, also called <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kolañña, cũng được gọi là Samaṇa Kolañña. Một vị Cakkavatti, vua của Kāliṅga. Ngài đã du hành qua không trung, cưỡi trên con voi chiến của mình, nhưng ngài không thể vượt qua cây Bodhi. Mil.256; cp. Ja.iv.232, hiển nhiên là đề cập đến ngài, mặc dù cái tên không được đưa ra.
 
 ## Notes

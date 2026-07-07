@@ -5,7 +5,7 @@ base_headword: "Paññavāsutta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Paññavāsutta. A monk who cultivates the seven factors of wisdom can be called
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paññavāsutta. Một vị tỳ-kheo trau dồi Bảy yếu tố giác ngộ (Thất Giác Chi) có thể được gọi là người có trí tuệ. SN.v.467.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Parivārapāṭha"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -30,6 +30,8 @@ The Commentaries (e.g., DN­a.i.17; Vin-a.i.18), however, speak of the *Soḷasa
 
 ## Vietnamese translation
 
-Chưa dịch.
+Parivārapāṭha (hay Parivāra). Phần kết thúc của Vinayapiṭaka. Nó là một bản tóm tắt các phần khác của Vinaya và bao gồm mười chín chương. Lời bạt ghi rằng cuốn sách là tác phẩm của một vị tỳ-kheo tên là Dīpa, có thể thuộc Tích Lan.
+
+Tuy nhiên, các Chú giải (ví dụ, DN­a.i.17; Vin-a.i.18) nói về *Soḷasa Parivāra* như một phần của Vinaya khi nó được kết tập tại Đại Kết Tập thứ nhất. Có lẽ các *Parivāra* tương ứng với các *mātikā* của Abhidhamma và được mở rộng sau này.
 
 ## Notes

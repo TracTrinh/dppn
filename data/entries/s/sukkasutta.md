@@ -5,7 +5,7 @@ base_headword: "Sukkasutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -23,6 +23,6 @@ Sukkasutta. In a man whose heart is possessed by gains, favours and flatteries, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sukkasutta. Ở một người đàn ông có trái tim bị ám ảnh bởi những lợi lộc, ân sủng và những lời xu nịnh, thậm chí những trạng thái trong sáng (*sukkā*) cũng bị nhổ tận gốc. SN.ii.240.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kitti"
 disambiguator: "03"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -24,6 +24,6 @@ Kitti 03. The name of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kitti 03. Tên của Vijayabāhu I trước khi ngài trở thành vua. Cv.lvii.3, 46, 49.
 
 ## Notes

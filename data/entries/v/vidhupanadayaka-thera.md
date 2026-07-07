@@ -5,7 +5,7 @@ base_headword: "Vidhūpanadāyaka Thera"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vidhūpanadāyaka Thera. An *Arahant*. He gave a fan to <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vidhūpanadāyaka Thera. Một bậc *Arahant*. Ngài đã dâng một chiếc quạt cho Padumuttara Buddha và xưng tán Đức Phật khi ngài đang quạt cho Ngài. Ngài đã trở thành một bậc *Arahant* vào năm bảy tuổi. Ngài là vua mười sáu lần dưới cái tên Vījamāna. Ap.i.103f.
 
 ## Notes

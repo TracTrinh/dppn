@@ -5,7 +5,7 @@ base_headword: "Pattipupphiya Thera"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -24,6 +24,6 @@ Pattipupphiya Thera. An *Arahant*. He offered a *patti*-flower to the body of <s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pattipupphiya Thera. Một *Arahant*. Ngài đã dâng một bông hoa *patti* lên thân thể của Đức Phật Padumuttara khi thi hài ngài đang được rước đi hỏa táng. Ap.i.291.
 
 ## Notes

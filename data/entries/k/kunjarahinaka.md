@@ -5,7 +5,7 @@ base_headword: "Kuñjarahinaka"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kuñjarahinaka. A monastery built by <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một tu viện do Lañjatissa xây dựng. Mhv.xxxiii.27.
 
 ## Notes

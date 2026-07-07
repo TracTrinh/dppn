@@ -5,7 +5,7 @@ base_headword: "Kukkuṭagiri"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -27,6 +27,6 @@ Kukkuṭagiri. A place in Ceylon. <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kukkuṭagiri. Một địa phương ở Tích Lan. Buddhaghosa nói (SN­a.iii.50) rằng nó được gọi như vậy vì tại đó người hầu cận của Saddhātissa, Tissa (xem Tissa 43), đã từ chối giết một số con chim trĩ và phóng thích chúng với rủi ro bị mất mạng.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Suddhikasutta"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Suddhikasutta 03. The same as above, regarding <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suddhikasutta 03. Tương tự như trên, liên quan đến loài Kim sí điểu (*Supaṇṇa*). SN.iii.246.
 
 ## Notes

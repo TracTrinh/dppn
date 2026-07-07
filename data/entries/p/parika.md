@@ -5,7 +5,7 @@ base_headword: "Pārikā"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -29,6 +29,6 @@ Pārikā, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pārikā, Pārī. Con gái của một người thợ săn, vợ của Dukūlaka và mẹ của Suvaṇṇāsama (Bodhisatta). Để biết chi tiết, xem Sāmajātaka (Ja 540). Pārikā là một tiền kiếp của Bhaddā Kāpilānī. Ja.vi.95; Mil.123.
 
 ## Notes

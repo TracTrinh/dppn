@@ -5,7 +5,7 @@ base_headword: "Kañcanamāṇava"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,6 @@ Kañcanamāṇava. The name given to <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kañcanamāṇava. Cái tên được đặt cho Mahā Kaccāna bởi cha mẹ của tôn giả, Kaccāna là tên gia tộc. Tôn giả được gọi là Kañcana vì cơ thể ngài có màu vàng. Thag­a.483; AN­a.i.116.
 
 ## Notes

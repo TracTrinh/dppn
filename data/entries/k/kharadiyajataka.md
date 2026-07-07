@@ -5,7 +5,7 @@ base_headword: "Kharādiyajātaka"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -28,6 +28,8 @@ The story was told in reference to an unruly monk. <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kharādiyajātaka (Ja 15). Bodhisatta có lần được sinh ra làm thủ lĩnh của một đàn nai. Chị gái của ngài là Kharādiyā đã đưa con trai của cô đến chỗ ngài để ngài có thể dạy cho nó sự khôn ngoan của loài nai, nhưng chú nai non này rất không vâng lời và không chịu chú ý đến các bài học của ngài. Hậu quả là, nó đã bị mắc bẫy và bị thợ săn giết chết.
+
+Câu chuyện này được kể lại liên quan đến một vị tỳ-kheo ngang bướng. Kharādiyā được xác định với Uppalavaṇṇā. Ja.i.159f.
 
 ## Notes

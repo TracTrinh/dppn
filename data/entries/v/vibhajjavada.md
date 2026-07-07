@@ -5,7 +5,7 @@ base_headword: "Vibhajjavāda"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -26,6 +26,6 @@ Vibhajjavāda. The name given to the Dhamma by the orthodox; the term is identic
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vibhajjavāda. Tên gọi được những người chính thống giáo đặt cho Pháp (Dhamma); thuật ngữ này đồng nhất với Theravāda và Đức Phật được miêu tả là Vibhajjavādī, vd, Mhv.v.171; Vibh­a.130; cp. Kv.Trs. introd. p.38.
 
 ## Notes

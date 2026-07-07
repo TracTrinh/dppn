@@ -5,7 +5,7 @@ base_headword: "Kummāsadāyaka Thera"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kummāsadāyaka Thera. An *Arahant*. Ninety-one *kappas* ago, having nothing els
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị *Arahant*. Chín mươi mốt *kappa* trước, không có gì khác để cúng dường, ông đã đặt cháo chua (*kummāsa*) vào bình bát của Đức Phật Vipassī (Ap.ii.415). Rõ ràng ông đồng nhất với Sīvaka Thera. Thag­a.i.307.
 
 ## Notes

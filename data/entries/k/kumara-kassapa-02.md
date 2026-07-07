@@ -5,7 +5,7 @@ base_headword: "Kumāra Kassapa"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kumāra Kassapa 02. A Thera in Ceylon, at whose request was written the <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị Trưởng lão ở Tích Lan, theo yêu cầu của ông, Dhammapada Commentary đã được viết ra. Dhp­a.i.1; Gv.68.
 
 ## Notes

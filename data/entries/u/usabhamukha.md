@@ -5,7 +5,7 @@ base_headword: "Usabhamukha"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -24,6 +24,6 @@ Usabhamukha. One of the four channels leading out of the <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Usabhamukha. Một trong bốn kênh rạch dẫn nước từ hồ Anotatta. Con sông chảy ra từ kênh này được gọi là Usabhamukhanadī, và gia súc rất dồi dào trên bờ của nó. Snp-a.ii.438; Ud­a.301.
 
 ## Notes

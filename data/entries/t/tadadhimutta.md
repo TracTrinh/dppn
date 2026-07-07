@@ -5,7 +5,7 @@ base_headword: "Tadadhimutta"
 disambiguator: ""
 letter: "T"
 section: "T."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/041.html"
@@ -24,6 +24,6 @@ Tadadhimutta. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Tadadhimutta. Một Pacceka Buddha. MN.iii.70; Ap­a.i.107.
 
 ## Notes

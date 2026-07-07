@@ -5,7 +5,7 @@ base_headword: "Kumuda"
 disambiguator: "03"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -26,6 +26,6 @@ Kumuda 03. A city. There an enemy of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một thành phố. Ở đó, một kẻ thù của Đức Phật Piyadassī, tên là Soṇa, đã có một nỗ lực bất thành nhằm giết Ngài bằng con voi Doṇamukha. Bv.xiv.6; Bv­a.174.
 
 ## Notes

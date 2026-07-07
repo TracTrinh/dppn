@@ -5,7 +5,7 @@ base_headword: "Mahinda"
 disambiguator: "04"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Mahinda 04. A king of old, descendant of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mahinda 04. Một vị vua từ thời xưa, hậu duệ của Mahā Sammata, và là người cuối cùng của một vương triều đã cai trị tại Rojanagara. Mười hai người con trai và cháu trai của ông đã cai trị ở Campā. Dpv.iii.28.
 
 ## Notes

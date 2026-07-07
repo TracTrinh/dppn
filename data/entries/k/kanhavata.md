@@ -5,7 +5,7 @@ base_headword: "Kaṇhavāṭa"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kaṇhavāṭa. A locality in <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇhavāṭa. Một địa phương ở Rohaṇa. Cv.lxxv.174.
 
 ## Notes

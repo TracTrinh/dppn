@@ -5,7 +5,7 @@ base_headword: "Māṇavagāmiya"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -30,6 +30,6 @@ Māṇavagāmiya, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māṇavagāmiya, Māṇavagāmika. Một *Devaputta*. Ông đến thăm Đức Phật cùng với Asama, Sahali, Niṅka, Akoṭaka và Veṭambarī, và trong khi tất cả những người kia đều ca ngợi các vị thầy của riêng mình, Māṇavagāmiya xướng tán công đức của Đức Phật (SN.i.65, 67; Mil.242). Được biết (SN­a.i.101) rằng trong kiếp trước ông là thị giả của Bodhisatta.
 
 ## Notes

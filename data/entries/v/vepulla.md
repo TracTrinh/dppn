@@ -5,7 +5,7 @@ base_headword: "Vepulla"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -51,6 +51,17 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="13" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vepulla, Vipula. Ngọn núi cao nhất trong năm ngọn núi bao quanh Rājagaha (SN.i.67).
+
+- Vào thời Kakusandha Buddha, ngọn núi được gọi là Pācīnavaṁsa
+- vào thời Koṇāgamana, Vaṅkaka
+
+trong khi vào thời Kassapa Buddha, nó là Supassa.
+
+Những người sống gần đó được gọi tương ứng là Tivaras, Rohitassas và Suppiyas. Ngọn núi đã nhỏ lại về kích thước, vì những người Tivaras, sống được bốn mươi ngàn năm, đã mất bốn ngày để leo lên và bốn ngày để đi xuống; những người Rohitassas sống được ba mươi ngàn năm và mất ba ngày cho mỗi chiều; trong khi những người Suppiyas, với tuổi thọ là hai mươi ngàn năm, đã thực hiện chuyến đi cả hai chiều trong bốn ngày. Trong thời đại hiện tại, những người dân Magadha, những người sống khoảng một trăm năm, có thể vừa leo lên vừa đi xuống ngọn núi trong một khoảng thời gian rất ngắn (SN.ii.190f).
+
+Vepulla là nơi cư ngụ của Yakkha Kumbhīra và một trăm ngàn người theo ông (DN.ii.257).
+
+Theo Dummedhajātaka (Ja 50, Ja.i.445) một con voi có thể leo lên đến đỉnh Vepulla. Từ Vepulla, Cakkavatti nhận được Cakkaratana của mình (Khp-a.p.173; Ja.iv.232), và chính viên ngọc này đã được Puṇṇaka lấy từ ngọn núi để mang ra đặt cược trong trò chơi xúc xắc của ông với Dhanañjaya Koravya. Ja.vi.271, 272, 326.
 
 ## Notes

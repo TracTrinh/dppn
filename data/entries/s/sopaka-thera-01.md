@@ -5,7 +5,7 @@ base_headword: "Sopāka Thera"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -33,6 +33,10 @@ He is perhaps identical with <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sopāka Thera 01. Ngài là con trai của một người phụ nữ rất nghèo ở Sāvatthī. Trong lúc chuyển dạ, mẹ ngài đã rơi vào một cơn ngất lịm kéo dài và sâu, và những người họ hàng của bà, nghĩ rằng bà đã chết, đã đưa bà đến bãi tha ma và chuẩn bị cho việc hỏa táng. Nhưng một dạ-xoa đã ngăn không cho ngọn lửa bùng cháy bằng một trận bão gió và mưa, và họ đã bỏ đi. Đứa trẻ được sinh ra an toàn và người mẹ đã qua đời. Dạ-xoa, dưới hình hài con người, đã bế đứa trẻ và đặt vào trong túp lều của người canh gác bãi tha ma, rồi nuôi nấng đứa trẻ một thời gian. Sau đó, người canh gác bãi tha ma đã nhận nuôi đứa trẻ, và cậu bé lớn lên cùng với con trai của người canh gác bãi tha ma là Suppiya (*q.v.*). Cậu bé được gọi là Sopāka ("đứa trẻ bị bỏ rơi") vì được sinh ra trong bãi tha ma. Khi được bảy tuổi, cậu bé đã được Đức Phật chú ý đến, và Ngài đã đến thăm cậu ở bãi tha ma. Hoan hỷ trước những lời dạy của Đức Phật, cậu đã xin phép người cha nuôi và gia nhập Tăng đoàn. Đức Phật đã giao cho vị ấy tâm *mettā* làm đề mục thiền định, và Sopāka, phát triển tuệ giác, đã sớm đạt được quả vị *Arahant*.
+
+Vào thời Kakusandha Buddha, ngài là con trai của một gia chủ và đã cúng dường cho Đức Phật một số trái *bījapūra*. Ngài cũng đã cúng dường sữa gạo hàng ngày cho ba vị tỳ-kheo cho đến cuối đời. Trong một kiếp sống khác, ngài đã cúng dường một bữa ăn sữa gạo cho một vị Pacceka Buddha (Thag.vs.33; Thag­a.i.94f).
+
+Ngài có lẽ đồng nhất với Vibhītakamiñjiya trong Apadāna. Ap.ii.396.
 
 ## Notes

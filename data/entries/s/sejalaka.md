@@ -5,7 +5,7 @@ base_headword: "Sejalaka"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Sejalaka. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sejalaka. *v.l.* Pejalaka. Một *vihāra* ở phía đông Anurādhapura, được xây dựng bởi Mahallakanāga. Mhv.xxxv.124.
 
 ## Notes

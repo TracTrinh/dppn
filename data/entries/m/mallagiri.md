@@ -5,7 +5,7 @@ base_headword: "Mallagiri"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Mallagiri, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mallagiri, Mallāgiri, Mallaṅgiri. Một ngọn núi ở Himālaya, là nơi cư trú của các *Kinnara*. Ja.iv.4.38, 439.
 
 ## Notes

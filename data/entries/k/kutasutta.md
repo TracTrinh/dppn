@@ -5,7 +5,7 @@ base_headword: "Kūṭasuttā"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kūṭasuttā 04. Two discourses of similar import, preached to <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Hai bài thuyết pháp có nội dung tương tự, được thuyết giảng cho Anāthapiṇḍika. Khi một ngôi nhà có mái ngói nhọn không được lợp mái, đỉnh mái ngói nhọn, các xà ngang trên mái nhà và các bức tường đều không được bảo vệ. Khi tư tưởng không được bảo vệ, mọi hành động cũng không được bảo vệ. AN.i.261f.
 
 ## Notes

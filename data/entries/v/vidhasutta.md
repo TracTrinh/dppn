@@ -5,7 +5,7 @@ base_headword: "Vidhāsutta"
 disambiguator: ""
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -24,6 +24,6 @@ Vidhāsutta. Recluses and Brahmins of mighty power and majesty in the past, pres
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vidhāsutta. Các sa-môn và Bà-la-môn có oai lực và uy nghi hùng mạnh trong quá khứ, hiện tại hay tương lai, tất cả đều nhờ vào sự tu tập bốn niệm xứ (*satipaṭṭhāna*). SN.v.274.
 
 ## Notes

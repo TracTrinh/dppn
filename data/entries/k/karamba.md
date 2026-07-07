@@ -5,7 +5,7 @@ base_headword: "Karamba"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Karamba. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Karamba. Một thủ lĩnh người Damiḷa, đồng minh của Kulasekhara. Cv.lxxvi.139.
 
 ## Notes

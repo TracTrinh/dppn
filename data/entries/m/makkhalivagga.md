@@ -5,7 +5,7 @@ base_headword: "Makkhalivagga"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -24,6 +24,6 @@ Makkhalivagga. The ninth chapter of the *Ekanipāta* of the <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Makkhalivagga. Phẩm thứ chín của *Ekanipāta* thuộc Aṅguttaranikāya. AN.i.33-5.
 
 ## Notes

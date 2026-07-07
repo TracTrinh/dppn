@@ -5,7 +5,7 @@ base_headword: "Koṭṭhāgāma"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/029.html"
@@ -26,6 +26,6 @@ Koṭṭhāgāma. A wealthy village given by <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Koṭṭhāgāma. Một ngôi làng giàu có do Udaya I. (?) dâng cúng cho ngôi đền của cây Bồ-đề Vaḍḍhamāna. Cv.xlix.16.
 
 ## Notes

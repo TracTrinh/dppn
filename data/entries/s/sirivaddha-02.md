@@ -5,7 +5,7 @@ base_headword: "Sirivaḍḍha"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sirivaḍḍha 02. Chief lay supporter of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sirivaḍḍha 02. Đại thí chủ cư sĩ chính của Sikhī Buddha. Bv.xxi.22; Ja.i.94.
 
 ## Notes

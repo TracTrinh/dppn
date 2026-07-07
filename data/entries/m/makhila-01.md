@@ -5,7 +5,7 @@ base_headword: "Makhilā"
 disambiguator: "01"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Makhilā 01. A city near the Deer Park at <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Makhilā 01. Một thành phố gần Lộc Uyển (Deer Park) tại Isipatana gần với nơi Kakusandha Buddha đã thuyết bài giảng đầu tiên của ngài. Bv­a. 210.
 
 ## Notes

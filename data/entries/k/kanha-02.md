@@ -5,7 +5,7 @@ base_headword: "Kaṇha"
 disambiguator: "02"
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kaṇha 02. The name of the Bodhisatta; he was born in a Brahmin family and late
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇha 02. Tên của Bodhisatta; ngài được sinh ra trong một gia đình Bà-la-môn và sau đó trở thành một hiền nhân. Ngài cũng được gọi là Kaṇhatāpasa, và được nhắc đến trong số những người mà ký ức về cuộc đời của họ đã khiến Đức Phật mỉm cười. Xem Kaṇhajātaka (2). Dhs­a.294, 426.
 
 ## Notes

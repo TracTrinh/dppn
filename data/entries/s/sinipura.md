@@ -5,7 +5,7 @@ base_headword: "Sinipura"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -28,6 +28,6 @@ Sinipura, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sinipura, Sinisura, *v.l.* Nipura. Một người con trai của Okkāka đời thứ ba, mẹ ông là Hatthā. Ông là một tổ tiên của người Sākiyan. DN­a.i.258; Snp­a.352; Mhv.ii.12; Dpv.iii.41.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Kaṇikārapadhānaghara"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kaṇikārapadhānaghara. A meditation-hall in <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇikārapadhānaghara. Một thiền đường trong Khaṇḍacelavihāra, nơi Padhāniya Thera sinh sống. MN­a.i.65.
 
 ## Notes

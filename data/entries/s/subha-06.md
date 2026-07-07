@@ -5,7 +5,7 @@ base_headword: "Subha"
 disambiguator: "06"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Subha 06. A *senāpati* who, during the thirteenth century, built a fortress in 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Subha 06. Một *senāpati* (tướng quân), người mà vào thế kỷ mười ba, đã xây dựng một pháo đài ở Subhagiri. Cc.lxxxi.4.
 
 ## Notes

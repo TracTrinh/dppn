@@ -5,7 +5,7 @@ base_headword: "Vajirabāhu"
 disambiguator: ""
 letter: "V"
 section: "Va-Vā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/064.html"
@@ -26,6 +26,6 @@ Vajirabāhu. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vajirabāhu. Một Yakkha, cùng với bốn nghìn Yakkha khác, canh gác cổng thứ tư của cung điện Jotiya. Dhp­a.iv.209.
 
 ## Notes

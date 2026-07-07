@@ -5,7 +5,7 @@ base_headword: "Upariṭṭha"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/022.html"
@@ -28,6 +28,6 @@ Upariṭṭha. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Upariṭṭha. Một Pacceka Buddha (MN.iii.69; Ap­a.i.106). Trong một kiếp sống trước, khi Anuruddha sinh ra làm Annabhāra, ông đã cúng dường thức ăn cho vị Pacceka Buddha và đưa ra nhiều lời nguyện khác nhau mà chúng đã được hoàn thành trong những lần sinh sau (Dhp­a.i.113f). Upariṭṭha đã trải qua bảy ngày trong thiền định trên đỉnh Gandhamādana, và khi ngài xuất hiện trước mặt Annabhāra, người sau đã chạy về nhà với vợ của mình, lấy thức ăn đã được chuẩn bị cho chính họ và trao nó cho Upariṭṭha. Upariṭṭha dùng bữa khi đang ngồi trên y phục của Annabhāra, tấm y được trải trên mặt đất cho ngài. AN­a.i.105; Thag.910; Thag­a.ii.66.
 
 ## Notes

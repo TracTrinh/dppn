@@ -5,7 +5,7 @@ base_headword: "Vijaya"
 disambiguator: "06"
 letter: "V"
 section: "Vi-Vo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/065.html"
@@ -30,6 +30,6 @@ Vijaya 06. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Vijaya 06. Vijaya Thera. Ngài sinh ra ở Sāvatthī và thông thạo kinh điển Bà-la-môn. Sau đó ngài trở thành một đạo sĩ và sống trong rừng. Sau khi nghe danh Đức Phật, Vijaya đã đến viếng thăm Ngài và gia nhập Tăng đoàn, rồi trở thành một bậc *Arahant* vào thời điểm thích hợp. Vào thời của Piyadassī Buddha, ngài là một gia chủ giàu có và đã xây dựng một viền gờ (*vedikā*) nạm ngọc bao quanh *Thūpa* (bảo tháp) của Đức Phật. Mười sáu *kappa* trước, ngài đã làm vua ba mươi sáu lần, dưới cái tên Maṇippabhāsa (Thag. vs. 92; Thag­a.i.191f). Ngài có lẽ đồng nhất với Vedikāraka Thera của Apadāna. Ap.i.171.
 
 ## Notes

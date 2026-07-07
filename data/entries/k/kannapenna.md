@@ -5,7 +5,7 @@ base_headword: "Kaṇṇapeṇṇā"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -29,6 +29,6 @@ Kaṇṇapeṇṇā. A river in the <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṇṇapeṇṇā. Một con sông ở xứ Mahiṁsaka, chảy ra từ Hồ Saṅkhapāla. Tại khúc quanh của con sông và gần thượng nguồn của nó là ngọn núi Candaka, gần đó vua của Magadha sống trong một túp lều lá, và tại đó ông đã được viếng thăm bởi Nāga Saṅkhapāla (Ja.v.162f). Con sông hẳn đã tạo thành một hồ nước tại khúc quanh này, cái hồ được gọi là *Kaṇṇapeṇṇādaha* (Ja.v.168).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Māṇābharaṇa"
 disambiguator: "01"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -41,6 +41,6 @@ Māṇābharaṇa 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māṇābharaṇa 01. Mānabhūsaṇa. Cháu của Vijayabāhu I. Cha ông là vua xứ Paṇḍu và mẹ ông, bà Mittā, là em gái của Vijayabāhu. Ông có hai người anh là Kittisirimegha và Sirivallabha. Ông lấy Ratanāvalī, con gái của Vijayabāhu (Cv.lix.42ff). Khi Vijayabāhu mất, Jayabāhu I. lên ngôi và Māṇābharaṇa được phong làm phó vương. Khi người thừa kế hợp pháp là Vikkamabāhu nổi dậy, Māṇābharaṇa đoạt từ tay ông ta Rohaṇa và Dakkhiṇadesa và sống tại Puṅkhagāma dưới danh hiệu Vīrabāhu (Cv.lxi.21ff). Ông dường như liên tục xung đột với Vikkamabāhu. Về sau, khi đã có hai con gái là Mittā và Pabhāvatī, ông trao quyền cai trị cho các quan đại thần và xuất thế. Nhưng bảy hoặc tám tháng sau, ông có một giấc mộng tại đền thờ Indra và vội vã trở về Puṅkhagāma vì giấc mộng báo hiệu sự ra đời của một người con trai vĩ đại. Người con trai đó chính là Parakkamabāhu I. Cv.lxii.3ff.
 
 ## Notes

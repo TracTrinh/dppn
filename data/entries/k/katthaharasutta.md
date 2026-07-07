@@ -5,7 +5,7 @@ base_headword: "Kaṭṭhahārasutta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kaṭṭhahārasutta. Some pupils of a <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṭṭhahārasutta. Một số học trò của một người Bà-la-môn dòng Bhāradvāja; những người kiếm củi (kaṭṭhahārakā), đã tình cờ gặp Đức Phật đang thiền định trong một khu rừng ở Kosala và đã báo cho thầy của họ biết. Ông đã đến gặp Đức Phật và hỏi ngài về mục đích cư trú trong rừng của ngài. Người Bà-la-môn đã bày tỏ sự hài lòng của mình đối với những thông tin đã nhận được (SN.i.180).
 
 ## Notes

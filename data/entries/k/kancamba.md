@@ -5,7 +5,7 @@ base_headword: "Kañcamba"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -26,6 +26,6 @@ Kañcamba. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kañcamba. Một thủ lĩnh Damiḷa đã chiến đấu chống lại Laṅkāpura. Cv.lxxvii.17.
 
 ## Notes

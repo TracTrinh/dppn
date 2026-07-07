@@ -5,7 +5,7 @@ base_headword: "Kūṭavinicchayaka Peta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -29,6 +29,8 @@ Kūṭavinicchayaka Peta. One of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một trong những vị quan tòa của Bimbisāra, kẻ là một tên lừa đảo, một kẻ vu khống, và là một kẻ nhận hối lộ, đã từng tuân giữ việc nhịn ăn trong nửa ngày nhờ sự thuyết phục của một người bạn. Anh ta đã chết vào đêm đó và được sinh ra làm một Vemānikapeta. Anh ta tận hưởng những thú vui cõi trời, nhưng bị kết án phải ăn thịt từ chính lưng của mình để đền tội cho những ác nghiệp của anh ta.
+
+Nārada đã nhìn thấy *Peta* này và thuật lại câu chuyện của anh ta với Đức Phật. Pv.iii.9; Pv-a.209f.
 
 ## Notes

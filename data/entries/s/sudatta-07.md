@@ -5,7 +5,7 @@ base_headword: "Sudatta"
 disambiguator: "07"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sudatta 07. A *Devaputta* who visited the Buddha at <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sudatta 07. Một thiên tử (*Devaputta*) đã đến thăm Đức Phật tại Jetavana và nói hai bài kệ về giá trị của sự không phóng dật. SN.i.53.
 
 ## Notes

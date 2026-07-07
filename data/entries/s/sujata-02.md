@@ -5,7 +5,7 @@ base_headword: "Sujāta"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -32,6 +32,6 @@ Sujāta 02. Cousin of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sujāta 02. Anh họ của Padumuttara Buddha và là anh trai của Devala. Về sau ông trở thành một trong những Đệ tử Chính của Padumuttara (Bv.xi.24; Bv­a.159; DN­a.ii.489). Heraññakāni Thera (Upaḍḍhadussadāyaka), trong một kiếp trước, đã cúng dường ông một mảnh vải để làm y (Thag­a.i.266; Ap.ii.435), trong khi Khemā đã cúng dường ông ba chiếc bánh ngọt và cắt đi mái tóc của mình như một món đồ cúng dường lên ông (Thīg­a.127; AN­a.i.187). Dhammadinnā cũng đã đảnh lễ ông và dâng cúng thức ăn cho ông (Thīg­a.196; MN­a.i.516).
 
 ## Notes

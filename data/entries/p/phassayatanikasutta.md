@@ -5,7 +5,7 @@ base_headword: "Phassāyatanikasutta"
 disambiguator: ""
 letter: "P"
 section: "Ph."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/051.html"
@@ -24,6 +24,6 @@ Phassāyatanikasutta. The Buddha explains how necessary is the right understandi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Phassāyatanikasutta. Đức Phật giải thích tầm quan trọng của sự hiểu biết đúng đắn về sự sinh và diệt, vị ngọt và sự nguy hiểm, cùng sự xuất ly khỏi sáu xứ của xúc. SN.iv.43f.
 
 ## Notes

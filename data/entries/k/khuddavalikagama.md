@@ -5,7 +5,7 @@ base_headword: "Khuddavalikagāma"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -24,6 +24,6 @@ Khuddavalikagāma. A harbour in North Ceylon. Cv.lxxxviii.23.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khuddavalikagāma. Một bến cảng ở miền Bắc Tích Lan. Cv.lxxxviii.23.
 
 ## Notes

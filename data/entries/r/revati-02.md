@@ -5,7 +5,7 @@ base_headword: "Revatī"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -29,6 +29,6 @@ Revatī 02. An *upāsikā*, probably of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Revatī 02. Một nữ cư sĩ (*upāsikā*), có lẽ ở Nālaka. Bà là một thí chủ của Sāriputta, và khi ngài mất, bà đã mang ba bình đầy hoa vàng đến dâng cúng nơi giàn hỏa táng. Sakka cùng đoàn tùy tùng đông đảo đến để tỏ lòng tôn kính vị Trưởng lão, và trong lúc chen lấn do sự xuất hiện của Sakka gây ra, Revatī bị giẫm chết. Bà lập tức tái sinh với thân hình cao ba gāvuta ở cõi Tāvatiṁsa, và khi khám phá ra nguyên nhân của niềm hạnh phúc ấy, bà cùng các tùy tùng của mình xuất hiện trước mọi người và bày tỏ lòng tôn kính đối với Sāriputta. SN­a.iii.177f.
 
 ## Notes

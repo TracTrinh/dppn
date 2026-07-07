@@ -5,7 +5,7 @@ base_headword: "Kalābu"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -29,6 +29,6 @@ Kalābu. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kalābu. Vua xứ Kāsī. Ông đã tra tấn vị đạo sĩ Khantivādī, người chính là Bodhisatta. Do đó, ông đã bị nuốt chửng vào Avīci. Ông là một hóa thân trước đây của Devadatta. Câu chuyện được đưa ra trong Khantivādījātaka (Ja 313, Ja.iii.39ff; ông cũng thường được nhắc đến, ví dụ, Ja.v.135,143ff).
 
 ## Notes

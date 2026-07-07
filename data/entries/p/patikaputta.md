@@ -5,7 +5,7 @@ base_headword: "Pāṭikaputta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/049.html"
@@ -31,6 +31,6 @@ Pāṭikaputta. A naked ascetic of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Pāṭikaputta. Một du sĩ trần truồng ở Vesālī, đi khắp nơi tuyên bố rằng mình có thần thông lớn hơn Đức Phật, và nhờ đó gây ấn tượng mạnh với Sunakkhatta. Pāṭikaputta đã tiên tri rằng, sau khi chết, vị tướng quân của tộc Licchavī là Ajita sẽ tái sinh vào Mahā Niraya, nhưng Ajita đã tái sinh vào Tāvatiṁsa và cáo buộc Pāṭikaputta là kẻ nói dối. Sau đó, Đức Phật đã đến am thất của Pāṭikaputta cùng một lượng lớn tùy tùng, nhằm bác bỏ những tuyên bố của ông, nhưng Pāṭikaputta đã tránh mặt ngài và đi đến Tindukhānu *Paribbājakārāma*. Một thông điệp đã được gửi đến yêu cầu ông trở về vì Đức Phật đang ở tại am thất của ông, nhưng Pāṭikaputta không thể đứng dậy khỏi chỗ ngồi của mình. Sau đó, một quan đại thần của tộc Licchavī, và tiếp đến là Jāliya Dārupattikantevāsī, đã đến để gọi ông, nhưng khi phát hiện ra rằng ông không thể đứng lên, họ đã mắng chửi ông vì thói khoác lác của ông. AN.iii.13ff.
 
 ## Notes

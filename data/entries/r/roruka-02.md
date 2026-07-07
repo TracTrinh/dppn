@@ -5,7 +5,7 @@ base_headword: "Roruka"
 disambiguator: "02"
 letter: "R"
 section: "R."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/062.html"
@@ -24,6 +24,6 @@ Roruka 02. Capital of King <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Roruka 02. Kinh đô của vua Serī. SN­a.i.90.
 
 ## Notes

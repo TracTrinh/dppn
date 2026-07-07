@@ -5,7 +5,7 @@ base_headword: "Paṇṇabhatta"
 disambiguator: ""
 letter: "P"
 section: "Pa-Pā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/048.html"
@@ -27,6 +27,6 @@ Paṇṇabhatta. A village given by <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Paṇṇabhatta. Một ngôi làng do Aggabodhi V trao tặng để bảo trì Tālavatthuvihāra (hoặc Mahā Senavihāra). Cv.xlviii.8.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sivi"
 disambiguator: "02"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sivi 02. A king of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sivi 02. Một vị vua của thành Jetuttara, cha của Sañjaya. Ja.vi.480.
 
 ## Notes

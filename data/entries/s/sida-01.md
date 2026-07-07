@@ -5,7 +5,7 @@ base_headword: "Sīdā"
 disambiguator: "01"
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -25,6 +25,6 @@ Sīdā 01. A large river flowing from *Uttarahimavā*; its specific gravity is s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sīdā 01. Một con sông lớn chảy từ *Uttarahimavā*; trọng lượng riêng của nó nhẹ đến mức không có gì có thể nổi trên đó. Nó chảy qua Kañcanapabbata và nhiều ngàn ẩn sĩ sống trên bờ của nó. Ja.vi.100, 101.
 
 ## Notes

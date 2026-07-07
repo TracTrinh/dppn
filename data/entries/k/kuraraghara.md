@@ -5,7 +5,7 @@ base_headword: "Kuraraghara"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -36,6 +36,12 @@ Near it was the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+*v.l.* Kulaghara. Một thị trấn ở Avanti.
+
+Nơi đây từng là nơi cư trú của Kātiyāni, Kāḷī, Soṇa Kuṭikaṇṇa, cùng những người khác.
+
+Gần nó là Papātapabbata. (SN­a.ii.188; Ud­a.307; Dhp­a.iv.101; AN­a.i.246, vân vân.)
+
+Mahā Kaccāna cũng từng sống ở đó.
 
 ## Notes

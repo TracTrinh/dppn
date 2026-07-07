@@ -5,7 +5,7 @@ base_headword: "Kaṭuviyasutta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Kaṭuviyasutta. Once when the Buddha was going about for alms near the fig-tree
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kaṭuviyasutta. Có một lần khi Đức Phật đang đi khất thực gần cây sung chỗ buộc trâu bò ở vùng lân cận Isipatana, ngài nhìn thấy một tỳ-kheo, người thích thú với những thú vui trần tục phù phiếm, và ngài đã quở trách ông ta, nói rằng ruồi sẽ đậu lên và tấn công kẻ ô uế và bốc mùi hôi thối của xác chết. Nghe thấy điều này, vị tỳ-kheo đã vô cùng xúc động. Sau đó Đức Phật lặp lại lời quở trách với các tỳ-kheo đang tụ tập và giải thích rằng lòng tham chính là sự ô uế, ác ý là mùi hôi thối của xác chết và những suy nghĩ xấu xa chính là bầy ruồi. AN.i.280f.
 
 ## Notes

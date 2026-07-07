@@ -5,7 +5,7 @@ base_headword: "Yogakkhemavagga"
 disambiguator: ""
 letter: "Y"
 section: "Y."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/061.html"
@@ -24,6 +24,6 @@ Yogakkhemavagga. The eleventh chapter of the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Yogakkhemavagga. Chương thứ mười một của Saḷāyatanasaṁyutta. SN.iv.85ff.
 
 ## Notes

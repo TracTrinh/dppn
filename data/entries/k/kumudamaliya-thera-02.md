@@ -5,7 +5,7 @@ base_headword: "Kumudamāliya Thera"
 disambiguator: "02"
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -25,6 +25,6 @@ Kumudamāliya Thera 02. An Arahant. In the past he saw <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Một vị Arahant. Trong quá khứ, ông đã nhìn thấy Đức Phật Vipassī đang đi bộ trên đường và đã cúng dường Ngài một vòng hoa *kumuda* (Ap.i.257f).
 
 ## Notes

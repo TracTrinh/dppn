@@ -5,7 +5,7 @@ base_headword: "Kantakacetiya"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -27,6 +27,6 @@ Kantakacetiya. A building on the <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kantakacetiya. Một công trình trên Cetiyapabbata. Gần đó có nhiều cốc bằng đá, sáu mươi tám trong số đó được xây dựng bởi Devānampiyatissa (Mhv.xvi.12). Phải chăng đây cũng chính là Kaṇṭakacetiya. Xem thêm Kaṭṭhaka.
 
 ## Notes

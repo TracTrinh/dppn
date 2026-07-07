@@ -5,7 +5,7 @@ base_headword: "Ūriyeri"
 disambiguator: ""
 letter: "U"
 section: "U-Ū."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/023.html"
@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Chưa dịch.
+Ūriyeri. Một địa phương ở Nam Ấn Độ. Tại đây có một pháo đài đã bị Laṅkāpura và Jagadvijaya bao vây. Cv.lxxvii.58, 62.
 
 ## Notes

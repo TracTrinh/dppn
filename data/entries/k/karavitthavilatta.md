@@ -5,7 +5,7 @@ base_headword: "Karaviṭṭhavilatta"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/026.html"
@@ -25,6 +25,6 @@ Karaviṭṭhavilatta. A tank in Ceylon. It was restored by <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Karaviṭṭhavilatta. Một cái hồ ở Tích Lan. Nó đã được phục hồi bởi Parakkamabāhu I. Cv.lxviii.48.
 
 ## Notes

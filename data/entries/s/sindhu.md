@@ -5,7 +5,7 @@ base_headword: "Sindhu"
 disambiguator: ""
 letter: "S"
 section: "Sā-Sī."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/069.html"
@@ -40,6 +40,14 @@ The *Sindhunadī* is the modern Indus.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sindhu. Một con sông ở Ấn Độ; một trong những con sông quan trọng nhất chảy ra từ Himālaya (Mil.p.114).
+
+Những con ngựa tốt nhất được sinh ra ở vùng đất quanh bờ sông này (AN­a.ii.756; MN­a.i.248), do đó có tên gọi Sindhava (Ja.v.260 (22); cf.ii.290). Serī là vua của cả Sindhu (*Sindhavaraṭṭha*) và Sodhika (? Sovīra) (SN­a.i.90).
+
+Có nhắc đến (Vv-a.332) các thương nhân từ Aṅga và Magadha đi đến Sindhu Sovīra và đi qua những vùng hoang dã rộng lớn trên đường đi. Các *Sindhavā* được nhắc đến trong Apadāna (Ap.ii.359) trong một danh sách các bộ tộc.
+
+*Sindhunadī* chính là sông Indus ngày nay.
+
+Isidāsī từng sinh làm một con dê ở *Sindhavārañña*. Thīg.vs.438.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Khuddaka"
 disambiguator: ""
 letter: "K"
 section: "Kh."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/030.html"
@@ -26,6 +26,6 @@ Khuddaka. The name given to the section on <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Khuddaka. Tên được đặt cho phần bàn về Pācittiya xuất hiện trong Suttavibhaṅga của Vinayapiṭaka. Vin.iv.174, 345.
 
 ## Notes

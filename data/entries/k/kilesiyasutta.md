@@ -5,7 +5,7 @@ base_headword: "Kilesiyasutta"
 disambiguator: ""
 letter: "K"
 section: "Ki-Ko."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/028.html"
@@ -34,6 +34,6 @@ Kilesiyasutta *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kilesiyasutta *v.l.* Saṅkilesiyasutta. Trong Chú giải của Rathavinītasutta (MN­a.i.361) có nhắc đến một bài Kilesiyasutta trong đó Đức Phật thuyết pháp cho Bhagu Thera về những đức hạnh của đời sống viễn ly. Tôi vẫn chưa thể tìm thấy một *Sutta* nào có tên này. Chú giải Theragāthā (Thag­a.i.380) nói rằng Đức Phật đã đến thăm Bhagu tại Bālakaloṇakagāma sau khi ngài đắc quả vị Arahant để chúc mừng ngài về đời sống viễn ly (*ekavihāraṁ anumodituṁ*). Chú giải Saṁyutta (SN­a.ii.222) đi xa hơn và nói rằng Đức Phật đã đến thăm ngài trên đường từ Kosambī đến Pācīnavaṁsadāya, và trong chuyến viếng thăm này, Đức Phật đã thuyết pháp cho ngài về những lợi ích của đời sống viễn ly (*ekacāravāse ānisaṁsaṁ*) trong suốt cả ngày sau bữa ăn trưa và suốt cả đêm (*sakalapacchābhattañ c’eva tiyāmarattiñ ca*). Tuy nhiên, đoạn văn trong Vinaya (Vin.i.350) ghi chép lại chuyến viếng thăm này không hề đề cập đến bất kỳ bài pháp đặc biệt nào như vậy, mà chỉ đơn thuần nói rằng Đức Phật đã hỏi thăm sức khỏe và sự an lạc của Bhagu. Bản in của Miến Điện ghi là Upakilesasutta ở phần liên quan, và chỉ ra MN 128.
 
 ## Notes

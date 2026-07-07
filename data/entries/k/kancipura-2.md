@@ -5,7 +5,7 @@ base_headword: "Kāñcipura"
 disambiguator: ""
 letter: "K"
 section: "Ka-Kā."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/027.html"
@@ -31,6 +31,6 @@ Kāñcipura (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Kāñcipura (*các cách đọc khác:* Kāñcīpura). Một thành phố ở Nam Ấn Độ trên bờ biển Coromandel, thủ đô của người Pallava, và là một trong bảy thị trấn thiêng liêng của Ấn Độ; nó là Conjevaram ngày nay. Nơi đây từng là trung tâm của Phật giáo ở Nam Ấn Độ và là một trong những địa điểm hành hương được Huyền Trang (Xuanzang) viếng thăm. Ông kể lại rằng trong thời gian ông ở đó, ba trăm tỳ-kheo đã đến Kāñcipura từ Tích Lan, chạy trốn khỏi những rối ren chính trị ở đất nước đó (Beal-Xuan, sđd., ii.228f; CAGI.627). Trong Văn học Pāḷi, địa phương này đáng chú ý vì là nơi sinh của nhà chú giải Dhammapāla và có lẽ cũng của Anuruddha, tác giả của Abhidhammatthasaṅgaha (PLC.113, 169). Một số người đồng nhất Kāñcipura với Satiyaputta trong Chỉ dụ khắc trên đá số II của Asoka, ví dụ, JRAS., 1918, 541f; xem thêm Bhaṇḍarkar, *Ancient History of Deccan* pp.47, 52.
 
 ## Notes
