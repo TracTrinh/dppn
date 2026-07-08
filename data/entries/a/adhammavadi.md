@@ -28,6 +28,6 @@ Adhammavādi. A monk who lived soon after the death of <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Adhammavādi. Một vị tỳ-kheo sống không lâu sau khi <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Kassapa Buddha</span> nhập diệt. Vì đã phạm nhiều tội khác nhau, ông bị đồng sự là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Dhammavādi</span> buộc tội; ông thuyết phục một số tỳ-kheo *vinayadhara* đưa ra phán quyết đơn phương có lợi cho mình (Snp-a.i.195-7). Hai vị tỳ-kheo chịu trách nhiệm chính về phán quyết này về sau được biết đến là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Hemavata</span> và <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Sātāgira</span>.
+Adhammavādi. Một vị tỳ-kheo sống không lâu sau khi Kassapa Buddha nhập diệt. Vì đã phạm nhiều tội khác nhau, ông bị đồng sự là Dhammavādi buộc tội; ông thuyết phục một số tỳ-kheo *vinayadhara* đưa ra phán quyết đơn phương có lợi cho mình (Snp-a.i.195-7). Hai vị tỳ-kheo chịu trách nhiệm chính về phán quyết này về sau được biết đến là Hemavata và Sātāgira.
 
 ## Notes

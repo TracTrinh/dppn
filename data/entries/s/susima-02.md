@@ -5,7 +5,7 @@ base_headword: "Susīma"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Susīma 02. The Bodhisatta, son of the chaplain of the king of <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Susīma 02. Bodhisatta, con trai của vị giáo sĩ của vua nước Benares. Về sau ngài cũng trở thành vua. Xem Susīmajātaka (Ja 411).
 
 ## Notes

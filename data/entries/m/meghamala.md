@@ -5,7 +5,7 @@ base_headword: "Meghamāla"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -24,6 +24,6 @@ Meghamāla. A robber of great fame. DN­a.i.89; MN­a.ii.688.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Meghamāla. Một tên cướp vô cùng khét tiếng. DN­a.i.89; MN­a.ii.688.
 
 ## Notes

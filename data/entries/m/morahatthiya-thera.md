@@ -5,7 +5,7 @@ base_headword: "Morahatthiya Thera"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -24,6 +24,6 @@ Morahatthiya Thera. An *Arahant*. Another name for <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Morahatthiya Thera. Một *Arahant*. Tên khác của Trưởng lão Senaka (*q.v.*). Ap.ii.403.
 
 ## Notes

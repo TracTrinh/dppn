@@ -5,7 +5,7 @@ base_headword: "Mucelupaṭṭhāna"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mucelupaṭṭhāna. A building in <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mucelupaṭṭhāna. Một tòa nhà ở Anurādhapura, nơi những phẩm vật cúng dường được phân phát thường xuyên cho các tỳ-kheo. Mhv.xxxiv.65; Mhv­ṭ. 633.
 
 ## Notes

@@ -35,8 +35,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-
 
 ## Vietnamese translation
 
-Aggapaṇḍita. Một người gốc Burma và là tác giả của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Lokuppattipakaraṇa</span>, được viết tại Pagan vào thế kỷ mười ba (Gv.64, 67). <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Piṭakatthamain</span> gọi tác phẩm này là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Lokuppattipakāsanī</span> (Bode, 16, n.3).
+Aggapaṇḍita. Một người gốc Burma và là tác giả của Lokuppattipakaraṇa, được viết tại Pagan vào thế kỷ mười ba (Gv.64, 67). Piṭakatthamain gọi tác phẩm này là Lokuppattipakāsanī (Bode, 16, n.3).
 
-<span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Sāsanavaṁsa</span> (74) nói đến ba vị sư mang tên <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Aggapaṇḍita</span>: <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Mahā Aggapaṇḍita</span> (rõ ràng là tác giả của chúng ta), <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Dutiya Aggapaṇḍita</span> (*saddhivihārika* của ông), và <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Tatiya Aggapaṇḍita</span> (cháu trai của ông), tất cả đều thuộc <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Arimaddanapura</span> và đều nổi tiếng về học vấn.
+Sāsanavaṁsa (74) nói đến ba vị sư mang tên Aggapaṇḍita: Mahā Aggapaṇḍita (rõ ràng là tác giả của chúng ta), Dutiya Aggapaṇḍita (*saddhivihārika* của ông), và Tatiya Aggapaṇḍita (cháu trai của ông), tất cả đều thuộc Arimaddanapura và đều nổi tiếng về học vấn.
 
 ## Notes

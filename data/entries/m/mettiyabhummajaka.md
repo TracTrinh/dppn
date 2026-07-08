@@ -5,7 +5,7 @@ base_headword: "Mettiyabhummajakā"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -45,6 +45,12 @@ On another occasion, these monks persuaded a <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mettiyabhummajakā. Một nhóm các tỳ-kheo, là đồ đệ của Mettiya và Bhummajaka tạo thành một phần của nhóm Chabbaggiyā (*q.v.*). Họ sống gần Rājagaha. Vin-a.iii.614; Ja.ii.387; Vin-a.iii.579 nói rằng họ là những nhà lãnh đạo chính của nhóm Chabbaggiyā.
+
+Hai lần họ đã đưa ra một lời buộc tội vô căn cứ về sự vi phạm giới luật đối với Dabba Mallaputta, người dường như đã khiến họ đặc biệt chán ghét. Dabba phụ trách việc phân phát thức ăn khất thực tại *ārāma* nơi họ ở, và một ngày nọ đến lượt họ nhận thức ăn khất thực từ một gia chủ nọ có tiếng về việc cung cấp thức ăn ngon. Tuy nhiên, khi người đàn ông nghe từ Dabba rằng đã đến lượt nhóm Mettiyabhummajakā nhận sự tiếp đãi của ông, ông ta đã rất không hài lòng, và ra lệnh cho nữ tỳ của mình chăm lo cho họ. Các tỳ-kheo đã vô cùng tức giận, và buộc tội Dabba đã vu khống họ với gia chủ. Do đó, họ đã xúi giục một tỳ-kheo-ni tên là Mettiyā đến gặp Đức Phật và buộc tội Dabba vì đã xâm phạm sự trinh tiết của mình. Lời buộc tội đã được điều tra và được chứng minh là sai sự thật và vị tỳ-kheo-ni đã bị trục xuất khỏi Tăng đoàn (Vin.ii.76ff.; iii.160ff).
+
+Vào một dịp khác, những tỳ-kheo này đã xúi giục một người Licchavī, tên là Vaḍḍha, người là thí chủ và bằng hữu của họ, đến gặp Đức Phật và buộc tội Dabba vì đã có quan hệ với vợ ông. Điều này cũng được chứng minh là sai sự thật, và các tỳ-kheo khác đã từ chối nhận sự cúng dường từ Vaḍḍha cho đến khi ông ta thú nhận lỗi lầm của mình (Vin.ii.124ff). Một ngày nọ, trong khi đi xuống từ Gijjhakūṭa, các tỳ-kheo Mettiyabhummajakā đã nhìn thấy một con bò cái tơ cùng với một con dê cái và ý tưởng nảy ra với họ là gọi con bò cái tơ là Dabba và con dê cái là Mettiyā và sau đó lan truyền câu chuyện rằng họ đã nhìn thấy Dabba đang giao phối với Mettiyā. Vin.iii.166ff.; xem thêm iv. 37f.
+
+Dhammapāla có đề cập đến một truyền thuyết, nhưng bác bỏ nó, rằng sự bức hại đối với Dabba bởi nhóm Mettiyabhummajakā diễn ra dai dẳng đến mức cuối cùng vị này đã tự sát để trốn tránh nó (Ud­a.431). Dù trong trường hợp nào, họ cũng đã xoay xở để khiến vị ấy bị thất sủng đối với giới cư sĩ, và Đức Phật đã phải thực hiện những biện pháp đặc biệt để phục hồi vị thế của ngài trong sự tôn trọng của họ (Ud­a.434). Sự việc liên quan đến lời buộc tội do Mettiyā đưa ra dường như đã gây ra nhiều rắc rối cho các nhà chú giải sau này. Vin-a.iii.582 nói rằng đã có một cuộc tranh cãi lớn về vấn đề này giữa các tỳ-kheo của Mahā Vihāra và những tỳ-kheo của Abhayagiri. Cuối cùng, Vua Bhātikatissa đã can thiệp và vấn đề đã được giải quyết bởi Dīgha Kārāyaṇa.
 
 ## Notes

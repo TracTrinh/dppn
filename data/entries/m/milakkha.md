@@ -5,7 +5,7 @@ base_headword: "Milakkhā"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Milakkhā (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Milakkhā (Milakkhukā). Tên gọi dành cho những người không có nguồn gốc Ariyan, các người *Mleccha*, ví dụ: DN.iii.264; AN.i.35, v.v. Ngôn ngữ của họ được gọi là *Milakkhabhāsā*.
 
 ## Notes

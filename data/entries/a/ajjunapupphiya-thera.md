@@ -24,6 +24,6 @@ Ajjunapupphiya Thera. Probably identical with <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Ajjunapupphiya Thera (Trưởng lão Ajjunapupphiya). Có lẽ đồng nhất với <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sambhūta Thera</span> (Trưởng lão Sambhūta).
+Ajjunapupphiya Thera (Trưởng lão Ajjunapupphiya). Có lẽ đồng nhất với Sambhūta Thera (Trưởng lão Sambhūta).
 
 ## Notes

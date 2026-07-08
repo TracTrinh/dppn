@@ -5,7 +5,7 @@ base_headword: "Migajālavagga"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Migajālavagga. The second chapter of the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Migajālavagga. Chương thứ hai của Saḷāyatanasaṁyutta. SN.iv.35-83.
 
 ## Notes

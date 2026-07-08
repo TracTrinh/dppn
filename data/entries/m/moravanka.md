@@ -5,7 +5,7 @@ base_headword: "Moravaṅka"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -26,6 +26,6 @@ Moravaṅka. One of the four villages given by <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Moravaṅka. Một trong bốn ngôi làng do Parakkamabāhu I ban tặng cho việc bảo trì *pariveṇa* mà ông đã xây dựng cho Medhaṅkara. Cv.xc.87.
 
 ## Notes

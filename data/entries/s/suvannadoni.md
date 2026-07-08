@@ -5,7 +5,7 @@ base_headword: "Suvaṇṇadoṇī"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Suvaṇṇadoṇī. A village in the <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suvaṇṇadoṇī. Một ngôi làng thuộc khu vực Malaya của Tích Lan (Ceylon). Cv.lxx.11.
 
 ## Notes

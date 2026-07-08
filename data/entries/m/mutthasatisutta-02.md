@@ -5,7 +5,7 @@ base_headword: "Muṭṭhasatisutta"
 disambiguator: "02"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -24,6 +24,6 @@ Muṭṭhasatisutta 02. Five disadvantages to one who falls asleep forgetfully, 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Muṭṭhasatisutta 02. Năm bất lợi đối với người chìm vào giấc ngủ trong sự quên lãng, không có sự tự chủ. AN.iii.251.
 
 ## Notes

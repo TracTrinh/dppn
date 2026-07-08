@@ -24,6 +24,6 @@ Anomiyasutta. Contains verses in praise of the Buddha who is called the Peerless
 
 ## Vietnamese translation
 
-Anomiyasutta. Chứa các kệ tán thán Buddha, người được gọi là Bậc Vô Song (*Anomanāma*) (SN.i.33). Các kệ này cũng được tìm thấy trong <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Suttanipāta</span> (Sn.p.177).
+Anomiyasutta. Chứa các kệ tán thán Buddha, người được gọi là Bậc Vô Song (*Anomanāma*) (SN.i.33). Các kệ này cũng được tìm thấy trong Suttanipāta (Sn.p.177).
 
 ## Notes

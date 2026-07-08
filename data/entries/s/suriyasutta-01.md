@@ -5,7 +5,7 @@ base_headword: "Suriyasutta"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Suriyasutta 01. Describes the occasion on which <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suriyasutta 01. Mô tả sự kiện khi Suriya (*q.v.*) bị Rāhu bắt giữ. SN.i.51.
 
 ## Notes

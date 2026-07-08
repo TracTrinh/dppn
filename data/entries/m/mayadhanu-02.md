@@ -5,7 +5,7 @@ base_headword: "Māyādhanu"
 disambiguator: "02"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -27,6 +27,6 @@ Māyādhanu 02. The name of a district in Ceylon, between the coast and the moun
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māyādhanu 02. Tên của một vùng ở Ceylon, nằm giữa bờ biển và những ngọn núi. Thủ phủ của nó là Sītāvaka, được thành lập bởi Parakkamabāhu IV. Ở đó có một ngôi làng tên là Udakagāma. Cv.xc. 100; c. 213; Cv.Trs.ii.209, n.8.
 
 ## Notes

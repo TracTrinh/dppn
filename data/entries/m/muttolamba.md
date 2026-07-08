@@ -5,7 +5,7 @@ base_headword: "Muttolamba"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -24,6 +24,6 @@ Muttolamba. Probably the name of a *pāsāda* repaired by <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Muttolamba. Có lẽ là tên của một *pāsāda* do Dappula sửa chữa. Cv.xlv.56; xem Cv.Trs.i.94, n.4.
 
 ## Notes

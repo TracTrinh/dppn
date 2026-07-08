@@ -32,8 +32,8 @@ Akkosaka Bhāradvāja. A Brahmin of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Akkosaka Bhāradvāja. Một vị Bà-la-môn ở <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Rājagaha</span> – người đã tức giận vì người anh cả của mình, một thành viên của gia tộc <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Bhāradvāja</span> và có lẽ là người đứng đầu gia tộc, đã quy y Đức Phật (KS.i.201, n.4; xem thêm <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Dhānañjānī</span>) – đã đến gặp Đức Phật và lăng mạ Ngài. Về sau, chính ông đã quy y và đắc quả *Arahant* (SN.i.161f.; MN­a.i.808). Biệt hiệu Akkosaka (Kẻ Lăng Mạ) được các vị kết tập kinh điển (Saṅgītikārā) đặt cho ông để phân biệt ông với tư cách là tác giả của một bài thơ trào phúng gồm 500 bài kệ chống lại Đức Phật (SN­a.i.177).
+Akkosaka Bhāradvāja. Một vị Bà-la-môn ở Rājagaha – người đã tức giận vì người anh cả của mình, một thành viên của gia tộc Bhāradvāja và có lẽ là người đứng đầu gia tộc, đã quy y Đức Phật (KS.i.201, n.4; xem thêm Dhānañjānī) – đã đến gặp Đức Phật và lăng mạ Ngài. Về sau, chính ông đã quy y và đắc quả *Arahant* (SN.i.161f.; MN­a.i.808). Biệt hiệu Akkosaka (Kẻ Lăng Mạ) được các vị kết tập kinh điển (Saṅgītikārā) đặt cho ông để phân biệt ông với tư cách là tác giả của một bài thơ trào phúng gồm 500 bài kệ chống lại Đức Phật (SN­a.i.177).
 
-<span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Asurindaka Bhāradvāja</span> là em trai của ông (SN­a.i.178); ông còn có hai người em khác là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Sundarī Bhāradvāja</span> và <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Bilaṅgika Bhāradvāja</span>, những người cũng đã quy y và về sau đắc quả *Arahant*. Dhp­a.iv.163.
+Asurindaka Bhāradvāja là em trai của ông (SN­a.i.178); ông còn có hai người em khác là Sundarī Bhāradvāja và Bilaṅgika Bhāradvāja, những người cũng đã quy y và về sau đắc quả *Arahant*. Dhp­a.iv.163.
 
 ## Notes

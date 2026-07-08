@@ -5,7 +5,7 @@ base_headword: "Suyāna"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Suyāna. Seventy-seven *kappas* ago there were eight kings of this name, previou
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suyāna. Bảy mươi bảy *kappa* trước có tám vị vua mang tên này, là những tiền kiếp của Pānadhidāyaka Thera. Ap.i.209.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Musāvagga"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Musāvagga. The first section of the <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Musāvagga. Phần đầu tiên của Pācittiya thuộc Vinayapiṭaka.
 
 ## Notes

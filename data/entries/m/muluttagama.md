@@ -5,7 +5,7 @@ base_headword: "Muluttagāma"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Muluttagāma. A village in <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Muluttagāma. Một ngôi làng ở Rohaṇa, được đề cập trong bản ghi chép về các chiến dịch của Parakkamabāhu I. Cv.lxxv.6.
 
 ## Notes

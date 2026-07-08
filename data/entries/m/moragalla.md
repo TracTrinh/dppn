@@ -5,7 +5,7 @@ base_headword: "Moragalla"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -24,6 +24,6 @@ Moragalla. The later name of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Moragalla. Tên sau này của Sāmagalla. Mhv­ṭ. 616.
 
 ## Notes

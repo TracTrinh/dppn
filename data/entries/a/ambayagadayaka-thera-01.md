@@ -25,6 +25,6 @@ Ambayāgadāyaka Thera 01. *v.l.* <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Ambayāgadāyaka Thera 01. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Appayāgadāyaka Thera</span>. Một *Arahant*. Chín mươi mốt *kappas* trước, khi đi vào rừng để theo đuổi nghề của mình, ngài gặp Đức Phật và dâng lên Ngài xoài.
+Ambayāgadāyaka Thera 01. *v.l.* Appayāgadāyaka Thera. Một *Arahant*. Chín mươi mốt *kappas* trước, khi đi vào rừng để theo đuổi nghề của mình, ngài gặp Đức Phật và dâng lên Ngài xoài.
 
 ## Notes

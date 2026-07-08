@@ -25,6 +25,6 @@ Ambillapadara. A village given by <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Ambillapadara. Một ngôi làng được <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aggabodhi III</span> cấp cho tu viện <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Cetiyapabbata</span>. Cv.xliv.122.
+Ambillapadara. Một ngôi làng được Aggabodhi III cấp cho tu viện Cetiyapabbata. Cv.xliv.122.
 
 ## Notes

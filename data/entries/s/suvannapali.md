@@ -5,7 +5,7 @@ base_headword: "Suvaṇṇapālī"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -28,6 +28,6 @@ Suvaṇṇapālī. Daughter of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suvaṇṇapālī. Con gái của Girikaṇḍasiva và là vợ của Paṇḍukābhaya. Paṇḍukābhaya nhìn thấy nàng đang trên đường mang thức ăn ra cánh đồng của cha mình và đã bảo nàng thết đãi chàng cùng những người theo chàng. Tên của nàng là Pālī, và nàng được đặt cho biệt danh đó bởi vì những chiếc lá đa, dùng để dọn bữa ăn cho Paṇḍukābhaya, đã biến thành vàng trong tay nàng. Nàng có năm người anh em, tất cả họ đều bị người bạn đồng hành của Paṇḍukābhaya, Canda, giết chết. Mhv.x.30ff.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mātugāmasaṁyutta"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mātugāmasaṁyutta. The thirty-seventh section of the <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mātugāmasaṁyutta. Phần thứ ba mươi bảy của Saṁyuttanikāya. SN.iv.238-60.
 
 ## Notes

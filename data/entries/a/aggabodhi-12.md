@@ -25,6 +25,6 @@ Aggabodhi 12. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Aggabodhi 12. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aggabodhi VIII</span>. Vua của Ceylon (CE 801-12), có lẽ là anh em của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Mahinda III</span>. Cv.xlix.43-64; xem thêm Cv. trans. i.126 n.
+Aggabodhi 12. Aggabodhi VIII. Vua của Ceylon (CE 801-12), có lẽ là anh em của Mahinda III. Cv.xlix.43-64; xem thêm Cv. trans. i.126 n.
 
 ## Notes

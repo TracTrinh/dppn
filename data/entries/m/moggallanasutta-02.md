@@ -5,7 +5,7 @@ base_headword: "Moggallānasutta"
 disambiguator: "02"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -25,6 +25,6 @@ Moggallānasutta 02. Another name for the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Moggallānasutta 02. Một tên gọi khác của Pāsādakampanasutta.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Suttapiṭaka"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -30,6 +30,6 @@ Suttapiṭaka, or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suttapiṭaka, hoặc Suttantapiṭaka. Một trong ba phần của Tam tạng (*Tipiṭaka*). Nó bao gồm năm bộ kinh (*Nikāya*) Dīgha, Majjhima, Saṁyutta, Aṅguttara, Khuddaka. Bốn bộ đầu có tính chất đồng nhất và cùng nguồn gốc. Một số kinh (*Sutta*) xuất hiện trong hai hoặc nhiều bộ kinh trong số đó.
 
 ## Notes

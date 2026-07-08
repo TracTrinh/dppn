@@ -5,7 +5,7 @@ base_headword: "Moranivāpasutta"
 disambiguator: "01"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -25,6 +25,6 @@ Moranivāpasutta 01. Preached at <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Moranivāpasutta 01. Được thuyết giảng tại Moranivāpa về các phẩm chất khiến cho một tỳ-kheo hoàn toàn tinh thông trong phạm hạnh: sự tập hợp của giới, định và tuệ, thuộc về một vị đã thành tựu viên mãn. AN.i.291.
 
 ## Notes

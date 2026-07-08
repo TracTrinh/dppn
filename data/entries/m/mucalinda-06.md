@@ -5,7 +5,7 @@ base_headword: "Mucalinda"
 disambiguator: "06"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -23,6 +23,6 @@ Mucalinda 06. A mountain. Ap.ii.536 (verse 86).
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mucalinda 06. Một ngọn núi. Ap.ii.536 (verse 86).
 
 ## Notes

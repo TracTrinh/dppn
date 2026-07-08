@@ -5,7 +5,7 @@ base_headword: "Mūgapakkha"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -27,6 +27,6 @@ Mūgapakkha. Another name for <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mūgapakkha. Tên gọi khác của Temiya *kumāra*, con trai vua xứ Kāsī. Xem Mūgapakkhajātaka.
 
 ## Notes

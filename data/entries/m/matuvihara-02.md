@@ -5,7 +5,7 @@ base_headword: "Mātuvihāra"
 disambiguator: "02"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -27,6 +27,6 @@ Mātuvihāra 02. A *vihāra* built by the mother of <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mātuvihāra 02. Một *vihāra* do mẹ của Gajabāhukagāmaṇī xây dựng, ngay tại nơi mà, trong một bụi cây hoa *kadamba*, bà đã gặp một vị ẩn sĩ đang xuất định từ một *jhāna* kéo dài bảy ngày và đã cúng dường vị ấy thức ăn mà bà đang mang cho cha mình là một người thợ đóng gạch. Như một kết quả của sự cúng dường này, bà đã trở thành hoàng hậu của Vaṅkanāsikatissa. Sau đó, bà đã mua mảnh đất với giá một ngàn và xây dựng *vihāra* ở đó. Gajabāhukagāmaṇī đã xây dựng một *Thūpa* bằng đá kết nối với nó và ban đất đai cho các tỳ-kheo của *vihāra* (Mhv.xxxiii.104ff., 115ff). Tên đầy đủ của *vihāra* này dường như là Rājamātuvihāra (*q.v.*). Mhv­ṭ. 656.
 
 ## Notes

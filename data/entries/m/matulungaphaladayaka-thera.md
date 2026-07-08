@@ -5,7 +5,7 @@ base_headword: "Mātuluṅgaphaladāyaka Thera"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Mātuluṅgaphaladāyaka Thera. Named at Ap.ii.446. Evidently identical with <sp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mātuluṅgaphaladāyaka Thera. Được nêu tên tại Ap.ii.446. Rõ ràng là đồng nhất với Belaṭṭhasīsa (Thag­a.i.67) hoặc Surādha (Thag­a.i.255).
 
 ## Notes

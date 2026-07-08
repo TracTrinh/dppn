@@ -5,7 +5,7 @@ base_headword: "Mudulakkhaṇā"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Mudulakkhaṇā. Queen of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mudulakkhaṇā. Hoàng hậu của Brahmadatta. Xem Mudulakkhaṇajātaka (Ja 66), ở trên.
 
 ## Notes

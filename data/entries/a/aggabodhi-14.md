@@ -26,6 +26,6 @@ Aggabodhi 14. A minister of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Aggabodhi 14. Một đại thần của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sena III</span>, và là người cai trị <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Malaya</span>. Ông xây dựng <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Nāgasālapariveṇa</span>. Cv.liii.36.
+Aggabodhi 14. Một đại thần của Sena III, và là người cai trị Malaya. Ông xây dựng Nāgasālapariveṇa. Cv.liii.36.
 
 ## Notes

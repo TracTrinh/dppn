@@ -5,7 +5,7 @@ base_headword: "Migajāla Thera"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -28,6 +28,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Migajāla Thera. Con trai của Visākhā. Sau khi nghe Pháp trong những lần thường xuyên đến vihāra, ông gia nhập Tăng đoàn và đến đúng thời điểm đã trở thành một *Arahant*. (Thag. 417-22; Thag­a.i.452f).
+
+Saṁyuttanikāya (SN.iv.35f) chứa hai cuộc thảo luận mà ông đã có với Đức Phật; lần thứ hai là một bài giảng tóm tắt mà ông đã học trước khi vào rừng sống cô độc trước khi đạt được quả vị *Arahant*.
 
 ## Notes

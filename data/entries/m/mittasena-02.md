@@ -5,7 +5,7 @@ base_headword: "Mittasena"
 disambiguator: "02"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -27,6 +27,6 @@ Mittasena 02. A thief (? *vīhicora*) who succeeded <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mittasena 02. Một tên trộm (? *vīhicora*) đã kế vị Sotthisena và cai trị trong một năm (432-33 CN.) tại Anurādhapura, sau vụ sát hại Sotthisena bởi Saṅghā. Ông ta đã phục dựng một số *cetiya* và bị giết bởi Damiḷa Paṇḍu. Cv.xxxviii.5ff.
 
 ## Notes

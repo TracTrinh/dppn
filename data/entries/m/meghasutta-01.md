@@ -5,7 +5,7 @@ base_headword: "Meghasutta"
 disambiguator: "01"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -23,6 +23,6 @@ Meghasutta 01. Just as a rain cloud makes all the dust in the air vanish, so doe
 
 ## Vietnamese translation
 
-Chưa dịch.
+Meghasutta 01. Giống như một đám mây mưa làm tan biến mọi bụi bặm trong không khí, sự thực hành Bát Thánh đạo cũng tiêu diệt các ác pháp. SN.v.50.
 
 ## Notes

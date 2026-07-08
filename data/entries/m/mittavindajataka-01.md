@@ -5,7 +5,7 @@ base_headword: "Mittavindajātaka"
 disambiguator: "01"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Mittavindajātaka 01. (Ja 82). This is evidently a fragmentary continuation of t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mittavindajātaka 01. (Ja 82). Đây rõ ràng là một phần tiếp theo còn dang dở của câu chuyện về Mittavinda, như được đưa ra trong Catudvārajātaka (Ja.i.363, *q.v.*).
 
 ## Notes

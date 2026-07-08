@@ -5,7 +5,7 @@ base_headword: "Mātikapiṭṭhaka"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mātikapiṭṭhaka. A *vihāra* in Ceylon, built by the sword-bearer of <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mātikapiṭṭhaka. Một *vihāra* ở Ceylon, do người mang gươm của Aggabodhi II xây dựng. Cv.xlii.43.
 
 ## Notes

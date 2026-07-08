@@ -5,7 +5,7 @@ base_headword: "Merukandara"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -37,6 +37,10 @@ The village of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Merukandara. Một quận ở Malaya (tại Tích Lan), thường được tìm đến như một nơi tị nạn – ví dụ như bởi Kassapa, con trai của Upatissa III. (Cv.xli.19); Jeṭṭhatissa, con trai của *Asiggāhaka* Saṅghatissa (Cv.xliv.28) và Potthakuṭṭha (Cv.xlvii.58).
+
+Vijayabāhu I. đã trao Merukandara làm của hồi môn cho con gái mình, Yasodharā, người đã kết hôn với Vīravaṇṇa (Cv.lix.27).
+
+Ngôi làng Vacāvāṭaka nằm ở Merukandara. Cv.lxx.282.
 
 ## Notes

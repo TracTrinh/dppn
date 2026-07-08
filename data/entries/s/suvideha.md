@@ -5,7 +5,7 @@ base_headword: "Suvidehā"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -27,6 +27,6 @@ Suvidehā. The name of a country and its inhabitants (MN.i.225). It is that part
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suvidehā. Tên của một quốc gia và những người cư ngụ trong đó (MN.i.225). Đó là phần của Videha đối diện với Magadha, ở bờ bên kia sông Hằng (Ganges). MN­a.ii.448.
 
 ## Notes

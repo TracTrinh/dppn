@@ -5,7 +5,7 @@ base_headword: "Muṇḍagutta"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Muṇḍagutta. A resident of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Muṇḍagutta. Một cư dân của Tissambatittha. Vợ của người này là Tissa (10). Ras.ii.31.
 
 ## Notes

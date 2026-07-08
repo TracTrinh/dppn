@@ -5,7 +5,7 @@ base_headword: "Moggallāna"
 disambiguator: "02"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -24,6 +24,6 @@ Moggallāna 02. A celebrated Pāli grammarian of the twelfth century. PLC. 179f.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Moggallāna 02. Một nhà ngữ pháp Pāli nổi tiếng của thế kỷ mười hai. PLC. 179f.
 
 ## Notes

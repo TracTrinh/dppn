@@ -5,7 +5,7 @@ base_headword: "Māṭhara"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -34,6 +34,6 @@ Māṭhara (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māṭhara (*v.l.* Maṭṭhara). Một con vẹt của Mahosadha. Khi Mahosadha muốn tìm hiểu các kế hoạch của Cūḷanī Brahmadatta, ngài đã cử Māṭhara đến gặp con chim sáo sống trong phòng ngủ của Cūḷanī. Māṭhara tỏ tình với nó, giả vờ rằng mình đã đến từ Ariṭṭhapura để cầu hôn nó, vì người vợ đầu (cũng là một con chim sáo) của nó đã bị diều hâu giết. Nó kể những câu chuyện về Vāsudeva và Jambāvatī và về Vaccha và Rattavatī, để chứng minh rằng vợ chồng không cần phải bình đẳng về xuất thân. Sau khi giành được trái tim của con chim sáo và khám phá ra những bí mật của Cūḷanī, Māṭhara bay trở về với Mahosadha (Ja.vi.418ff). Nó được đồng nhất với Ānanda. Ja.vi.478.
 
 ## Notes

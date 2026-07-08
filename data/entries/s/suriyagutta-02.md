@@ -5,7 +5,7 @@ base_headword: "Suriyagutta"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Suriyagutta 02. A Thera belonging to the pupillary succession of <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suriyagutta 02. Một vị Trưởng lão thuộc hệ truyền thừa của Mahā Kassapa. Candagutta là thầy của ngài và Assagutta là đệ tử của ngài. SN­a.iii.125.
 
 ## Notes

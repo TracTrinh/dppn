@@ -5,7 +5,7 @@ base_headword: "Migasira"
 disambiguator: "01"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -33,6 +33,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Migasira 01. Migasira Thera *v.l.* Migasīsa. Ông thuộc về một gia đình Bà-la-môn ở Kosala, và được gọi như vậy vì ông được sinh ra dưới chòm sao Migasira. Ông lĩnh hội văn hóa Bà-la-môn và thực hành bùa chú hộp sọ (*chavasīsamanta*), qua đó ông có thể dùng móng tay gõ vào hộp sọ và tuyên bố số phận của người đã chết. Sau đó, ông trở thành một *Paribbājaka* và đến viếng thăm Đức Phật tại Sāvatthī. Đức Phật, sau khi được kể về những tuyên bố về hiểu biết của ông, đã đưa cho ông hộp sọ của một *Arahant*. Migasira đã thử nghệ thuật của mình, nhưng phải thú nhận rằng mình đã bị đánh bại. Đức Phật sau đó đề nghị dạy ông nếu ông gia nhập Tăng đoàn. Migasira đồng ý và chẳng bao lâu sau đã trở thành một *Arahant*.
+
+Vào thời của Kassapa Buddha, ông là một Bà-la-môn, và, khi nhìn thấy Đức Phật, đã cúng dường Ngài tám phiếu nhận thức ăn (*kusaṭṭha*) (Thag.vss.181f.; Thag­a.i.305ff.). Ông rõ ràng được đồng nhất với Trưởng lão Kusaṭṭhakadāyaka của Apadāna. Ap.ii.416.
 
 ## Notes

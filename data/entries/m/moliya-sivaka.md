@@ -5,7 +5,7 @@ base_headword: "Moliya Sīvaka"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -32,6 +32,10 @@ Another conversation he had with the Buddha is recorded in the <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Moliya Sīvaka. Một *Paribbājaka*. Một lần ông đến yết kiến Đức Phật tại Veḷuvana và thỉnh vấn Ngài về thuyết định mệnh. Đức Phật giải thích cho ông rằng đau khổ sinh ra từ nhiều nguyên nhân khác nhau – mật, đờm, gió, thể dịch trong cơ thể, sự thay đổi của thời tiết, áp lực của những biến cố không lường trước, những cuộc tấn công bất ngờ từ bên ngoài và cũng từ *kamma* của một người – và nói rằng tất cả những điều này là do định mệnh là đi quá xa. Sīvaka bày tỏ sự tán thành của mình và tuyên bố bản thân là môn đệ của Đức Phật (SN.iv.230f.; *Sutta* này được trích dẫn ở Mil. 137).
+
+Một cuộc nói chuyện khác mà ông đã có với Đức Phật được ghi lại trong Aṅguttaranikāya (AN.iii.356). Ở đó ông hỏi Đức Phật liệu những tuyên bố được đưa ra liên quan đến Pháp có chính đáng không. Đức Phật chứng minh cho ông, bằng cách minh họa, rằng chúng là như vậy.
+
+Buddhaghosa giải thích (SN­a.iii.87) rằng tên của *Paribbājaka* là Sīvaka, biệt danh của ông là do ông đã búi tóc thành một chỏm.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mettāsutta"
 disambiguator: "01"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -24,6 +24,6 @@ Mettāsutta 01. On four kinds of persons to be found in the world – those who 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mettāsutta 01. Về bốn hạng người được tìm thấy trên thế gian – những người tỏa sáng khắp mọi phương với lòng từ, bi, hỷ và xả. Sau khi chết, họ được sinh ra trong các cõi *Brahma* khác nhau; nếu họ tình cờ là đệ tử của Đức Phật, họ sẽ không bao giờ trở lại thế giới loài người nữa. AN.ii.128.
 
 ## Notes

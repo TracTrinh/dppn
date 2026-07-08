@@ -5,7 +5,7 @@ base_headword: "Māyādvāra"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Māyādvāra. One of the gates of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māyādvāra. Một trong các cổng thành của Pulatthipura. Cv.lxxiii.162.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mittā"
 disambiguator: "03"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -27,6 +27,6 @@ Mittā 03. Daughter of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mittā 03. Con gái của Māṇābharaṇa (1), chị em gái của bà là Pabhāvatī. Bà kết hôn với Māṇābharaṇa, con trai của Sirivallabha. Cv.lxii.3; lxiii.6; lxiv.19.
 
 ## Notes

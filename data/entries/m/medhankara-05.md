@@ -5,7 +5,7 @@ base_headword: "Medhaṅkara"
 disambiguator: "05"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -31,6 +31,6 @@ Medhaṅkara 05. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Medhaṅkara 05. Medhaṅkara Thera (được gọi là Vanaratana Medhaṅkara). Ngài đã viết Jinacarita và Payogasiddhi và sống vào thời của Bhuvanekabāhu I. Ngài là trụ trì của Vijayabāhupariveṇa, do Vijayabāhu II xây dựng. Gv.62, 72; PLC. 230f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Muhunnaruggāma"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Muhunnaruggāma. A village which formed a stronghold of the <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Muhunnaruggāma. Một ngôi làng từng là thành trì của những người Coḷa vào thời của Vijayabāhu I. Cv.lviii.42.
 
 ## Notes

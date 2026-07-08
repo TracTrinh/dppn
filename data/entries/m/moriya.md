@@ -5,7 +5,7 @@ base_headword: "Moriya"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -25,6 +25,6 @@ Moriya. A very pious Brahmin of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Moriya. Một Bà-la-môn rất ngoan đạo ở Macala. Ông và vợ là Senā đã bố thí cho đến khi cạn kiệt tài sản, nhưng một vị chư thiên đã ban lại cho ông sự giàu có. Ras.i.86f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mittasutta"
 disambiguator: "02"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -23,6 +23,6 @@ Mittasutta 02. A real friend is he who gives what is hard to give, does what is 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mittasutta 02. Một người bạn thực sự là người cho những gì khó cho, làm những gì khó làm, và chịu đựng những gì khó chịu đựng. AN.i.286.
 
 ## Notes

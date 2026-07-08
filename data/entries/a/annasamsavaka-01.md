@@ -26,6 +26,6 @@ Annasaṁsāvaka 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Annasaṁsāvaka 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Annasaṁsāvaka Thera</span>. Một Arahant. Bốn *kappa* trước, ông đã dâng một bữa ăn cho <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Siddhattha Buddha</span>. Ap.i.78.
+Annasaṁsāvaka 01. Annasaṁsāvaka Thera. Một Arahant. Bốn *kappa* trước, ông đã dâng một bữa ăn cho Siddhattha Buddha. Ap.i.78.
 
 ## Notes

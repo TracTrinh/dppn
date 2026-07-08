@@ -5,7 +5,7 @@ base_headword: "Milindapañha"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -29,6 +29,8 @@ There is a Sinhalese translation to it, which is called the *Saddharmādāsaya*,
 
 ## Vietnamese translation
 
-Chưa dịch.
+Milindapañha. Ghi lại cuộc trò chuyện giữa Milinda và Nāgasena. Người ta tin rằng cuốn sách được biên soạn muộn hơn thời điểm diễn ra cuộc trò chuyện và nhiều cuộc trò chuyện được ghi lại là không xác thực. Để xem một cuộc thảo luận, xem *Question of King Milinda*, vol.i.xxv f.
+
+Có một bản dịch tiếng Sinhalese cho tác phẩm này, được gọi là *Saddharmādāsaya*, được viết vào thế kỷ mười tám bởi một vị tỳ-kheo tên là Sumaṅgala. PLC.274.
 
 ## Notes

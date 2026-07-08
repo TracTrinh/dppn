@@ -26,6 +26,6 @@ Aggika Bhāradvāja 02. A Brahmin of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Aggika Bhāradvāja 02. Một Bà-la-môn ở <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Rājagaha</span>, rõ ràng khác với người ở trên, cũng là người chăm lửa. Ông chuẩn bị một bữa ăn để hiến tế, và khi Đức Phật, vì lòng bi mẫn đối với ông, xuất hiện trước nhà ông để khất thực, ông nói rằng bữa ăn chỉ dành cho người có “tam minh” (ba Veda). Đức Phật đưa cho vị Bà-la-môn một cách hiểu khác về “tam minh” (xem <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Aggikasutta</span>). Sau đó, vị Bà-la-môn trở thành người quy y, gia nhập Tăng đoàn, và, đúng thời, chứng đạt quả vị *Arahant*. SN.i.166f.; SN­a.i.179.
+Aggika Bhāradvāja 02. Một Bà-la-môn ở Rājagaha, rõ ràng khác với người ở trên, cũng là người chăm lửa. Ông chuẩn bị một bữa ăn để hiến tế, và khi Đức Phật, vì lòng bi mẫn đối với ông, xuất hiện trước nhà ông để khất thực, ông nói rằng bữa ăn chỉ dành cho người có “tam minh” (ba Veda). Đức Phật đưa cho vị Bà-la-môn một cách hiểu khác về “tam minh” (xem Aggikasutta). Sau đó, vị Bà-la-môn trở thành người quy y, gia nhập Tăng đoàn, và, đúng thời, chứng đạt quả vị *Arahant*. SN.i.166f.; SN­a.i.179.
 
 ## Notes

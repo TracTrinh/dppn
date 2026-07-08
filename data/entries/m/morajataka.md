@@ -5,7 +5,7 @@ base_headword: "Morajātaka"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -35,6 +35,12 @@ The story was told to a backsliding monk who was upset by the sight of a woman m
 
 ## Vietnamese translation
 
-Chưa dịch.
+Morajātaka (Ja 159). Bodhisatta từng sinh làm một con công vàng và sống trên một ngọn đồi vàng ở Daṇḍaka. Ngài thường đọc một câu thần chú để tôn vinh mặt trời và một câu khác để ca ngợi chư Phật, và do đó ngài được bảo vệ khỏi mọi tổn hại. Khemā, hoàng hậu của Benares, thấy trong một giấc mơ một con công vàng đang thuyết pháp. Bà khao khát giấc mơ đó trở thành sự thật và kể nó cho nhà vua nghe. Vua đã dò hỏi, và sai thợ săn đi bắt con công vàng, nhưng họ đã thất bại. Khemā đã chết vì đau buồn, và nhà vua, trong cơn tức giận, đã khắc trên một tấm bảng vàng rằng bất cứ ai ăn thịt của con công vàng sẽ được bất tử. Những người kế vị của ông, nhìn thấy dòng chữ khắc đó, đã phái thợ săn đi, nhưng họ cũng không bắt được Bodhisatta.
+
+Sáu vị vua liên tiếp đã thất bại trong cuộc tìm kiếm này. Vị vua thứ bảy đã thuê một người thợ săn, người này, sau khi quan sát Bodhisatta, đã huấn luyện một con công mái kêu lên khi ông búng ngón tay. Người thợ săn đã giăng bẫy của mình, đi cùng với con công mái và khiến nó kêu lên. Ngay lập tức, con công vàng đã quên mất câu thần chú của mình và bị mắc bẫy. Khi ngài được dẫn đến trước mặt nhà vua và được cho biết lý do bị bắt, ngài đã đồng ý với nhà vua rằng màu vàng của ngài là nhờ vào những việc thiện đã làm trong quá khứ khi làm vua của chính thành phố đó, và ngài là một con công do một số tội lỗi mà ngài đã phạm phải. Việc ăn thịt ngài không thể khiến bất cứ ai trở nên trẻ trung hay bất tử, bởi vì bản thân ngài không hề bất tử. Khi được yêu cầu chứng minh lời nói của mình, ngài đã bảo người ta nạo vét hồ nước gần thành phố, khi đó cỗ xe vàng mà ngài từng cưỡi đã được phát hiện. Nhà vua sau đó đã dành cho ngài sự tôn kính to lớn và đưa ngài trở lại Daṇḍaka.
+
+Câu chuyện được kể cho một tỳ-kheo thối thất, người đã bị bối rối khi nhìn thấy một người phụ nữ ăn mặc lộng lẫy.
+
+Ānanda được đồng nhất với vị vua của Benares (Ja.ii.33-8; câu chuyện được ám chỉ ở Ja.iv.414). Xem thêm Moraparitta.
 
 ## Notes

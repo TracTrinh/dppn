@@ -5,7 +5,7 @@ base_headword: "Moggallāna"
 disambiguator: "07"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -36,6 +36,6 @@ Moggallāna 07. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Moggallāna 07. Con trai của Lokitā và Kassapa. Loka là anh em trai của ông. Moggallāna được biết đến với tước hiệu Mahā Sāmi (xem Cv.Trs.i.195, n.5) và sống ở Rohaṇa. Ông kết hôn với Lokitā, con gái của Buddhā, và có bốn người con trai: Kitti (sau này là Vijayabāhu I.), Mitta, Mahinda và Rakkhita. Cv.lvii.29f., 41f.
 
 ## Notes

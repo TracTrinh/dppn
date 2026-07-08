@@ -5,7 +5,7 @@ base_headword: "Mūla"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Mūla. A minister of King <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mūla. Một đại thần của Vua Vaṭṭagāmaṇī. Ông đã xây dựng *vihāra* Mūlavokāsa. Mhv.xxxix.89; Dpv.xix. 18, 19.
 
 ## Notes

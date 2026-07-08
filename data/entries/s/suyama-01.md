@@ -5,7 +5,7 @@ base_headword: "Suyāma"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Suyāma 01. One of the eight Brahmins consulted at the birth of the Buddha to pr
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suyāma 01. Một trong tám vị Bà-la-môn được tham vấn khi Đức Phật đản sinh để tiên đoán tương lai của Ngài. Ja.i.56; Mil.236.
 
 ## Notes

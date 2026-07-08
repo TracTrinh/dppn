@@ -5,7 +5,7 @@ base_headword: "Muddhaphālanapañha"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Muddhaphālanapañha. The name given to the questions formulated by <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Muddhaphālanapañha. Tên gọi được đặt cho những câu hỏi do Bāvarī (*q.v.*) soạn ra và giao cho các đệ tử của mình để hỏi Đức Phật. Những câu hỏi này được đặt tên như vậy rõ ràng là vì chúng được khơi gợi bởi lời nguyền rủa giáng xuống Bāvarī bởi vị Bà-la-môn, mà yêu cầu xin tiền của vị này đã bị ông từ chối. AN­a, i.183.
 
 ## Notes

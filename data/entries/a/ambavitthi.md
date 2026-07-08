@@ -25,6 +25,6 @@ Ambaviṭṭhi. A village in the north of Ceylon. It was the birthplace of <span
 
 ## Vietnamese translation
 
-Ambaviṭṭhi. Một ngôi làng ở miền bắc Ceylon. Đây là nơi sinh của Trưởng lão <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Cūḷatissa</span>. Ras.ii.30.
+Ambaviṭṭhi. Một ngôi làng ở miền bắc Ceylon. Đây là nơi sinh của Trưởng lão Cūḷatissa. Ras.ii.30.
 
 ## Notes

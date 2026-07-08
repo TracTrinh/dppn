@@ -5,7 +5,7 @@ base_headword: "Mettāsutta"
 disambiguator: "02"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -25,6 +25,6 @@ Mettāsutta 02. Very similar to the above. Such persons are born, after death, i
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mettāsutta 02. Rất giống với phần trên. Những người như vậy sau khi chết được sinh ra trong Suddhāvāsā. AN.ii.129.
 
 ## Notes

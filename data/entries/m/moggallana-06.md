@@ -5,7 +5,7 @@ base_headword: "Moggallāna"
 disambiguator: "06"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -34,6 +34,6 @@ Moggallāna 06. A general of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Moggallāna 06. Một vị tướng của Aggabodhi II. Ông đã nổi dậy chống lại Saṅghatissa, và, sau một vài thất bại, đã đánh bại vị vua này, với sự giúp đỡ của viên *senāpati* (tướng quân) phản trắc, tại Pācīnatissapabbata. Sau đó ông trở thành vua với tên là Moggallāna III. và được biết đến với tên gọi Dabba Moggallāna (Cv.xliv.63). Ông đã làm nhiều việc thiện, trong số đó có việc xây dựng các *vihāra* Moggallāna, Piṭṭhigāma và Vaṭagāma. Ông đã phong viên *senāpati* của Saṅghatissa làm người cai trị Malaya, nhưng sau đó đã cãi vã với ông ta và sai người chặt tay chân của ông ta. Con trai của viên *senāpati* đã đứng lên nổi dậy và giết chết nhà vua gần Sīhagiri. Moggallāna trị vì trong sáu năm (511-17 CN.). Cv.xliv.3-62.
 
 ## Notes

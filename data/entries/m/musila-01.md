@@ -5,7 +5,7 @@ base_headword: "Mūsila"
 disambiguator: "01"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -29,6 +29,6 @@ Mūsila 01. (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mūsila 01. (*v.l.* Musīla, Musila). Devadatta tái sinh làm nhạc công chính của Ujjenī. Để biết câu chuyện của ông, xem Guttilajātaka, Ja 243.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Suyasā"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Suyasā. A palace occupied by <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suyasā. Một cung điện nơi Paduma Buddha ở trước khi Ngài xuất gia. Bv.ix.17; nhưng xem Bv­a.146.
 
 ## Notes

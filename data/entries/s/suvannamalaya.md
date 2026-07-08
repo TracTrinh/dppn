@@ -5,7 +5,7 @@ base_headword: "Suvaṇṇamalaya"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Suvaṇṇamalaya. A place in <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suvaṇṇamalaya. Một địa danh ở Rohaṇa, được đề cập trong tường thuật về các chiến dịch của Parakkamabāhu I. Cv.lxxv.62, 65, 66.
 
 ## Notes

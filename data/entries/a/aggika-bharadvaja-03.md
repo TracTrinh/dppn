@@ -25,6 +25,6 @@ Aggika Bhāradvāja 03. The name assumed by the jackal in the <span class="dppn-
 
 ## Vietnamese translation
 
-Aggika Bhāradvāja 03. Tên do con chó rừng tự nhận trong <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aggikajātaka</span> (Ja 129).
+Aggika Bhāradvāja 03. Tên do con chó rừng tự nhận trong Aggikajātaka (Ja 129).
 
 ## Notes

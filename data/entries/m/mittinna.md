@@ -5,7 +5,7 @@ base_headword: "Mittiṇṇa"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -27,6 +27,6 @@ Mittiṇṇa. The chief of the monks at <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mittiṇṇa. Vị đứng đầu của các tỳ-kheo tại Asokārāma ở Pāṭaliputta. Vị này đã đến cùng một trăm sáu mươi ngàn tỳ-kheo để tham dự Buổi Lễ Đặt Nền Móng của Mahā Thūpa. Mhv.xxix.36; Dpv.xix.5.
 
 ## Notes

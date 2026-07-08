@@ -30,8 +30,8 @@ Acchariyabbhutasutta (or <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Acchariyabbhutasutta (hay <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Acchariyadhammasutta</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Acchariyabbhutadhammasutta</span>). Những điều kỳ diệu đi kèm sự đản sinh của một chúng sinh được định sẽ trở thành <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Gotama Buddha</span>, được mô tả từ lúc ngài rời cõi trời <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Tusita</span>.
+Acchariyabbhutasutta (hay Acchariyadhammasutta, Acchariyabbhutadhammasutta). Những điều kỳ diệu đi kèm sự đản sinh của một chúng sinh được định sẽ trở thành Gotama Buddha, được mô tả từ lúc ngài rời cõi trời Tusita.
 
-<span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Ānanda</span> trình bày các điều ấy một cách chi tiết, trong khi Đức Phật lắng nghe và tán thành. MN.iii.118ff.
+Ānanda trình bày các điều ấy một cách chi tiết, trong khi Đức Phật lắng nghe và tán thành. MN.iii.118ff.
 
 ## Notes

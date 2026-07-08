@@ -5,7 +5,7 @@ base_headword: "Mettāsutta"
 disambiguator: "03"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -24,6 +24,6 @@ Mettāsutta 03. When a man has developed emancipation of the mind through goodwi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mettāsutta 03. Khi một người đã phát triển tâm giải thoát thông qua lòng từ, bi, hỷ và xả, bằng cách vô tướng (*animitta*) và loại bỏ suy nghĩ "tôi là", không thể nói về vị ấy rằng vị ấy đã không tìm được sự giải thoát khỏi những phẩm chất đối nghịch. AN.iii.290f.
 
 ## Notes

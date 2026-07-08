@@ -5,7 +5,7 @@ base_headword: "Suriyopamasutta"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -23,6 +23,6 @@ Suriyopamasutta 02. Just as there is darkness in the world till the sun or the m
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suriyopamasutta 02. Giống như thế giới chìm trong bóng tối cho đến khi mặt trời hay mặt trăng mọc lên, cũng vậy, sự vô minh về bốn Thánh đế tồn tại cho đến khi một vị Phật xuất hiện. SN.v.442f.
 
 ## Notes

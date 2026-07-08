@@ -5,7 +5,7 @@ base_headword: "Migajālena Sutta"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Migajālena Sutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Migajālena Sutta. Migajāla đến thăm Đức Phật và hỏi thế nào là một *ekavihārī* (người sống một mình) và thế nào là một *sadutiyavihārī* (người sống có bạn). Đức Phật trả lời rằng người đắm nhiễm các đối tượng của giác quan là một *sadutiyavihāri*, trong khi người sống một mình là người đã dứt bỏ sự ái dục. SN.iv.35f.
 
 ## Notes

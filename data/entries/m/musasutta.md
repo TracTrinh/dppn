@@ -5,7 +5,7 @@ base_headword: "Musāsutta"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -24,6 +24,6 @@ Musāsutta. A man guilty of lying is born in purgatory. AN.ii.83.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Musāsutta. Một người phạm tội nói dối sẽ tái sinh vào địa ngục. AN.ii.83.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Susuddha"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Susuddha. A king of thirty-two *kappas* ago, a previous birth of <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Susuddha. Một vị vua của ba mươi hai *kappa* trước, một tiền kiếp của Pabbhāradāyaka Thera. Ap.i.252.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Migājina"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -28,6 +28,6 @@ Migājina. An ascetic in <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Migājina. Một ẩn sĩ ở Himavā. Khi Mahā Janaka xuất gia, ông được một đám đông lớn theo sau, và có nguy cơ ông có thể bị quay lưng lại với mục đích cao cả của mình. Migājina, người vừa xuất khỏi một *jhāna* hỷ lạc, nhìn thấy điều này và, xuất hiện trước mặt ông, khuyên ông hãy chuyên cần và kiên định. (Ja.vi.58ff) Migājina được đồng nhất với Moggallāna. Ja.vi.68.
 
 ## Notes

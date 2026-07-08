@@ -5,7 +5,7 @@ base_headword: "Muṇḍanigama"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Muṇḍanigama. A village on the slopes of the <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Muṇḍanigama. Một ngôi làng trên sườn dãy núi Vindhyā. Đây là nơi cư trú của một nam cư sĩ có tên là Mahā Muṇḍa. Dhp­a.iv.128.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Moggalla"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -25,6 +25,6 @@ Moggalla. A man in the retinue of King <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Moggalla. Một người trong nhóm tùy tùng của Vua Eḷeyya. Ông là môn đồ của Uddaka Rāmaputta. AN.ii.187; AN­a, ii.554.
 
 ## Notes

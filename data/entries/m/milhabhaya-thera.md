@@ -5,7 +5,7 @@ base_headword: "Mīḷhābhaya Thera"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -24,6 +24,6 @@ Mīḷhābhaya Thera. An Elder who never lay down on a bed to sleep. The people,
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mīḷhābhaya Thera. Một vị Trưởng lão không bao giờ nằm trên giường để ngủ. Mọi người, nhìn thấy điều này, đã làm cho ngài một chỗ ngồi với phần tựa lưng và phần tựa tay ở hai bên. Vsm.79.
 
 ## Notes

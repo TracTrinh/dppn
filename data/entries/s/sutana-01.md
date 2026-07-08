@@ -5,7 +5,7 @@ base_headword: "Sutanā"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Sutanā 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sutanā 01. Sutanī. Một con linh dương cái, em gái của Bodhisatta. Xem Rohantamigajātaka (Ja 501). Nàng được đồng nhất với Khemā. Ja.iv.423.
 
 ## Notes

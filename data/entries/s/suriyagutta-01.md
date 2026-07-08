@@ -5,7 +5,7 @@ base_headword: "Suriyagutta"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Suriyagutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suriyagutta 01. Suriyagutta Thera Ngài đã từ Kelāsavihāra đến dự Lễ Đặt Nền Móng của Mahā Thūpa cùng với chín mươi sáu ngàn vị khác. Mhv.xxix.43; Dpv.xix.8.
 
 ## Notes

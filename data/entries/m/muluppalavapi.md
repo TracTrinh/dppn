@@ -5,7 +5,7 @@ base_headword: "Mūluppalavāpi"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mūluppalavāpi. A village in Ceylon. A story is told of a monk (according to so
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mūluppalavāpi. Một ngôi làng ở Tích Lan. Một câu chuyện được kể về một vị tỳ-kheo (theo một số bản thảo, tên của ngài là Revata) sống trong *vihāra* gần đó (MN­a.i.536). Ngài là một *Arahant*, và một ngày nọ được mời đến dùng bữa tại nhà của một vị đại thần của nhà vua. Vào cuối bữa ăn, con gái của vị đại thần đã ngồi gần ngài và nói chuyện với ngài. Một vị tỳ-kheo khác, khi nhìn thấy họ, nghĩ rằng họ đang ngồi trên cùng một chỗ, và khi vị Trưởng lão trở về *vihāra*, vị tỳ-kheo kia đã thể hiện sự không hài lòng của mình bằng nhiều cách. Nhận ra lý do của hành vi kỳ lạ của vị tỳ-kheo đó, vị Trưởng lão đã thuyết phục vị ấy rằng, là một *Arahant*, ngài không thể có hành vi như đã bị gán cho.
 
 ## Notes

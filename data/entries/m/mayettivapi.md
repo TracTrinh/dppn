@@ -5,7 +5,7 @@ base_headword: "Mayettivāpī"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Mayettivāpī. A tank, enlarged by <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mayettivāpī. Một hồ chứa nước, được Udaya II. mở rộng. Cv.Ii.130.
 
 ## Notes

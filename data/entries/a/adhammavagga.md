@@ -24,6 +24,6 @@ Adhammavagga. The tenth chapter of the *Ekanipāta* of the <span class="dppn-ter
 
 ## Vietnamese translation
 
-Adhammavagga. Chương thứ mười của *Ekanipāta* thuộc <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aṅguttaranikāya</span> (AN.i.16-19). Chương này gồm bốn mươi hai *Sutta*, chủ yếu bàn về tai hại phát sinh khi các vị tỳ-kheo mô tả điều không phải là Pháp như là Pháp và ngược lại.
+Adhammavagga. Chương thứ mười của *Ekanipāta* thuộc Aṅguttaranikāya (AN.i.16-19). Chương này gồm bốn mươi hai *Sutta*, chủ yếu bàn về tai hại phát sinh khi các vị tỳ-kheo mô tả điều không phải là Pháp như là Pháp và ngược lại.
 
 ## Notes

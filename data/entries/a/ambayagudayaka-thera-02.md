@@ -27,6 +27,6 @@ Ambayāgudāyaka Thera 02. (<span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Ambayāgudāyaka Thera 02. (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ambayāgadāyaka Thera</span>?). Một *Arahant*. Chín mươi bốn *kappas* trước, ngài đã gặp một <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Pacceka Buddha</span> tên là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Sataraṁsī</span>, khi vị ấy vừa xuất khỏi *samādhi*, và đã dâng cho vị ấy một món cháo loãng (?) làm từ xoài (Ap.i.284).
+Ambayāgudāyaka Thera 02. (Ambayāgadāyaka Thera?). Một *Arahant*. Chín mươi bốn *kappas* trước, ngài đã gặp một Pacceka Buddha tên là Sataraṁsī, khi vị ấy vừa xuất khỏi *samādhi*, và đã dâng cho vị ấy một món cháo loãng (?) làm từ xoài (Ap.i.284).
 
 ## Notes

@@ -26,6 +26,6 @@ Akkantasaññaka Thera. An *Arahant*. In a previous birth he gave his ragged gar
 
 ## Vietnamese translation
 
-Akkantasaññaka Thera. Một vị *Arahant*. Trong một tiền kiếp, vị ấy đã dâng y rách của mình lên Đức Phật <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Tissa Buddha</span>. Có lần vị ấy sinh làm vua tên là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sunanda</span>. Ap.i.211f.
+Akkantasaññaka Thera. Một vị *Arahant*. Trong một tiền kiếp, vị ấy đã dâng y rách của mình lên Đức Phật Tissa Buddha. Có lần vị ấy sinh làm vua tên là Sunanda. Ap.i.211f.
 
 ## Notes

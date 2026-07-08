@@ -5,7 +5,7 @@ base_headword: "Mayhaka"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -24,6 +24,6 @@ Mayhaka. A bird, see the <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mayhaka. Một loài chim, xem Mayhakajātaka (Ja 390).
 
 ## Notes

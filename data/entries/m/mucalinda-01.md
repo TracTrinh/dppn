@@ -5,7 +5,7 @@ base_headword: "Mucalinda"
 disambiguator: "01"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -24,6 +24,6 @@ Mucalinda 01. A legendary king, descended from <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mucalinda 01. Một vị vua huyền thoại, hậu duệ của Mahā Sammata. Mhv.ii.3; Dpv.iii.6; Mvu.i.348.
 
 ## Notes

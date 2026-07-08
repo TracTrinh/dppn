@@ -5,7 +5,7 @@ base_headword: "Suttavādā"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Suttavādā. A heretical sect, a branch of the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suttavādā. Một giáo phái dị giáo, một nhánh của Saṅkantika. Dpv.v.48; Mhv.v.9; *Points of Controversy*, pp. 3, 5.
 
 ## Notes

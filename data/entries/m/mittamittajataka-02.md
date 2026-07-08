@@ -5,7 +5,7 @@ base_headword: "Mittāmittajātaka"
 disambiguator: "02"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -29,6 +29,8 @@ The story was told to the king of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mittāmittajātaka 02. (Ja 473). Bodhisatta từng là đại thần của Brahmadatta, vua xứ Benares. Vào thời điểm đó, các đại thần khác đang vu khống một cận thần cương trực nọ. Nhà vua đã thỉnh ý Bodhisatta, vị này đã chỉ ra cho ngài những dấu hiệu của một người bạn trái ngược với những dấu hiệu của một kẻ thù.
+
+Câu chuyện được kể cho vua xứ Kosala, người đã thỉnh ý Đức Phật về một vấn đề tương tự. Ja.iv.496ff.
 
 ## Notes

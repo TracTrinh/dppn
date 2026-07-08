@@ -25,6 +25,6 @@ Annabhāra 02. A former birth of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Annabhāra 02. Một tiền kiếp của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Anuruddha Thera</span>. Câu chuyện của ông được kể trong mục về vị Trưởng lão.
+Annabhāra 02. Một tiền kiếp của Anuruddha Thera. Câu chuyện của ông được kể trong mục về vị Trưởng lão.
 
 ## Notes

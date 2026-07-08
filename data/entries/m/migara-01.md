@@ -5,7 +5,7 @@ base_headword: "Migāra"
 disambiguator: "01"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -33,6 +33,6 @@ Migāra 01. A *seṭṭhi* of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Migāra 01. Một *seṭṭhi* (trưởng giả) ở Sāvatthī. Con trai của ông, Puṇṇavaḍḍhana, kết hôn với Visākhā. Ông rõ ràng không giàu có bằng cha của Visākhā là Dhanañjaya, vì ông đã đuổi về một đoàn tùy tùng lớn muốn đi theo Visākhā đến ngôi nhà mới của cô, với lý do rằng ông không đủ khả năng để nuôi họ. Migāra là một tín đồ của các Nigaṇṭha, và đã tức giận khi Visākhā từ chối hầu hạ và đảnh lễ họ khi họ đến thăm nhà ông. Một ngày nọ, trong khi Migāra đang ăn và Visākhā đang đứng bên cạnh quạt cho ông, một tỳ-kheo dừng lại trước cửa nhà họ, và Visākhā bước sang một bên để Migāra có thể nhìn thấy vị ấy. Nhưng Migāra từ chối chú ý đến tỳ-kheo, do đó Visākhā đã yêu cầu vị ấy đi nơi khác, nói rằng Migāra đang ăn "đồ ăn cũ" (*purānaṁ*). Điều này khiến Migāra vô cùng tức giận, và ông ra lệnh đuổi cô ra khỏi nhà. Nhưng những người hầu từ chối thực hiện mệnh lệnh của ông, và ông buộc phải đồng ý với đề nghị của Visākhā là nên đệ trình vấn đề lên tám gia chủ đã đi cùng cô để phân xử nhằm điều tra những tranh chấp có bản chất như vậy. Do đó, Migāra đã kể ra cho họ một loạt các bất bình của ông đối với Visākhā, nhưng cô được phán quyết là hoàn toàn vô tội và dọa sẽ quay về với cha mình ngay lập tức. Migāra cầu xin cô ở lại, và cô đồng ý với điều kiện là ông phải mời Đức Phật và các tỳ-kheo của Ngài đến dùng bữa. Ông đã làm như vậy, nhưng các Nigaṇṭha không cho phép ông hầu hạ Đức Phật. Tuy nhiên, khi kết thúc bữa ăn, vì lịch sự, ông khăng khăng muốn nghe Đức Phật thuyết giảng, dù chỉ từ sau một bức màn. Khi kết thúc bài giảng, Migāra đã trở thành một *Sotāpanna*, và, nhận ra sai lầm trong đường lối của mình, đã nhận Visākhā làm mẹ của mình bằng cách bú sữa từ vú của cô. Từ đó trở đi Visākhā được gọi là Migāramātā. Ngày hôm sau, Đức Phật lại được mời đến, và vợ của Migāra đã trở thành một *Sotāpanna*. Từ ngày đó trở đi, họ đã mở cửa đón tiếp Đức Phật và các tỳ-kheo của Ngài. Như một biểu hiện của lòng biết ơn, Migāra đã tổ chức một lễ hội lớn để vinh danh Visākhā, và Đức Phật cùng các tỳ-kheo của Ngài đã được mời đến. Cô được tắm bằng mười sáu bình nước thơm và được tặng một món đồ trang sức nạm ngọc gọi là *Ghanamaṭṭhakapasādhana* (Dhp­a.i.387ff.; AN­a.i.220; MN­a.i.471f). Có lẽ chính Migāra này có cháu trai tên là Sāḷha (*q.v.*) Migāranattā; nhưng xem Migāra (2).
 
 ## Notes

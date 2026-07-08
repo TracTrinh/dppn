@@ -5,7 +5,7 @@ base_headword: "Sūtigharacetiya"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Sūtigharacetiya. A *Thūpa*, one hundred and twenty cubits in height, in <span 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sūtigharacetiya. Một tháp (*Thūpa*), cao một trăm hai mươi thước mộc, ở Puṅkhagāma, được Parakkamabāhu I dựng lên trên nền tảng ngôi nhà nơi ngài sinh ra. Cv.lxxix.61.
 
 ## Notes

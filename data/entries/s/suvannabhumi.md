@@ -5,7 +5,7 @@ base_headword: "Suvaṇṇabhūmi"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -41,6 +41,10 @@ There seems to have been regular trade between <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suvaṇṇabhūmi. Một quốc gia. Vào cuối kỳ Kết tập thứ ba, các Trưởng lão Soṇa và Uttara đã đến thăm đất nước này để truyền bá đạo Phật. Vào thời điểm đó, một nữ thần biển có thói quen ăn thịt mọi hoàng tử do nhà vua sinh ra. Sự xuất hiện của các Trưởng lão trùng với sự ra đời của một hoàng tử. Lúc đầu mọi người nghĩ rằng các tỳ-kheo là bạn của con quỷ, nhưng sau đó các tỳ-kheo, khi được kể câu chuyện, đã xua đuổi con quỷ bằng thần thông (*iddhi*) của họ và dựng lên một bức tường bảo vệ quanh đất nước bằng cách tụng Brahmajālasutta. Sáu mươi ngàn người đã theo đức tin mới, trong khi ba ngàn năm trăm nam thanh niên và một ngàn năm trăm thiếu nữ thuộc các gia đình quý tộc gia nhập Tăng đoàn. Kể từ đó tất cả các hoàng tử sinh ra trong hoàng gia đều được gọi là Soṇuttara (Mhv.xii.6, 44f.; Dpv.viii.12; Vin-a.i.64).
+
+Dường như đã có hoạt động thương mại thường xuyên giữa Bharukaccha và Suvaṇṇabhūmi (Xem, ví dụ, Ja.iii.188), và cũng giữa nơi sau và Benares (Moliṇi), (Ja.iv.15), Mithilā (Ja.vi.34), Sāvatthī (Pv-a.47), và Pāṭaliputta (Pv-a.271). Khoảng cách giữa Tích Lan và Suvaṇṇabhūmi là bảy trăm do-tuần, và nếu có gió thuận, có thể đi trong bảy ngày đêm (AN­a.i.265).
+
+Suvaṇṇabhūmi thường được đồng nhất với Hạ Miến Điện, có lẽ là các vùng Pagan và Moulmein. Nó có thể bao gồm bờ biển từ Rangoon đến Singapore. Nơi sầm uất nhất ở Suvaṇṇabhūmi là thành phố (*nagara*) Sudhamma – tức là Thaton – ở cửa sông Sittaung (Xem Sās. Introd., p.4, và n.3). Tuy nhiên, Fleet gợi ý (JRAS.1910, p.428) rằng đó có thể là quận ở Bengal mà Huyền Trang gọi là “Ka-lo-na-su-fa-la-na” (*Karṇasuvarṇa*), hoặc một quốc gia dọc theo sông Son ở Trung Ấn, một phụ lưu của sông Hằng (Ganges), nằm bên hữu ngạn của con sông cũng được gọi là *Hiraṇyavāha*. Có khả năng là có hai địa danh cùng tên, một địa danh ban đầu ở chính Ấn Độ và địa danh kia ở vùng Viễn Ấn. cf. Sunāparanta.
 
 ## Notes

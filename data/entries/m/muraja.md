@@ -5,7 +5,7 @@ base_headword: "Muraja"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Muraja. An inhabitant of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Muraja. Một cư dân của Rammavatī. Ông là tiền kiếp của Trưởng lão Bodhi-upatthāyaka. Ap.i.194.
 
 ## Notes

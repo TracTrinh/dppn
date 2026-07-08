@@ -5,7 +5,7 @@ base_headword: "Medhaṅkara"
 disambiguator: "06"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -28,6 +28,6 @@ Medhaṅkara 06. A Burmese author of the fourteenth century. He was the royal pr
 
 ## Vietnamese translation
 
-Chưa dịch.
+Medhaṅkara 06. Một tác giả người Miến Điện của thế kỷ mười bốn. Ông là thầy giáo hoàng gia của Vương hậu Bhaddā, mẹ của Setibhinda, vua của *nagara* Muttima. Ông đã học tập một thời gian ở Ceylon và sau đó viết Lokadīpasāra. Sās. p. 42; Bode, 35f.
 
 ## Notes

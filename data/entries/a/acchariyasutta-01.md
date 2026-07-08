@@ -24,6 +24,6 @@ Acchariyasutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Acchariyasutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Gotama Buddha</span> giảng về điều kỳ diệu và con đường đưa đến điều ấy. SN.iv.371.
+Acchariyasutta 01. Gotama Buddha giảng về điều kỳ diệu và con đường đưa đến điều ấy. SN.iv.371.
 
 ## Notes

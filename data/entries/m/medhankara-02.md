@@ -5,7 +5,7 @@ base_headword: "Medhaṅkara"
 disambiguator: "02"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -25,6 +25,6 @@ Medhaṅkara 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Medhaṅkara 02. Medhaṅkara Thera. Ngài sống ở Ceylon, và là tác giả của một tác phẩm tiếng Sinhalese gọi là *Vinayārthasamuccaya*. PLC.202.
 
 ## Notes

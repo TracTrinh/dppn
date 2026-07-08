@@ -28,6 +28,6 @@ Anujjā (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Anujjā (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Anojā</span>). Vợ của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Vidhurapaṇḍita</span>. Bà có một nghìn người con trai, những người bà triệu tập để từ biệt <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Vidhura</span> khi ông ra đi cùng <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Puṇṇaka</span> (Ja.vi.290). Bà được miêu tả là một phụ nữ dũng cảm.
+Anujjā (*v.l.* Anojā). Vợ của Vidhurapaṇḍita. Bà có một nghìn người con trai, những người bà triệu tập để từ biệt Vidhura khi ông ra đi cùng Puṇṇaka (Ja.vi.290). Bà được miêu tả là một phụ nữ dũng cảm.
 
 ## Notes

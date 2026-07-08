@@ -5,7 +5,7 @@ base_headword: "Mita"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -24,6 +24,6 @@ Mita. A stronghold in Ceylon, mentioned in the account of the campaigns of <span
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mita. Một pháo đài ở Ceylon, được nhắc đến trong bản tường thuật về các chiến dịch của Parakkamabāhu I. Cv.lxx.134.
 
 ## Notes

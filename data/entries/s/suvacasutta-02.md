@@ -5,7 +5,7 @@ base_headword: "Suvacasutta"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Suvacasutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suvacasutta 02. Sāriputta giải thích bài kinh (*Sutta*) trên. AN.iv.30.
 
 ## Notes

@@ -24,6 +24,6 @@ Antaramegiri. A monastery built by King <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Antaramegiri. Một tu viện do vua <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Dhātusena</span> xây dựng. Cv.xxxviii.48.
+Antaramegiri. Một tu viện do vua Dhātusena xây dựng. Cv.xxxviii.48.
 
 ## Notes

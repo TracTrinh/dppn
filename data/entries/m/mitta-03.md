@@ -5,7 +5,7 @@ base_headword: "Mitta"
 disambiguator: "03"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -27,6 +27,6 @@ Mitta 03. A general of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mitta 03. Một vị tướng của Vijayabāhu IV. Ông đã sát hại Vijayabāhu và chiếm ngai vàng trong vài ngày ở Jambuddoṇi, nhưng đội lính đánh thuê Ariyan đã từ chối trung thành với ông, và thủ lĩnh của họ, Ṭhakuraka, đã chặt đầu ông khi ông đang ngồi trên ngai vàng. Cv.xc.2ff.
 
 ## Notes

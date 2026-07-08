@@ -5,7 +5,7 @@ base_headword: "Moggallānavihāra"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -26,6 +26,6 @@ Moggallānavihāra. A monastery built by <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Moggallānavihāra. Một tu viện do Moggallāna III xây dựng ở Kārapiṭṭhi. Cv.xliv.50.
 
 ## Notes

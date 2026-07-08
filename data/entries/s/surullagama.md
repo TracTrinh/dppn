@@ -5,7 +5,7 @@ base_headword: "Surullagāma"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Surullagāma. A village in Ceylon, mentioned in the campaigns of <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Surullagāma. Một ngôi làng ở Tích Lan (Ceylon), được nhắc đến trong các chiến dịch của Parakkamabāhu I. Cv.lxxii.139.
 
 ## Notes

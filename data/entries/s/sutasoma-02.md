@@ -5,7 +5,7 @@ base_headword: "Sutasoma"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sutasoma 02. The Bodhisatta, born as king of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sutasoma 02. Bodhisatta, sinh ra là vua nước Indapatta. Xem Mahā Sutasomajātaka (Ja 537).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Meghabba"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Meghabba (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Meghabba (*v.l.* Meghava). Một vị vua của hai mươi sáu *kappa* trước, một tiền kiếp của Miñjavataṁsakiya Thera. Ap.i.216.
 
 ## Notes

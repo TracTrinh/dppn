@@ -5,7 +5,7 @@ base_headword: "Mattā"
 disambiguator: "01"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Mattā 01. A Therī who came to Ceylon from <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mattā 01. Một vị Therī đã đến Ceylon từ Jambudīpa và dạy Vinaya ở Anurādhapura. Dpv.xviii.12.
 
 ## Notes

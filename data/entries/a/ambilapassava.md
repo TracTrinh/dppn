@@ -31,10 +31,10 @@ The *vihāra* and the village were dedicated to the ascetics of the <span class=
 
 ## Vietnamese translation
 
-Ambilapassava. Một ngôi làng ở Ceylon, gần <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Kurunda</span>, nơi cư trú của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Mahā Siva</span> (gần Mannar, Cv. trans. i.66, n.6).
+Ambilapassava. Một ngôi làng ở Ceylon, gần Kurunda, nơi cư trú của Mahā Siva (gần Mannar, Cv. trans. i.66, n.6).
 
-<span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Aggabodhi I</span> xây một *vihāra* tại đó và cấp ngôi làng để duy trì vihāra ấy.
+Aggabodhi I xây một *vihāra* tại đó và cấp ngôi làng để duy trì vihāra ấy.
 
-*Vihāra* và ngôi làng được hiến cúng cho các ẩn sĩ thuộc hội đoàn <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Theravāda</span>. Cv.xlii.17.
+*Vihāra* và ngôi làng được hiến cúng cho các ẩn sĩ thuộc hội đoàn Theravāda. Cv.xlii.17.
 
 ## Notes

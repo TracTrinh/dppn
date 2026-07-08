@@ -26,6 +26,6 @@ Ambavāpi. A tank at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Ambavāpi. Một hồ chứa nước tại <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Būkakalla</span> ở Ceylon. Hồ này được người Damiḷa <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Potthakuṭṭha</span> giao cho *Mātambiyapadhānaghara*. Cv.xlvi.1920.
+Ambavāpi. Một hồ chứa nước tại Būkakalla ở Ceylon. Hồ này được người Damiḷa Potthakuṭṭha giao cho *Mātambiyapadhānaghara*. Cv.xlvi.1920.
 
 ## Notes

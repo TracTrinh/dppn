@@ -24,6 +24,6 @@ Ambilajanapada. A district in Ceylon. In it was the <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Ambilajanapada. Một vùng ở Ceylon. Trong vùng này có <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Rajatalena</span>. Mhv­ṭ.400.
+Ambilajanapada. Một vùng ở Ceylon. Trong vùng này có Rajatalena. Mhv­ṭ.400.
 
 ## Notes

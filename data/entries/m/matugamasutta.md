@@ -5,7 +5,7 @@ base_headword: "Mātugāmasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -24,6 +24,6 @@ Mātugāmasutta. No woman can persistently possess the heart of a man who is inf
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mātugāmasutta. Không một người phụ nữ nào có thể liên tục sở hữu trái tim của một người đàn ông bị ảnh hưởng bởi lợi lộc và sự tâng bốc. SN.ii.234.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Meḷajina Thera"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -29,6 +29,8 @@ Ninety-four *kappas* ago, in the time of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Meḷajina Thera. Ngài thuộc một gia đình quý tộc ở Benares, và, khi trở nên xuất chúng trong nhiều lĩnh vực tri thức khác nhau, đã đến thăm Đức Phật tại Isipatana. Ở đó, khởi sinh niềm tin, ngài đã gia nhập Tăng đoàn, đắc quả vị *Arahant* trong thời gian sau đó.
+
+Chín mươi tư *kappa* trước, vào thời của Sumedha Buddha, ngài là một gia chủ, và khi nhìn thấy Đức Phật đang đi khất thực, ngài đã cúng dường cho ngài một quả *āmoda*. Thag.131f; Thag­a.i.252f.
 
 ## Notes

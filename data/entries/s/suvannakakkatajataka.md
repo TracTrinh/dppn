@@ -5,7 +5,7 @@ base_headword: "Suvaṇṇakakkaṭajātaka"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -32,6 +32,8 @@ The story was told in reference to <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suvaṇṇakakkaṭajātaka (Ja 389). Bodhisatta là một nông dân Bà-la-môn ở Sālindiya. Trên đường đi làm ruộng, chàng đi ngang qua một cái ao và trở nên thân thiết với một con cua vàng sống trong ao đó. Một con quạ mái thèm ăn mắt của người nông dân, và đã thuyết phục chồng xúi giục một con rắn cắn người nông dân. Con rắn đã làm vậy, và, bị chất độc đánh gục, người nông dân ngã gục gần ao. Thu hút bởi tiếng động, con cua ngoi lên, và, thấy con quạ chuẩn bị mổ mắt người nông dân, cua dùng càng kẹp chặt con quạ. Khi con rắn đến giải cứu con quạ, cua cũng kẹp chặt nó. Cua buộc con rắn phải hút nọc độc khỏi cơ thể người nông dân, và, khi chàng đứng dậy, cua đã bóp nát cổ cả con rắn và con quạ rồi giết chết chúng.
+
+Câu chuyện này được kể lại liên quan đến nỗ lực của Ānanda nhằm cứu Đức Phật khỏi con voi (Dhanapāla) do Devadatta phái đến để giết Ngài, bằng cách đứng chắn giữa con voi và Đức Phật. Māra là con rắn, Devadatta là con quạ, và Ānanda, là con cua. Ciñcāmāṇavikā là quạ mái. Ja.iii.293-8.
 
 ## Notes

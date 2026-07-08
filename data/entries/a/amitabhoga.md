@@ -30,6 +30,6 @@ Amitabhogā. Five *seṭṭhīs* in <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Amitabhogā. Năm vị trưởng giả trong lãnh thổ của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Bimbisāra</span>, có tài sản vô hạn. Họ là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Jotiya</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Jaṭila</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Meṇḍaka</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Puṇṇaka</span>, và <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Kākavaliya</span>. AN­a.i.220; để biết chi tiết, xem *s.v.*
+Amitabhogā. Năm vị trưởng giả trong lãnh thổ của Bimbisāra, có tài sản vô hạn. Họ là Jotiya, Jaṭila, Meṇḍaka, Puṇṇaka, và Kākavaliya. AN­a.i.220; để biết chi tiết, xem *s.v.*
 
 ## Notes

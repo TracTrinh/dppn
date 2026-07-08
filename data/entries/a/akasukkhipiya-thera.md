@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Ākāsukkhipiya Thera. Một vị *Arahant*. Trong một tiền kiếp, ông đã dâng một bông hoa sen lên Đức Phật <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Siddhattha Buddha</span> và tung một bông hoa khác lên bầu trời phía trên Ngài. Ba mươi hai kiếp (*kappas*) trước, ông là một vị vua tên là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Antalikkhacara</span>. Ap.i.230.
+Ākāsukkhipiya Thera. Một vị *Arahant*. Trong một tiền kiếp, ông đã dâng một bông hoa sen lên Đức Phật Siddhattha Buddha và tung một bông hoa khác lên bầu trời phía trên Ngài. Ba mươi hai kiếp (*kappas*) trước, ông là một vị vua tên là Antalikkhacara. Ap.i.230.
 
 ## Notes

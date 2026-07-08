@@ -5,7 +5,7 @@ base_headword: "Metteyyapañha"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -25,6 +25,6 @@ Metteyyapañha. Evidently another name for <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Metteyyapañha. Rõ ràng là một tên gọi khác cho Tissametteyyapucchā (*q.v.*). (AN.iii.399).
 
 ## Notes

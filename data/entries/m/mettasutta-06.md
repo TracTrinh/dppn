@@ -5,7 +5,7 @@ base_headword: "Mettāsutta"
 disambiguator: "06"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -24,6 +24,6 @@ Mettāsutta 06. The idea of goodwill, if cultivated, leads to much profit. SN.v.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mettāsutta 06. Ý nghĩ về lòng từ, nếu được tu tập, dẫn đến nhiều lợi ích. SN.v.131.
 
 ## Notes

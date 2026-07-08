@@ -5,7 +5,7 @@ base_headword: "Mudusītala"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mudusītala. Thirty-seven *kappas* ago there were seven kings of this name, prev
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mudusītala. Ba mươi bảy *kappa* trước, có bảy vị vua mang tên này, là những kiếp trước của Arāmadāyaka Thera. Ap.i.251.
 
 ## Notes

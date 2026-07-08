@@ -5,7 +5,7 @@ base_headword: "Suruci"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Suruci 01. The Bodhisatta born as a Brahmin in the time of <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suruci 01. Bodhisatta sinh ra là một Bà-la-môn trong thời của Maṅgala Buddha. Ja.i.32; Bv.iv.10.
 
 ## Notes

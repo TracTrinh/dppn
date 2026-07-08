@@ -5,7 +5,7 @@ base_headword: "Meghasutta"
 disambiguator: "02"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -24,6 +24,6 @@ Meghasutta 02. Just as a strong wind disperses rain clouds, so does the Noble Ei
 
 ## Vietnamese translation
 
-Chưa dịch.
+Meghasutta 02. Giống như một cơn gió mạnh làm tan biến những đám mây mưa, Bát Thánh đạo cũng làm tan biến mọi khổ đau. SN.v.50.
 
 ## Notes

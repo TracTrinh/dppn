@@ -24,6 +24,6 @@ Antalikkhacara. A king who reigned thirty-two *kappas* ago; <span class="dppn-te
 
 ## Vietnamese translation
 
-Antalikkhacara. Một vị vua trị vì cách đây ba mươi hai *kappa*; là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ākāsukkhipiya Thera</span> trong một đời trước. Ap.i.230.
+Antalikkhacara. Một vị vua trị vì cách đây ba mươi hai *kappa*; là Ākāsukkhipiya Thera trong một đời trước. Ap.i.230.
 
 ## Notes

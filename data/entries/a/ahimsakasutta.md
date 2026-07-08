@@ -25,6 +25,6 @@ Ahiṁsakasutta. Records the interview between the Buddha and <span class="dppn-
 
 ## Vietnamese translation
 
-Ahiṁsakasutta. Ghi lại cuộc gặp gỡ giữa Đức Phật và <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ahiṁsaka Bhāradvāja</span> (SN.i.164).
+Ahiṁsakasutta. Ghi lại cuộc gặp gỡ giữa Đức Phật và Ahiṁsaka Bhāradvāja (SN.i.164).
 
 ## Notes

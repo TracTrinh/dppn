@@ -5,7 +5,7 @@ base_headword: "Muttisutta"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -23,6 +23,6 @@ Muttisutta. The Buddha teaches release and the path thereto. SN.iv.372.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Muttisutta. Đức Phật giảng dạy về sự giải thoát và con đường dẫn đến sự giải thoát đó. SN.iv.372.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mucalindavagga"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -24,6 +24,6 @@ Mucalindavagga. The second chapter of the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mucalindavagga. Chương thứ hai của Udāna.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Susīmadevī"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -27,6 +27,6 @@ Susīmadevī. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Susīmadevī. Vợ của Amitodana. Con gái của bà, Bhaddākaccānā, trở thành vương hậu của Paṇḍuvāsudeva. Mhv­ṭ.275.
 
 ## Notes

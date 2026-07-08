@@ -5,7 +5,7 @@ base_headword: "Suriyapeyyāla"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Suriyapeyyāla. A series of discourses based on the sun. SN.v.29.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suriyapeyyāla. Một loạt các bài kinh dựa trên chủ đề về mặt trời. SN.v.29.
 
 ## Notes

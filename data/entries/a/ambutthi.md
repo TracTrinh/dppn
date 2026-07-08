@@ -25,6 +25,6 @@ Ambuṭṭhi. A tank built by <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Ambuṭṭhi. Một hồ chứa nước do <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Upatissa II</span> xây dựng. Cv.xxxvii.185.
+Ambuṭṭhi. Một hồ chứa nước do Upatissa II xây dựng. Cv.xxxvii.185.
 
 ## Notes

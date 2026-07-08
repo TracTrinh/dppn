@@ -5,7 +5,7 @@ base_headword: "Muṇḍannānaṅkoṇḍa"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Muṇḍannānaṅkoṇḍa. A place in South India, mentioned in the account of
 
 ## Vietnamese translation
 
-Chưa dịch.
+Muṇḍannānaṅkoṇḍa. Một địa danh ở miền Nam Ấn Độ, được đề cập trong bản ghi chép về các chiến dịch của Laṅkāpura. Cv.lxxvi.212.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mayūra"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Mayūra. One of the three palaces of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mayūra. Một trong ba cung điện của Vidhurapaṇḍita (Ja 545). Ja.vi.289.
 
 ## Notes

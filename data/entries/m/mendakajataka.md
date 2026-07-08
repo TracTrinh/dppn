@@ -5,7 +5,7 @@ base_headword: "Meṇḍakajātaka"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -25,6 +25,6 @@ Meṇḍakajātaka (Ja 471). Another name for <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Meṇḍakajātaka (Ja 471). Một tên gọi khác của Meṇḍakapañha.
 
 ## Notes

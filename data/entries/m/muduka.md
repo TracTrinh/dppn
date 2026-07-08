@@ -5,7 +5,7 @@ base_headword: "Mudukā"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -24,6 +24,6 @@ Mudukā. A celebrated musician or, perhaps, a divine musical instrument. Vv.ii.1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mudukā. Một nhạc công nổi tiếng hoặc, có lẽ, một loại nhạc cụ của chư thiên. Vv.ii.1; Vv-a.94, 211; xem thêm p. 372.
 
 ## Notes

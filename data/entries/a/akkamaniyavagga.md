@@ -25,6 +25,6 @@ Akkamanīyavagga. The third section of the *Ekanipāta* of the <span class="dppn
 
 ## Vietnamese translation
 
-Akkamanīyavagga. Phần thứ ba của *Ekanipāta* thuộc <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aṅguttaranikāya</span>. AN.i.5-6.
+Akkamanīyavagga. Phần thứ ba của *Ekanipāta* thuộc Aṅguttaranikāya. AN.i.5-6.
 
 ## Notes

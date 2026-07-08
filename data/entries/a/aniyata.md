@@ -25,6 +25,6 @@ Aniyata. The third division of the <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Aniyata. Phần thứ ba của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Pārājika</span> trong <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Suttavibhaṅga</span>. Một hạng giới luật đặc biệt chưa được xác định. Vin.iii.187-94.
+Aniyata. Phần thứ ba của Pārājika trong Suttavibhaṅga. Một hạng giới luật đặc biệt chưa được xác định. Vin.iii.187-94.
 
 ## Notes

@@ -26,6 +26,6 @@ Ahaha. One of the purgatories mentioned in the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Ahaha. Một trong các địa ngục được đề cập trong danh sách của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Suttanipāta</span> (p.126). Đây là tên chỉ một giai đoạn chịu khổ ở <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Avīci</span> và có thời gian tương đương hai mươi <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Ababā</span> (Snp-a.ii.476; SN.i.152).
+Ahaha. Một trong các địa ngục được đề cập trong danh sách của Suttanipāta (p.126). Đây là tên chỉ một giai đoạn chịu khổ ở Avīci và có thời gian tương đương hai mươi Ababā (Snp-a.ii.476; SN.i.152).
 
 ## Notes

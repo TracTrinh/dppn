@@ -5,7 +5,7 @@ base_headword: "Medhārāma"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -25,6 +25,6 @@ Medhārāma. The park wherein <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Medhārāma. Khu công viên nơi Sumedha Buddha viên tịch. Bv.xii.31.
 
 ## Notes

@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Āghātavinayasutta 02. Bài thuyết pháp của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sāriputta</span> cho các tỳ-kheo về cách thức sân hận phát sinh trong con người, và các phương pháp để khắc phục nó. Các phương pháp này được minh họa bằng nhiều ẩn dụ. AN.iii.186-90.
+Āghātavinayasutta 02. Bài thuyết pháp của Sāriputta cho các tỳ-kheo về cách thức sân hận phát sinh trong con người, và các phương pháp để khắc phục nó. Các phương pháp này được minh họa bằng nhiều ẩn dụ. AN.iii.186-90.
 
 ## Notes

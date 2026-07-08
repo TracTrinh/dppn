@@ -5,7 +5,7 @@ base_headword: "Migāra"
 disambiguator: "03"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -33,6 +33,8 @@ The Commentary says (AN­a.ii.697) that <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Migāra 03. Migāra Rohaṇeyya. Một trưởng giả rất giàu có ở Sāvatthī. Ugga, đại thần của Pasenadi, đề cập đến ông trong một lần đến thăm Đức Phật và nhận xét về sự giàu có to lớn của ông. Nhưng Đức Phật nhắc nhở ông ta rằng kho báu của Migāra không phải là kho báu thực sự vì nó phải chịu nhiều mối nguy hiểm khác nhau: lửa, nước, các vị vua, bọn cướp, kẻ thù và những người thừa kế. AN.iv.7.
+
+Chú giải nói (AN­a.ii.697) rằng Migāra được gọi là Rohaṇeyya vì ông là cháu trai của trưởng giả Rohaṇa. Ông có lẽ nên được phân biệt với con trai của Visākhā.
 
 ## Notes

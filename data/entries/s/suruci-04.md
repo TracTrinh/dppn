@@ -5,7 +5,7 @@ base_headword: "Suruci"
 disambiguator: "04"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Suruci 04. A palace, occupied by <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suruci 04. Một cung điện, nơi Vessabhū Buddha ở trước khi xuất gia. Bv.xxii.19.
 
 ## Notes

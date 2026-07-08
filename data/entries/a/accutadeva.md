@@ -26,6 +26,6 @@ Accutadevā. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Accutadevā. Một hạng <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">chư thiên</span> được nhắc đến trong số những vị tụ hội nhân dịp thuyết giảng <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Mahā Samayasutta</span>. DN.ii.260.
+Accutadevā. Một hạng chư thiên được nhắc đến trong số những vị tụ hội nhân dịp thuyết giảng Mahā Samayasutta. DN.ii.260.
 
 ## Notes

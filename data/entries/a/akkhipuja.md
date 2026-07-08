@@ -29,8 +29,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-
 
 ## Vietnamese translation
 
-Akkhipūjā. Một lễ hội được tổ chức bởi vua <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Asoka</span> để tôn kính Đức Phật khi <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Mahākāla</span> hóa hiện cho nhà vua một hình tượng Đức Phật. Lễ hội kéo dài trong bảy ngày (Mhv.v.94).
+Akkhipūjā. Một lễ hội được tổ chức bởi vua Asoka để tôn kính Đức Phật khi Mahākāla hóa hiện cho nhà vua một hình tượng Đức Phật. Lễ hội kéo dài trong bảy ngày (Mhv.v.94).
 
-Tác phẩm <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Mahā Vaṁsaṭīkā</span> giải thích điều này bằng cách nói rằng nhà vua đã nhịn ăn trong bảy ngày, đứng nhìn chăm chú vào hình tượng đó với đôi mắt không chớp. Nhưng ngay cả vào thời điểm soạn bộ *Ṭīkā*, dường như vẫn có sự mơ hồ về ý nghĩa của từ này. Xem Mhv­ṭ.209f.
+Tác phẩm Mahā Vaṁsaṭīkā giải thích điều này bằng cách nói rằng nhà vua đã nhịn ăn trong bảy ngày, đứng nhìn chăm chú vào hình tượng đó với đôi mắt không chớp. Nhưng ngay cả vào thời điểm soạn bộ *Ṭīkā*, dường như vẫn có sự mơ hồ về ý nghĩa của từ này. Xem Mhv­ṭ.209f.
 
 ## Notes

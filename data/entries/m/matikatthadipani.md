@@ -5,7 +5,7 @@ base_headword: "Mātikatthadīpanī"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Mātikatthadīpanī. A work on the <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mātikatthadīpanī. Một tác phẩm về Abhidhamma, được cho là của Chapaṭa. Gv.64; Bode, 19.
 
 ## Notes

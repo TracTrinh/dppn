@@ -26,6 +26,6 @@ Akhilā. Chief woman disciple of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Akhilā. Nữ đệ tử trưởng của Đức Phật <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sikhī</span> (Bv.xxi.21); Chú giải gọi bà là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Makhilā</span>. Bv­a.204; cũng xem Ja.i.41.
+Akhilā. Nữ đệ tử trưởng của Đức Phật Sikhī (Bv.xxi.21); Chú giải gọi bà là Makhilā. Bv­a.204; cũng xem Ja.i.41.
 
 ## Notes

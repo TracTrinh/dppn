@@ -5,7 +5,7 @@ base_headword: "Suvaṇṇapassapabbata"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Suvaṇṇapassapabbata. One of the seven mountain ranges on the way to <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suvaṇṇapassapabbata. Một trong bảy dãy núi trên đường đến Gandhamādana (Snp­a.i.66). Đó là dãy núi thứ bảy bao quanh hồ Chaddanta (*daha*). Ja.v.38, v.v.
 
 ## Notes

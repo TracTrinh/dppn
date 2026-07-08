@@ -5,7 +5,7 @@ base_headword: "Mayettikassapāvāsa"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -28,6 +28,6 @@ Mayettikassapāvāsa. A monastic building in Ceylon. <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mayettikassapāvāsa. Một công trình tu viện ở Ceylon. Jeṭṭhatissa đã ban cho nó ngôi làng Sahannanagara (Cv.lxiv.100), và Aggabodhi III. ban cho nó ngôi làng Sālaggāma Cv.lxiv.121.
 
 ## Notes

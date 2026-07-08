@@ -5,7 +5,7 @@ base_headword: "Māyāvī"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Māyāvī. A jackal, for whose story see the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māyāvī. Một con chó rừng, mà câu chuyện của nó được xem ở Dabbhapupphajātaka (Ja 400). Nó được đồng nhất với Upananda. Ja.iii.336.
 
 ## Notes

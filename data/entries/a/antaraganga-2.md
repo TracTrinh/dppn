@@ -26,6 +26,6 @@ Antarāgaṅga. A monastery in Ceylon to which <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Antarāgaṅga. Một tu viện ở Ceylon, nơi <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Jeṭṭhatissa III</span>. đã hiến ngôi làng <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Cūḷa Mātika</span>. Cv.xliv.100.
+Antarāgaṅga. Một tu viện ở Ceylon, nơi Jeṭṭhatissa III. đã hiến ngôi làng Cūḷa Mātika. Cv.xliv.100.
 
 ## Notes

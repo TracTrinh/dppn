@@ -25,6 +25,6 @@ Akkosaka Bhāradvājavatthu. The story of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Akkosaka Bhāradvājavatthu. Câu chuyện về <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Akosaka Bhāradvāja</span>. Dhp­a.iv.161f.
+Akkosaka Bhāradvājavatthu. Câu chuyện về Akosaka Bhāradvāja. Dhp­a.iv.161f.
 
 ## Notes

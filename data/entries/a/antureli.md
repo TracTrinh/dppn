@@ -27,6 +27,6 @@ Antureḷi. One of the villages given by King <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Antureḷi. Một trong các ngôi làng được vua <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aggabodhi IV</span>. ban để duy trì <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Padhānaghara</span>, do ông xây dựng cho Trưởng lão <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Dāṭhāsiva</span>. Cv.xlvi.13.
+Antureḷi. Một trong các ngôi làng được vua Aggabodhi IV. ban để duy trì Padhānaghara, do ông xây dựng cho Trưởng lão Dāṭhāsiva. Cv.xlvi.13.
 
 ## Notes

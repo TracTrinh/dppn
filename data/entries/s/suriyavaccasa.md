@@ -5,7 +5,7 @@ base_headword: "Suriyavaccasā"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -31,6 +31,6 @@ Suriyavaccasā. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suriyavaccasā. Một thiếu nữ Gandhabba, con gái của Timbaru. Khi nàng đến múa trước mặt Sakka, Pañcasikha nhìn thấy và đem lòng yêu nàng, nhưng nàng lại thích Sikhaṇḍi, con trai của Mātali. Sau này, nàng nghe Pañcasikha hát những bản tình ca để tôn vinh nàng, trong đó cũng có nhắc đến lòng kính ngưỡng sâu sắc của chàng đối với Đức Phật. Điều này đã ảnh hưởng đến lựa chọn của nàng, và nàng trở thành vợ của chàng (DN.ii.258, 268f). Tên thật của nàng là Bhaddā. Nàng được gọi là Suriyavaccasā vì vẻ đẹp thân thể của nàng (*sarīrasampattiyā*). DN­a.iii.704.
 
 ## Notes

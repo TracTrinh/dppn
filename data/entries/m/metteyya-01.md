@@ -5,7 +5,7 @@ base_headword: "Metteyya"
 disambiguator: "01"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -86,6 +86,16 @@ The worship of the Bodhisatta Metteyya seems to have been popular in ancient Cey
 
 ## Vietnamese translation
 
-Chưa dịch.
+Metteyya 01. Metteyya Buddha. Vị Phật tương lai, vị thứ năm của *kappa* này (Bv.xxvii.21). Theo Cakkavattisīhanādasutta, ngài sẽ đản sinh, khi con người sống đến độ tuổi tám mươi ngàn năm, tại thành phố Ketumatī (Benares hiện tại), nơi mà vị vua sẽ là Cakkavattī Saṅkha. Saṅkha sẽ sống trong cung điện tiên nơi mà trước đây Vua Mahā Panāda đã từng ngự trị, nhưng sau đó vị vua này sẽ bố thí cung điện và tự mình trở thành đệ tử của Metteyya Buddha (DN.iii.75ff). Anāgatavaṁsa cung cấp thêm chi tiết (JPTS1886, pp.42, 46ff., 52; Dhs-a.415 cho biết tên cha mẹ ngài).
+
+Metteyya sẽ đản sinh trong một gia đình Bà-la-môn rất danh giá và tên thật của ngài sẽ là Ajita. Metteyya rõ ràng là tên *gotta* của ngài. Trong tám ngàn năm, ngài sẽ sống cuộc sống gia đình trong bốn cung điện – Sirivaḍḍha, Vaḍḍhamāna, Siddhattha và Candaka – người vợ chính của ngài là Candamukhī và con trai ngài là Brahmavaḍḍhana. Sau khi nhìn thấy bốn điềm báo trên đường đến công viên, ngài sẽ không còn hứng thú với cuộc sống gia đình và sẽ dành một tuần lễ để thực hành khổ hạnh. Sau đó ngài sẽ rời khỏi nhà, du hành trong cung điện của mình và được tháp tùng bởi bốn đội quân, đứng đầu trong số đó sẽ là tám mươi bốn ngàn Bà-la-môn và tám mươi bốn ngàn thiếu nữ *Khattiya*. Trong số những người tùy tùng của ngài sẽ có Isidatta và Pūraṇa, hai anh em, Jātimitta, Vijaya, Suddhika và Suddhanā, Saṅgha và Saṅghā, Saddhara, Sudatta, Yasavatī và Visākhā, mỗi người cùng với tám mươi bốn ngàn bằng hữu. Họ sẽ cùng nhau rời khỏi cuộc sống gia đình và đến cội cây Bodhi vào cùng một ngày. Sau sự Giác Ngộ (Awakening), Đức Phật sẽ thuyết pháp ở Nāgavana và Vua Saṅkha sau đó sẽ tự mình xuất gia dưới sự dẫn dắt của ngài. Cha của Metteyya sẽ là Subrahmā, vị tế sư của Vua Saṅkha, và mẹ ngài là Brahmavatī. Những đệ tử chính của ngài sẽ là Asoka và Brahmadeva trong số các tỳ-kheo, và Padumā cùng Sumanā trong số các tỳ-kheo-ni. Sīha sẽ là vị thị giả của ngài và những thí chủ chính của ngài là Sumana, Saṅgha, Yasavatī và Saṅghā. Cây Bodhi của ngài sẽ là cây Nāga. Sau khi Đức Phật nhập diệt, giáo pháp của ngài sẽ tồn tại trong một trăm tám mươi ngàn năm.
+
+Theo Mahā Vaṁsa (Mhv.xxxii.81f.; xem Mil.159), Kākavaṇṇatissa và Vihāramahādevī, cha mẹ của Duṭṭhagāmaṇī, sẽ là cha mẹ của Metteyya, bản thân Duṭṭhagāmaṇī sẽ là đệ tử chính của ngài và Saddhātissa là đệ tử thứ hai của ngài, trong khi Vương tử Sāli sẽ là con trai ngài.
+
+Ở thời điểm hiện tại, vị Phật tương lai đang sống tại cõi *Deva* Tusita (Mhv.xxxii.73). Có một truyền thuyết cho rằng Nātha là tên của vị Phật tương lai ở cõi *Deva*.
+
+Việc tôn thờ Bodhisatta Metteyya dường như đã phổ biến ở Tích Lan cổ đại, và Dhātusena đã trang hoàng một bức tượng của ngài với tất cả trang bị của một vị vua và ban lệnh túc trực bảo vệ cho nó trong bán kính bảy *yojana* (Cv.xxxviii.68).
+
+Dappula I. đã tạc một bức tượng cao mười lăm cubit để vinh danh vị Phật tương lai (Cv.xlv.62). Người ta tin rằng Metteyya dành thời gian của mình ở cõi *Deva*, thuyết pháp cho hội chúng chư thiên, và, để noi theo tấm gương của ngài, Vua Kassapa V. thường tụng đọc Abhidhamma trong các buổi hội họp của các tỳ-kheo (Cv.lii.47). Parakkamabāhu I. đã cho dựng ba bức tượng để vinh danh Metteyya (Cv.lxxix.75), trong khi Kittisirirājasīha đã dựng một bức tượng trong Rajatavihāra và một bức tượng khác trong hang động phía trên nó (Cv.c.248,259). Ước nguyện của tất cả Phật tử là họ được diện kiến Metteyya Buddha, lắng nghe ngài thuyết pháp và đắc *Nibbāna* dưới sự hướng dẫn của ngài. Xem, ví dụ, Ja.vi.594; Mhv­ṭ. 687; Dhs-a.430.
 
 ## Notes

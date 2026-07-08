@@ -5,7 +5,7 @@ base_headword: "Sutanajātaka"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -34,6 +34,8 @@ For the introductory story see the <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sutanajātaka (Ja 398). Bodhisatta từng là một gia chủ nghèo, tên là Sutana, và phụng dưỡng cha mẹ mình. Một ngày nọ, vua nước Benares đi săn, và sau khi đuổi theo một con nai, ngài đã giết nó, ngài đang mang xác con nai trở về thì đi ngang qua dưới một gốc cây thuộc về Yakkha Makhādeva, người đã được Vessavaṇa ban cho quyền lực, tuyên bố ngài là thức ăn của hắn. Nhà vua được tha mạng với điều kiện mỗi ngày ngài phải gửi một người làm thức ăn cho Yakkha. Thời gian trôi qua, không ai chịu mang cơm cho Yakkha, vì mọi người đều biết điều gì đang chờ đón họ. Sau đó nhà vua đưa ra mức thưởng một ngàn đồng, và Bodhisatta, vì cha mẹ mình và bất chấp sự can ngăn của mẹ, đã đồng ý đi. Trước khi đi, chàng đã nhận từ nhà vua đôi hài, chiếc ô, thanh gươm và chiếc bát vàng đựng đầy cơm của ngài. Sutana sau đó tiến đến gốc cây của Yakkha, và dùng mũi gươm của mình, đẩy bát cơm về phía hắn. Yakkha bắt đầu trò chuyện với Sutana và rất hài lòng với chàng. Sutana khuyên hắn từ bỏ con đường tà ác, và cùng Yakkha trở về Benares, hắn được bố trí một chỗ ở tại cổng thành và được cung cấp thức ăn ngon.
+
+Phần giới thiệu câu chuyện, xem Sāmajātaka (Ja 540). Yakkha được đồng nhất với Aṅgulimāla và nhà vua với Ānanda. Ja.iii.324f.
 
 ## Notes

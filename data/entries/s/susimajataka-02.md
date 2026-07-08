@@ -5,7 +5,7 @@ base_headword: "Susīmajātaka"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -33,6 +33,8 @@ The story was told in reference to the Buddha’s Renunciation. <span class="dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Susīmajātaka 02. (Ja 411). Bodhisatta sinh ra là con trai của vị giáo sĩ của vua nước Benares và được đặt tên là Susīma. Con trai của nhà vua, sinh cùng ngày, được đặt tên là Brahmadatta. Họ lớn lên cùng nhau, và sau đó học cùng một vị thầy ở Takkasilā. Sau này Brahmadatta trở thành vua và Susīma trở thành giáo sĩ của ngài. Một ngày nọ, khi Susīma đang tham gia một đám rước cùng nhà vua, thái hậu nhìn thấy chàng và si mê chàng đắm đuối. Nhà vua phát hiện ra điều này, liền nhường ngôi cho Susīma và phong thái hậu làm vương hậu của Susīma. Nhưng Susīma nhanh chóng chán ngấy vương quyền, và sau khi đưa Brahmadatta lên ngai vàng một lần nữa, chàng đã trở về Himālaya bất chấp sự phản đối của vợ. Ở đó, chàng trở thành một đạo sĩ.
+
+Câu chuyện này được kể lại liên quan đến sự Xuất gia của Đức Phật. Ānanda được đồng nhất với Brahmadatta và thái hậu với Rāhulamātā. Ja.iii.391-7.
 
 ## Notes

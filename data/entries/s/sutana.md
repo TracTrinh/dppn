@@ -5,7 +5,7 @@ base_headword: "Sutana"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sutana. The Bodhisatta born as a poor householder. See the <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sutana. Bodhisatta sinh ra là một gia chủ nghèo. Xem Sutanojātaka (Ja 398).
 
 ## Notes

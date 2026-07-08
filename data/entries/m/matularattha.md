@@ -5,7 +5,7 @@ base_headword: "Mātularaṭṭha"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -28,6 +28,6 @@ Mātularaṭṭha, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mātularaṭṭha, Mātulajanapada. Một trong những tỉnh của Ceylon (Cv.xcv.22; xcvi.4; xcviii.65), Mātale ngày nay. Cái tên này chỉ được tìm thấy trong phần muộn nhất của Cūḷa Vaṁsa. Trong các phần trước đó, nó được gọi là Mahā Tila (Cv.lxvi.71). Gần đó là Ālokavihāra.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Moggallāna"
 disambiguator: "05"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -37,6 +37,8 @@ By means of damming up the <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Moggallāna 05. Con trai trưởng của *Ambasāmaṇera* Silākāla. Ông được phong làm *Ādipāda* và được giao phụ trách Tỉnh phía Đông. Ông có hai người anh em trai, Dāṭhāpabhuti và Upatissa. Khi Silākāla qua đời, người anh em thứ nhất đã chiếm đoạt ngai vàng và sát hại Upatissa. Moggallāna đã hành quân chống lại ông ta cùng với một đội quân và thách đấu tay đôi. Lời thách đấu được chấp nhận, và những người anh em này đã chiến đấu với nhau, mỗi người cưỡi trên một con voi. Dāṭhāpabhuti bị đánh bại và đã tự sát, và Moggallāna trở thành vua với tên là Moggallāna II., cũng được biết đến với tên gọi Cūḷa Moggallāna. Ông là một nhà thơ vĩ đại và là một người rất tốt bụng. Ông đã tổ chức các buổi tụng đọc các *Piṭaka* và các Chú giải ở nhiều vùng khác nhau của Hòn Đảo và khuyến khích việc học tập Pháp (Dhamma). Có lần ông đã sáng tác một bài thơ ca ngợi Dhamma và đọc nó khi đang ngồi trên lưng voi của mình.
+
+Bằng cách đắp đập ngăn Sông Kadamba, ông đã xây dựng ba hồ chứa nước – Pattapāsāṇa, Dhanavāpi và Garītara. Ông trị vì trong hai mươi năm (537-56), và được kế vị bởi con trai ông là Kittisirimegha. Cv.xli.33f., 43-63.
 
 ## Notes

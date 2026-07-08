@@ -26,6 +26,6 @@ Aggidatta 03. A Brahmin of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Aggidatta 03. Một Bà-la-môn ở <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Khemavatī</span>, cha của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Kakusandha Buddha</span>. Vợ ông tên là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Visākhā</span>. DN.ii.7; Bv.xxiii.14; Ja.i.42.
+Aggidatta 03. Một Bà-la-môn ở Khemavatī, cha của Kakusandha Buddha. Vợ ông tên là Visākhā. DN.ii.7; Bv.xxiii.14; Ja.i.42.
 
 ## Notes

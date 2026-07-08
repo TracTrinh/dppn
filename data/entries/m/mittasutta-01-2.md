@@ -5,7 +5,7 @@ base_headword: "Mittāsutta"
 disambiguator: "01"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -24,6 +24,6 @@ Mittāsutta 01. Those whom one holds in affection one should admonish and establ
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mittāsutta 01. Những ai mà một người dành tình cảm, người đó nên khuyên nhủ và an trú họ vào các *satipaṭṭhāna*. SN.v.189
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Suvaṇṇakuṭi"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Suvaṇṇakuṭi. A building in the <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suvaṇṇakuṭi. Một tòa nhà trong Dakkhiṇagirivihāra, nơi Appihā *Sāmaṇera* sinh sống. Mhv­ṭ. 552.
 
 ## Notes

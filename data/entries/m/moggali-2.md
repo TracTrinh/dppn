@@ -5,7 +5,7 @@ base_headword: "Moggalī"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -26,6 +26,6 @@ Moggalī (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Moggalī (Moggallānī). Tên mẹ của Mahā Moggallāna. Thag­a.ii.93; AN­a.i.88; Dhp­a.i.73; nhưng Snp­a.i.326 gọi bà là Moggallānī.
 
 ## Notes

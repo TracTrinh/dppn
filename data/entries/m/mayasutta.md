@@ -5,7 +5,7 @@ base_headword: "Māyāsutta"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -27,6 +27,6 @@ Māyāsutta. Once, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māyāsutta. Một thuở nọ, Vepacitti, người cai trị các Asura, bị bệnh. Ông được Sakka đến thăm, người được các Asura thỉnh cầu đến chữa bệnh cho ông. Sakka đồng ý làm việc này nếu Vepacitti dạy cho ngài *Sambaramāyā*. Nhưng Vepacitti muốn tham khảo ý kiến của các Asura về vấn đề này và đã được khuyên là không nên. SN.i.238.
 
 ## Notes

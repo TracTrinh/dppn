@@ -5,7 +5,7 @@ base_headword: "Megha"
 disambiguator: "01"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -27,6 +27,6 @@ Megha 01. A youth in the time of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Megha 01. Một thanh niên vào thời của Dīpaṅkara Buddha. Khi nghe Đức Phật tiên tri về tương lai của Sumedha, Megha đã gia nhập Tăng đoàn cùng ngài. Ngài là một tiền kiếp của Dhammaruci Thera. Ap.ii.430.
 
 ## Notes

@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Ākiñcaññasutta 01. Cuộc đàm luận giữa <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sāriputta</span> và <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Ānanda</span> về Vô sở hữu xứ (*ākiñcaññāyatana*). SN.iii.237.
+Ākiñcaññasutta 01. Cuộc đàm luận giữa Sāriputta và Ānanda về Vô sở hữu xứ (*ākiñcaññāyatana*). SN.iii.237.
 
 ## Notes

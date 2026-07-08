@@ -26,6 +26,6 @@ Ambilāpika. A village given by <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Ambilāpika. Một ngôi làng do <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Jeṭṭhatissa III</span> cấp để cung cấp thực phẩm cho <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Kassapagiri</span> *vihāra*. Cv.xliv.98.
+Ambilāpika. Một ngôi làng do Jeṭṭhatissa III cấp để cung cấp thực phẩm cho Kassapagiri *vihāra*. Cv.xliv.98.
 
 ## Notes

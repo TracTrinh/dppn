@@ -26,6 +26,6 @@ Añjasa. A king of two *kappas* ago, father of <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Añjasa. Một vị vua cách đây hai *kappa*, cha của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sunanda</span>, một tiền kiếp của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Upāli</span>. Ap.i.45, v.111; Thag­a.i.367.
+Añjasa. Một vị vua cách đây hai *kappa*, cha của Sunanda, một tiền kiếp của Upāli. Ap.i.45, v.111; Thag­a.i.367.
 
 ## Notes

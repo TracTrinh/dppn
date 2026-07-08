@@ -5,7 +5,7 @@ base_headword: "Migaluddapetavatthu"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Migaluddapetavatthu. The story of a hunter of <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Migaluddapetavatthu. Câu chuyện về một người thợ săn ở Rājagaha, người làm theo lời khuyên của một người bạn hiền, đã kiềm chế không đi săn vào ban đêm. Ông tái sinh thành một *vemānikapeta*. Nārada tình cờ gặp ông trong suốt quá trình du hành của mình và biết được câu chuyện của ông. Pv.iii.7; Pv-a.204ff.
 
 ## Notes

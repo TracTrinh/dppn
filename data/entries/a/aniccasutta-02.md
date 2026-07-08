@@ -24,6 +24,6 @@ Aniccasutta 02. Preached at <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Aniccasutta 02. Được thuyết tại <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sāvatthī</span>, để trả lời câu hỏi của một vị tỳ-kheo. SN.iii.21.
+Aniccasutta 02. Được thuyết tại Sāvatthī, để trả lời câu hỏi của một vị tỳ-kheo. SN.iii.21.
 
 ## Notes

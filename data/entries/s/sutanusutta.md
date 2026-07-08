@@ -5,7 +5,7 @@ base_headword: "Sutanusutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sutanusutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sutanusutta. Anuruddha giải thích cho một số tỳ-kheo đến thăm ngài trên bờ sông Sutanu rằng ngài đã đạt được thần thông (*iddhi*) nhờ tu tập bốn niệm xứ (*satipaṭṭhāna*). SN.v.297f.
 
 ## Notes

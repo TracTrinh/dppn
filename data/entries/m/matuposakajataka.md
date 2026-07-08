@@ -5,7 +5,7 @@ base_headword: "Mātuposakajātaka"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -39,6 +39,10 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mātuposakajātaka, Mātuposakanāgarājajātaka (Ja 455). Bodhisatta từng sinh ra làm một con voi ở Himālaya và chăm sóc người mẹ mù của ngài, sống gần núi Caṇḍoraṇa. Một ngày nọ, ngài gặp một người đi rừng bị lạc, và vì cảm thương anh ta, con voi đã chỉ cho anh ta con đường đúng, cõng anh ta trên lưng. Nhưng người đi rừng này thật độc ác, và khi trở về Benares, anh ta đã kể cho nhà vua nghe về con voi. Nhà vua yêu cầu anh ta đi bắt con voi, và con voi, khi thấy người đi rừng đến gần, đã nhu thuận đi theo anh ta để không làm tổn hại đức hạnh của mình. Con voi được đón nhận vào thành phố với nghi thức vô cùng tráng lệ và được đưa vào chuồng voi hoàng gia như một con voi quốc gia, nhưng ngài không đụng đến một miếng thức ăn nào. Nhà vua điều tra việc này và biết được về người mẹ mù của con voi. Sau đó, con voi được trả tự do, và trở về Himālaya giữa tiếng reo hò tán thưởng của dân chúng. Nhà vua đã xây dựng một thị trấn gần nơi ở của con voi, nơi ngài ban cho con voi nhiều vinh dự, và sau đó, khi người mẹ qua đời, con voi đã đi đến tu viện Karaṇḍaka để hầu hạ các vị ẩn sĩ ở đó, nhà vua cũng đã làm điều tương tự cho họ.
+
+Câu chuyện được kể liên quan đến một vị tỳ-kheo chăm sóc mẹ mình. Để biết chi tiết, xem Sāmajātaka. Ānanda được đồng nhất với nhà vua, tên của vị vua được cho là Vedeha, và Mahā Māyā là voi mẹ (Ja.iv.90-5).
+
+Dhammapada Commentary (Dhp­a.iv.13) gọi câu chuyện này là *Mātuposakanāgarājajātaka* và gọi tên con voi là Dhanapāla. Nó được kể cho bốn người con trai của một vị Bà-la-môn đã hầu hạ người cha già của họ. Thính chúng đã rơi nước mắt như mưa, vì họ quá xúc động, và vị Bà-la-môn cùng các con trai ông đã trở thành những *Sotāpanna*.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Muvarāyara"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Muvarāyara. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Muvarāyara. Một thủ lĩnh người Damiḷa, đồng minh của Kulasekhara. Cv.lxxvi.140, 216.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mātulā"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Mātulā. A village in <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mātulā. Một ngôi làng ở Magadha, nơi Đức Phật đã lưu trú và nơi ngài thuyết bài kinh Cakkavattisīhanādasutta. A iii.58.
 
 ## Notes

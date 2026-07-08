@@ -5,7 +5,7 @@ base_headword: "Moggallāna"
 disambiguator: "08"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -27,6 +27,6 @@ Moggallāna 08. An eminent Thera who was associated with <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Moggallāna 08. Một vị Thera lỗi lạc, người đã liên kết với Mahā Kassapa trong Đại Hội Kết Tập được tổ chức tại Pulatthipura dưới sự bảo trợ của Parakkamabāhu I. nhằm mục đích thanh lọc Tăng đoàn. Cv.lxxviii.9.
 
 ## Notes

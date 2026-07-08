@@ -5,7 +5,7 @@ base_headword: "Moggallānasutta"
 disambiguator: "04"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -29,6 +29,6 @@ Moggallānasutta 04. or <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Moggallānasutta 04. hoặc Āyatanasutta. Vacchagotta hỏi Mahā Moggallāna một loạt các câu hỏi về việc liệu thế giới là thường hằng hay hữu hạn, và Moggallāna trả lời rằng những vấn đề này chưa được Gotama Buddha tiết lộ vì quan điểm của Đức Phật khác với quan điểm của các đạo sư khác. Vacchagotta tìm đến Đức Phật, hỏi những câu hỏi tương tự, và nhận được những câu trả lời và lời giải thích giống như vậy. SN.iv.291.
 
 ## Notes

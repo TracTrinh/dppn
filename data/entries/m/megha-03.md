@@ -5,7 +5,7 @@ base_headword: "Megha"
 disambiguator: "03"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -24,6 +24,6 @@ Megha 03. A king of long ago; a previous birth of <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Megha 03. Một vị vua từ thời xa xưa; một tiền kiếp của Dhajadāyaka Thera. Ap.i.109.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Suvaṇṇavīthi"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Suvaṇṇavīthi. A street in <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suvaṇṇavīthi. Một con phố ở Tāvatiṁsa, dài sáu mươi do-tuần. Ja.v.386.
 
 ## Notes

@@ -26,6 +26,6 @@ Aggabodhipadhānaghara. A building erected by <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Aggabodhipadhānaghara. Một tòa nhà do <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aggabodhi IV</span> dựng lên cho Trưởng lão <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Dāṭhāsiva</span> sử dụng. Nhiều ngôi làng được chuyển giao để duy trì nơi này. Cv.xlvi.11ff.
+Aggabodhipadhānaghara. Một tòa nhà do Aggabodhi IV dựng lên cho Trưởng lão Dāṭhāsiva sử dụng. Nhiều ngôi làng được chuyển giao để duy trì nơi này. Cv.xlvi.11ff.
 
 ## Notes

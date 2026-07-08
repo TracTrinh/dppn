@@ -5,7 +5,7 @@ base_headword: "Suvaṇṇavimānavatthu"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -28,6 +28,6 @@ Suvaṇṇavimānavatthu. The story of a man who built for the Buddha a <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suvaṇṇavimānavatthu. Câu chuyện về một người đàn ông đã xây dựng cho Đức Phật một Hương thất (*Gandhakuṭi*) trên một tảng đá trần (*muṇḍikapabbata*) ở Andhakavinda, và sau khi qua đời, được tái sinh vào Tāvatiṁsa, nơi một cung điện bằng vàng xuất hiện dành cho ngài. Moggallāna nhìn thấy ngài ở đó và biết được câu chuyện của ngài. Vv.vii.4; Vv-a.302f.
 
 ## Notes

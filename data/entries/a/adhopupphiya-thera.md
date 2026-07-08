@@ -26,6 +26,6 @@ Adhopupphiya Thera. An *Arahant*. In a previous birth he was a hermit of great p
 
 ## Vietnamese translation
 
-Adhopupphiya Thera. Một *Arahant*. Trong một đời trước, ngài là một ẩn sĩ có đại năng lực ở <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Himavā</span> và đã dâng hoa lên <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Abhibhū</span>, vị đệ tử trưởng của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Sikhī Buddha</span>. Không lâu sau đó, ngài bị một con trăn nuốt chửng. Ap.i.128-9.
+Adhopupphiya Thera. Một *Arahant*. Trong một đời trước, ngài là một ẩn sĩ có đại năng lực ở Himavā và đã dâng hoa lên Abhibhū, vị đệ tử trưởng của Sikhī Buddha. Không lâu sau đó, ngài bị một con trăn nuốt chửng. Ap.i.128-9.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -23,6 +23,6 @@ Sutta. One of the nine divisions of the *Tipiṭaka*, according to matter (*aṅ
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sutta. Một trong chín phần của Tam tạng (*Tipiṭaka*), theo chủ đề (*aṅga*). DN­a.i.23; Gv.57, v.v.
 
 ## Notes

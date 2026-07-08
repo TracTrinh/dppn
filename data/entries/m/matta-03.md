@@ -5,7 +5,7 @@ base_headword: "Matta"
 disambiguator: "03"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -27,6 +27,6 @@ Matta 03. A hunter who discovered four marvellous gems near <span class="dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Matta 03. Một người thợ săn đã phát hiện ra bốn viên ngọc quý kỳ diệu gần Pelavāpikagāma, cách Anurādhapura bảy do-tuần về phía bắc. Ông đã báo cáo khám phá của mình cho Duṭṭhagāmaṇī, và những viên ngọc đã được sử dụng cho Mahā Thūpa. Mhv.xxviii.39; Mhv­ṭ. 512.
 
 ## Notes

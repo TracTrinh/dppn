@@ -5,7 +5,7 @@ base_headword: "Muṇḍarājavagga"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Muṇḍarājavagga. The fifth chapter of the *Pañcakanipāta* of the <span cla
 
 ## Vietnamese translation
 
-Chưa dịch.
+Muṇḍarājavagga. Chương thứ năm của *Pañcakanipāta* thuộc Aṅguttaranikāya. AN.iii.45-62.
 
 ## Notes

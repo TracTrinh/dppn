@@ -5,7 +5,7 @@ base_headword: "Susaddasiddhi"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Susaddasiddhi. Another name for the <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Susaddasiddhi. Một tên gọi khác của cuốn Sāraṭṭhavilāsinī do Saṅgharakkhita của Tích Lan (Ceylon) viết; đây là một bản phụ sớ (*ṭīkā*) về cuốn *Moggallānapañjikā*. PLC. 200.
 
 ## Notes

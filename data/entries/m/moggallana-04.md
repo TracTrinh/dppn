@@ -5,7 +5,7 @@ base_headword: "Moggallāna"
 disambiguator: "04"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -48,6 +48,6 @@ Moggallāna 04. Younger son of <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Moggallāna 04. Con trai út của Dhātusena. Khi anh trai của ông, Kassapa, bắt Dhātusena làm tù binh, Moggallāna đã trốn sang Jambudīpa. Ông đã tập hợp quân đội, và, vào năm thứ mười tám trong triều đại của Kassapa, đã đổ bộ lên Tích Lan cùng với mười hai bằng hữu, tin tưởng vào sự hỗ trợ của các Nigaṇṭha. Ông sống một thời gian tại Kuṭhārivihāra ở Ambaṭṭhakola để chuẩn bị. Kassapa đã ra khỏi Sīhagiri để nghênh chiến với ông, và, khi bị đánh bại trong trận chiến, đã tự sát. Do đó, Moggallāna trở thành vua với tên là Moggallāna I., một lần nữa biến Anurādhapura thành thủ đô. Lúc đầu, ông tỏ ra rất tàn nhẫn đối với những kẻ thù của cha mình, nhận được danh hiệu là "*Rakkhasa*" (La-sát), nhưng sau đó ông trở nên hiền hòa và dấn thân vào những công việc thiện lành. Ông đã bảo trợ cho các trường phái Dhammaruci và Sāgalika và ban cho họ các *vihāra* Daḷha và Dāṭhakoṇḍañña tại Sīhagiri. Đối với Mahā Nāma, vị sư trụ trì của *vihāra* Dīghāsana (? Dīghāsaṇḍa), ông đã ban tặng Pabbatavihāra, và trao ni viện Rājñī cho các tỳ-kheo-ni Sāgalika. Trong triều đại của Moggallāna, Silākāla (Amba *Sāmaṇera*) đã mang xá-lợi Tóc của Đức Phật đến Tích Lan. Moggallāna đã thiết lập các buổi lễ kỷ niệm để tôn vinh xá-lợi và giao chúng cho Silākāla phụ trách, người đã rời khỏi Tăng đoàn và trở thành người mang gươm (*asiggāhaka*) của ông. Migāra và Uttara là hai trong số các vị tướng của ông. Ông trị vì trong mười tám năm (496-513 CN.). (Cv.xxxviii.80, 86ff., 96, 108; xxxix.20ff). Chị (em) gái của Moggallāna đã kết hôn với Upatissa III. Cv.xli.6.
 
 ## Notes

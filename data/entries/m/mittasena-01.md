@@ -5,7 +5,7 @@ base_headword: "Mittasena"
 disambiguator: "01"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mittasena 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mittasena 01. Mittasena Thera. Một trong những vị tỳ-kheo lỗi lạc đã đóng vai trò lãnh đạo trong Buổi Lễ Đặt Nền Móng của Mahā Thūpa. Dpv.xix.8; Mhv­ṭ. 525, 527.
 
 ## Notes

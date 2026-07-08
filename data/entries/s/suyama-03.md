@@ -5,7 +5,7 @@ base_headword: "Suyāma"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Suyāma 03. A king of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suyāma 03. Một vị vua nước Benares, con trai của Puthuvindhara. Con trai ngài là Kikī Brahmadatta. Thag­a.i.151.
 
 ## Notes

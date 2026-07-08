@@ -5,7 +5,7 @@ base_headword: "Suta Brahmadatta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Suta Brahmadatta. A king of <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suta Brahmadatta. Một vị vua nước Benares, được gọi như vậy vì ngài không bao giờ mệt mỏi với việc học hỏi (*suta*). Ngài từng được tám vị Pacceka Buddha đến thăm và đã thết đãi họ. Cuối bữa ăn, họ đứng dậy và mỗi người chỉ nói một hoặc hai lời cảm ơn rồi rời đi. Lúc đầu nhà vua thất vọng, nhưng khi nhận ra ý nghĩa lời nói của họ, ngài đã từ bỏ thế tục và bản thân ngài cũng trở thành một Pacceka Buddha. Vần kệ của ngài được bao gồm trong Khaggavisāṇasutta (câu 57). Snp­a.i.109f.; Ap­a.i.157.
 
 ## Notes

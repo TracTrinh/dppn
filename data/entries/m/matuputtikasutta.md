@@ -5,7 +5,7 @@ base_headword: "Mātuputtikasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Mātuputtikasutta. Once a mother and her son – a monk and a nun – spent the 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mātuputtikasutta. Một thuở nọ, một người mẹ và con trai của bà – một vị tỳ-kheo và một vị Tỳ-kheo-ni – đã trải qua mùa an cư tại Sāvatthī. Họ gặp nhau rất nhiều và, theo thời gian, đã phạm tội loạn luân. Khi điều này được báo cáo cho Đức Phật, ngài đã tuyên bố rằng không có gì trói buộc trái tim của một người đàn ông bằng một người phụ nữ; cô ấy thực sự là một thòng lọng của Māra. AN.iii.67f.
 
 ## Notes

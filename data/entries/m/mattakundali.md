@@ -5,7 +5,7 @@ base_headword: "Mattakuṇḍali"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -32,6 +32,10 @@ Dhp­a.i.20ff.; Vv.vii.9; Vv-a.322ff.; Pv.ii.5; Pv-a.92; the stanzas found in <s
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mattakuṇḍali, Matthakuṇḍali. Con trai duy nhất của Bà-la-môn Adinnapubbaka. Cha cậu rất yêu thương cậu, nhưng lại là một kẻ rất keo kiệt, và đã tự tay làm cho cậu một đôi khuyên tai đánh bóng để tiết kiệm tiền công thợ kim hoàn; do đó cậu bé có tên là Mattakuṇḍali (đôi khuyên tai đánh bóng). Khi được mười sáu tuổi, cậu bị mắc bệnh vàng da. Cha cậu từ chối mời thầy thuốc, và tự mình kê đơn cho cậu cho đến khi cậu bé không còn hy vọng cứu chữa. Sau đó ông mang cậu ra và đặt cậu trên sân thượng, để những người đến chuẩn bị cho tang lễ không nhìn thấy của cải của mình.
+
+Đức Phật đã nhìn thấy Mattakuṇḍali khi cậu đang nằm chờ chết, và, với lòng bi mẫn, ngài đã đi đến cửa nhà cha cậu. Quá yếu không thể làm gì khác, cậu bé khởi lên niềm tin sâu sắc vào Đức Phật; cậu qua đời ngay sau đó, và được tái sinh vào chư thiên trong một cung điện bằng vàng rộng ba mươi do-tuần. Khi quan sát kiếp trước của mình, cậu nhìn thấy cha mình trong bãi tha ma, đang khóc lóc than vãn và chuẩn bị hỏa táng thi hài cậu. Giả dạng thành Mattakuṇḍali, chính cậu đã đi đến bãi tha ma và, đứng gần đó, bắt đầu khóc. Khi Adinnapubbaka hỏi chuyện, cậu nói mình muốn có mặt trăng, và trong quá trình trò chuyện, cậu đã tiết lộ danh tính của mình và khiển trách cha cậu. Adinnapubbaka đã thỉnh Đức Phật đến dùng bữa vào ngày hôm sau, và khi bữa ăn kết thúc, ông hỏi liệu có thể đạt đến cõi trời chỉ bằng một hành động của niềm tin hay không. Để thuyết phục ông, Đức Phật đã làm cho Mattakuṇḍali xuất hiện trước mặt ông và xác nhận lời nói của ngài rằng điều này là như vậy. Kết thúc bài pháp của Đức Phật, cả Adinnapubbaka và Mattakuṇḍali đều trở thành những *Sotāpanna*, và tám mươi nghìn người đã liễu ngộ Chân lý (Mil.350).
+
+Dhp­a.i.20ff.; Vv.vii.9; Vv-a.322ff.; Pv.ii.5; Pv-a.92; các bài kệ được tìm thấy trong câu chuyện của Mattakuṇḍali cũng xuất hiện trong Mattakuṇḍalijātaka (*q.v.*), nhưng câu chuyện giới thiệu thì hoàn toàn khác.
 
 ## Notes

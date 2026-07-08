@@ -35,7 +35,7 @@ The same ten are also mentioned as being composers and reciters of the Vedas. DN
 
 ## Vietnamese translation
 
-Aṅgīrasa 03. Một trong mười vị tiên cổ đã tiến hành các đại tế lễ và thông thạo tri thức Vệ-đà. Những vị còn lại là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aṭṭhaka</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Vāmaka</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Vāmadeva</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Vessāmitta</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Yamataggi</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Bhāradvāja</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Vāseṭṭha</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Kassapa</span> và <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Bhagu</span>. Danh sách này xuất hiện ở nhiều nơi, ví dụ Vin.i.245; AN.iii.224; MN.ii.169, 200.
+Aṅgīrasa 03. Một trong mười vị tiên cổ đã tiến hành các đại tế lễ và thông thạo tri thức Vệ-đà. Những vị còn lại là Aṭṭhaka, Vāmaka, Vāmadeva, Vessāmitta, Yamataggi, Bhāradvāja, Vāseṭṭha, Kassapa và Bhagu. Danh sách này xuất hiện ở nhiều nơi, ví dụ Vin.i.245; AN.iii.224; MN.ii.169, 200.
 
 Cũng chính mười vị ấy được nhắc đến như những người biên soạn và trì tụng các Veda. DN.i.238.
 

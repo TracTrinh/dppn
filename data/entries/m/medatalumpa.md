@@ -5,7 +5,7 @@ base_headword: "Medataḷumpa"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -35,6 +35,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Medataḷumpa. Một ngôi làng Sākyan cách Naṅgaraka ba do-tuần (MN.ii.119). Pasenadi khi đang lưu trú ở đó cùng với Dīgha Kārāyaṇa, nghe tin Đức Phật đang ở đó và đã đến thăm ngài. Nhân dịp này bài kinh Dhammacetiyasutta (*q.v.*) đã được thuyết giảng. Đây là lần cuối cùng Pasenadi nhìn thấy Đức Phật.
+
+Tuy nhiên, Dhammapada Commentary trong ghi chép (Dhp­a.i.356) về chuyến viếng thăm của nhà vua lại gọi nơi này là Uḷumpa. Mặt khác, Majjhima Commentary (MN­a.ii.753) xác nhận cách đọc Medataḷumpa, và nói rằng nó được gọi như vậy vì có thể nhìn thấy những viên đá *medavaṇṇa* trên bề mặt đất ở đó (*medavaṇṇā pāsāṇā kirettha ussannā ahesuṁ, tasmā Medataḷumpan-ti sankhaṁ gataṁ*).
 
 ## Notes

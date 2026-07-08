@@ -5,7 +5,7 @@ base_headword: "Mitta"
 disambiguator: "02"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -24,6 +24,6 @@ Mitta 02. One of the ten sons of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mitta 02. Một trong mười người con trai của Muṭasīva. Dpv.xi.7.
 
 ## Notes

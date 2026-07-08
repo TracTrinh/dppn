@@ -5,7 +5,7 @@ base_headword: "Mekhala"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -33,6 +33,6 @@ Mekhala. The city of birth of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mekhala. Thành phố nơi Sumana Buddha sinh ra và là bối cảnh của bài thuyết pháp đầu tiên của ngài cho Saraṇa và Bhāvitatta (Bv.v.21; Bv­a.125f). Chính tại đây Maṅgala Buddha đã hóa độ các đệ tử thinh văn của mình là Sudeva và Dhammasena (Bv­a.120). Revata Buddha từng thuyết pháp ở đây cho một hội chúng gồm một nghìn crore người (Bv­a.134), trong khi sau đó, Vua Uggata đã xây dựng Dhammagaṇārāma cho Sobhita Buddha trong cùng thành phố này (Bv­a.139).
 
 ## Notes

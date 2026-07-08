@@ -5,7 +5,7 @@ base_headword: "Migācira"
 disambiguator: "01"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -27,6 +27,6 @@ Migācira 01. A park in <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Migācira 01. Một khu công viên ở Benares (Ja.v.68, 476, 506). Đây dường như là tên cũ của Isipatana, vì nó là nơi Sikhī Buddha thuyết bài pháp đầu tiên (Bv­a. 205), và tất cả chư Phật đều thuyết bài pháp đầu tiên ở cùng một nơi. Xem Buddha.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sussondī"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -27,6 +27,6 @@ Sussondī. Wife of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sussondī. Vợ của Tamba, vua nước Benares. Xem Sussondījātaka (Ja 360).
 
 ## Notes

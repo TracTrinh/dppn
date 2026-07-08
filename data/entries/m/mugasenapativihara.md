@@ -5,7 +5,7 @@ base_headword: "Mūgasenāpativihāra"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Mūgasenāpativihāra. A monastery in Ceylon built by <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mūgasenāpativihāra. Một tu viện ở Tích Lan được xây dựng bởi Aggabodhi I., vị vua đã ban tặng ngôi làng Lajjaka để duy trì tu viện. Cv.xlii.22.
 
 ## Notes

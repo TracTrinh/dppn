@@ -5,7 +5,7 @@ base_headword: "Sutavā"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sutavā 03. A *Paribbājaka* who visited the Buddha on <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sutavā 03. Một du sĩ ngoại đạo (*Paribbājaka*) đã đến thăm Đức Phật tại Gijjhakūṭa và hỏi Ngài về mô tả của một *Arahant*. AN.iv.369f.
 
 ## Notes

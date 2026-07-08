@@ -5,7 +5,7 @@ base_headword: "Muttā"
 disambiguator: "03"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -24,6 +24,6 @@ Muttā 03. An eminent *upāsikā*, mentioned in a list of such. AN.iv.347; AN­a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Muttā 03. Một *upāsikā* (cận sự nữ) xuất chúng, được đề cập trong một danh sách những người như vậy. AN.iv.347; AN­a.ii.791.
 
 ## Notes

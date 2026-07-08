@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Ādhāradāyaka Thera. Một *Arahant*. Ngài đã dâng một chiếc ghế đẩu (*ādhāraka*) cho <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sikhī Buddha</span>. Hai mươi bảy *kappa* trước, ngài bốn lần trở thành vua dưới tên <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Samantavaruṇa</span>. Ap.i.207.
+Ādhāradāyaka Thera. Một *Arahant*. Ngài đã dâng một chiếc ghế đẩu (*ādhāraka*) cho Sikhī Buddha. Hai mươi bảy *kappa* trước, ngài bốn lần trở thành vua dưới tên Samantavaruṇa. Ap.i.207.
 
 ## Notes

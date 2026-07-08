@@ -5,7 +5,7 @@ base_headword: "Moggallānasaṁyutta"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -25,6 +25,6 @@ Moggallānasaṁyutta. The fortieth chapter of the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Moggallānasaṁyutta. Chương thứ bốn mươi của Saṁyuttanikāya. SN.iv.262-81.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mīḷhakasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mīḷhakasutta. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mīḷhakasutta. *v.l.* Pīḷhakasutta. Một vị tỳ-kheo tự hào về việc mình nhận được nhiều lợi dưỡng cũng giống như một con bọ hung khoe khoang rằng nó chứa đầy phân. SN.ii.228.
 
 ## Notes

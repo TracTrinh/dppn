@@ -5,7 +5,7 @@ base_headword: "Meghiya"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -38,6 +38,8 @@ Ninety-one *kappas* ago, on the death of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Meghiya. Meghiya Thera. Ngài thuộc một gia đình Sākyan ở Kapilavatthu, và sau khi gia nhập Tăng đoàn, ngài đã làm thị giả cá nhân của Đức Phật trong một thời gian. Một lần nọ, khi Đức Phật đang lưu trú cùng ngài tại Cālikā, Meghiya đi đến Jantugāma để khất thực, và, khi trở về, ngài đã rất bị thu hút bởi một vườn xoài trên bờ sông Kimikālā (điều này xảy ra vào năm thứ mười ba sau khi Đức Phật giác ngộ, Bv­a.3). Ngài xin phép Đức Phật để lưu trú ở đó để thiền định. Đức Phật đã từ chối hai lần, nhưng, theo lời thỉnh cầu lần thứ ba, đã cho phép ngài đi. Tuy nhiên, tại đó, Meghiya bị thiêu đốt bởi những ác tầm và quay trở về với Đức Phật. Đức Phật đã thuyết pháp cho ngài về năm pháp làm cho tâm chín muồi để đi đến giải thoát – bạn bè tốt, đời sống giới hạnh, những câu chuyện lợi ích, sự tinh tấn nỗ lực, tuệ quán – và khuyên răn ngài. Sau đó Meghiya đạt được quả vị *Arahant*. AN.iv.354ff.; Ud.iv.1; Thag.66; AN­a.ii.794; Dhp­a.i.289 nói, tuy nhiên, rằng vào cuối bài thuyết pháp của Đức Phật Meghiya đã trở thành một *Sotāpanna*.
+
+Chín mươi mốt *kappa* trước, khi Vipassī Buddha viên tịch, đã xảy ra một trận động đất lớn. Mọi người vô cùng sợ hãi, nhưng Vessavaṇa đã giải thích cho họ lý do của trận động đất và xua tan nỗi sợ hãi của họ. Meghiya lúc đó là một gia chủ, và khi nghe nói về các ân đức của Đức Phật, ngài tràn ngập niềm hỷ lạc. Mười bốn *kappa* trước ngài từng là một vị vua tên Samita (Ud­a.217ff.; Thag­a.i.149f). Ngài rõ ràng được đồng nhất với Buddhasaññaka của Apadāna. Ap.i.151f.
 
 ## Notes

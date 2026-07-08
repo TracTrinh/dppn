@@ -5,7 +5,7 @@ base_headword: "Suvaṇṇapupphiya Thera"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Suvaṇṇapupphiya Thera. An *Arahant*, evidently identical with <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suvaṇṇapupphiya Thera. Một *Arahant*, rõ ràng đồng nhất với Vimalakoṇḍañña (*q.v.*). Ap.i.150; Thag­a.i.146.
 
 ## Notes

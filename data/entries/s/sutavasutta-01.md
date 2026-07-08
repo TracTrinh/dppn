@@ -5,7 +5,7 @@ base_headword: "Sutavāsutta"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sutavāsutta 01. Describes the visit of the *Paribbājaka* <span class="dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sutavāsutta 01. Mô tả chuyến viếng thăm của du sĩ ngoại đạo (*Paribbājaka*) Sutavā đến Đức Phật. AN.iv.369f.
 
 ## Notes

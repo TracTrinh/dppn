@@ -5,7 +5,7 @@ base_headword: "Mūgapakkhajātaka"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -41,6 +41,8 @@ Mūgapakkhajātaka, also called <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mūgapakkhajātaka, cũng được gọi là Temiyajātaka (Ja 538). Candādevī, hoàng hậu của vua xứ Kāsi, trong sự đau buồn tột độ, không có con trai. Ngai vàng của Sakka trở nên nóng lên bởi sự mộ đạo của bà, và ngài đã thuyết phục Bodhisatta, lúc đó đang ở Tāvatiṁsa, đản sinh làm con trai của bà. Bodhisatta miễn cưỡng đồng ý. Sự đản sinh của ngài đã mang lại những sự hân hoan to lớn. Ngài được gọi là Temiya bởi vì vào ngày ngài đản sinh có một trận mưa lớn khắp vương quốc và ngài được sinh ra trong tình trạng ướt sũng. Khi được một tháng tuổi, ngài được đưa đến cho nhà vua, và, khi đang nằm trong lòng vua cha, ngài đã nghe thấy những bản án khắc nghiệt được tuyên phạt đối với một số tên cướp được đưa đến trước nhà vua. Sau đó, khi nằm trên giường, Temiya nhớ lại những kiếp trước của mình và nhớ lại việc ngài đã từng trị vì trong hai mươi năm làm vua xứ Benares như thế nào, và, do kết quả là, ngài đã phải chịu đựng trong địa ngục (*niraya*) Ussada suốt hai mươi ngàn năm. Sự thống khổ chiếm lấy ngài khi nghĩ đến việc phải làm vua một lần nữa, nhưng vị nữ thần trú ngụ trong chiếc lọng của ngài, người đã từng là mẹ ngài, đã an ủi ngài bằng cách khuyên ngài giả vờ bị câm và không có khả năng thực hiện bất kỳ hành động nào. Ngài đã làm theo lời khuyên này, và trong mười sáu năm, nhà vua và hoàng hậu, trong sự thỉnh ý các đại thần và những người khác, đã thử mọi cách có thể nghĩ ra để phá vỡ quyết tâm của ngài, vì biết ngài bình thường về thể chất. Nhưng tất cả những nỗ lực của họ đều thất bại, và cuối cùng ngài bị đặt lên một chiếc xe ngựa và được đưa cùng với người đánh xe của hoàng gia, Sunanda, đến bãi tha ma, nơi ngài sẽ bị đánh chết và chôn cất. Tuy nhiên, theo lời khẩn cầu tha thiết của hoàng hậu, Temiya đã được bổ nhiệm làm người cai trị Kāsi trong một tuần lễ trước khi bị xử tử, nhưng sự tận hưởng quyền lực hoàng gia đã không làm suy yếu quyết tâm của ngài. Người đánh xe, dưới ảnh hưởng của Sakka, đã đưa Temiya đến nơi mà ông ta cho là bãi tha ma và tại đó, trong khi Sunanda đang đào mộ, Temiya đã lén đến phía sau ông ta và thổ lộ cho ông ta biết mục đích cũng như quyết tâm của mình để sống cuộc sống đạo sĩ. Sunanda bị ấn tượng mạnh bởi những lời của Temiya đến mức ông ta ngay lập tức muốn bản thân cũng trở thành một đạo sĩ, nhưng Temiya mong muốn ông ta thông báo cho cha mẹ ngài về những gì đã xảy ra. Khi nhà vua và hoàng hậu nghe tin tức từ Sunanda, họ đã cùng với toàn bộ tùy tùng đến am thất của Temiya và tại đó, sau khi nghe Temiya thuyết pháp, tất cả họ đều trở thành đạo sĩ. Những cư dân của ba vương quốc lân cận Benares đã noi gương họ, và số lượng các đạo sĩ là rất lớn. Sakka và Vissakamma đã cung cấp chỗ ở cho họ. Đám đông tụ tập lại với nhau như vậy được gọi là nhóm hội tụ (*samāgama*) Mūgapakkha. Với sự viên tịch của Malayamahādeva Thera (*q.v.*) đã kết thúc mạng mạch của những người tham gia vào sự tập hợp vĩ đại này của các đạo sĩ.
+
+Cha mẹ của Temiya được đồng nhất với cha mẹ của Đức Phật, Sunanda với Sāriputta và vị nữ thần của chiếc lọng với Uppalavaṇṇā. Câu chuyện được kể liên quan đến Sự Khước Từ vĩ đại của Đức Phật (Ja.vi.1-30; câu chuyện về Temiya cũng được đưa ra trong Temiyacariyā ở Cpiii.6). Nó thường được nhắc đến (ví dụ, Bv­a.51) như việc đưa ra một ví dụ về quyết tâm to lớn của vị Bodhisattva. Dhammikasutta (*q.v.*) có đề cập đến Mūgapakkha trong một danh sách những vị đạo sư thời xưa.
 
 ## Notes

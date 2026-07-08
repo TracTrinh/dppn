@@ -5,7 +5,7 @@ base_headword: "Moraparitta"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -25,6 +25,6 @@ Moraparitta. One of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Moraparitta. Một trong những bài Paritta (hộ chú). Tên này được đặt cho những câu thần chú được tìm thấy trong Morajātaka (Ja 159). Ja.ii.33f.
 
 ## Notes

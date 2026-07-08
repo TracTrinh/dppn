@@ -5,7 +5,7 @@ base_headword: "Moranivāpa"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -39,6 +39,12 @@ See also <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Moranivāpa. Một khu rừng nhỏ ở Veḷuvana tại Rājagaha. Nó chứa một *Paribbājakārāma*, nơi lưu trú của các sa-môn thuộc nhiều giáo phái khác nhau. Udumbarikāsīhanādasutta, Mahā Sakuladāyisutta và Cūḷa Sakūladāyisutta đã được thuyết giảng ở đó (DN.iii.36ff.; MN.ii.1, 29).
+
+Nơi này được gọi như vậy vì loài công được bảo vệ ở đó và thức ăn được cung cấp cho chúng (DN­a.iii.835; MN­a.ii.694).
+
+Moranivāpa nằm trên bờ sông Sumāgadhā và Đức Phật được nhắc đến (DN.iii.39) là đã tản bộ ở đó. Cách đó không xa là công viên của Hoàng hậu Udumbarikā (DN.iii.36).
+
+Xem thêm Moranivāpasutta, 1 và 2.
 
 ## Notes

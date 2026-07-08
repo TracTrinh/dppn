@@ -25,6 +25,6 @@ Aṅkuravatthu. The story of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Aṅkuravatthu. Câu chuyện của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aṅkura</span>. Dhp­a.iv.80-2.
+Aṅkuravatthu. Câu chuyện của Aṅkura. Dhp­a.iv.80-2.
 
 ## Notes

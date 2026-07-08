@@ -5,7 +5,7 @@ base_headword: "Suriyapassapabbata"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Suriyapassapabbata. One of the seven mountain ranges surrounding <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suriyapassapabbata. Một trong bảy dãy núi bao quanh Chaddanta *daha*. Ja.v.138.
 
 ## Notes

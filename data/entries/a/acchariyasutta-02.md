@@ -24,6 +24,6 @@ Acchariyasutta 02. The four marvels that are manifested in connection with the b
 
 ## Vietnamese translation
 
-Acchariyasutta 02. Bốn điều kỳ diệu được biểu hiện liên quan đến sự đản sinh của một <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Tathāgata</span>. AN.ii.130-1; cf. DN.ii.13,15; MN.iii.118.
+Acchariyasutta 02. Bốn điều kỳ diệu được biểu hiện liên quan đến sự đản sinh của một Tathāgata. AN.ii.130-1; cf. DN.ii.13,15; MN.iii.118.
 
 ## Notes

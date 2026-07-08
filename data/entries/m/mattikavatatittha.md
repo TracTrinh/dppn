@@ -5,7 +5,7 @@ base_headword: "Mattikāvāṭatittha"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Mattikāvāṭatittha. A landing place in Ceylon, the scene of the embarkment of
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mattikāvāṭatittha. Một bến đỗ ở Ceylon, nơi một phần đội quân do Vījayabāhu cử đến vương quốc Coḷa đã lên thuyền. Cv.Ix.34.
 
 ## Notes

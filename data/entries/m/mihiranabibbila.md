@@ -5,7 +5,7 @@ base_headword: "Mihiraṇabibbila"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mihiraṇabibbila. A village in Ceylon, mentioned in the account of the campaign
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mihiraṇabibbila. Một ngôi làng ở Tích Lan, được đề cập trong lời tường thuật về các chiến dịch của Parakkamabāhu I. Cv.lxxii.232, 271.
 
 ## Notes

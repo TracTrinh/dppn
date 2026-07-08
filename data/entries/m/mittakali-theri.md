@@ -5,7 +5,7 @@ base_headword: "Mittakālī Therī"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -29,6 +29,6 @@ Mittakālī Therī, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mittakālī Therī, Mittakālikā Therī. Bà xuất thân từ một gia đình Bà-la-môn ở Kammāsadamma và đã gia nhập Tăng đoàn sau khi nghe Gotama Buddha thuyết giảng Mahā Satipaṭṭhānasutta. Trong suốt bảy năm, bà đã bộc lộ lòng khao khát đối với những món quà và sự tôn vinh, đồng thời hay thích gây gổ. Nhưng sau đó bà đã nỗ lực tinh tấn và trở thành một vị *Arahant* (Thīg­a.i.89). Một số bài kệ được gán cho bà có thể được tìm thấy trong Therīgāthā, vs.92-6.
 
 ## Notes

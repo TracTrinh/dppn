@@ -5,7 +5,7 @@ base_headword: "Missakapabbata"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -29,6 +29,6 @@ Missakapabbata. A mountain near <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Missakapabbata. Một ngọn núi gần Anurādhapura, ngày nay là Mihintale. Trong khi đang săn nai sừng tấm trên ngọn núi này, Devānampiyatissa đã gặp Mahinda, người đã cùng với các bạn đồng hành của mình đến để truyền bá Phật giáo vào Hòn đảo. Chính trên Silākūṭa, đỉnh núi phía bắc, Mahinda đã hạ xuống sau chuyến du hành xuyên không trung từ Ấn Độ, trong khi cuộc trò chuyện giữa ngài và nhà vua diễn ra ở Ambatthala, một vùng đất bằng phẳng nhỏ bên dưới đỉnh núi (Mhv.xiii.14, 20; xiv.2; Dpv.xii.28, 37ff). Ngọn núi này sau đó được gọi là Cetiyagiri (*q.v.*). Mhv.xvii.23; Dpv.xiv.56.
 
 ## Notes

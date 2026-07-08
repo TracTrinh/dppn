@@ -5,7 +5,7 @@ base_headword: "Moggallānasutta"
 disambiguator: "01"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -27,6 +27,6 @@ Moggallānasutta 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Moggallānasutta 01. Vaṅgīsa hát ngâm lời ca ngợi Mahā Moggallāna trước Gotama Buddha và một hội chúng gồm năm trăm Arahant. SN.i.194f.; cf. Thag.1249-51.
 
 ## Notes

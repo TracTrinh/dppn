@@ -5,7 +5,7 @@ base_headword: "Medhaṅkara"
 disambiguator: "01"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -25,6 +25,6 @@ Medhaṅkara 01. A Buddha of very long ago, belonging to the same *kappa* as <sp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Medhaṅkara 01. Một vị Phật từ thời rất xa xưa, thuộc cùng một *kappa* với Dīpaṅkara. Bv.xxvii.1; Ja.i.44.
 
 ## Notes

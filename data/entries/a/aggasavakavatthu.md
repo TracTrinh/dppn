@@ -26,6 +26,6 @@ Aggasāvakavatthu. The chronicle of <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Aggasāvakavatthu. Biên niên truyện về <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sāriputta</span> và <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Moggallāna</span>. Dhp­a.i.83-114.
+Aggasāvakavatthu. Biên niên truyện về Sāriputta và Moggallāna. Dhp­a.i.83-114.
 
 ## Notes

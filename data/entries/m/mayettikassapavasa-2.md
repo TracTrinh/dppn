@@ -5,7 +5,7 @@ base_headword: "Māyettikassapāvāsa"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Māyettikassapāvāsa. A *vihāra* in Ceylon, to which <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māyettikassapāvāsa. Một *vihāra* ở Ceylon, được Jeṭṭhatissa III. ban tặng ngôi làng Sahannanagara. Cv.xliv.100.
 
 ## Notes

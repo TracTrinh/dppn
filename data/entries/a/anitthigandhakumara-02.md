@@ -25,6 +25,6 @@ Anitthigandhakumāra 02. Similar to the above, the story being called the <span 
 
 ## Vietnamese translation
 
-Anitthigandhakumāra 02. Tương tự như trên, câu chuyện được gọi là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Mahā Palobhanajātaka</span>. Ja 507 Ja.iv.469-73.
+Anitthigandhakumāra 02. Tương tự như trên, câu chuyện được gọi là Mahā Palobhanajātaka. Ja 507 Ja.iv.469-73.
 
 ## Notes

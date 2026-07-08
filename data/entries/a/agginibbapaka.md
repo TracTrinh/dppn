@@ -29,6 +29,6 @@ Agginibbāpaka (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Agginibbāpaka (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Agginibbāpana</span>). Một vị <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Cakkavatti</span> cách đây tám mươi sáu *kappa*; một tiền kiếp của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Māṇava Thera</span> (Thag­a.i.162f), cũng được gọi là (trong <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Apadāna</span> i.158-9) <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Sammukhāthavika</span>.
+Agginibbāpaka (*v.l.* Agginibbāpana). Một vị Cakkavatti cách đây tám mươi sáu *kappa*; một tiền kiếp của Māṇava Thera (Thag­a.i.162f), cũng được gọi là (trong Apadāna i.158-9) Sammukhāthavika.
 
 ## Notes

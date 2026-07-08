@@ -25,6 +25,6 @@ Aggideva 03. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Aggideva 03. Một <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Cakkavatti</span> sống cách đây mười một *kappa*; một đời trước của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Pāpanivāriya Thera</span>. Ap.i.213.
+Aggideva 03. Một Cakkavatti sống cách đây mười một *kappa*; một đời trước của Pāpanivāriya Thera. Ap.i.213.
 
 ## Notes

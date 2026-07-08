@@ -5,7 +5,7 @@ base_headword: "Muṭṭhasatisutta"
 disambiguator: "01"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -24,6 +24,6 @@ Muṭṭhasatisutta 01. A woman who is muddle-headed is born in purgatory. SN.iv
 
 ## Vietnamese translation
 
-Chưa dịch.
+Muṭṭhasatisutta 01. Một người phụ nữ có đầu óc lú lẫn sẽ tái sinh vào địa ngục. SN.iv. 242.
 
 ## Notes

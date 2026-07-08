@@ -5,7 +5,7 @@ base_headword: "Mitta"
 disambiguator: "05"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -23,6 +23,6 @@ Mitta 05. A common name, e.g., Ja.iv.478; Vibh-a.138; MN­a.i.454, etc.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mitta 05. Một tên gọi phổ biến, ví dụ: Ja.iv.478; Vibh-a.138; MN­a.i.454, v.v.
 
 ## Notes

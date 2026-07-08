@@ -5,7 +5,7 @@ base_headword: "Mucelapaṭṭana"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mucelapaṭṭana. Perhaps a place in Ceylon, where <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mucelapaṭṭana. Có lẽ là một địa danh ở Tích Lan, nơi Vohārikatissa đã thiết lập việc bố thí (Mhv.xxxvi.30). Tuy nhiên, Mhv­ṭ. p.661f, nói rằng Mucelapaṭṭana là một chiếc thuyền bằng kim loại, trong đó nhiều phẩm vật cúng dường được lưu giữ để phân phát cho các tỳ-kheo.
 
 ## Notes

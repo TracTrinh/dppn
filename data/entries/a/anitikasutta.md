@@ -26,6 +26,6 @@ Anītikasutta and <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Anītikasutta và <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Anītikadhammasutta</span>. Về trạng thái thoát khỏi <span class="dppn-term dppn-term-t20" data-dppn-term-pos="2" data-dppn-term-class="t20">khổ đau</span> và con đường dẫn đến đó. SN.iv.371.
+Anītikasutta và Anītikadhammasutta. Về trạng thái thoát khỏi khổ đau và con đường dẫn đến đó. SN.iv.371.
 
 ## Notes

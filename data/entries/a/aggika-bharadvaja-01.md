@@ -29,6 +29,6 @@ Aggika Bhārādvāja 01. A Brahmin of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Aggika Bhārādvāja 01. Một Bà-la-môn ở <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sāvatthī</span>, thuộc thị tộc <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Bhāradvāja</span>. Đức Phật, trong khi đi khất thực, thấy ông đang chăm lửa và chuẩn bị lễ phẩm, rồi đứng khất thực trước nhà ông. Vị Bà-la-môn mắng nhiếc Ngài, gọi Ngài là *muṇḍaka* và *vasala*. Sau đó Đức Phật thuyết cho ông <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Vasalasutta</span> (hoặc, như đôi khi được gọi, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Aggika Bhāradvājasutta</span>), và cảm hóa ông quy hướng đức tin (Sn.21-5). Biệt danh <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Aggika</span> được đặt cho ông vì ông là người chăm lửa thiêng. Snp-a.i.174f.
+Aggika Bhārādvāja 01. Một Bà-la-môn ở Sāvatthī, thuộc thị tộc Bhāradvāja. Đức Phật, trong khi đi khất thực, thấy ông đang chăm lửa và chuẩn bị lễ phẩm, rồi đứng khất thực trước nhà ông. Vị Bà-la-môn mắng nhiếc Ngài, gọi Ngài là *muṇḍaka* và *vasala*. Sau đó Đức Phật thuyết cho ông Vasalasutta (hoặc, như đôi khi được gọi, Aggika Bhāradvājasutta), và cảm hóa ông quy hướng đức tin (Sn.21-5). Biệt danh Aggika được đặt cho ông vì ông là người chăm lửa thiêng. Snp-a.i.174f.
 
 ## Notes

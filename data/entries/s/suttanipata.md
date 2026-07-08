@@ -5,7 +5,7 @@ base_headword: "Suttanipāta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -35,6 +35,8 @@ A Commentary exists on the <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suttanipāta. Một trong những cuốn sách, thường là cuốn thứ năm, của Khuddakanikāya. Nó bao gồm năm phẩm (*Vagga*) – *Uraga*, *Cūḷa*, *Mahā*, *Aṭṭhaka* và *Pārāyaṇa* – bốn phẩm đầu bao gồm năm mươi tư bài thơ trữ tình ngắn, trong khi phẩm thứ năm chứa mười sáu bài kinh (*Sutta*). Trong số ba mươi tám bài thơ ở ba phẩm đầu, sáu bài được tìm thấy trong các cuốn sách khác của chính tạng, cho thấy rằng có lẽ chúng đã tồn tại riêng biệt, như những bài thơ phổ biến, trước khi được hợp nhất vào Suttanipāta. Phẩm thứ tư được nhắc đến trong Saṁyuttanikāya, Vinayapiṭaka và Udāna, như một tác phẩm riêng biệt, và phẩm này có lẽ liên kết rất chặt chẽ với phẩm cuối cùng, bởi vì Niddesa rõ ràng là một Chú giải cũ về chúng và không chú ý đến các phẩm còn lại (để biết thông tin chi tiết, xem Law, *Pāli Literature* i.232f.). Các vị Dīghabhāṇaka đã xếp Suttanipāta vào Abhidhammapiṭaka (DN­a.i.15).
+
+Có một bản Chú giải về Suttanipāta, do Buddhaghosa viết, và được gọi là Paramatthajotikā (*q.v.*).
 
 ## Notes

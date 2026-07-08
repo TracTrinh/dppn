@@ -31,12 +31,12 @@ In the description of the *Arūpāvacarabhūmi*, these <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Ākāsānañcāyatanūpagādevā. Một hạng chư thiên (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Devas</span>) sinh vào cõi Không vô biên xứ (*ākāsānañcāyatana*) (MN.iii.103).
+Ākāsānañcāyatanūpagādevā. Một hạng chư thiên (Devas) sinh vào cõi Không vô biên xứ (*ākāsānañcāyatana*) (MN.iii.103).
 
 Họ thuộc về cõi *Arūpa* (vô sắc giới) và tuổi thọ của họ là hai mươi ngàn kiếp (*kappas*) (AN.i.267; Abhidh-s., tr.23).
 
 Tâm của họ sinh và diệt trong từng sát-na (Kv.i.207-8).
 
-Trong mô tả về *Arūpāvacarabhūmi*, các vị chư thiên (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Devas</span>) này đại diện cho giới hạn thấp nhất, và giới hạn cao nhất là cõi *Nevasaññānāsaññā*. Paṭis.i.84.
+Trong mô tả về *Arūpāvacarabhūmi*, các vị chư thiên (Devas) này đại diện cho giới hạn thấp nhất, và giới hạn cao nhất là cõi *Nevasaññānāsaññā*. Paṭis.i.84.
 
 ## Notes

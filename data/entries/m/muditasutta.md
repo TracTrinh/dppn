@@ -5,7 +5,7 @@ base_headword: "Muditāsutta"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -24,6 +24,6 @@ Muditāsutta. The idea of joy, if cultivated, leads to great bliss. SN.v.131.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Muditāsutta. Ý nghĩ về hỷ (niềm vui), nếu được tu tập, dẫn đến đại lạc. SN.v.131.
 
 ## Notes

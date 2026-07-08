@@ -5,7 +5,7 @@ base_headword: "Muṇḍa"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -35,6 +35,6 @@ Muṇḍa. A king of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Muṇḍa. Một vị vua xứ Magadha, chắt của Ajātasattu và là con trai của Anuruddha. Ông đã giết cha mình và lên ngôi, nhưng sau đó, ông lại bị giết bởi con trai mình là Nāgadāsaka (Mhv.iv.2ff.; DN­a.i.153; Divy.369). Rất có thể đây cũng chính là vị vua được nhắc đến trong Aṅguttaranikāya (iii.57ff). Vợ của ông là Bhaddā qua đời, và Muṇḍa đã buông mình vào sự tuyệt vọng hoàn toàn và ướp xác hoàng hậu. Vị Thủ quỹ của nhà vua, Piyaka, đã thỉnh ý Trưởng lão Nārada, người sống tại Kukkuṭārāma ở Pāṭaliputta, và thuyết phục ngài đến thăm nhà vua. Nārada đã thuyết pháp cho ông, và nỗi buồn của ông tan biến.
 
 ## Notes

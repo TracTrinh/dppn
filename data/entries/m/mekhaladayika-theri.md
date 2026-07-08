@@ -5,7 +5,7 @@ base_headword: "Mekhaladāyikā Therī"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Mekhaladāyikā Therī. An *Arahant* Therī. Ninety-four *kappas* ago she offere
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mekhaladāyikā Therī. Một vị Therī *Arahant*. Chín mươi tư *kappa* trước, bà đã cúng dường *mekhalā* chiếc thắt lưng của mình cho việc trùng tu *Thūpa* của Siddhattha Buddha (Ap.ii.513f). Bà có thể đồng nhất với Mettikā Therī. Thīg­a.35.
 
 ## Notes

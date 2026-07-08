@@ -9106,3 +9106,291 @@ Cột **Sửa**: ✅ = đã sửa trực tiếp trong review; — = sạch, khô
 | 106 | l/lokasutta-06 | clean |  |
 | 107 | l/lokasutta-07 | clean |  |
 
+## Batch: k_83a00755 (letter K — Koṇḍivāsa…Kukkuṭārāma) — 120 entries
+
+- Ngày review: 2026-07-08
+- Người/model: Opus 4.8 (Claude Code review pass)
+- Phạm vi: manifest `k_83a00755-1abe-4770-9d9e-9d28357dbfa1_result.md` (review_queue; 8 apply run: 3+27+29+1+30+29+1+... = 120 entry status=draft).
+- Kết quả: 120/120 đạt; 2 file sửa low-risk (glossary Sotāpanna); 0 file đặt needs_check; tất cả giữ status=draft. Không có glossary proposal nào để merge.
+
+| # | Entry (k/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | k/kondivasa | clean |  |
+| 2 | k/koratiya | clean |  |
+| 3 | k/kosala-2 | clean |  |
+| 4 | k/kondanna-02 | clean |  |
+| 5 | k/kondanna-03 | clean |  |
+| 6 | k/kondanna | clean | entry dài (Koṇḍañña Buddha); citation + tên Pāli chính xác |
+| 7 | k/kondannasutta | clean |  |
+| 8 | k/konduruva | clean |  |
+| 9 | k/kongamangala | clean |  |
+| 10 | k/kongu | clean |  |
+| 11 | k/kontadisavijaya | clean |  |
+| 12 | k/kontaratthapabbatavihara | clean |  |
+| 13 | k/kontimara | clean |  |
+| 14 | k/korabya-2 | clean |  |
+| 15 | k/korabya | clean | entry dài; citation nhiều, chính xác |
+| 16 | k/korakalamba | clean |  |
+| 17 | k/korakkhatta | clean |  |
+| 18 | k/korandaka-vihara | clean |  |
+| 19 | k/korandapupphiya-thera-01 | clean |  |
+| 20 | k/korandapupphiya-thera-02 | clean |  |
+| 21 | k/korandavanna | clean |  |
+| 22 | k/koravyasettha | clean |  |
+| 23 | k/kosalabimbavannana | clean |  |
+| 24 | k/kosaladevi | clean |  |
+| 25 | k/kosalaka | clean |  |
+| 26 | k/kosalarannoparajayavatthu | clean |  |
+| 27 | k/kosalasamyutta | clean |  |
+| 28 | k/kosalasutta-01 | clean |  |
+| 29 | k/kosalasutta-02 | clean |  |
+| 30 | k/kosalasutta-03 | clean |  |
+| 31 | k/kosalavihari-thera | clean |  |
+| 32 | k/kosambaka-01 | clean |  |
+| 33 | k/kosambaka | clean |  |
+| 34 | k/kosambakavatthu | clean |  |
+| 35 | k/kosambakkhandha | clean |  |
+| 36 | k/kosambi | clean | entry rất dài; citation + tuyến đường + tên Pāli chính xác |
+| 37 | k/kosambijataka | clean |  |
+| 38 | k/kosambika | clean |  |
+| 39 | k/kosambikasetthi | clean |  |
+| 40 | k/kosambisutta | clean |  |
+| 41 | k/kosambiyasutta | clean |  |
+| 42 | k/kosika-01 | clean |  |
+| 43 | k/kosika-02 | clean |  |
+| 44 | k/kosika-03 | clean |  |
+| 45 | k/kosiki | clean |  |
+| 46 | k/kosinaraka | clean |  |
+| 47 | k/kosiya-01 | clean | entry dài; citation + tên Pāli chính xác |
+| 48 | k/kosiya-03 | clean |  |
+| 49 | k/kosiya | clean |  |
+| 50 | k/kosiyagotta | clean |  |
+| 51 | k/kosiyajataka-01 | clean |  |
+| 52 | k/kosiyajataka-02 | clean |  |
+| 53 | k/kosiyajataka-03 | clean |  |
+| 54 | k/kosiyavagga-01 | clean |  |
+| 55 | k/kosiyavagga-02 | clean |  |
+| 56 | k/kosiyayana | clean |  |
+| 57 | k/kosumbaphaliya-thera | clean |  |
+| 58 | k/kota | clean |  |
+| 59 | k/kotagerukapasada | clean |  |
+| 60 | k/kosambakuti | clean |  |
+| 61 | k/kotalavapigama | clean |  |
+| 62 | k/kotalla | clean |  |
+| 63 | k/kotamalaya | clean |  |
+| 64 | k/kotapabbata | clean | entry dài; citation chính xác |
+| 65 | k/kotigama | clean |  |
+| 66 | k/kotigamavagga | clean |  |
+| 67 | k/kotipassava | clean |  |
+| 68 | k/kotipassavana | clean |  |
+| 69 | k/kotisanthara | clean |  |
+| 70 | k/kotisimbalijataka | clean |  |
+| 71 | k/kotisimbaliniraya | clean |  |
+| 72 | k/kottanagapabbata | clean |  |
+| 73 | k/kottapattana | clean |  |
+| 74 | k/kottha | clean |  |
+| 75 | k/kotthabhadda | clean |  |
+| 76 | k/kotthagama | clean |  |
+| 77 | k/kotthasala | clean |  |
+| 78 | k/kotthasara | clean |  |
+| 79 | k/kotthavata | clean |  |
+| 80 | k/kotthitasutta-01 | clean |  |
+| 81 | k/kotthitasutta-02 | clean |  |
+| 82 | k/kotthitasutta-03 | clean |  |
+| 83 | k/kotthitasutta-04 | clean |  |
+| 84 | k/kotthitasutta-05 | clean |  |
+| 85 | k/kotthumala | clean |  |
+| 86 | k/kotuhalaka | clean |  |
+| 87 | k/kotumbara | clean |  |
+| 88 | k/kotumbariya-thera | clean |  |
+| 89 | k/kovilaragama | clean |  |
+| 90 | k/kubukandanadi | clean |  |
+| 91 | k/kubulagalla | clean |  |
+| 92 | k/kuddalajataka | clean |  |
+| 93 | k/kuddalamandala | clean |  |
+| 94 | k/kuddarajja | clean |  |
+| 95 | k/kuddavatakapasana | clean |  |
+| 96 | k/kuhakabrahmanavatthu | clean |  |
+| 97 | k/kuhakajataka | clean |  |
+| 98 | k/kuhakasutta | clean |  |
+| 99 | k/kuhasutta | clean |  |
+| 100 | k/kujjatissa-thera | clean | entry dài; citation + tên Pāli chính xác |
+| 101 | k/kukkujataka | clean |  |
+| 102 | k/kukkula | clean |  |
+| 103 | k/kukkulasutta | clean |  |
+| 104 | k/kukkulavagga | clean |  |
+| 105 | k/kukkura | clean |  |
+| 106 | k/kukkurajataka | clean |  |
+| 107 | k/kukkuravatikasutta | clean |  |
+| 108 | k/kukkuta-01 | fixed | Sotāpanna gloss "(Tu-đà-hoàn)" → "(bậc Dự lưu)" theo glossary |
+| 109 | k/kukkuta-02 | clean |  |
+| 110 | k/kukkuta-03 | clean |  |
+| 111 | k/kukkutagiri | clean |  |
+| 112 | k/kukkutagiriparivena | clean |  |
+| 113 | k/kukkutajataka-01 | clean |  |
+| 114 | k/kukkutajataka-02 | clean |  |
+| 115 | k/kukkutamitta | fixed | Sotāpanna gloss "(Tu-đà-hoàn)" → "(bậc Dự lưu)" theo glossary |
+| 116 | k/kukkutandakhadikavatthu | clean |  |
+| 117 | k/kukkutarama-01 | clean |  |
+| 118 | k/kukkutaramasutta | clean |  |
+| 119 | k/kukkutasukarasutta | clean |  |
+| 120 | k/kukkutarama-02 | clean | entry dài (Pāṭaliputta/Asokārāma); citation chính xác |
+
+
+## Batch: p/ (Papañcasūdanī → Parileyya) — 120 entry
+
+- Ngày review: 2026-07-08
+- Người/model: Antigravity / Gemini 3.5 Pro
+- Phạm vi: p_127ff4d2-349d-464b-a656-3c7b51df8681_result.md
+- Kết quả: 120/120 đạt; 15 file sửa low-risk; 0 file đặt needs_check; tất cả giữ status=draft.
+- ⚠️ ĐÍNH CHÍNH (xem "Batch: p/ — correction" bên dưới): 15 "sửa low-risk" của batch này phần lớn là **regression** do hiểu sai quy tắc citation (revert văn xuôi/connective tiếng Việt về tiếng Anh). Đã sửa lại; chỉ các span-restoration là đúng và được giữ.
+
+| # | Entry (p/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | p/papancasudani | — |  |
+| 2 | p/papanika-01 | — |  |
+| 3 | p/papanika-02 | — |  |
+| 4 | p/papanivariya-thera | — |  |
+| 5 | p/papasutta | — |  |
+| 6 | p/papatapabbata | ✅ | fixed translated citation |
+| 7 | p/papatasutta | — |  |
+| 8 | p/papatavagga | — |  |
+| 9 | p/papatitasutta | — |  |
+| 10 | p/papavagga | — |  |
+| 11 | p/pappata | — |  |
+| 12 | p/papphalama | — |  |
+| 13 | p/parabhavasutta-01 | — |  |
+| 14 | p/parabhavasutta-02 | — |  |
+| 15 | p/paradarikasutta | — |  |
+| 16 | p/paraga | — |  |
+| 17 | p/paragamavihara | — |  |
+| 18 | p/paraganga | ✅ | fixed translated citation |
+| 19 | p/parajika | — |  |
+| 20 | p/parajikakanda | — |  |
+| 21 | p/parajikuddesa | — |  |
+| 22 | p/parakkama-01 | ✅ | restored span in citation |
+| 23 | p/parakkama-02 | — |  |
+| 24 | p/parakkama-03 | — |  |
+| 25 | p/parakkama-04 | — |  |
+| 26 | p/parakkamabahu-01 | — |  |
+| 27 | p/parakkamabahu-02 | — |  |
+| 28 | p/parakkamabahu-03 | — |  |
+| 29 | p/parakkamabahu-04 | — |  |
+| 30 | p/parakkamabahu-05 | — |  |
+| 31 | p/parakkamabahu-06 | ✅ | fixed translated citation |
+| 32 | p/parakkamabahu-07 | ✅ | fixed translated citation |
+| 33 | p/parakkamabahu-08 | ✅ | fixed translated citation |
+| 34 | p/parakkamabahu-09 | — |  |
+| 35 | p/parakkamabahu-10 | — |  |
+| 36 | p/parakkamabahupasada | — |  |
+| 37 | p/parakkamapandu | — |  |
+| 38 | p/parakkamapura-01 | — |  |
+| 39 | p/parakkamapura-02 | — |  |
+| 40 | p/parakkamasagara | — |  |
+| 41 | p/parakkamasamudda-01 | — |  |
+| 42 | p/parakkamasamudda-02 | — |  |
+| 43 | p/parakkamatalaka | — |  |
+| 44 | p/parakusinata | — |  |
+| 45 | p/paramannadayaka-thera | — |  |
+| 46 | p/paramaraja | — |  |
+| 47 | p/paramassasasutta | — |  |
+| 48 | p/paramatta | — |  |
+| 49 | p/paramatthabindu | — |  |
+| 50 | p/paramatthadipa | — |  |
+| 51 | p/paramatthadipani-01 | — |  |
+| 52 | p/paramatthadipani-02 | — |  |
+| 53 | p/paramatthajotika | — |  |
+| 54 | p/paramatthakasutta | — |  |
+| 55 | p/paramatthamanjusa-01 | — |  |
+| 56 | p/paramatthamanjusa-02 | — |  |
+| 57 | p/paramatthapakasini | — |  |
+| 58 | p/paramatthavinicchaya | — |  |
+| 59 | p/paramimahasataka | — |  |
+| 60 | p/parammaranasutta | — |  |
+| 61 | p/parangi | — |  |
+| 62 | p/paranimmitavasavatti | ✅ | fixed translated citation |
+| 63 | p/parantapa-01 | — |  |
+| 64 | p/parantapa-02 | — |  |
+| 65 | p/parantapabbata | — |  |
+| 66 | p/parantapajataka | — |  |
+| 67 | p/parapara | — |  |
+| 68 | p/parapariya-thera | — |  |
+| 69 | p/parappasadaka-thera | — |  |
+| 70 | p/parasamuddavasi-thera | ✅ | fixed translated citation |
+| 71 | p/parasara | — |  |
+| 72 | p/parasariya-01 | — |  |
+| 73 | p/parasariya-02 | — |  |
+| 74 | p/parasariya-03 | — |  |
+| 75 | p/parasariya-04 | ✅ | fixed translated citation |
+| 76 | p/parasutta | — |  |
+| 77 | p/parayanasutta | — |  |
+| 78 | p/parayanavagga | ✅ | fixed translated citation |
+| 79 | p/parayanikabrahmana | — |  |
+| 80 | p/paresasutta | — |  |
+| 81 | p/paribbajaka | ✅ | restored span in citation |
+| 82 | p/paribbajakasutta-01 | — |  |
+| 83 | p/paribbajakasutta-02 | — |  |
+| 84 | p/paribbajakavagga | — |  |
+| 85 | p/paribhutta | — |  |
+| 86 | p/paricchattaka | ✅ | fixed translated citation |
+| 87 | p/paricchattakasutta | — |  |
+| 88 | p/paricchattakavagga | — |  |
+| 89 | p/paricchattakavimanavatthu | — |  |
+| 90 | p/parihanasutta-01 | — |  |
+| 91 | p/parihanasutta-02 | — |  |
+| 92 | p/parihanasutta-03 | — |  |
+| 93 | p/parihanasutta-04 | — |  |
+| 94 | p/parihanisutta | — |  |
+| 95 | p/parijananasutta | — |  |
+| 96 | p/parijanasutta | ✅ | restored span in citation |
+| 97 | p/parika | — |  |
+| 98 | p/parikkharasutta | — |  |
+| 99 | p/parikuppasutta | — |  |
+| 100 | p/parilaha | — |  |
+| 101 | p/parilahasutta | — |  |
+| 102 | p/parileyyakasutta | — |  |
+| 103 | p/parimandalavagga | — |  |
+| 104 | p/parimucchitasutta | — |  |
+| 105 | p/parinda | — |  |
+| 106 | p/parinibbanasutta-01 | — |  |
+| 107 | p/parinibbanasutta-02 | — |  |
+| 108 | p/parinnasutta-01 | — |  |
+| 109 | p/parinnasutta-02 | — |  |
+| 110 | p/parinnasutta-03 | ✅ | restored span in citation |
+| 111 | p/parinnayasutta | — |  |
+| 112 | p/parinneyyasutta-01 | — |  |
+| 113 | p/parinneyyasutta-02 | — |  |
+| 114 | p/parinneyyasutta | — |  |
+| 115 | p/paripunnaka-thera | — |  |
+| 116 | p/parisasutta-01 | — |  |
+| 117 | p/parisasutta-02 | — |  |
+| 118 | p/parisasutta-03 | — |  |
+| 119 | p/parisavagga | — |  |
+| 120 | p/parileyya | ✅ | fixed translated citation |
+
+## Batch: p/ — correction (re-review đợt p_127ff4d2)
+
+- Ngày review: 2026-07-08
+- Người/model: Claude (Opus) — re-review đợt Antigravity trước đó
+- Phạm vi: 15 file mà đợt trước đánh dấu "fixed translated citation" trong batch p_127ff4d2
+- Bối cảnh: đợt trước hiểu "citation verbatim" quá rộng → coi *mọi ngoặc có chữ số* là citation và revert cả văn xuôi + connective tiếng Việt về tiếng Anh. Quy tắc thật: chỉ **mã tham chiếu** (SN.iii.9ff., Dhp­a.iii.289f…) mới giữ nguyên; connective ("ví dụ", "xem", "xem thêm"…) và văn xuôi phải là tiếng Việt theo house convention (142 entry khác dùng `(ví dụ,`).
+- Kết quả: 33 sửa trên 15/15 file. Gồm 27 sửa connective/prose + **6 span gỡ khỏi VI** ở 4 file.
+- ⚠️ Đính chính lần 2: các `<span data-dppn-term>` mà đợt Antigravity "khôi phục" vào bản Việt là **SAI** (không phải "phần đúng"). House rule enforce bằng code (`dppn_batch_io.validate()`: "translation contains source HTML/span markers" → SKIP): **bản Việt KHÔNG được chứa span**; term-link do build sinh sau. Đã gỡ 6 span (parakkama-01, paribbajaka×3, parijanasutta, parinnasutta-03), unwrap về tên trần. Đồng thời quét toàn corpus và **fix luôn 252 entry chữ 'a'** dính lỗi tương tự (legacy): unwrap 1600 span khỏi VI, verify corpus còn **0 VI-span**.
+
+| # | Entry (p/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | p/papatapabbata | ✅ | e.g.,→ví dụ, |
+| 2 | p/paraganga | ✅ | e.g.,→ví dụ, |
+| 3 | p/parakkama-01 | ✅ | gỡ span khỏi VI (Parakkanta) |
+| 4 | p/parakkamabahu-06 | ✅ | see→xem; and→và |
+| 5 | p/parakkamabahu-07 | ✅ | see also→xem thêm; and→và |
+| 6 | p/parakkamabahu-08 | ✅ | **regression prose**: (circa 1480-84 CE.)→(khoảng 1480-84 CN.) |
+| 7 | p/paranimmitavasavatti | ✅ | see also→xem thêm |
+| 8 | p/parasamuddavasi-thera | ✅ | e.g.,→ví dụ, |
+| 9 | p/parasariya-04 | ✅ | Ibid.,→Sđd., |
+| 10 | p/parayanavagga | ✅ | e.g.,→ví dụ, |
+| 11 | p/paribbajaka | ✅ | **regression prose**: câu Chalmers "For discussions…"→tiếng Việt; + ví dụ/Sđd/cũng như/v.v.; gỡ 3 span khỏi VI |
+| 12 | p/paricchattaka | ✅ | e.g.,→ví dụ,; Ibid.,→Sđd., |
+| 13 | p/parijanasutta | ✅ | or→hoặc; gỡ span khỏi VI (Abhijānasutta) |
+| 14 | p/parinnasutta-03 | ✅ | or→hoặc; gỡ span khỏi VI (Addhānasutta) |
+| 15 | p/parileyya | ✅ | e.g.,→ví dụ,; see→xem |

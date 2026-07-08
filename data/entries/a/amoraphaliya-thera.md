@@ -31,8 +31,8 @@ The verses ascribed to him in the <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Amoraphaliya Thera *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Āmodaphaliya Thera</span>. Một *Arahant*. Chín mươi mốt *kappas* trước, ngài đã dâng một quả *amora* cho <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Vipassī Buddha</span> (Ap.ii.447).
+Amoraphaliya Thera *v.l.* Āmodaphaliya Thera. Một *Arahant*. Chín mươi mốt *kappas* trước, ngài đã dâng một quả *amora* cho Vipassī Buddha (Ap.ii.447).
 
-Các kệ được gán cho ngài trong <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Apadāna</span>, trong Chú giải <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Theragāthā</span>, lại được gán cho hai vị sư, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Isidatta</span> (Thag­a.i.238) và <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Gotama</span> (Ibid., i.256).
+Các kệ được gán cho ngài trong Apadāna, trong Chú giải Theragāthā, lại được gán cho hai vị sư, Isidatta (Thag­a.i.238) và Gotama (Ibid., i.256).
 
 ## Notes

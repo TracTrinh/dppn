@@ -5,7 +5,7 @@ base_headword: "Mettaji Thera"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -32,6 +32,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mettaji Thera. Vị này thuộc về một gia đình Bà-la-môn ở Magadha, và khi lớn lên, đã trở thành một vị tỳ-kheo sống trong rừng. Nghe tin về sự xuất hiện của Đức Phật, Mettaji đã đến yết kiến ngài, và thưa hỏi ngài về sự tiến bộ và thoái đọa (*pavattiyo*), và khi có niềm tin, vị này gia nhập Tăng đoàn và đắc quả vị *Arahant*.
+
+Vào thời của Anomadassī Buddha, vị này là một gia chủ và đã xây dựng một bức tường quanh cây Bodhi. Một trăm *kappa* trước, vị này là một vị vua tên là Sabbagghana (Sabbosana) (Thag.94; Thag­a.i.194f). Vị này rõ ràng đồng nhất với Anulomadāyaka Thera của Apadāna. Ap.i.173.
 
 ## Notes

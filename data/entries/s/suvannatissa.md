@@ -5,7 +5,7 @@ base_headword: "Suvaṇṇatissa"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Suvaṇṇatissa. A tank restored by <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suvaṇṇatissa. Một hồ chứa nước được phục hồi bởi Parakkamabāhu I. Cv.lxxix.32; xem Cv.Trs.ii.119, n.2.
 
 ## Notes

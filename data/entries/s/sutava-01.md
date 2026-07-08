@@ -5,7 +5,7 @@ base_headword: "Sutavā"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sutavā 01. A king of thirty-three *kappas* ago, a previous birth of <span class
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sutavā 01. Một vị vua của ba mươi ba *kappa* trước, một tiền kiếp của Dhammasaññaka Thera. Ap.i.249.
 
 ## Notes

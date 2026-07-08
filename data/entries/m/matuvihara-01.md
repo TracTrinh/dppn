@@ -5,7 +5,7 @@ base_headword: "Mātuvihāra"
 disambiguator: "01"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mātuvihāra 01. A *vihāra* built by King <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mātuvihāra 01. Một *vihāra* do Vua Saddhātissa xây dựng. Mhv.xxxiii.9.
 
 ## Notes

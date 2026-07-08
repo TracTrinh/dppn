@@ -5,7 +5,7 @@ base_headword: "Mittā"
 disambiguator: "02"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -29,6 +29,6 @@ Mittā 02. Younger sister of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mittā 02. Em gái của Vijayabāhu I. Bà kết hôn với vua Paṇḍu và có ba người con trai, Māṇābharaṇa, Kittisirimegha và Sirivallabha. Cv.lix.41; lxi.1; lxii.1.
 
 ## Notes

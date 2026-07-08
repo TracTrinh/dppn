@@ -5,7 +5,7 @@ base_headword: "Musāvādasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -24,6 +24,6 @@ Musāvādasutta. Few are they that abstain from lying, many they that do not. SN
 
 ## Vietnamese translation
 
-Chưa dịch.
+Musāvādasutta. Ít người kiêng tránh nói dối, nhiều người không làm thế. SN.v.469.
 
 ## Notes

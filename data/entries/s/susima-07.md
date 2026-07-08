@@ -5,7 +5,7 @@ base_headword: "Susīma"
 disambiguator: "07"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -32,6 +32,6 @@ Susīma 07. A Brahmin of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Susīma 07. Một Bà-la-môn ở Takkasilā và là con trai của Saṅkha. Ngài đến Benares và xin học việc với một vị thầy, người là bạn của cha ngài và đã dạy ngài nhiều thứ. Nhưng ngài chỉ có thể hiểu được phần đầu và phần giữa, chứ không hiểu được phần cuối. Do đó, ngài hỏi ý kiến thầy mình, người thú nhận rằng bản thân cũng không hiểu phần cuối, và khuyên ngài nên tìm kiếm các vị Pacceka Buddha đang sống ở Isipatana. Susīma đến đó, gia nhập Tăng đoàn, và trở thành một Pacceka Buddha. Chẳng bao lâu sau, ngài qua đời, và Saṅkha, khi đến tìm con trai mình, đã được kể lại những gì đã xảy ra. Saṅkha được đồng nhất với Bodhisatta. Dhp­a.iii.445f.; Khp­a.198f. Xem Saṅkhajātaka (Ja 442).
 
 ## Notes

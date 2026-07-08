@@ -5,7 +5,7 @@ base_headword: "Moliya Phagguna Thera"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -34,6 +34,10 @@ In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Moliya Phagguna Thera. Ông luôn thân thiện với các tỳ-kheo-ni và bênh vực họ trong các cuộc tranh luận với các tỳ-kheo. Điều này đã được báo cáo lên Đức Phật, Ngài đã cho gọi ông đến và thuyết Kakacūpamasutta (MN.i.122ff).
+
+Trong Saṁyuttanikāya (SN.ii.12f) có ghi lại một cuộc thảo luận giữa Moliya Phagguna và Đức Phật, liên quan đến thức thực (*viññāṇāhāra*). Moliya hỏi một câu hỏi về việc ai ăn thức thực. Đức Phật bác bỏ câu hỏi vì nó được đặt ra sai cách và những câu hỏi tương tự tiếp theo, mà Đức Phật đặt lại dưới một hình thức khác và đưa ra câu trả lời. Trong một ngữ cảnh khác (SN.ii.50), cũng trong bộ kinh này, Kalārakhattiya được thuật lại là đã nói với Sāriputta rằng Moliya Phagguna đã hoàn tục.
+
+Buddhaghosa (SN­a.ii.22; MN­a.i.315) giải thích rằng tên của người đàn ông là Phagguna và ông được ban cho danh hiệu là *Moli* vì ông đội một búi tóc lớn trên đỉnh đầu khi còn là một cư sĩ, và cái tên này vẫn tồn tại sau khi ông gia nhập Tăng đoàn. Xem thêm Phagguna.
 
 ## Notes

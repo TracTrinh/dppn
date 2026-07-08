@@ -27,6 +27,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Ākāsagaṅgā. Một kênh dẫn nước lớn do <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Parakkamabāhu I</span> xây dựng để dẫn nước từ <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Kāragaṅgā</span> đến <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Parakkamasamudda</span>. Cv.lxxix.25.
+Ākāsagaṅgā. Một kênh dẫn nước lớn do Parakkamabāhu I xây dựng để dẫn nước từ Kāragaṅgā đến Parakkamasamudda. Cv.lxxix.25.
 
 ## Notes

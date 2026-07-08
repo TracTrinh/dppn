@@ -5,7 +5,7 @@ base_headword: "Māyādhanu"
 disambiguator: "01"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -28,6 +28,6 @@ Māyādhanu 01. The youngest brother of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māyādhanu 01. Người em trai út của Bhuvanekabāhu VII. và là cha của Rājasīha I. Ông trị vì một phần của Ceylon với thủ đô tại Sītāvaka (1521-81 CN.). Triều đại của ông được đánh dấu bằng một loạt các cuộc đấu tranh gay gắt và thăng trầm chống lại anh trai mình và chống lại người Bồ Đào Nha lúc bấy giờ ở Colombo. Người ta nói rằng ông đã được kế vị bởi con trai mình, Rājasīha. Cv.xciii.3ff.; Cv.Trs.ii.224, n.1; 225, n.3.
 
 ## Notes

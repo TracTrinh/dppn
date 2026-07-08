@@ -28,7 +28,7 @@ The *Sutta* is evidently so-called because the simile of a fire is used. A blazi
 
 ## Vietnamese translation
 
-Aggivacchagottasutta (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aggivacchasutta</span>). Được thuyết giảng tại <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Jetavana</span> cho du sĩ ngoại đạo <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Vacchagotta</span> về sự nguy hiểm và vô ích của việc lý luận về thế giới, sự sống, v.v. (MN.i.483ff).
+Aggivacchagottasutta (Aggivacchasutta). Được thuyết giảng tại Jetavana cho du sĩ ngoại đạo Vacchagotta về sự nguy hiểm và vô ích của việc lý luận về thế giới, sự sống, v.v. (MN.i.483ff).
 
 *Sutta* này rõ ràng được gọi như vậy vì có sử dụng ẩn dụ về lửa. Một ngọn lửa đang cháy thì có thể nhìn thấy được, nhưng một khi đã tắt, không ai có thể nói nó đã biến đi đâu.
 

@@ -5,7 +5,7 @@ base_headword: "Susārada Thera"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -31,6 +31,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Susārada Thera. Ngài sinh ra trong gia đình của một người họ hàng của Sāriputta và được đặt tên như vậy vì ngài là một người chậm tiêu. Ngài đã nghe Sāriputta thuyết pháp, gia nhập Tăng đoàn, và trở thành một *Arahant*.
+
+Trong thời của Padumuttara Buddha, ngài là một Bà-la-môn, người đã trở thành một đạo sĩ. Một ngày nọ, ngài nhìn thấy Đức Phật đang đi khất thực và đã dâng đầy bình bát của Ngài bằng những trái cây ngọt. Bảy trăm *kappa* trước, ngài là một vị vua, tên là Sumaṅgala (Thag.vs.75; Thag­a.i.167). Ngài rõ ràng đồng nhất với Phaladāyaka của Apadāna. Ap.i.160f.
 
 ## Notes

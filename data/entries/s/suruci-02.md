@@ -5,7 +5,7 @@ base_headword: "Suruci"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Suruci 02. A king of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suruci 02. Một vị vua của Mithilā. Xem Surucijātaka (Ja 489). Cf. Mhv.ii.4; Dpv.iii.7; Mvu.i.348.
 
 ## Notes

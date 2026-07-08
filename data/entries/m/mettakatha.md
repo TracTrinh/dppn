@@ -5,7 +5,7 @@ base_headword: "Mettākathā"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -26,6 +26,6 @@ Mettākathā. The fourth chapter of the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mettākathā. Chương thứ tư của Yuganandhavagga thuộc Paṭisambhidāmagga.
 
 ## Notes

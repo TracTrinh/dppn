@@ -5,7 +5,7 @@ base_headword: "Migaketu"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -24,6 +24,6 @@ Migaketu. A king of fifty-four *kappas* ago, a former birth of <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Migaketu. Một vị vua của năm mươi tư *kappa* trước, một tiền kiếp của Trưởng lão Ṭhitañjaliya. Ap.i.123.
 
 ## Notes

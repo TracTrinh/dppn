@@ -5,7 +5,7 @@ base_headword: "Missaka-uyyāna"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Missaka-uyyāna. A park in Ceylon, laid out by <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Missaka-uyyāna. Một công viên ở Ceylon, do Parakkamabāhu I kiến tạo. Cv.lxxix.7.
 
 ## Notes

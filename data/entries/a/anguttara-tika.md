@@ -25,6 +25,6 @@ Aṅguttara Ṭīkā. By <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Aṅguttara Ṭīkā. Do <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Candagomi</span> biên soạn, rõ ràng là một tác giả của Ceylon. Svd.v.1201.
+Aṅguttara Ṭīkā. Do Candagomi biên soạn, rõ ràng là một tác giả của Ceylon. Svd.v.1201.
 
 ## Notes

@@ -25,6 +25,6 @@ Aggabodhi 13. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Aggabodhi 13. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aggabodhi IX</span>. Vua của Ceylon (CE 828-31), con trai của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Dappula II</span>. Cv.xlix.83-92.
+Aggabodhi 13. Aggabodhi IX. Vua của Ceylon (CE 828-31), con trai của Dappula II. Cv.xlix.83-92.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mudita Thera"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -30,6 +30,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mudita Thera. Vị này thuộc về một gia đình bình dân ở Kosala, và khi, vì lý do nào đó, gia tộc của vị này không được lòng nhà vua, Mudita đã trốn vào rừng và tình cờ gặp chỗ ở của một vị *Arahant*. Vị này, nhận thấy sự kinh hãi của Mudita, đã an ủi và truyền giới cho vị ấy theo lời thỉnh cầu của vị ấy. Mudita thực hành thiền minh sát, và từ chối rời khỏi am thất của mình cho đến khi đắc quả vị *Arahant*.
+
+Vào thời của Vipassī Buddha, vị này là một gia chủ và đã cúng dường cho Đức Phật một chiếc giường (Thag.311-14; Thag­a.i.401f). Vị này được đồng nhất với Mañcadāyaka (bị gọi sai là Sajjhadāyaka) của Apadāna. Ap.i.284f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Moriyā"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -42,6 +42,12 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Moriyā, Moriyas. Một thị tộc *Khattiya* của Ấn Độ. Trong số những người đòi hỏi một phần xá-lợi của Đức Phật có những người Moriyas của Pipphalivana. Họ đến khá muộn và phải bằng lòng với một phần tro (DN.ii.166; Bv.xxviii.4).
+
+Candagutta, ông nội của Asoka, cũng là một người Moriyan (Mhv.v.16; Dpv.vi.19).
+
+Mahā Vaṁsaṭīkā (Mhv­ṭ. 180) chứa một lời giải thích về nguồn gốc của cái tên. Theo một giả thuyết, họ được gọi như vậy vì họ vui mừng trong sự thịnh vượng của thành phố của họ (*attānaṁ nagarasiriyā modāpīti, ettha sañjātā ti, dakārassa rakāraṁ katvā Moriyā ti laddhavohārā*). Họ sống trong một vùng đất đáng yêu. Một giả thuyết khác liên kết cái tên với *mora* (chim công). Thành phố mà họ thành lập có những tòa nhà bằng đá xanh, giống như cổ của chim công, và nơi này luôn vang vọng tiếng kêu của những con chim công. Người ta kể rằng những người Moriyan ban đầu là những hoàng tử Sākyan của Kapilavatthu, những người đã trốn thoát đến vùng Himālaya để tự cứu mình khỏi các cuộc tấn công của Viḍūḍabha, và đã thành lập một thành phố ở đó. Như vậy Asoka là một người bà con của Đức Phật, vì Candagutta là con trai của vị hoàng hậu chính của vua Moriyan. Vị vua này đã bị giết bởi một vị vua láng giềng và thành phố bị cướp bóc. Mhv­ṭ.183; nhưng theo *Mudrārākṣasa* (Hồi iii.) Candragupta, là một *Vṛṣala*, một người có xuất thân thấp hèn, một đứa con ngoài giá thú của vị vua Nanda cuối cùng, do một người phụ nữ *Sūdra*, Murā sinh ra.
+
+Mẹ của Asoka, Dhammā, cũng là một công chúa Moriyan (Mhv­ṭ.189). Cũng có tài liệu đề cập đến những người Moriyan như một thị tộc của người Sinhalese (Cv.xxxviii.13; xli.69; xem thêm Cv.Trs.i.29, n.2). Không rõ liệu những người này có bất kỳ mối liên hệ nào với những người Moriyan của Ấn Độ hay không.
 
 ## Notes

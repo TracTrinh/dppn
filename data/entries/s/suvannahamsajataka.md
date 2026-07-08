@@ -5,7 +5,7 @@ base_headword: "Suvaṇṇahaṁsajātaka"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -32,6 +32,10 @@ The story was told in reference to <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suvaṇṇahaṁsajātaka (Ja 136). Bodhisatta từng là một Bà-la-môn. Ông có ba cô con gái: Nandā, Nandavatī và Sundarīnandā. Sau khi qua đời, ông sinh ra làm một con ngỗng vàng, và, nhớ lại kiếp trước của mình, ông bay đến nơi vợ và các con gái ông đang sống và nhổ cho họ một chiếc lông vàng của mình. Việc này xảy ra vài lần, cho đến cuối cùng người vợ lên kế hoạch nhổ hết lông của ông. Thế nhưng những chiếc lông bị nhổ từ một con ngỗng vàng, trái với ý muốn của nó, sẽ không còn là lông vàng nữa và trở nên giống như lông của một con sếu. Người phụ nữ đã phát hiện ra điều này khi bà ta nhổ hết lông của nó, vì vậy bà ta đã ném nó vào một cái thùng và cho nó ăn trong đó. Sau này, khi những chiếc lông trắng mọc lại, ngỗng bay đi và không bao giờ trở lại.
+
+Câu chuyện này được kể lại liên quan đến Thullanandā (*q.v.*). Một ngày nọ, cô đến nhà của một vị quản lý để xin một ít tỏi, vì ông có thói quen dâng cúng thứ này cho các ni cô. Nhưng số lượng tỏi đã hết, và cô được yêu cầu ra ruộng nhổ một ít. Cô đã đến đó và lấy đi một số lượng lớn, và người quản lý đã rất tức giận.
+
+Thullanandā được đồng nhất với người phụ nữ tham lam và ba người chị em của cô với ba cô con gái. Ja.i.474-7.
 
 ## Notes

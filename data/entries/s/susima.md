@@ -5,7 +5,7 @@ base_headword: "Susīmā"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -28,6 +28,6 @@ Susīmā. Mother of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Susīmā. Mẹ của Sīhabāhu và Sīhasīvalī. Bà là con gái của vua nước Vaṅga, và được cho là đã kết hợp với một con sư tử. Hậu duệ của sự kết hợp này trở thành người Sīhalā. Dpv.ix.2f.; cf. Mhv.vi.1ff.
 
 ## Notes

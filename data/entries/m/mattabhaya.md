@@ -5,7 +5,7 @@ base_headword: "Mattābhaya"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -31,6 +31,8 @@ When <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mattābhaya. Em trai của Devānampiyatissa. Ông đã chứng kiến những phép lạ diễn ra khi Xá-lợi của Đức Phật đến Ceylon, và cùng với một ngàn người khác, gia nhập Tăng đoàn (Mhv.xvii.57f).
+
+Khi Mahā Ariṭṭha tụng Vinaya tại Thupārāma và tổ chức *Saṅgīti* theo gợi ý của Mahinda, Mattābhaya, cùng với năm trăm người khác, đã được giao nhiệm vụ học Vinaya từ ngài. Vin-a.i.103.
 
 ## Notes

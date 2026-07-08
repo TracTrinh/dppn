@@ -25,6 +25,6 @@ Amitābha. A king of twenty-five *kappas* ago; a previous birth of <span class="
 
 ## Vietnamese translation
 
-Amitābha. Một vị vua cách đây hai mươi lăm *kappas*; một tiền thân của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ekasaññaka</span> Thera. Ap.i.210.
+Amitābha. Một vị vua cách đây hai mươi lăm *kappas*; một tiền thân của Ekasaññaka Thera. Ap.i.210.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Micchattasutta"
 disambiguator: "02"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -23,6 +23,6 @@ Micchattasutta 02. Perversion leads to failure (*virādhanā*) and not to succes
 
 ## Vietnamese translation
 
-Chưa dịch.
+Micchattasutta 02. Sự tà hạnh dẫn đến thất bại (*virādhanā*) và không dẫn đến thành công (*ārādhanā*) vì nó khuyến khích các ác pháp. AN.v.211f.
 
 ## Notes

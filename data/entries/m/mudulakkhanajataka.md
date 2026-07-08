@@ -5,7 +5,7 @@ base_headword: "Mudulakkhaṇajātaka"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -33,6 +33,8 @@ The story was related to a young man of rich family belonging to <span class="dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mudulakkhaṇajātaka (Ja 66). Bodhisatta từng là một đạo sĩ, tên là Mudulakkhaṇa, có những thành tựu tâm linh to lớn, sống ở Himālaya. Trong một lần nọ, ngài đến Benares, nơi nhà vua, hoan hỷ với phong thái của ngài, đã mời ngài vào cung điện và thuyết phục ngài ở lại trong công viên hoàng gia. Mười sáu năm trôi qua, và nhà vua, khi rời khỏi thành phố để dẹp loạn ở biên giới, đã giao phó hoàng hậu cho vị đạo sĩ chăm sóc. Ngày hôm sau, vị đạo sĩ đến thăm cung điện, và khi nhìn thấy hoàng hậu, ngài ngay lập tức đem lòng yêu nàng, đánh mất tất cả những năng lực thần thông (*iddhi*) của mình. Khi nhà vua trở về, ông thấy vị đạo sĩ đang buồn bã, và, khi biết được lý do, đã đồng ý giao hoàng hậu cho ngài. Nhưng ông đã bí mật yêu cầu hoàng hậu, người có tên là Mudulakkhaṇā, nghĩ ra một mưu kế nào đó để nàng có thể cứu vãn sự thánh thiện của vị đạo sĩ. Vị đạo sĩ cùng hoàng hậu rời khỏi cung điện và đi đến một ngôi nhà mà nhà vua đã ban cho họ, ngôi nhà này thường được sử dụng làm nhà vệ sinh. Hoàng hậu bắt vị đạo sĩ phải dọn dẹp nhà cửa, lấy nước và làm hàng trăm việc khác. Vị đạo sĩ sau đó đã nhận ra sự điên rồ của mình và vội vã quay lại gặp nhà vua, giao trả hoàng hậu.
+
+Câu chuyện được kể liên quan đến một thanh niên thuộc gia đình giàu có ở Sāvatthī, người đã trở thành một tỳ-kheo và thực hành thiền định. Một ngày nọ, trong khi đang đi khất thực, vị này nhìn thấy một người phụ nữ xinh đẹp và bị dục vọng chiếm giữ. Do đó, vị này đã từ bỏ sự tu tập của mình, và được đưa đến trước Đức Phật, người đã kể cho vị ấy nghe câu chuyện này, và sau khi kết thúc câu chuyện, vị ấy đã trở thành một *Arahant*. Ānanda là nhà vua và Uppalavaṇṇā là hoàng hậu. Ja.i.302-6.
 
 ## Notes

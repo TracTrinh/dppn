@@ -5,7 +5,7 @@ base_headword: "Mittasutta"
 disambiguator: "04"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -23,6 +23,6 @@ Mittasutta 04. A monk who is a bad friend will never follow the course of traini
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mittasutta 04. Một vị tỳ-kheo là một người bạn tồi sẽ không bao giờ tuân theo tiến trình tu tập dẫn đến sự đoạn tận hoàn toàn dục vọng và đam mê. AN.iii.422.
 
 ## Notes

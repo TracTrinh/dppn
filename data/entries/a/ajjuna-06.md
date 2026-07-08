@@ -28,6 +28,6 @@ Ajjuna 06. The eldest of the five sons of King <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Ajjuna 06. Người con cả trong năm người con trai của vua <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Paṇḍu</span>, tất cả đều cưới <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Kaṇhā</span>. Khi phát hiện nàng dan díu với một tên nô lệ gù lưng và sự phản bội của nàng đối với họ, họ đã từ bỏ nàng và lui về <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Himavā</span> (Ja.v.425f). <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Ajjuna</span> là tiền thân của chim chúa <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Kuṇāla</span> (Ja.v.427).
+Ajjuna 06. Người con cả trong năm người con trai của vua Paṇḍu, tất cả đều cưới Kaṇhā. Khi phát hiện nàng dan díu với một tên nô lệ gù lưng và sự phản bội của nàng đối với họ, họ đã từ bỏ nàng và lui về Himavā (Ja.v.425f). Ajjuna là tiền thân của chim chúa Kuṇāla (Ja.v.427).
 
 ## Notes

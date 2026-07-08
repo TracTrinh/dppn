@@ -5,7 +5,7 @@ base_headword: "Mātulagiri"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Mātulagiri. A place in <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mātulagiri. Một địa điểm ở Sunāparanta nơi Trưởng lão Puṇṇa đã sống trong một thời gian. MN­a.ii.1015; SN­a.iii.15.
 
 ## Notes

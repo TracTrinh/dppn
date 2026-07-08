@@ -5,7 +5,7 @@ base_headword: "Migasira"
 disambiguator: "02"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -23,6 +23,6 @@ Migasira 02. The name of a constellation and the month named after it, e.g., DN�
 
 ## Vietnamese translation
 
-Chưa dịch.
+Migasira 02. Tên của một chòm sao và tháng được đặt theo tên của nó, ví dụ, DN­a.i.241.
 
 ## Notes

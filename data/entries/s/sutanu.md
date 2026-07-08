@@ -5,7 +5,7 @@ base_headword: "Sutanu"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sutanu. A stream at <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sutanu. Một dòng suối ở Sāvatthī. Anuruddha được nhắc đến là đã từng ở gần đó. SN.v.297.
 
 ## Notes

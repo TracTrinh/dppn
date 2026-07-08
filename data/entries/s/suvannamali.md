@@ -5,7 +5,7 @@ base_headword: "Suvaṇṇamāli"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Suvaṇṇamāli. A name for the <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suvaṇṇamāli. Một tên gọi của Mahā Thūpa (*q.v.*).
 
 ## Notes

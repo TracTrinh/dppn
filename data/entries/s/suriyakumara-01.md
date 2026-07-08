@@ -5,7 +5,7 @@ base_headword: "Suriyakumāra"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -27,6 +27,6 @@ Suriyakumāra 01. Brother of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suriyakumāra 01. Anh em của Candakumāra. Xem Khaṇḍahālajātaka (Ja 542). Ngài được đồng nhất với Sāriputta. Ja.vi.157.
 
 ## Notes

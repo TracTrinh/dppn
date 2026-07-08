@@ -5,7 +5,7 @@ base_headword: "Milānakkhetta"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Milānakkhetta. A locality near <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Milānakkhetta. Một địa phương gần Pulatthipura, được nhắc đến trong các chiến dịch của Parakkamabāhu I. Cv.lxx.176.
 
 ## Notes

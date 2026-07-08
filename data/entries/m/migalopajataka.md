@@ -5,7 +5,7 @@ base_headword: "Migālopajātaka"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -31,6 +31,8 @@ The story was told in reference to an unruly monk who is identified with <span c
 
 ## Vietnamese translation
 
-Chưa dịch.
+Migālopajātaka (Ja 381). Bodhisatta từng sinh làm một con kền kền, Aparaṇṇagijjha, và sống cùng con trai là Migālopa ở Gijjhapabbata. Migālopa thường bay cao hơn nhiều so với những con khác bất chấp lời cảnh báo của cha mình, và một ngày nọ, nó đã bị xé toạc thành từng mảnh bởi những ngọn gió Verambha.
+
+Câu chuyện được kể liên quan đến một tỳ-kheo vô kỷ luật, người được đồng nhất với Migālopa. Ja.iii.255f.; cp. Gijjhajātaka (Ja 427).
 
 ## Notes

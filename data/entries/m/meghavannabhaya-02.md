@@ -5,7 +5,7 @@ base_headword: "Meghavaṇṇābhaya"
 disambiguator: "02"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -32,6 +32,6 @@ Meghavaṇṇābhaya 02. A minister of King <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Meghavaṇṇābhaya 02. Một vị quan của Vua Mahā Sena. Ông là một người bạn thân thiết của nhà vua, nhưng khi nhà vua cố gắng phá hủy Mahā Vihāra, ông đã thể hiện sự không hài lòng của mình bằng cách dấy lên một cuộc nổi dậy ở Malaya. Nhà vua xuất quân đi đánh ông và dựng trại gần Dūratissavāpi. Trong đêm, Meghavaṇṇābhaya một mình đi đến gặp nhà vua, mang theo một vài món ăn ngon mà ông có được, với mong muốn chia sẻ với vua. Trong cuộc gặp mặt của họ, họ đã xin lỗi nhau, và, với sự giúp đỡ của nhà vua, Meghavaṇṇābhaya đã khôi phục lại Mahā Vihāra (Mhv.xxxvii.17ff). Theo Samantapāsādikā, một trong những *pariveṇa* do Meghavaṇṇābhaya xây dựng dường như mang tên ông (Vin-a.i.102; cũng xem Sās-d.43). Nó được xây dựng trên địa điểm mà, vào thời của Devānampiyatissa, một cuộc tụng đọc Pháp đã được tổ chức dưới sự chủ tọa của Trưởng lão Mahā Ariṭṭha.
 
 ## Notes

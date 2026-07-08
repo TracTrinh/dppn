@@ -5,7 +5,7 @@ base_headword: "Suttasaṅgaha"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -26,6 +26,6 @@ Suttasaṅgaha. A post-canonical work which, in Burma, is regarded as one of the
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suttasaṅgaha. Một tác phẩm hậu chính tạng, ở Miến Điện, được coi là một trong những cuốn thuộc Khuddakanikāya (Bode, 5, 73). Đây là một bộ sưu tập hỗn hợp các kinh (*Sutta*) và truyền thuyết và có lẽ được viết ở Anurādhapura.
 
 ## Notes

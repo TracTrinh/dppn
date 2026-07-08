@@ -26,6 +26,6 @@ Aṅguttaranavaṭīkā. By <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Aṅguttaranavaṭīkā. Do <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sāriputta</span> biên soạn, cũng là tác giả của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sarātthadīpanī Vinayaṭīkā</span> (*q.v.*). Gv.71.
+Aṅguttaranavaṭīkā. Do Sāriputta biên soạn, cũng là tác giả của Sarātthadīpanī Vinayaṭīkā (*q.v.*). Gv.71.
 
 ## Notes

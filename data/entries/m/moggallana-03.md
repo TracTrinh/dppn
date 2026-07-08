@@ -5,7 +5,7 @@ base_headword: "Moggallāna"
 disambiguator: "03"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -25,6 +25,6 @@ Moggallāna 03. Thera of Ceylon, author of the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Moggallāna 03. Vị Thera của Tích Lan, tác giả của Abhidhānappadīpikā. PLC. 187ff.
 
 ## Notes

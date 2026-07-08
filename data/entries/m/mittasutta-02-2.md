@@ -5,7 +5,7 @@ base_headword: "Mittāsutta"
 disambiguator: "02"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -24,6 +24,6 @@ Mittāsutta 02. The same as 1, with the four Ayrian Truths. SN.v.434.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mittāsutta 02. Giống như 1, với Bốn Sự Thật Cao Quý (Bốn Thánh Đế). SN.v.434.
 
 ## Notes

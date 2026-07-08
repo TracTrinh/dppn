@@ -5,7 +5,7 @@ base_headword: "Mettasutta"
 disambiguator: "02"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -27,6 +27,8 @@ He then proceeded to explain to them that these are cultivated through the seven
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mettasutta 02. Một lần khi Đức Phật đang ở Haliddavasana, một cuộc thảo luận đã nảy sinh giữa một số tỳ-kheo và một số Paribbājakas về việc liệu có sự khác biệt nào giữa các giáo lý tương ứng của họ hay không vì cả hai đều dạy về sự thực hành lòng từ, bi, hỷ và xả. Các vị tỳ-kheo đã thỉnh ý Đức Phật, ngài bảo họ rằng những Paribbājakas không biết cách làm thế nào để tu tập những phẩm chất này, mục đích và sự thù thắng của chúng là gì, quả vị và sự kết thúc của chúng là gì.
+
+Sau đó ngài tiếp tục giải thích cho họ rằng chúng được tu tập thông qua bảy *bojjhaṅga*; lòng từ có sự "tốt đẹp" là sự thù thắng của nó, lòng bi là sự vô biên của không gian, lòng hỷ là sự vô biên của thức, và lòng xả là cõi không có gì tồn tại (SN.v.115f).
 
 ## Notes

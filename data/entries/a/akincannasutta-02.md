@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Ākiñcaññasutta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Moggallāna</span> kể cho các vị tỳ-kheo nghe về cách ngài đã nhập vào và an trú trong Vô sở hữu xứ. SN.iv.267.
+Ākiñcaññasutta 02. Moggallāna kể cho các vị tỳ-kheo nghe về cách ngài đã nhập vào và an trú trong Vô sở hữu xứ. SN.iv.267.
 
 ## Notes

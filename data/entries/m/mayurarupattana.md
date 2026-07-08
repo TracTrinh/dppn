@@ -5,7 +5,7 @@ base_headword: "Mayūrarūpaṭṭana"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -27,6 +27,6 @@ Mayūrarūpaṭṭana ??, <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mayūrarūpaṭṭana ??, Mayūradūtapaṭṭana. Một nơi mà Buddhaghosa đã từng lưu trú với người bạn đồng tu Buddhamitta. MN­a.ii.1029.
 
 ## Notes

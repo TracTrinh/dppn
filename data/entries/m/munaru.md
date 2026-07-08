@@ -5,7 +5,7 @@ base_headword: "Munaru"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -24,6 +24,6 @@ Munaru. A tank restored by <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Munaru. Một hồ chứa nước được phục dựng bởi Parakkamabāhu I. Cv.lxviii.48.
 
 ## Notes

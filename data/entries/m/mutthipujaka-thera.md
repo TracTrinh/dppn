@@ -5,7 +5,7 @@ base_headword: "Muṭṭhipūjaka Thera"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Muṭṭhipūjaka Thera. An *Arahant*. In the time of <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Muṭṭhipūjaka Thera. Một *Arahant*. Vào thời của Sumedha Buddha, trong khi Đức Phật đang thực hành khổ hạnh, ông đã dâng cho Ngài một nắm hoa *girinela*. Hai mươi ba *kappa* trước, ông là một vị vua tên là Sunela. Ap.i.201.
 
 ## Notes

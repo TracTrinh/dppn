@@ -5,7 +5,7 @@ base_headword: "Mitta"
 disambiguator: "04"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mitta 04. A householder of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mitta 04. Một gia chủ của Kosambī, người sau này đã nhận nuôi Sāmāvatī (q. v.). Dhp­a.i.189.
 
 ## Notes

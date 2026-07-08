@@ -5,7 +5,7 @@ base_headword: "Mittāmittajātaka"
 disambiguator: "01"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,8 @@ The story was told in reference to a monk who took a piece of cloth belonging to
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mittāmittajātaka 01. (Ja 197). Bodhisatta từng là vị lãnh đạo của một nhóm đạo sĩ, và một trong số đó, phớt lờ lời khuyên của Bodhisatta, đã nhận nuôi một con voi con mồ côi mẹ. Con voi lớn lên và giết chết chủ của mình.
+
+Câu chuyện được kể liên quan đến một vị tỳ-kheo đã lấy một mảnh vải thuộc về vị thầy của mình và dùng nó làm một chiếc túi đựng giày, đinh ninh rằng vị thầy của mình sẽ không bận tâm. Tuy nhiên, vị thầy sau đó đã nổi cơn thịnh nộ và đánh vị ấy. Ja.ii.130ff.
 
 ## Notes

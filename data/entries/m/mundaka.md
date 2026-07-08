@@ -5,7 +5,7 @@ base_headword: "Muṇḍakā"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -24,6 +24,6 @@ Muṇḍakā. Name of a tribe, mentioned in a nominal list. Ap.ii.359.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Muṇḍakā. Tên của một bộ lạc, được nhắc đến trong một danh sách danh xưng. Ap.ii.359.
 
 ## Notes

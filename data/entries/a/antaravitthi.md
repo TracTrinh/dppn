@@ -30,6 +30,6 @@ Antaraviṭṭhi, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Antaraviṭṭhi, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Antaraviṭṭhika</span>. Một trong các ngôi làng được <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Vijayabāhu I</span>. ban cho các vị tăng <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Lābhavāsī</span>. Làng này nằm ở <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Rājaraṭṭha</span>, không xa <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Pulatthipura</span> (Cv.lx.68), có lẽ giữa thành ấy và <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Koṭṭhasāra</span>. Nó được nhắc đến trong một tường thuật về các trận chiến dường như diễn ra ở vùng lân cận <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Pulatthipura</span>. Ibid., lxi.46; lxx.322; xem thêm Cv. trans. i.221, n.4, và 229. n.2.
+Antaraviṭṭhi, Antaraviṭṭhika. Một trong các ngôi làng được Vijayabāhu I. ban cho các vị tăng Lābhavāsī. Làng này nằm ở Rājaraṭṭha, không xa Pulatthipura (Cv.lx.68), có lẽ giữa thành ấy và Koṭṭhasāra. Nó được nhắc đến trong một tường thuật về các trận chiến dường như diễn ra ở vùng lân cận Pulatthipura. Ibid., lxi.46; lxx.322; xem thêm Cv. trans. i.221, n.4, và 229. n.2.
 
 ## Notes

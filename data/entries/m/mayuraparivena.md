@@ -5,7 +5,7 @@ base_headword: "Mayūrapariveṇa"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -33,6 +33,6 @@ Mayūrapariveṇa. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mayūrapariveṇa. *v.l.* Morapariveṇa. Một công trình phụ thuộc vào Mahā Vihāra và được Vua Buddhadāsa xây dựng. Hai ngôi làng, Samaṇa và Goḷapānu, đã được cấp để duy trì nó (Cv.xxxvii.172; cũng xem Cv.Trs.i.16, n.2.). Tòa nhà cao hai mươi lăm do-tuần... ồ không, cubit; Dhātusena đã dỡ bỏ nó và thay thế nó bằng một tòa nhà cao hai mươi mốt cubit (Cv.xxxviii.52). Nó được Mahā Nāga trùng tu (Cv.xli.100), trong khi Dāṭhopatissa II. ban cho nó ngôi làng Kesagāma (Cv.xlv.28).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mūlasutta"
 disambiguator: "01"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -24,6 +24,6 @@ Mūlasutta 01. When a man is overcome by gains and flattery, the root of good *k
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mūlasutta 01. Khi một người bị vượt qua bởi những lợi lộc và sự xu nịnh, cội rễ của *kamma* (nghiệp) thiện bị nhổ tận gốc trong người ấy. SN.ii.240.
 
 ## Notes

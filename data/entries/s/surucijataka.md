@@ -5,7 +5,7 @@ base_headword: "Surucijātaka"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -48,6 +48,14 @@ The story was related on the occasion on which <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Surucijātaka (Ja 489). Xưa kia ở Mithilā có một vị vua tên là Suruci trị vì. Ngài có một người con trai cũng tên là Suruci (*kumāra*), chàng học tại Takkasilā, nơi Thái tử Brahmadatta của Benares là bạn đồng môn của chàng. Họ trở thành những người bạn thân thiết, và đồng ý sẽ thiết lập một liên minh giữa hai hoàng tộc. Suruci lên ngôi vua ở Mithilā và có một người con trai được đặt theo tên của mình. Brahmadatta trở thành vua của Benares và có một người con gái, Sumedhā. Một cuộc hôn nhân được sắp đặt giữa Suruci và Sumedhā, nhưng Brahmadatta chỉ đồng ý liên minh với điều kiện Sumedhā phải là người vợ duy nhất của Suruci. Suruci chấp nhận điều kiện này, nhưng mặc dù Sumedhā đã sống trong cung điện mười ngàn năm, nàng vẫn không có con. Dân chúng phàn nàn đòi có người thừa kế, nhưng Suruci từ chối lấy thêm một vương hậu khác, mặc dù chính Sumedhā đã mang về cho ngài hàng ngàn phụ nữ cho hậu cung, tổng cộng mười sáu ngàn người. Bốn mươi ngàn năm trôi qua như vậy, nhưng vẫn không có đứa trẻ nào được sinh ra trong cung điện.
+
+Sau đó Sumedhā đã lập một Lời Nguyện Sự Thật (*saccakiriyā*); ngai vàng của Sakka nóng lên, và ngài yêu cầu vị thiên nhân Naḷakāra đầu thai làm con trai của Sumedhā. Naḷakāra miễn cưỡng đồng ý. Sau đó Sakka cải trang thành một nhà hiền triết đi đến vườn ngự uyển của nhà vua và đề nghị ban cho bất kỳ người phụ nữ nào có đức hạnh một đứa con trai. "Nếu ngài tìm kiếm đức hạnh, hãy tìm Sumedhā," mọi người nói. Ngài bèn đi đến cung điện, và sau khi yêu cầu Sumedhā tuyên bố về đức hạnh của mình với ngài, ngài tiết lộ danh tính của mình và hứa sẽ cho nàng một đứa con trai. Đến kỳ hạn, một đứa con trai ra đời – Mahā Panāda. Chàng lớn lên giữa sự huy hoàng tột bậc, và khi chàng mười sáu tuổi, nhà vua xây cho chàng một cung điện tráng lệ.
+
+Người ta kể rằng Sakka đã cử Vissakamma làm thợ xây để giúp xây dựng. Khi cung điện hoàn thành, ba buổi lễ đã được tổ chức trong cùng một ngày: lễ khánh thành cung điện, lễ đăng quang của Mahā Panāda và lễ cưới của chàng. Lễ hội kéo dài bảy năm, và người dân bắt đầu càu nhàu; nhưng nhà vua không chịu kết thúc lễ hội, vì trong suốt thời gian này Mahā Panāda chưa một lần cười, và nhà vua nói rằng bữa tiệc không thể kết thúc cho đến khi làm cho chàng cười. Nhiều người đã đến để mua vui cho chàng, trong số đó có hai người làm xiếc, Bhaṇḍukaṇṇa và Paṇḍukaṇṇa; nhưng mãi cho đến khi Sakka cử một vũ công cõi trời đến múa điệu múa "Nửa thân", trong đó một nửa cơ thể nhảy múa trong khi phần còn lại đứng yên, thì Mahā Panāda mới mỉm cười.
+
+Câu chuyện này được kể lại vào dịp Gotama Buddha ban cho Visākhā tám ân huệ. Một đêm nọ có một cơn bão lớn, và Đức Phật yêu cầu các tỳ-kheo để mình ướt sũng trong mưa vì đó sẽ là cơn bão lớn cuối cùng trong thời của Ngài. Cùng với họ, Đức Phật xuất hiện tại nhà của Visākhā, nhưng ngay khi họ vừa đến ngưỡng cửa, họ đã hoàn toàn khô ráo.
+
+Bhaddaji được đồng nhất với Mahā Panāda, Visākhā với Sumedhā, Ānanda với Vissakamma, và Bodhisatta là Sakka. Ja.iv.314-25; cf. DN­a.iii.856f.; and Ja.ii.334.
 
 ## Notes

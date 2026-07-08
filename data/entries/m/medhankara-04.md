@@ -5,7 +5,7 @@ base_headword: "Medhaṅkara"
 disambiguator: "04"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -31,6 +31,6 @@ Medhaṅkara 04. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Medhaṅkara 04. Medhaṅkara Thera. Ngài được Parakkamabāhu IV. giao nhiệm vụ dịch các Jātaka sang tiếng Sinhalese. Nhà vua đã xây dựng cho ngài một *pariveṇa* được gọi là Parakkamabāhu *pariveṇa*, và ban cho sự duy trì của nó các ngôi làng Purāṇagāma, Sannīrasela, Labujamaṇḍaka và Moravaṅka. Cv.xc.86.
 
 ## Notes

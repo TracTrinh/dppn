@@ -27,6 +27,6 @@ Aṅganasālaka. A village given by <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Aṅganasālaka. Một làng do <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aggabodhi II</span>. ban cho <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Abhayavihāra</span> (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Abhayagirivihāra</span>). Cv.xlii.63.
+Aṅganasālaka. Một làng do Aggabodhi II. ban cho Abhayavihāra (Abhayagirivihāra). Cv.xlii.63.
 
 ## Notes

@@ -26,6 +26,6 @@ Abhisambuddhagāthā. The name given to the stanzas which illustrate and summari
 
 ## Vietnamese translation
 
-Abhisambuddhagāthā. Tên gọi dành cho các kệ ngôn minh họa và tóm lược các truyện <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Jātaka</span>, khi những kệ ngôn ấy được nói là do chính Đức Phật thuyết, hoặc sau khi <span class="dppn-term dppn-term-t20" data-dppn-term-pos="2" data-dppn-term-class="t20">Giác ngộ</span>, hoặc trước đó, khi ngài vẫn còn là Bodhisatta. Xem *Buddhist Birth Stories*, Introd.
+Abhisambuddhagāthā. Tên gọi dành cho các kệ ngôn minh họa và tóm lược các truyện Jātaka, khi những kệ ngôn ấy được nói là do chính Đức Phật thuyết, hoặc sau khi Giác ngộ, hoặc trước đó, khi ngài vẫn còn là Bodhisatta. Xem *Buddhist Birth Stories*, Introd.
 
 ## Notes

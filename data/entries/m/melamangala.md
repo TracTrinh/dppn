@@ -5,7 +5,7 @@ base_headword: "Melamaṅgala"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -25,6 +25,6 @@ Melamaṅgala. A district in South India, mentioned in the account of the campai
 
 ## Vietnamese translation
 
-Chưa dịch.
+Melamaṅgala. Một quận ở Nam Ấn Độ, được nhắc đến trong bản tường thuật về các chiến dịch của Laṅkāpura. Cv.lxxvi.209 (211).
 
 ## Notes

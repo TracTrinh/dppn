@@ -26,6 +26,6 @@ Amita *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Amita *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Amitobhava</span>, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Amitogata</span>. Một vị vua cách đây hai mươi lăm *kappas*; một tiền thân của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Aggapupphiya Thera</span>. Ap.i.229.
+Amita *v.l.* Amitobhava, Amitogata. Một vị vua cách đây hai mươi lăm *kappas*; một tiền thân của Aggapupphiya Thera. Ap.i.229.
 
 ## Notes

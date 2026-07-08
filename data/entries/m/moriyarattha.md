@@ -5,7 +5,7 @@ base_headword: "Moriyaraṭṭha"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -26,6 +26,6 @@ Moriyaraṭṭha. A district in the <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Moriyaraṭṭha. Một quận ở Dakkhiṇadesa của Tích Lan. Đây từng là nơi cư trú của một số gia đình thuộc tộc Lambakaṇṇa. Cv.lxix.13.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Miñjavataṁsakiya Thera"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Miñjavataṁsakiya Thera. An *Arahant*. Thirty-one *kappas* ago he made offerin
 
 ## Vietnamese translation
 
-Chưa dịch.
+Miñjavataṁsakiya Thera. Một vị *Arahant*. Ba mươi mốt *kappa* trước, ngài đã dâng cúng tại cội Bồ-đề của Sikhī Buddha. Hai mươi sáu *kappa* trước ngài từng là một vị vua tên Meghabbha. Ap.i.216f.
 
 ## Notes

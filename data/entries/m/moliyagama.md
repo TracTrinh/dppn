@@ -5,7 +5,7 @@ base_headword: "Moliyagāma"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -24,6 +24,6 @@ Moliyagāma. A village. The story is told of a monk who went there for alms. AN�
 
 ## Vietnamese translation
 
-Chưa dịch.
+Moliyagāma. Một ngôi làng. Câu chuyện kể về một tỳ-kheo đã đến đó để khất thực. AN­a.i.398.
 
 ## Notes

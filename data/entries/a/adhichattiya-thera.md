@@ -26,6 +26,6 @@ Adhichattiya Thera (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Adhichattiya Thera (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Chattādhichattiya</span>). Một *Arahant*. Trong một đời trước, ngài đã đặt một lọng trên *Thūpa* chứa xá-lợi của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Atthadassī Buddha</span> (Ap.i.170). Rõ ràng ngài đồng nhất với <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Sāmidatta</span> (Thag­a.i.189).
+Adhichattiya Thera (*v.l.* Chattādhichattiya). Một *Arahant*. Trong một đời trước, ngài đã đặt một lọng trên *Thūpa* chứa xá-lợi của Atthadassī Buddha (Ap.i.170). Rõ ràng ngài đồng nhất với Sāmidatta (Thag­a.i.189).
 
 ## Notes

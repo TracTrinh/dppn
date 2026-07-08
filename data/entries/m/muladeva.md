@@ -5,7 +5,7 @@ base_headword: "Mūladeva"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -24,6 +24,6 @@ Mūladeva. A robber, mentioned as having great power. MN­a.ii.688; DN­a.i.89.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mūladeva. Một tên cướp, được nhắc đến là có thế lực lớn. MN­a.ii.688; DN­a.i.89.
 
 ## Notes

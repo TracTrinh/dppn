@@ -5,7 +5,7 @@ base_headword: "Mūsikā"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Mūsikā. A slave woman of King <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mūsikā. Một nữ nô lệ của Vua Yava (xem Mūsikajātaka, Ja 373). Một ngày nọ, khi đi chuẩn bị nước tắm cho nhà vua, cô nhìn thấy con trai của ông, tay cầm gươm, đang chờ để giết ông. Khi vị vương tử phát hiện ra mình bị lộ, ông đã chém Mūsikā làm đôi và ném cô xuống hồ. Ja.iii.217.
 
 ## Notes

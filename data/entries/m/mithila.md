@@ -5,7 +5,7 @@ base_headword: "Mithilā"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -69,6 +69,22 @@ In the Indian Epics (e.g., *Rāmāyaṇa* i. 48) <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mithilā. Thủ đô của quốc gia Videha. Thành phố này rất cổ kính, và, theo Mahā Govindasutta (DN.ii.235), được thành lập bởi Mahā Govinda, vị quản gia của Vua Reṇu. Đây cũng là thủ đô của Makhādeva (MN.ii.72f; Mhv­ṭ.129; cũng xem Dpv.iii.9, 29, 35) và tám mươi tư nghìn hậu duệ của ông, và của nhiều vị vua khác được nhắc đến trong các câu chuyện Jātaka – ví dụ, Aṅgati (vi. 220), Ariṭṭhajanaka (vi. 30), Nimi (iii.378), Videha (ii.39), Vedeha (vi.330), Mahā Janaka (vi. 30f.), Sādhīna (iv. 355), và Suruci (ii.333).
+
+Kích thước của thành phố thường được đưa ra (ví dụ: Ja.iii.365) là có chu vi bảy do-tuần, và Mahā Janakajātaka (Ja 539, Ja.vi.46f) có chứa một đoạn miêu tả về nó. Có một con đường dẫn từ Campā đến Mithilā, với khoảng cách là sáu mươi do-tuần (Ja.vi.32).
+
+Theo Mahā Ummaggajātaka (Ja 546, Ja.vi.330f) có bốn khu thị trấn ở bốn cổng của Mithilā, mỗi khu được biết đến với tên gọi là Yavamajjhaka.
+
+Đức Phật được nhắc đến là đã từng lưu trú ở Mithilā và đã thuyết giảng Makhādevasutta (MN.ii.74) cũng như Brahmāyusutta (MN.ii.133) tại đây.
+
+Cũng chính tại Mithilā, Vāseṭṭhī Therī (Thīg. vs. 135; cũng xem Divy., p. 60) đã lần đầu tiên gặp Đức Phật và gia nhập Tăng đoàn, sau khi nghe ngài thuyết pháp.
+
+Sau khi Đức Phật viên tịch, người Videha ở Mithilā đã yêu cầu một phần xá-lợi của ngài và đã nhận được chúng (Bv.xxviii.11).
+
+Vào thời của Koṇāgamana Buddha, Mithilā là thủ đô của Vua Pabbata, và Đức Phật đã thuyết pháp tại đó trong chuyến viếng thăm thành phố (Bv­a. 215). Padumuttara Buddha đã thuyết bài pháp đầu tiên cho các anh em họ của mình, Devala và Sujāta, trong công viên của Mithilā (Bv.xi.23; Bv­a.159), và sau đó cho Vua Ānanda cùng đoàn tùy tùng của ông ở cùng địa điểm đó (Bv­a.160).
+
+Mithilā thường được đồng nhất với Janakapura, một thị trấn nhỏ nằm trong biên giới Nepal, ở phía bắc nơi giao nhau của các quận Mazaffarpur và Darbhanga (CAGI.718).
+
+Trong các Sử thi Ấn Độ (ví dụ: *Rāmāyaṇa* i. 48), Mithilā chủ yếu nổi tiếng là nơi cư ngụ của Vua Janaka.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Suriyopamasutta"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -23,6 +23,6 @@ Suriyopamasutta 01. Just as the dawn is the forerunner of the sun, so is right v
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suriyopamasutta 01. Giống như bình minh là điềm báo trước của mặt trời, cũng vậy, chánh kiến là điềm báo trước của bốn Thánh đế. SN.v.442.
 
 ## Notes

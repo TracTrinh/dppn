@@ -5,7 +5,7 @@ base_headword: "Moranivāpasutta"
 disambiguator: "02"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -26,6 +26,6 @@ Moranivāpasutta 02. Preached at the *Paribbājakārāma* in <span class="dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Moranivāpasutta 02. Được thuyết giảng tại *Paribbājakārāma* ở Moranivāpa. Nó liệt kê một vài nhóm phẩm chất mà việc sở hữu chúng khiến cho một tỳ-kheo hoàn toàn tinh thông trong đời sống phạm hạnh. Ba trong số các nhóm là các nhóm ba và nhóm thứ tư là một nhóm hai. Một bài kệ, được gán cho Sanaṅkumāra, cũng được trích dẫn. AN.v.326ff.
 
 ## Notes

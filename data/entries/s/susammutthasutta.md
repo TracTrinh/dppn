@@ -5,7 +5,7 @@ base_headword: "Susammuṭṭhasutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Susammuṭṭhasutta. A *Deva* tells the Buddha that followers of other creeds h
 
 ## Vietnamese translation
 
-Chưa dịch.
+Susammuṭṭhasutta. Một thiên nhân (*Deva*) thưa với Đức Phật rằng những người đi theo các giáo phái khác có tầm nhìn hoàn toàn mờ mịt. SN.i.4.
 
 ## Notes

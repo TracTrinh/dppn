@@ -5,7 +5,7 @@ base_headword: "Suvaccha"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -28,6 +28,6 @@ Suvaccha. A Brahmin in the time of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suvaccha. Một Bà-la-môn trong thời của Padumuttara Buddha, một tiền kiếp của Dhammasava Thera (Nāgapupphiya) (Thag­a.i.214; Ap.i.179). Ngài trở thành một ẩn sĩ và sống trong một túp lều trong rừng. Một ngày nọ, Padumuttara thi triển phép lạ gần túp lều của ngài, và Suvaccha đã rắc hoa *nāga* lên Ngài như một biểu hiện tôn kính.
 
 ## Notes

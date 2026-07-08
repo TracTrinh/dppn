@@ -26,6 +26,6 @@ Amittabhā (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Amittabhā (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Amittaka</span>). Một vị vua cách đây hai mươi lăm *kappas*; một tiền thân của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Bhojanadāyaka Thera</span> Ap.i.253.
+Amittabhā (*v.l.* Amittaka). Một vị vua cách đây hai mươi lăm *kappas*; một tiền thân của Bhojanadāyaka Thera Ap.i.253.
 
 ## Notes

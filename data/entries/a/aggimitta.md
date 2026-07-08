@@ -25,6 +25,6 @@ Aggimittā. One of the nuns who accompanied <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Aggimittā. Một trong các tỳ-kheo-ni đi cùng <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Saṅghamittā</span> đến Ceylon. Dpv.xv.78; xviii.11.
+Aggimittā. Một trong các tỳ-kheo-ni đi cùng Saṅghamittā đến Ceylon. Dpv.xv.78; xviii.11.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Susīmasutta"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Susīmasutta 02. Gives <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Susīmasutta 02. Đưa ra lời quở trách của Sakka đối với con trai ngài, Susīma (5). SN.i.217.
 
 ## Notes

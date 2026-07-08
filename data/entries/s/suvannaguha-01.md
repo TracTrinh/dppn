@@ -5,7 +5,7 @@ base_headword: "Suvaṇṇagūha"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Suvaṇṇagūha 01. A cave in <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suvaṇṇagūha 01. Một hang động ở Cittakūṭapabbata: nó là nơi ở của những con ngỗng vàng. Ja.iii.208; v.237, 469; vi.50.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Migācira"
 disambiguator: "02"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -28,6 +28,6 @@ Migācira 02. A park near <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Migācira 02. Một khu công viên gần Indapatta, từng thuộc về Dhanañjaya Korabba (Ja.vi.256). Nó tồn tại ngay cả vào thời của Đức Phật, vì Trưởng lão Raṭṭhapāla được nhắc đến là đã ở đó. MN.ii.65; MN­a.ii.725, 730; nhưng Thag­a.ii.34 gọi nó là Migājina.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Muggāyatanaraṭṭha"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -24,6 +24,6 @@ Muggāyatanaraṭṭha. A district in Ceylon. Ras.ii.181.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Muggāyatanaraṭṭha. Một quận ở Tích Lan. Ras.ii.181.
 
 ## Notes

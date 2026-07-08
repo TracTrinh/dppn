@@ -25,6 +25,6 @@ Aṅgaka. Nephew (sister’s son) of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Aṅgaka. Cháu trai (con của chị/em gái) của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Soṇadaṇḍa</span>. DN.i.123.
+Aṅgaka. Cháu trai (con của chị/em gái) của Soṇadaṇḍa. DN.i.123.
 
 ## Notes

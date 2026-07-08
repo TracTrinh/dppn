@@ -5,7 +5,7 @@ base_headword: "Mūlavokāsavihāra"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mūlavokāsavihāra. A monastery in Ceylon, built by the minister <span class="d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mūlavokāsavihāra. Một tu viện ở Tích Lan, được xây dựng bởi đại thần Mūla. Mhv.xxxiii.89.
 
 ## Notes

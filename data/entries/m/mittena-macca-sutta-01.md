@@ -5,7 +5,7 @@ base_headword: "Mittena maccā Sutta"
 disambiguator: "01"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -24,6 +24,6 @@ Mittena maccā Sutta 01. All intimate friends should be advised on and establish
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mittena maccā Sutta 01. Tất cả những người bạn thân thiết nên được khuyên nhủ về và được an trú vào bốn chi phần của *Sotāpatti*. SN.v.364.
 
 ## Notes

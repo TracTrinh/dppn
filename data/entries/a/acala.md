@@ -24,6 +24,6 @@ Acala. Assistant to the architect of the <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Acala. Phụ tá cho kiến trúc sư của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Mahā Thūpa</span>. Mhv­ṭ.535.
+Acala. Phụ tá cho kiến trúc sư của Mahā Thūpa. Mhv­ṭ.535.
 
 ## Notes

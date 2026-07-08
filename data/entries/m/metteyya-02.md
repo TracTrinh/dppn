@@ -5,7 +5,7 @@ base_headword: "Metteyya"
 disambiguator: "02"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -28,6 +28,6 @@ Metteyya 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Metteyya 02. Metteyya Thera. Một vị *Arahant*, bằng hữu của Tissa trong Tissametteyyasutta. Tên thật của vị này cũng là Tissa, nhưng vị ấy được biết đến nhiều hơn qua tên *gotta* của mình là Metteyya (Snp­a.ii.536). Trong một bài kệ ở Suttanipāta (Snp. vs. 814), vị này được nhắc đến như là Tissametteyya.
 
 ## Notes

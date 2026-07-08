@@ -5,7 +5,7 @@ base_headword: "Moggallānasutta"
 disambiguator: "05"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -27,6 +27,6 @@ Moggallānasutta 05. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Moggallānasutta 05. Mahā Moggallāna tự hỏi có bao nhiêu chư thiên đã trở thành *Sotāpannas* và chắc chắn đạt được *Nibbāna*. Để khám phá điều này, ông đến thăm Phạm thiên Tissa, người từng là một tỳ-kheo. Tissa chào đón ông và nói cho ông biết rằng chỉ những chư thiên có đức tin vào Đức Phật, Pháp, và Tăng đoàn mới có sự đảm bảo như vậy. AN.iii.331f.
 
 ## Notes

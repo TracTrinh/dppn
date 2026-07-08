@@ -5,7 +5,7 @@ base_headword: "Mukhamattasāra"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Mukhamattasāra. A Pāli grammatical work by <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mukhamattasāra. Một tác phẩm ngữ pháp Pāli của Sāgara hoặc Guṇasāgara xứ Pagan, được viết theo lời thỉnh cầu của vị giáo thọ sư của Vua Kyocvā. Có một bản phụ chú (*ṭīkā*) về tác phẩm này được cho là của Sāgara. Sās. 76; Gv.63, 67, 73; Bode, 25.
 
 ## Notes

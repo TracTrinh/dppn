@@ -5,7 +5,7 @@ base_headword: "Mūlasālā"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -27,6 +27,6 @@ Mūlasālā. A village in <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mūlasālā. Một ngôi làng ở Rohaṇa, nơi Kitti (sau này là Vijayabāhu I.), đã sống trong thời niên thiếu của mình. Cv.lvii.44.
 
 ## Notes

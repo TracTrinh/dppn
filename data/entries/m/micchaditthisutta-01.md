@@ -5,7 +5,7 @@ base_headword: "Micchādiṭṭhisutta"
 disambiguator: "01"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -24,6 +24,6 @@ Micchādiṭṭhisutta 01. Wrong view is abandoned by realizing that eye, object
 
 ## Vietnamese translation
 
-Chưa dịch.
+Micchādiṭṭhisutta 01. Tà kiến bị đoạn tận bằng cách nhận ra rằng mắt, các đối tượng, sự nhìn, v.v., đều là vô thường. SN.iv.147.
 
 ## Notes

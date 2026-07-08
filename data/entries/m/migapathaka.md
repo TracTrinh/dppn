@@ -5,7 +5,7 @@ base_headword: "Migapathaka"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Migapathaka. A village near <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Migapathaka. Một ngôi làng gần Macchikāsaṇḍa, phía sau Ambāṭakavana. Đó là một ngôi làng phụ thuộc của Citta *Gahapati*. SN.iv.281; SN­a.iii.93
 
 ## Notes

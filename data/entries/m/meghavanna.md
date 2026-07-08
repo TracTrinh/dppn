@@ -5,7 +5,7 @@ base_headword: "Meghavaṇṇa"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -30,6 +30,6 @@ Meghavaṇṇa. A *Devaputta* of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Meghavaṇṇa. Một *Devaputta* của *pabbata* Udumbara. Anh ta từng là một người đàn ông rất nghèo của Hallolagāma và đã bố thí tại Nīlapabbatavihāra. Vợ anh ta là Candamukhī. Anh ta từng cùng vợ đến thăm Maliyadeva Thera ở *lena* Candamukha. Ras.ii.125f.
 
 ## Notes

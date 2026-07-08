@@ -30,6 +30,6 @@ Ambuyyāna, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Ambuyyāna, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ambuyyānavihāra</span>. Một tu viện ở Ceylon. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Udaya I</span> (hoặc <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Dappula</span>) đã xây trong đó nhà ở <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Dappulapabbata</span>. Cv.xlix.30; trs. i.126 n.1. Theo Cv.l.80, công trình này không phải do nhà vua xây mà do <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Mahā Deva</span> xây. Về sau nó được <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Sena I</span> hoàn tất. Cv.l.80.
+Ambuyyāna, Ambuyyānavihāra. Một tu viện ở Ceylon. Udaya I (hoặc Dappula) đã xây trong đó nhà ở Dappulapabbata. Cv.xlix.30; trs. i.126 n.1. Theo Cv.l.80, công trình này không phải do nhà vua xây mà do Mahā Deva xây. Về sau nó được Sena I hoàn tất. Cv.l.80.
 
 ## Notes

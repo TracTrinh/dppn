@@ -5,7 +5,7 @@ base_headword: "Mucelavihāra"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Mucelavihāra. A monastery in <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mucelavihāra. Một tu viện ở Tissavaḍḍhamānaka, thuộc tỉnh phía đông của Tích Lan. Nó được xây dựng bởi Vua Vasabha. Mhv.xxxv.84; Mhv­ṭ. 652.
 
 ## Notes

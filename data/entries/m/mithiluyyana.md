@@ -5,7 +5,7 @@ base_headword: "Mithiluyyāna"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Mithiluyyāna. A park in <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mithiluyyāna. Một công viên ở Mithilā nơi Padumuttara Buddha thuyết bài pháp đầu tiên. Bv.xi.23; Bv­a.159.
 
 ## Notes

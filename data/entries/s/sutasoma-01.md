@@ -5,7 +5,7 @@ base_headword: "Sutasoma"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sutasoma 01. The Bodhisatta born as king of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sutasoma 01. Bodhisatta sinh ra là vua nước Benares. Xem Cūḷa Sutasomajātaka (Ja 525).
 
 ## Notes

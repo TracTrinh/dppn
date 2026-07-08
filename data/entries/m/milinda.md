@@ -5,7 +5,7 @@ base_headword: "Milinda"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -29,6 +29,6 @@ Milinda. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Milinda. Vua của Sāgala. Ông sinh ra ở Kalasi thuộc Alasandā. Các cuộc thảo luận của ông với Trưởng lão Phật giáo Nāgasena được ghi lại trong Milindapañha. Ở đó nói rằng nhà vua đã cải đạo sang Phật giáo. Để xem một cuộc thảo luận về các sự kiện liên quan đến Milinda, và sự đồng nhất của ông với vị vua Baktrian Menander, xem *Questions of King Milinda*, tập i., giới thiệu xviiiff.
 
 ## Notes

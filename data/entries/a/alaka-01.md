@@ -29,6 +29,6 @@ Aḷaka 01. A country on the banks of the <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Aḷaka 01. Một quốc gia nằm bên bờ sông <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Godhāvarī</span>. Chính tại một địa điểm nằm giữa lãnh thổ của các vua <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Aḷaka</span> và <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Assaka</span> là nơi <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Bāvarī</span> sinh sống (Sn.977). Phía bắc của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Aḷaka</span> là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Patiṭṭhāna</span>. Sn.1011.
+Aḷaka 01. Một quốc gia nằm bên bờ sông Godhāvarī. Chính tại một địa điểm nằm giữa lãnh thổ của các vua Aḷaka và Assaka là nơi Bāvarī sinh sống (Sn.977). Phía bắc của Aḷaka là Patiṭṭhāna. Sn.1011.
 
 ## Notes

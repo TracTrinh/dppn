@@ -5,7 +5,7 @@ base_headword: "Suvaṇṇapiṇḍatissa"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Suvaṇṇapiṇḍatissa. The name by which <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suvaṇṇapiṇḍatissa. Tên mà Sūratissa được biết đến trước khi ngài lên ngôi. Mhv.xxi.9.
 
 ## Notes

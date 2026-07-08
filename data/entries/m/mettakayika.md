@@ -5,7 +5,7 @@ base_headword: "Mettākāyikā"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -26,6 +26,6 @@ Mettākāyikā. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mettākāyikā. Một hội chúng Devas có mặt tại buổi giảng Mahā Samayasutta. DN.ii.259.
 
 ## Notes

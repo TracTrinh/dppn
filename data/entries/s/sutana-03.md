@@ -5,7 +5,7 @@ base_headword: "Sutanā"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -25,6 +25,6 @@ Sutanā 03. One of the *Aggasāvikā* of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sutanā 03. Một trong những nữ Thượng thủ Thanh văn (*Aggasāvikā*) của Maṅgala Buddha. Bv.iv.25.
 
 ## Notes

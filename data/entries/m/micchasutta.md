@@ -5,7 +5,7 @@ base_headword: "Micchāsutta"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -24,6 +24,6 @@ Micchāsutta. Wrong views arise because of clinging to body, feelings, etc., bec
 
 ## Vietnamese translation
 
-Chưa dịch.
+Micchāsutta. Những tà kiến phát sinh là do sự chấp thủ vào sắc, thọ, v.v., bởi vì chúng là vô thường. SN.iii.184.
 
 ## Notes

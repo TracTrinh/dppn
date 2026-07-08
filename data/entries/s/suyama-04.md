@@ -5,7 +5,7 @@ base_headword: "Suyāma"
 disambiguator: "04"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -34,6 +34,8 @@ Ninety-one *kappas* ago he was a Brahmin of <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suyāma 04. Suyāma Thera (Suyāmana Thera). Ngài thuộc một gia đình Bà-la-môn ở Vesālī và tinh thông ba bộ kinh Veda. Ngài đã gặp và nghe Đức Phật thuyết pháp tại Vesālī, và sau khi gia nhập Tăng đoàn, ngài đã đạt được quả vị *Arahant* trong khi đang được cạo đầu.
+
+Chín mươi mốt *kappa* trước, ngài là một Bà-la-môn ở Dhaññavatī, và sau khi thỉnh Vipassī Buddha đến nhà mình, ngài đã dâng cho Đức Phật một chỗ ngồi trải đầy hoa. Ngài từng là một vị vua, tên là Varadassana (Thag.74; Thag­a.i.165f). Rõ ràng ngài đồng nhất với Kusumāsaniya của Apadāna. Ap.i.160.
 
 ## Notes

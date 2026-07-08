@@ -5,7 +5,7 @@ base_headword: "Mundrannaddhāna"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mundrannaddhāna. A place in South India mentioned in the account of the campaig
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mundrannaddhāna. Một địa danh ở miền Nam Ấn Độ được đề cập trong bản ghi chép về các chiến dịch của Laṅkāpura. Cv.lxxvi.296.
 
 ## Notes

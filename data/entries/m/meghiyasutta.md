@@ -5,7 +5,7 @@ base_headword: "Meghiyasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -24,6 +24,6 @@ Meghiyasutta. Preached to <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Meghiyasutta. Được thuyết cho Meghiya (*q.v.*) về năm chi pháp làm cho tâm chín muồi để đi đến giải thoát. AN.iv.354ff.
 
 ## Notes

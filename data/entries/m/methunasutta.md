@@ -5,7 +5,7 @@ base_headword: "Methunasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -24,6 +24,6 @@ Methunasutta. Preached to <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Methunasutta. Được giảng cho Jāṇussoṇī để trả lời một câu hỏi về những gì cấu thành *brahmacariyā* (phạm hạnh). Có bảy "sự trói buộc giới tính" được đề cập, bị khuất phục trước bất kỳ điều nào trong số đó đều là vi phạm *brahmacariyā*. Đức Phật tuyên bố rằng ngài đã phá hủy tất cả chúng. AN.iv.54f.
 
 ## Notes

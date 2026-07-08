@@ -5,7 +5,7 @@ base_headword: "Meḷamātā"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -25,6 +25,6 @@ Meḷamātā. A she-goat. See the <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Meḷamātā. Một con dê cái. Xem Pūtimaṁsajātaka (Ja 437).
 
 ## Notes

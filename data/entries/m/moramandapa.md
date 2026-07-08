@@ -5,7 +5,7 @@ base_headword: "Moramaṇḍapa"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -26,6 +26,6 @@ Moramaṇḍapa. A pavilion erected by <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Moramaṇḍapa. Một sảnh đường do Parakkamabāhu I xây dựng trong Dīpuyyāna của ông. Cv.lxxiii.118.
 
 ## Notes

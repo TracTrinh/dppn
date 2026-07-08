@@ -5,7 +5,7 @@ base_headword: "Sussondījātaka"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -36,6 +36,8 @@ The story was related in reference to a love-sick monk. <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sussondījātaka (Ja 360). Tamba là một vị vua nước Benares và vợ của ngài là Sussondī xinh đẹp. Nāgadīpa khi đó được biết đến với tên gọi Seruma, và Bodhisatta là một con Garuḍa trẻ tuổi sống ở đó. Chàng thường cải trang đến Benares để chơi súc sắc với Tamba. Vương hậu nghe nói về vẻ đẹp của chàng và tìm cách để gặp chàng, và họ đã yêu nhau. Garuḍa, bằng oai lực của mình, đã tạo ra một cơn bão trong thành phố và bao phủ nó trong bóng tối, lợi dụng bóng tối chàng đã mang Sussondī đi. Nhà vua vô cùng đau buồn, không biết chuyện gì đã xảy ra với vương hậu của mình, vì Garuḍa vẫn tiếp tục chơi súc sắc với ngài. Tamba do đó đã cử Sagga, một nhạc công, đi tìm nàng. Trong quá trình lang thang của mình, Sagga đã đến Bhārukaccha và đi tàu tới Suvaṇṇabhūmi. Giữa đại dương, các thủy thủ yêu cầu Sagga đàn cho họ nghe, nhưng Sagga bảo họ rằng âm nhạc của chàng sẽ kích động những con cá lớn và rắc rối sẽ xảy ra. Tuy nhiên, các thủy thủ khăng khăng yêu cầu, nên Sagga đã chơi đàn, và lũ cá, phát điên vì âm thanh đó, đã quẫy nước tung tóe, và con tàu vỡ làm đôi dưới cú nhảy của một con thủy quái. Sagga nằm trên một tấm ván trôi dạt đến Nāgadīpa. Tại đó chàng đã gặp và được Sussondī nhận ra. Sussondī đưa chàng về nhà, và giấu chàng khỏi Garuḍa, nàng đã tận hưởng thú vui cùng chàng khi Garuḍa đi vắng để chơi súc sắc. Sáu tuần sau, một con tàu cùng với các thương nhân đến Benares đã cập bến Nāgadīpa, và Sagga trở về nhà. Chàng thấy Tamba đang chơi súc sắc với Garuḍa và kể lại cuộc phiêu lưu của mình qua lời bài hát. Garuḍa nghe bài hát và hiểu những lời ám chỉ. Đầy hối hận vì đã không thể giữ được vợ mình, chàng đưa nàng trở về với Tamba.
+
+Câu chuyện này được kể lại liên quan đến một tỳ-kheo tương tư. Ānanda được đồng nhất với Tamba. Ja.iii.187-90.
 
 ## Notes

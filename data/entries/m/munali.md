@@ -5,7 +5,7 @@ base_headword: "Munāli"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -27,6 +27,6 @@ Munāli. The Bodhisatta born as a gamester (*dhutta*). He abused a <span class="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Munāli. Bodhisatta đản sinh làm một kẻ cờ bạc (*dhutta*). Ngài đã lăng mạ một vị Pacceka Buddha, tên là Surabhi, và đây là lý do tại sao, khi ngài trở thành vị Phật, ngài đã bị Sundarikā sỉ nhục. Ap.i.299; Ud­a.264.
 
 ## Notes

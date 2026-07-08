@@ -5,7 +5,7 @@ base_headword: "Migāra"
 disambiguator: "04"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Migāra 04. A general of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Migāra 04. Một vị tướng quân của Kassapa I. Ông đã xây dựng một *pariveṇa* mang tên mình và một ngôi nhà cho một bức tượng của Abhiseka Buddha, cho bức tượng này ông cũng đã thiết lập một lễ hội. Cv.xxxix.6, 40.
 
 ## Notes

@@ -36,10 +36,10 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-
 
 ## Vietnamese translation
 
-Antarasobbha. Một địa điểm ở Ceylon. Chính tại đây <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Duṭṭhagāmaṇī</span> đã khuất phục thủ lĩnh <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Damiḷa</span> là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Mahā Koṭṭha</span> (Mhv.xxv.11).
+Antarasobbha. Một địa điểm ở Ceylon. Chính tại đây Duṭṭhagāmaṇī đã khuất phục thủ lĩnh Damiḷa là Mahā Koṭṭha (Mhv.xxv.11).
 
-Về sau, vua <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Manāvamma</span> xây dựng <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Devavihāra</span> tại <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Antarasobbha</span> (Cv.lviii.4).
+Về sau, vua Manāvamma xây dựng Devavihāra tại Antarasobbha (Cv.lviii.4).
 
-<span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Majjhima Commentary</span> (ii.1024) nói rằng <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Malliyadeva</span> đã thuyết <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Mahā Saḷāyatanikasutta</span> ở đây, và rằng vào dịp ấy sáu mươi vị tăng đã trở thành *Arahants*.
+Majjhima Commentary (ii.1024) nói rằng Malliyadeva đã thuyết Mahā Saḷāyatanikasutta ở đây, và rằng vào dịp ấy sáu mươi vị tăng đã trở thành *Arahants*.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Micchattavagga"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -24,6 +24,6 @@ Micchattavagga. The third chapter of the <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Micchattavagga. Chương thứ ba của Maggasaṁyutta. SN.v.17-23.
 
 ## Notes

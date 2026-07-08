@@ -5,7 +5,7 @@ base_headword: "Mūsila"
 disambiguator: "02"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -30,6 +30,6 @@ Mūsila 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mūsila 02. Trưởng lão Mūsila. Một tỳ-kheo. Một cuộc trò chuyện được ghi lại trong Saṁyuttanikāya (SN.ii.115f) giữa ông và Saviṭṭha, cuộc trò chuyện này được cho là đã diễn ra tại Ghositārāma ở Kosambī, liên quan đến *paṭiccasamuppāda* (lý duyên khởi).
 
 ## Notes

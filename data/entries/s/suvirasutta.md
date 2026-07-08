@@ -5,7 +5,7 @@ base_headword: "Suvīrasutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Suvīrasutta. The story of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suvīrasutta. Câu chuyện về Suvīra (*q.v.*).
 
 ## Notes

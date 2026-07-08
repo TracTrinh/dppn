@@ -5,7 +5,7 @@ base_headword: "Matteyyāsutta"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -24,6 +24,6 @@ Matteyyāsutta. Few are they who abstain from intoxicating liquor; many they tha
 
 ## Vietnamese translation
 
-Chưa dịch.
+Matteyyāsutta. Ít thay những người kiêng uống rượu say; nhiều thay những người không kiêng. SN.v.467.
 
 ## Notes

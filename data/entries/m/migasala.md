@@ -5,7 +5,7 @@ base_headword: "Migasālā"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -27,6 +27,6 @@ Migasālā. A woman follower of the Buddha. She was the daughter of <span class=
 
 ## Vietnamese translation
 
-Chưa dịch.
+Migasālā. Một nữ cư sĩ theo Đức Phật. Cô là con gái của Pūraṇa, quan thị vệ của Pasenadi, và là cháu gái của Isidatta. AN.iii.347; AN.v.137.
 
 ## Notes

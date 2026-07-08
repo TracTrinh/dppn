@@ -5,7 +5,7 @@ base_headword: "Suvaṇṇapabbata"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Suvaṇṇapabbata. A mountain in <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suvaṇṇapabbata. Một ngọn núi ở Himavā. Ja.i.50, 55; Snp­a.i.358.
 
 ## Notes

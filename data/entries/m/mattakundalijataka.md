@@ -5,7 +5,7 @@ base_headword: "Mattakuṇḍalijātaka"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -29,6 +29,8 @@ The story was told in reference to a rich landowner of <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mattakuṇḍalijātaka (Ja 449). Con trai của một Bà-la-môn giàu có qua đời ở tuổi mười sáu và được tái sinh vào chư thiên. Kể từ thời điểm con trai qua đời, vị Bà-la-môn thường đi đến nghĩa địa và đi vòng quanh đống tro cốt, than khóc thảm thiết. Vị chư thiên đã đến thăm ông và khuyên răn ông, giống như trong câu chuyện của Mattakuṇḍali. Vị Bà-la-môn đã làm theo lời khuyên của vị ấy và từ bỏ nỗi đau buồn.
+
+Câu chuyện được kể liên quan đến một địa chủ giàu có ở Sāvatthī, một đệ tử thuần thành của Đức Phật, người đã mất đi đứa con trai. Đức Phật, biết được nỗi đau buồn to lớn của ông, đã cùng với Ānanda đến thăm ông và thuyết pháp cho ông. Khi bài thuyết pháp kết thúc, người địa chủ trở thành một *Sotāpanna*. Ja.iv.59ff.
 
 ## Notes

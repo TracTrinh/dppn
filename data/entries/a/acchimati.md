@@ -27,6 +27,6 @@ Acchimatī. One of the five daughters of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Acchimatī. Một trong năm người con gái của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Vessavaṇa</span>. Bà được gả cho <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sakka</span>. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Latā</span> là chị em gái của bà. Vv-a.131.
+Acchimatī. Một trong năm người con gái của Vessavaṇa. Bà được gả cho Sakka. Latā là chị em gái của bà. Vv-a.131.
 
 ## Notes

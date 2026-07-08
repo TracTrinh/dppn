@@ -5,7 +5,7 @@ base_headword: "Migagāmavihāra"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Migagāmavihāra. A monastery in Ceylon, founded by <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Migagāmavihāra. Một tu viện ở Tích Lan, do Mahā Sena thành lập. Mhv.xxxvii.41.
 
 ## Notes

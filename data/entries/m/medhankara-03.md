@@ -5,7 +5,7 @@ base_headword: "Medhaṅkara"
 disambiguator: "03"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -27,6 +27,6 @@ Medhaṅkara 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Medhaṅkara 03. Medhaṅkara Thera. Được gọi là *Araññaka* Medhaṅkara. Ngài chủ tọa Hội đồng do Parakkamabāhu III. tổ chức. PLC.213.
 
 ## Notes

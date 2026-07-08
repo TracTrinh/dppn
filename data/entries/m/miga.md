@@ -5,7 +5,7 @@ base_headword: "Miga"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Miga. A king of the two *kappas* ago, a previous birth of <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Miga. Một vị vua của hai *kappa* trước, tiền kiếp của Tiṇasanthāradāyaka. Ap.i.122; tên có thể là Migasammata.
 
 ## Notes

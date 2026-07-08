@@ -5,7 +5,7 @@ base_headword: "Merumajjara"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -25,6 +25,6 @@ Merumajjara. A forest in Ceylon, where King *Asiggāhaka* <span class="dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Merumajjara. Một khu rừng ở Tích Lan, nơi Vua *Asiggāhaka* Saṅghatissa chạy trốn cùng với con trai và vị đại thần của mình sau khi bị Moggallāna III đánh bại. Cv.xliv.21.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mūlavārikavāpi"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mūlavārikavāpi. A tank in Ceylon, repaired by <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mūlavārikavāpi. Một hồ chứa nước ở Tích Lan, được tu sửa bởi Parakkamabāhu I. Cv.lxviii.49.
 
 ## Notes

@@ -26,6 +26,6 @@ Amitañjala (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Amitañjala (*v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Asitañjala</span>). Một vị vua cách đây mười bốn *kappas*; một tiền thân của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sālapupphiya Thera</span>. Ap.i.219.
+Amitañjala (*v.l.* Asitañjala). Một vị vua cách đây mười bốn *kappas*; một tiền thân của Sālapupphiya Thera. Ap.i.219.
 
 ## Notes

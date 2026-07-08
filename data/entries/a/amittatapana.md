@@ -27,6 +27,6 @@ Amittatāpana. A king of seventeen *kappas* ago; a previous life of <span class=
 
 ## Vietnamese translation
 
-Amittatāpana. Một vị vua cách đây mười bảy *kappas*; một tiền thân của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Paviṭṭha Thera</span> (Thag­a.i.185), có lẽ được đồng nhất với <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Ekadaṁsaniya</span> trong <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Apadāna</span> (i.168).
+Amittatāpana. Một vị vua cách đây mười bảy *kappas*; một tiền thân của Paviṭṭha Thera (Thag­a.i.185), có lẽ được đồng nhất với Ekadaṁsaniya trong Apadāna (i.168).
 
 ## Notes

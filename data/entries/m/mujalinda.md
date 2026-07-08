@@ -5,7 +5,7 @@ base_headword: "Mujalinda"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mujalinda. A king of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mujalinda. Một vị vua xứ Benares, người đã đi lên cõi trời như một phần thưởng cho những sự cúng tế to lớn của mình. Ja.vi.9.02; cp. Mucalinda (3).
 
 ## Notes

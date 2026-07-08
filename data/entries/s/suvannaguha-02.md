@@ -5,7 +5,7 @@ base_headword: "Suvaṇṇagūha"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Suvaṇṇagūha 02. One of the three caves in <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suvaṇṇagūha 02. Một trong ba hang động ở Nandamūlapabbhāra. Snp­a.i.66.
 
 ## Notes

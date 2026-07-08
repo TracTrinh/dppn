@@ -5,7 +5,7 @@ base_headword: "Mūlapariyāyasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -34,6 +34,8 @@ The Commentary states that the five hundred monks to whom the *Sutta* was addres
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mūlapariyāyasutta. Bài kinh (*Sutta*) đầu tiên của Majjhimanikāya. Bài kinh được giảng tại Subhagavana ở Ukkaṭṭhā, và được cho là đã nêu bật tông chỉ của toàn bộ giáo pháp của Đức Phật (*sabbadhammamūlapariyāya*). Trong bài kinh, Đức Phật giải thích nhiều hệ thống triết học đương thời khác nhau và chỉ ra những sự khác biệt giữa các hệ thống này và hệ thống của chính ngài. Nó cũng đề cập đến lý thuyết về linh hồn và về *Nibbāna* (MN.i.1-6).
+
+Chú giải nói rằng năm trăm tỳ-kheo, những người mà bài kinh này hướng tới, đã không cảm thấy hoan hỷ khi lắng nghe nó (MN­a.ii.46ff.; xem thêm AN­a.i.457 và Ja.ii.269, nơi có nói rằng vào lúc kết thúc Gotamakasutta thì trái đất đã rung chuyển). Đức Phật, nhận ra điều này, đã giảng cho họ Mūlapariyāyajātaka (MN 1, *q.v.*) (nhưng trong phần giới thiệu của chính Jātaka đó, có nói rằng Jātaka này được kể lại, không phải cho họ nghe, mà là liên quan đến họ, sau khi họ đã trở thành những *Arahant*). Sự kiêu ngạo của họ nhờ đó đã bị khuất phục, và họ đã thỉnh cầu Đức Phật một đề mục thiền định. Sau đó, khi Đức Phật đang đi du hành xa, ngự tại *cetiya* Gotamaka ở Vesālī, ngài đã giảng cho họ Gotamakasutta và họ đã trở thành những *Arahant*.
 
 ## Notes

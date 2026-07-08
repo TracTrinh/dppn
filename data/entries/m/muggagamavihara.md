@@ -5,7 +5,7 @@ base_headword: "Muggagāmavihāra"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Muggagāmavihāra. A monastery in Ceylon. See <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Muggagāmavihāra. Một tu viện ở Tích Lan. Xem Vilasa.
 
 ## Notes

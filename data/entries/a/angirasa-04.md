@@ -25,6 +25,6 @@ Aṅgīrasa 04. A celebrated physician (Mil.272). Rhys Davids suggests that the 
 
 ## Vietnamese translation
 
-Aṅgīrasa 04. Một danh y nổi tiếng (Mil.272). Rhys Davids gợi ý rằng mối liên hệ của tên <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Aṅgīrasa</span> với vị y sĩ là do các chú thuật chống bệnh tật tìm thấy trong Atharva Veda. Mil. trans. ii.109, n.3.
+Aṅgīrasa 04. Một danh y nổi tiếng (Mil.272). Rhys Davids gợi ý rằng mối liên hệ của tên Aṅgīrasa với vị y sĩ là do các chú thuật chống bệnh tật tìm thấy trong Atharva Veda. Mil. trans. ii.109, n.3.
 
 ## Notes

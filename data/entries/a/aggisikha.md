@@ -25,6 +25,6 @@ Aggisikha. The name borne by the Thera <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Aggisikha. Tên mà Trưởng lão <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Gatasaññaka</span> mang khi trong các tiền kiếp, ngài là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Cakkavatti</span> ba lần liên tiếp. Ap.i.127.
+Aggisikha. Tên mà Trưởng lão Gatasaññaka mang khi trong các tiền kiếp, ngài là Cakkavatti ba lần liên tiếp. Ap.i.127.
 
 ## Notes

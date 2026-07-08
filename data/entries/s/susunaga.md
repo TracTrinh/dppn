@@ -5,7 +5,7 @@ base_headword: "Susunāga"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -34,6 +34,8 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Susunāga. Vua nước Magadha và là cha của Kāḷāsoka. Ngài trị vì trong mười tám năm (Mhv.iv.6; nhưng xem Dpv.v.98, ở đó triều đại của ngài được ghi là mười năm, và vào năm thứ tám của triều đại đó Dasaka Thera qua đời. Cf. Vin-a.i.33.).
+
+Theo Mahā Vaṁsaṭīkā (Mv-ṭ.155f), ngài là con trai của một vị vua (*rājā*) Licchavī và một kỹ nữ. Khi chào đời, ngài trông giống như một cục thịt, và mẹ ngài đã ra lệnh bỏ ngài vào một cái giỏ rồi ném ra đống rác. Vua Nāga của thành phố đã canh giữ chiếc giỏ, nhưng khi mọi người xúm lại quanh ngài và nói "*Su-sū*," ngài đã bỏ chiếc giỏ lại và bỏ đi. Trong đám đông có con trai của một vị quan, và khi chiếc giỏ được mở ra và đứa bé được phát hiện, ông quyết định nhận nuôi nó. Theo thời gian, đứa trẻ lớn lên, và khi quần chúng phẫn nộ phế truất kẻ giết cha là Nāgadāsaka, họ đã đưa Susunāga lên ngai vàng. Ngài được gọi là Susunāga vì ngài được canh giữ bởi Nāga, vị đã biến mất khi mọi người nói "*Su-sū*."
 
 ## Notes

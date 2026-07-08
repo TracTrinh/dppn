@@ -5,7 +5,7 @@ base_headword: "Mūlanāgasenāpativihāra"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mūlanāgasenāpativihāra. A monastery in Ceylon round which <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mūlanāgasenāpativihāra. Một tu viện ở Tích Lan mà Vohārakatissa đã xây một bức tường bao quanh. Mhv.xxxvi.35.
 
 ## Notes

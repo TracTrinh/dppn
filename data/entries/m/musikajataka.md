@@ -5,7 +5,7 @@ base_headword: "Mūsikajātaka"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -28,6 +28,6 @@ Mūsikajātaka (Ja 373). The Bodhisatta was once a world-famed teacher. Among hi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mūsikajātaka (Ja 373). Bodhisatta từng là một giáo thọ nổi tiếng thế giới. Trong số các đệ tử của ngài có Yava, con trai của vị vua xứ Benares. Chàng là một học trò giỏi, và khi chàng chuẩn bị rời đi, Bodhisatta, dự đoán được sự nguy hiểm đối với chàng, đã dạy cho chàng ba bài kệ (các bài kệ mang tính chất câu đố, có ý nghĩa kép). Hai bài đầu tiên dựa trên những sự việc do Bodhisatta chứng kiến – một con ngựa giết chết con chuột đã làm phiền chỗ đau ở chân nó và ném nó xuống giếng; và cũng con ngựa đó, sau này, cố gắng ăn lúa mạch bằng cách chui đầu qua hàng rào; bài thứ ba là do ngài tự sáng tác. Sau đó, Yava trở thành vua, và con trai của ông, khi mười sáu tuổi, đã ba lần tìm cách sát hại ông. Nhưng tất cả đều thất bại vì Yava đã đọc lại những bài kệ mà Bodhisatta đã dạy cho ông. Trong mỗi lần đó, việc thốt ra các bài kệ khiến cậu bé cảm thấy rằng mình đã bị phát hiện, và cậu đã thú nhận tội lỗi của mình, sau đó cậu đã bị xích lại. Câu chuyện được kể lại liên quan đến Ajātasattu (Ja.iii.215-9). Để biết chi tiết xem Thusajātaka (Ja 338).
 
 ## Notes

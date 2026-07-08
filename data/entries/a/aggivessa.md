@@ -25,6 +25,6 @@ Aggivessa. One of the guards of King <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Aggivessa. Một trong những người canh gác của vua <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Eḷeyya</span> (AN.ii.181). Đây có phải là một tên *gotta* không? (Xem <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Aggivessana</span>.)
+Aggivessa. Một trong những người canh gác của vua Eḷeyya (AN.ii.181). Đây có phải là một tên *gotta* không? (Xem Aggivessana.)
 
 ## Notes

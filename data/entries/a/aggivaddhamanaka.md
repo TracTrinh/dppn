@@ -26,6 +26,6 @@ Aggivaḍḍhamānaka (<span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Aggivaḍḍhamānaka (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Abhivaḍḍhamānaka</span>). Một hồ chứa nước do vua <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Vasabha</span> của Ceylon xây dựng. Mhv.xxxv.95.
+Aggivaḍḍhamānaka (Abhivaḍḍhamānaka). Một hồ chứa nước do vua Vasabha của Ceylon xây dựng. Mhv.xxxv.95.
 
 ## Notes

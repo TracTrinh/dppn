@@ -34,7 +34,7 @@ At the end of the sermon a thousand monks became *Arahants*. MN­a.ii.1025.
 
 Ambilahālavihāra. Một tu viện ở Ceylon.
 
-Trong một dịp, Trưởng lão <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Tipiṭaka Cūḷa Nāga</span> thuyết <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Mahā Saḷāyatanikasutta</span> tại đó.
+Trong một dịp, Trưởng lão Tipiṭaka Cūḷa Nāga thuyết Mahā Saḷāyatanikasutta tại đó.
 
 Hội chúng loài người rộng một *gāvuta*, còn hội chúng chư thiên rộng một do-tuần.
 

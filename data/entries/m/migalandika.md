@@ -5,7 +5,7 @@ base_headword: "Migalaṇḍika"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -28,6 +28,6 @@ Migalaṇḍika. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Migalaṇḍika. *v.l.* Migaladdhika. Một kẻ giả danh tỳ-kheo (*samaṇakuttaka*). Một lần, khi Đức Phật đã thuyết giảng cho các tỳ-kheo ở Mahā Vana tại Vesālī về sự ô uế và nhơ nhớp của thân thể, và đã lui vào nơi thanh vắng, nhiều tỳ-kheo, vì ghê tởm thân thể của họ, đã kết liễu mạng sống của mình. Một số người trong số họ đã tìm đến Migalaṇḍika và yêu cầu ông ta chặt đầu họ. Ông ta đã làm điều này bằng một thanh gươm, nhưng trên đường đến sông Vaggamudā để rửa gươm, ông ta đã bị dằn vặt bởi sự hối hận. Tuy nhiên, một *Mārakāyika Devatā* đã xuất hiện trước mặt ông ta trên dòng sông và quả quyết với ông ta rằng ông ta đang làm một việc tốt cho các tỳ-kheo bằng cách giúp họ tự tử. Điều này đã khích lệ ông ta, và ông ta đã giết chết nhiều tỳ-kheo hơn nữa, cho đến khi Đức Phật, phát hiện ra sự thật, đã can thiệp. Vin.iii.68ff.; Vin-a.ii.399ff.
 
 ## Notes

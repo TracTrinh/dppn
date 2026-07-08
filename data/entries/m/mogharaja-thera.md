@@ -5,7 +5,7 @@ base_headword: "Mogharāja Thera"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -49,6 +49,16 @@ In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="18" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mogharāja Thera. Ông thuộc về một gia đình Bà-la-môn và đã theo học Bāvarī với tư cách là một ẩn sĩ. Ông là một trong mười sáu đệ tử được Bāvarī cử đến gặp Đức Phật. Khi Mogharāja hỏi câu hỏi của mình với Đức Phật và nhận được câu trả lời, ông đã đạt được quả vị *Arahant*. Sau đó, ông đạt được sự vinh danh bằng cách mặc những tấm vải thô do những người đi buôn, thợ may và thợ nhuộm vứt bỏ, và Đức Phật tuyên bố ông là người đệ nhất trong số những người mặc y phục thô (Xem thêm AN.i.25). Sau đó, do thiếu cẩn thận và do *kamma* trước đây, những nốt mụn và những thứ tương tự đã nổi lên khắp cơ thể ông. Đoán rằng chỗ ở của mình đã bị lây nhiễm, ông đã trải một chiếc giường bằng rơm trên cánh đồng Magadha và sống ở đó ngay cả trong mùa đông. Khi Đức Phật hỏi ông cảm thấy thế nào trong cái lạnh, ông trả lời rằng ông vô cùng hạnh phúc (Thag.207f).
+
+Vào thời của Padumuttara Buddha, Mogharāja lần đầu tiên quyết định giành được vị thế xuất chúng như ông đã có. Vào thời của Atthadassī Buddha, ông là một giáo thọ Bà-la-môn, và một ngày nọ, trong khi đang dạy học cho các đệ tử của mình, ông nhìn thấy Đức Phật, và sau khi đảnh lễ Ngài với sự trang nghiêm tột độ, ông đã nói sáu bài kệ ca ngợi Ngài và cúng dường Ngài một món quà là mật ong. Sau đó, sau một thời gian lưu lại ở các cõi *Deva*, ông trở thành một đại thần của Vua Kaṭṭhavāhana, và được vị vua này cử đi cùng với một ngàn người khác để yết kiến Kassapa Buddha. Ông đã nghe Đức Phật thuyết pháp, gia nhập giáo hội, và sống cuộc sống của một tỳ-kheo trong hai mươi ngàn năm (Thag­a.i.181ff.; Snp. vs. 1006). Saṁyuttanikāya chứa một bài kệ do Mogharāja nói và câu trả lời của Đức Phật cho bài kệ đó (SN.i.23).
+
+Buddhaghosa giải thích (SN­a.i.49f) rằng Mogharāja đã có mặt trong suốt cuộc thảo luận của *paribbājaka* Pasūra (*q.v.*) với Sāriputta. Khi kết thúc lời giải thích của Sāriputta, Mogharāja muốn giải quyết vấn đề và đã nói bài kệ này.
+
+Mogharāja được đưa ra như một ví dụ về một người đã đạt được quả vị *Arahant* nhờ tu tập sự quán sát (*vīmaṁsaṁ dhuraṁ katvā*) (SN­a.iii.201).
+
+Apadāna chứa hai tập hợp các bài kệ liên quan đến Mogharāja. Chúng dường như là những phần của cùng một Apadāna đã bị tách rời. Tập hợp đầu tiên (Ap.i.87f) kể lại cuộc gặp gỡ của Mogharāja với Atthadassī Buddha (xem ở trên) và bao gồm các bài kệ do Mogharāja nói để ca ngợi Đức Phật. Tập hợp thứ hai (Ap.ii.486f) chứa một tường thuật về cuộc gặp gỡ của ông với Padumuttara Buddha và những quyết định mà ông đã thực hiện trước Ngài. Nó đề cập thêm rằng, trong một ngàn năm ở một kiếp sau, Mogharāja đã chịu khổ ở địa ngục, và trong năm trăm kiếp, ông đã mắc các bệnh ngoài da. Điều này là do ông đã đốt lửa trong hành lang của Đức Phật và làm sàn nhà bị đen. Trong kiếp cuối cùng của mình, ông cũng mắc phải một *kuṭṭharoga* (bệnh phong) và không thể ngủ vào ban đêm, do đó có tên gọi của ông (*mogharajjasukhaṁ yasmā Mogharājā tato ahaṁ*). Những bài kệ này cũng bao gồm Mogharājamāṇavapucchā.
+
+Trong Milindapañha (p. 412) xuất hiện một bài kệ được gán cho Mogharāja, nhưng không được tìm thấy trong các bài kệ được đề cập liên quan đến ông trong Suttanipāta hoặc trong Theragāthā. Xem thêm Mogharājamāṇavapucchā.
 
 ## Notes

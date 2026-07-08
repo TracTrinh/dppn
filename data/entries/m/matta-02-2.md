@@ -5,7 +5,7 @@ base_headword: "Mattā"
 disambiguator: "02"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -28,6 +28,6 @@ Mattā 02. A *Petī*. In her previous life she was married to a householder of <
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mattā 02. Một *Petī*. Trong kiếp trước, bà kết hôn với một gia chủ ở Sāvatthī, nhưng vì bà bị vô sinh, chồng bà đã cưới một người phụ nữ khác tên là Tissā, và có với người này một đứa con tên là Bhūta. Một ngày nọ, khi Tissā và chồng cô đang nói chuyện với nhau, Mattā nổi cơn ghen và ném một đống bụi bẩn lên đầu Tissā. Sau khi chết, Mattā tái sinh thành một *Petī* và phải chịu đựng những đau khổ tột cùng. Bà xuất hiện trước Tissā, và theo yêu cầu của bà, Tissā đã cúng dường cho tám vị tỳ-kheo, hồi hướng công đức cho Mattā. Mattā ngay lập tức đạt được niềm an vui cõi trời. Pv.ii.3; Pv-a.82ff.
 
 ## Notes

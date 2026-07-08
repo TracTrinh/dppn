@@ -5,7 +5,7 @@ base_headword: "Suvaṇṇakārasutta"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Suvaṇṇakārasutta. A monk developing the higher consciousness should be like
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suvaṇṇakārasutta. Một tỳ-kheo phát triển tâm ý cao thượng nên giống như một người thợ kim hoàn làm việc với vàng ròng. Các chi tiết tương tự được đưa ra cho cả hai quá trình. AN.i.257f.
 
 ## Notes

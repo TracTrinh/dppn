@@ -5,7 +5,7 @@ base_headword: "Mūlakasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mūlakasutta. The Buddha tells the monks that, should they be questioned by foll
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mūlakasutta. Đức Phật bảo các tỳ-kheo rằng, nếu họ bị các tín đồ của các tôn giáo khác chất vấn, họ nên trả lời rằng vạn pháp đều lấy dục (*chanda*) làm căn bản. Chúng bắt nguồn từ sự tác ý, chúng được sinh ra bởi xúc, sự hội tụ của chúng là thọ, định là trạng thái chính của vạn pháp, giải thoát là điều quý giá nhất. AN.v.106f. = AN.iv.338, nơi nó được gọi là Mūlasutta.
 
 ## Notes

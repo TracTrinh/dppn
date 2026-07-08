@@ -25,6 +25,6 @@ Akittidvāra. The gate through which <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Akittidvāra. Cổng thành mà <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Akitti</span> đã đi qua khi rời thành. Ja.iv.237.
+Akittidvāra. Cổng thành mà Akitti đã đi qua khi rời thành. Ja.iv.237.
 
 ## Notes

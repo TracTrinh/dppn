@@ -5,7 +5,7 @@ base_headword: "Mettiya Thera"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -24,6 +24,6 @@ Mettiya Thera. One of the six leaders of the <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mettiya Thera. Một trong sáu nhà lãnh đạo của nhóm Chabbaggiyā.
 
 ## Notes

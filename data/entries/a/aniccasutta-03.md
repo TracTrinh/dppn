@@ -25,6 +25,6 @@ Aniccasutta 03. At <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Aniccasutta 03. Tại <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sāvatthī</span>, được thuyết để trả lời các câu hỏi của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Rādha</span> (SN.iii.195).
+Aniccasutta 03. Tại Sāvatthī, được thuyết để trả lời các câu hỏi của Rādha (SN.iii.195).
 
 ## Notes

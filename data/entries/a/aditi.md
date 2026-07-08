@@ -24,6 +24,6 @@ Aditi. Mother of the sun, who is called <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Aditi. Mẹ của mặt trời, được gọi là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ādicca</span>, tên này được giải thích là *Aditiyā putto*. DN­a.iii.963.
+Aditi. Mẹ của mặt trời, được gọi là Ādicca, tên này được giải thích là *Aditiyā putto*. DN­a.iii.963.
 
 ## Notes

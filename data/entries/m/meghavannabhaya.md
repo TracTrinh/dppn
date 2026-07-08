@@ -5,7 +5,7 @@ base_headword: "Meghavaṇṇābhaya"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -27,6 +27,6 @@ Meghavaṇṇābhaya 03. <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Meghavaṇṇābhaya 03. Meghavaṇṇābhayavihāra. Một tu viện do Vua Goṭhābhaya (Meghavaṇṇābhaya) thành lập. Tại lễ cung hiến, nhà vua đã phân phát sáu bộ y phục cho mỗi người trong số ba mươi nghìn tỳ-kheo. Mhv.xxxvi.108.
 
 ## Notes

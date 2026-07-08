@@ -24,6 +24,6 @@ Anubuddhasutta. Preached at <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Anubuddhasutta. Được thuyết tại <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Bhaṇḍagāma</span>, về tầm quan trọng của sự hiểu biết. AN.ii.1f.
+Anubuddhasutta. Được thuyết tại Bhaṇḍagāma, về tầm quan trọng của sự hiểu biết. AN.ii.1f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mucalinda"
 disambiguator: "05"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -24,6 +24,6 @@ Mucalinda 05. One of the chief <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mucalinda 05. Một trong những Yakkha chính được các môn đồ của Đức Phật cầu khẩn khi cần thiết. DN.iii.205.
 
 ## Notes

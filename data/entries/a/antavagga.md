@@ -26,6 +26,6 @@ Antavagga. The first chapter of the <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Antavagga. Chương thứ nhất của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Uparipaññāsaka</span> thuộc <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Khandhasaṁyutta</span> trong <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Saṁyuttanikāya</span> (SN.iii.157ff).
+Antavagga. Chương thứ nhất của Uparipaññāsaka thuộc Khandhasaṁyutta trong Saṁyuttanikāya (SN.iii.157ff).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Muttā"
 disambiguator: "01"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -34,6 +34,10 @@ In the past, she had seen <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Muttā 01. Muttā Therī. Cô thuộc về một gia đình Bà-la-môn danh giá ở Sāvatthī và, vào năm hai mươi tuổi, cô đã xuất gia dưới sự hướng dẫn của Pajāpatī Gotamī.
+
+Một ngày nọ, khi cô đang thiền định sau khi trở về từ chuyến khất thực, Đức Phật đã xuất hiện trước mặt cô trong một tia sáng hào quang và khuyên bảo cô bằng một bài kệ. Không lâu sau cô trở thành một *Arahant*.
+
+Trong quá khứ, cô đã nhìn thấy Vipassī Buddha đang đi dọc theo con đường và, vui mừng trước cảnh tượng đó, đã lao ra và phủ phục dưới chân Ngài (Thīg.vs.2; Thīg­a.8f). Cô hiển nhiên đồng nhất với Saṅkamanattā của Apadāna. Ap.ii.514.
 
 ## Notes

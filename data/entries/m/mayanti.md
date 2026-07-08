@@ -5,7 +5,7 @@ base_headword: "Mayanti"
 disambiguator: ""
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Mayanti. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mayanti. *v.l.* Cayanti. Một hồ chứa nước do Vua Subha xây dựng. Mhv.xxxv.94.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mettikā Therī"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -30,6 +30,8 @@ In the time of Siddhartha Buddha, she belonged to a burgher’s family and offer
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mettikā Therī. Vị này đản sinh trong một gia đình Bà-la-môn giàu có ở Rājagaha và gia nhập Tăng đoàn dưới sự dẫn dắt của Pajāpatī Gotamī. Một ngày nọ, trong tuổi già của mình, trong khi thiền định trên đỉnh núi, tuệ giác của vị ấy rộng mở và vị ấy trở thành một vị *Arahant*.
+
+Vào thời của Siddhartha Buddha, vị này thuộc về một gia đình thị dân và đã cúng dường thắt lưng *mekhalā* của mình tại *cetiya* của Đức Phật (Thīg.29, 30; Thīg­a.35f). Vị này rõ ràng đồng nhất với Mekhaladāyikā của Apadāna. Ap.ii.513.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mūlasomavihāra"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Mūlasomavihāra. A monastery in which <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mūlasomavihāra. Một tu viện nơi Anuruddha, tác giả của Abhidhammatthasaṅgaha, là một vị sư trụ trì. PLC. 168.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Māyā"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -91,6 +91,20 @@ According to some contexts, after her birth as <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māyā, Mahā Māyā. Mẹ của Gotama Buddha (DN.ii.52; xem Thomas: *Life and Legend of the Buddha*, 25). Cha bà là người Sākiyan tên Añjana ở Devadaha, con trai của Devadahasakka, và mẹ bà là Yasodharā, con gái của Jayasena. (Mhv.ii.17ff.; ở nơi khác cha bà được gọi là Mahā Suppabuddha (Thīg­a.141), trong khi Apadāna (ii.538) cho tên mẹ bà là Sulakkhaṇā).
+
+Daṇḍapāṇī và Suppabuddha là các anh trai của bà, và Mahā Pajāpatī là em gái bà. Cả hai chị em đều kết hôn với Suddhodana khi còn trẻ, nhưng mãi cho đến khi Māyā hơn 50 tuổi thì Đức Phật mới ra đời (Vibh-a 278). Bà có đầy đủ mọi phẩm chất cần thiết của một người sẽ mang địa vị cao quý là mẹ của Đức Phật: bà không quá đam mê dục lạc, bà không dùng chất say, bà đã thực hành *pāramī* trong một trăm nghìn *kappa*, và kể từ khi sinh ra, chưa từng vi phạm năm *sīlā*. Vào ngày bà mang thai, bà giữ gìn ngày trai giới, và trong giấc ngủ đêm đó, bà đã có giấc mơ sau: các vị thần Cattāro Mahā Rājāno đưa bà trên chiếc giường của mình đến Himavā và đặt bà dưới một cây *sāla* trên Manosilātala. Sau đó các phu nhân của họ đến tắm cho bà ở Hồ Anotatta và mặc cho bà thiên y. Sau đó họ đưa bà vào một cung điện bằng vàng và đặt bà nằm trên một chiếc giường cõi trời; tại đó Bodhisatta, trong hình dáng một con voi trắng, dùng chiếc vòi sáng rực rỡ của mình cầm một bông sen trắng, đi vào hông phải của bà. Sự kiện này xảy ra vào ngày của *Uttarāsāḷha nakkhatta*, sau một lễ hội kéo dài bảy ngày mà bà đã tham gia.
+
+Kể từ ngày mang thai, bà được Bốn Vị Thần Hộ Thế bảo vệ; bà không cảm thấy khao khát đàn ông, và đứa trẻ trong bụng bà có thể được nhìn thấy từ bên ngoài. Vào cuối tháng thứ mười, bà mong muốn trở về với gia đình mình ở Devadaha, nhưng, trên đường đến đó, bà dừng lại ở khu rừng *sāla* tại Lumbinī và tại đó con bà chào đời khi bà đang đứng bám vào cành của một cây *sāla* (Ja.i.49ff). Bảy ngày sau Māyā qua đời và tái sinh thành nam giới ở cõi Tusita, với tên là Māyā *Devaputta* (Thag.vss.533f.; Thag­a.i.502).
+
+Đức Phật đã đến thăm Tāvatiṁsa ngay sau khi thực hiện Song thông dưới gốc cây Gaṇḍamba, vào ngày trăng tròn của tháng *Āsāḷha*, và tại đó, trong ba tháng của mùa an cư, Đức Phật đã lưu trú, thuyết Abhidhammapiṭaka cho mẹ ngài (người đã đến đó để lắng nghe ngài), ngồi trên Paṇḍukambalasilāsana của Sakka, dưới gốc cây Pāricchattaka (người ta nói rằng, trong thời gian này, vào những khoảng thời gian nhất định, Đức Phật sẽ trở lại trái đất, để lại một hình ảnh đang ngồi của ngài ở Tāvatiṁsa để tiếp tục thuyết pháp trong khi ngài chăm lo các nhu cầu thân thể của mình, đi khất thực ở Uttarakuru và dùng bữa trên bờ Anotatta, nơi Sāriputta hầu hạ ngài và học hỏi những gì ngài đã thuyết cho chư thiên. Dhs-a.i.15; Dhp­a.iii.216f)
+
+Các Chú giải (Ud­a.276f) nêu ra quan điểm, được một số người nắm giữ, rằng nếu Māyā còn sống, Đức Phật sẽ không tỏ ra miễn cưỡng như vậy trong việc ban truyền giới cho phụ nữ. Quan điểm này, Dhammapāla nói là sai lầm. Điều đó sẽ không tạo ra sự khác biệt nào, bởi vì *dhammatā* của chư Phật là phụ nữ sẽ được truyền giới, nhưng phải tuân theo một số hạn chế quan trọng. Mẹ của tất cả chư Phật đều qua đời rất sớm sau khi sinh con trai của họ, bởi vì không có đứa trẻ nào khác xứng đáng được thụ thai trong cùng một tử cung với một vị Phật.
+
+Māyā được nhắc đến trong một số Jātaka là mẹ của Bodhisatta – ví dụ: trong Alīnacitta (Ja 156), Kaṭṭhahāri (Ja 7), Kurudhamma (Ja 276), Kosambī (Ja 428), Khaṇḍahāla (Ja 542), Dasaratha (Ja 461), Bandhanāgāra (Ja 201), Mahā Ummagga (Ja 546), Mātuposaka (Ja 455), Vessantara (Ja 547), Susīma (Ja 411) Somanassa (Ja 505), Hatthipāla (Ja 509).
+
+Theo một số ngữ cảnh, sau kiếp sống là Phusatī trong Vessantarajātaka, Māyā đã trở thành một trong những người con gái của Vua Kikī.
+
+Quyết tâm trở thành mẹ của một vị Phật của Māyā đã được hình thành từ chín mươi mốt *kappa* trước vào thời của Vipassī Buddha (Ja.vi.480f). Lúc đó bà là trưởng nữ của Vua Bandhumā. Một trong những chư hầu của vua đã gửi cho ông một khối gỗ trầm hương vô giá và một vòng hoa bằng vàng, trị giá một trăm nghìn. Gỗ trầm hương được nhà vua trao cho con gái lớn và vòng hoa cho con gái nhỏ. Cô con gái lớn đã nghiền nát gỗ trầm hương thành bột và đựng nó trong một chiếc tráp vàng để mang cúng dường cho Đức Phật. Một phần bột cô cúng dường cho Đức Phật để thoa lên thân ngài, và phần còn lại cô rải trong hương phòng của ngài. Chính cảnh tượng thân hình sắc vàng của Đức Phật đã truyền cảm hứng cho cô khao khát được làm mẹ của một bậc như vậy. Người em gái của bà sau này trở thành Uracchadā (*q.v.*).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Micchattasutta"
 disambiguator: "01"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -23,6 +23,6 @@ Micchattasutta 01. Wrong views, etc., are perversion (*micchatta*) and their opp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Micchattasutta 01. Những tà kiến, v.v., là sự đảo lộn (*micchatta*) và sự đối lập của chúng là sự hoàn thiện (*sammatta*). SN.v.17.
 
 ## Notes

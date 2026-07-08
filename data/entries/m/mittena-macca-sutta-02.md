@@ -5,7 +5,7 @@ base_headword: "Mittena maccā Sutta"
 disambiguator: "02"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -24,6 +24,6 @@ Mittena maccā Sutta 02. It is impossible that a *Sotāpanna* should be born in 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mittena maccā Sutta 02. Việc một *Sotāpanna* bị sinh ra trong địa ngục, hay làm súc sinh hoặc một ngạ quỷ (*Peta*) là điều không thể xảy ra. Do đó, tất cả những người thân yêu với một người nên được khuyên nhủ về và được an trú vào bốn chi phần của *Sotāpatti*. SN.v.365.
 
 ## Notes

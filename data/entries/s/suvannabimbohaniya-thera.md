@@ -5,7 +5,7 @@ base_headword: "Suvaṇṇabimbohaniya Thera"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Suvaṇṇabimbohaniya Thera. An *Arahant*. Ninety-one *kappas* ago he gave as g
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suvaṇṇabimbohaniya Thera. Một *Arahant*. Chín mươi mốt *kappa* trước ngài đã cúng dường một chiếc giường và một tấm nệm. Sáu mươi ba *kappa* trước ngài là một vị vua tên là Asama. Ap.i.234.
 
 ## Notes

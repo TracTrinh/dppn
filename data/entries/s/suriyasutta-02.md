@@ -5,7 +5,7 @@ base_headword: "Suriyasutta"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Suriyasutta 02. The Buddha explains to the monks the destruction of the world by
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suriyasutta 02. Đức Phật giải thích cho các tỳ-kheo về sự hủy diệt của thế giới do sự xuất hiện dần dần của bảy mặt trời liên tiếp. Kinh đưa ra các chi tiết về sự tàn phá do mỗi mặt trời tiếp theo gây ra. *Sutta* này nhằm cho thấy rằng mọi pháp hữu vi đều vô thường; nhưng chỉ có những ai sở hữu trí tuệ của bậc Thánh mới nhận ra điều này. Ngay cả một vị đạo sư vĩ đại như Sunetta (*q.v.*) cũng không thể tìm ra con đường thoát khỏi sầu khổ (AN.iv.100f). *Sutta* này rõ ràng cũng được gọi là *Sattasuriyasutta* hoặc *Sattasuriyuggamanasutta*.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Sutanū"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -28,6 +28,6 @@ Sutanū, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sutanū, Sutanā. Vợ của Vipassī Buddha trong đời sống cư sĩ cuối cùng của ngài (Bv.xx.25). Nàng cũng được gọi là Sudassanā (Bv­a.195). Xem Sudhanā.
 
 ## Notes

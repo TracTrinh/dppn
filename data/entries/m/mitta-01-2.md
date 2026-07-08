@@ -5,7 +5,7 @@ base_headword: "Mittā"
 disambiguator: "01"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -33,6 +33,6 @@ Mittā 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mittā 01. Mittā Therī. Chín mươi mốt *kappa* trước, vào thời của Vipassī Buddha, bà là một trong những vương phi của Vua Bandhumā và đã tích lũy thiện nghiệp (*kamma*) bằng cách cúng dường thức ăn và y phục đắt tiền cho một vị Therī *Arahant*. Sau khi qua đời, bà tái sinh ở Tāvatiṁsa và làm vợ của vua chư thiên ba mươi lần, và sau đó làm chánh cung vương hậu của hai mươi vị vua cõi người. Trong thời đại này, bà thuộc một gia đình Sākyan ở Kapilavatthu và đã xuất gia cùng với Pajāpatī Gotamī, đắc quả vị *Arahant* không lâu sau đó. (Thīg.vs.31f) Bà rõ ràng được đồng nhất với Ekapiṇḍadāyikā của Apadāna. Thīg­a.36f.; Ap.ii.515f.
 
 ## Notes

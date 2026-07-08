@@ -5,7 +5,7 @@ base_headword: "Molinī"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -26,6 +26,6 @@ Molinī. An old name for <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Molinī. Một tên gọi cũ của Benares. Xem Saṅkhajātaka (Ja 442).
 
 ## Notes

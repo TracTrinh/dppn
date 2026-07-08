@@ -25,6 +25,6 @@ Akodhaavihiṁsāsutta. On mildness and kindness, the verses being put into the 
 
 ## Vietnamese translation
 
-Akodhaavihiṁsāsutta. Về sự ôn hòa và lòng nhân từ, các bài kệ được đặt vào miệng của thiên chủ <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Sakka</span>. SN.i.240.
+Akodhaavihiṁsāsutta. Về sự ôn hòa và lòng nhân từ, các bài kệ được đặt vào miệng của thiên chủ Sakka. SN.i.240.
 
 ## Notes

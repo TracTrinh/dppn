@@ -5,7 +5,7 @@ base_headword: "Muttima"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -23,6 +23,6 @@ Muttima. The Pāḷi name for Martaban in Burma. Bode, 33.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Muttima. Tên tiếng Pāḷi của Martaban ở Miến Điện. Bode, 33.
 
 ## Notes

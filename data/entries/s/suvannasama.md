@@ -5,7 +5,7 @@ base_headword: "Suvaṇṇasāma"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -27,6 +27,6 @@ Suvaṇṇasāma. The Bodhisatta born as the son of <span class="dppn-term dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suvaṇṇasāma. Bodhisatta sinh ra là con trai của Dukūlaka và Pārikā. Xem Sāmajātaka.
 
 ## Notes

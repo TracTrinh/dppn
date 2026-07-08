@@ -5,7 +5,7 @@ base_headword: "Monasīhakā"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -26,6 +26,6 @@ Monasīhakā. A totemistic clan of the Sinhalese. They were employed by <span cl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Monasīhakā. Một thị tộc theo tín ngưỡng bái vật tổ của người Sinhalese. Họ được Mitta sử dụng để chống lại Bhuvanekabāhu I. Cv.xc.7; xem. Cv.Trs.i.29, n.2.
 
 ## Notes

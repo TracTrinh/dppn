@@ -5,7 +5,7 @@ base_headword: "Meṇḍasira"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -36,6 +36,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Meṇḍasira (*v.l.* Meṇḍasīsa). Một vị Thera *Arahant*. Ngài sinh ra trong gia đình của một thị dân ở Sāketa và được gọi như vậy vì đầu của ngài giống đầu của một con cừu đực. Khi Đức Phật đang lưu trú tại Añjanavana ở Sāketa, Meṇḍasira đã nghe ngài thuyết pháp và gia nhập Tăng đoàn, đạt được quả vị *Arahant* trong thời gian sau đó.
+
+Thời của Vipassī Buddha, ngài sống gần Núi Gotama ở Himavā cùng với một nhóm lớn các vị ẩn sĩ. Tại đó họ gặp Đức Phật và cúng dường ngài những bông hoa sen. Năm mươi mốt *kappa* trước ngài từng là một vị vua tên Januttama (Jaluttama) (Thag.78; Thag­a.i.171f). Ngài rõ ràng được đồng nhất với Padumapūjaka của Apadāna. Ap.i.102f.
 
 ## Notes

@@ -24,6 +24,6 @@ Acala Thera. One of the eminent monks present at the foundation of the <span cla
 
 ## Vietnamese translation
 
-Acala Thera. Một trong những vị tăng nổi bật có mặt tại lễ đặt nền móng của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Mahā Thūpa</span>. Mhv­ṭ.526.
+Acala Thera. Một trong những vị tăng nổi bật có mặt tại lễ đặt nền móng của Mahā Thūpa. Mhv­ṭ.526.
 
 ## Notes

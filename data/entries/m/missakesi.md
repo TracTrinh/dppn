@@ -5,7 +5,7 @@ base_headword: "Missakesī"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Missakesī. A nymph (*accharā*), a heavenly musician of <span class="dppn-term 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Missakesī. Một thiên nữ (*accharā*), một nữ nhạc thần của Sakka. Vv.ii.1; iv.12; Vv-a.93, 96, 211; cũng xem p. 372f.
 
 ## Notes

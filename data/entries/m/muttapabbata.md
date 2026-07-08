@@ -5,7 +5,7 @@ base_headword: "Muttāpabbata"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Muttāpabbata. A village in Ceylon, given by <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Muttāpabbata. Một ngôi làng ở Tích Lan, được Kittisirirājasīha ban tặng cho việc duy trì các lễ hội. Cv.c.43.
 
 ## Notes

@@ -26,6 +26,6 @@ Añjanapabbata. One of the six peaks of the Himālaya from which rose the five g
 
 ## Vietnamese translation
 
-Añjanapabbata. Một trong sáu đỉnh của dãy Himālaya, nơi đầu nguồn của năm con sông lớn và xung quanh là bảy hồ (Ja.v.415). <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Pabbata</span>, một trong bảy đệ tử chính của Bodhisatta <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Jotipāla</span>, đã có ẩn thất tại đó. Ja.v.133.
+Añjanapabbata. Một trong sáu đỉnh của dãy Himālaya, nơi đầu nguồn của năm con sông lớn và xung quanh là bảy hồ (Ja.v.415). Pabbata, một trong bảy đệ tử chính của Bodhisatta Jotipāla, đã có ẩn thất tại đó. Ja.v.133.
 
 ## Notes

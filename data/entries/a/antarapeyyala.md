@@ -25,6 +25,6 @@ Antarapeyyāla. A section of the <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Antarapeyyāla. Một phần của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Nidānasaṁyutta</span>, gồm mười hai *Suttas* với nội dung được lược bớt. SN.ii.130ff.
+Antarapeyyāla. Một phần của Nidānasaṁyutta, gồm mười hai *Suttas* với nội dung được lược bớt. SN.ii.130ff.
 
 ## Notes

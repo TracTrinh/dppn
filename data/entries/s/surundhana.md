@@ -5,7 +5,7 @@ base_headword: "Surundhana"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Surundhana. A city in <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Surundhana. Một thành phố ở Kāsī; một tên gọi cũ của Benares. Ja.iv.104, 119.
 
 ## Notes

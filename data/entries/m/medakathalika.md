@@ -5,7 +5,7 @@ base_headword: "Medakathalikā"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -32,6 +32,12 @@ The name Medakathalikā, though feminine in inflection, is used for a male (SN­
 
 ## Vietnamese translation
 
-Chưa dịch.
+Medakathalikā. Đệ tử của một “nghệ sĩ nhào lộn trên tre” (*Caṇḍālavaṁsika*) (Xem KS.v.148, n.3) từ xa xưa. Một ngày nọ, thầy của anh ta gọi anh ta lại và bảo anh ta trèo lên cây tre rồi đứng trên vai ông. Sau đó người thầy đề nghị rằng họ nên quan sát và trông chừng lẫn nhau trong các buổi biểu diễn của họ. Nhưng Medakathalikā nói rằng mỗi người nên tự trông chừng bản thân mình, điều đó sẽ là cách tốt hơn.
+
+Chú giải (SN­a.iii.182) nói thêm rằng, trong màn biểu diễn này, đầu của cây sào được tựa lên trán hoặc cổ họng. Người giữ sào bằng cách này phải canh giữ sự thăng bằng một cách cẩn thận và không cần chú ý đến người ở đầu kia của cây sào.
+
+Đức Phật đã kể lại câu chuyện này tại Desakā, trong quốc độ Sumbha, cho các tỳ-kheo nghe, và nói rằng, theo cùng một cách, mỗi vị tỳ-kheo nên tự trông chừng bản thân mình; bằng cách bảo vệ bản thân, người ta bảo vệ người khác; điều này được thực hiện bởi việc tu tập bốn niệm xứ (SN.v.168f).
+
+Cái tên Medakathalikā, mặc dù ở dạng biến cách nữ tính, lại được dùng cho nam giới (SN­a.iii.181).
 
 ## Notes

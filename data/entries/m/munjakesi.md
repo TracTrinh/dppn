@@ -5,7 +5,7 @@ base_headword: "Muñjakesī"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Muñjakesī. One of the two horses of King <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Muñjakesī. Một trong hai con ngựa của Vua Udena; nó có khả năng đi được một trăm dặm một ngày. Dhp­a.i.196.
 
 ## Notes

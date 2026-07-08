@@ -5,7 +5,7 @@ base_headword: "Muttā"
 disambiguator: "02"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -30,6 +30,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Muttā 02. Muttā Therī. Cô là con gái của Oghāṭaka, một Bà-la-môn nghèo ở Kosala, và được gả cho một Bà-la-môn gù lưng. Không muốn sống chung với ông ta, cô đã thuyết phục ông cho phép cô gia nhập Tăng đoàn, nơi cô sớm trở thành một *Arahant*.
+
+Vào thời của Padumuttara Buddha, cô đã thể hiện sự tôn kính to lớn đối với Đức Phật khi Ngài đến thăm thành phố của cô. Thīg.vs.11; Thīg­a.14f.
 
 ## Notes

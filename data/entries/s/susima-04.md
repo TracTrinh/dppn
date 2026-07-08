@@ -5,7 +5,7 @@ base_headword: "Susīma"
 disambiguator: "04"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Susīma 04. A *Devaputta*. Once, when <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Susīma 04. Một thiên tử (*Devaputta*). Có lần, khi Ānanda hết lời ca ngợi Sāriputta, Susīma đang có mặt ở đó, suy ngẫm về điều đó và xác nhận tất cả những gì Ānanda đã nói. Tùy tùng của Susīma say sưa lắng nghe, trở nên kỳ diệu, với muôn vàn sắc độ (“giống như một viên ngọc bích tuyệt đẹp có tám mặt, được mài nhẵn, khi đặt trên một tấm vải màu cam, sẽ tỏa sáng, rực rỡ và chói lọi, v.v.”) (SN.163f). Người ta nói rằng (SN­a.i.98) Susīma từng là bạn đồng tu của Sāriputta.
 
 ## Notes

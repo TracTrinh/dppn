@@ -5,7 +5,7 @@ base_headword: "Mukheluvana"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mukheluvana. A grove in <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mukheluvana. Một khu rừng ở Kajaṅgalā. Tại đây Đức Phật đã giảng Indriyabhāvanāsutta (MN.iii.298). Chú giải giải thích (MN­a.ii.1028) rằng khu rừng bao gồm toàn cây *mukhelu*.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Muṭṭhika"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -29,6 +29,6 @@ Muṭṭhika. A wrestler employed by <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Muṭṭhika. Một đô vật được Kaṁsa thuê để tiêu diệt những Andhakaveṇhudāsaputtā. Tuy nhiên, ông đã bị Baladeva giết và tái sinh làm một Yakkha trong Rừng Kāḷamattiya. Ở đó, sau này, ông đã ăn thịt Baladeva “như một củ cải.” Ja.iv.81f., 88.
 
 ## Notes

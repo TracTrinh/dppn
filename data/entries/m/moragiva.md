@@ -5,7 +5,7 @@ base_headword: "Moragīva"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -25,6 +25,6 @@ Moragīva. A palace occupied by <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Moragīva. Một cung điện do Asoka cư ngụ. Ras.i.93.
 
 ## Notes

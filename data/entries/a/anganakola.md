@@ -25,6 +25,6 @@ Aṅganakola. A village in South Ceylon, the residence of <span class="dppn-term
 
 ## Vietnamese translation
 
-Aṅganakola. Một làng ở Nam Ceylon, nơi cư trú của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ambapāsāṇavāsī Cittagutta</span>. Mhv­ṭ.552.
+Aṅganakola. Một làng ở Nam Ceylon, nơi cư trú của Ambapāsāṇavāsī Cittagutta. Mhv­ṭ.552.
 
 ## Notes

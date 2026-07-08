@@ -5,7 +5,7 @@ base_headword: "Suttaniddesa"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -27,6 +27,6 @@ Suttaniddesa. Also called *Kaccāyanasuttaniddesa*. A grammatical treatise, expl
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suttaniddesa. Còn được gọi là *Kaccāyanasuttaniddesa*. Một luận thuyết về ngữ pháp, giải thích các câu kinh (*Sutta* - cách ngôn) trong ngữ pháp của Kaccāyana. Nó thường được cho là của chính Kaccāyana, nhưng đôi khi Chapaṭa được nhắc đến là tác giả và người ta nói rằng ngài đã viết nó tại Arimaddana (Pagan) theo yêu cầu của học trò mình, Dhammacāri. Sās.74; Gv.64, 74; Svd.vs.1247f.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mukkhamattadīpanī"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -27,6 +27,6 @@ Mukkhamattadīpanī, also called <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mukkhamattadīpanī, cũng được gọi là Mukkhamattanyāsa. Một bản chú giải về Kaccāyanayoga của Vimalabuddhi, một tỳ-kheo của Tích Lan theo một số người, của Pagan theo những người khác. Có một bản phụ chú (*ṭīkā*) về tác phẩm này, cũng được cho là của Vimalabuddhi Thera. Gv.60, 10; Bode, 21.
 
 ## Notes

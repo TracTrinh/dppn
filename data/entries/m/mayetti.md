@@ -5,7 +5,7 @@ base_headword: "Māyetti"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Māyetti. A village in Ceylon in the time of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māyetti. Một ngôi làng ở Ceylon vào thời của Jeṭṭhatissa III. Cv.xliv.90.
 
 ## Notes

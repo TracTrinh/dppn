@@ -25,6 +25,6 @@ Aniccatāsutta 02. (or <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Aniccatāsutta 02. (hay <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Saññāsutta</span>). Nhận thức về vô thường, nếu được tu tập, sẽ tiêu diệt tham dục, tham ái tái sinh, vô minh và ngạo mạn. SN.iii.155-7.
+Aniccatāsutta 02. (hay Saññāsutta). Nhận thức về vô thường, nếu được tu tập, sẽ tiêu diệt tham dục, tham ái tái sinh, vô minh và ngạo mạn. SN.iii.155-7.
 
 ## Notes

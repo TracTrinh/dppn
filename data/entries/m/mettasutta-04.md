@@ -5,7 +5,7 @@ base_headword: "Mettāsutta"
 disambiguator: "04"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -24,6 +24,6 @@ Mettāsutta 04. Nine qualifications which, if they accompany the observance of t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mettāsutta 04. Chín điều kiện mà, nếu chúng đi kèm với việc tuân thủ các ngày chay giới, sẽ làm cho việc tuân thủ đó đơm hoa kết trái: tám giới (tránh xa sự sát sanh, v.v.), và tỏa sáng thế giới với những ý nghĩ từ bi. AN.iv.388f.
 
 ## Notes

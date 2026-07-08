@@ -5,7 +5,7 @@ base_headword: "Mettāsutta"
 disambiguator: "05"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -24,6 +24,6 @@ Mettāsutta 05. Eleven advantages which come from the development of goodwill to
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mettāsutta 05. Mười một lợi ích đến từ sự tu tập lòng từ đối với tất cả chúng sinh. AN.v.342.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Muṇayadha"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Muṇayadha. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Muṇayadha. Một thủ lĩnh người Damiḷa, đồng minh của Kulasekhara. Cv.lxxvi.146; lxxvii.40.
 
 ## Notes

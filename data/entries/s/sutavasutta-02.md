@@ -5,7 +5,7 @@ base_headword: "Sutavāsutta"
 disambiguator: "02"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/071.html"
@@ -24,6 +24,6 @@ Sutavāsutta 02. A learned monk should ponder carefully on the five groups of gr
 
 ## Vietnamese translation
 
-Chưa dịch.
+Sutavāsutta 02. Một tỳ-kheo đa văn nên cẩn trọng suy ngẫm về năm thủ uẩn (*upādānakkhandhā*). SN.iii.169.
 
 ## Notes

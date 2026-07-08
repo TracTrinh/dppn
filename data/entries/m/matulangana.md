@@ -5,7 +5,7 @@ base_headword: "Mātulaṅgaṇa"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Mātulaṅgaṇa. A village assigned by <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mātulaṅgaṇa. Một ngôi làng do Jeṭṭhatissa III cấp cho Mahā Nāgavihāra. Cv.xliv.97.
 
 ## Notes

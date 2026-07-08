@@ -5,7 +5,7 @@ base_headword: "Mucalinda"
 disambiguator: "04"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -29,6 +29,6 @@ Mucalinda 04. A lake in <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mucalinda 04. Một hồ nước ở Himavā, phía bắc của Nālicapabbata. Vessantara và gia đình ông đã đi ngang qua nó trên đường đến Vaṅkagiri, nằm gần đó (Ja.vi.518, 519, có một mô tả về nó tại Ja.vi.534 và một lần nữa tại 539). Dường như nó cũng được gọi là Sumucalinda (ví dụ, Ja.vi.582). Mucalinda là một trong những hồ nước lớn của Himavā. DN.i.164.
 
 ## Notes

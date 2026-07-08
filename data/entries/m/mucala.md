@@ -5,7 +5,7 @@ base_headword: "Mucala"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mucala. A legendary king, descendant of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mucala. Một vị vua huyền thoại, hậu duệ của Mahā Sammata (Mvu.ii.3; Dpv.iii.6). Ông là con trai của Upacaraka. Mhv­ṭ. 125; Mvu.i.348.
 
 ## Notes

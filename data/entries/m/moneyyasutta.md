@@ -5,7 +5,7 @@ base_headword: "Moneyyasutta"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -23,6 +23,6 @@ Moneyyasutta. On the three perfections of a saint (*moneyyāni*), perfection of 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Moneyyasutta. Về ba sự hoàn hảo của một vị thánh (*moneyyāni*), sự hoàn hảo của thân, khẩu và ý. AN.i.273.
 
 ## Notes

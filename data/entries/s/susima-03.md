@@ -5,7 +5,7 @@ base_headword: "Susīma"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -27,6 +27,6 @@ Susīma 03. A king of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Chưa dịch.
+Susīma 03. Một vị vua nước Benares. Xem Susīmajātaka (Ja 163). Ngài được đồng nhất với Ānanda. Ja.ii.50.
 
 ## Notes

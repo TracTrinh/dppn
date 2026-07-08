@@ -5,7 +5,7 @@ base_headword: "Migāramātā"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Migāramātā. A name of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Chưa dịch.
+Migāramātā. Một tên gọi của Visākhā. Xem Migāra (1).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Susīmasutta"
 disambiguator: "03"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Susīmasutta 03. Describes the visit of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Chưa dịch.
+Susīmasutta 03. Mô tả chuyến viếng thăm của du sĩ ngoại đạo (*Paribbājaka*) Susīma đến Đức Phật, và cuộc trò chuyện của họ. Xem Susīma (6). SN.ii.119ff.
 
 ## Notes

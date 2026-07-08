@@ -27,6 +27,6 @@ Akkhakhaṇḍa. A section of the <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Akkhakhaṇḍa. Một phần của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Vidhurajātaka</span> kể về các sự kiện dẫn đến việc nhà vua giao nộp <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Vidhura</span>, khi nhà vua thua cược với <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Puṇṇaka</span>. Ja.vi.286.
+Akkhakhaṇḍa. Một phần của Vidhurajātaka kể về các sự kiện dẫn đến việc nhà vua giao nộp Vidhura, khi nhà vua thua cược với Puṇṇaka. Ja.vi.286.
 
 ## Notes

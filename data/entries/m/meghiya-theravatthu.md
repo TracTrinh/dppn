@@ -5,7 +5,7 @@ base_headword: "Meghiya Theravatthu"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -24,6 +24,6 @@ Meghiya Theravatthu. The story of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Meghiya Theravatthu. Câu chuyện của Trưởng lão Meghiya (*q.v.*). Dhp­a.i.287ff.
 
 ## Notes

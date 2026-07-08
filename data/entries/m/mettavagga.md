@@ -5,7 +5,7 @@ base_headword: "Mettāvagga"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -26,6 +26,6 @@ Mettāvagga. The first chapter of the <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mettāvagga. Chương đầu tiên của Aṭṭhanipāta thuộc Aṅguttaranikāya. AN.iv.150-72.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Muṭasīva"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -48,6 +48,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="22" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Muṭasīva. Vị vua của Tích Lan, người đồng thời lớn tuổi hơn Asoka. Ông là con trai của Paṇḍukābhaya và Suvaṇṇapālī, và trị vì trong sáu mươi năm (307-247 TCN). Trong số các công trình của ông có việc xây dựng Mahā Meghavana. Ông có mười người con trai và hai người con gái, và được kế vị bởi người con trai thứ hai của ông, Devānampiyatissa (Mhv.xi.1ff.; xiii.2). Về tên của họ, xem Dpv.xi.5 và xvii.25f., cũng như Mhv­ṭ. 425: Abhaya, Tissa (Devānampiyatissa), Nāga (Mahā Nāga), Uttiya, Mattābhayā, Mitta, Sīva (Mahā Sīva), Asela, Tissa, (Sūratissa), Kīra, Anulā và Sīvalī.
+
+Dīpavaṁsa nói rằng năm thứ sáu trong triều đại của Asoka tương ứng với năm thứ bốn mươi tám của Muṭasīva (v. 82; nhưng xem xi.13). Muṭasīva lên ngôi vào năm thứ mười bốn trong triều đại của Candagutta và vẫn còn sống khi Kỳ kết tập thứ ba được tổ chức, khi Mahinda được giao nhiệm vụ truyền đạo ở Tích Lan; nhưng Mahinda đã đợi cho đến khi Muṭasīva qua đời trước khi thực hiện sứ mệnh của mình. Mhv.xi.12.
 
 ## Notes

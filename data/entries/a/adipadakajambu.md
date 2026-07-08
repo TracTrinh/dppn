@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Ādipādakajambu. Một địa phương ở Ceylon, nơi <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ādipāda Vikkamabāhu</span> đánh bại <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Māṇābharaṇa</span> và các anh em của ông ta. Cv.lxi.15.
+Ādipādakajambu. Một địa phương ở Ceylon, nơi Ādipāda Vikkamabāhu đánh bại Māṇābharaṇa và các anh em của ông ta. Cv.lxi.15.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Missā"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Missā. A name for <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Missā. Một tên gọi của Alambūsā (*q.v.*). Chú giải sư giải thích (Ja.v.153) rằng đây là một tên chung chỉ phụ nữ “*purise kilesamissanena missanato**missā ti vucanti*.”
 
 ## Notes

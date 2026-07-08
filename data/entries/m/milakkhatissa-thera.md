@@ -5,7 +5,7 @@ base_headword: "Milakkhatissa Thera"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -32,6 +32,8 @@ He is quoted as an example of one who strove hard to rid himself of sloth and to
 
 ## Vietnamese translation
 
-Chưa dịch.
+Milakkhatissa Thera. Ngài là một người thợ săn sống gần *vihāra* Gāmeṇḍavāla ở Rohaṇa. Một ngày nọ ngài bắt được một con vật, giết thịt và nấu chín, và sau đó cảm thấy vô cùng khát nước. Đi tìm nước, ngài đến *vihāra*. Tại đó ngài uống hết mười bình nước, nhưng cơn khát vẫn chưa được giải tỏa, và trong khi ngài đang phàn nàn cay đắng về việc không có nước, Cūḷa Piṇḍapātikatissa Thera đã nghe thấy và, nhìn xung quanh, thấy rất nhiều nước. Sau đó ngài biết rằng ác nghiệp (*kamma*) của người đàn ông này đang hiển hiện. Vị Trưởng lão đổ nước lên tay người đàn ông, nhưng tất cả đều khô cạn. Người đàn ông, nhận ra tội lỗi của mình, đã vô cùng hoảng sợ, đi thả tất cả những con vật bị giam cầm và phá hủy bẫy của mình. Sau đó ngài quay lại tu viện và xin được xuất gia. Yêu cầu của ngài được chấp thuận, và vị Trưởng lão đã truyền cho ngài một đề mục thiền. Một ngày nọ, khi đang học Devadūtasutta, Tissa muốn biết ngọn lửa địa ngục hung hãn như thế nào, và thầy của ngài đã cho ngài thấy một tia lửa có thể thiêu rụi toàn bộ một đống củi thành tro như thế nào. Điều này đã thúc đẩy Tissa nỗ lực tinh tấn hơn nữa, và ngài dành toàn bộ thời gian của mình để thiền định, đôi khi sống ở *vihāra* Cittalapabbata và đôi khi ở *vihāra* Gāmeṇḍavāla với một tấm chăn ướt quấn quanh đầu và ngâm chân trong nước. Rồi một ngày nọ, ngài nghe một sa-di tụng Aruṇavatīsutta và ngài trở thành một vị *Anāgāmī*, đắc quả vị *Arahant* trong thời gian sau đó (AN­a.i.21f.; SN­a.ii.199f).
+
+Ngài được trích dẫn như một tấm gương về một người đã nỗ lực hết mình để loại bỏ sự hôn trầm và thụy miên, ví dụ: AN­a.i.29; Snp­a.i.236.
 
 ## Notes

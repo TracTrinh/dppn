@@ -5,7 +5,7 @@ base_headword: "Mittavindajātaka"
 disambiguator: "02"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mittavindajātaka 02. (Ja 104). An additional fragment of the <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mittavindajātaka 02. (Ja 104). Một phần bổ sung của Catudvārajātaka. (Ja.i.413f).
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mātarisutta"
 disambiguator: "02"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -24,6 +24,6 @@ Mātarisutta 02. Six things – such as killing his mother, father, etc. – whi
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mātarisutta 02. Sáu điều – chẳng hạn như giết mẹ, giết cha, v.v. – mà một người có chánh kiến sẽ không bao giờ làm. AN.iii.439.
 
 ## Notes

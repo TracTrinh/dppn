@@ -27,6 +27,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Ānisutta. Giống như chiếc trống <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Ānaka</span> của người <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Dasārahas</span>, trong đó mặt trống đã mòn đi, chỉ còn lại bộ khung đinh, cũng vậy là số phận của những bài *Suttanta* thâm sâu ý nghĩa của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Tathāgata</span>. Chúng bị xao nhãng và quên lãng, trong khi người ta sẽ chú ý đến các *Suttanta* của các thi nhân và lời của các đệ tử, đầy ắp ngôn từ; những bài đó họ sẽ học thuộc và thông thạo thay vì giáo pháp của chính Đức Phật. SN.ii.266-7.
+Ānisutta. Giống như chiếc trống Ānaka của người Dasārahas, trong đó mặt trống đã mòn đi, chỉ còn lại bộ khung đinh, cũng vậy là số phận của những bài *Suttanta* thâm sâu ý nghĩa của Tathāgata. Chúng bị xao nhãng và quên lãng, trong khi người ta sẽ chú ý đến các *Suttanta* của các thi nhân và lời của các đệ tử, đầy ắp ngôn từ; những bài đó họ sẽ học thuộc và thông thạo thay vì giáo pháp của chính Đức Phật. SN.ii.266-7.
 
 ## Notes

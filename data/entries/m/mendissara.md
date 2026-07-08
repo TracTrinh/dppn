@@ -5,7 +5,7 @@ base_headword: "Meṇḍissara"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -35,6 +35,6 @@ Meṇḍissara. One of the chief disciples of <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Meṇḍissara. Một trong những đệ tử chính của Jotipāla (Sarabhaṅga). Vị này sống cùng nhiều đạo sĩ, tại quốc độ của Vua Pajaka, gần thị trấn Lambacūḷaka. Vị này đã giúp Sarabhaṅga thuyết phục Nārada về lỗi lầm trong lối sống của mình. Xem Indriyajātaka (Ja 423, Ja.iii.463ff.). Tuy nhiên, trong Sarabhaṅgajātaka (Ja 522, v. 133), Meṇḍissara được cho là sống trên bờ sông Sātodikā. Nhưng xem Sālissara. Meṇḍissara được đồng nhất với Mahā Kassapa. Ja.v.151; iii.469.
 
 ## Notes

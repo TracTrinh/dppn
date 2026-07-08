@@ -5,7 +5,7 @@ base_headword: "Migapotakajātaka"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -29,6 +29,8 @@ The story was told in reference to an old man of <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Chưa dịch.
+Migapotakajātaka (Ja 372). Một lần nọ, một vị ẩn sĩ ở Himavā đã nhận nuôi một con nai non mất mẹ. Con nai lớn lên vô cùng xinh đẹp nhưng đã chết vì ăn quá nhiều. Vị ẩn sĩ đã than khóc vô cùng cho đến khi Sakka (Bodhisatta) xuất hiện trước mặt ông và chỉ ra sự ngu ngốc trong nỗi buồn của ông.
+
+Câu chuyện được kể liên quan đến một ông lão ở Sāvatthī, người đã chăm sóc một chú sa-di rất tận tình. Chú sa-di qua đời và ông lão đã buông thả bản thân trong nỗi đau buồn. Các nhân vật trong cả hai câu chuyện đều giống hệt nhau. Ja.iii.213-15.
 
 ## Notes

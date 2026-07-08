@@ -5,7 +5,7 @@ base_headword: "Migāra"
 disambiguator: "02"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Migāra 02. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Migāra 02. Con trai của Visākhā và Puṇṇavaḍḍhana. Dhp­a.i.407; AN­a.i.313 nói rằng anh ấy là con trai cả của họ.
 
 ## Notes

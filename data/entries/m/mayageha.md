@@ -5,7 +5,7 @@ base_headword: "Māyāgeha"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -33,6 +33,6 @@ Māyāgeha. An officer of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Chưa dịch.
+Māyāgeha. Một vị quan của Parakkamabāhu I., được nhắc đến trong bản tường thuật về các chiến dịch của ngài. Ông đã chiến đấu chống lại Gokaṇṇa tại Nīlagala. Sau đó, ông phụ trách chiến dịch thành công ở Āḷisāra, và sau đó đóng quân tại Ambavana, nơi nhà vua giao phó cho ông kế hoạch tấn công Pulatthinagara. Để ghi nhận các công lao của ông, Parakkamabāhu đã phong cho ông tước hiệu *Adhikārī* (Cv.lxx. 83, 162, 170, 191, 278). Lần cuối cùng ông được nhắc đến (Cv.lxxii.10) là việc ông được bổ nhiệm trấn giữ bến cạn ở Samīrukkha và tại đó đã nghiền nát quân đội của Gajabāhu.
 
 ## Notes

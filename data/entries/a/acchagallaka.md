@@ -35,8 +35,8 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" da
 
 ## Vietnamese translation
 
-Acchagallaka (hay <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Acchagiri)</span>. Một *vihāra* do vua <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Sūratissa</span> xây ở phía đông <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Anurādhapura</span> và gần <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data-dppn-term-class="t14">Dahegallaka</span> (Mhv.xxi.60).
+Acchagallaka (hay Acchagiri). Một *vihāra* do vua Sūratissa xây ở phía đông Anurādhapura và gần Dahegallaka (Mhv.xxi.60).
 
-Theo <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-class="t14">Mahā Vaṁsa Ṭīka</span> (Mhv­ṭ.424), <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-class="t14">Devānampiyatissa</span> cũng đã xây một Acchavihāra ở phía nam thành phố, và để có thể phân biệt nơi này với nơi kia, công trình của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term-class="t14">Sūratissa</span> được gọi là <span class="dppn-term dppn-term-t14" data-dppn-term-pos="8" data-dppn-term-class="t14">Purimāyacchagallaka</span>. Chính tại đó, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="9" data-dppn-term-class="t14">Vaṭṭāgamaṇi Abhaya</span> đã tổ chức một lễ hội tôn vinh Đức Phật với sự trợ giúp của Trưởng lão <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term-class="t14">Mahā Tissa</span> ở <span class="dppn-term dppn-term-t14" data-dppn-term-pos="11" data-dppn-term-class="t14">Kuppikkala</span>. Mhv.xxxiii.678.
+Theo Mahā Vaṁsa Ṭīka (Mhv­ṭ.424), Devānampiyatissa cũng đã xây một Acchavihāra ở phía nam thành phố, và để có thể phân biệt nơi này với nơi kia, công trình của Sūratissa được gọi là Purimāyacchagallaka. Chính tại đó, Vaṭṭāgamaṇi Abhaya đã tổ chức một lễ hội tôn vinh Đức Phật với sự trợ giúp của Trưởng lão Mahā Tissa ở Kuppikkala. Mhv.xxxiii.678.
 
 ## Notes

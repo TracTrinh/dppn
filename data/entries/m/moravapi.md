@@ -5,7 +5,7 @@ base_headword: "Moravāpi"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -37,6 +37,10 @@ The place seems to have had some strategic importance (e.g., Cv.lxii.177, 201) a
 
 ## Vietnamese translation
 
-Chưa dịch.
+Moravāpi. Một hồ chứa ở Tích Lan, do Mahā Sena xây dựng và được Parakkamabāhu I sửa chữa (Mhv.xxxvii.47. Mhv­ṭ.680; Cv.lxviii.44). Khu vực xung quanh nó cũng được gọi bằng tên tương tự (Cv.lxix.8). Trong chiến dịch của Parakkamabāhu chống lại Gajabāhu, các viên chức phụ trách khu vực này là Nīlagallaka (Cv.lxx.67) và, sau đó, *Nagaragiri* Mahinda. Cv.lxx.200.
+
+Nơi này dường như có một số tầm quan trọng về mặt chiến lược (ví dụ, Cv.lxii.177, 201) và đã nằm ở phía nam của Anurādhapura và phía tây của *Kālavāpi* (Cv.Trs.i.336, n.4).
+
+Moravāpi là nơi cư ngụ của Trưởng lão Mahā Datta, người được gọi là *Moravāpivāsī*, ví dụ, Dhs-a.267, 284, 286.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Susīmajātaka"
 disambiguator: "01"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -36,6 +36,10 @@ The story was related in reference to an attempt on the part of the heretics to 
 
 ## Vietnamese translation
 
-Chưa dịch.
+Susīmajātaka 01. (Ja 163). Susīma là vua nước Benares, và Bodhisatta là con trai của vị giáo sĩ của ngài. Vị giáo sĩ này là chủ tế trong lễ hội voi của nhà vua, và nhờ đó, ông đã tích lũy được khối tài sản khổng lồ. Ông qua đời khi con trai ông mười sáu tuổi. Chẳng bao lâu sau, một lễ hội voi khác lại đến, và các Bà-la-môn khác đã được nhà vua đồng ý cho phụ trách các nghi lễ với lý do con trai của vị giáo sĩ còn quá trẻ. Khi lễ hội chỉ còn bốn ngày nữa là diễn ra, Bodhisatta thấy mẹ mình khóc. Bà giải thích rằng trong bảy thế hệ liên tiếp, gia đình họ đã quản lý lễ hội voi và bà cảm thấy rất buồn trước sự thay đổi này. Bodhisatta phát hiện ra rằng có một vị thầy là chuyên gia về voi sống ở Takkasilā, cách đó hai ngàn *do-tuần* (*yojana*). Chàng an ủi mẹ rồi đi đến Takkasilā, đến nơi chỉ trong một ngày. Tại đây, chàng đã trả khoản học phí một ngàn đồng cho vị thầy và giải thích sự khẩn cấp của chuyến đi. Chỉ trong một đêm, vị thầy đã truyền dạy cho chàng ba bộ kinh Veda và kiến thức về voi, và người đệ tử thậm chí còn vượt qua cả thầy về mặt kiến thức. Sáng hôm sau, chàng khởi hành sớm về Benares và đến nơi trong một ngày. Vào ngày lễ hội, Bodhisatta mặc trang phục chỉnh tề đến trước nhà vua, và phản đối việc tước đoạt quyền lợi của mình. Chàng thách thức bất cứ ai có thể chứng tỏ sự vượt trội hơn chàng về kiến thức loài voi, và không ai có thể làm được điều đó. Sau đó nhà vua đã chỉ định chàng tiến hành các nghi lễ.
+
+Câu chuyện này được kể lại liên quan đến một nỗ lực của các ngoại đạo nhằm ngăn cản người dân Sāvatthī dâng cúng cho Đức Phật. Tất cả người dân trong thành phố đã quyên góp để tổ chức một buổi bố thí, nhưng họ bị chia rẽ về mặt tín ngưỡng, một số muốn cúng dường Đức Phật, số khác lại ủng hộ các đạo sư ngoại đạo. Một cuộc bỏ phiếu đã được thông qua, và đa số được phát hiện là ủng hộ Đức Phật. Trong cả một tuần, việc bố thí được diễn ra một cách hào phóng, và vào cuối tuần, Đức Phật đã ban một lời chúc phúc.
+
+Ānanda được đồng nhất với Susīma, Sāriputta với vị thầy, Mahā Māyā với mẹ của Bodhisatta, và Suddhodana với cha chàng. Ja.ii.45-50.
 
 ## Notes

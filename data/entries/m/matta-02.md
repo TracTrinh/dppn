@@ -5,7 +5,7 @@ base_headword: "Matta"
 disambiguator: "02"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -26,6 +26,6 @@ Matta 02. A householder in the <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Matta 02. Một gia chủ ở làng Vihāravāpi gần núi Tulādhāra; ông là cha của Labhiya Vasabha. Mhv.xxiii.90.
 
 ## Notes

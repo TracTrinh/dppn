@@ -5,7 +5,7 @@ base_headword: "Migasammatā"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -27,6 +27,6 @@ Migasammatā. A river which rose in <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Migasammatā. Một con sông bắt nguồn ở Himavā và chảy vào sông Ganges. Trên bờ sông này là am thất của Sāma. Ja.vi.72, v.v.
 
 ## Notes

@@ -25,6 +25,6 @@ Añjalī. One of the nuns who accompanied <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Añjalī. Một trong những nữ tu sĩ đã tháp tùng <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Saṅghamittā</span> đến Ceylon. Dip.xviii.24.
+Añjalī. Một trong những nữ tu sĩ đã tháp tùng Saṅghamittā đến Ceylon. Dip.xviii.24.
 
 ## Notes

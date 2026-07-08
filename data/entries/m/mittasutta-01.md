@@ -5,7 +5,7 @@ base_headword: "Mittasutta"
 disambiguator: "01"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -23,6 +23,6 @@ Mittasutta 01. On what constitutes a good friend in various circumstances. SN.i.
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mittasutta 01. Về những gì cấu thành một người bạn tốt trong các hoàn cảnh khác nhau. SN.i.37.
 
 ## Notes

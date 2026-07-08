@@ -5,7 +5,7 @@ base_headword: "Muṇḍagaṅgā"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Muṇḍagaṅgā. A village in Ceylon, near <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Muṇḍagaṅgā. Một ngôi làng ở Tích Lan, gần *vihāra* Māliya-unna. Đây từng là nơi cư ngụ của Sāliya, trong kiếp trước của vị này với tư cách là một nghệ nhân. Mhv­ṭ. 605.
 
 ## Notes

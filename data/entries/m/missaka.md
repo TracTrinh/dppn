@@ -5,7 +5,7 @@ base_headword: "Missakā"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Missakā. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Missakā. Một hạng Chư thiên (*Devas*) hiện diện tại buổi thuyết giảng Mahā Samayasutta. DN.ii.260.
 
 ## Notes

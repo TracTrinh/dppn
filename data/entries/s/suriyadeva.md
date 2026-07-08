@@ -5,7 +5,7 @@ base_headword: "Suriyadeva"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Suriyadeva. The fourth son of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suriyadeva. Con trai thứ tư của Devagabbhā; một trong những Andhakaveṇhudāsaputtā. Ja.iv.8.
 
 ## Notes

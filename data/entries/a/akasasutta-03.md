@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Ākāsasutta 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Moggallāna</span> kể cho các vị tỳ-kheo về cách ông đạt được năng lực an trú trong cõi Không vô biên xứ (*ākāsānañcāyatana*). SN.iv.266.
+Ākāsasutta 03. Moggallāna kể cho các vị tỳ-kheo về cách ông đạt được năng lực an trú trong cõi Không vô biên xứ (*ākāsānañcāyatana*). SN.iv.266.
 
 ## Notes

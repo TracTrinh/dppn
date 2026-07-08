@@ -5,7 +5,7 @@ base_headword: "Mereliya"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -25,6 +25,6 @@ Mereliya. A district in Ceylon, where <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mereliya. Một quận ở Tích Lan, nơi Dāṭhāpabhuti, cha của Silākāla, đã sống một thời gian. Cv.xxxix.45.
 
 ## Notes

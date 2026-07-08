@@ -5,7 +5,7 @@ base_headword: "Meghavaṇṇābhaya"
 disambiguator: "01"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -25,6 +25,6 @@ Meghavaṇṇābhaya 01. Another name for King <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Meghavaṇṇābhaya 01. Một tên gọi khác của Vua Goṭhakābhaya (*q.v.*).
 
 ## Notes

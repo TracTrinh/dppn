@@ -5,7 +5,7 @@ base_headword: "Mātuvelaṅga"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Mātuvelaṅga. A locality near <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mātuvelaṅga. Một địa danh gần Sāmagalla, nơi Kupikkalamahātissa Thera đã sinh sống. Mhv.xxxiii.51.
 
 ## Notes

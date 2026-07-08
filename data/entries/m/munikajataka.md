@@ -5,7 +5,7 @@ base_headword: "Muṇikajātaka"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -31,6 +31,8 @@ The origin of the story is the same as that of the <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Chưa dịch.
+Muṇikajātaka (Ja 30). Bodhisatta từng là một con bò đực, tên là Mahā Lohita, trong gia đình của một người gia chủ, nơi em trai ngài là Cūḷa Lohita và ngài đã làm tất cả mọi công việc. Khi con gái của người chủ sắp kết hôn, một con lợn, tên là Muṇika, đã được mang đến và được vỗ béo bằng đủ mọi loại thức ăn ngon. Cūḷa Lohita đã phản đối với anh trai mình, nhưng người anh đã cảnh báo chú về số phận của Muṇika. Và không lâu sau đó Muṇika đã bị giết thịt.
+
+Nguồn gốc của câu chuyện cũng giống như nguồn gốc của Cūḷa Nāradakassapajātaka. Vị tỳ-kheo bị đam mê chi phối là Muṇika, và Ānanda là con bò đực nhỏ hơn. Ja.i.196ff.
 
 ## Notes

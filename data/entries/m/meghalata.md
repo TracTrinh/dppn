@@ -5,7 +5,7 @@ base_headword: "Meghalatā"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Meghalatā. Among the decorations of the Relic Chamber of the <span class="dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Meghalatā. Trong số các đồ trang trí của Phòng Chứa Xá-lợi của Mahā Thūpa, có đề cập đến “*Meghalatā vijjukumārī*,” điều này được giải thích trong Mahā Vaṁsaṭīkā (p. 549) là “*Meghalatā nāma vijjukumāriyo*.”
 
 ## Notes

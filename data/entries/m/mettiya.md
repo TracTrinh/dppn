@@ -5,7 +5,7 @@ base_headword: "Mettiyā"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -26,6 +26,6 @@ Mettiyā. A nun who, at the instigation of the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mettiyā. Một tỳ-kheo-ni, do sự xúi giục của nhóm Mettiyabhummajakā, đã buộc tội Dabba Mallaputta vì đã xâm phạm sự trinh tiết của mình. Cô đã bị trục xuất khỏi Tăng đoàn vì tội lỗi này.
 
 ## Notes

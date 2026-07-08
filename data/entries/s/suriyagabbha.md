@@ -5,7 +5,7 @@ base_headword: "Suriyagabbha"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Suriyagabbha. A mountain range on the way to <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suriyagabbha. Một dãy núi trên đường đến Gandhamādana. Snp­a.i.66.
 
 ## Notes

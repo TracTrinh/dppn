@@ -5,7 +5,7 @@ base_headword: "Suvaṇṇagāma"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Suvaṇṇagāma. A minister of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suvaṇṇagāma. Một vị quan của Kittisirirājasīha. Ông đã xây dựng một hội trường Bố-tát (*uposatha*) trong Sūkaravihāra. Cv.c.296.
 
 ## Notes

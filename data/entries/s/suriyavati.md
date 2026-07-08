@@ -5,7 +5,7 @@ base_headword: "Suriyavatī"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -26,6 +26,6 @@ Suriyavatī. A city in which, at the foot of a *campaka*-tree, <span class="dppn
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suriyavatī. Một thành phố nơi Sikhī Buddha thi triển Yamakapāṭihāriya dưới gốc cây *campaka*. Bv­a.202.
 
 ## Notes

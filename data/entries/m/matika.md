@@ -5,7 +5,7 @@ base_headword: "Mātikā"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mātikā. A portion of the <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mātikā. Một phần của Vinayapiṭaka trong cách sắp xếp theo *Dhammakkhandhas*. DN­a.i.24.
 
 ## Notes

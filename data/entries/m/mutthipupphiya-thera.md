@@ -5,7 +5,7 @@ base_headword: "Muṭṭhipupphiya Thera"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -28,6 +28,6 @@ Muṭṭhipupphiya Thera. An *Arahant*. In the time of <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Chưa dịch.
+Muṭṭhipupphiya Thera. Một *Arahant*. Vào thời của Padumuttara Buddha, ông là một người làm vòng hoa, tên là Sudassana, và đã dâng lên Đức Phật một nắm hoa nhài. Ba mươi sáu *kappa* trước, ông đã trở thành vua mười sáu lần dưới cái tên Devuttara (Ap.i.142). Ông hiển nhiên đồng nhất với Añjanavaniya. Thag­a.i.128.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Mittavindaka"
 disambiguator: "01"
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -25,6 +25,6 @@ Mittavindaka 01. A previous birth of <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mittavindaka 01. Một kiếp trước của Losakatissa. Về câu chuyện của người này, xem Losakajātaka (Ja 41).
 
 ## Notes

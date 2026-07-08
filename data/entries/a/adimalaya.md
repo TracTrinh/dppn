@@ -27,6 +27,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Ādimalaya. Một trong các tướng quân của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Vijayabāhu I</span>. Ông công khai nổi loạn chống lại nhà vua và cùng quân lính đến làng <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-class="t14">Andu</span>, gần <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data-dppn-term-class="t14">Pulatthipura</span>. Nhà vua ra quân chống lại ông và tiêu diệt ông. Cv.lix.4-6.
+Ādimalaya. Một trong các tướng quân của Vijayabāhu I. Ông công khai nổi loạn chống lại nhà vua và cùng quân lính đến làng Andu, gần Pulatthipura. Nhà vua ra quân chống lại ông và tiêu diệt ông. Cv.lix.4-6.
 
 ## Notes

@@ -5,7 +5,7 @@ base_headword: "Matta"
 disambiguator: "01"
 letter: "M"
 section: "Ma-Maha"
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/056.html"
@@ -25,6 +25,6 @@ Matta 01. One of the seven children of <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Chưa dịch.
+Matta 01. Một trong bảy người con của Paṇḍuvāsudeva và Bhaddakaccānā. Dpv.x.3.
 
 ## Notes

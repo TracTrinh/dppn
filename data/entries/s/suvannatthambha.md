@@ -5,7 +5,7 @@ base_headword: "Suvaṇṇatthambha"
 disambiguator: ""
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -25,6 +25,6 @@ Suvaṇṇatthambha. A ford considered dangerous on the <span class="dppn-term d
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suvaṇṇatthambha. Một khúc cạn được coi là nguy hiểm trên sông Mahā Vālukagaṅgā. Cv.xcvi.10.
 
 ## Notes

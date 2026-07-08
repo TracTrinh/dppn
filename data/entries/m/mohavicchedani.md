@@ -5,7 +5,7 @@ base_headword: "Mohavicchedanī"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/060.html"
@@ -26,6 +26,6 @@ Mohavicchedanī. An <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Chưa dịch.
+Mohavicchedanī. Một luận thư Abhidhamma của Trưởng lão Kassapa. Gv.60, 70; Svd. 1221; Sās. 69; PLC. 160, 179.
 
 ## Notes

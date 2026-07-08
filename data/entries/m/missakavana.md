@@ -5,7 +5,7 @@ base_headword: "Missakavana"
 disambiguator: ""
 letter: "M"
 section: "Mahi-Mo."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/059.html"
@@ -26,6 +26,6 @@ Missakavana. A park in Tāvatiṁsa (Ja.vi.278; Divy.194,195; Mvu.ii.451). It is
 
 ## Vietnamese translation
 
-Chưa dịch.
+Missakavana. Một công viên ở Tāvatiṁsa (Ja.vi.278; Divy.194,195; Mvu.ii.451). Nó thường được nhắc đến cùng với Nandana, Phārusaka và Cittalatāvana, ví dụ: Vin-a.i.164; Vibh-a.439; Vsm.425.
 
 ## Notes

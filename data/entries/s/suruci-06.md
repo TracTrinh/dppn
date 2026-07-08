@@ -5,7 +5,7 @@ base_headword: "Suruci"
 disambiguator: "06"
 letter: "S"
 section: "Su-So."
-status: "untranslated"
+status: "draft"
 redirect_to: 
 source:
   epub_file: "Ops/072.html"
@@ -24,6 +24,6 @@ Suruci 06. A *tāpasa*. See <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Chưa dịch.
+Suruci 06. Một đạo sĩ (*tāpasa*). Xem Sarada.
 
 ## Notes

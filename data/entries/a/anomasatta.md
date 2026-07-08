@@ -24,6 +24,6 @@ Anomasatta. An epithet of the <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Anomasatta. Một biệt danh của <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-term-class="t14">Buddha</span>. Ud­a.304; Khp­a.170.
+Anomasatta. Một biệt danh của Buddha. Ud­a.304; Khp­a.170.
 
 ## Notes
