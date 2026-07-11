@@ -29,6 +29,6 @@ Vimala 03.<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Vimala 03. Trưởng lão Vimala. Ông sinh ra trong một gia đình Bà-la-môn ở Benares và gia nhập Tăng đoàn dưới sự chỉ dạy của Trưởng lão Somamitta, người đã khuyến khích ông đạt được quả vị *Arahant*. Tuy nhiên, trong câu chuyện về Somamitta, Vimala được nói là thầy của ngài. Để biết chi tiết, xem Somamitta. Vào thời của Đức Phật Padumuttara ông là một gia chủ, và khi thi hài của Đức Phật đang được đưa đến giàn thiêu để hỏa táng, giữa những buổi lễ kỷ niệm đầy ấn tượng, ông đã dâng cúng những bông hoa *sumana* để tôn kính ngài. Thag­a.i.377; ba bài kệ được cho là của ông xuất hiện trong Thag.vs.264-6.
+Vimala 03. Trưởng lão Vimala. Ông sinh ra trong một gia đình Bà-la-môn ở Benares và gia nhập Tăng đoàn dưới sự chỉ dạy của Trưởng lão Somamitta, người đã khuyến khích ông đạt được quả vị *Arahant*. Tuy nhiên, trong câu chuyện về Somamitta, Vimala được nói là thầy của ngài. Để biết chi tiết, xem Somamitta. Vào thời của Đức Phật Padumuttara ông là một gia chủ, và khi thi hài của Đức Phật đang được đưa đến giàn thiêu để hỏa táng, giữa những nghi lễ trọng thể, ông đã dâng cúng những bông hoa *sumana* để tôn kính ngài. Thag­a.i.377; ba bài kệ được cho là của ông xuất hiện trong Thag.vs.264-6.
 
 ## Notes

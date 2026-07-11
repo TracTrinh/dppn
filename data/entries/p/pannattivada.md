@@ -61,6 +61,6 @@ Giáo lý chính của họ là
 - không có tác nhân con người, và
 - mọi đau khổ đều bắt nguồn từ nghiệp (Rockhill, 189).
 
-Paññattisutta. Về bốn loại chúng sinh và những vị thủ lĩnh của họ: đối với những chúng sinh có thân xác, Rāhu là thủ lĩnh; đối với những chúng sinh đắm chìm trong dục lạc, Mandhātā là thủ lĩnh; đối với những chúng sinh có quyền lực cai trị, Māra là thủ lĩnh; nhưng Tathāgata là thủ lĩnh của toàn bộ thế giới Deva, *Māra*, v.v. AN.ii.17.
+Paññattisutta. Về bốn loại chúng sinh và những vị thủ lĩnh của họ: đối với những chúng sinh có thân xác, Rāhu là thủ lĩnh; đối với những chúng sinh đắm chìm trong dục lạc, Mandhātā là thủ lĩnh; đối với những chúng sinh có quyền lực cai trị, Māra là thủ lĩnh; nhưng Tathāgata là thủ lĩnh của toàn bộ thế giới chư thiên, *Māra*, v.v. AN.ii.17.
 
 ## Notes

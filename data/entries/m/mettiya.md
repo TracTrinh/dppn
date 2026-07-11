@@ -26,6 +26,6 @@ Mettiyā. A nun who, at the instigation of the <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Mettiyā. Một tỳ-kheo-ni, do sự xúi giục của nhóm Mettiyabhummajakā, đã buộc tội Dabba Mallaputta vì đã xâm phạm sự trinh tiết của mình. Cô đã bị trục xuất khỏi Tăng đoàn vì tội lỗi này.
+Mettiyā. Một tỳ-kheo-ni, do sự xúi giục của nhóm Mettiyabhummajakā, đã buộc tội Dabba Mallaputta vì đã xâm phạm sự trinh tiết của mình. Vị này đã bị trục xuất khỏi Tăng đoàn vì vi phạm này.
 
 ## Notes

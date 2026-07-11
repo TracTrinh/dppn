@@ -25,6 +25,6 @@ Upaṭṭhānasutta 01. The Buddha asks <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Upaṭṭhānasutta 01. Đức Phật hỏi Ānanda liệu ngài ấy có coi rằng mọi loại thực hành đạo đức đều tạo ra những kết quả giống nhau. Ānanda nói là không, và tiếp tục giải thích quan điểm của mình. Đức Phật đồng ý với ngài ấy, và khi Ānanda đi khỏi, Ngài nói với các tỳ-kheo rằng mặc dù Ānanda vẫn còn là một bậc hữu học (*sekha*), nhưng sẽ không dễ để tìm thấy người ngang hàng với ngài ấy về tuệ quán. AN.i.225.
+Upaṭṭhānasutta 01. Đức Phật hỏi Ānanda liệu ngài ấy có cho rằng mọi loại thực hành đạo đức đều tạo ra những kết quả giống nhau hay không. Ānanda nói là không, và tiếp tục giải thích quan điểm của mình. Đức Phật đồng ý với ngài ấy, và khi Ānanda đi khỏi, Ngài nói với các tỳ-kheo rằng mặc dù Ānanda vẫn còn là một bậc hữu học (*sekha*), nhưng sẽ không dễ để tìm thấy người ngang hàng với ngài ấy về tuệ quán. AN.i.225.
 
 ## Notes

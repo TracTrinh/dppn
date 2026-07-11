@@ -26,6 +26,6 @@ Vikkamabāhu 04. Younger brother of King <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Vikkamabāhu 04. Em trai của Vua Kittinissaṅka. Ông trở thành vua sau khi Vīrabāhu I. qua đời, nhưng chỉ trị vì được ba tháng (vào năm 1196 CE.), sau đó ông bị Coḍagaṅga sát hại. Cv.lxxx.28.
+Vikkamabāhu 04. Em trai của Vua Kittinissaṅka. Ông trở thành vua sau khi Vīrabāhu I. qua đời, nhưng chỉ trị vì được ba tháng (vào năm 1196 CN.), sau đó ông bị Coḍagaṅga sát hại. Cv.lxxx.28.
 
 ## Notes

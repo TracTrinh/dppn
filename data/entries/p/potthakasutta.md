@@ -23,6 +23,6 @@ Potthakasutta. Quite new fibre cloth is of an ill colour, painful to handle and 
 
 ## Vietnamese translation
 
-Potthakasutta. Một tấm vải gai hoàn toàn mới thì có màu sắc xấu xí, sần sùi khi chạm vào và có giá trị thấp; tương tự như vậy đối với một tấm vải đã cũ vừa và một tấm vải đã rách nát. Người ta dùng tấm vải gai rách nát để lau xoong nồi hoặc họ vứt nó đi. Tương tự như vậy đối với một sa-di, một tỳ-kheo tầm trung, hoặc một tỳ-kheo thâm niên, nếu bất kỳ ai trong số họ là người vô luân, có “màu sắc xấu xí”. Những người theo họ phải chịu đựng vì họ; do đó, họ sần sùi khi chạm vào, và vì những món quà dâng cho họ không mang lại điều tốt lành nào nên họ có giá trị thấp. AN.i.246 f.
+Potthakasutta. Một tấm vải gai hoàn toàn mới thì có màu sắc xấu xí, gây đau khi chạm vào và có giá trị thấp; tương tự như vậy đối với một tấm vải đã cũ vừa và một tấm vải đã rách nát. Người ta dùng tấm vải gai rách nát để lau xoong nồi hoặc họ vứt nó đi. Tương tự như vậy đối với một sa-di, một tỳ-kheo tầm trung, hoặc một tỳ-kheo thâm niên, nếu bất kỳ ai trong số họ là người vô luân, có “màu sắc xấu xí”. Những người theo họ phải chịu khổ vì họ; do đó, tiếp xúc với họ gây đau khổ, và vì những món quà dâng cho họ không mang lại điều tốt lành nào nên họ có giá trị thấp. AN.i.246 f.
 
 ## Notes

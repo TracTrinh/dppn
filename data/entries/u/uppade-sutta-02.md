@@ -25,6 +25,6 @@ Uppāde Sutta 02. The five controlling faculties (*indriyāni*) of *saddhā*, *s
 
 ## Vietnamese translation
 
-Uppāde Sutta 02. Năm căn (*indriya*) của *saddhā* (tín), *sati* (niệm), v.v., chỉ khởi lên khi có sự xuất hiện của một vị Tathāgata. SN.v.235.
+Uppāde Sutta 02. Năm căn (*indriya*) của *saddhā*, *sati*, v.v., chỉ khởi lên khi có sự xuất hiện của một vị Tathāgata. SN.v.235.
 
 ## Notes

@@ -25,6 +25,6 @@ Uparimaṇḍalakamalaya. A *vihāra* (?) in Ceylon, the residence of <span clas
 
 ## Vietnamese translation
 
-Uparimaṇḍalakamalaya. Một *vihāra* (?) ở Ceylon, nơi cư ngụ của Trưởng lão Mahā Saṅgharakkhita. Ja.iv.490.
+Uparimaṇḍalakamalaya. Một *vihāra* (?) ở Tích Lan, nơi cư ngụ của Trưởng lão Mahā Saṅgharakkhita. Ja.iv.490.
 
 ## Notes

@@ -24,6 +24,6 @@ Uposathavagga. The fifth chapter of the *Aṭṭhakanipāta* of the <span class=
 
 ## Vietnamese translation
 
-Uposathavagga. Chương thứ năm của *Aṭṭhakanipāta* thuộc Aṅguttaranikāya, bao gồm các *Sutta* về *Uposatha*, trong số những thứ khác. AN.iv.248-73.
+Uposathavagga. Chương thứ năm của *Aṭṭhakanipāta* thuộc Aṅguttaranikāya, bao gồm các *Sutta* về *Uposatha* cùng những vấn đề khác. AN.iv.248-73.
 
 ## Notes

@@ -27,6 +27,6 @@ Kiṁsukapupphiya Thera. An *Arahant*. Thirty-one *kappas* ago he had offered a 
 
 ## Vietnamese translation
 
-Kiṁsukapupphiya Thera. Một vị *Arahant*. Ba mươi mốt *kappa* trước, ngài đã dâng một bông hoa *kiṁsuka* cho Đức Phật (Ap.ii.435). Trong Chú giải Theragāthā, các bài kệ của ngài được gán cho hai vị Thera khác nhau: Jambugāmiya (Thag­a.i.86f) và Somamitta (Thag­a.i.268).
+Kiṁsukapupphiya Thera. Một vị *Arahant*. Ba mươi mốt *kappa* trước, ngài đã dâng một bông hoa *kiṁsuka* cho Đức Phật (Ap.ii.435). Trong Chú giải Theragāthā, các bài kệ của ngài được gán cho hai vị Trưởng lão khác nhau: Jambugāmiya (Thag­a.i.86f) và Somamitta (Thag­a.i.268).
 
 ## Notes

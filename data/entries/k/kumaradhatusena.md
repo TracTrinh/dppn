@@ -29,6 +29,6 @@ Kumāradhātusena (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Con trai của Moggallāna I, và là vua của Tích Lan (513-522 TL.). Con trai của ông là Kittisena (Cv.xli.1f). Truyền thuyết kể về tình bạn của ông với một nhà thơ Kālidāsa. Quyền tác giả của Jānakīharaṇa thường được cho là của ông (Cv.Trs.i.51, n.1).
+Con trai của Moggallāna I, và là vua của Tích Lan (513-522 CN.). Con trai của ông là Kittisena (Cv.xli.1f). Truyền thuyết kể về tình bạn của ông với một nhà thơ Kālidāsa. Quyền tác giả của Jānakīharaṇa thường được cho là của ông (Cv.Trs.i.51, n.1).
 
 ## Notes

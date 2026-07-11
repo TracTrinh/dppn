@@ -28,6 +28,6 @@ Pipphalīmāṇava, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Pipphalīmāṇava, Pipphalīkumāra, Pipphalībrāhmaṇa. Tên của Mahā Kassapa trước kia. Dạng đúng có lẽ là Pippalimāṇava.
+Pipphalīmāṇava, Pipphalīkumāra, Pipphalībrāhmaṇa. Tên của Mahā Kassapa trong một tiền kiếp. Dạng đúng có lẽ là Pippalimāṇava.
 
 ## Notes

@@ -25,6 +25,6 @@ Muddhaphālanapañha. The name given to the questions formulated by <span class=
 
 ## Vietnamese translation
 
-Muddhaphālanapañha. Tên gọi được đặt cho những câu hỏi do Bāvarī (*q.v.*) soạn ra và giao cho các đệ tử của mình để hỏi Đức Phật. Những câu hỏi này được đặt tên như vậy rõ ràng là vì chúng được khơi gợi bởi lời nguyền rủa giáng xuống Bāvarī bởi vị Bà-la-môn, mà yêu cầu xin tiền của vị này đã bị ông từ chối. AN­a, i.183.
+Muddhaphālanapañha. Tên gọi được đặt cho những câu hỏi do Bāvarī (*q.v.*) soạn ra và giao cho các đệ tử của mình để hỏi Đức Phật. Những câu hỏi này được đặt tên như vậy rõ ràng là vì chúng được khơi gợi bởi lời nguyền rủa mà vị Bà-la-môn đã giáng xuống Bāvarī, sau khi Bāvarī phải từ chối lời xin tiền của ông ta. AN­a, i.183.
 
 ## Notes

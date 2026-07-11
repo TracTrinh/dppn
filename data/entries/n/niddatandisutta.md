@@ -24,6 +24,6 @@ Niddātandisutta. Preached in answer to the question of a *Deva*: sloth, drowsin
 
 ## Vietnamese translation
 
-Được thuyết để trả lời cho câu hỏi của một thiên nhân (*Deva*): sự lười biếng, buồn ngủ và sự ăn quá no ngăn cản sự thấu hiểu về Bát Thánh đạo (*Noble Eightfold Path*). SN.i.7.
+Được thuyết để trả lời cho câu hỏi của một thiên nhân (*Deva*): sự lười biếng, buồn ngủ và sự ăn quá no ngăn cản sự thấu hiểu về Bát Thánh đạo. SN.i.7.
 
 ## Notes

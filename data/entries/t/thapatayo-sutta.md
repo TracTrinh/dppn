@@ -26,6 +26,6 @@ Thapatayo Sutta. The royal chamberlains, <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Thapatayo Sutta. Các quan thị vệ trong hoàng gia, Isidatta và Purāṇa, khi đang ở Sādhuka, nghe tin Đức Phật đang ở trong làng và, trong lúc chờ Ngài, đã đi theo Ngài cho đến khi Ngài ngồi xuống dưới một gốc cây. Họ bày tỏ với Ngài niềm vui mừng của họ khi Ngài lưu lại gần họ. Họ tự hào thưa với Ngài rằng bất chấp những cám dỗ đặt ra trên con đường thực thi nhiệm vụ của mình, họ hoàn toàn không có những suy nghĩ ái dục. Đức Phật bảo họ rằng họ đã sở hữu bốn phẩm chất của các bậc *Sotāpannas* (Tu-đà-hoàn) và do đó, họ nên biết ơn về phước lành của mình. SN.v.348ff.
+Thapatayo Sutta. Các quan thị vệ trong hoàng gia, Isidatta và Purāṇa, khi đang ở Sādhuka, nghe tin Đức Phật đang ở trong làng và, trong lúc chờ Ngài, đã đi theo Ngài cho đến khi Ngài ngồi xuống dưới một gốc cây. Họ bày tỏ với Ngài niềm vui mừng của họ khi Ngài lưu lại gần họ. Họ tự hào thưa với Ngài rằng bất chấp những cám dỗ đặt ra trên con đường thực thi nhiệm vụ của mình, họ hoàn toàn không có những suy nghĩ ái dục. Đức Phật bảo họ rằng họ đã sở hữu bốn phẩm chất của các bậc *Sotāpanna* (bậc Dự lưu) và do đó, họ nên biết ơn về phước lành của mình. SN.v.348ff.
 
 ## Notes

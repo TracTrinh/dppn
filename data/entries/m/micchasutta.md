@@ -24,6 +24,6 @@ Micchāsutta. Wrong views arise because of clinging to body, feelings, etc., bec
 
 ## Vietnamese translation
 
-Micchāsutta. Những tà kiến phát sinh là do sự chấp thủ vào sắc, thọ, v.v., bởi vì chúng là vô thường. SN.iii.184.
+Micchāsutta. Những tà kiến phát sinh là do sự chấp thủ vào thân, các cảm thọ, v.v., bởi vì chúng là vô thường. SN.iii.184.
 
 ## Notes

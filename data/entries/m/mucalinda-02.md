@@ -32,7 +32,7 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-
 
 ## Vietnamese translation
 
-Mucalinda 02. Một cái cây gần Ajapālanigrodha ở Uruvelā. Đức Phật đã trải qua tuần thứ ba tại đó sau sự Giác Ngộ (Awakening). Khi đó có một trận mưa lớn, và vị vua Nāga, Mucalinda, của cái cây đó, đã che chở cho Đức Phật bằng cách quấn thân mình bảy vòng quanh cơ thể Đức Phật và che phần mào của mình trên đầu ngài (Vin.i.3; Ja.i.80; Bv­a.8, 241; Ud.ii.1; Mtn.iii.300, 302; Dhs-a.35).
+Mucalinda 02. Một cái cây gần Ajapālanigrodha ở Uruvelā. Đức Phật đã trải qua tuần thứ ba tại đó sau khi Giác ngộ. Khi đó có một trận mưa lớn, và vị vua Nāga, Mucalinda, của cái cây đó, đã che chở cho Đức Phật bằng cách quấn thân mình bảy vòng quanh cơ thể Đức Phật và xòe mang che trên đầu ngài (Vin.i.3; Ja.i.80; Bv­a.8, 241; Ud.ii.1; Mtn.iii.300, 302; Dhs-a.35).
 
 Chú giải của Udāna (100f.; xem thêm MN­a.i.385) nói thêm rằng khoảng trống được tạo ra bởi những vòng quấn của Nāga lớn bằng diện tích sàn của Lohapāsāda và rằng vua Nāga sống trong một cái ao gần cái cây đó.
 

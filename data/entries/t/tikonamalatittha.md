@@ -24,6 +24,6 @@ Tikoṇamālatittha. The Pāli name for Trincomali in Ceylon. Cv.c.76.
 
 ## Vietnamese translation
 
-Tikoṇamālatittha. Tên tiếng Pāli của Trincomali ở Ceylon. Cv.c.76.
+Tikoṇamālatittha. Tên tiếng Pāli của Trincomali ở Tích Lan. Cv.c.76.
 
 ## Notes

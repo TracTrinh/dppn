@@ -23,6 +23,6 @@ Piyasutta 01. A monk who is virtuous, learned, lovely in speech, who cultivates 
 
 ## Vietnamese translation
 
-Piyasutta 01. Một vị tỳ-kheo có giới đức, có sự học hỏi, nói năng nhu hòa, người trau dồi bốn thiền (*jhāna*) và sở hữu sự giải thoát trong tâm và nhờ tuệ quán - một vị tỳ-kheo như vậy là người ngoan đạo và đáng mến trong phạm hạnh (*brahmacariyā*). AN.iii.262.
+Piyasutta 01. Một vị tỳ-kheo có giới đức, có sự học hỏi, nói năng nhu hòa, người trau dồi bốn thiền (*jhāna*) và sở hữu sự giải thoát trong tâm và nhờ tuệ quán - một vị tỳ-kheo như vậy là người đáng kính và đáng mến trong phạm hạnh (*brahmacariyā*). AN.iii.262.
 
 ## Notes

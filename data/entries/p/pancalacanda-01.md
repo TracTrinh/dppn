@@ -29,6 +29,6 @@ Pañcālacaṇḍa 01. <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Pañcālacaṇḍa 01. Pañcālacaṇḍa. Một vị *Devaputta* (thiên tử) đã đến thăm Đức Phật tại Jetavana và thốt lên một bài kệ với ý nghĩa rằng người hiểu được *jhāna* sẽ tìm thấy chỗ trống ngay cả giữa vô số chướng ngại. Đức Phật sửa lời vị ấy, nói rằng những ai chánh niệm và tự chủ sẽ biết đường đến *Nibbāna* (SN.i.48). Cuộc thảo luận này tạo thành cơ sở cho bài kinh Pañcālasutta (ở trên). Có lẽ chính vị *Deva* này được nhắc đến như một *Mahā* Yakkha trong kinh Āṭānāṭiyasutta, người mà các đệ tử của Đức Phật nên thỉnh cầu trong lúc cần thiết (DN.iii.205).
+Pañcālacaṇḍa 01. Pañcālacaṇḍa. Một vị *Devaputta* (thiên tử) đã đến thăm Đức Phật tại Jetavana và thốt lên một bài kệ với ý nghĩa rằng người hiểu được *jhāna* sẽ tìm thấy chỗ trống ngay cả giữa vô số chướng ngại. Đức Phật sửa lời vị ấy, nói rằng những ai chánh niệm và tự chủ sẽ biết đường đến *Nibbāna* (SN.i.48). Cuộc thảo luận này tạo thành cơ sở cho bài kinh Pañcālasutta (ở trên). Có lẽ chính thiên nhân này được nhắc đến như một *Mahā* Yakkha trong kinh Āṭānāṭiyasutta, người mà các đệ tử của Đức Phật nên thỉnh cầu trong lúc cần thiết (DN.iii.205).
 
 ## Notes

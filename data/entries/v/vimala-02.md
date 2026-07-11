@@ -33,7 +33,7 @@ He belonged to a family of conch blowers in the time of <span class="dppn-term d
 
 ## Vietnamese translation
 
-Vimala 02. Trưởng lão Vimala. Ông thuộc một gia đình giàu có ở Rājagaha và nhận được tên này vì ông sinh ra đã sạch sẽ không có mọi vết bẩn. Vô cùng ấn tượng bởi sự uy nghi của Đức Phật khi ngài đến thăm Rājagaha, Vimala đã gia nhập Tăng đoàn, và sống trong một hang núi ở Kosala. Một ngày nọ, một đám mây khổng lồ che phủ bầu trời; mưa rơi xuống, làm dịu đi cái nóng và sự khó chịu, và Vimala, tập trung tâm trí, đã đạt được quả vị *Arahant*.
+Vimala 02. Trưởng lão Vimala. Ông thuộc một gia đình giàu có ở Rājagaha và nhận được tên này vì ông sinh ra không chút vết nhơ. Vô cùng ấn tượng bởi sự uy nghi của Đức Phật khi ngài đến thăm Rājagaha, Vimala đã gia nhập Tăng đoàn, và sống trong một hang núi ở Kosala. Một ngày nọ, một đám mây khổng lồ che phủ bầu trời; mưa rơi xuống, làm dịu đi cái nóng và sự khó chịu, và Vimala, tập trung tâm trí, đã đạt được quả vị *Arahant*.
 
 Ông thuộc một gia đình thổi ốc tù và vào thời Đức Phật Vipassī, và một ngày nọ đã tôn kính Đức Phật bằng cách thổi chiếc vỏ ốc của mình. Ông đã tắm Cây Bodhi của Đức Phật Kassapa bằng nước thơm và giặt giũ chỗ ngồi cũng như y phục của các vị thánh tăng. Cách đây hai mươi bốn *kappa* ông từng sáu lần làm vua, dưới tên gọi Mahā Nigghosa. Thag­a.i.121f; bài kệ Udāna của ông được bao gồm trong Thag.vs.50.
 

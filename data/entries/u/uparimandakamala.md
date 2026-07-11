@@ -25,6 +25,6 @@ Uparimaṇḍakamāla. A *vihāra* (?) in Ceylon, the residence of <span class="
 
 ## Vietnamese translation
 
-Uparimaṇḍakamāla. Một *vihāra* (?) ở Ceylon, nơi cư ngụ của Trưởng lão Mahā Rakkhita (*q.v.*). Ja.vi.30.
+Uparimaṇḍakamāla. Một *vihāra* (?) ở Tích Lan, nơi cư ngụ của Trưởng lão Mahā Rakkhita (*q.v.*). Ja.vi.30.
 
 ## Notes

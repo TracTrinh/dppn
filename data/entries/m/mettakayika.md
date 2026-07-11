@@ -26,6 +26,6 @@ Mettākāyikā. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Mettākāyikā. Một hội chúng Devas có mặt tại buổi giảng Mahā Samayasutta. DN.ii.259.
+Mettākāyikā. Một hội chúng chư thiên có mặt tại buổi giảng Mahā Samayasutta. DN.ii.259.
 
 ## Notes

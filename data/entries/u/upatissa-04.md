@@ -31,6 +31,6 @@ Upatissa 04. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Upatissa 04. Upatissa II. Vua của Ceylon. Ông là chồng của em gái Moggallāna I. và là tướng quân của ông ta. Ông đã giết Sīva I, và trở thành vua, triều đại của ông chỉ kéo dài một năm rưỡi (A.C. 522-24). Ông có một người con trai tên là Kassapa, được gọi là Giri Kassapa nhờ vào lòng dũng cảm của vị này, và một cô con gái người đã kết hôn với Silākāla. Silākāla trở thành một kẻ nổi loạn và chiếm đoạt vương quốc của Upatissa (để xem ghi chép về Upatissa hãy xem Cv.xli.5f). Upatissa thuộc về gia tộc Lambakaṇṇa, và trong văn bản Sinhalese được gọi là *Lāmāni-upatissa* (Cv.Trs.i.52, n.1).
+Upatissa 04. Upatissa II. Vua của Tích Lan. Ông là chồng của em gái Moggallāna I. và là tướng quân của ông ta. Ông đã giết Sīva I, và trở thành vua, triều đại của ông chỉ kéo dài một năm rưỡi (CN 522-24). Ông có một người con trai tên là Kassapa, được gọi là Giri Kassapa nhờ vào lòng dũng cảm của vị này, và một cô con gái người đã kết hôn với Silākāla. Silākāla trở thành một kẻ nổi loạn và chiếm đoạt vương quốc của Upatissa (để xem ghi chép về Upatissa hãy xem Cv.xli.5f). Upatissa thuộc về gia tộc Lambakaṇṇa, và trong văn bản Sinhalese được gọi là *Lāmāni-upatissa* (Cv.Trs.i.52, n.1).
 
 ## Notes

@@ -29,6 +29,6 @@ Pañcasīlasamādāniya Thera. An *Arahant*. He belonged to a family of *Mahā S
 
 ## Vietnamese translation
 
-Pañcasīlasamādāniya Thera. Một vị *Arahant*. Ngài thuộc một gia đình Bà-la-môn *Mahā Sāla* ở Vesālī và trở thành một vị *Arahant* khi lên năm tuổi. Người ta nói rằng ngài đã nghe cha mẹ mình thọ năm giới, và nhớ lại những hành động của chính mình trong một kiếp quá khứ, vào thời Anomadassī Buddha, ngài là một người chèo đò trên sông Candavatī và đã thọ năm giới từ đệ tử của Đức Phật là Nisabha, và giữ giới trong một trăm ngàn năm. Ba mươi lần ngài làm vua của các vị Deva và năm trăm lần làm vua của loài người. Ap.i.76f.
+Pañcasīlasamādāniya Thera. Một vị *Arahant*. Ngài thuộc một gia đình Bà-la-môn *Mahā Sāla* ở Vesālī và trở thành một vị *Arahant* khi lên năm tuổi. Người ta nói rằng ngài đã nghe cha mẹ mình thọ năm giới, và nhớ lại những hành động của chính mình trong một kiếp quá khứ, vào thời Anomadassī Buddha, ngài là một người chèo đò trên sông Candavatī và đã thọ năm giới từ đệ tử của Đức Phật là Nisabha, và giữ giới trong một trăm ngàn năm. Ba mươi lần ngài làm vua của chư thiên và năm trăm lần làm vua của loài người. Ap.i.76f.
 
 ## Notes

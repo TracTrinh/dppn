@@ -31,7 +31,7 @@ When <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" data-dppn-term
 
 ## Vietnamese translation
 
-Phaladāyakavimānavatthu. Câu chuyện về một người làm vườn của Bimbisāra. Nhà vua đã bày tỏ mong muốn được ăn xoài trái vụ, và người làm vườn, sau khi đã hứa sẽ đáp ứng mong muốn này, đã làm việc rất chăm chỉ và thành công trong việc làm cho một trong những cái cây đậu được bốn quả. Đang trên đường đi đến cung điện mang theo những quả xoài này, ông đã nhìn thấy Moggallāna và dâng chúng cho ngài, sẵn sàng hứng chịu cơn thịnh nộ của nhà vua. Moggallāna đã dâng những quả xoài cho Đức Phật, người đã chia cho mỗi người Sāriputta, Mahā Kassapa và Moggallāna một quả.
+Phaladāyakavimānavatthu. Câu chuyện về một người làm vườn của Bimbisāra. Nhà vua đã bày tỏ mong muốn được ăn xoài trái vụ, và người làm vườn, sau khi đã hứa sẽ đáp ứng mong muốn này, đã làm việc rất chăm chỉ và thành công trong việc làm cho một cây xoài kết được bốn quả. Đang trên đường đi đến cung điện mang theo những quả xoài này, ông đã nhìn thấy Moggallāna và dâng chúng cho ngài, sẵn sàng hứng chịu cơn thịnh nộ của nhà vua. Moggallāna đã dâng những quả xoài cho Đức Phật, và Đức Phật đã chia cho Sāriputta, Mahā Kassapa và Moggallāna mỗi vị một quả.
 
 Khi Bimbisāra nghe chuyện về người làm vườn của mình đã làm, ngài đã rất hài lòng, và đã ban cho ông một ngôi làng và tặng ông những món quà khác. Sau khi chết, người làm vườn đã được tái sinh ở Tāvatiṁsa, tại đây ông đã gặp lại Moggallāna. Vv. vi. 3; Vv-a.288ff.
 

@@ -34,7 +34,7 @@ She is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Mettā Therī. Vị này thuộc về một gia đình người Sākyan ở Kapilavatthu và đã xuất gia cùng với Pajāpatī Gotamī, đắc quả vị *Arahant* trong thời gian thích hợp. Chín mươi mốt *kappa* trước, vào thời của Vipassī Buddha, vị này là một trong những người vợ của Bandhumā, vua của Bandhumatī, và do hoan hỷ với một vị tỳ-kheo-ni nọ, đã thỉnh vị ấy dùng bữa và cúng dường một đôi y vô cùng đắt giá (Thīg.31f.; Thīg­a.36f).
+Mettā Therī. Vị này thuộc về một gia đình người Sākyan ở Kapilavatthu và đã xuất gia cùng với Pajāpatī Gotamī, rồi về sau đắc quả vị *Arahant*. Chín mươi mốt *kappa* trước, vào thời của Vipassī Buddha, vị này là một trong những người vợ của Bandhumā, vua của Bandhumatī, và do hoan hỷ với một vị tỳ-kheo-ni nọ, đã thỉnh vị ấy dùng bữa và cúng dường một đôi y vô cùng đắt giá (Thīg.31f.; Thīg­a.36f).
 
 Vị này có khả năng đồng nhất với Ekapiṇḍadāyikā của Apadāna. Ap.ii.515f.
 

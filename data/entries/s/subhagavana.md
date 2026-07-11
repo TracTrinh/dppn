@@ -32,8 +32,8 @@ The wood was so-called because of its beauty. People often went there for pleasu
 
 ## Vietnamese translation
 
-Subhagavana. Một khu rừng ở Ukkaṭṭhā. Có một lần, khi Đức Phật đang ngự tại đó, Ngài đã đến thăm các chư thiên cõi Avihā (DN.ii.50) và, một lần nữa, từ nơi đó Ngài đã đến thăm Bakabrahma, vị mà Ngài đã thuyết Brahmanimantanikasutta (MN.i.326; nhưng xem SN.i.142, nơi Đức Phật được cho là đang ngự tại Jetavana). Dưới một gốc cây *sāla* trong khu rừng Subhagavana, bài kinh Mūlapariyāyasutta đã được thuyết giảng (MN.i.1; cùng với bài Jātaka cùng tên, Ja 245, Ja.ii.259).
+Subhagavana. Một khu rừng ở Ukkaṭṭhā. Có một lần, khi Đức Phật đang ngự tại đó, Ngài đã đến thăm chư thiên cõi Avihā (DN.ii.50) và, một lần nữa, từ nơi đó Ngài đã đến thăm Bakabrahma, vị mà Ngài đã thuyết Brahmanimantanikasutta (MN.i.326; nhưng xem SN.i.142, nơi Đức Phật được cho là đang ngự tại Jetavana). Dưới một gốc cây *sāla* trong khu rừng Subhagavana, bài kinh Mūlapariyāyasutta đã được thuyết giảng (MN.i.1; cùng với bài Jātaka cùng tên, Ja 245, Ja.ii.259).
 
-Khu rừng được gọi như vậy bởi vì vẻ đẹp của nó. Mọi người thường đến đó để vui chơi, và, bị ảnh hưởng bởi thiên nhiên lãng mạn của khung cảnh xung quanh, họ sẽ lên kế hoạch cho những điều thú vị, và những điều đó sẽ xảy ra (MN­a.i.10).
+Khu rừng được gọi như vậy bởi vì vẻ đẹp của nó. Mọi người thường đến đó để vui chơi, và, bị ảnh hưởng bởi tính chất thơ mộng của khung cảnh xung quanh, họ sẽ dự tính những điều vui thích, và những điều đó sẽ thành hiện thực (MN­a.i.10).
 
 ## Notes

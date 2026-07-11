@@ -24,6 +24,6 @@ Therasutta 01. An Elder may be time-honoured, long gone forth, well-known, renow
 
 ## Vietnamese translation
 
-Therasutta 01. Một vị Trưởng lão có thể được tôn kính theo thời gian, xuất gia từ lâu, nổi tiếng, danh tiếng lẫy lừng, có một lượng lớn tùy tùng, một người nhận được nhiều vật dụng cúng dường, uyên bác, với một tâm trí có sự hiểu biết rộng, nhưng nếu ông ta có tà kiến và cái nhìn bị bóp méo, thì sự tồn tại của ông ta là vì sự tổn hại, sự tai hại của chư thiên (*Devas*) và loài người. AN.iii.114.
+Therasutta 01. Một vị Trưởng lão có thể được tôn kính theo thời gian, xuất gia từ lâu, nổi tiếng, danh tiếng lẫy lừng, có một lượng lớn tùy tùng, một người nhận được nhiều vật dụng cúng dường, uyên bác, với một tâm trí có sự hiểu biết rộng, nhưng nếu ông ta có tà kiến và cái nhìn bị bóp méo, thì sự tồn tại của ông ta là vì sự tổn hại, sự tai hại của chư thiên và loài người. AN.iii.114.
 
 ## Notes

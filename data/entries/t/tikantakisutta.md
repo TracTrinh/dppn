@@ -24,6 +24,6 @@ Tikantakisutta. Preached at <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Tikantakisutta. Được thuyết tại Tikantakivana, về năm phương pháp mà một tỳ-kheo đạt được sự đĩnh đạc và xả ly, thoát khỏi cả những điều gây khó chịu và những điều không gây khó chịu. AN.iii.169f.
+Tikantakisutta. Được thuyết tại Tikantakivana, về năm phương pháp mà một tỳ-kheo đạt được sự điềm tĩnh và tâm xả, thoát khỏi cả những điều gây khó chịu và những điều không gây khó chịu. AN.iii.169f.
 
 ## Notes

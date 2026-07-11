@@ -24,6 +24,6 @@ Tekula. A Thera who, with his brother <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Tekula. Một vị Thera, người mà cùng với anh em của mình là Yamelu, đã xin phép Đức Phật để dịch giáo pháp của Ngài sang tiếng Sanskrit. Vin.ii.139.
+Tekula. Một vị Trưởng lão, người cùng với anh em của mình là Yamelu, đã xin phép Đức Phật để dịch giáo pháp của Ngài sang tiếng Sanskrit. Vin.ii.139.
 
 ## Notes

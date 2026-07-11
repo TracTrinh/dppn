@@ -31,6 +31,6 @@ Vimaladhammasūriya 01. King of Ceylon (1592-1604 CE.). For his father, etc., se
 
 ## Vietnamese translation
 
-Vimaladhammasūriya 01. Vua của Tích Lan (1592-1604 CE.). Về cha của ông, v.v., xem Cv.Trs.ii. 227, n.1. Ông kế vị Rājasīha I. và trị vì ở Sirivaḍḍhanapura. Ông đã xây dựng một ngôi đền cho Xá-lợi Răng ở thủ đô và, sau khi cử một phái bộ đến Rakkhaṅga, đã thỉnh được một đoàn chư tăng do Nandicakka dẫn đầu để tái thiết Tăng đoàn ở Tích Lan. Ông đã xây dựng *vihāra* Ganthamba và tổ chức một buổi lễ xuất gia tại đó. Ông được kế vị bởi người anh họ của mình là Senaratna, người mà ông đã thuyết phục rời khỏi Tăng đoàn để có thể đảm nhận các trọng trách của ngôi vua (Cv.xciv.6ff). Có vẻ như ông đã làm một chiếc tháp nhỏ đặc biệt cho các Xá-lợi, mà Kittisirirājasīha sau này đã bọc bằng vàng; Cv.c.21; Cv.Trs.ii.276, n.1.
+Vimaladhammasūriya 01. Vua của Tích Lan (1592-1604 CN.). Về cha của ông, v.v., xem Cv.Trs.ii. 227, n.1. Ông kế vị Rājasīha I. và trị vì ở Sirivaḍḍhanapura. Ông đã xây dựng một ngôi đền cho Xá-lợi Răng ở thủ đô và, sau khi cử một phái bộ đến Rakkhaṅga, đã thỉnh được một đoàn chư tăng do Nandicakka dẫn đầu để tái thiết Tăng đoàn ở Tích Lan. Ông đã xây dựng *vihāra* Ganthamba và tổ chức một buổi lễ xuất gia tại đó. Ông được kế vị bởi người anh họ của mình là Senaratna, người mà ông đã thuyết phục rời khỏi Tăng đoàn để có thể đảm nhận các trọng trách của ngôi vua (Cv.xciv.6ff). Có vẻ như ông đã làm một hộp xá-lợi đặc biệt cho các Xá-lợi, mà Kittisirirājasīha sau này đã bọc bằng vàng; Cv.c.21; Cv.Trs.ii.276, n.1.
 
 ## Notes

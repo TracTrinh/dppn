@@ -24,6 +24,6 @@ Mūlasutta 01. When a man is overcome by gains and flattery, the root of good *k
 
 ## Vietnamese translation
 
-Mūlasutta 01. Khi một người bị vượt qua bởi những lợi lộc và sự xu nịnh, cội rễ của *kamma* (nghiệp) thiện bị nhổ tận gốc trong người ấy. SN.ii.240.
+Mūlasutta 01. Khi một người bị lợi lộc và sự xu nịnh chi phối, cội rễ của *kamma* (nghiệp) thiện bị nhổ tận gốc trong người ấy. SN.ii.240.
 
 ## Notes

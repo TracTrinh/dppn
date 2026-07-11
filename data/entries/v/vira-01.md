@@ -34,6 +34,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data
 
 ## Vietnamese translation
 
-Vīra 01. Trưởng lão Vīra. Ông sinh ra ở Sāvatthī trong gia đình một vị đại thần của Pasenadi và trở thành một chiến binh vĩ đại. Ông kết hôn, và khi con trai ra đời, ông đã từ bỏ thế gian, theo thời gian đạt được quả vị *Arahant*. Vợ cũ của ông đã cố gắng giành lại ông về với đời sống gia đình, nhưng ông đã chỉ cho bà thấy bằng một bài kệ (Thag. vs. 8) rằng những nỗ lực của bà là vô ích.\n\nVào thời của Đức Phật Vipassī ông đã quét dọn am thất của Đức Phật và dâng cúng ngài những bông hoa *nigguṇṭhi*. Sau này, ông tái sinh làm Vua Mahā Patāpa. Vào thời của Đức Phật Kassapa ông là một thương nhân rất giàu có và đã phát cháo sữa cho các vị tu sĩ và bố thí cho người nghèo (Thag­a.i.50). Rất có thể ông cũng chính là Trưởng lão Nigguṇḍipupphiya trong Apadāna. Ap.i.205.
+Vīra 01. Trưởng lão Vīra. Ông sinh ra ở Sāvatthī trong gia đình một vị đại thần của Pasenadi và trở thành một chiến binh vĩ đại. Ông kết hôn, và khi con trai ra đời, ông đã từ bỏ thế gian, theo thời gian đạt được quả vị *Arahant*. Vợ cũ của ông đã cố gắng giành lại ông về với đời sống gia đình, nhưng ông đã chỉ cho bà thấy bằng một bài kệ (Thag. vs. 8) rằng những nỗ lực của bà là vô ích.
+
+Vào thời của Đức Phật Vipassī ông đã quét dọn am thất của Đức Phật và dâng cúng ngài những bông hoa *nigguṇṭhi*. Sau này, ông tái sinh làm Vua Mahā Patāpa. Vào thời của Đức Phật Kassapa ông là một thương nhân rất giàu có và đã phát cháo sữa cho các vị tu sĩ và bố thí cho người nghèo (Thag­a.i.50). Rất có thể ông cũng chính là Trưởng lão Nigguṇḍipupphiya trong Apadāna. Ap.i.205.
 
 ## Notes

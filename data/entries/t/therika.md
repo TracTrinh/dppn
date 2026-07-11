@@ -33,9 +33,9 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data
 
 ## Vietnamese translation
 
-Therīkā. Một bậc *Arahant* Therī (Trưởng lão ni). Cô sinh ra trong một gia đình ở Vesālī và được gọi như vậy bởi vì vóc dáng khỏe mạnh của mình. Cô kết hôn và trở thành một người vợ tận tụy, chấp nhận giáo pháp của Đức Phật, sau khi nghe Ngài thuyết pháp tại Vesālī. Sau đó cô nghe Pajāpatī Gotamī thuyết pháp và mong muốn xuất gia, nhưng chồng cô từ chối cho phép. Một ngày nọ, trong khi đang nấu ăn, cô đã phát triển suy nghĩ về sự vô thường và trở thành một bậc *Anāgāmī*. Khi chồng cô nhận ra điều này, ông đã đưa cô đến gặp Pajāpatī, người đã truyền giới cho cô.
+Therīkā. Một bậc *Arahant*, một Trưởng lão ni (*Therī*). Cô sinh ra trong một gia đình ở Vesālī và được gọi như vậy bởi vì vóc dáng khỏe mạnh của mình. Cô kết hôn và trở thành một người vợ tận tụy, chấp nhận giáo pháp của Đức Phật, sau khi nghe Ngài thuyết pháp tại Vesālī. Sau đó cô nghe Pajāpatī Gotamī thuyết pháp và mong muốn xuất gia, nhưng chồng cô từ chối cho phép. Một ngày nọ, trong khi đang nấu ăn, cô đã phát triển suy nghĩ về sự vô thường và trở thành một bậc *Anāgāmī*. Khi chồng cô nhận ra điều này, ông đã đưa cô đến gặp Pajāpatī, người đã truyền giới cho cô.
 
-Trong quá khứ, cô đã thiết đãi Đức Phật Koṇāgamana và xây dựng cho Ngài một tịnh xá với trần nhà được chăng vải và sàn nhà trải cát.
+Trong quá khứ, cô đã thiết đãi Đức Phật Koṇāgamana và dựng cho Ngài một lều hoa với trần được chăng vải và nền rải cát.
 
 Vào thời của Đức Phật Kassapa, cô là một tỳ-kheo ni. Thīg.1; Thīg­a., p.5.
 

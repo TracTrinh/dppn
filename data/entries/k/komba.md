@@ -28,6 +28,6 @@ Komba. Chief of the umbrella-bearers of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Komba. Trưởng đội quân che lọng của Gajabāhu. Ông có một pháo đài ở Mallavāḷāna nơi mà ông bị đánh bật ra khỏi bởi Malayarāyara của Vālikākhetta. Về sau, ông đã đánh một trận thủy chiến ở Muttākara. Cv.lxx.60f.
+Komba. Người đứng đầu nhóm hầu cầm lọng của Gajabāhu. Ông có một pháo đài ở Mallavāḷāna, từ đó ông bị Malayarāyara của Vālikākhetta đánh bật ra. Về sau, ông đã đánh một trận thủy chiến ở Muttākara. Cv.lxx.60f.
 
 ## Notes

@@ -29,6 +29,6 @@ Vikkamapaṇḍu. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Vikkamapaṇḍu. Con trai của Mahā Lānakitti. Ông đang ở lại xứ Duḷu khi nghe tin về các sự kiện ở Tích Lan, và, đi đến tỉnh Rohaṇa, ông đã điều hành chính sự tại Kāḷatittha trong một năm (1046 CE.), cho đến khi bị Jagatīpāla sát hại. Cv.lvi.11ff.
+Vikkamapaṇḍu. Con trai của Mahā Lānakitti. Ông đang ở lại xứ Duḷu khi nghe tin về các sự kiện ở Tích Lan, và, đi đến tỉnh Rohaṇa, ông đã điều hành chính sự tại Kāḷatittha trong một năm (1046 CN.), cho đến khi bị Jagatīpāla sát hại. Cv.lvi.11ff.
 
 ## Notes

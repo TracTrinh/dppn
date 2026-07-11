@@ -28,6 +28,8 @@ The story was told in reference to a rich girl of <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Vīṇāthūṇajātaka (Ja 232). Bodhisatta từng là một thương nhân giàu có, và một cuộc hôn nhân đã được sắp đặt giữa con trai ngài và con gái của một thương nhân ở Benares. Tại nhà cha mẹ mình, cô gái nhìn thấy sự tôn kính đang được dâng cho một con bò đực, và khi nhìn thấy một người gù lưng trên phố vào ngày cưới của mình, cô nghĩ ông ta xứng đáng được tôn kính nhiều (bởi vì cái bướu của ông ta) và đã cải trang bỏ đi cùng ông ta, mang theo châu báu của mình. Bạn bè của Bodhisatta đã nhìn thấy cô, và thuyết phục cô về sự ngu ngốc của cô, đã đưa cô trở về nhà.\n\nCâu chuyện này được kể lại liên quan đến một cô gái giàu có ở Sāvatthī, người đã bỏ đi cùng một người gù lưng trong những hoàn cảnh tương tự. Các cô gái trong cả hai câu chuyện đều là cùng một người. Ja.ii.224f.
+Vīṇāthūṇajātaka (Ja 232). Bodhisatta từng là một thương nhân giàu có, và một cuộc hôn nhân đã được sắp đặt giữa con trai ngài và con gái của một thương nhân ở Benares. Tại nhà cha mẹ mình, cô gái nhìn thấy sự tôn kính đang được dâng cho một con bò đực, và khi nhìn thấy một người gù lưng trên phố vào ngày cưới của mình, cô nghĩ ông ta xứng đáng được tôn kính nhiều (bởi vì cái bướu của ông ta) và đã cải trang bỏ đi cùng ông ta, mang theo châu báu của mình. Bạn bè của Bodhisatta đã nhìn thấy cô, và thuyết phục cô về sự ngu ngốc của cô, đã đưa cô trở về nhà.
+
+Câu chuyện này được kể lại liên quan đến một cô gái giàu có ở Sāvatthī, người đã bỏ đi cùng một người gù lưng trong những hoàn cảnh tương tự. Các cô gái trong cả hai câu chuyện đều là cùng một người. Ja.ii.224f.
 
 ## Notes

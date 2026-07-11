@@ -26,6 +26,6 @@ Moggali. A Brahmin of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Moggali. Một vị Bà-la-môn ở Pāṭaliputta, cha của Moggaliputtatissa. Ông đã được thuyết phục bởi Siggava. Mhv.v.102, 133.
+Moggali. Một vị Bà-la-môn ở Pāṭaliputta, cha của Moggaliputtatissa. Ông đã được Siggava cảm hóa. Mhv.v.102, 133.
 
 ## Notes

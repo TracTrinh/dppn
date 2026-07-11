@@ -25,6 +25,6 @@ Nigrodhapiṭṭhi. A *vihāra* in Ceylon, the residence of <span class="dppn-te
 
 ## Vietnamese translation
 
-Một *vihāra* (*tu viện*) ở Tích Lan, nơi ở của Trưởng lão Mahā Sīva (Mahā Sīva Thera). Mhv­ṭ.555.
+Một tu viện ở Tích Lan, nơi ở của Trưởng lão Mahā Sīva. Mhv­ṭ.555.
 
 ## Notes

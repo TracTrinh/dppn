@@ -24,6 +24,6 @@ Nijjarāsutta. Ten things, which are brought to nought by the cultivation of the
 
 ## Vietnamese translation
 
-Mười điều bị đưa đến chỗ không còn gì (*hư vô*) bằng sự tu tập những điều trái ngược với chúng. AN.v.215f.
+Mười điều bị đưa đến chỗ không còn gì bằng sự tu tập những điều trái ngược với chúng. AN.v.215f.
 
 ## Notes

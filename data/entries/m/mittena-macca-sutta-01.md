@@ -24,6 +24,6 @@ Mittena maccā Sutta 01. All intimate friends should be advised on and establish
 
 ## Vietnamese translation
 
-Mittena maccā Sutta 01. Tất cả những người bạn thân thiết nên được khuyên nhủ về và được an trú vào bốn chi phần của *Sotāpatti*. SN.v.364.
+Mittena maccā Sutta 01. Tất cả những người bạn thân thiết nên được khuyên nhủ và được an lập trong bốn chi phần của *Sotāpatti*. SN.v.364.
 
 ## Notes

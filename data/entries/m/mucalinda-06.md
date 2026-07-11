@@ -23,6 +23,6 @@ Mucalinda 06. A mountain. Ap.ii.536 (verse 86).
 
 ## Vietnamese translation
 
-Mucalinda 06. Một ngọn núi. Ap.ii.536 (verse 86).
+Mucalinda 06. Một ngọn núi. Ap.ii.536 (câu kệ 86).
 
 ## Notes

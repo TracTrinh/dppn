@@ -27,7 +27,7 @@ The story was told in reference to some monks to whom the <span class="dppn-term
 
 ## Vietnamese translation
 
-Mūlapariyāyajātaka (Ja 245). Bodhisatta từng là một vị giáo thọ sư Bà-la-môn lừng danh. Trong số các đệ tử của ngài có năm trăm vị Bà-la-môn, thông thạo ba bộ kinh Veda, những người nghĩ rằng họ hiểu biết nhiều như thầy của mình. Bodhisatta, nhận thức được điều này, đã đưa ra cho họ một câu đố để giải quyết: "Thời gian thiêu rụi tất cả, thậm chí cả chính nó, nhưng ai có thể thiêu rụi kẻ thiêu rụi tất cả?" Trong suốt một tuần lễ, họ đã cố gắng tìm kiếm giải pháp và sau đó thừa nhận thất bại. Bodhisatta đã khiển trách họ, nói rằng họ có lỗ tai nhưng không có trí tuệ. Sự kiêu ngạo của họ đã bị dập tắt, và kể từ đó họ tôn kính vị thầy của mình.
+Mūlapariyāyajātaka (Ja 245). Bodhisatta từng là một vị giáo thọ sư Bà-la-môn lừng danh. Trong số các đệ tử của ngài có năm trăm vị Bà-la-môn, thông thạo ba bộ kinh Veda, những người nghĩ rằng họ hiểu biết nhiều như thầy của mình. Bodhisatta, nhận thức được điều này, đã đưa ra cho họ một câu đố để giải quyết: "Thời gian tiêu hao tất cả, thậm chí cả chính nó, nhưng ai có thể tiêu hao kẻ tiêu hao tất cả?" Trong suốt một tuần lễ, họ đã cố gắng tìm kiếm giải pháp và sau đó thừa nhận thất bại. Bodhisatta đã khiển trách họ, nói rằng họ có lỗ tai nhưng không có trí tuệ. Sự kiêu ngạo của họ đã bị dập tắt, và kể từ đó họ tôn kính vị thầy của mình.
 
 Câu chuyện được kể liên quan đến một số tỳ-kheo đã được giảng cho nghe bài kinh Mūlapariyāyasutta. Những đệ tử đó là giống nhau trong cả hai trường hợp. Ja.ii.259-262.
 

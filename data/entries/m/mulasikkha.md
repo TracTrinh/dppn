@@ -25,6 +25,6 @@ Mūlasikkhā. A compendium of Vinaya rules, chiefly in verse. According to tradi
 
 ## Vietnamese translation
 
-Mūlasikkhā. Một bản toát yếu về các quy định của Vinaya, chủ yếu bằng thi kệ. Theo truyền thống, nó được biên soạn vào khoảng hai trăm năm sau khi Đức Phật viên tịch (JPTS 1882, p. 87), nhưng ngôn ngữ của nó cho thấy nó có niên đại muộn hơn nhiều. Tác phẩm này thường được cho là của một tỳ-kheo tên là Mahā Sāmi (Xem PLC.76). Có tồn tại một bản phụ chú (*ṭīkā*) về tác phẩm này.
+Mūlasikkhā. Một bản toát yếu về các quy định của Vinaya, chủ yếu bằng thi kệ. Theo truyền thống, nó được biên soạn vào khoảng hai trăm năm sau khi Đức Phật viên tịch (JPTS 1882, p. 87), nhưng ngôn ngữ của nó cho thấy nó có niên đại muộn hơn nhiều. Tác phẩm này thường được cho là của một tỳ-kheo tên là Mahā Sāmi (xem PLC.76). Có tồn tại một bản phụ chú (*ṭīkā*) về tác phẩm này.
 
 ## Notes

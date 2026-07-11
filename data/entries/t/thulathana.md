@@ -32,7 +32,7 @@ Thūlathana built the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Thūlathana. Người con trai thứ hai của Saddhātissa và là vua của Ceylon (năm 59 TCN).
+Thūlathana. Người con trai thứ hai của Saddhātissa và là vua của Tích Lan (năm 59 TCN).
 
 Sau khi cha qua đời, các đại thần đã tôn ông lên làm vua, nhưng sau một triều đại chỉ kéo dài một tháng và vài ngày, người anh trai của ông là Lañjatissa đã áp đảo ông và chiếm lấy ngai vàng.
 

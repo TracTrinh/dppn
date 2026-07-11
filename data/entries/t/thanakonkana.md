@@ -25,6 +25,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Ṭhānakoṅkana. Một khu vườn ở Ceylon, được thiết kế bởi Parakkamabāhu I. Cv.lxxix.11.
+Ṭhānakoṅkana. Một khu vườn ở Tích Lan, được thiết kế bởi Parakkamabāhu I. Cv.lxxix.11.
 
 ## Notes

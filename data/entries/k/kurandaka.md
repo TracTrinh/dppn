@@ -32,7 +32,7 @@ The Elder, at the request of the king, once went to visit him, but after seven d
 
 Một hang động, có lẽ ở Tích Lan. Nó có những bức vẽ tuyệt đẹp về sự xuất gia của bảy vị Phật, nhưng Trưởng lão Cittagutta (*q.v.*), người đã sống trong hang động một thời gian dài, chưa bao giờ nhìn thấy chúng bởi vì ông chưa từng ngước mắt lên.
 
-Có một cây vấp (*nāga*) lớn bằng sắt ở lối vào hang.
+Có một cây gỗ lim (*nāga*) lớn ở lối vào hang.
 
 Vị Trưởng lão, theo yêu cầu của nhà vua, đã từng đến thăm ông, nhưng sau bảy ngày, không cảm thấy hạnh phúc trong cung điện, ông đã trở về Kuraṇḍaka. Vsm.i.38f.
 

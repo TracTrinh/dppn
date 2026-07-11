@@ -26,6 +26,6 @@ Nigrodhārāma 02. A grove in <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Một lùm cây ở Rājagaha. Đức Phật nói rằng tại đó Ngài đã từng cho Ānanda cơ hội để thỉnh cầu Ngài sống trọn một kiếp (*aeon*), nhưng Ānanda đã bỏ lỡ cơ hội của mình. DN.ii.116.
+Một lùm cây ở Rājagaha. Đức Phật nói rằng tại đó Ngài đã từng cho Ānanda cơ hội để thỉnh cầu Ngài sống trọn một kiếp, nhưng Ānanda đã bỏ lỡ cơ hội của mình. DN.ii.116.
 
 ## Notes

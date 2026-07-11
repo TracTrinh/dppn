@@ -24,6 +24,6 @@ Pubbaṇhasutta. Those that practise righteousness at morn, at noon, and at eve,
 
 ## Vietnamese translation
 
-Pubbaṇhasutta. Những ai thực hành sự công chính vào buổi sáng, buổi trưa, và buổi tối, thì luôn luôn hạnh phúc. AN.i.294.
+Pubbaṇhasutta. Những ai thực hành điều chân chánh vào buổi sáng, buổi trưa và buổi tối thì luôn luôn hạnh phúc. AN.i.294.
 
 ## Notes

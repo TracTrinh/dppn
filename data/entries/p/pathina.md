@@ -25,6 +25,6 @@ Pāṭhīna. A monastery in Ceylon, restored by <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Pāṭhīna. Một tu viện ở Tích Lan (Ceylon), được Vijayabāhu I phục tu. Cv.Ix.58.
+Pāṭhīna. Một tu viện ở Tích Lan, được Vijayabāhu I phục tu. Cv.Ix.58.
 
 ## Notes

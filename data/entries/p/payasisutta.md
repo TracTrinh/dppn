@@ -32,7 +32,7 @@ The incidents mentioned in the *Sutta* took place, according to <span class="dpp
 
 ## Vietnamese translation
 
-Pāyāsisutta. *Sutta* thứ hai mươi ba của Dīghanikāya. Sutta này chứa đựng một cuộc thảo luận về sự tái sinh và nghiệp quả (karma) giữa Pāyāsi và Kumāra Kassapa tại Siṁsapāvana ở Setavyā (DN.ii.316ff).
+Pāyāsisutta. *Sutta* thứ hai mươi ba của Dīghanikāya. Sutta này chứa đựng một cuộc thảo luận về sự tái sinh và nghiệp giữa Pāyāsi và Kumāra Kassapa tại Siṁsapāvana ở Setavyā (DN.ii.316ff).
 
 Theo Dhammapāla (Vv-a.p.297), những sự kiện được đề cập trong *Sutta* này đã diễn ra sau sự kiện Đức Phật nhập diệt và việc xây dựng các bảo tháp bên trên xá-lợi của ngài.
 

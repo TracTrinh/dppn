@@ -67,7 +67,7 @@ Bà hối lộ các vũ công và ca sĩ để họ ca ngợi bà. Bà không th
 
 Bà hay cáu gắt và sẽ ước muốn một điều gì đó, nhưng khi điều đó được mang đến cho bà, bà sẽ nói rằng đó là một thứ gì khác mà bà thực sự muốn (Vin.iv.248, 250).
 
-Bà hiển nhiên là một người ngưỡng mộ Ānanda, và đã vô cùng tức giận khi nghe tin Mahā Kassapa gọi Ānanda là “cậu bé”, và đã trút sự không hài lòng của mình vào điều mà bà coi là sự tự phụ của Kassapa. Nhưng chúng ta được biết rằng ngay sau đó bà đã rời khỏi Tăng đoàn (SN.ii.219ff).
+Bà hiển nhiên là một người ngưỡng mộ Ānanda, và đã vô cùng tức giận khi nghe tin Mahā Kassapa gọi Ānanda là “cậu bé”, và đã bày tỏ sự bất bình trước điều mà bà coi là sự tự phụ của Kassapa. Nhưng chúng ta được biết rằng ngay sau đó bà đã rời khỏi Tăng đoàn (SN.ii.219ff).
 
 Bà đã kết bạn với Ariṭṭha khi ông ta bị trục xuất khỏi Tăng đoàn (Vin.iv.218). Suvaṇṇahaṁsajātaka được kể lại liên quan đến bà, và bà được nhận diện là người vợ của vị Bà-la-môn trong câu chuyện (Ja.i.474f).
 

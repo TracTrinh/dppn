@@ -100,14 +100,14 @@ There seems to have been a settlement of <span class="dppn-term dppn-term-t14" d
 
 Cái tên được đặt cho những người theo đạo Jain, những tín đồ của Nigaṇṭha Nātaputta. Không giống như các *Acelaka*, họ mặc một bộ y, một tấm che ở phía trước. Nhưng khi được khen ngợi vì sự khiêm nhường của họ, họ đã trả lời rằng lý do họ mặc y phục là để ngăn chặn bụi bẩn rơi vào bình bát khất thực của họ. Bởi vì ngay cả bụi bẩn cũng là những cá thể thực sự và được phú cho nguyên lý của sự sống (Dhp­a.iii.489).
 
-Những giới luật chính của các Nigaṇṭhā được bao gồm trong *cātuyāma saṁvara* – sự kiềm chế gấp bốn lần (để xem những niềm tin và thực hành của họ, xem Nigaṇṭha Nātaputta). Các trung tâm chính của các Nigaṇṭha, vào thời của Đức Phật, dường như là Vesālī (vd., Ja.iii.1; MN.i.228) và Nālandā (MN.i.371), mặc dù họ có các khu định cư ở những thị trấn quan trọng khác, chẳng hạn như Rājagaha (vd., tại Kāḷasilā, trên các sườn dốc của Isigili, MN.i.92).
+Những giới luật chính của các Nigaṇṭhā được bao gồm trong *cātuyāma saṁvara* – sự kiềm chế gấp bốn lần (để xem những niềm tin và thực hành của họ, xem Nigaṇṭha Nātaputta). Các trung tâm chính của các Nigaṇṭha, vào thời của Đức Phật, dường như là Vesālī (ví dụ, Ja.iii.1; MN.i.228) và Nālandā (MN.i.371), mặc dù họ có các khu định cư ở những thị trấn quan trọng khác, chẳng hạn như Rājagaha (ví dụ, tại Kāḷasilā, trên các sườn dốc của Isigili, MN.i.92).
 
 Những người bảo trợ chính trong thời của Đức Phật là:
 - Sīha senāpati ở Vesālī,
 - Upāli gahapati ở Nālandā và
 - Vappa, người Sākyan ở Kapilavatthu (AN­a.ii.751).
 
-Các sách chứa đựng một vài cái tên bên cạnh tên của Nātaputta về những thành viên lỗi lạc của *Nigaṇṭha Saṅgha* – vd., Dīgha Tapassī, và Saccaka, và cũng có một số phụ nữ, Saccā, Lolā, Avavādakā và Paṭācārā (Ja.iii.1).
+Các sách chứa đựng một vài cái tên bên cạnh tên của Nātaputta về những thành viên lỗi lạc của *Nigaṇṭha Saṅgha* – ví dụ, Dīgha Tapassī, và Saccaka, và cũng có một số phụ nữ, Saccā, Lolā, Avavādakā và Paṭācārā (Ja.iii.1).
 
 Những cư sĩ của các Nigaṇṭha mặc y phục màu trắng (MN.ii.244).
 
@@ -123,7 +123,7 @@ Trong hệ thống phân loại *Chaḷabhijāti* của Pūraṇa Kassapa, các 
 - (9) Đầy tội lỗi trong những suy nghĩ của họ, và
 - (10) Nắm giữ tà kiến (AN.v.150).
 
-Việc nhịn ăn của họ giống như một người chăn gia súc trông coi bầy bò vào ban ngày, những con vật này được trả về cho những người chủ của chúng vào lúc chập tối (AN.i.205f). Các Nigaṇṭha được gọi như vậy vì họ tuyên bố là đã giải thoát khỏi mọi trói buộc (*amhākaṁ ganthanakileso palibujjhanakileso natthi, kilesaganthirahitā mayan-ti evaṁ vāditāya laddhanāmavasena Nigaṇṭho*) (vd., MN­a.i.423).
+Việc nhịn ăn của họ giống như một người chăn gia súc trông coi bầy bò vào ban ngày, những con vật này được trả về cho những người chủ của chúng vào lúc chập tối (AN.i.205f). Các Nigaṇṭha được gọi như vậy vì họ tuyên bố là đã giải thoát khỏi mọi trói buộc (*amhākaṁ ganthanakileso palibujjhanakileso natthi, kilesaganthirahitā mayan-ti evaṁ vāditāya laddhanāmavasena Nigaṇṭho*) (ví dụ, MN­a.i.423).
 
 Các sách Phật giáo ghi lại rằng đã có sự chia rẽ lớn trong số các Nigaṇṭha sau cái chết của Nātaputta tại Pāvā (MN.ii.243f.; DN.iii.117, 210). Các Bản chú giải nói rằng Nātaputta, khi nhận ra sự ngu xuẩn và vô ích trong những lời dạy của mình trên giường bệnh, đã mong muốn những tín đồ của mình chấp nhận giáo pháp của Đức Phật (DN­a.iii.906; MN­a.ii.831). Để mang lại điều này, ông đã dạy học thuyết của mình theo hai cách khác nhau cho hai người đệ tử khác nhau, ngay trước khi chết. Đối với người này, ông nói rằng giáo lý của ông là Thuyết Hư Vô (*uccheda*), và đối với người kia thì nó là Thuyết Thường Hằng (*sassata*). Kết quả là, họ đã tranh cãi dữ dội với nhau, và Saṅgha đã tan vỡ.
 

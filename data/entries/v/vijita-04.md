@@ -25,6 +25,6 @@ Vijita 04. A suburb of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Vijita 04. Một vùng ngoại ô của Pulatthipura, trong đó có *vihāra* Veḷuvana. Cv.lxxiii.153; lxxviii.87; also Cv.Trs.ii.18, n.3.
+Vijita 04. Một vùng ngoại ô của Pulatthipura, trong đó có *vihāra* Veḷuvana. Cv.lxxiii.153; lxxviii.87; cũng như Cv.Trs.ii.18, n.3.
 
 ## Notes

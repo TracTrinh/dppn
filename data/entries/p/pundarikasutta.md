@@ -25,6 +25,6 @@ Puṇḍarīkasutta. A monk, staying in a forest tract in <span class="dppn-term
 
 ## Vietnamese translation
 
-Puṇḍarīkasutta. Một vị tỳ-kheo, đang lưu trú trong một khu rừng ở Kosala, có lần đã bước vào một hồ sen và hít lấy hương thơm của một bông hoa sen. Vị chư thiên (*Deva*) của khu rừng, với mong muốn mang lại lợi ích cho ông, đã gọi ông là “kẻ trộm hương” và bắt chuyện với ông, do đó ông vô cùng hoảng sợ. SN.i.204f.
+Puṇḍarīkasutta. Một vị tỳ-kheo, đang lưu trú trong một khu rừng ở Kosala, có lần đã bước vào một hồ sen và hít lấy hương thơm của một bông hoa sen. Vị thiên nhân (*Deva*) của khu rừng, với mong muốn mang lại lợi ích cho ông, đã gọi ông là “kẻ trộm hương” và bắt chuyện với ông, do đó ông vô cùng hoảng sợ. SN.i.204f.
 
 ## Notes

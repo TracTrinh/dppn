@@ -26,6 +26,6 @@ Vikkamabāhu 05. The king who succeeded <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Vikkamabāhu 05. Vị vua đã kế vị Parakkamabāhu V. Bản thân ông sau đó được kế vị bởi Bhuvenakabāhu V. Cv.xci. 1, 3; có vẻ như ông đã trị vì trong mười tám năm (1347-75 CE.). Xem Cv.Trs. ii.212, n.2.
+Vikkamabāhu 05. Vị vua đã kế vị Parakkamabāhu V. Bản thân ông sau đó được kế vị bởi Bhuvenakabāhu V. Cv.xci. 1, 3; có vẻ như ông đã trị vì trong mười tám năm (1347-75 CN.). Xem Cv.Trs. ii.212, n.2.
 
 ## Notes

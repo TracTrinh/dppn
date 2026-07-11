@@ -26,6 +26,6 @@ Phenasutta. Like a lump of foam, a water bubble or a mirage, the trunk of a plan
 
 ## Vietnamese translation
 
-Phenasutta. Giống như một hòn bọt nước, một bong bóng nước hay một ảo ảnh, thân của một cây chuối, và một cảnh tượng do một ảo thuật gia tạo ra, thì tương ứng với, sắc, thọ, tưởng, các hành và thức, là không thực, không có cơ sở. *Sutta* được thuyết giảng tại Ayojjhā, trên bờ sông Ganges. SN.iii.140 f.
+Phenasutta. Như một khối bọt, một bong bóng nước, một ảo ảnh, thân cây chuối, và một cảnh tượng do ảo thuật gia tạo ra, thì tương ứng, thân, các cảm thọ, tưởng, các hành và thức là không thực, không có cơ sở. *Sutta* được thuyết giảng tại Ayojjhā, trên bờ sông Ganges. SN.iii.140 f.
 
 ## Notes

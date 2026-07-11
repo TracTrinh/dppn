@@ -30,7 +30,7 @@ The story was told to a monk, who, on joining the Saṅgha, inquired who looked 
 
 ## Vietnamese translation
 
-Pīṭhajātaka (Ja 337). Bồ-tát từng là một đạo sĩ ở Himālaya. Một ngày nọ, sau khi đi đến Benares để tìm muối và giấm, ngài vào thành phố để khất thực và đi đến nhà của một thương gia có tiếng là mộ đạo. Nhưng thương gia đang đi vắng ở triều đình, và vì đạo sĩ không thấy ai trong nhà, ngài đã quay lại và bỏ đi. Trên đường đi, ngài gặp thương gia, ông ta xin lỗi vì sự vắng mặt của mình và mời ngài quay lại nhà của ông.
+Pīṭhajātaka (Ja 337). Bodhisatta từng là một đạo sĩ ở Himālaya. Một ngày nọ, sau khi đi đến Benares để tìm muối và giấm, ngài vào thành phố để khất thực và đi đến nhà của một thương gia có tiếng là mộ đạo. Nhưng thương gia đang đi vắng ở triều đình, và vì đạo sĩ không thấy ai trong nhà, ngài đã quay lại và bỏ đi. Trên đường đi, ngài gặp thương gia, ông ta xin lỗi vì sự vắng mặt của mình và mời ngài quay lại nhà của ông.
 
 Câu chuyện này được kể cho một vị tỳ-kheo, người khi vừa gia nhập Tăng đoàn, đã hỏi xem ai là người chăm sóc các vị tỳ-kheo. Khi được biết rằng Anāthapiṇḍika và Visākhā làm việc đó, ông đã đi đến nhà họ từ rất sớm vào ngày hôm sau. Vì quá sớm nên không ai chú ý đến ông. Khi ông quay lại sau đó thì đã quá muộn và thức ăn đã hết. Sau đó ông bắt đầu lăng mạ hai gia đình. Ja.iii.118 ff.
 

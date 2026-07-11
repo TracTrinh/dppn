@@ -56,7 +56,7 @@ For other references, see under the names mentioned. Reference should also be ma
 
 ## Vietnamese translation
 
-Paṇḍū, Pāṇḍava, Pāṇḍiya. Một quốc gia ở miền Nam Ấn Độ, những người Pāṇḍiya. Đất nước của họ bao gồm phần lớn Madura và Tinnevelly, với thủ đô đầu tiên ở Kolkai và sau này là ở Madhurā.
+Paṇḍū, Pāṇḍavas, Pāṇḍiyas. Một quốc gia ở miền Nam Ấn Độ, những người Pāṇḍiya. Đất nước của họ bao gồm phần lớn Madura và Tinnevelly, với thủ đô đầu tiên ở Kolkai và sau này là ở Madhurā.
 
 Tích Lan liên tục có giao thiệp với quốc gia này, cả trong hòa bình lẫn chiến tranh. Những toán cướp bóc của người Pandū thường đến Tích Lan và, sau khi phế truất vị vua hợp pháp, họ cai trị đất nước. Những cuộc xâm lược chính yếu trong số này là: (a) trong mười bốn năm, khi Vaṭṭagāmaṇī phải lẩn trốn; (b) trong hai mươi bảy năm, sau khi Mahā Nāma qua đời và cho đến khi Dhātusena thiết lập quyền lực của mình; (c) trong thời của Sena I; (d) sau cái chết của Mahinda V. Họ cũng đến với Māgha và Candabhānu, và sau đó với Āryacakkavattin, người đã thành công trong việc mang Xá-lợi Răng về triều đình Pāṇḍyan; Xá-lợi Răng này sau đó được Parakkamabāhu III mang về lại. Đôi khi các vị vua Sinhalese sẽ trả đũa bằng cách xâm lược lãnh thổ Pāṇḍyan ví dụ, dưới triều đại của Sena II, và có lẽ cả dưới thời Nissanka Malla. Parakkamabāhu I đã gửi một đội quân dưới quyền vị tướng Laṅkāpura của mình để giúp vua Pāṇḍyan là Parākrama Pāṇḍya chống lại vua Coḷa là Kulasekhara. Theo ghi chép của Mahā Vaṁsa, điều này mang lại niềm vui lớn cho người Sinhalese.
 

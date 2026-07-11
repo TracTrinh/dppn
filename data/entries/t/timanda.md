@@ -23,6 +23,6 @@ Timanda. A monster fish of the deep sea, five hundred leagues in length. He eats
 
 ## Vietnamese translation
 
-Timanda. Một con cá quái vật của biển sâu, dài năm trăm league (dặm biển). Nó chỉ ăn rong biển. Ja.v.462.
+Timanda. Một con cá quái vật của biển sâu, dài năm trăm do-tuần. Nó chỉ ăn rong biển. Ja.v.462.
 
 ## Notes

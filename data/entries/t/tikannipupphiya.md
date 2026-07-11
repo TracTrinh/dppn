@@ -28,7 +28,7 @@ Seventy-three *kappas* ago he became king four times under the name of <span cla
 
 ## Vietnamese translation
 
-Tikaṇṇipupphiya. Một bậc *Arahant* Thera. Chín mươi mốt *kappas* trước, ông được sinh ra trên cõi trời, và nhận ra rằng điều này là nhờ giáo pháp của Đức Phật, ông đã dâng cúng một bông hoa nhân danh Đức Phật Vipassī.
+Tikaṇṇipupphiya. Một Trưởng lão *Arahant*. Chín mươi mốt *kappas* trước, ông được sinh ra trên cõi trời, và nhận ra rằng điều này là nhờ giáo pháp của Đức Phật, ông đã dâng cúng một bông hoa nhân danh Đức Phật Vipassī.
 
 Bảy mươi ba *kappas* trước, ông trở thành vua bốn lần dưới tên gọi Naruttama. Ap.i.195.
 

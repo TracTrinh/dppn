@@ -26,6 +26,6 @@ Nigamavāsītissa. A Thera of a market town (*nigama*) near <span class="dppn-te
 
 ## Vietnamese translation
 
-Một vị Trưởng lão (Thera) của một thị trấn (*nigama*) gần Sāvatthī. Ngài nổi tiếng là người tri túc, đã được gột rửa và thanh tịnh; ngài chỉ đi khất thực trong ngôi làng của những người thân thiện của mình. Khi có người trình báo với Đức Phật rằng Tissa đã sống trong sự kết giao mật thiết với những người họ hàng của mình, Đức Phật đã thẩm vấn ngài và chấp nhận lời giải thích của ngài, Ngài ca ngợi Tissa và nhận xét rằng những phẩm chất tốt đẹp của Tissa là kết quả của việc kết giao với chính Ngài; sau đó Ngài kể lại Mahā Sukajātaka. Dhp­a.i.283-6. Tuy nhiên, câu chuyện giới thiệu của Jātaka (*q.v.*) đưa ra một lý do khác cho việc kể lại nó (Ja.ii.490f.).
+Một vị Trưởng lão (Thera) của một thị trấn (*nigama*) gần Sāvatthī. Ngài nổi tiếng là người tri túc, đã được gột rửa và thanh tịnh; ngài chỉ đi khất thực trong ngôi làng của những người họ hàng của mình. Khi có người trình báo với Đức Phật rằng Tissa đã sống trong sự kết giao mật thiết với những người họ hàng của mình, Đức Phật đã thẩm vấn ngài và chấp nhận lời giải thích của ngài, Ngài ca ngợi Tissa và nhận xét rằng những phẩm chất tốt đẹp của Tissa là kết quả của việc kết giao với chính Ngài; sau đó Ngài kể lại Mahā Sukajātaka. Dhp­a.i.283-6. Tuy nhiên, câu chuyện giới thiệu của Jātaka (*q.v.*) đưa ra một lý do khác cho việc kể lại nó (Ja.ii.490f.).
 
 ## Notes

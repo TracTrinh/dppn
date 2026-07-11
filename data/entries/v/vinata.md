@@ -27,6 +27,6 @@ Vinatā. A river, probably in <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Vinatā. Một con sông, rất có thể ở Himavā (Ap.i.295, etc.). Trong một tiền kiếp Vanavaccha đã sống ở đó dưới dạng một con rùa (Thag­a.i.58). Nanda cũng đã từng sống ở đó. Thag­a.i.276.
+Vinatā. Một con sông, rất có thể ở Himavā (Ap.i.295, v.v.). Trong một tiền kiếp Vanavaccha đã sống ở đó dưới dạng một con rùa (Thag­a.i.58). Nanda cũng đã từng sống ở đó. Thag­a.i.276.
 
 ## Notes

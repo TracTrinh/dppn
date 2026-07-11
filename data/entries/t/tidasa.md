@@ -25,6 +25,6 @@ Tidasa. A name given to <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Tidasa. Một tên gọi được đặt cho Tāvatiṁsa, những cư dân ở đó được gọi là *Tidasā* (Ja.iii.357, 413; vi.168; v.20, 390). Chư thiên (*Devas*) cõi Tidasa được nhắc đến là những vị ngập tràn vinh quang. SN.i.234.
+Tidasa. Một tên gọi được đặt cho Tāvatiṁsa, những cư dân ở đó được gọi là *Tidasā* (Ja.iii.357, 413; vi.168; v.20, 390). Chư thiên cõi Tidasa được nhắc đến là những vị ngập tràn vinh quang. SN.i.234.
 
 ## Notes

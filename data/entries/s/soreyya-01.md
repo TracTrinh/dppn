@@ -38,6 +38,6 @@ At one time <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-d
 
 Soreyya 01. Một thị trấn nơi Soreyya Revata sinh sống (Vin.ii.299). Vào thời Đức Phật, có một tuyến đường dành cho đoàn thương buôn nối liền Soreyya và Takkasilā (Dhp­a.i.326). Cũng có một tuyến đường trực tiếp từ Verañjā đến Payāgatittha, đi qua Soreyya, Saṅkassa và Kaṇṇakuja (Vin.iii.11; xem thêm Soreyya Revata).
 
-Đã có lúc Mahā Kaccāyana sống gần Soreyya (Dhp­a.i.325). Rõ ràng đây là một thành phố rất cổ, vì Anomadassī Buddha được đề cập là đã từng thuyết pháp hai lần ở đó, một lần cho Vua Isidatta và một lần khác cho vị vua của Soreyya; và cũng chính tại đây, Ngài đã tổ chức kỳ kết tập tỳ-kheo đầu tiên của mình (Bv­a.143, 144). Sau này, Vessabhū Buddha cũng đã thuyết pháp tại đó cho một hội chúng rất lớn (Bv­a.206).
+Đã có lúc Mahā Kaccāyana sống gần Soreyya (Dhp­a.i.325). Rõ ràng đây là một thành phố rất cổ, vì Anomadassī Buddha được đề cập là đã từng thuyết pháp hai lần ở đó, một lần cho Vua Isidatta và một lần khác cho vị vua của Soreyya; và cũng chính tại đây, Ngài đã tổ chức hội chúng tỳ-kheo đầu tiên của mình (Bv­a.143, 144). Sau này, Vessabhū Buddha cũng đã thuyết pháp tại đó cho một hội chúng rất lớn (Bv­a.206).
 
 ## Notes

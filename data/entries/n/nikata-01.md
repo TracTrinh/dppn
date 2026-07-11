@@ -26,6 +26,6 @@ Nikaṭa 01. An *upāsaka* of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Một nam cư sĩ (*upāsaka*) ở Ñātikā. Sau khi chết, ông được tái sinh vào cõi Suddhāvāsā (*Tịnh cư thiên*), để từ đó nhập diệt. SN.v.358f.;DN.ii.91f.
+Một nam cư sĩ (*upāsaka*) ở Ñātikā. Sau khi chết, ông được tái sinh vào cõi Suddhāvāsā, để từ đó nhập diệt. SN.v.358f.;DN.ii.91f.
 
 ## Notes

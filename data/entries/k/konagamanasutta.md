@@ -26,6 +26,6 @@ Koṇāgamanasutta. The thoughts that came to <span class="dppn-term dppn-term-t
 
 ## Vietnamese translation
 
-Koṇāgamanasutta. Những suy nghĩ đã đến với Koṇāgamana trước khi Giác ngộ (Awakening) của ngài, liên quan đến sinh, lão và tử. SN.ii.9.
+Koṇāgamanasutta. Những suy nghĩ đã đến với Koṇāgamana trước khi Giác ngộ của ngài, liên quan đến sinh, lão và tử. SN.ii.9.
 
 ## Notes

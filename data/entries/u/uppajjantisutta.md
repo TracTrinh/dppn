@@ -23,6 +23,6 @@ Uppajjantisutta. On the power of earnestness (*appamāda*). AN.i.11.
 
 ## Vietnamese translation
 
-Uppajjantisutta. Về sức mạnh của sự nhiệt tâm (*appamāda*). AN.i.11.
+Uppajjantisutta. Về sức mạnh của sự không phóng dật (*appamāda*). AN.i.11.
 
 ## Notes

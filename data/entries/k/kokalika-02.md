@@ -54,6 +54,6 @@ Vị *Brahma* Sahampati đã thông báo cho Đức Phật về sự tái sinh c
 
 Kokālikasutta đã được thuyết liên quan đến vị Kokālika này. Xem thêm Kokālika (1).
 
-Kokālika được nhắc đến như một ví dụ về một người phạm lỗi nhẹ liên quan đến các đệ tử của Đức Phật (*Tathāgatasāvake micchāpaṭipanno*). AN­a.i.335, 466.
+Kokālika được nhắc đến như một ví dụ về một người hành xử sai trái đối với các đệ tử của Đức Phật (*Tathāgatasāvake micchāpaṭipanno*). AN­a.i.335, 466.
 
 ## Notes

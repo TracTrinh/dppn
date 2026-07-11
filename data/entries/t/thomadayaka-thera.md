@@ -25,6 +25,6 @@ Thomadāyaka Thera. An *Arahant*. Ninety-one *kappas* ago he was a *Deva*, and h
 
 ## Vietnamese translation
 
-Thomadāyaka Thera. Một bậc *Arahant*. Chín mươi mốt *kappas* trước, ông là một vị *Deva* (chư thiên), và sau khi nghe Đức Phật Vipassī thuyết pháp, đã đảnh lễ Ngài. Ap.i.226.
+Thomadāyaka Thera. Một bậc *Arahant*. Chín mươi mốt *kappas* trước, ông là một thiên nhân (*Deva*), và sau khi nghe Đức Phật Vipassī thuyết pháp, đã đảnh lễ Ngài. Ap.i.226.
 
 ## Notes

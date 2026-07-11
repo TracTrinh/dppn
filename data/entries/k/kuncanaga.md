@@ -33,7 +33,7 @@ He was deposed by <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" d
 
 ## Vietnamese translation
 
-Con trai của Kaniṭṭhatissa và là vua của Tích Lan (246-8 TL.). Ông đã giết anh trai mình là Khujjanāga.
+Con trai của Kaniṭṭhatissa và là vua của Tích Lan (246-8 CN.). Ông đã giết anh trai mình là Khujjanāga.
 
 Trong thời gian trị vì của ông đã xảy ra nạn đói Ekanāḷika, nhưng nhà vua vẫn duy trì những hoạt động bố thí của mình không gián đoạn.
 

@@ -9394,3 +9394,1563 @@ Cột **Sửa**: ✅ = đã sửa trực tiếp trong review; — = sạch, khô
 | 13 | p/parijanasutta | ✅ | or→hoặc; gỡ span khỏi VI (Abhijānasutta) |
 | 14 | p/parinnasutta-03 | ✅ | or→hoặc; gỡ span khỏi VI (Addhānasutta) |
 | 15 | p/parileyya | ✅ | e.g.,→ví dụ,; see→xem |
+
+## Batch: p/ (Pañcanīvaraṇasutta → Paññattivādā) — 120 entries
+- Ngày review: 2026-07-09
+- Người/model: Codex / GPT-5
+- Phạm vi: p_984f4f3a-7d4d-4e9b-b567-0c2d25164f7a_result.md
+- Kết quả: 120/120 đạt; 5 file sửa low-risk; 0 file đặt needs_check; tất cả giữ status=draft.
+
+| # | Entry (p/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | p/pancanivaranasutta | clean |  |
+| 2 | p/pancahatthiya-thera-02 | clean |  |
+| 3 | p/pancakanga | clean |  |
+| 4 | p/pancala | clean |  |
+| 5 | p/pancalacanda-01 | fixed | *Deva* → thiên nhân theo glossary |
+| 6 | p/pancalacanda-02 | clean |  |
+| 7 | p/pancalacanda-03 | clean |  |
+| 8 | p/pancalacanda-04 | clean |  |
+| 9 | p/pancalacandasutta | clean |  |
+| 10 | p/pancalacandi | clean |  |
+| 11 | p/pancalasutta | clean |  |
+| 12 | p/pancalavagga | clean |  |
+| 13 | p/pancalavihara | clean |  |
+| 14 | p/pancali | clean |  |
+| 15 | p/pancamaka | clean |  |
+| 16 | p/pancambangana | clean |  |
+| 17 | p/pancangikavagga | clean |  |
+| 18 | p/pancanguliya-thera | clean |  |
+| 19 | p/pancanikayamandala | clean |  |
+| 20 | p/pancapanditajataka | clean |  |
+| 21 | p/pancapapa | clean |  |
+| 22 | p/pancaparivenamula | clean |  |
+| 23 | p/pancappakarana | clean |  |
+| 24 | p/pancarajano-sutta | clean |  |
+| 25 | p/pancasala | clean |  |
+| 26 | p/pancasatarattha | clean |  |
+| 27 | p/pancasatika | clean |  |
+| 28 | p/pancasatikakhandhaka | clean |  |
+| 29 | p/pancasattatimandira | clean |  |
+| 30 | p/pancasikha | clean | entry dài; citation + span + glossary checks sạch |
+| 31 | p/pancasikhasutta | clean |  |
+| 32 | p/pancasikkhapadasutta | clean |  |
+| 33 | p/pancasilasamadaniya-thera | fixed | “các vị Deva” → “chư thiên” theo glossary |
+| 34 | p/pancasilasutta | clean |  |
+| 35 | p/pancattayasutta | clean |  |
+| 36 | p/pancatthanadanasutta | clean |  |
+| 37 | p/pancavaggiya | clean |  |
+| 38 | p/pancaverabhayasutta | clean |  |
+| 39 | p/pancavihara | clean |  |
+| 40 | p/pancavudhajataka | clean |  |
+| 41 | p/pancayojanarattha | clean |  |
+| 42 | p/pancuddharattha | clean |  |
+| 43 | p/pancuposathajataka | clean |  |
+| 44 | p/pandaka-01 | clean |  |
+| 45 | p/pandaka-02 | clean |  |
+| 46 | p/pandara-01 | clean |  |
+| 47 | p/pandara-02 | clean |  |
+| 48 | p/pandara-03 | clean |  |
+| 49 | p/pandara-04 | clean |  |
+| 50 | p/pandarajataka | clean |  |
+| 51 | p/pandaraka | clean |  |
+| 52 | p/pandaranga | clean |  |
+| 53 | p/pandava-01 | clean |  |
+| 54 | p/pandava-02 | fixed | gỡ artefact “contemplation” khỏi câu tiếng Việt |
+| 55 | p/pandava-03 | clean |  |
+| 56 | p/pandavavana | clean |  |
+| 57 | p/pandavavapi | clean |  |
+| 58 | p/pandimandalanadalvara | clean |  |
+| 59 | p/pandita-01 | clean |  |
+| 60 | p/pandita-02 | clean | entry dài; giữ đủ nội dung/citation |
+| 61 | p/pandita-03 | clean |  |
+| 62 | p/panditakumaraka | clean |  |
+| 63 | p/panditasutta | clean |  |
+| 64 | p/panditavagga | clean |  |
+| 65 | p/pandiyarayara | clean |  |
+| 66 | p/pandriya | clean |  |
+| 67 | p/pandu-01 | clean |  |
+| 68 | p/pandu-02 | clean |  |
+| 69 | p/pandu | fixed | khôi phục Pāṇḍavas/Pāṇḍiyas trong danh sách tên đầu entry |
+| 70 | p/pandugati-nanda | clean |  |
+| 71 | p/panduka-01 | clean |  |
+| 72 | p/panduka-02 | clean |  |
+| 73 | p/panduka-nanda | clean |  |
+| 74 | p/pandukabhaya | clean | entry dài; citation chính xác |
+| 75 | p/pandukambalasilasana | clean |  |
+| 76 | p/pandukanna | clean |  |
+| 77 | p/pandula | clean |  |
+| 78 | p/pandulagama | clean |  |
+| 79 | p/pandunadukottana | clean |  |
+| 80 | p/pandupura | clean |  |
+| 81 | p/panduputta | clean |  |
+| 82 | p/panduraja-01 | clean |  |
+| 83 | p/panduraja-02 | clean |  |
+| 84 | p/panduraja-03 | clean |  |
+| 85 | p/panduvasudeva | clean |  |
+| 86 | p/panduvijaya | clean |  |
+| 87 | p/panga | clean |  |
+| 88 | p/panguravihara | clean |  |
+| 89 | p/panhamandapatthana | clean |  |
+| 90 | p/panhambamalaka | clean |  |
+| 91 | p/panihitaacchannavagga | clean |  |
+| 92 | p/panitatarasutta | clean |  |
+| 93 | p/paniva | clean |  |
+| 94 | p/paniyadvara | clean |  |
+| 95 | p/paniyajataka | clean |  |
+| 96 | p/panjalipabbata | clean |  |
+| 97 | p/pankadha | clean |  |
+| 98 | p/pankadhasutta | clean |  |
+| 99 | p/pankavela | clean |  |
+| 100 | p/pannabhatta | clean |  |
+| 101 | p/pannadayaka-thera-01 | clean |  |
+| 102 | p/pannadayaka-thera-02 | clean |  |
+| 103 | p/pannajataka | clean |  |
+| 104 | p/pannaka | clean |  |
+| 105 | p/pannakata | clean |  |
+| 106 | p/pannanjalika-thera | clean |  |
+| 107 | p/pannasalaka | clean |  |
+| 108 | p/pannasutta-01 | clean |  |
+| 109 | p/pannasutta-02 | clean |  |
+| 110 | p/pannasutta-03 | clean |  |
+| 111 | p/pannattankotta | clean |  |
+| 112 | p/pannavagga | clean |  |
+| 113 | p/pannavallakabhuta | clean |  |
+| 114 | p/pannavasutta | clean |  |
+| 115 | p/pannavuddhisutta | clean |  |
+| 116 | p/pannikajataka | clean |  |
+| 117 | p/panthaka-02 | clean |  |
+| 118 | p/papadhammasutta | clean |  |
+| 119 | p/papaka | clean |  |
+| 120 | p/pannattivada | fixed | Devas → chư thiên theo glossary |
+
+## Batch: p/ (Piyasutta 03 → Puṇṇabhadda) — 120 entries
+- Ngày review: 2026-07-09
+- Người/model: Codex / GPT-5
+- Phạm vi: p_7a6bd787-b8c3-4bb5-98df-bfe4266b6971_result.md
+- Kết quả: 120/120 đạt; 5 file sửa low-risk; 0 file đặt needs_check; tất cả giữ status=draft.
+
+| # | Entry (p/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | p/piyasutta-03 | clean |  |
+| 2 | p/piyasutta-04 | clean |  |
+| 3 | p/piyasutta | clean |  |
+| 4 | p/pokkhara | clean |  |
+| 5 | p/potthadayaka-thera | clean |  |
+| 6 | p/potthakasutta | fixed | sửa “painful to handle” bị dịch lệch thành “sần sùi” |
+| 7 | p/piyavagga | clean |  |
+| 8 | p/pokkharakkhi | clean |  |
+| 9 | p/pokkharanisutta | clean |  |
+| 10 | p/pokkharaniya | clean |  |
+| 11 | p/pokkharapasaya | clean |  |
+| 12 | p/pokkharasati | clean | entry dài; citation + tên Pāli chính xác |
+| 13 | p/pokkharavati | clean |  |
+| 14 | p/polajanaka | clean |  |
+| 15 | p/polamitta | clean |  |
+| 16 | p/polonnarutala | clean |  |
+| 17 | p/ponamaravati | clean |  |
+| 18 | p/poranavamsa | clean |  |
+| 19 | p/porogahali | clean |  |
+| 20 | p/posala | clean |  |
+| 21 | p/posiya-thera | clean |  |
+| 22 | p/pota | clean |  |
+| 23 | p/potaliputta | clean |  |
+| 24 | p/potaliya-01 | clean |  |
+| 25 | p/potaliya-02 | clean |  |
+| 26 | p/potaliyasutta-01 | clean |  |
+| 27 | p/potaliyasutta-02 | clean |  |
+| 28 | p/pothila-thera | clean |  |
+| 29 | p/potiriya | clean |  |
+| 30 | p/pottha | clean |  |
+| 31 | p/potthakuttha | clean |  |
+| 32 | p/potthapada-01 | clean |  |
+| 33 | p/potthapada-02 | clean |  |
+| 34 | p/potthapada-03 | clean |  |
+| 35 | p/potthapada-04 | clean |  |
+| 36 | p/potthapada-05 | clean |  |
+| 37 | p/potthapadasutta | clean |  |
+| 38 | p/potthasata | clean |  |
+| 39 | p/pottika | clean |  |
+| 40 | p/pubbajira | clean |  |
+| 41 | p/pubbakammapiloti | clean |  |
+| 42 | p/pubbakotthaka-2 | clean | entry dài; citation + cấu trúc đủ |
+| 43 | p/pubbakotthakasutta | clean |  |
+| 44 | p/pubbangamaniya-thera | clean |  |
+| 45 | p/pubbangamasutta | clean |  |
+| 46 | p/pubbanhasutta | fixed | “practise righteousness” → “thực hành điều chân chánh” |
+| 47 | p/pubbarama-01 | clean |  |
+| 48 | p/pubbarama-02 | clean |  |
+| 49 | p/pubbaramasutta-01 | clean |  |
+| 50 | p/pubbaramasutta-02 | clean |  |
+| 51 | p/pubbaramasutta-03 | clean |  |
+| 52 | p/pubbaramasutta-04 | clean |  |
+| 53 | p/pubbaseliya | clean |  |
+| 54 | p/pubbasutta-01 | clean |  |
+| 55 | p/pubbasutta-02 | clean |  |
+| 56 | p/pubbavideha | clean |  |
+| 57 | p/pubbayogavacarasutta | clean |  |
+| 58 | p/puccharama | clean |  |
+| 59 | p/pucimandajataka | clean |  |
+| 60 | p/pucimandavagga | clean |  |
+| 61 | p/pugadandakavata | clean |  |
+| 62 | p/puggalapannatti | clean |  |
+| 63 | p/puggalappasadasutta | clean |  |
+| 64 | p/puggalasutta-01 | clean |  |
+| 65 | p/puggalasutta-02 | clean |  |
+| 66 | p/puggalasutta-03 | clean |  |
+| 67 | p/puggalasutta-04 | clean |  |
+| 68 | p/puggalavagga | clean |  |
+| 69 | p/pujaparivena | clean |  |
+| 70 | p/pukkama | clean |  |
+| 71 | p/pukkusa-01 | clean |  |
+| 72 | p/pukkusa-02 | fixed | sửa “try and implicate” bị dịch literal |
+| 73 | p/pukkusa-03 | clean |  |
+| 74 | p/pukkusa-04 | clean |  |
+| 75 | p/pukkusati | clean | entry dài; citation + tên Pāli chính xác |
+| 76 | p/pulacceri-01 | clean |  |
+| 77 | p/pulacceri-02 | clean |  |
+| 78 | p/pulahattha | clean |  |
+| 79 | p/pulatthinagara | clean | entry rất dài; citation + tên Pāli chính xác |
+| 80 | p/pulavakasutta | clean |  |
+| 81 | p/pulinacankamiya-thera | clean |  |
+| 82 | p/pulinapujaka-thera-01 | clean |  |
+| 83 | p/pulinapujaka-thera-02 | clean |  |
+| 84 | p/pulinapupphiya | clean |  |
+| 85 | p/pulinathupiya-thera | clean |  |
+| 86 | p/pulinda | clean |  |
+| 87 | p/pulinuppadaka-thera | clean |  |
+| 88 | p/punabbasu-01 | clean |  |
+| 89 | p/punabbasu-02 | clean |  |
+| 90 | p/punabbasukutumbikaputtatissa-thera | clean |  |
+| 91 | p/punabbasumata | clean |  |
+| 92 | p/punabbasumitta-01 | clean |  |
+| 93 | p/punabbasumitta-02 | clean |  |
+| 94 | p/punabbasusutta | clean |  |
+| 95 | p/punagama | clean |  |
+| 96 | p/pundarika-01 | clean |  |
+| 97 | p/pundarika-02 | clean |  |
+| 98 | p/pundarika-03 | clean |  |
+| 99 | p/pundarika | clean |  |
+| 100 | p/pundarikasutta | fixed | Deva số ít: “vị chư thiên” → “vị thiên nhân” |
+| 101 | p/punkhagama | clean |  |
+| 102 | p/punkonda | clean |  |
+| 103 | p/punna-01-2 | clean |  |
+| 104 | p/punna-01 | fixed | Deva số ít: “một chư thiên” → “một thiên nhân” |
+| 105 | p/punna-02-2 | clean |  |
+| 106 | p/punna-03 | clean |  |
+| 107 | p/punna-04-2 | clean |  |
+| 108 | p/punna-04 | clean |  |
+| 109 | p/punna-05-2 | clean |  |
+| 110 | p/punna-05 | clean |  |
+| 111 | p/punna-06-2 | clean |  |
+| 112 | p/punna-06 | clean | entry dài; citation + tên Pāli chính xác |
+| 113 | p/punnabhisandavagga-01 | clean |  |
+| 114 | p/punnabhisandavagga-02 | clean |  |
+| 115 | p/punnacetiya | clean |  |
+| 116 | p/punnagapupphiya-thera | clean |  |
+| 117 | p/punnaji | clean |  |
+| 118 | p/punna-02 | clean |  |
+| 119 | p/punna-03-2 | clean |  |
+| 120 | p/punnabhadda | clean |  |
+
+## Batch: m/ (Mettā/Mitta/Moggallāna/Mucalinda/Mūla/Muṇḍa) — m_b7ecd3a7 — 120 entries
+- Ngày review: 2026-07-11
+- Người/model: Codex / GPT-5
+- Phạm vi: m_b7ecd3a7-d200-4264-b6f4-23fbe62e839c_result.md
+- Kết quả: 120/120 đạt; 25 file sửa low-risk; 0 file đặt needs_check; tất cả giữ status=draft.
+
+| # | Entry (m/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | m/mettasutta-01-2 | clean |  |
+| 2 | m/mettasutta-03 | clean |  |
+| 3 | m/mettasutta-04 | clean |  |
+| 4 | m/mettasutta-05 | clean |  |
+| 5 | m/mettasutta-06 | clean |  |
+| 6 | m/micchaditthisutta-01 | clean |  |
+| 7 | m/micchasutta | fixed | body/feelings: “sắc, thọ” → “thân, các cảm thọ” |
+| 8 | m/micchattasutta-01 | clean |  |
+| 9 | m/mendissara | clean |  |
+| 10 | m/mereliya | clean |  |
+| 11 | m/merukandara | clean |  |
+| 12 | m/merumajjara | clean |  |
+| 13 | m/methula | clean |  |
+| 14 | m/methunasutta | clean |  |
+| 15 | m/metta-theri | fixed | “in due course” phrasing |
+| 16 | m/mettagu-thera | clean |  |
+| 17 | m/mettaji-thera | fixed | Bodhi-tree → cây bodhi |
+| 18 | m/mettakatha | clean |  |
+| 19 | m/mettakayika | fixed | Devas → chư thiên |
+| 20 | m/mettasutta-01 | fixed | see also/gods → xem thêm/chư thiên |
+| 21 | m/mettasutta-02-2 | clean |  |
+| 22 | m/mettasutta-02 | clean |  |
+| 23 | m/mettavagga | clean |  |
+| 24 | m/metteyya-01 | fixed | Deva-world/Awakening/Bodhi-tree render |
+| 25 | m/metteyya-02 | clean |  |
+| 26 | m/metteyyapanha | clean |  |
+| 27 | m/mettika-theri | fixed | “was born” → sinh ra |
+| 28 | m/mettiya-thera | clean |  |
+| 29 | m/mettiya | fixed | pronoun/offence phrasing |
+| 30 | m/mettiyabhummajaka | fixed | restore esteem phrasing |
+| 31 | m/mittamittajataka-01 | clean |  |
+| 32 | m/mittamittajataka-02 | clean |  |
+| 33 | m/mittasena-01 | clean |  |
+| 34 | m/mittasena-02 | clean |  |
+| 35 | m/mittasutta-01-2 | clean |  |
+| 36 | m/mittasutta-01 | clean |  |
+| 37 | m/mittasutta-02-2 | clean |  |
+| 38 | m/mittasutta-02 | clean |  |
+| 39 | m/mittasutta-03 | clean |  |
+| 40 | m/mittasutta-04 | clean |  |
+| 41 | m/mittavindajataka-01 | clean |  |
+| 42 | m/mittavindajataka-02 | clean |  |
+| 43 | m/mittavindajataka-03 | clean |  |
+| 44 | m/mittavindaka-01 | clean |  |
+| 45 | m/mittavindaka-02 | fixed | Deva số ít → thiên nhân |
+| 46 | m/mittena-macca-sutta-01 | fixed | advised/established phrasing |
+| 47 | m/mittena-macca-sutta-02 | fixed | advised/established phrasing |
+| 48 | m/mittinna | clean |  |
+| 49 | m/moggali-2 | clean |  |
+| 50 | m/moggali | fixed | converted → cảm hóa |
+| 51 | m/moggaliputtatissa-thera | fixed | converting/religion/Bodhi-tree/deathbed render |
+| 52 | m/moggalla | clean |  |
+| 53 | m/moggallana-02 | clean |  |
+| 54 | m/moggallana-03 | clean |  |
+| 55 | m/moggallana-04 | clean |  |
+| 56 | m/moggallana-05 | clean |  |
+| 57 | m/moggallana-06 | clean |  |
+| 58 | m/moggallana-07 | clean |  |
+| 59 | m/moggallana-08 | clean |  |
+| 60 | m/moggallanasamyutta | clean |  |
+| 61 | m/moriyarattha | clean |  |
+| 62 | m/mucala | clean |  |
+| 63 | m/mucalinda-01 | clean |  |
+| 64 | m/mucalinda-02 | fixed | Awakening/hood render |
+| 65 | m/mucalinda-03 | clean |  |
+| 66 | m/mucalinda-04 | clean |  |
+| 67 | m/mucalinda-05 | clean |  |
+| 68 | m/mucalinda-06 | fixed | verse → câu kệ |
+| 69 | m/mucalindavagga | clean |  |
+| 70 | m/mucalindavana | clean |  |
+| 71 | m/mucelavihara | clean |  |
+| 72 | m/mucelupatthana | clean |  |
+| 73 | m/muddhaphalanapanha | fixed | clarified Brahmin/Bāvarī pronouns |
+| 74 | m/mudita-thera | clean |  |
+| 75 | m/mudita | clean |  |
+| 76 | m/muditasutta | clean |  |
+| 77 | m/mudulakkhana | clean |  |
+| 78 | m/mudulakkhanajataka | fixed | spiritual attainments + Buddha subject phrasing |
+| 79 | m/mudupanijataka | clean |  |
+| 80 | m/mudusitala | clean |  |
+| 81 | m/mugapakkha | clean |  |
+| 82 | m/mugapakkhajataka | fixed | samāgama/Bodhisatta/Great Renunciation phrasing |
+| 83 | m/mugasenapativihara | clean |  |
+| 84 | m/muggagamavihara | clean |  |
+| 85 | m/muggayatanarattha | clean |  |
+| 86 | m/muhunnaruggama | clean |  |
+| 87 | m/mujalinda | clean |  |
+| 88 | m/mukhamattasara | clean |  |
+| 89 | m/mucelapattana | clean |  |
+| 90 | m/muduka | clean |  |
+| 91 | m/mukheluvana | clean |  |
+| 92 | m/mukkhamattadipani | clean |  |
+| 93 | m/mula | clean |  |
+| 94 | m/muladeva | clean |  |
+| 95 | m/mulakasutta | clean |  |
+| 96 | m/mulanagama | clean |  |
+| 97 | m/mulanagasenapativihara | clean |  |
+| 98 | m/mulapariyayajataka | fixed | consume riddle phrasing |
+| 99 | m/mulapariyayasutta | fixed | addressed-to phrasing |
+| 100 | m/mulasala | clean |  |
+| 101 | m/mulasikkha | fixed | see → xem |
+| 102 | m/mulasomavihara | clean |  |
+| 103 | m/mulasutta-01 | fixed | overcome by → bị chi phối |
+| 104 | m/mulatika | fixed | removed untranslated “sub-commentary” |
+| 105 | m/mulavarikavapi | clean |  |
+| 106 | m/mulavokasavihara | clean |  |
+| 107 | m/muluppalavapi | clean |  |
+| 108 | m/muluttagama | clean |  |
+| 109 | m/munali | fixed | born as → sinh làm |
+| 110 | m/munaru | clean |  |
+| 111 | m/munayadha | clean |  |
+| 112 | m/munda | clean |  |
+| 113 | m/mundaganga | clean |  |
+| 114 | m/mundagutta | clean |  |
+| 115 | m/mundaka | clean |  |
+| 116 | m/mundanigama | clean |  |
+| 117 | m/mundannanankonda | clean |  |
+| 118 | m/mundarajavagga | clean |  |
+| 119 | m/mundikkara | clean |  |
+| 120 | m/mundrannaddhana | clean |  |
+
+## Batch: k/ (Kukkuṭavatī → Kuraraghara) — k_b5c87e4d — 120 entries
+- Ngày review: 2026-07-11
+- Người/model: Codex / GPT-5
+- Phạm vi: k_b5c87e4d-57c2-482a-a92b-81d39b8c0053_result.md
+- Kết quả: 120/120 đạt; 8 file sửa low-risk; 0 needs_check; tất cả giữ status=draft.
+
+| # | Entry (k/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | k/kukkutavati | clean |  |
+| 2 | k/kukkuvagga | clean |  |
+| 3 | k/kukuttha | clean |  |
+| 4 | k/kulalitissa | clean |  |
+| 5 | k/kulantavapi | clean |  |
+| 6 | k/kulaputtasutta | clean |  |
+| 7 | k/kulaputtena-dukkha-sutta | fixed | body etc. → thân vân vân |
+| 8 | k/kulasekhara-01 | clean |  |
+| 9 | k/kulasekhara-02 | clean |  |
+| 10 | k/kulasutta-01 | clean |  |
+| 11 | k/kulasutta-03 | clean |  |
+| 12 | k/kulasutta | clean |  |
+| 13 | k/kulavaddhaka | clean |  |
+| 14 | k/kulavaddhana | clean |  |
+| 15 | k/kulavakajataka | clean |  |
+| 16 | k/kulavakasutta | clean |  |
+| 17 | k/kulavakavagga | clean |  |
+| 18 | k/kulinga | clean |  |
+| 19 | k/kulla-thera | clean |  |
+| 20 | k/kulumbarikannika | clean |  |
+| 21 | k/kulumbasutta | clean |  |
+| 22 | k/kulupakasutta-01 | clean |  |
+| 23 | k/kulupakasutta-02 | clean |  |
+| 24 | k/kulupakasutta-03 | clean |  |
+| 25 | k/kulupakasutta-04 | clean |  |
+| 26 | k/kuma | clean |  |
+| 27 | k/kumara-01 | clean |  |
+| 28 | k/kumara-kassapa-01 | clean |  |
+| 29 | k/kumara-kassapa-02 | clean |  |
+| 30 | k/kumara-02 | clean |  |
+| 31 | k/kumara-kassapatheravatthu | clean |  |
+| 32 | k/kumaradhatusena | fixed | CE niên đại: TL → CN |
+| 33 | k/kumarapabba | clean |  |
+| 34 | k/kumarapanha | clean |  |
+| 35 | k/kumarapetavatthu-01 | clean |  |
+| 36 | k/kumarapetavatthu-02 | fixed | Petas → ngạ quỷ theo glossary |
+| 37 | k/kumarasena | clean |  |
+| 38 | k/kumarasiha | clean |  |
+| 39 | k/kumarasutta | clean |  |
+| 40 | k/kumaribhutavagga | clean |  |
+| 41 | k/kumaripanha | clean |  |
+| 42 | k/kumariyasutta | clean |  |
+| 43 | k/kumbagama | clean |  |
+| 44 | k/kumbalaka | clean |  |
+| 45 | k/kumbalatissapabbata | clean |  |
+| 46 | k/kumbalavata | clean |  |
+| 47 | k/kumbhaghosaka | fixed | clarified servant-offer and inheritance phrasing |
+| 48 | k/kumbhajataka | clean |  |
+| 49 | k/kumbhakanna | clean |  |
+| 50 | k/kumbhakarajataka | clean |  |
+| 51 | k/kumbhanda-2 | clean |  |
+| 52 | k/kumbhanda | clean |  |
+| 53 | k/kumbhapura | clean |  |
+| 54 | k/kumbhasutta-01 | clean |  |
+| 55 | k/kumbhasutta-02 | fixed | suffering → khổ |
+| 56 | k/kumbhavagga | clean |  |
+| 57 | k/kumbhavati | clean |  |
+| 58 | k/kumbhigallaka | clean |  |
+| 59 | k/kumbhilajataka | clean |  |
+| 60 | k/kumbhilasobbha | clean |  |
+| 61 | k/kumbhilavanaka | clean |  |
+| 62 | k/kumbhilavihara | clean |  |
+| 63 | k/kumbhira | clean |  |
+| 64 | k/kumbugama | clean |  |
+| 65 | k/kumbulapabbata | clean |  |
+| 66 | k/kummasadayaka-thera | clean |  |
+| 67 | k/kummasapindajataka | clean |  |
+| 68 | k/kummasutta-01 | clean |  |
+| 69 | k/kummasutta-02 | clean |  |
+| 70 | k/kummasutta-03 | clean |  |
+| 71 | k/kumuda-02 | clean |  |
+| 72 | k/kumuda-03 | clean |  |
+| 73 | k/kumudadayaka-thera | clean |  |
+| 74 | k/kumudamaliya-thera-01 | clean |  |
+| 75 | k/kumudamaliya-thera-02 | clean |  |
+| 76 | k/kunala-01 | clean |  |
+| 77 | k/kunala-02 | clean |  |
+| 78 | k/kunala | clean |  |
+| 79 | k/kunalajataka | clean |  |
+| 80 | k/kunappunallura | clean |  |
+| 81 | k/kuncanaga | fixed | CE niên đại: TL → CN |
+| 82 | k/kunda | clean |  |
+| 83 | k/kundadhana-thera | fixed | earthbound sprite + former monk phrasing |
+| 84 | k/kundadhanavana | clean |  |
+| 85 | k/kundakakucchisindhavajataka | clean |  |
+| 86 | k/kundakakumara | clean |  |
+| 87 | k/kundakapuvajataka | clean |  |
+| 88 | k/kundala-thera | clean |  |
+| 89 | k/kundala | clean |  |
+| 90 | k/kumuda-01 | clean |  |
+| 91 | k/kundalakesittherivatthu | clean |  |
+| 92 | k/kundali-01 | clean |  |
+| 93 | k/kundali-02 | clean |  |
+| 94 | k/kundali-03 | clean |  |
+| 95 | k/kundali-04 | clean |  |
+| 96 | k/kundalini | clean |  |
+| 97 | k/kundalinipanha | clean |  |
+| 98 | k/kundalisutta | clean |  |
+| 99 | k/kundaliya | clean |  |
+| 100 | k/kundasala | clean |  |
+| 101 | k/kundayamutta | clean |  |
+| 102 | k/kundayankotta | clean |  |
+| 103 | k/kundi-01 | clean |  |
+| 104 | k/kundi-02 | clean |  |
+| 105 | k/kundinagariya-thera | clean |  |
+| 106 | k/kundukala | clean |  |
+| 107 | k/kunjara-01 | clean |  |
+| 108 | k/kunjara-02 | clean |  |
+| 109 | k/kunjarahinaka | clean |  |
+| 110 | k/kunta | clean |  |
+| 111 | k/kuntamalaka | clean |  |
+| 112 | k/kuntanijataka | clean |  |
+| 113 | k/kuntavara | clean |  |
+| 114 | k/kunti | clean |  |
+| 115 | k/kupikkala | clean |  |
+| 116 | k/kuppasutta | clean |  |
+| 117 | k/kupuvena | clean |  |
+| 118 | k/kurandaka | fixed | ironwood tree phrasing |
+| 119 | k/kurangavi | clean |  |
+| 120 | k/kuraraghara | clean |  |
+
+## Batch: p/ (Phala → Piya) — 120 entries
+- Ngày review: 2026-07-11
+- Người/model: Codex / GPT-5
+- Phạm vi: p_774944d1-032c-4735-857c-29f9e984a92c_result.md
+- Kết quả: 120/120 đạt; 15 file sửa low-risk; 0 file đặt needs_check; tất cả giữ status=draft.
+
+| # | Entry (p/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | p/phalajataka | clean |  |
+| 2 | p/phalakadayaka-thera | clean |  |
+| 3 | p/phalakala | clean |  |
+| 4 | p/phalasutta-01 | clean |  |
+| 5 | p/phalasutta-02 | clean |  |
+| 6 | p/phalasutta-03 | clean |  |
+| 7 | p/phalasutta-04 | clean |  |
+| 8 | p/phalika | clean |  |
+| 9 | p/phalikasandana | clean |  |
+| 10 | p/phaludhiya | clean |  |
+| 11 | p/phandanajataka | fixed | removed unsupported English gloss for tree deity |
+| 12 | p/pharusa | clean |  |
+| 13 | p/pharusaka | clean |  |
+| 14 | p/pharusaphaladayaka-thera | clean |  |
+| 15 | p/pharusasutta | clean |  |
+| 16 | p/phassamulakasutta | clean |  |
+| 17 | p/phassasutta-01 | clean |  |
+| 18 | p/phassasutta-02 | clean |  |
+| 19 | p/phassasutta-03 | clean |  |
+| 20 | p/phassasutta-04 | clean |  |
+| 21 | p/phassayatanikasutta | clean |  |
+| 22 | p/phasusutta-01 | clean |  |
+| 23 | p/phasusutta-02 | clean |  |
+| 24 | p/phasuviharavagga | clean |  |
+| 25 | p/pheggu | clean |  |
+| 26 | p/phenasutta | fixed | body/feelings phrasing |
+| 27 | p/phudhamanakamanta | clean |  |
+| 28 | p/phulla | clean |  |
+| 29 | p/phusati | fixed | save-condemned phrasing |
+| 30 | p/phusatisutta | fixed | recoil phrasing |
+| 31 | p/phussa-01 | clean |  |
+| 32 | p/phussa-02 | clean |  |
+| 33 | p/phussa | clean |  |
+| 34 | p/phussadeva-01 | clean |  |
+| 35 | p/phussadeva-02 | clean |  |
+| 36 | p/phussadeva-03 | clean |  |
+| 37 | p/phussadeva-04 | fixed | Bodhi tree render per glossary |
+| 38 | p/phussamitta-2 | clean |  |
+| 39 | p/phussamitta | clean |  |
+| 40 | p/picumalaka | clean |  |
+| 41 | p/pihitasutta | clean |  |
+| 42 | p/pilakkhaguha | clean |  |
+| 43 | p/pilakkhaphaladayaka-thera | clean |  |
+| 44 | p/pilapitthi | clean |  |
+| 45 | p/pilavasu | clean |  |
+| 46 | p/pilavitthi | clean |  |
+| 47 | p/pilayakuta | clean |  |
+| 48 | p/pilayamara | clean |  |
+| 49 | p/pilimvatthu | clean |  |
+| 50 | p/pilinda | clean |  |
+| 51 | p/pilindagama | clean |  |
+| 52 | p/pilindavaccha | fixed | Devas render and kidnapping-return phrasing |
+| 53 | p/piliya | clean |  |
+| 54 | p/piliyakkha | clean |  |
+| 55 | p/pillavitthi | clean |  |
+| 56 | p/pillicchakoli | clean |  |
+| 57 | p/pilotika-01 | fixed | golden-colour phrasing |
+| 58 | p/pilotika-02 | clean |  |
+| 59 | p/pilotikakamma | clean |  |
+| 60 | p/pindapatadayakatissa | clean |  |
+| 61 | p/pindapataparisuddhasutta | clean |  |
+| 62 | p/pindapatika-thera | clean |  |
+| 63 | p/pindapatikatissa | clean |  |
+| 64 | p/pindapatiya-tissa | clean |  |
+| 65 | p/pindasakuniyasutta | clean |  |
+| 66 | p/pindikasutta | clean |  |
+| 67 | p/pindola | clean |  |
+| 68 | p/pindolasutta | clean |  |
+| 69 | p/pindolyasutta | fixed | retire/lowliest calling phrasing |
+| 70 | p/pingala-02 | clean |  |
+| 71 | p/pingala-03 | clean |  |
+| 72 | p/pingala-04 | clean |  |
+| 73 | p/pingala-buddharakkhita | clean |  |
+| 74 | p/pingala-koccha | fixed | tawny complexion |
+| 75 | p/pingala | clean |  |
+| 76 | p/pingiya-01 | clean |  |
+| 77 | p/pingiya-02 | clean |  |
+| 78 | p/pingiya-03 | clean |  |
+| 79 | p/pingiya-04 | clean |  |
+| 80 | p/pingiyani-01 | clean |  |
+| 81 | p/pingiyani-02 | clean |  |
+| 82 | p/pingiyanisutta | clean |  |
+| 83 | p/pinguttara | clean |  |
+| 84 | p/pipphaliguha | clean |  |
+| 85 | p/pipphalimanava | fixed | previous-birth phrasing |
+| 86 | p/pipphalivihara | clean |  |
+| 87 | p/pitakattayalakkhana | clean |  |
+| 88 | p/pindasutta | clean |  |
+| 89 | p/pindiyalopasutta | clean |  |
+| 90 | p/pindola-bharadvaja | fixed | cheap-miracle/gifts phrasing |
+| 91 | p/pitavimanavatthu | clean |  |
+| 92 | p/pithajataka | fixed | Bodhisatta render per glossary |
+| 93 | p/pithavagga | clean |  |
+| 94 | p/pithiya | clean |  |
+| 95 | p/pitimalla | clean |  |
+| 96 | p/pitisutta | clean |  |
+| 97 | p/pitthigama | clean |  |
+| 98 | p/piyadassi-01 | fixed | Deva/Bodhisatta/league/crore render |
+| 99 | p/piyadassi-02 | clean |  |
+| 100 | p/piyadassi-04 | clean |  |
+| 101 | p/piyadassi-05 | clean |  |
+| 102 | p/piyadassi-06 | clean |  |
+| 103 | p/piyajali | clean |  |
+| 104 | p/piyajatikasutta | clean |  |
+| 105 | p/piyaka | clean |  |
+| 106 | p/piyaketa | clean |  |
+| 107 | p/piyalaphaladayaka-thera | clean |  |
+| 108 | p/piyalapupphiya-thera | clean |  |
+| 109 | p/piyali | clean | glossary flag false positive: Devasabha proper name |
+| 110 | p/piyangalla | clean |  |
+| 111 | p/piyangaparivena | clean |  |
+| 112 | p/piyangudipa | clean |  |
+| 113 | p/piyanjaha-thera | fixed | Devas render per glossary |
+| 114 | p/piyankara | clean |  |
+| 115 | p/piyankarasutta | clean |  |
+| 116 | p/piyapala | clean |  |
+| 117 | p/piyasutta-01 | fixed | pious render |
+| 118 | p/piyasutta-02 | clean |  |
+| 119 | p/piya | clean |  |
+| 120 | p/piyadassi-03 | clean |  |
+
+## Batch: s/ (Soṇaka → Suciṁhita) — s_2cfc8b5f — 120 entries
+- Ngày review: 2026-07-11
+- Người/model: Codex / GPT-5
+- Phạm vi: s_2cfc8b5f-ca16-469b-bdfe-7b227602d065_result.md
+- Kết quả: 120/120 đạt; 9 file sửa low-risk; 0 file đặt needs_check; tất cả giữ status=draft.
+
+| # | Entry (s/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | s/sonaka-thera | clean |  |
+| 2 | s/sonaka | clean |  |
+| 3 | s/sonakajataka | clean |  |
+| 4 | s/sonakayana | clean |  |
+| 5 | s/sonakayanasutta | clean |  |
+| 6 | s/sonanandajataka | clean |  |
+| 7 | s/sonasutta-2 | clean |  |
+| 8 | s/sonasutta | clean |  |
+| 9 | s/sonattheravagga | clean |  |
+| 10 | s/sonayamata | clean |  |
+| 11 | s/sonnabha | clean |  |
+| 12 | s/sonuttara-01 | fixed | relic casket -> hộp xá-lợi |
+| 13 | s/sonuttara-02 | clean |  |
+| 14 | s/sonuttara-03 | clean |  |
+| 15 | s/sonuttara | clean |  |
+| 16 | s/sora-lankagiri | clean |  |
+| 17 | s/sorandakkotta | clean |  |
+| 18 | s/sorata-01 | clean |  |
+| 19 | s/soratthaka | clean |  |
+| 20 | s/sotanugatasutta | clean |  |
+| 21 | s/sotapannasamyutta | clean |  |
+| 22 | s/sonarama | clean |  |
+| 23 | s/sonemi | clean |  |
+| 24 | s/sonuttara-04 | clean |  |
+| 25 | s/sopaka-thera-01 | clean |  |
+| 26 | s/sopaka-thera-02 | clean |  |
+| 27 | s/sorata-02 | clean |  |
+| 28 | s/soreyya-01 | fixed | first assembly of monks -> hội chúng tỳ-kheo đầu tiên |
+| 29 | s/soreyya-02 | clean |  |
+| 30 | s/sosanika-mahakumara-thera | clean |  |
+| 31 | s/sotapannasutta-01 | clean |  |
+| 32 | s/sotapannasutta-02 | clean |  |
+| 33 | s/sotarama | clean |  |
+| 34 | s/sotarasutta | clean |  |
+| 35 | s/sotasutta-01 | clean |  |
+| 36 | s/sotasutta-02 | clean |  |
+| 37 | s/sotthija | clean |  |
+| 38 | s/sotthika | clean |  |
+| 39 | s/sotthisena-01 | clean |  |
+| 40 | s/sotthisena-02 | clean |  |
+| 41 | s/sotthivati | clean |  |
+| 42 | s/sotthiya-01 | clean |  |
+| 43 | s/sotthiya-03 | clean |  |
+| 44 | s/sotthiyakara | clean |  |
+| 45 | s/sotumbara | clean |  |
+| 46 | s/sovannakattarika-thera | clean |  |
+| 47 | s/sovannakinkhaniya-thera | clean |  |
+| 48 | s/subahu-01 | clean |  |
+| 49 | s/subahu-02 | clean |  |
+| 50 | s/subahu-03 | clean |  |
+| 51 | s/subahu-04 | clean |  |
+| 52 | s/subahu-05 | clean |  |
+| 53 | s/subandhu | clean |  |
+| 54 | s/subbata | clean |  |
+| 55 | s/subha-01-2 | clean |  |
+| 56 | s/subha-01 | clean |  |
+| 57 | s/subha-02-2 | fixed | gods of Tāvatiṁsa -> chư thiên cõi Tāvatiṁsa |
+| 58 | s/subha-02 | clean |  |
+| 59 | s/subha-03-2 | clean |  |
+| 60 | s/sovira | clean |  |
+| 61 | s/subha-03 | clean |  |
+| 62 | s/subha-04 | clean |  |
+| 63 | s/subha-05 | clean |  |
+| 64 | s/subha-06 | clean |  |
+| 65 | s/subhadda-01-2 | clean |  |
+| 66 | s/subhadda-01 | clean |  |
+| 67 | s/subhadda-02-2 | clean |  |
+| 68 | s/subhadda-02 | clean |  |
+| 69 | s/subhadda-03-2 | clean |  |
+| 70 | s/subhadda-03 | clean |  |
+| 71 | s/subhadda-04 | clean |  |
+| 72 | s/subhadda-05-2 | clean |  |
+| 73 | s/subhadda-05 | clean |  |
+| 74 | s/subhadda-06-2 | clean |  |
+| 75 | s/subhadda-06 | fixed | formula/Bát Thánh đạo render |
+| 76 | s/subhadda-07 | fixed | removed unsupported cõi dục gloss |
+| 77 | s/subhadda-08 | fixed | fixed punctuation after Vijayabāhu I |
+| 78 | s/subhaddacetiya | clean |  |
+| 79 | s/subhadeva | clean |  |
+| 80 | s/subhaga | clean |  |
+| 81 | s/subhagavana | fixed | chư thiên + romantic nature phrasing |
+| 82 | s/subhagavati | clean |  |
+| 83 | s/subhagiri | clean |  |
+| 84 | s/subhakinna | clean |  |
+| 85 | s/subhakuta | clean |  |
+| 86 | s/subhasitasutta | clean |  |
+| 87 | s/subhasutta-01 | clean |  |
+| 88 | s/subhasutta-02 | clean |  |
+| 89 | s/subhasutta-03 | clean |  |
+| 90 | s/subhadda-07-2 | clean |  |
+| 91 | s/subhavati-01 | fixed | Deva king -> thiên vương |
+| 92 | s/subhavati-02 | clean |  |
+| 93 | s/subhuta-thera | clean |  |
+| 94 | s/subhutacandana | clean |  |
+| 95 | s/subhuti-thera | clean |  |
+| 96 | s/subhutisutta | clean |  |
+| 97 | s/subodhalankara | clean |  |
+| 98 | s/subrahma-01 | clean |  |
+| 99 | s/subrahma-02 | clean |  |
+| 100 | s/subrahma-03 | clean |  |
+| 101 | s/subrahmasutta | clean |  |
+| 102 | s/sucanda-01 | clean |  |
+| 103 | s/sucanda-02 | clean |  |
+| 104 | s/sucanda-03 | clean |  |
+| 105 | s/sucanda | clean |  |
+| 106 | s/sucandaka-01 | clean |  |
+| 107 | s/sucandaka-02 | clean |  |
+| 108 | s/sucaritasutta | clean |  |
+| 109 | s/sucaritavagga | clean |  |
+| 110 | s/sucarudassana | clean |  |
+| 111 | s/succajajataka | clean |  |
+| 112 | s/succhavi | clean |  |
+| 113 | s/sucela | clean |  |
+| 114 | s/sucidayaka-thera | clean |  |
+| 115 | s/sucijataka | clean |  |
+| 116 | s/suciloma | fixed | persuasions -> khuynh hướng |
+| 117 | s/sucilomasutta | clean |  |
+| 118 | s/sucima | clean |  |
+| 119 | s/sucimati | clean |  |
+| 120 | s/sucimhita | clean |  |
+
+
+## Batch: t/tathasutta-01–timbarukasutta — 120 entries
+
+- Ngày review: 2026-07-11
+- Người/model: GPT-5 Codex review
+- Phạm vi: t_baa2707f-c416-41e6-a9e8-a2e2f51dcb12_result.md
+- Kết quả: 120/120 đạt; 26 file sửa low-risk; 0 file đặt needs_check.
+
+| # | Entry (t/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | t/tathasutta-01 | clean |  |
+| 2 | t/tathasutta-02 | clean |  |
+| 3 | t/telakandarika | clean |  |
+| 4 | t/tenkongu | clean |  |
+| 5 | t/tatojasi | clean |  |
+| 6 | t/tatola | clean |  |
+| 7 | t/tavakannika | clean |  |
+| 8 | t/tavatimsa | fixed | Devas -> chư thiên; Jātaka Commentary -> Chú giải Bổn sinh |
+| 9 | t/tayana | clean |  |
+| 10 | t/tayanasutta | clean |  |
+| 11 | t/tayodhammajataka | clean |  |
+| 12 | t/tebhatikajatila | clean |  |
+| 13 | t/tejasi | clean |  |
+| 14 | t/tejodipa | clean |  |
+| 15 | t/tekicchakari-thera | clean |  |
+| 16 | t/tekula | fixed | Thera -> Trưởng lão |
+| 17 | t/tela | clean |  |
+| 18 | t/telagama | clean |  |
+| 19 | t/telakani-thera | clean |  |
+| 20 | t/telakatahagatha | fixed | Thera -> Trưởng lão |
+| 21 | t/telamakkhiya-thera | clean |  |
+| 22 | t/telapakkanijjhara | clean |  |
+| 23 | t/telapattajataka | clean |  |
+| 24 | t/telappanali | clean |  |
+| 25 | t/telavaha | clean |  |
+| 26 | t/telovadajataka | clean |  |
+| 27 | t/telumapali | clean |  |
+| 28 | t/temiya | clean |  |
+| 29 | t/tennavallappalla | clean |  |
+| 30 | t/tesakunajataka | clean |  |
+| 31 | t/tevijja-vacchagottasutta | fixed | Paribbājakārāma -> tu viện của các du sĩ ngoại đạo |
+| 32 | t/tevijjasutta | clean |  |
+| 33 | t/thakuraka | clean |  |
+| 34 | t/thambaropaka-thera | clean |  |
+| 35 | t/thanakonkana | fixed | Ceylon -> Tích Lan |
+| 36 | t/thanasutta-01 | clean |  |
+| 37 | t/thanasutta-02 | clean |  |
+| 38 | t/thanasutta-03 | clean |  |
+| 39 | t/thanasutta-04 | clean |  |
+| 40 | t/thanasutta-05 | clean |  |
+| 41 | t/thanasutta-06 | clean |  |
+| 42 | t/thanasutta-07 | clean |  |
+| 43 | t/thanasutta-08 | clean |  |
+| 44 | t/thanasutta-09 | clean |  |
+| 45 | t/thanasutta-10 | clean |  |
+| 46 | t/thapanasutta | clean |  |
+| 47 | t/thapatayo-sutta | fixed | Sotāpanna gloss -> bậc Dự lưu |
+| 48 | t/thera | clean |  |
+| 49 | t/theragatha | fixed | Theras -> Trưởng lão |
+| 50 | t/therambalakavihara | clean |  |
+| 51 | t/theranamasutta | clean |  |
+| 52 | t/theranambandhamalaka | clean |  |
+| 53 | t/therapassayaparivena | clean |  |
+| 54 | t/theraputtabhaya-2 | clean |  |
+| 55 | t/theraputtabhaya | clean |  |
+| 56 | t/therasutta-01 | fixed | Devas -> chư thiên |
+| 57 | t/therasutta-02 | clean |  |
+| 58 | t/theravada-theravadins | clean |  |
+| 59 | t/theravagga-01 | clean |  |
+| 60 | t/theravagga-02 | clean |  |
+| 61 | t/theravagga-03 | clean |  |
+| 62 | t/therigatha | clean |  |
+| 63 | t/therika | fixed | Therī render; arbour mistranslation |
+| 64 | t/theriyaparampara | clean |  |
+| 65 | t/thitanjaliya | fixed | Arahant Thera -> Trưởng lão Arahant |
+| 66 | t/thitisutta-01 | clean |  |
+| 67 | t/thitisutta-02 | fixed | bốn Tứ niệm xứ -> bốn niệm xứ |
+| 68 | t/thitisutta-03 | clean |  |
+| 69 | t/thitisutta-04 | clean |  |
+| 70 | t/thomadayaka-thera | fixed | Deva singular -> thiên nhân |
+| 71 | t/thulathana | fixed | Ceylon -> Tích Lan |
+| 72 | t/thullakotthita-01 | clean |  |
+| 73 | t/thullakotthita-02 | clean |  |
+| 74 | t/thullananda | fixed | sửa cụm gave vent to displeasure |
+| 75 | t/thullatissa-2 | clean |  |
+| 76 | t/thuna | clean |  |
+| 77 | t/thuneyyaka | clean |  |
+| 78 | t/thuparahasutta | clean |  |
+| 79 | t/thuparama-01 | fixed | Ceylon -> Tích Lan; sapling; ordained |
+| 80 | t/thuparama-02 | clean |  |
+| 81 | t/thupasikha | clean |  |
+| 82 | t/thupavamsa | clean |  |
+| 83 | t/thupavitthivihara | fixed | Ceylon -> Tích Lan |
+| 84 | t/thusajataka | clean |  |
+| 85 | t/thusavapi | clean |  |
+| 86 | t/thusavatthi | fixed | Ceylon -> Tích Lan |
+| 87 | t/ti-ukkadhariya-thera | fixed | sửa câu đuốc cho sát nghĩa |
+| 88 | t/ti-uppalamaliya-thera-01 | clean |  |
+| 89 | t/ti-uppalamaliya-thera-02 | clean |  |
+| 90 | t/tibhuvanamalla | clean |  |
+| 91 | t/ticampakapupphiya-thera | clean |  |
+| 92 | t/tidasa | fixed | Devas -> chư thiên |
+| 93 | t/tidiva | clean |  |
+| 94 | t/tidivadhibhu | clean |  |
+| 95 | t/tikandipupphiya-thera | clean |  |
+| 96 | t/tikanikarapupphiya-thera | fixed | Deva singular -> thiên nhân |
+| 97 | t/tikanna | clean |  |
+| 98 | t/tikannasutta | clean |  |
+| 99 | t/tikannipupphiya | fixed | Arahant Thera -> Trưởng lão Arahant |
+| 100 | t/tikantakisutta | fixed | equanimity -> tâm xả |
+| 101 | t/tikantakivagga | clean |  |
+| 102 | t/tikantakivana | clean |  |
+| 103 | t/tikavagga | clean |  |
+| 104 | t/tikhinamanti | clean |  |
+| 105 | t/tikicchaka-thera | clean |  |
+| 106 | t/tikicchasutta | clean |  |
+| 107 | t/tikinkinipupphiya-thera | clean |  |
+| 108 | t/tikonamalatittha | fixed | Ceylon -> Tích Lan |
+| 109 | t/tikuta | clean |  |
+| 110 | t/tilagulla | fixed | Ceylon -> Tích Lan |
+| 111 | t/tilamutthidayaka-thera | clean |  |
+| 112 | t/tilamutthijataka | clean |  |
+| 113 | t/tilavatthu | clean |  |
+| 114 | t/tilokanagara | clean |  |
+| 115 | t/tilokanandana | clean |  |
+| 116 | t/tilokasundari | clean |  |
+| 117 | t/timanda | fixed | league -> do-tuần |
+| 118 | t/timbaru | clean |  |
+| 119 | t/timbaruka | fixed | conditioned existence -> tồn tại có điều kiện |
+| 120 | t/timbarukasutta | clean |  |
+
+
+## Batch: v/vijjabhagiyasutta–vira-02 — 120 entries
+
+- Ngày review: 2026-07-11
+- Người/model: GPT-5 Codex review
+- Phạm vi: v_f71c85ee-4fa7-4d03-9418-6331682bbf0b_result.md
+- Kết quả: 120/120 đạt; 23 file sửa low-risk; 0 file đặt needs_check.
+
+| # | Entry (v/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | v/vijjabhagiyasutta | fixed | renunciation -> tưởng xuất ly |
+| 2 | v/vijjasutta-01 | clean |  |
+| 3 | v/vijjasutta-02 | clean |  |
+| 4 | v/vijjasutta-04 | clean |  |
+| 5 | v/vijjasutta-06 | clean |  |
+| 6 | v/vijjavimuttisutta | clean |  |
+| 7 | v/vikalasutta | clean |  |
+| 8 | v/vijita-02 | clean |  |
+| 9 | v/vijita-03 | clean |  |
+| 10 | v/vijita-04 | fixed | translated also connective |
+| 11 | v/vijitamitta | clean |  |
+| 12 | v/vijitapura | clean |  |
+| 13 | v/vijitasangama | clean |  |
+| 14 | v/vijitasena-01-2 | clean |  |
+| 15 | v/vijitasena-01 | clean |  |
+| 16 | v/vijitasena-02 | clean |  |
+| 17 | v/vijitasena-03-2 | clean |  |
+| 18 | v/vijitasena-03 | clean |  |
+| 19 | v/vijitasena-04 | clean |  |
+| 20 | v/vijitavi-01 | clean |  |
+| 21 | v/vijitavi-02 | clean |  |
+| 22 | v/vijitavi-03 | clean |  |
+| 23 | v/vijitavi-04 | clean |  |
+| 24 | v/vijjadharaguha | fixed | Ibid. -> Sđd. |
+| 25 | v/vijjamandapa | clean |  |
+| 26 | v/vijjasutta-03 | clean |  |
+| 27 | v/vijjasutta-05 | clean |  |
+| 28 | v/vijjha | clean |  |
+| 29 | v/vikannakajataka | fixed | restored paragraph break |
+| 30 | v/vikata | clean |  |
+| 31 | v/vikkama | clean |  |
+| 32 | v/vikkamabahu-01 | clean |  |
+| 33 | v/vikkamabahu-02 | fixed | pronoun/capital wording; CE -> CN |
+| 34 | v/vikkamabahu-03 | clean |  |
+| 35 | v/vikkamabahu-04 | fixed | CE -> CN |
+| 36 | v/vikkamabahu-05 | fixed | CE -> CN |
+| 37 | v/vikkamacolappera | clean |  |
+| 38 | v/vikkamapandu | fixed | CE -> CN |
+| 39 | v/vikkamapura | clean |  |
+| 40 | v/vikkamarajasiha | fixed | CE -> CN |
+| 41 | v/vikkantacamunakka | fixed | CE -> CN |
+| 42 | v/vilana | clean |  |
+| 43 | v/vilasa | clean |  |
+| 44 | v/vilata | clean |  |
+| 45 | v/vilattakhanda | clean |  |
+| 46 | v/villagama | clean |  |
+| 47 | v/villavarayara | clean |  |
+| 48 | v/villikaba | clean |  |
+| 49 | v/vilokana | clean |  |
+| 50 | v/vimala-01-2 | clean |  |
+| 51 | v/vimala-01 | clean |  |
+| 52 | v/vimala-02-2 | clean |  |
+| 53 | v/vimala-02 | fixed | smoothed name explanation |
+| 54 | v/vimala-03-2 | clean |  |
+| 55 | v/vimala-03 | fixed | celebrations -> nghi lễ trọng thể |
+| 56 | v/vimala-04-2 | clean |  |
+| 57 | v/vimala-04 | clean |  |
+| 58 | v/vimala-05 | clean |  |
+| 59 | v/vimala-06 | clean |  |
+| 60 | v/vimala-07 | clean |  |
+| 61 | v/vimala-kondanna-thera | fixed | restored paragraph break |
+| 62 | v/vimalabuddhi-01 | clean |  |
+| 63 | v/vimalabuddhi-02 | clean |  |
+| 64 | v/vimaladhammasuriya-01 | fixed | CE -> CN; casket -> hộp xá-lợi |
+| 65 | v/vimaladhammasuriya-02 | fixed | CE -> CN |
+| 66 | v/vimalatthavilasini | clean |  |
+| 67 | v/vimalavilasini | clean |  |
+| 68 | v/vimamsakasutta | clean |  |
+| 69 | v/vimamsanakanda | clean |  |
+| 70 | v/vimanavatthu | fixed | restored paragraph breaks |
+| 71 | v/vimaticchedani | clean |  |
+| 72 | v/vimativinodani | clean |  |
+| 73 | v/vimokkhakatha | clean |  |
+| 74 | v/vimokkhasutta | clean |  |
+| 75 | v/vimuttisutta | clean |  |
+| 76 | v/vinata | fixed | etc. -> v.v. |
+| 77 | v/vinataka | fixed | etc. -> v.v. |
+| 78 | v/vinathunajataka | fixed | restored paragraph break |
+| 79 | v/vinayadharasobhanasutta | clean |  |
+| 80 | v/vinayadharasutta | clean |  |
+| 81 | v/vinayaganthipada | clean |  |
+| 82 | v/vinayagulhatthadipani | clean |  |
+| 83 | v/vinayalankaratika | clean |  |
+| 84 | v/vinayapitaka | fixed | restored paragraph break |
+| 85 | v/vinayasamutthanadipani | clean |  |
+| 86 | v/vinayasangaha | clean |  |
+| 87 | v/vinayasangiti | clean |  |
+| 88 | v/vinayatthamanjusa | clean |  |
+| 89 | v/vinayavagga | clean |  |
+| 90 | v/vinayavinicchaya | clean |  |
+| 91 | v/vindaka | clean |  |
+| 92 | v/vinelapupphiya-thera | clean |  |
+| 93 | v/vinibandhasutta | clean |  |
+| 94 | v/vinila | clean |  |
+| 95 | v/vinilakajataka | fixed | restored paragraph break |
+| 96 | v/vinjha-02 | clean |  |
+| 97 | v/vinnanancayatanupagadeva | clean |  |
+| 98 | v/vinnanasutta-01 | clean |  |
+| 99 | v/vinnanasutta-02 | clean |  |
+| 100 | v/vinnanasutta-03 | clean |  |
+| 101 | v/vinnanasutta-04 | clean |  |
+| 102 | v/vinnanasutta-05 | clean |  |
+| 103 | v/vinnanasutta-06 | clean |  |
+| 104 | v/vinupamovada | clean |  |
+| 105 | v/vipakkhasevakabhikkhuvatthu | clean |  |
+| 106 | v/vipallasakatha | clean |  |
+| 107 | v/vipallasasutta | clean |  |
+| 108 | v/vipassanakatha | clean |  |
+| 109 | v/vipassanasutta | clean |  |
+| 110 | v/vipassi-buddha | fixed | restored paragraph/list breaks |
+| 111 | v/vipassisutta | clean |  |
+| 112 | v/vipattisutta-01 | clean |  |
+| 113 | v/vipattisutta-02 | clean |  |
+| 114 | v/vipula-01 | clean |  |
+| 115 | v/vipula-02 | clean |  |
+| 116 | v/vipula | clean |  |
+| 117 | v/vipulabhasa | clean |  |
+| 118 | v/vipulasutta | clean |  |
+| 119 | v/vira-01 | fixed | restored paragraph break |
+| 120 | v/vira-02 | clean |  |
+
+
+## Batch: n/Nātha–Nīlapabbatavihāra — n_7ff358fb — 120 entries
+
+- Ngày review: 2026-07-11
+- Người/model: GPT-5 Codex review
+- Phạm vi: n_7ff358fb-5204-4cdb-b90c-a73416921d49_result.md
+- Kết quả: 120/120 đạt; 19 file sửa low-risk; 0 file đặt needs_check; tất cả giữ status=draft.
+
+| # | Entry (n/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | n/nathadeva | clean |  |
+| 2 | n/nathasutta | clean |  |
+| 3 | n/natthiputtasamasutta | clean |  |
+| 4 | n/navasutta-03 | clean |  |
+| 5 | n/navasutta | clean |  |
+| 6 | n/natha-01 | clean |  |
+| 7 | n/natha-02 | clean |  |
+| 8 | n/natha-03 | clean |  |
+| 9 | n/nathaputtiya | clean |  |
+| 10 | n/nathavagga | clean |  |
+| 11 | n/natika-2 | clean |  |
+| 12 | n/natika | clean |  |
+| 13 | n/natikasutta | clean |  |
+| 14 | n/natthisutta | clean |  |
+| 15 | n/navagamapura | clean |  |
+| 16 | n/navagirisa | clean |  |
+| 17 | n/navakammika-bharadvaja | clean |  |
+| 18 | n/navakammikasutta | clean |  |
+| 19 | n/navanavatiya | clean |  |
+| 20 | n/navapuranavagga | clean |  |
+| 21 | n/navaratha | clean |  |
+| 22 | n/navasutta-01 | clean |  |
+| 23 | n/navavamsa | clean |  |
+| 24 | n/navayojanarattha | clean |  |
+| 25 | n/navindaki | clean |  |
+| 26 | n/nayanayudha | clean |  |
+| 27 | n/nayanussava | clean |  |
+| 28 | n/nehatakamuni-thera | clean |  |
+| 29 | n/nemi-02 | clean |  |
+| 30 | n/nemi-03 | clean |  |
+| 31 | n/nemi-04 | clean |  |
+| 32 | n/nemindhara | clean |  |
+| 33 | n/neranjara-01 | fixed | e.g. connective -> ví dụ |
+| 34 | n/neranjara-02 | clean |  |
+| 35 | n/neru-01 | clean |  |
+| 36 | n/neru-02 | clean |  |
+| 37 | n/nerujataka | clean |  |
+| 38 | n/nesada | clean |  |
+| 39 | n/nesadaka | clean |  |
+| 40 | n/nettaru | clean |  |
+| 41 | n/netti | clean |  |
+| 42 | n/nettippakarana | clean |  |
+| 43 | n/neyyasandati | clean |  |
+| 44 | n/nibbanasutta-01 | clean |  |
+| 45 | n/nibbanasutta-02 | clean |  |
+| 46 | n/nibbanasutta-03 | clean |  |
+| 47 | n/nibbanasutta-04 | clean |  |
+| 48 | n/nibbanasutta-05 | clean |  |
+| 49 | n/nibbanasutta-06 | clean |  |
+| 50 | n/nibbedhasutta | clean |  |
+| 51 | n/nibbedhikapariyaya | fixed | e.g. connective -> ví dụ |
+| 52 | n/nibbedhikasutta | clean |  |
+| 53 | n/nibbidasutta-01 | clean |  |
+| 54 | n/nibbidasutta-02 | clean |  |
+| 55 | n/nibbidasutta-03 | clean |  |
+| 56 | n/nibbidasutta-04 | clean |  |
+| 57 | n/nibbinda | clean |  |
+| 58 | n/niccavinodavanava | clean |  |
+| 59 | n/nicchavitthiaticarini-sutta | clean |  |
+| 60 | n/nicchavorabhisutta | clean |  |
+| 61 | n/niceluvana | clean |  |
+| 62 | n/nidanakatha | clean |  |
+| 63 | n/nidanasamyutta | clean |  |
+| 64 | n/nidanasutta-01-2 | clean |  |
+| 65 | n/nidanasutta-01 | clean |  |
+| 66 | n/nidanasutta-02-2 | clean |  |
+| 67 | n/nidanasutta-02 | fixed | removed unsupported Paṭiccasamuppāda/Saṁsāra glosses; e.g. connective |
+| 68 | n/nidanasutta-03 | clean |  |
+| 69 | n/nidanasutta-04 | clean |  |
+| 70 | n/nidanasutta-05 | clean |  |
+| 71 | n/nidanuddesa | clean |  |
+| 72 | n/nidda | clean |  |
+| 73 | n/niddasavatthusutta-01 | clean |  |
+| 74 | n/niddasavatthusutta-02 | clean |  |
+| 75 | n/niddasavatthusutta-03 | clean |  |
+| 76 | n/niddatandisutta | fixed | removed unsupported Noble Eightfold Path gloss |
+| 77 | n/niddesa | fixed | here and there phrasing; e.g. connective |
+| 78 | n/niddhamanasutta | clean |  |
+| 79 | n/nidhikandasutta | fixed | smoothed treasure phrasing |
+| 80 | n/nigaladha | clean |  |
+| 81 | n/nigamaggamappasada | clean |  |
+| 82 | n/nigamavasitissa | fixed | kinsmen mistranslation |
+| 83 | n/nigantha-nataputta | fixed | e.g./Deva render; removed unsupported glosses; flock phrasing |
+| 84 | n/nigantha | fixed | e.g. connectives |
+| 85 | n/nigaya | clean |  |
+| 86 | n/niggundipupphiya-thera-01 | clean |  |
+| 87 | n/niggundipupphiya-thera-02 | clean |  |
+| 88 | n/nighandu | clean |  |
+| 89 | n/nighasutta | clean |  |
+| 90 | n/nigrodha-01 | clean |  |
+| 91 | n/nigrodha-02 | fixed | Bodhisatta render per glossary |
+| 92 | n/nigrodha-03 | fixed | removed unsupported samādhi gloss |
+| 93 | n/nigrodha-05 | clean |  |
+| 94 | n/nigrodha-06 | fixed | Pacceka Buddha gloss format |
+| 95 | n/nigrodha-07 | clean |  |
+| 96 | n/nigrodha-kappa-thera | clean |  |
+| 97 | n/nigrodhaangana | clean |  |
+| 98 | n/nigrodhajataka | fixed | Bodhisatta render per glossary |
+| 99 | n/nigrodhamaragallaka | clean |  |
+| 100 | n/nigrodhamigajataka | fixed | Bodhisatta render per glossary |
+| 101 | n/nigrodhapitthi | fixed | removed unsupported vihāra/Thera glosses |
+| 102 | n/nigrodharama-01 | fixed | e.g./Deva render; assembly hall phrasing |
+| 103 | n/nigrodharama-02 | fixed | removed unsupported aeon gloss |
+| 104 | n/nigrodhasala | clean |  |
+| 105 | n/nigrodhasalakhanda | clean |  |
+| 106 | n/nigundivalukatittha | clean |  |
+| 107 | n/nijjarasutta | fixed | removed unsupported hư vô gloss |
+| 108 | n/nikapennakapadhanaghara | clean |  |
+| 109 | n/nikata-01 | fixed | removed unsupported Suddhāvāsā gloss |
+| 110 | n/nikata-02 | clean |  |
+| 111 | n/nikatthasutta | clean |  |
+| 112 | n/nikkhantasutta | clean |  |
+| 113 | n/nikumba | clean |  |
+| 114 | n/nila-01 | clean |  |
+| 115 | n/nila-02 | clean |  |
+| 116 | n/nilagalla-01 | clean |  |
+| 117 | n/nilagalla-02 | clean |  |
+| 118 | n/nilagallaka | clean |  |
+| 119 | n/nilageha | clean |  |
+| 120 | n/nilapabbatavihara | clean |  |
+
+
+## Batch: k/Kiṁsīlasutta–Koñcā — k_83f22a11 — 120 entries
+
+- Ngày review: 2026-07-11
+- Người/model: GPT-5 Codex review
+- Phạm vi: k_83f22a11-3c23-489a-9822-a1f1fa29c545_result.md
+- Kết quả: 120/120 đạt; 8 file sửa low-risk; 0 file đặt needs_check.
+
+| # | Entry (k/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | k/kimsilasutta | clean |  |
+| 2 | k/kimsukapujaka-thera | clean |  |
+| 3 | k/kimsukapupphiya-thera | fixed | Thera -> Trưởng lão trong văn xuôi |
+| 4 | k/kimsukasutta | clean |  |
+| 5 | k/kimsukavatthu | clean |  |
+| 6 | k/kimsukopamajataka | clean |  |
+| 7 | k/kimsukopamasutta | clean |  |
+| 8 | k/kinchandajataka | clean |  |
+| 9 | k/kincisangha | clean |  |
+| 10 | k/kindadasutta | clean |  |
+| 11 | k/kinjakesara | clean |  |
+| 12 | k/kinkinikapupphiya-thera | clean |  |
+| 13 | k/kinnara | clean |  |
+| 14 | k/kinnarajataka | clean |  |
+| 15 | k/kinnughandu | clean |  |
+| 16 | k/kintisutta | clean |  |
+| 17 | k/kirapatika | clean |  |
+| 18 | k/kirata | clean |  |
+| 19 | k/kirati | clean |  |
+| 20 | k/kiravapi | clean |  |
+| 21 | k/kirindagama | clean |  |
+| 22 | k/kiriyasutta | clean |  |
+| 23 | k/kisa-gotami-02 | clean |  |
+| 24 | k/kisa-gotami-03 | clean |  |
+| 25 | k/kisa-gotami-04 | clean |  |
+| 26 | k/kisa-gotamivatthu-02 | clean |  |
+| 27 | k/kisa-gotamivatthu-03 | clean |  |
+| 28 | k/kisa-gotamivatthu-04 | clean |  |
+| 29 | k/kisa-sankicca | clean |  |
+| 30 | k/kisa-gotami-01 | clean |  |
+| 31 | k/kisa-vaccha | clean |  |
+| 32 | k/kisalayapujaka-thera | clean |  |
+| 33 | k/kitagiri | clean |  |
+| 34 | k/kitagirisutta | clean |  |
+| 35 | k/kitava | clean |  |
+| 36 | k/kitavasa | clean |  |
+| 37 | k/kittaggabodhi-01 | clean |  |
+| 38 | k/kittaggabodhi-02 | fixed | làm rõ Mahinda là *Uparāja* và Kitti là mẹ |
+| 39 | k/kittaggabodhipabbata | clean |  |
+| 40 | k/kittakandaka | clean |  |
+| 41 | k/kitti-01-2 | clean |  |
+| 42 | k/kitti-01 | fixed | chỉnh nghĩa appropriated/remitted, bỏ sắc thái chiếm đoạt |
+| 43 | k/kitti-02-2 | clean |  |
+| 44 | k/kitti-02 | clean |  |
+| 45 | k/kitti-03 | clean |  |
+| 46 | k/kitti-04 | clean |  |
+| 47 | k/kitti-05 | clean |  |
+| 48 | k/kitti-06 | clean |  |
+| 49 | k/kitti-07 | clean |  |
+| 50 | k/kitti-08 | clean |  |
+| 51 | k/kitti-09 | clean |  |
+| 52 | k/kitti-10 | clean |  |
+| 53 | k/kitti-11 | clean |  |
+| 54 | k/kittigama | clean |  |
+| 55 | k/kittinissanka | clean |  |
+| 56 | k/kittinissankavihara | clean |  |
+| 57 | k/kittirajavalukagama | clean |  |
+| 58 | k/kittisena | clean |  |
+| 59 | k/kittisihasura | clean |  |
+| 60 | k/kittisirimegha-01 | clean |  |
+| 61 | k/kittisirimegha-02 | clean |  |
+| 62 | k/kittisirimegha-03 | clean |  |
+| 63 | k/kittisirirajasiha | clean |  |
+| 64 | k/kocchagalla | clean |  |
+| 65 | k/koddhangulikedara | clean |  |
+| 66 | k/kodhabhakkha | clean |  |
+| 67 | k/kodhanasutta-01 | clean |  |
+| 68 | k/kodhanasutta-02 | clean |  |
+| 69 | k/kodhasutta-01 | clean |  |
+| 70 | k/kodhasutta-02 | clean |  |
+| 71 | k/kodhavagga-01 | clean |  |
+| 72 | k/kodhavagga-02 | clean |  |
+| 73 | k/kohala | clean |  |
+| 74 | k/kohombagama | clean |  |
+| 75 | k/koka-2 | clean |  |
+| 76 | k/koka | clean |  |
+| 77 | k/kokali | clean |  |
+| 78 | k/kokalika-01 | clean |  |
+| 79 | k/kokalikajataka | clean |  |
+| 80 | k/kokalikasutta-02 | clean |  |
+| 81 | k/kokalikasutta-03 | clean |  |
+| 82 | k/kokanada-01-2 | clean |  |
+| 83 | k/kokanada-01 | clean |  |
+| 84 | k/kokanada-02-2 | clean |  |
+| 85 | k/kokanada-02 | clean |  |
+| 86 | k/kokanuda | clean |  |
+| 87 | k/kokanudasutta | clean |  |
+| 88 | k/kokavata | clean |  |
+| 89 | k/kokalika-02 | fixed | misdemeanour -> hành xử sai trái |
+| 90 | k/kokalikasutta-01 | clean |  |
+| 91 | k/kokila | clean |  |
+| 92 | k/kokilavagga | clean |  |
+| 93 | k/kolabhinna | clean |  |
+| 94 | k/koladayaka-thera | clean |  |
+| 95 | k/koladdhajana | clean |  |
+| 96 | k/kolaka | clean |  |
+| 97 | k/kolambagamaka | clean |  |
+| 98 | k/kolambahalaka | clean |  |
+| 99 | k/kolambapura | clean |  |
+| 100 | k/kolambatittha | clean |  |
+| 101 | k/kolanna | clean |  |
+| 102 | k/kolapattana | clean |  |
+| 103 | k/kolavapi | clean |  |
+| 104 | k/kolitagama | clean |  |
+| 105 | k/kolitasutta | clean |  |
+| 106 | k/kolitavihara | clean |  |
+| 107 | k/koliya | fixed | carried away -> bắt mang đi |
+| 108 | k/koliyaputta | clean |  |
+| 109 | k/koluru | clean |  |
+| 110 | k/koluvukkotta | clean |  |
+| 111 | k/koluvura | clean |  |
+| 112 | k/komayaputta | clean |  |
+| 113 | k/komayaputtajataka | clean |  |
+| 114 | k/komba | fixed | chỉnh umbrella-bearers và câu bị đánh bật khỏi pháo đài |
+| 115 | k/komudi | clean |  |
+| 116 | k/konagamana-buddha | fixed | Bodhisatta theo glossary; bỏ gloss Awakening thêm ngoài nguồn |
+| 117 | k/konagamanasutta | fixed | bỏ gloss Awakening thêm ngoài nguồn |
+| 118 | k/konca-02 | clean |  |
+| 119 | k/konca-03 | clean |  |
+| 120 | k/konca | clean |  |
+
+
+## Batch: p/Pāṭhīna–Phalaggapariveṇa — p_dd4d55e7 — 120 entries
+
+- Ngày review: 2026-07-11
+- Người/model: GPT-5 Codex review
+- Phạm vi: p_dd4d55e7-95c4-49da-b307-dfa90a66300a_result.md
+- Kết quả: 120/120 đạt; 10 file sửa low-risk; 0 file đặt needs_check.
+
+| # | Entry (p/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | p/pathina | fixed | bỏ gloss Ceylon thừa |
+| 2 | p/patibhanasutta | clean |  |
+| 3 | p/patibhogasutta | clean |  |
+| 4 | p/paticchannasutta | fixed | bỏ gloss Như Lai thừa |
+| 5 | p/patidesaniyavagga | clean |  |
+| 6 | p/patihariyakatha | clean |  |
+| 7 | p/patihirasannaka-thera | clean |  |
+| 8 | p/patijagga | clean |  |
+| 9 | p/patika-01 | clean |  |
+| 10 | p/patika-02 | clean |  |
+| 11 | p/patikaputta | clean |  |
+| 12 | p/patikarama | clean |  |
+| 13 | p/patikasutta | clean |  |
+| 14 | p/patikavagga | clean |  |
+| 15 | p/patikkulasutta | clean |  |
+| 16 | p/patikolamba | clean |  |
+| 17 | p/patilabhasutta | clean |  |
+| 18 | p/patilinasutta | clean |  |
+| 19 | p/patimavihara | clean |  |
+| 20 | p/patimokkha | clean |  |
+| 21 | p/patimokkhalekhana | clean |  |
+| 22 | p/patimokkhasutta | clean |  |
+| 23 | p/patimokkhatthapanakhandhaka | clean |  |
+| 24 | p/patimokkhavisodhani | clean |  |
+| 25 | p/patipadasutta-01 | clean |  |
+| 26 | p/patipadasutta-02 | clean |  |
+| 27 | p/patipadasutta-03 | clean |  |
+| 28 | p/patipadasutta-04 | clean |  |
+| 29 | p/patipannasutta-01 | clean |  |
+| 30 | p/patipannasutta-02 | clean |  |
+| 31 | p/patipattisangaha | clean |  |
+| 32 | p/patipattisutta | clean |  |
+| 33 | p/patipattivagga | clean |  |
+| 34 | p/patipujika | fixed | bỏ gloss deva thừa |
+| 35 | p/patirupasutta | clean |  |
+| 36 | p/patisallanasutta | clean |  |
+| 37 | p/patisambhidakatha | clean |  |
+| 38 | p/patisambhidamagga | clean |  |
+| 39 | p/patisambhidasutta-01 | clean |  |
+| 40 | p/patisambhidasutta-02 | clean |  |
+| 41 | p/patisankhara | clean |  |
+| 42 | p/patisaraniyasutta | clean |  |
+| 43 | p/patisutta | clean |  |
+| 44 | p/patitthana | clean |  |
+| 45 | p/patittharattha | clean |  |
+| 46 | p/patitthitasutta | clean |  |
+| 47 | p/patiyaloka | clean |  |
+| 48 | p/patiyarama | clean |  |
+| 49 | p/patodasutta | clean |  |
+| 50 | p/pattadayaka-thera | clean |  |
+| 51 | p/pattakammasutta | clean |  |
+| 52 | p/pattakammavagga | clean |  |
+| 53 | p/pattanallura | clean |  |
+| 54 | p/pattapasana | clean |  |
+| 55 | p/pattapasanavapi | clean |  |
+| 56 | p/pattasutta-01 | clean |  |
+| 57 | p/pattasutta-02 | clean |  |
+| 58 | p/pattavagga-01 | clean |  |
+| 59 | p/pattavagga-02 | clean |  |
+| 60 | p/patthanagananaya | clean |  |
+| 61 | p/patthanappakarana | clean |  |
+| 62 | p/patthanasaradipani | clean |  |
+| 63 | p/patthanasutta | clean |  |
+| 64 | p/patthodanadayaka-thera | clean |  |
+| 65 | p/patti | clean |  |
+| 66 | p/pattipupphiya-thera | clean |  |
+| 67 | p/patubhavasutta | clean |  |
+| 68 | p/pava | fixed | consecrated -> khai dụng |
+| 69 | p/pavara | clean |  |
+| 70 | p/pavaranakkhandha | clean |  |
+| 71 | p/pavaranasutta | clean |  |
+| 72 | p/pavarika-01 | clean |  |
+| 73 | p/pavarika-02 | clean |  |
+| 74 | p/pavarikambavana-01 | clean |  |
+| 75 | p/pavarikambavana-02 | clean |  |
+| 76 | p/pavasisutta | clean |  |
+| 77 | p/pavatta | clean |  |
+| 78 | p/pavattanisutta | clean |  |
+| 79 | p/pavesanasutta | clean |  |
+| 80 | p/paveyyaka-2 | clean |  |
+| 81 | p/paveyyaka | clean |  |
+| 82 | p/pavittha-thera | clean |  |
+| 83 | p/pavivekasutta | clean |  |
+| 84 | p/payaga-2 | clean |  |
+| 85 | p/payaga | fixed | sửa occupied by Mahā Panāda |
+| 86 | p/payasadayaka-thera | clean |  |
+| 87 | p/payasi | fixed | gods -> chư thiên |
+| 88 | p/payasisutta | fixed | bỏ gloss karma thừa |
+| 89 | p/payasivagga | clean |  |
+| 90 | p/payogasiddhi | clean |  |
+| 91 | p/pekhuniya | clean |  |
+| 92 | p/pelagamavihara | clean |  |
+| 93 | p/pelahala | clean |  |
+| 94 | p/pelivapikagama | clean |  |
+| 95 | p/pemasutta-01 | clean |  |
+| 96 | p/pemasutta-02 | clean |  |
+| 97 | p/peraddoni | clean |  |
+| 98 | p/perumpalaya | clean |  |
+| 99 | p/pesakaradhituvatthu | clean |  |
+| 100 | p/pesala-atimannanasutta | clean |  |
+| 101 | p/pessa | fixed | làm mềm proved precious |
+| 102 | p/pesunasutta | clean |  |
+| 103 | p/petakalankara | clean |  |
+| 104 | p/petakopadesa | clean |  |
+| 105 | p/petavatthu | clean |  |
+| 106 | p/pettangavalika | clean |  |
+| 107 | p/petteyyasutta | clean |  |
+| 108 | p/phagguna-01 | clean |  |
+| 109 | p/phaggunasutta-01 | clean |  |
+| 110 | p/phaggunasutta-02 | clean |  |
+| 111 | p/phaggunasutta-03 | fixed | exercises contact/feels |
+| 112 | p/phagguni | clean |  |
+| 113 | p/phaladayaka-thera-01 | clean |  |
+| 114 | p/phaladayaka-thera-02 | clean |  |
+| 115 | p/phaladayaka-thera-03 | clean | glossary flag is Devasabha proper name |
+| 116 | p/phaladayaka-thera-04 | clean |  |
+| 117 | p/phaladayaka-thera-05 | clean |  |
+| 118 | p/phaladayakavimanavatthu | fixed | sửa tree/fruit phrasing |
+| 119 | p/phalaganda | clean |  |
+| 120 | p/phalaggaparivena | clean |  |
+
+
+## Batch: u/Upāligāthā–Uppala 01 — u_00726ba7 — 120 entries
+
+- Ngày review: 2026-07-11
+- Người/model: GPT-5 Codex review
+- Phạm vi: u_00726ba7-2686-47b8-b88f-781118d52cc9_result.md
+- Kết quả: 120/120 đạt; 24 file sửa low-risk; 0 file đặt needs_check.
+
+| # | Entry (u/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | u/upaligatha | clean |  |
+| 2 | u/upalisutta-01 | clean |  |
+| 3 | u/upalisutta-02 | clean |  |
+| 4 | u/upalisutta-03 | clean |  |
+| 5 | u/upalivagga | clean |  |
+| 6 | u/upamanna | clean |  |
+| 7 | u/upanahisutta | clean |  |
+| 8 | u/upananda-01 | fixed | e.g. connective -> ví dụ |
+| 9 | u/upananda-02 | clean |  |
+| 10 | u/upananda-03 | clean |  |
+| 11 | u/upananda-04 | clean |  |
+| 12 | u/upananda-sakyaputtatheravatthu | clean |  |
+| 13 | u/upanemi | clean |  |
+| 14 | u/upaneyyasutta | fixed | Deva -> thiên nhân |
+| 15 | u/upanisasutta-01 | clean |  |
+| 16 | u/upanisasutta-02 | clean |  |
+| 17 | u/upanisasutta-03 | clean |  |
+| 18 | u/upanisinnavagga | clean |  |
+| 19 | u/upanita | clean |  |
+| 20 | u/uparama | clean |  |
+| 21 | u/uparevata-01 | clean |  |
+| 22 | u/uparevata-02 | clean |  |
+| 23 | u/uparimandakamala | fixed | Ceylon -> Tích Lan |
+| 24 | u/uparimandalakamalaya | fixed | Ceylon -> Tích Lan |
+| 25 | u/uparittha | clean |  |
+| 26 | u/uparuci | clean |  |
+| 27 | u/upasabha | clean |  |
+| 28 | u/upasagara | clean |  |
+| 29 | u/upasakacandalasutta | clean |  |
+| 30 | u/upasakavagga-01 | clean |  |
+| 31 | u/upasakavagga-02 | clean |  |
+| 32 | u/upasakavagga-03 | clean |  |
+| 33 | u/upasala-2 | clean |  |
+| 34 | u/upasala | clean |  |
+| 35 | u/upasalha | clean |  |
+| 36 | u/upasalhajataka | fixed | Bodhisatta render per glossary |
+| 37 | u/upasama-theri | fixed | Bodhisatta render per glossary |
+| 38 | u/upasamasutta | clean |  |
+| 39 | u/upasampadasutta | clean |  |
+| 40 | u/upasampadavagga | clean |  |
+| 41 | u/upasanta-01 | clean |  |
+| 42 | u/upasanta-02 | clean |  |
+| 43 | u/upasanta-03 | clean |  |
+| 44 | u/upasena-01 | clean |  |
+| 45 | u/upasena-02 | clean |  |
+| 46 | u/upasena-03 | clean |  |
+| 47 | u/upasena-04 | clean |  |
+| 48 | u/upasena | clean |  |
+| 49 | u/upasenasutta | clean |  |
+| 50 | u/upaseni | clean |  |
+| 51 | u/upasidari | clean |  |
+| 52 | u/upasikavihara | fixed | Ceylon -> Tích Lan; clarified pending arrival and rudder/helm phrasing |
+| 53 | u/upasiri-01 | clean |  |
+| 54 | u/upasiri-02 | clean |  |
+| 55 | u/upasiva | clean |  |
+| 56 | u/upasivamanavapuccha | clean |  |
+| 57 | u/upasona | clean |  |
+| 58 | u/upassatthasutta | clean |  |
+| 59 | u/upassayadayakavimana | clean |  |
+| 60 | u/upassayasutta | clean |  |
+| 61 | u/upassutisutta | clean |  |
+| 62 | u/upasumbha | clean |  |
+| 63 | u/upatapassi-thera | clean |  |
+| 64 | u/upatissa-01 | clean |  |
+| 65 | u/upatissa-04 | fixed | Ceylon/A.C. -> Tích Lan/CN |
+| 66 | u/upatissa-05 | clean |  |
+| 67 | u/upatissa-06 | fixed | e.g. connective -> ví dụ |
+| 68 | u/upatissa-07 | fixed | Ceylon -> Tích Lan; e.g. connective |
+| 69 | u/upatissa-08 | clean |  |
+| 70 | u/upatissa-09 | fixed | Ceylon -> Tích Lan |
+| 71 | u/upatissa-10 | clean |  |
+| 72 | u/upatissa-11 | clean |  |
+| 73 | u/upatissa-12 | clean |  |
+| 74 | u/upatissa-13 | clean |  |
+| 75 | u/upatissa-2 | clean |  |
+| 76 | u/upatissa | fixed | Ceylon -> Tích Lan |
+| 77 | u/upatissagama-01 | clean |  |
+| 78 | u/upatissagama-02 | fixed | Ceylon -> Tích Lan; e.g. connective |
+| 79 | u/upatissasutta | clean |  |
+| 80 | u/upatthanasutta-01 | fixed | completed question phrasing |
+| 81 | u/upatthanasutta-02 | clean |  |
+| 82 | u/upatthanasutta-03 | clean |  |
+| 83 | u/upatthanasutta-04 | fixed | Deva -> thiên nhân; smoothed inspire phrasing |
+| 84 | u/upatthayaka-thera | clean |  |
+| 85 | u/upavana-01 | clean |  |
+| 86 | u/upavana-02 | clean |  |
+| 87 | u/upavanasutta-01 | clean |  |
+| 88 | u/upavanasutta-02 | clean |  |
+| 89 | u/upavanasutta-03 | clean |  |
+| 90 | u/upatissa-03 | fixed | Ceylon/CE -> Tích Lan/CN |
+| 91 | u/upavanasutta-04 | clean |  |
+| 92 | u/upavatta | fixed | removed unsupported magga/paṭipadā glosses; smoothed converted phrasing |
+| 93 | u/upayantisutta | clean |  |
+| 94 | u/upayasutta | clean |  |
+| 95 | u/upekhasutta-01 | fixed | upekkhā -> xả |
+| 96 | u/upekhasutta-02 | fixed | upekkhā -> xả |
+| 97 | u/upekkhakasutta | clean |  |
+| 98 | u/uposatha-01 | clean |  |
+| 99 | u/uposatha-02 | clean |  |
+| 100 | u/uposatha-03 | clean |  |
+| 101 | u/uposatha | clean |  |
+| 102 | u/uposathagara | clean |  |
+| 103 | u/uposathakhanda | clean |  |
+| 104 | u/uposathakhandhaka | clean |  |
+| 105 | u/uposathakkhandhasutta | clean |  |
+| 106 | u/uposathasutta-01 | fixed | restored sentence punctuation before citation |
+| 107 | u/uposathasutta-02 | fixed | Devas/Brahma render |
+| 108 | u/uposathasutta-03 | clean |  |
+| 109 | u/uposathasutta-04 | clean |  |
+| 110 | u/uposathavagga | fixed | smoothed "among other things" phrasing |
+| 111 | u/uposathavinicchaya | clean |  |
+| 112 | u/uppadasamyutta | clean |  |
+| 113 | u/uppadasutta-02 | clean |  |
+| 114 | u/uppadasutta-03 | clean |  |
+| 115 | u/uppade-sutta-01 | clean |  |
+| 116 | u/uppade-sutta-02 | fixed | removed unsupported saddhā/sati glosses |
+| 117 | u/uppadena-sutta | clean |  |
+| 118 | u/uppadetabbasutta | clean |  |
+| 119 | u/uppajjantisutta | fixed | appamāda -> sự không phóng dật |
+| 120 | u/uppala-01 | clean |  |

@@ -24,6 +24,6 @@ Vinataka. One of the seven mountain ranges round <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Vinataka. Một trong bảy dãy núi bao quanh Sineru. Ja.vi.125; Snp­a.ii.443; Vin-a.i.119, etc.
+Vinataka. Một trong bảy dãy núi bao quanh Sineru. Ja.vi.125; Snp­a.ii.443; Vin-a.i.119, v.v.
 
 ## Notes

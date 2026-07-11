@@ -33,9 +33,9 @@ The *Sutta* is included in the <span class="dppn-term dppn-term-t14" data-dppn-t
 
 ## Vietnamese translation
 
-Mettasutta 01. Một người cần phải tinh tấn và ngay thẳng, hiền hòa và không kiêu ngạo, thoát khỏi sự dối trá. Đừng để ai vì tức giận hay oán hờn mà mong cầu sự đau khổ đến cho người khác. Một người nên nuôi dưỡng lòng từ vô lượng đối với mọi chúng sinh, như một người mẹ chở che đứa con trai duy nhất của mình. Snp.vss.143-52; cũng xem bộ sưu tập Paritta, nơi nó được gọi là Karaṇiyamettasutta, bởi cái tên mà nó được biết đến phổ biến hơn.
+Mettasutta 01. Một người cần phải tinh tấn và ngay thẳng, hiền hòa và không kiêu ngạo, thoát khỏi sự dối trá. Đừng để ai vì tức giận hay oán hờn mà mong cầu sự đau khổ đến cho người khác. Một người nên nuôi dưỡng lòng từ vô lượng đối với mọi chúng sinh, như một người mẹ chở che đứa con trai duy nhất của mình. Snp.vss.143-52; xem thêm bộ sưu tập Paritta, nơi nó được gọi là Karaṇiyamettasutta, tên gọi phổ biến hơn của bài kinh này.
 
-*Sutta* này được Gotama Buddha giảng cho năm trăm vị tỳ-kheo đã nhận được từ ngài một phương pháp thiền định và cư trú tại một vùng ở Himālaya. Những vị thần ở đó đã bị hoảng sợ trước đức hạnh của các vị tỳ-kheo và cố gắng làm họ sợ hãi mà bỏ đi. Các vị tỳ-kheo, bị quấy rầy liên tục, đã tìm đến Đức Phật ở Sāvatthī. Ngài giảng *Sutta* này cho họ và khuyên nhủ họ về việc thực hành lòng từ. Họ đã làm theo lời khuyên của ngài, và những vị thần, khi hiểu ra, đã để họ được bình yên (Khp-a.232ff.; cp. Dhp­a.i.313ff).
+*Sutta* này được Gotama Buddha giảng cho năm trăm vị tỳ-kheo đã nhận được từ ngài một phương pháp thiền định và cư trú tại một vùng ở Himālaya. Chư thiên ở đó đã bị hoảng sợ trước đức hạnh của các vị tỳ-kheo và cố gắng làm họ sợ hãi mà bỏ đi. Các vị tỳ-kheo, bị quấy rầy liên tục, đã tìm đến Đức Phật ở Sāvatthī. Ngài giảng *Sutta* này cho họ và khuyên nhủ họ về việc thực hành lòng từ. Họ đã làm theo lời khuyên của ngài, và chư thiên, khi hiểu ra, đã để họ được bình yên (Khp-a.232ff.; cp. Dhp­a.i.313ff).
 
 *Sutta* này được bao gồm trong các Parittas.
 

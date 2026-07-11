@@ -25,6 +25,6 @@ Vikkamarājasīha. The last king of Ceylon. He was the son of the sister of <spa
 
 ## Vietnamese translation
 
-Vikkamarājasīha. Vị vua cuối cùng của Tích Lan. Ông là con trai của em gái Rājādhirājasīha, người mà ông kế vị. Ông trị vì trong mười tám năm (1798-1815 CE.), nhưng người dân đã nổi dậy chống lại ông, và ông buộc phải thoái vị nhường ngôi cho những người *Ingirisī* (người Anh). Cv.ci.19ff.
+Vikkamarājasīha. Vị vua cuối cùng của Tích Lan. Ông là con trai của em gái Rājādhirājasīha, người mà ông kế vị. Ông trị vì trong mười tám năm (1798-1815 CN.), nhưng người dân đã nổi dậy chống lại ông, và ông buộc phải thoái vị nhường ngôi cho những người *Ingirisī* (người Anh). Cv.ci.19ff.
 
 ## Notes

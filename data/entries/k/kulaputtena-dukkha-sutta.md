@@ -24,6 +24,6 @@ Kulaputtena dukkhā Suttā. Three *Suttas*. A clansman who goes forth should liv
 
 ## Vietnamese translation
 
-Ba Sutta. Một người thiện nam tử xuất gia nên sống (1) trong sự yếm ly đối với sắc vân vân, hoặc (2) thấy vô thường trong chúng, hoặc (3) thấy vô ngã trong chúng. SN.iii.179.
+Ba Sutta. Một người thiện nam tử xuất gia nên sống (1) trong sự yếm ly đối với thân vân vân, hoặc (2) thấy vô thường trong chúng, hoặc (3) thấy vô ngã trong chúng. SN.iii.179.
 
 ## Notes

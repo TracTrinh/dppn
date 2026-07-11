@@ -28,6 +28,6 @@ Nidānasutta 02. Preached at <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Được thuyết tại Kammāsadamma. Ānanda nói với Đức Phật rằng mặc dù *Paṭiccasamuppāda* (*Thập nhị nhân duyên*) rất sâu xa, nhưng đối với tôn giả, nó lại rất rõ ràng. Đức Phật cảnh báo tôn giả chống lại một ý nghĩ như vậy, bởi vì toàn bộ *Saṁsāra* (*Luân hồi*) là do sự thiếu hiểu biết về luật nhân quả (SN.ii.92). Bài kinh (*Sutta*) này có lẽ được gọi là Cūḷa Nīdānasutta để đối lập với Mahā Nidānasutta (vd., MN­a.i. 225; Vibh­a.267).
+Được thuyết tại Kammāsadamma. Ānanda nói với Đức Phật rằng mặc dù *Paṭiccasamuppāda* rất sâu xa, nhưng đối với tôn giả, nó lại rất rõ ràng. Đức Phật cảnh báo tôn giả chống lại một ý nghĩ như vậy, bởi vì toàn bộ *Saṁsāra* là do sự thiếu hiểu biết về luật nhân quả (SN.ii.92). Bài kinh (*Sutta*) này có lẽ được gọi là Cūḷa Nīdānasutta để đối lập với Mahā Nidānasutta (ví dụ, MN­a.i. 225; Vibh­a.267).
 
 ## Notes

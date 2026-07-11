@@ -24,6 +24,6 @@ Mittena maccā Sutta 02. It is impossible that a *Sotāpanna* should be born in 
 
 ## Vietnamese translation
 
-Mittena maccā Sutta 02. Việc một *Sotāpanna* bị sinh ra trong địa ngục, hay làm súc sinh hoặc một ngạ quỷ (*Peta*) là điều không thể xảy ra. Do đó, tất cả những người thân yêu với một người nên được khuyên nhủ về và được an trú vào bốn chi phần của *Sotāpatti*. SN.v.365.
+Mittena maccā Sutta 02. Việc một *Sotāpanna* bị sinh ra trong địa ngục, hay làm súc sinh hoặc một ngạ quỷ (*Peta*) là điều không thể xảy ra. Do đó, tất cả những người thân yêu với một người nên được khuyên nhủ và được an lập trong bốn chi phần của *Sotāpatti*. SN.v.365.
 
 ## Notes

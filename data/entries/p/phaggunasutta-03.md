@@ -24,6 +24,6 @@ Phaggunasutta 03. A discussion between the Buddha and <span class="dppn-term dpp
 
 ## Vietnamese translation
 
-Phaggunasutta 03. Một cuộc thảo luận giữa Đức Phật và Moliya Phagguna về việc liệu có bất kỳ ai dung dưỡng thức, thực hành xúc, cảm thọ, có ái dục, v.v. hay không. Đức Phật nói rằng câu hỏi đã được đặt ra một cách tồi tệ; tất cả những hoạt động này đều bị quy định bởi những hoạt động khác, vân vân. SN.ii.12 ff.
+Phaggunasutta 03. Một cuộc thảo luận giữa Đức Phật và Moliya Phagguna về việc liệu có bất kỳ ai dung dưỡng thức, có xúc, có cảm thọ, có ái dục, v.v. hay không. Đức Phật nói rằng câu hỏi đã được đặt ra một cách tồi tệ; tất cả những hoạt động này đều bị quy định bởi những hoạt động khác, vân vân. SN.ii.12 ff.
 
 ## Notes

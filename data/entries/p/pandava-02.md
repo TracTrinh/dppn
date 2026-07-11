@@ -32,6 +32,6 @@ It is said that ascetics lived on its eastern slope (Snp­a.ii.383f). It seems f
 
 Paṇḍava 02. Một ngọn đồi gần Rājagaha, dưới bóng ngọn đồi này Đức Phật đã dùng bữa ăn của mình sau khi Ngài đi khất thực ở Rājagaha, không lâu sau khi rời khỏi nhà. Ja.i.66; Snp.vs.414; Dhp­a.i.85; Thag.vs.41, 1167; Mvu.ii.198, v.v.
 
-Người ta nói rằng các đạo sĩ sống trên sườn phía đông của nó (Snp­a.ii.383f). Dường contemplationường như trước đây nó mang một tên khác (MN.iii.68). Paṇḍava là một trong những nơi dừng chân của Sīvalī Thera khi ngài đang trên đường đến Himālaya. AN-a.i.139.
+Người ta nói rằng các đạo sĩ sống trên sườn phía đông của nó (Snp­a.ii.383f). Dường như trước đây nó mang một tên khác (MN.iii.68). Paṇḍava là một trong những nơi dừng chân của Sīvalī Thera khi ngài đang trên đường đến Himālaya. AN-a.i.139.
 
 ## Notes

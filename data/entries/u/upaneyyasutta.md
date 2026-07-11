@@ -24,6 +24,6 @@ Upaneyyasutta. A *Deva* visits the Buddha at <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Upaneyyasutta. Một Deva đến thăm Đức Phật tại Jetavana và thốt lên một vần kệ trong đó vị ấy nói rằng cuộc đời thì ngắn ngủi, và người ta nên tích lũy công đức để có được hạnh phúc. Đức Phật trả lời rằng tất cả những ai sợ hãi cái chết đều nên khao khát sự bình an tối hậu. SN.i.2.
+Upaneyyasutta. Một thiên nhân đến thăm Đức Phật tại Jetavana và thốt lên một vần kệ trong đó vị ấy nói rằng cuộc đời thì ngắn ngủi, và người ta nên tích lũy công đức để có được hạnh phúc. Đức Phật trả lời rằng tất cả những ai sợ hãi cái chết đều nên khao khát sự bình an tối hậu. SN.i.2.
 
 ## Notes

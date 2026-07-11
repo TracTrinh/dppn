@@ -26,6 +26,6 @@ link_candidates:
 
 ## Vietnamese translation
 
-Ṭhitañjaliya. Một bậc *Arahant* Thera. Vào thời của Đức Phật Tissa, ông là một thợ săn, và sau khi nhìn thấy Đức Phật, đã đảnh lễ Ngài. Người thợ săn bị sét đánh chết ngay sau đó, và vào khoảnh khắc cái chết, ông đã chắp tay một lần nữa để tôn vinh Đức Phật. Năm mươi tư *kappas* trước, ông là một vị vua tên là Migaketu. Ap.i.123.
+Ṭhitañjaliya. Một Trưởng lão *Arahant*. Vào thời của Đức Phật Tissa, ông là một thợ săn, và sau khi nhìn thấy Đức Phật, đã đảnh lễ Ngài. Người thợ săn bị sét đánh chết ngay sau đó, và vào khoảnh khắc cái chết, ông đã chắp tay một lần nữa để tôn vinh Đức Phật. Năm mươi tư *kappas* trước, ông là một vị vua tên là Migaketu. Ap.i.123.
 
 ## Notes

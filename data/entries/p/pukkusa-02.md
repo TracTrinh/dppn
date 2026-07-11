@@ -29,6 +29,6 @@ Pukkusa 02. One of the four ministers of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Pukkusa 02. Một trong bốn vị quan đại thần của Vedeha, vua nước Mithilā. Ông đã cùng ba người bạn của mình tham gia vào một âm mưu chống lại Mahosadha, đánh cắp một sợi dây chuyền vàng từ cung điện của nhà vua để thử và đổ tội cho Mahosadha. Các chi tiết được nêu trong Mahā Ummaggajātaka (Ja 546, Ja.vi.330ff). Trên đùi của Pukkusa có một vết cùi hủi, vết cùi hủi này ông đã giấu kín với nhà vua bởi vì nhà vua rất thích gối đầu lên đùi của Pukkusa. Chỉ có người em trai của ông mới biết được bí mật này; nhưng sau đó nó đã bị Mahosadha phát hiện ra, và Pukkusa đã bị tống vào ngục. Pukkusa được đồng nhất với Poṭṭhāpāda. Ja.vi.478.
+Pukkusa 02. Một trong bốn vị quan đại thần của Vedeha, vua nước Mithilā. Ông đã cùng ba người bạn của mình tham gia vào một âm mưu chống lại Mahosadha, đánh cắp một sợi dây chuyền vàng từ cung điện của nhà vua nhằm đổ tội cho Mahosadha. Các chi tiết được nêu trong Mahā Ummaggajātaka (Ja 546, Ja.vi.330ff). Trên đùi của Pukkusa có một vết cùi hủi, vết cùi hủi này ông đã giấu kín với nhà vua bởi vì nhà vua rất thích gối đầu lên đùi của Pukkusa. Chỉ có người em trai của ông mới biết được bí mật này; nhưng sau đó nó đã bị Mahosadha phát hiện ra, và Pukkusa đã bị tống vào ngục. Pukkusa được đồng nhất với Poṭṭhāpāda. Ja.vi.478.
 
 ## Notes

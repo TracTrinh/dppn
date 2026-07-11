@@ -27,6 +27,6 @@ Mūlaṭīkā. A sub-commentary on the <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Mūlaṭīkā. Một bản phụ chú (*sub-commentary*) về Abhidhammapiṭaka được viết bởi Ānanda Thera của Tích Lan (Gv.60, 69; Svd. 1217). Nó được gọi như vậy vì đây là bản đầu tiên trong số các *ṭīkā* (Sās.33). Bản *anuṭīkā* về tác phẩm này được gọi là Līnatthavaṇṇanā. Gv.60.
+Mūlaṭīkā. Một bản phụ chú về Abhidhammapiṭaka được viết bởi Ānanda Thera của Tích Lan (Gv.60, 69; Svd. 1217). Nó được gọi như vậy vì đây là bản đầu tiên trong số các *ṭīkā* (Sās.33). Bản *anuṭīkā* về tác phẩm này được gọi là Līnatthavaṇṇanā. Gv.60.
 
 ## Notes

@@ -26,6 +26,6 @@ Upatissa 06. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Upatissa 06. Trưởng lão Upatissa. Được gọi là *Pāsāṇadīpavāsī* Upatissa 06. Có vẻ như ông đã viết một Bản chú giải cho Mahā Vaṁsa, bản mà tác giả của Mahā Vaṁsaṭīkā đã sử dụng cho tác phẩm của chính mình, đôi khi chỉ trích những lời bình luận của nó. Xem, vd, Mhv­ṭ.47.
+Upatissa 06. Trưởng lão Upatissa. Được gọi là *Pāsāṇadīpavāsī* Upatissa 06. Có vẻ như ông đã viết một Bản chú giải cho Mahā Vaṁsa, bản mà tác giả của Mahā Vaṁsaṭīkā đã sử dụng cho tác phẩm của chính mình, đôi khi chỉ trích những lời bình luận của nó. Xem, ví dụ, Mhv­ṭ.47.
 
 ## Notes

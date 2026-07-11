@@ -24,6 +24,6 @@ Upekhāsutta 02. The idea of equanimity, if cultivated, conduces to great gain. 
 
 ## Vietnamese translation
 
-Upekhāsutta 02. Khái niệm về sự xả ly, nếu được trau dồi, sẽ dẫn đến lợi ích to lớn. SN.v.131.
+Upekhāsutta 02. Ý niệm về sự xả, nếu được trau dồi, sẽ dẫn đến lợi ích to lớn. SN.v.131.
 
 ## Notes

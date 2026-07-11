@@ -34,7 +34,7 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 Tikaṇikārapupphiya Thera. Một bậc *Arahant*. Ông từng là một vị *vijjādhara*, và, sau khi nhìn thấy Đức Phật Sumedha bay ngang qua hư không, đã dâng lên Ngài ba bông hoa mà chúng vẫn lơ lửng phía trên đầu của Đức Phật.
 
-Ông được tái sinh làm một vị *Deva* (chư thiên) trong một tòa lâu đài ở Tāvatiṁsa được gọi là Kaṇikāra (Ap.ii.441ff).
+Ông được tái sinh làm một thiên nhân (*Deva*) trong một tòa lâu đài ở Tāvatiṁsa được gọi là Kaṇikāra (Ap.ii.441ff).
 
 Ông có lẽ chính là Uttara Thera. Thag­a.i.241.
 

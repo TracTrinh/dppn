@@ -24,6 +24,6 @@ Vijjābhāgiyasutta. The six parts of wisdom: the idea of impermanence, of ill i
 
 ## Vietnamese translation
 
-Vijjābhāgiyasutta. Sáu phần của trí tuệ: tưởng vô thường, tưởng khổ trong vô thường, tưởng vô ngã trong khổ, tưởng đoạn tận, tưởng ly tham, tưởng diệt. AN.iii.334.
+Vijjābhāgiyasutta. Sáu phần của trí tuệ: tưởng vô thường, tưởng khổ trong vô thường, tưởng vô ngã trong khổ, tưởng xuất ly, tưởng ly tham, tưởng diệt. AN.iii.334.
 
 ## Notes

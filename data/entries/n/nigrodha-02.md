@@ -26,6 +26,6 @@ Nigrodha 02. The Bodhisatta born as the son of a Banker in <span class="dppn-ter
 
 ## Vietnamese translation
 
-Bồ-tát (Bodhisatta) sinh ra là con trai của một vị trưởng giả ở Rājagaha, sau đó trở thành vua của Benares. Để biết thêm chi tiết, xem Nigrodhajātaka.
+Bodhisatta sinh ra là con trai của một vị trưởng giả ở Rājagaha, sau đó trở thành vua của Benares. Để biết thêm chi tiết, xem Nigrodhajātaka.
 
 ## Notes

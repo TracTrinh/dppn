@@ -38,6 +38,6 @@ Piṅgala Koccha. Một Bà-la-môn ở Sāvatthī.
 
 Ông đến thăm Đức Phật tại Jetavana và Đức Phật đã thuyết giảng cho ông Cūḷa Sāropamasutta, cuối bài pháp ông đã tuyên bố mình là người đi theo Đức Phật (MN.i.198ff).
 
-Buddhaghosa cho biết (MN­a.i.422) rằng tên người đàn ông này là Koccha, và ông được gọi là Piṅgala vì ông có nước da ngăm đen (*piṅgaladhātuko*).
+Buddhaghosa cho biết (MN­a.i.422) rằng tên người đàn ông này là Koccha, và ông được gọi là Piṅgala vì ông có nước da màu hung vàng (*piṅgaladhātuko*).
 
 ## Notes

@@ -35,6 +35,6 @@ Phusatī. Daughter of the <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Phusatī. Con gái của vua xứ Madda và là vương hậu của vua Sivi Sañjaya cùng mẹ của Vessantara. Bà từng là Sudhammā, con gái của Kikī, và được sinh ra ở Tāvatiṁsa vì đã cúng dường gỗ đàn hương cho Vipassī Buddha. Khi bà rời Tāvatiṁsa, Sakka ban cho bà mười ân sủng: trở thành vương hậu, có đôi mắt đen, đôi lông mày đen, được đặt tên là Phusatī, có một con trai, giữ được vóc dáng thon thả, có bầu ngực săn chắc, mái tóc luôn đen nhánh, có làn da mềm mại, và để giải cứu những người bị kết án. Bà được gọi là Phusatī vì vào ngày sinh của bà, cơ thể bà tỏa ra mùi hương gỗ đàn hương. Bà là một tiền kiếp của Mahā Māyā. Ja.iv.480 ff., 593; Cp.i.9.
+Phusatī. Con gái của vua xứ Madda và là vương hậu của vua Sivi Sañjaya cùng mẹ của Vessantara. Bà từng là Sudhammā, con gái của Kikī, và được sinh ra ở Tāvatiṁsa vì đã cúng dường gỗ đàn hương cho Vipassī Buddha. Khi bà rời Tāvatiṁsa, Sakka ban cho bà mười ân sủng: trở thành vương hậu, có đôi mắt đen, đôi lông mày đen, được đặt tên là Phusatī, có một con trai, giữ được vóc dáng thon thả, có bầu ngực săn chắc, mái tóc luôn đen nhánh, có làn da mềm mại, và cứu được những người bị kết án. Bà được gọi là Phusatī vì vào ngày sinh của bà, cơ thể bà tỏa ra mùi hương gỗ đàn hương. Bà là một tiền kiếp của Mahā Māyā. Ja.iv.480 ff., 593; Cp.i.9.
 
 ## Notes
