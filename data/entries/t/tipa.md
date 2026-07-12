@@ -25,6 +25,6 @@ Tipa. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-t
 
 ## Vietnamese translation
 
-Tipa. Một thủ lĩnh Vanni của Ceylon, bị Bhuvanekabāhu I khuất phục. Cv.xc.33.
+Tipa. Một thủ lĩnh Vanni của Tích Lan, bị Bhuvanekabāhu I khuất phục. Cv.xc.33.
 
 ## Notes

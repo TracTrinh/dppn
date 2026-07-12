@@ -25,6 +25,6 @@ Missaka-uyyāna. A park in Ceylon, laid out by <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Missaka-uyyāna. Một công viên ở Ceylon, do Parakkamabāhu I kiến tạo. Cv.lxxix.7.
+Missaka-uyyāna. Một công viên ở Tích Lan, do Parakkamabāhu I kiến tạo. Cv.lxxix.7.
 
 ## Notes

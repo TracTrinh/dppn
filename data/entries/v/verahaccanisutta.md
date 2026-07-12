@@ -25,6 +25,6 @@ Verahaccānisutta. Contains an account of the conversion of the Brahmin lady of 
 
 ## Vietnamese translation
 
-Verahaccānisutta. Chứa đựng một lời tường thuật về việc chuyển đổi của một người phụ nữ Bà-la-môn thuộc Verahaccānigotta. SN.iv.412f.
+Verahaccānisutta. Chứa đựng một lời tường thuật về việc một người phụ nữ Bà-la-môn thuộc Verahaccānigotta quy y. SN.iv.412f.
 
 ## Notes

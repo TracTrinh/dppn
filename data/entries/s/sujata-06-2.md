@@ -44,7 +44,7 @@ Sujātā 06. Daughter of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 Sujātā 06. Con gái của Senānī, một chủ đất của ngôi làng Senānī gần Uruvelā. Cô đã thề hứa với vị thần của cây đa gần đó rằng cô sẽ dâng cúng một bữa ăn bằng cơm sữa cho vị thần nếu cô sinh được một đứa con trai. Mong muốn của cô đã được đáp ứng, đứa con trai chào đời, và hàng năm cô đều đến dâng cúng. Một năm nọ cô phái tớ gái của mình, Puṇṇā, đến chuẩn bị địa điểm cho việc dâng cúng. Đó chính là ngày Giác ngộ của Đức Phật, và Puṇṇā, khi thấy Gotama đang ngồi dưới gốc cây đa, nghĩ rằng ngài là vị thần cây đích thân hiện diện để nhận đồ cúng dường. Cô mang tin tức đến cho Sujātā, người, trong niềm vui sướng tột độ, đã mang thức ăn trong một chiếc bát vàng và dâng cúng nó cho ngài.
 
-Gotama mang chiếc bát đến bờ sông, tắm tại bến cạn Suppatiṭṭhita và ăn thức ăn đó. Đây là bữa ăn duy nhất của ngài trong bốn mươi chín ngày. Ja.i.68f.; Dhp­a.i.71, v.v... Trong Lalitavistara 334-7 (267f.) chín cô gái được đề cập đến như những người đã dâng thức ăn cho Đức Phật trong thời gian ngài thực hành khổ hạnh. Cf. Divy.392, nơi có hai người được đưa ra, Nandā và Nandabalā.
+Gotama mang chiếc bát đến bờ sông, tắm tại bến cạn Suppatiṭṭhita và ăn thức ăn đó. Đây là bữa ăn duy nhất của ngài trong bốn mươi chín ngày. Ja.i.68f.; Dhp­a.i.71, v.v. Trong Lalitavistara 334-7 (267f.) chín cô gái được đề cập đến như những người đã dâng thức ăn cho Đức Phật trong thời gian ngài thực hành khổ hạnh. Xem thêm Divy.392, nơi có hai người được đưa ra, Nandā và Nandabalā.
 
 Bữa ăn của Sujātā được xem là một trong những bữa ăn quan trọng nhất trong số những bữa ăn được cúng dường cho Đức Phật, và do đó, chư thiên đã thêm vào đó những hương vị thần thánh.
 

@@ -27,6 +27,6 @@ Māyādhanu 02. The name of a district in Ceylon, between the coast and the moun
 
 ## Vietnamese translation
 
-Māyādhanu 02. Tên của một vùng ở Ceylon, nằm giữa bờ biển và những ngọn núi. Thủ phủ của nó là Sītāvaka, được thành lập bởi Parakkamabāhu IV. Ở đó có một ngôi làng tên là Udakagāma. Cv.xc. 100; c. 213; Cv.Trs.ii.209, n.8.
+Māyādhanu 02. Tên của một vùng ở Tích Lan, nằm giữa bờ biển và những ngọn núi. Thủ phủ của nó là Sītāvaka, được thành lập bởi Parakkamabāhu IV. Ở đó có một ngôi làng tên là Udakagāma. Cv.xc. 100; c. 213; Cv.Trs.ii.209, n.8.
 
 ## Notes

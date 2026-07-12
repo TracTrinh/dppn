@@ -27,6 +27,6 @@ Kabupelanda *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Kabupelanda *v.l.* Kammupelanda, Kampupelanda, Kapupelanda. Một ngôi làng và tu viện ở Tích Lan. Có thời, trong tu viện này từng có một vị *Sāmaṇera* cư ngụ, người có *iddhi* lớn, đã không nghe lời khuyên của thầy mình, đem lòng yêu con gái một người thợ dệt và kết quả là mất đi mọi thần thông. Về sau, người phụ nữ này mất đi thị lực do một cú đánh từ ông, và ông bị rơi vào cảnh nghèo đói cùng cực. Thầy của vị *Sāmaṇera* đã cảnh báo ông về chính điều này, nhưng lời cảnh báo đó vô ích (Vibh­a.294f.; but see MN­a.ii.699f., where the names are spelt differently). Xem thêm Kupuveṇa.
+Kabupelanda *v.l.* Kammupelanda, Kampupelanda, Kapupelanda. Một ngôi làng và tu viện ở Tích Lan. Có thời, trong tu viện này từng có một vị *Sāmaṇera* cư ngụ, người có *iddhi* lớn, đã không nghe lời khuyên của thầy mình, đem lòng yêu con gái một người thợ dệt và kết quả là mất đi mọi thần thông. Về sau, người phụ nữ này mất đi thị lực do một cú đánh từ ông, và ông bị rơi vào cảnh nghèo đói cùng cực. Thầy của vị *Sāmaṇera* đã cảnh báo ông về chính điều này, nhưng lời cảnh báo đó vô ích (Vibh­a.294f.; nhưng xem MN­a.ii.699f., nơi các tên được viết khác). Xem thêm Kupuveṇa.
 
 ## Notes

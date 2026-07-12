@@ -28,7 +28,7 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="4" data
 
 ## Vietnamese translation
 
-Khema 09. Một *seṭṭhiputta*, cháu trai của Anāthapiṇḍika. Chàng rất đẹp trai và được mọi phụ nữ yêu mến. Đã nhiều lần chàng bị đưa ra trước vua với tội danh ngoại tình, nhưng nhà vua vì nể Anāthapiṇḍika nên đã ân xá cho chàng. Theo yêu cầu của Anāthapiṇḍika, Đức Phật đã thuyết pháp cho Khema và chỉ cho chàng thấy sai lầm trong đường lối của mình.
+Khema 09. Một con trai trưởng giả, cháu trai của Anāthapiṇḍika. Chàng rất đẹp trai và được mọi phụ nữ yêu mến. Đã nhiều lần chàng bị đưa ra trước vua với tội danh ngoại tình, nhưng nhà vua vì nể Anāthapiṇḍika nên đã ân xá cho chàng. Theo yêu cầu của Anāthapiṇḍika, Đức Phật đã thuyết pháp cho Khema và chỉ cho chàng thấy sai lầm trong đường lối của mình.
 
 Vào thời của Kassapa Buddha, chàng là một đô vật vô địch, và đã cắm hai lá cờ màu lên bảo tháp vàng của Đức Phật và phát nguyện rằng tất cả phụ nữ, ngoại trừ những nữ quyến của chàng, sẽ yêu chàng ngay từ cái nhìn đầu tiên. Dhp­a.iii.481f.
 

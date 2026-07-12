@@ -25,6 +25,6 @@ Sudāṭha 01. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Sudāṭha 01. Một Pacceka Buddha nằm trong một danh sách tôn danh. MN.iii.70.
+Sudāṭha 01. Một Pacceka Buddha trong một danh sách tên. MN.iii.70.
 
 ## Notes

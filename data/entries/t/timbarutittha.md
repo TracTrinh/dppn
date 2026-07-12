@@ -23,6 +23,6 @@ Timbarutittha. A pond at which sacrifices were offered. Ja.v.388, 389.
 
 ## Vietnamese translation
 
-Timbarutittha. Một ao nước nơi các lễ hiến tế được cúng dường. Ja.v.388, 389.
+Timbarutittha. Một ao nước nơi các lễ hiến tế được dâng hiến. Ja.v.388, 389.
 
 ## Notes

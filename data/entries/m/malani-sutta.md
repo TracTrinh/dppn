@@ -25,6 +25,6 @@ Malānī Sutta. On eight stains – non-repetition in the case of a mantra, late
 
 ## Vietnamese translation
 
-Malānī Sutta. Về tám vết nhơ – không tụng đọc đối với thần chú, thức dậy muộn, nhan sắc lười biếng, sự canh gác bất cẩn, người phụ nữ không đoan chính, v.v., sự keo kiệt ở người bố thí, những pháp bất thiện bôi bẩn cõi thế giới này và cõi sau, và vô minh, đó chính là vết nhơ lớn nhất. A.iv.195; so sánh Dhp.vs.241f.; xem thêm Malasutta.
+Malānī Sutta. Về tám vết nhơ – không tụng đọc đối với thần chú, thức dậy muộn, sự biếng nhác đối với sắc đẹp, sự canh gác bất cẩn, người phụ nữ không đoan chính, v.v., sự keo kiệt ở người bố thí, những pháp bất thiện làm nhơ cõi thế giới này và cõi sau, và vô minh, đó chính là vết nhơ lớn nhất. A.iv.195; so sánh Dhp.vs.241f.; xem thêm Malasutta.
 
 ## Notes

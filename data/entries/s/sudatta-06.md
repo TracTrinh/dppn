@@ -24,6 +24,6 @@ Sudatta 06. A lay disciple of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Sudatta 06. Một cư sĩ của Nādikā đã trở thành một vị Nhất lai (*Sakadāgāmī*). DN.ii.92; SN.v.356f.
+Sudatta 06. Một cư sĩ ở Nādikā, người đã trở thành một vị Nhất lai (*Sakadāgāmī*). DN.ii.92; SN.v.356f.
 
 ## Notes

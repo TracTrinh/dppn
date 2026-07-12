@@ -26,6 +26,6 @@ Vesārajjasutta. The four confidences of a <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Vesārajjasutta. Bốn sự tự tin của một vị Tathāgata: ngài phải hoàn toàn giác ngộ, đã tận diệt các lậu hoặc (*āsavas*), những chướng ngại mà ngài tuyên bố phải thực sự là những chướng ngại, Dhamma do ngài thuyết giảng không bao giờ được thất bại trong mục tiêu của nó. AN.ii.8.
+Vesārajjasutta. Bốn sự tự tin của một vị Tathāgata: ngài phải hoàn toàn giác ngộ, đã tận diệt các lậu hoặc (*āsavas*), những chướng ngại mà ngài tuyên bố phải thực sự là những chướng ngại, Dhamma do ngài thuyết giảng không bao giờ thất bại trong mục tiêu của nó. AN.ii.8.
 
 ## Notes

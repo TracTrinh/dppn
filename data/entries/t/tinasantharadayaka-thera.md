@@ -28,6 +28,6 @@ Tiṇasanthāradāyaka Thera. An *Arahant*. In a previous birth he was a hermit 
 
 ## Vietnamese translation
 
-Tiṇasanthāradāyaka Thera. Một vị *Arahant*. Trong một kiếp trước, ngài là một ẩn sĩ sống gần một cái hồ ở Himavā. Một ngày nọ, ngài nhìn thấy Tissa Buddha và dâng cho Đức Phật một chỗ ngồi bằng cỏ. Ngài sau đó tái sinh giữa các chư thiên cõi Nimmānaratī. Hai *kappa* trước, ngài là một vị vua, tên là Migasammata. Ap.i.121f.
+Tiṇasanthāradāyaka Thera. Một vị *Arahant*. Trong một kiếp trước, ngài là một ẩn sĩ sống gần một cái hồ ở Himavā. Một ngày nọ, ngài nhìn thấy Tissa Buddha và dâng cho Đức Phật một chỗ ngồi bằng cỏ. Ngài sau đó tái sinh giữa chư thiên cõi Nimmānaratī. Hai *kappa* trước, ngài là một vị vua, tên là Migasammata. Ap.i.121f.
 
 ## Notes

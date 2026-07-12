@@ -24,6 +24,6 @@ Suddhikasutta 03. The same as above, regarding <span class="dppn-term dppn-term-
 
 ## Vietnamese translation
 
-Suddhikasutta 03. Tương tự như trên, liên quan đến loài Kim sí điểu (*Supaṇṇa*). SN.iii.246.
+Suddhikasutta 03. Tương tự như trên, liên quan đến các Supaṇṇa. SN.iii.246.
 
 ## Notes

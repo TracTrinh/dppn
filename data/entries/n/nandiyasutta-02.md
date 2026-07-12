@@ -25,6 +25,6 @@ Nandiyasutta 02. The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Nandiyasutta 02. Người Sākyan Nandiya (Nandiya 2) viếng thăm Đức Phật và học về sự khác biệt giữa vị đệ tử của bậc Thánh sống buông lung và người sống tinh cần. SN.v.397ff.
+Nandiyasutta 02. Người Sākyan Nandiya (Nandiya 2) viếng thăm Đức Phật và học về sự khác biệt giữa vị đệ tử bậc Thánh sống buông lung và vị sống tinh cần. SN.v.397ff.
 
 ## Notes

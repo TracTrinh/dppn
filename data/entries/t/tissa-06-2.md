@@ -24,6 +24,6 @@ Tissā 06. A nun of Ceylon, specially proficient in the Vinaya (Dpv.xviii.30).
 
 ## Vietnamese translation
 
-Tissā 06. Một ni sư của Ceylon, đặc biệt thông thạo Vinaya (Dpv.xviii.30).
+Tissā 06. Một ni sư của Tích Lan, đặc biệt thông thạo Vinaya (Dpv.xviii.30).
 
 ## Notes

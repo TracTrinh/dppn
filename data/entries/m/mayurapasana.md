@@ -25,6 +25,6 @@ Mayūrapāsāna. A locality in Ceylon, mentioned in the account of the campaigns
 
 ## Vietnamese translation
 
-Mayūrapāsāna. Một địa danh ở Ceylon, được nhắc đến trong bản tường thuật về các chiến dịch của Parakkamabāhu I. Cv.lxxii.73.
+Mayūrapāsāna. Một địa danh ở Tích Lan, được nhắc đến trong bản tường thuật về các chiến dịch của Parakkamabāhu I. Cv.lxxii.73.
 
 ## Notes

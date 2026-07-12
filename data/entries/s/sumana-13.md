@@ -26,6 +26,6 @@ Sumana 13. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Sumana 13. Một vị Pacceka Buddha của ba mươi mốt *kappa* trước, người mà, trong một tiền kiếp, Bhalliya (Thag­a.i.49) và Bhāradvāja Thera (Thag­a.i.303; cf. Ap.ii.416) đã dâng quả *vallikāra* cho ngài.
+Sumana 13. Một vị Pacceka Buddha của ba mươi mốt *kappa* trước, người mà, trong một tiền kiếp, Bhalliya (Thag­a.i.49) và Bhāradvāja Thera (Thag­a.i.303; xem thêm Ap.ii.416) đã dâng quả *vallikāra* cho ngài.
 
 ## Notes

@@ -25,6 +25,6 @@ Veṇḍu (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Veṇḍu (Veṇhu). Một vị *Devaputta*. Ngài đã viếng thăm Đức Phật và hỏi ngài một câu hỏi. SN.i.52; SN­a. (i.87) gọi ngài là Veṇhu.
+Veṇḍu (Veṇhu). Một vị thiên tử (*Devaputta*). Ngài đã viếng thăm Đức Phật và hỏi ngài một câu hỏi. SN.i.52; SN­a. (i.87) gọi ngài là Veṇhu.
 
 ## Notes

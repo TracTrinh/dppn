@@ -29,7 +29,7 @@ The story was told to two forest dwelling monks of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Mālutajātaka (Ja 17). Ngày xưa, có hai người bạn, một con sư tử và một con hổ, sống trong một cái hang. Chúng có một cuộc tranh luận về việc phần nào trong tháng là phần lạnh lẽo, nửa tối hay nửa sáng, và chúng đã trình bày vấn đề với một vị ẩn sĩ (Bồ-tát), người đã nói rằng cái lạnh là do gió gây ra chứ không phải do ánh sáng hay bóng tối.
+Mālutajātaka (Ja 17). Ngày xưa, có hai người bạn, một con sư tử và một con hổ, sống trong một cái hang. Chúng có một cuộc tranh luận về việc phần nào trong tháng là phần lạnh lẽo, nửa tối hay nửa sáng, và chúng đã trình bày vấn đề với một vị ẩn sĩ (Bodhisatta), người đã nói rằng cái lạnh là do gió gây ra chứ không phải do ánh sáng hay bóng tối.
 
 Câu chuyện được kể lại liên quan đến hai vị Tỳ-kheo sống trong rừng ở Kosala, Kāḷa và Juṇha, những người đã tham vấn Đức Phật trong một cuộc tranh luận tương tự. Sư tử và con hổ được đồng nhất với các vị Tỳ-kheo này. Ja.i.164ff.
 

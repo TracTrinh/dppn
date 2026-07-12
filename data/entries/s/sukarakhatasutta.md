@@ -26,6 +26,6 @@ Sūkarakhatasutta. The Buddha questions <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Sūkarakhatasutta. Đức Phật chất vấn Sāriputta tại Sūkarakhatalena về lý do tại sao một tỳ-kheo đã đoạn trừ các *āsava* nên tôn kính Đức Phật và giáo pháp của ngài. Sāriputta trả lời rằng đó là bởi vì một vị tỳ-kheo như vậy đã đảm bảo được sự tự do thoát khỏi ách trói buộc. “Đó là loại đảm bảo nào?” Đức Phật hỏi, và Sāriputta giải thích rằng đó là sự đảm bảo đạt được nhờ vào việc tu tập năm *indriya* gồm tín, tấn, v.v... SN.v.233f.
+Sūkarakhatasutta. Đức Phật chất vấn Sāriputta tại Sūkarakhatalena về lý do tại sao một tỳ-kheo đã đoạn trừ các *āsava* nên tôn kính Đức Phật và giáo pháp của ngài. Sāriputta trả lời rằng đó là bởi vì một vị tỳ-kheo như vậy đã đảm bảo được sự tự do thoát khỏi ách trói buộc. “Đó là loại đảm bảo nào?” Đức Phật hỏi, và Sāriputta giải thích rằng đó là sự đảm bảo đạt được nhờ vào việc tu tập năm *indriya* gồm tín, tấn, v.v. SN.v.233f.
 
 ## Notes

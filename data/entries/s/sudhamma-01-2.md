@@ -25,6 +25,6 @@ Sudhammā 01. An *Aggasāvikā* of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Sudhammā 01. Một Thượng thủ Nữ thinh văn (*Aggasāvikā*) của Atthadassī Buddha. Bv.xv.20; Ja.i.39.
+Sudhammā 01. Một nữ Thanh văn thượng thủ (*Aggasāvikā*) của Atthadassī Buddha. Bv.xv.20; Ja.i.39.
 
 ## Notes

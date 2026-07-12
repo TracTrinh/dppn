@@ -26,6 +26,6 @@ Mattā 01. A Therī who came to Ceylon from <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Mattā 01. Một vị Therī đã đến Ceylon từ Jambudīpa và dạy Vinaya ở Anurādhapura. Dpv.xviii.12.
+Mattā 01. Một vị Therī đã đến Tích Lan từ Jambudīpa và dạy Vinaya ở Anurādhapura. Dpv.xviii.12.
 
 ## Notes

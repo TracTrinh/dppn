@@ -36,7 +36,7 @@ He is probably identical with <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Malitavambha Thera. Ngài là con trai của một vị Bà-la-môn ở Bhārukaccha và đã gia nhập Tăng đoàn dưới sự chỉ dẫn của Pacchābhū Thera. Người ta nói rằng ngài chuộng việc sống ở những nơi không có sẵn bất kỳ sự tiện nghi nào, ngoại trừ thức ăn, và trước khi quá muộn, ngài đã trở thành một *Arahant*.
+Malitavambha Thera. Ngài là con trai của một vị Bà-la-môn ở Bhārukaccha và đã gia nhập Tăng đoàn dưới sự chỉ dẫn của Pacchābhū Thera. Người ta nói rằng ngài chuộng việc sống ở những nơi không có sẵn bất kỳ sự tiện nghi nào, ngoại trừ thức ăn, và chẳng bao lâu sau, ngài đã trở thành một *Arahant*.
 
 Vào thời của Padumuttara Buddha, ngài từng là một con chim tên là Kakudha sống ở trên một cái hồ, và, khi trông thấy Đức Phật đang đi bộ dọc theo bờ hồ, nó đã dâng lên ngài những đóa hoa *kumudu*.
 

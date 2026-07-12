@@ -25,6 +25,6 @@ Māyetti. A village in Ceylon in the time of <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Māyetti. Một ngôi làng ở Ceylon vào thời của Jeṭṭhatissa III. Cv.xliv.90.
+Māyetti. Một ngôi làng ở Tích Lan vào thời của Jeṭṭhatissa III. Cv.xliv.90.
 
 ## Notes

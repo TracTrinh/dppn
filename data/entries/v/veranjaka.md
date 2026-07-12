@@ -26,6 +26,6 @@ Verañjakā. The Brahmins of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Verañjakā. Những người Bà-la-môn của Verañjā, những người mà Verañjakasutta đã được thuyết giảng cho. MN.i.290.
+Verañjakā. Những người Bà-la-môn của Verañjā, những người được thuyết giảng Verañjakasutta. MN.i.290.
 
 ## Notes

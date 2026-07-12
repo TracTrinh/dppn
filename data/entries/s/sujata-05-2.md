@@ -27,6 +27,6 @@ Sujātā 05. An <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Sujātā 05. Một thiếu nữ Asura người đã trở thành vợ của Sakka. Xem Sujā.
+Sujātā 05. Một thiếu nữ Asura, người đã trở thành vợ của Sakka. Xem Sujā.
 
 ## Notes

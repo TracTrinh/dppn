@@ -35,9 +35,9 @@ Their life-span is five hundred *mahākalpas*, (Ibid., sec. 6; AN.ii.128, 129) a
 
 ## Vietnamese translation
 
-Vehapphala. Một trong những cõi Phạm thiên của mặt phẳng Rūpaloka. Chúng sinh được sinh ra ở đó là kết quả của việc tu tập Tứ thiền (Abhidh-s. chương v., xem. 3 d).
+Vehapphala. Một trong những cõi Brahma thuộc cảnh giới Rūpaloka. Chúng sinh được sinh ra ở đó là kết quả của việc tu tập Tứ thiền (Abhidh-s. chương v., mục 3 d).
 
-Tuổi thọ của họ là năm trăm đại kiếp (*mahākalpas*), (Sđd., mục 6; AN.ii.128, 129) và ngay cả những phàm phu cũng có thể được sinh ra ở đó (VbhA.376).
+Tuổi thọ của họ là năm trăm *mahākappa*, (Sđd., mục 6; AN.ii.128, 129) và ngay cả những phàm phu cũng có thể được sinh ra ở đó (VbhA.376).
 
 Baka Brahma từng là một cư dân của Vehapphala (Ja.iii.358; SN­a.i.162).
 

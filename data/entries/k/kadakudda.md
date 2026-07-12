@@ -28,6 +28,6 @@ Kaḍakuḍḍa. A general of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Kaḍakuḍḍa. Một vị tướng của Gajabāhu, bị *Senāpati* *Deva* bắt giữ và đưa đến chỗ Parakkamabāhu I. (Cv.lxx.143) Về sau, ông dường như đã được đích thân Parakkamabāhu phong làm tướng và trao tước hiệu Laṅkāpura, vì chúng ta thấy ông chiến đấu theo phe của nhà vua và được giao phó những chiến dịch quan trọng. Cv.lxxii.39, 222, 272; lxxv.181.
+Kaḍakuḍḍa. Một vị tướng của Gajabāhu, bị tướng quân *Deva* bắt giữ và đưa đến chỗ Parakkamabāhu I. (Cv.lxx.143) Về sau, ông dường như đã được đích thân Parakkamabāhu phong làm tướng và trao tước hiệu Laṅkāpura, vì chúng ta thấy ông chiến đấu theo phe của nhà vua và được giao phó những chiến dịch quan trọng. Cv.lxxii.39, 222, 272; lxxv.181.
 
 ## Notes

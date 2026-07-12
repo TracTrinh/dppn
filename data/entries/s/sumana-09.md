@@ -27,6 +27,6 @@ Sumana 09. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dpp
 
 ## Vietnamese translation
 
-Sumana 09. Sumana Thera Ông được đề cập đến như là người đã sống ở Andhavana cùng với Khema. Họ cùng nhau đến thăm Đức Phật, và, khi Khema đã rời đi, Sumana đã nói chuyện với Đức Phật về các vị *Arahant* (AN.iii.348f). Ông có lẽ được đồng nhất với Sumana (7) hoặc (8).
+Sumana 09. Sumana Thera. Ông được đề cập đến như là người đã sống ở Andhavana cùng với Khema. Họ cùng nhau đến thăm Đức Phật, và, khi Khema đã rời đi, Sumana đã nói chuyện với Đức Phật về các vị *Arahant* (AN.iii.348f). Ông có lẽ được đồng nhất với Sumana (7) hoặc (8).
 
 ## Notes

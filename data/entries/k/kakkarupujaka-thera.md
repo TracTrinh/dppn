@@ -27,6 +27,6 @@ Kakkārupūjaka Thera. An *Arahant*. Thirty-one *kappas* ago he was a *Deva* and
 
 ## Vietnamese translation
 
-Kakkārupūjaka Thera. Một vị *Arahant*. Ba mươi mốt *kappa* trước, ông là một vị *Deva* và đã dâng cúng một bông hoa *kakkāru* cho Đức Phật Sikhī. Chín *kappa* trước, ông là một vị vua tên là Sattuttama (Ap.i.177). Ông rõ ràng đồng nhất với Trưởng lão Jenta. Thag­a.i.219.
+Kakkārupūjaka Thera. Một vị *Arahant*. Ba mươi mốt *kappa* trước, ông là một thiên nhân và đã dâng cúng một bông hoa *kakkāru* cho Đức Phật Sikhī. Chín *kappa* trước, ông là một vị vua tên là Sattuttama (Ap.i.177). Ông rõ ràng đồng nhất với Trưởng lão Jenta. Thag­a.i.219.
 
 ## Notes

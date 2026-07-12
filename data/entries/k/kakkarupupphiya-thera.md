@@ -28,6 +28,6 @@ Kakkārupupphiya Thera *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Kakkārupupphiya Thera *v.l.* Kekkārupupphiya Thera. Một vị *Arahant*. Chín mươi hai *kappa* trước, ông là một vị *Deva* ở cõi Yāma và, khi đến gần vị Pacceka Buddha Gotama, đã dâng cúng cho ngài một bông hoa *kakkāru*. Ap.i.286.
+Kakkārupupphiya Thera *v.l.* Kekkārupupphiya Thera. Một vị *Arahant*. Chín mươi hai *kappa* trước, ông là một thiên nhân ở cõi Yāma và, khi đến gần vị Pacceka Buddha Gotama, đã dâng cúng cho ngài một bông hoa *kakkāru*. Ap.i.286.
 
 ## Notes

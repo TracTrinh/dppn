@@ -24,6 +24,6 @@ Sudassana 03. Younger brother and *Aggasāvaka* of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Sudassana 03. Em trai và Thượng thủ Thinh văn (*Aggasāvaka*) của Sujāta Buddha. Ja.i.38; Bv.xiii.25; Bv­a.169.
+Sudassana 03. Em trai và Thượng thủ Thanh văn (*Aggasāvaka*) của Sujāta Buddha. Ja.i.38; Bv.xiii.25; Bv­a.169.
 
 ## Notes

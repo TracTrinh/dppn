@@ -25,6 +25,6 @@ Nandiyasutta 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Nandiyasutta 03. Nandiya, người Sākyan, được Đức Phật giảng dạy rằng vị đệ tử của bậc Thánh có lòng trung thành kiên định với Đức Phật, Pháp và Tăng đoàn, và có các phẩm chất của bậc Thánh, chắc chắn sẽ đạt đến giác ngộ. SN.v.403.
+Nandiyasutta 03. Nandiya, người Sākyan, được Đức Phật giảng dạy rằng vị đệ tử bậc Thánh có lòng trung thành kiên định với Đức Phật, Pháp và Tăng đoàn, và có các phẩm chất của bậc Thánh, chắc chắn sẽ đạt đến giác ngộ. SN.v.403.
 
 ## Notes

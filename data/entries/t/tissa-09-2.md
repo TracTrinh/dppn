@@ -27,6 +27,6 @@ Tissā 09. Daughter of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Tissā 09. Con gái của Kassapa, người sau này trở thành Kassapa V. (?) và là vương hậu của Kassapa IV. (Cv.lii.2).
+Tissā 09. Con gái của Kassapa, người sau này trở thành Kassapa V (?), và là vương hậu của Kassapa IV (Cv.lii.2).
 
 ## Notes

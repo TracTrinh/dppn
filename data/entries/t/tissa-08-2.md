@@ -26,6 +26,6 @@ Tissā 08. Daughter of King <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Tissā 08. Con gái của Vua Kassapa IV. và vương hậu của Udaya II. (Cv.li.94).
+Tissā 08. Con gái của Vua Kassapa IV và là vương hậu của Udaya II (Cv.li.94).
 
 ## Notes

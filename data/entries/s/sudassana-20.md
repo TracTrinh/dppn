@@ -25,6 +25,6 @@ Sudassana 20. One of the disciples of <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Sudassana 20. Một trong những đệ tử của Padumuttara Buddha. Ngài được tuyên bố là tối thắng trong số những người sở hữu May mắn. Chính tấm gương của ngài đã khơi nguồn cảm hứng để Sīvalī ước nguyện đạt được vinh dự tương tự. Ap.ii.493.
+Sudassana 20. Một trong những đệ tử của Padumuttara Buddha. Ngài được tuyên bố là tối thắng trong số những người có vận may. Chính tấm gương của ngài đã khiến Sīvalī phát nguyện đạt được vinh dự tương tự. Ap.ii.493.
 
 ## Notes

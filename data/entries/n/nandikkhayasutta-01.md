@@ -23,6 +23,6 @@ Nandikkhayasutta 01. Two discourses on the destruction of the lure of lust, thro
 
 ## Vietnamese translation
 
-Nandikkhayasutta 01. Hai bài giảng về sự diệt trừ của sức cám dỗ của tham ái, thông qua việc nhận rõ sự vô thường của các uẩn (*khandha*). SN.iii.51.
+Nandikkhayasutta 01. Hai bài giảng về sự đoạn diệt sức lôi cuốn của tham ái, thông qua việc nhận rõ sự vô thường của các uẩn (*khandha*). SN.iii.51.
 
 ## Notes

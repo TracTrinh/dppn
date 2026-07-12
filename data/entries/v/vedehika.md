@@ -35,6 +35,6 @@ Vedehikā. A lady (*gahapatānī*) of <span class="dppn-term dppn-term-t14" data
 
 Vedehikā. Một phu nhân (*gahapatānī*) ở Sāvatthī có tiếng là hiền lành cho đến khi cô hầu gái của bà, Kāḷī, thuyết phục mọi người rằng danh tiếng đó là không xứng đáng (MN.i.125f). Về câu chuyện này xem Kāḷī (3).
 
-Buddhaghosa nói rằng bà được gọi là Vedehikā hoặc vì bà xuất thân từ một gia đình Videha hoặc vì bà khôn ngoan. MN­a.i.318; cf. Vedehiputta, Vedehamuni.
+Buddhaghosa nói rằng bà được gọi là Vedehikā hoặc vì bà xuất thân từ một gia đình Videha hoặc vì bà khôn ngoan. MN­a.i.318; xem thêm Vedehiputta, Vedehamuni.
 
 ## Notes

@@ -24,6 +24,6 @@ Sudhāmuṇḍakavāsidahara. Given as an example of one who came to grief throu
 
 ## Vietnamese translation
 
-Sudhāmuṇḍakavāsidahara. Được đưa ra làm ví dụ về một người phải chịu đau khổ vì nghe thấy giọng nói của một người phụ nữ. AN­a.i.15.
+Sudhāmuṇḍakavāsidahara. Được đưa ra làm ví dụ về một người lâm vào tai họa vì nghe giọng nói của một người phụ nữ. AN­a.i.15.
 
 ## Notes

@@ -27,6 +27,6 @@ Vepacittisutta (or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Vepacittisutta (hoặc Khantisutta). Vepacitti bị dẫn độ trong gông cùm đến trước Sakka, người mà ông đã chửi rủa. Sakka giữ im lặng cho đến khi Vepacitti rời đi. Sau đó, để trả lời Mātali, Sakka nói rằng người nào khi bị nhục mạ mà không nhục mạ lại, sẽ giành được chiến thắng kép. SN.i.221f; cf. SN.iv.201.
+Vepacittisutta (hoặc Khantisutta). Vepacitti bị dẫn độ trong gông cùm đến trước Sakka, người mà ông đã chửi rủa. Sakka giữ im lặng cho đến khi Vepacitti rời đi. Sau đó, để trả lời Mātali, Sakka nói rằng người nào khi bị nhục mạ mà không nhục mạ lại, sẽ giành được chiến thắng kép. SN.i.221f; xem thêm SN.iv.201.
 
 ## Notes

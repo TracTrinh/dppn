@@ -25,6 +25,6 @@ Māluṅkyāputtasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Māluṅkyāputtasutta. Māluṅkyāputta đến gặp Đức Phật vào lúc tuổi già và thỉnh cầu một lời dạy tóm tắt. Đầu tiên, Đức Phật quở trách ngài vì đã lãng phí những cơ hội của mình, nhưng sau đó ngài đã nói cho vị đó biết về bốn cách mà sự khao khát phát sinh và những lợi ích của việc diệt trừ nó. Māluṅkyāputta lui vào rừng sâu và không lâu sau đó thì trở thành một *Arahant*. AN.ii.248f.; AN­a.ii.582f.; so sánh SN.iv.72f. và SN­a.iii.20f.
+Māluṅkyāputtasutta. Māluṅkyāputta đến gặp Đức Phật vào lúc tuổi già và thỉnh cầu một lời dạy tóm tắt. Đầu tiên, Đức Phật quở trách ngài vì đã lãng phí những cơ hội của mình, nhưng sau đó ngài đã nói cho vị đó biết về bốn cách mà tham ái phát sinh và những lợi ích của việc diệt trừ nó. Māluṅkyāputta lui vào rừng sâu và không lâu sau đó thì trở thành một *Arahant*. AN.ii.248f.; AN­a.ii.582f.; so sánh SN.iv.72f. và SN­a.iii.20f.
 
 ## Notes

@@ -26,6 +26,6 @@ Mattikāvāṭatittha. A landing place in Ceylon, the scene of the embarkment of
 
 ## Vietnamese translation
 
-Mattikāvāṭatittha. Một bến đỗ ở Ceylon, nơi một phần đội quân do Vījayabāhu cử đến vương quốc Coḷa đã lên thuyền. Cv.Ix.34.
+Mattikāvāṭatittha. Một bến đỗ ở Tích Lan, nơi một phần đội quân do Vījayabāhu cử đến vương quốc Coḷa đã lên thuyền. Cv.Ix.34.
 
 ## Notes

@@ -26,6 +26,6 @@ Missakā. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Missakā. Một hạng Chư thiên (*Devas*) hiện diện tại buổi thuyết giảng Mahā Samayasutta. DN.ii.260.
+Missakā. Một hạng chư thiên hiện diện tại buổi thuyết giảng Mahā Samayasutta. DN.ii.260.
 
 ## Notes

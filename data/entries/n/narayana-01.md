@@ -24,6 +24,6 @@ Nārāyana 01. The name of a god (Viṣṇu), e.g., Cv.xlvii.25.
 
 ## Vietnamese translation
 
-Nārāyana 01. Tên của một vị thần (Viṣṇu), vd., Cv.xlvii.25.
+Nārāyana 01. Tên của một vị thần (Viṣṇu), ví dụ, Cv.xlvii.25.
 
 ## Notes

@@ -29,6 +29,6 @@ Nandivāpigāma. A village in Ceylon, residence of <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Nandivāpigāma. Một ngôi làng ở Ceylon, nơi cư ngụ của Dhātusena, cha của Dāṭhānāma (Cv.xxxviii.14). Gokaṇṇa, quan chức của Gajabāhu, từng một lần bị đánh bại tại đó (Cv.lxx.72). Ngôi làng này có lẽ đồng nhất với Nandigāma.
+Nandivāpigāma. Một ngôi làng ở Tích Lan, nơi cư ngụ của Dhātusena, cha của Dāṭhānāma (Cv.xxxviii.14). Gokaṇṇa, quan chức của Gajabāhu, từng một lần bị đánh bại tại đó (Cv.lxx.72). Ngôi làng này có lẽ đồng nhất với Nandigāma.
 
 ## Notes

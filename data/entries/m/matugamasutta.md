@@ -24,6 +24,6 @@ Mātugāmasutta. No woman can persistently possess the heart of a man who is inf
 
 ## Vietnamese translation
 
-Mātugāmasutta. Không một người phụ nữ nào có thể liên tục sở hữu trái tim của một người đàn ông bị ảnh hưởng bởi lợi lộc và sự tâng bốc. SN.ii.234.
+Mātugāmasutta. Không một người phụ nữ nào có thể giữ mãi trái tim của một người đàn ông bị ảnh hưởng bởi lợi lộc và sự tâng bốc. SN.ii.234.
 
 ## Notes

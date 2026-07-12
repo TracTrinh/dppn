@@ -24,6 +24,6 @@ Kāḷa 09. One of the *Nirayas*. Ja.vi.248.
 
 ## Vietnamese translation
 
-Kāḷa 09. Một trong những *Niraya* (Địa ngục). Ja.vi.248.
+Kāḷa 09. Một trong các địa ngục (Niraya). Ja.vi.248.
 
 ## Notes

@@ -25,6 +25,6 @@ Mattapabbata. A monastery in Ceylon where <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Mattapabbata. Một tu viện ở Ceylon nơi Aggabodhi II xây dựng một *padhānaghara* cho Trưởng lão Jotipāla. Cv.xlii.46.
+Mattapabbata. Một tu viện ở Tích Lan nơi Aggabodhi II xây dựng một *padhānaghara* cho Trưởng lão Jotipāla. Cv.xlii.46.
 
 ## Notes

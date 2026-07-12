@@ -24,6 +24,6 @@ Vedanāsutta 03. Feeling that is born of sense contact is not abiding but fleeti
 
 ## Vietnamese translation
 
-Vedanāsutta 03. Thọ sinh ra từ xúc giác thì không tồn tại mãi mà thay đổi nhanh chóng. SN.ii.247.
+Vedanāsutta 03. Thọ sinh ra từ xúc thì không thường trụ mà thoáng qua. SN.ii.247.
 
 ## Notes

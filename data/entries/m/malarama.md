@@ -28,6 +28,6 @@ Mālārāma, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Mālārāma, Mālārāmavihāra. Một *vihāra* ở Tích Lan, gần Uppalavāpi, vào thời của Vua Kuṭakaṇṇatissa. Thera Cūḷa Sudhamma đã cư trú tại đó. Vibh-a.452.
+Mālārāma, Mālārāmavihāra. Một *vihāra* ở Tích Lan, gần Uppalavāpi, vào thời của Vua Kuṭakaṇṇatissa. Trưởng lão Cūḷa Sudhamma đã cư trú tại đó. Vibh-a.452.
 
 ## Notes

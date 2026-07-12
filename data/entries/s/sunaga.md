@@ -37,7 +37,7 @@ He is evidently identical with <span class="dppn-term dppn-term-t14" data-dppn-t
 
 Sunāga. Con trai của một Bà-la-môn ở Nālakagāma, một người bạn của Sāriputta trước khi Sāriputta rời bỏ thế tục. Sau đó, Sunāga đã nghe Đức Phật thuyết pháp, gia nhập Tăng đoàn, và đạt được quả vị *Arahant*.
 
-Vào thời của Sikhī Buddha, ba mươi mốt *kappa* trước, ông là một Bà-la-môn tinh thông kinh Veda, và sống trong một túp lều trong rừng gần Núi Vasabha với tư cách là thầy dạy của ba ngàn học trò. Một ngày nọ, ông gặp Sikhī Buddha, và, qua những dấu hiệu trên cơ thể ngài, biết rằng ngài là một vị Phật có trí tuệ vô biên, ông đã tràn ngập niềm vui, do kết quả của việc đó ông đã tái sinh ở cõi *Deva* (chư thiên) sau khi qua đời. Hai mươi bảy *kappa* trước, ông là một vị vua tên là Siridhara (Thag.vs.85; Thag­a.i.182).
+Vào thời của Sikhī Buddha, ba mươi mốt *kappa* trước, ông là một Bà-la-môn tinh thông kinh Veda, và sống trong một túp lều trong rừng gần Núi Vasabha với tư cách là thầy dạy của ba ngàn học trò. Một ngày nọ, ông gặp Sikhī Buddha, và, qua những dấu hiệu trên cơ thể ngài, biết rằng ngài là một vị Phật có trí tuệ vô biên, ông đã tràn ngập niềm vui, do kết quả của việc đó ông đã tái sinh ở cõi chư thiên sau khi qua đời. Hai mươi bảy *kappa* trước, ông là một vị vua tên là Siridhara (Thag.vs.85; Thag­a.i.182).
 
 Ông rõ ràng là đồng nhất với Rahosaññaka của cuốn Apadāna. Ap.i.166f.
 

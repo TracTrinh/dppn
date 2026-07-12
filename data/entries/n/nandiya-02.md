@@ -28,6 +28,6 @@ Nandiya 02. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Nandiya 02. Một nam cư sĩ người Sākyan, rõ ràng là được phân biệt với vị ở trên. Ông đã viếng thăm Đức Phật tại Nigrodhārāma ở Kapilavatthu và có một cuộc thảo luận với ngài về các loại đệ tử của bậc Thánh khác nhau, người sống buông lung và người sống tinh cần (SN.v.397ff.; xem thêm p. 403). Về sau, khi Đức Phật trở về Sāvatthī cho mùa an cư, Nandiya cũng đi đến đó, kiếm việc làm ăn, và thỉnh thoảng ông đến thăm Đức Phật. Cuối mùa mưa, khi Đức Phật và các tỳ-kheo chuẩn bị bắt đầu chuyến hoằng pháp, Nandiya đã đến gặp Đức Phật và được dạy về mười một pháp dẫn đến sự đoạn tận các điều ác. AN.v.334ff.
+Nandiya 02. Một nam cư sĩ người Sākyan, rõ ràng là được phân biệt với vị ở trên. Ông đã viếng thăm Đức Phật tại Nigrodhārāma ở Kapilavatthu và có một cuộc thảo luận với ngài về các loại đệ tử bậc Thánh khác nhau, người sống buông lung và người sống tinh cần (SN.v.397ff.; xem thêm p. 403). Về sau, khi Đức Phật trở về Sāvatthī cho mùa an cư, Nandiya cũng đi đến đó, kiếm việc làm ăn, và thỉnh thoảng ông đến thăm Đức Phật. Cuối mùa mưa, khi Đức Phật và các tỳ-kheo chuẩn bị bắt đầu chuyến hoằng pháp, Nandiya đã đến gặp Đức Phật và được dạy về mười một pháp dẫn đến sự đoạn tận các điều ác. AN.v.334ff.
 
 ## Notes

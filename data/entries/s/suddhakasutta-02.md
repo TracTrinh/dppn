@@ -23,6 +23,6 @@ Suddhakasutta 02. On the six sense faculties. SN.v.203.
 
 ## Vietnamese translation
 
-Suddhakasutta 02. Về sáu giác quan (lục căn). SN.v.203.
+Suddhakasutta 02. Về sáu căn. SN.v.203.
 
 ## Notes

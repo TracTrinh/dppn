@@ -23,6 +23,6 @@ Khattiyasutta 01. A conversation between a *Devatā* and the Buddha regarding th
 
 ## Vietnamese translation
 
-Khattiyasutta 01. Một cuộc trò chuyện giữa một Devatā và Đức Phật về bốn điều tốt nhất trên thế gian – tốt nhất trong các loài hai chân, bốn chân, trong số các người vợ và trong số các người con. SN.i.6.
+Khattiyasutta 01. Một cuộc trò chuyện giữa một thiên nữ và Đức Phật về bốn điều tốt nhất trên thế gian – tốt nhất trong các loài hai chân, bốn chân, trong số các người vợ và trong số các người con. SN.i.6.
 
 ## Notes

@@ -25,6 +25,6 @@ Mālābhārī. A *Devaputta*, husband of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Mālābhārī. Một *Devaputta*, phu quân của Patipūjakā.
+Mālābhārī. Một thiên tử, phu quân của Patipūjakā.
 
 ## Notes

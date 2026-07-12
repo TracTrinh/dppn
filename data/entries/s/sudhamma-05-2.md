@@ -27,6 +27,6 @@ Sudhammā 05. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Sudhammā 05. Sudhammā Therī. Một vị *Arahant*. Bà sống trong thời của Kassapa Buddha. Theo ý nguyện của Đức Phật, bà đã mang theo một nhánh của cây Bodhi và trồng nó tại Mahā Sāgaruyyāna ở Tích Lan. Dpv.xvii.19f.; Mhv.xv.147f.
+Sudhammā 05. Sudhammā Therī. Một vị *Arahant*. Bà sống trong thời của Kassapa Buddha. Theo ý nguyện của Đức Phật, bà đã mang theo một nhánh của cây bodhi và trồng nó tại Mahā Sāgaruyyāna ở Tích Lan. Dpv.xvii.19f.; Mhv.xv.147f.
 
 ## Notes

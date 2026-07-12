@@ -31,7 +31,7 @@ The scene of the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="7" da
 
 ## Vietnamese translation
 
-Mejjha. Một vị vua và đất nước của ông. Mười sáu nghìn vị Bà-la-môn từng nhận được sự bảo trợ của Maṇḍavya (*q.v.*), sau khi bị tước bỏ giai cấp vì ăn phải đồ thừa của Mātaṅga, đã đến sống ở Meghiyaraṭṭha, và bản thân Mātaṅga đã đến đó để hạ nhục sự kiêu ngạo của họ. Các vị Bà-la-môn nhìn thấy ông và báo cáo với nhà vua rằng Mātaṅga là một kẻ tung hứng và kẻ bịp bợm. Vì vậy, nhà vua đã phái sứ giả đi bắt ông. Họ tìm thấy ông đang ngồi ăn trên một chiếc ghế dài, và, tiếp cận từ phía sau, họ dùng gươm đánh chết ông. Chư thiên nổi giận, và đổ tro nóng xuống vương quốc, thiêu rụi nó hoàn toàn (Ja.iv.388f; MN­a.ii.613ff). Đất nước biến thành một vùng hoang vu được gọi là Mejjhārañña (ví dụ: MN.i.378; Ja.v.114, 267; Mil.130).
+Mejjha. Một vị vua và đất nước của ông. Mười sáu nghìn vị Bà-la-môn từng nhận được sự bảo trợ của Maṇḍavya (*q.v.*), sau khi bị tước bỏ giai cấp vì ăn phải đồ thừa của Mātaṅga, đã đến sống ở Meghiyaraṭṭha, và bản thân Mātaṅga đã đến đó để hạ nhục sự kiêu ngạo của họ. Các vị Bà-la-môn nhìn thấy ông và báo cáo với nhà vua rằng Mātaṅga là một kẻ tung hứng và kẻ bịp bợm. Vì vậy, nhà vua đã phái sứ giả đi bắt ông. Họ tìm thấy ông đang ngồi ăn trên một chiếc ghế dài, và, tiếp cận từ phía sau, họ dùng gươm chém chết ông. Chư thiên nổi giận, và đổ tro nóng xuống vương quốc, thiêu rụi nó hoàn toàn (Ja.iv.388f; MN­a.ii.613ff). Đất nước biến thành một vùng hoang vu được gọi là Mejjhārañña (ví dụ: MN.i.378; Ja.v.114, 267; Mil.130).
 
 Bối cảnh của Vighāsajātaka (Ja 393) được cho là ở Mejjhārañña (Ja.iii.310). Vùng hoang vu này cũng được gọi là Mātaṅgārañña, vì liên quan đến Mātaṅga. MN­a.ii.615.
 

@@ -24,6 +24,6 @@ Suddhikasutta 04. The different kinds of <span class="dppn-term dppn-term-t14" d
 
 ## Vietnamese translation
 
-Suddhikasutta 04. Các loài *Gandhabba* khác nhau: những vị trú ngụ trong hương thơm của rễ cây, lõi cây, giác cây, vỏ cây, nhựa cây, lá, hoa, mùi vị, và hương thơm nói chung. SN.iii.249.
+Suddhikasutta 04. Các loại Gandhabba khác nhau: những vị trú trong hương của gỗ rễ, gỗ lõi, tủy cây, vỏ cây, nhựa cây, lá, hoa, vị và mùi. SN.iii.249.
 
 ## Notes

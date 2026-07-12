@@ -25,6 +25,6 @@ Kimbila 02. A *seṭṭhiputta* of <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Kimbila 02. Một *seṭṭhiputta* của Kimbilā người sau này trở thành một tỳ-kheo. Xem Kimbila (1).
+Kimbila 02. Một con trai trưởng giả ở Kimbilā, người sau này trở thành một tỳ-kheo. Xem Kimbila (1).
 
 ## Notes

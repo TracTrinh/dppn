@@ -26,6 +26,6 @@ Mitta 01. A general of King <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Mitta 01. Một vị tướng của Vua Eḷāra. Ông là thống đốc của một ngôi làng (Khaṇḍarāji) ở Đông Ceylon. Nandimitta là cháu trai của ông. Mhv.xxxiii.4ff.
+Mitta 01. Một vị tướng của Vua Eḷāra. Ông là thống đốc của một ngôi làng (Khaṇḍarāji) ở Đông Tích Lan. Nandimitta là cháu trai của ông. Mhv.xxxiii.4ff.
 
 ## Notes

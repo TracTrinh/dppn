@@ -26,6 +26,6 @@ Khujjanāga. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1"
 
 ## Vietnamese translation
 
-Khujjanāga. Con trai của Kaniṭṭhatissa. Ngài là vua của Tích Lan (246-248 TL.). Ngài bị em trai mình là Kuñcanāga giết hại. Mhv.xxxvi.18f.
+Khujjanāga. Con trai của Kaniṭṭhatissa. Ngài là vua của Tích Lan (246-248 CN.). Ngài bị em trai mình là Kuñcanāga giết hại. Mhv.xxxvi.18f.
 
 ## Notes

@@ -23,6 +23,6 @@ Suddhakasutta 03. If cultivated and made much of, concentration on in-breathing 
 
 ## Vietnamese translation
 
-Suddhakasutta 03. Nếu được tu tập và làm cho sung mãn, định niệm hơi thở (*ānāpānasati*) mang lại lợi ích và kết quả lớn lao. SN.v.313.
+Suddhakasutta 03. Nếu được tu tập và làm cho sung mãn, định trên hơi thở vào và hơi thở ra có lợi ích và ý nghĩa lớn lao. SN.v.313.
 
 ## Notes

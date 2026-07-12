@@ -26,6 +26,6 @@ Māyettikassapāvāsa. A *vihāra* in Ceylon, to which <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Māyettikassapāvāsa. Một *vihāra* ở Ceylon, được Jeṭṭhatissa III. ban tặng ngôi làng Sahannanagara. Cv.xliv.100.
+Māyettikassapāvāsa. Một *vihāra* ở Tích Lan, mà Jeṭṭhatissa III. đã ban tặng ngôi làng Sahannanagara. Cv.xliv.100.
 
 ## Notes

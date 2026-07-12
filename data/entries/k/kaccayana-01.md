@@ -53,7 +53,7 @@ Kaccāyana 01. Trưởng lão Kaccāyana. Tác giả của Kaccāyanavyākaraṇ
 
 Ông có thể là người Nam Ấn và thuộc trường phái Avanti do Mahā Kaccāna sáng lập (PLC.179ff; Gv.66; Svd.1233f). Có lẽ ông cũng là tác giả của Nettippakaraṇa.
 
-Kaccāyana có thể thuộc vào thế kỷ thứ năm hoặc thứ sáu CE
+Kaccāyana có thể thuộc vào thế kỷ thứ năm hoặc thứ sáu CN
 
 Gandhavaṁsa (p.59) quy cho Kaccāyana tư cách tác giả của các cuốn:
 

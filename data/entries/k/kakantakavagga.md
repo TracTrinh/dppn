@@ -25,6 +25,6 @@ Kakaṇṭakavagga. The fifteenth chapter of the *Ekanipāta* of the <span class
 
 ## Vietnamese translation
 
-Kakaṇṭakavagga. Chương thứ mười lăm của *Ekanipāta* thuộc Jātaka Commentary Ja.i.487-511.
+Kakaṇṭakavagga. Chương thứ mười lăm của *Ekanipāta* thuộc Chú giải Jātaka Ja.i.487-511.
 
 ## Notes

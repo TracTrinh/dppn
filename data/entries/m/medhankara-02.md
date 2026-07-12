@@ -25,6 +25,6 @@ Medhaṅkara 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Medhaṅkara 02. Medhaṅkara Thera. Ngài sống ở Ceylon, và là tác giả của một tác phẩm tiếng Sinhalese gọi là *Vinayārthasamuccaya*. PLC.202.
+Medhaṅkara 02. Medhaṅkara Thera. Ngài sống ở Tích Lan, và là tác giả của một tác phẩm tiếng Sinhalese gọi là *Vinayārthasamuccaya*. PLC.202.
 
 ## Notes

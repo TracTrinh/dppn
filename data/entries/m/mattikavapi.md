@@ -26,6 +26,6 @@ Mattikāvāpi. A village in the <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Mattikāvāpi. Một ngôi làng ở quận Āḷisāra của Ceylon, nơi Māyāgeha đã chiếm được một chiến hào. Cv.lxx.172.
+Mattikāvāpi. Một ngôi làng ở quận Āḷisāra của Tích Lan, nơi Māyāgeha đã chiếm được một chiến hào. Cv.lxx.172.
 
 ## Notes

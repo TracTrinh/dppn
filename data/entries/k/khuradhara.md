@@ -25,6 +25,6 @@ Khuradhāra. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Khuradhāra. Một Niraya. Những người phạm tội phá thai sẽ tái sinh ở đó. Ja.v.269, 274f.
+Khuradhāra. Một địa ngục (Niraya). Những người phạm tội phá thai sẽ tái sinh ở đó. Ja.v.269, 274f.
 
 ## Notes

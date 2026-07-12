@@ -26,6 +26,6 @@ Sudhammā 06. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Sudhammā 06. Một nhóm chư thiên (*Deva*) thuộc về tập hội chư thiên (*Devanikāya*) Tāvatiṁsa. Vv-a.258.
+Sudhammā 06. Một nhóm chư thiên thuộc Tāvatiṁsa *Devanikāya*. Vv-a.258.
 
 ## Notes

@@ -24,6 +24,6 @@ Sudattasutta 02. The Buddha tells <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Sudattasutta 02. Đức Phật nói với Anāthapiṇḍika rằng người cúng dường thức ăn là trao tặng bốn điều cho người nhận: tuổi thọ, sắc đẹp, an lạc, và sức mạnh. AN.ii.63.
+Sudattasutta 02. Đức Phật nói với Anāthapiṇḍika rằng người cúng dường thức ăn trao bốn điều cho người nhận: tuổi thọ, sắc đẹp, an lạc, và sức mạnh. AN.ii.63.
 
 ## Notes

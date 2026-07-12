@@ -23,6 +23,6 @@ Malasutta. On the three stains: lust, hatred, and illusion. They are comprehende
 
 ## Vietnamese translation
 
-Malasutta. Về ba vết nhơ: tham, sân, và si. Chúng được thấu đạt thông qua Thánh Đạo Tám Nhánh (Noble Eightfold Path). SN.v.57.
+Malasutta. Về ba vết nhơ: tham, sân, và si. Chúng được thấu đạt thông qua Bát Thánh đạo. SN.v.57.
 
 ## Notes

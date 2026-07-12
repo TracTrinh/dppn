@@ -25,6 +25,6 @@ Sumedha 09. An Elder of Ceylon, at whose request <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Sumedha 09. Một Trưởng lão của Tích Lan, theo yêu cầu của ông, Buddhanāga đã viết Vinayatthamañjūsā. PLC. 201.
+Sumedha 09. Một Trưởng lão của Tích Lan; theo yêu cầu của vị này, Buddhanāga đã viết Vinayatthamañjūsā. PLC. 201.
 
 ## Notes

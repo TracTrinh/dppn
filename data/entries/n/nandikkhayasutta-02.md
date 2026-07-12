@@ -23,6 +23,6 @@ Nandikkhayasutta 02. Four discourses on the destruction of the lure of lust, thr
 
 ## Vietnamese translation
 
-Nandikkhayasutta 02. Bốn bài giảng về sự diệt trừ của sức cám dỗ của tham ái, thông qua việc nhận rõ sự vô thường của các căn và các trần. SN.iv.142.
+Nandikkhayasutta 02. Bốn bài giảng về sự đoạn diệt sức lôi cuốn của tham ái, thông qua việc nhận rõ sự vô thường của các căn và các trần. SN.iv.142.
 
 ## Notes

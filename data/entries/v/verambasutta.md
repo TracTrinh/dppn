@@ -24,6 +24,6 @@ Verambāsutta. A monk whose heart is possessed by gains and flattery, and whose 
 
 ## Vietnamese translation
 
-Verambāsutta. Một vị tỳ-kheo có tâm bị chiếm hữu bởi lợi lộc và sự nịnh bợ, và các giác quan không được phòng hộ khi có mặt của phụ nữ – ngài giống như một con chim bị cuốn vào một cơn bão (*verambavāta*). SN.ii.231.
+Verambāsutta. Một vị tỳ-kheo có tâm bị chiếm hữu bởi lợi lộc và sự nịnh bợ, và các giác quan không được phòng hộ khi có mặt của phụ nữ – vị ấy giống như một con chim bị cuốn vào một cơn bão (*verambavāta*). SN.ii.231.
 
 ## Notes

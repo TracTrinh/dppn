@@ -24,6 +24,6 @@ link_candidates: []
 
 ## Vietnamese translation
 
-Ñātakasutta. Nếu một vị tỳ-kheo nổi tiếng khuyến khích những người khác hành động và nói năng trái với những lời dạy của Giáo pháp (Dhamma) và có những ý nghĩ trái với những điều đó, vị ấy đang sống vì sự tai hại của số đông mọi người. AN.i.106.
+Ñātakasutta. Nếu một vị tỳ-kheo nổi tiếng khuyến khích những người khác hành động và nói năng trái với các quy định của Pháp và có những ý nghĩ trái với những điều đó, vị ấy đang sống gây tai hại cho số đông mọi người. AN.i.106.
 
 ## Notes

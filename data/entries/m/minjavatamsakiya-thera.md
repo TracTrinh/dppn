@@ -26,6 +26,6 @@ Miñjavataṁsakiya Thera. An *Arahant*. Thirty-one *kappas* ago he made offerin
 
 ## Vietnamese translation
 
-Miñjavataṁsakiya Thera. Một vị *Arahant*. Ba mươi mốt *kappa* trước, ngài đã dâng cúng tại cội Bồ-đề của Sikhī Buddha. Hai mươi sáu *kappa* trước ngài từng là một vị vua tên Meghabbha. Ap.i.216f.
+Miñjavataṁsakiya Thera. Một vị *Arahant*. Ba mươi mốt *kappa* trước, ngài đã cúng dường tại cây bodhi của Sikhī Buddha. Hai mươi sáu *kappa* trước ngài từng là một vị vua tên Meghabbha. Ap.i.216f.
 
 ## Notes

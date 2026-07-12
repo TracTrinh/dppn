@@ -36,8 +36,8 @@ Tissa Mahā Vihāra. A monastery in <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Tissa Mahā Vihāra. Một tu viện ở Rohaṇa, được thành lập bởi Kākavaṇṇatissa (Mhv.xxii.23). Nó cũng được gọi là Tissārāma (Mhv.xxii.28). Nó là một trong những cơ sở tu viện chính ở Ceylon và là một nơi hành hương. Một số biên niên sử của người Sinhalese đề cập rằng Kākavaṇṇatissa đã xây dựng một *vihāra* khác cùng tên trên bờ biển phía đông của Ceylon, tại nơi hiện được gọi là Seruvila, nơi đặt xương trán của Đức Phật. Mahā Meghavanārāma cũng đôi khi được gọi là Tissamahārāma (ví dụ, Mhv.xx.25), và Tissārāma (Mhv.xv.174, 179, 203). Dappula đã ban cho Tissa Mahā Vihāra ngôi làng Kattikapabbata (Cv.xiv.59).
+Tissa Mahā Vihāra. Một tu viện ở Rohaṇa, được thành lập bởi Kākavaṇṇatissa (Mhv.xxii.23). Nó cũng được gọi là Tissārāma (Mhv.xxii.28). Nó là một trong những cơ sở tu viện chính ở Tích Lan và là một nơi hành hương. Một số biên niên sử của người Sinhalese đề cập rằng Kākavaṇṇatissa đã xây dựng một *vihāra* khác cùng tên trên bờ biển phía đông của Tích Lan, tại nơi hiện được gọi là Seruvila, nơi đặt xương trán của Đức Phật. Mahā Meghavanārāma cũng đôi khi được gọi là Tissamahārāma (ví dụ, Mhv.xx.25), và Tissārāma (Mhv.xv.174, 179, 203). Dappula đã ban cho Tissa Mahā Vihāra ngôi làng Kattikapabbata (Cv.xiv.59).
 
-Buddhaghosa nói (DN­a.ii.581) rằng vào thời của ông, tất cả các tỳ-kheo sống ở Ceylon, phía nam của Mahā Vālukanadī, đều tập hợp ở đó hai lần một năm, vào ngày đầu tiên và ngày cuối cùng của mùa an cư (*vassa*).
+Buddhaghosa nói (DN­a.ii.581) rằng vào thời của ông, tất cả các tỳ-kheo sống ở Tích Lan, phía nam của Mahā Vālukanadī, đều tập hợp ở đó hai lần một năm, vào ngày đầu tiên và ngày cuối cùng của mùa an cư (*vassa*).
 
 ## Notes

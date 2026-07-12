@@ -60,10 +60,10 @@ Trong những chuyến viếng thăm của ngài đến đó, ngài đã giảng
 
 Người ta kể rằng một lần nọ, khi Đức Phật đang ở Suṁsumāragiri, ngài đã dùng thiên nhãn của mình nhìn thấy Moggallāna ở Kallavālamutta đang ngủ gật, và đã xuất hiện trước mặt ông và khuyên răn ông (AN.iv.85).
 
-Vào một dịp khác, ngài nhìn thấy Anuruddha tại Veḷuvana ở quốc gia Ceti, đang suy ngẫm về bảy Mahā Purisavitakka, và đã xuất hiện trước mặt ông để khích lệ ông (AN.iv.228f). Cả hai sự kiện đều cho thấy rằng Đức Phật đã đến thăm Suṁsumāragiri khá sớm trong sự nghiệp của ngài, trong năm đầu tiên sau khi Giác ngộ. Moggallāna cũng đã ở lại Suṁsumāragiri, và ở đó Māra được cho là đã chui vào bụng ông và gây rắc rối cho ông (MN.i.332f.; so sánh Thag.vs.1208). Suṁsumāragiri là nơi sinh của Sirimaṇḍa Thera (Thag­a.i.462) và là nơi thiền định của Siṅgālakapitā. Một số giới luật Vinaya đã được thông qua trong thời gian Đức Phật lưu trú tại Suṁsumāragiri (Vin.ii.127; iv.115f; 198f).
+Vào một dịp khác, ngài nhìn thấy Anuruddha tại Veḷuvana ở quốc gia Ceti, đang suy ngẫm về bảy Mahā Purisavitakka, và đã xuất hiện trước mặt ông để khích lệ ông (AN.iv.228f). Cả hai sự kiện đều cho thấy rằng Đức Phật đã đến thăm Suṁsumāragiri khá sớm trong sự nghiệp của ngài, trong năm đầu tiên sau khi Giác ngộ. Moggallāna cũng đã ở lại Suṁsumāragiri, và ở đó Māra được cho là đã chui vào bụng ông và gây rắc rối cho ông (MN.i.332f.; so sánh Thag.vs.1208). Suṁsumāragiri là nơi sinh của Sirimaṇḍa Thera (Thag­a.i.462) và là nơi thiền định của Siṅgālakapitā. Một số giới luật Vinaya đã được ban hành trong thời gian Đức Phật lưu trú tại Suṁsumāragiri (Vin.ii.127; iv.115f; 198f).
 
 Dhonasākhajātaka (Ja 353) đã được giảng ở đó (Ja.iii.157f). Vương tử Bodhi, vị tổng trấn của quốc gia Bhagga, rõ ràng đã sống ở Suṁsumāragiri, và chính tại đó ông đã có cung điện nổi tiếng của mình, được gọi là Kokanada.
 
-Người ta kể rằng thành phố được gọi như vậy bởi vì khi nó đang được xây dựng, một con cá sấu (*suṁsumāra*) đã tạo ra một tiếng động trong một hồ nước gần đó (MN­a.i.292; SN­a.ii.181).
+Người ta kể rằng thành phố được gọi như vậy bởi vì khi nó đang được xây dựng, một con cá sấu (*suṁsumāra*) đã kêu lên trong một hồ nước gần đó (MN­a.i.292; SN­a.ii.181).
 
 ## Notes

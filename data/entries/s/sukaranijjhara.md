@@ -28,6 +28,6 @@ Sūkaranijjhara. A dyke constructed by <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Sūkaranijjhara. Một con đê được xây dựng bởi Parakkamabāhu I. tại ngã ba của các con sông Saṅkhavaḍḍhamānaka và Kumbhīlavāna. Một con kênh đã được dẫn từ đó đến bể chứa nước Mahā Gallaka. Cv.lxviii.33f.
+Sūkaranijjhara. Một con đê được xây dựng bởi Parakkamabāhu I tại ngã ba của các con sông Saṅkhavaḍḍhamānaka và Kumbhīlavāna. Một con kênh đã được dẫn từ đó đến bể chứa nước Mahā Gallaka. Cv.lxviii.33f.
 
 ## Notes

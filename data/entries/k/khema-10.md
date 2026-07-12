@@ -24,6 +24,6 @@ Khema 10. A *Devaputta* who visited the Buddha at <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Khema 10. Một Devaputta đã đến thăm Đức Phật tại Jetavana và nói một vài bài kệ về mong muốn sống một cuộc sống tốt đẹp. SN.i.57.
+Khema 10. Một thiên tử đã đến thăm Đức Phật tại Jetavana và nói một vài bài kệ về mong muốn sống một cuộc sống tốt đẹp. SN.i.57.
 
 ## Notes

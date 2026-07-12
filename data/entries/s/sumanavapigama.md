@@ -27,6 +27,6 @@ Sumanavāpigāma. A village in Ceylon, four *yojanas* to the south-east of <span
 
 ## Vietnamese translation
 
-Sumanavāpigāma. Một ngôi làng ở Tích Lan, cách Anurādhapura bốn *yojana* (do-tuần) về phía đông nam. Những viên đá quý đã xuất hiện tại đó, khi Duṭṭhagāmaṇī mong muốn xây dựng Mahā Thūpa. Mhv.xxviii.18.
+Sumanavāpigāma. Một ngôi làng ở Tích Lan, cách Anurādhapura bốn do-tuần về phía đông nam. Những viên đá quý đã xuất hiện tại đó, khi Duṭṭhagāmaṇī mong muốn xây dựng Mahā Thūpa. Mhv.xxviii.18.
 
 ## Notes

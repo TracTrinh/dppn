@@ -26,6 +26,6 @@ Suddhavāsa. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data
 
 ## Vietnamese translation
 
-Suddhavāsa. Một vị Độc giác Phạm thiên (*Pacceka Brahma*) cùng với Subrahmā đã đến viếng thăm Đức Phật, nhưng vì thấy ngài đang thiền định giữa trưa nắng nóng, họ liền đi gặp một vị Phạm thiên (*Brahma*) nào đó đang say mê với sự vĩ đại của chính mình. Họ kể cho ông ta nghe về quyền năng và oai lực lớn lao hơn của Đức Phật, và họ đã thuyết phục được vị đó đến viếng thăm ngài. SN.i.146.
+Suddhavāsa. Một Pacceka Brahma, cùng với Subrahmā, đã đến viếng thăm Đức Phật, nhưng khi thấy ngài đang thiền định giữa cái nóng ban trưa, họ liền đi gặp một vị Phạm thiên (*Brahma*) nọ đang say mê tầm quan trọng của chính mình. Họ kể cho ông ta nghe về quyền năng và oai lực lớn lao hơn của Đức Phật, và họ đã thuyết phục được vị đó đến viếng thăm ngài. SN.i.146.
 
 ## Notes

@@ -24,6 +24,6 @@ Sūkasutta. If a spike-bearded wheat or barley be badly grasped by hand or foot,
 
 ## Vietnamese translation
 
-Sūkasutta. Nếu một bông lúa mì hoặc lúa mạch có râu nhọn bị một bàn tay hoặc bàn chân nắm sai cách, nó không đâm thủng tay hoặc chân; nhưng nó sẽ đâm thủng nếu nắm chặt. Tương tự như vậy, một tâm trí bị hướng đi sai lệch sẽ không đâm thủng vô minh hoặc rút ra kiến thức; nhưng nó sẽ làm như vậy nếu được hướng đi đúng đắn. AN.i.8f.
+Sūkasutta. Nếu một bông lúa mì hoặc lúa mạch có râu nhọn bị nắm không đúng cách bằng tay hoặc chân, nó không đâm thủng tay hoặc chân; nhưng nó sẽ đâm thủng nếu được nắm chắc. Tương tự như vậy, một tâm được định hướng sai sẽ không xuyên thủng vô minh hay làm phát sinh trí tuệ; nhưng nó sẽ làm được như vậy nếu được định hướng đúng. AN.i.8f.
 
 ## Notes

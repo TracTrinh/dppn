@@ -24,6 +24,6 @@ Mita. A stronghold in Ceylon, mentioned in the account of the campaigns of <span
 
 ## Vietnamese translation
 
-Mita. Một pháo đài ở Ceylon, được nhắc đến trong bản tường thuật về các chiến dịch của Parakkamabāhu I. Cv.lxx.134.
+Mita. Một pháo đài ở Tích Lan, được nhắc đến trong bản tường thuật về các chiến dịch của Parakkamabāhu I. Cv.lxx.134.
 
 ## Notes

@@ -30,6 +30,6 @@ Sumaṅgalavilāsinī, <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Sumaṅgalavilāsinī, Bản Chú giải Dīgha. Bản Chú giải của Buddhaghosa về Dīghanikāya (GV.59). Nó được viết theo yêu cầu của Dāṭhā Nāga Thera*,* vị trụ trì của Sumaṅgalapariveṇa. Nó được trích dẫn trong Manorathapūraṇī, ví dụ, AN­a.i.407.
+Sumaṅgalavilāsinī, Bản Chú giải Dīgha. Bản Chú giải của Buddhaghosa về Dīghanikāya (GV.59). Tác phẩm được viết theo yêu cầu của Dāṭhā Nāga Thera, vị trụ trì của Sumaṅgalapariveṇa. Tác phẩm được trích dẫn trong Manorathapūraṇī, ví dụ, AN­a.i.407.
 
 ## Notes

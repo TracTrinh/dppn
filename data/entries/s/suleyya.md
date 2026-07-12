@@ -26,6 +26,6 @@ Suleyyā. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Suleyyā. Một tầng lớp Deva có mặt tại buổi thuyết giảng Mahā Samayasutta. DN.ii.260.
+Suleyyā. Một nhóm chư thiên có mặt tại buổi thuyết giảng Mahā Samayasutta. DN.ii.260.
 
 ## Notes

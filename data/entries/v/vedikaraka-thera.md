@@ -27,6 +27,6 @@ Vedikāraka Thera. An *Arahant*. He built a railing round the *Thūpa* of <span 
 
 ## Vietnamese translation
 
-Vedikāraka Thera. Một vị *Arahant*. Ngài đã xây dựng một hàng rào quanh *Thūpa* của Piyadassī Buddha. Mười sáu *kappas* trước, ngài từng làm vua ba mươi hai lần dưới tên Maṇippabhāsa (Ap.i.171). Ngài rõ ràng là cùng một người với Vijaya Thera. Thag­a.i.192.
+Vedikāraka Thera. Một vị *Arahant*. Ngài đã xây dựng một hàng rào quanh *Thūpa* của Piyadassī Buddha. Mười sáu *kappa* trước, ngài từng làm vua ba mươi hai lần dưới tên Maṇippabhāsa (Ap.i.171). Ngài rõ ràng là cùng một người với Vijaya Thera. Thag­a.i.192.
 
 ## Notes

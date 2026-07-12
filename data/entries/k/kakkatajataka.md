@@ -47,9 +47,9 @@ Kakkaṭajātaka (Ja 267). Có lần một con cua vàng to bằng cả cái sâ
 
 Nhận ra bổn phận của mình, con voi cái đã nói với con cua những lời dụ dỗ và nịnh nọt; con cua, bị mê hoặc bởi âm thanh của một giọng nói nữ tính, đã buông con mồi ra. Ngay lập tức, Bodhisatta đã giẫm nó đến chết. Từ hai cái càng cua, về sau người ta đã chế tạo ra những chiếc trống Ānaka và Āḷambara (*q.v.*).
 
-Câu chuyện được kể lại liên quan đến người vợ của một địa chủ ở Sāvatthī. Hai vợ chồng đang trên đường đi thu nợ thì bị bọn cướp chặn đường. Tên trùm sơn tặc, vì muốn chiếm đoạt người vợ vì sắc đẹp của cô, đã lên kế hoạch giết người chồng. Người vợ bày tỏ quyết tâm sẽ tự tử nếu chồng cô bị giết, và sau đó cả hai đều được thả đi. Con voi cái trong Jātaka chính là người vợ của vị địa chủ (Ja.ii.341-5).
+Câu chuyện được kể lại liên quan đến người vợ của một địa chủ ở Sāvatthī. Hai vợ chồng đang trên đường đi thu nợ thì bị bọn cướp chặn đường. Tên trùm sơn tặc, vì muốn chiếm đoạt người vợ vì sắc đẹp của cô, đã lên kế hoạch giết người chồng. Người vợ bày tỏ quyết tâm sẽ tự tử nếu chồng cô bị giết, và sau đó cả hai đều được thả đi. Con voi cái trong Bổn sinh này chính là người vợ của vị địa chủ (Ja.ii.341-5).
 
-Jātaka này được minh họa trong Barhut Stūpa (Cunningham; Bharhut plate xxv.2).
+Bổn sinh này được minh họa trong Barhut Stūpa (Cunningham; Bharhut plate xxv.2).
 
 Kakkaṭajātaka được đề cập (Dhp­a.i.119) trong số những câu chuyện do Đức Phật thuyết giảng đưa ra những ví dụ nơi Ānanda đã hiến dâng mạng sống của mình cho Bodhisatta. Điểm tham chiếu rõ ràng là Suvaṇṇakakkaṭajātaka (*q.v.*).
 

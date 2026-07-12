@@ -24,6 +24,6 @@ Sumana 22. A deity who lived in the fortified chamber over the gate in <span cla
 
 ## Vietnamese translation
 
-Một vị chư thiên sống trong gian phòng kiên cố trên cổng ở Jetavana. Dhp­a.i.41.
+Một thiên nhân sống trong gian phòng kiên cố trên cổng ở Jetavana. Dhp­a.i.41.
 
 ## Notes

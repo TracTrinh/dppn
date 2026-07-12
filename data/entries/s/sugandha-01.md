@@ -40,6 +40,6 @@ Sugandha 01. Sugandha Thera. Ông thuộc một gia đình giàu có ở Sāvatt
 
 Trong thời của Tissa Buddha ông là một người thợ săn. Tissa Buddha đã nhìn thấy ông, và, vì lòng bi mẫn đối với ông, đã để lại dấu chân của mình ở nơi người thợ săn có thể nhìn thấy nó. Người thợ săn nhận ra dấu chân đó là của một Bậc Vĩ Nhân và đã dâng cúng lên đó những bông hoa *karaṇḍaka* (Thag.vs.24; Thag­a.i.80f).
 
-Ông có lẽ đồng nhất với Karaṇḍapupphiya Thera của Apadāna. Ap.ii.434; các bài kệ tương tự xuất hiện tại Ap.ii.383; cf. Thag­a.i.270; i.405, nơi chúng được tìm thấy dưới tên Subhūti.
+Ông có lẽ đồng nhất với Karaṇḍapupphiya Thera của Apadāna. Ap.ii.434; các bài kệ tương tự xuất hiện tại Ap.ii.383; xem thêm Thag­a.i.270; i.405, nơi chúng được tìm thấy dưới tên Subhūti.
 
 ## Notes

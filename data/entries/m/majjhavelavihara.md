@@ -27,6 +27,6 @@ Majjhavelavihāra. A monastery in Ceylon built by <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Majjhavelavihāra. Một tu viện ở Tích Lan được xây bởi Vaṭṭagāmaṇī và được trùng tu bởi Kittisirirājasīha, người đã ban tặng ngôi làng Siṅgatthala để bảo trì cho tu viện. Cv.c.230. (Sinhalese *Medavala* ??)
+Majjhavelavihāra. Một tu viện ở Tích Lan được xây bởi Vaṭṭagāmaṇī và được trùng tu bởi Kittisirirājasīha, người đã ban tặng ngôi làng Siṅgatthala để bảo trì cho tu viện. Cv.c.230. (tiếng Sinhala *Medavala* ??)
 
 ## Notes

@@ -30,6 +30,6 @@ Meghavaṇṇa. A *Devaputta* of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Meghavaṇṇa. Một *Devaputta* của *pabbata* Udumbara. Anh ta từng là một người đàn ông rất nghèo của Hallolagāma và đã bố thí tại Nīlapabbatavihāra. Vợ anh ta là Candamukhī. Anh ta từng cùng vợ đến thăm Maliyadeva Thera ở *lena* Candamukha. Ras.ii.125f.
+Meghavaṇṇa. Một thiên tử của *pabbata* Udumbara. Anh ta từng là một người đàn ông rất nghèo của Hallolagāma và đã bố thí tại Nīlapabbatavihāra. Vợ anh ta là Candamukhī. Anh ta từng cùng vợ đến thăm Maliyadeva Thera ở *lena* Candamukha. Ras.ii.125f.
 
 ## Notes

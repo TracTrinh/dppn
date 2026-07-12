@@ -25,6 +25,6 @@ Vedeharajja, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Vedeharajja, Vedeharaṭṭha. Tên gọi được đặt cho vương quốc Videha, e.g., Ja.vi.393, 411.
+Vedeharajja, Vedeharaṭṭha. Tên gọi được đặt cho vương quốc Videha, ví dụ, Ja.vi.393, 411.
 
 ## Notes

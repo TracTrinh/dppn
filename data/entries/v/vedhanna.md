@@ -30,6 +30,6 @@ Vedhañña, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Vedhañña, Vedañña. Một gia đình người Sākiyans. Buddhaghosa nói rằng (DN­a.iii.905) họ điêu luyện về thuật bắn cung (do đó họ có tên là "Những Cung Thủ"). Họ đã học nghề tại một trường cao đẳng kỹ thuật (*sippuggahanapāsāda*) được xây dựng trong một vườn xoài. Tại đó, kinh Pāsādikasutta đã được thuyết giảng (DN.iii.17). Từ kinh Sāmagāmasutta (MN.ii.244), có vẻ như những người Sākiyans này sống ở Sāmagāma.
+Vedhañña, Vedañña. Một gia đình người Sākiyan. Buddhaghosa nói rằng (DN­a.iii.905) họ điêu luyện về thuật bắn cung (do đó họ có tên là "Những Cung Thủ"). Họ đã học nghề tại một trường cao đẳng kỹ thuật (*sippuggahanapāsāda*) được xây dựng trong một vườn xoài. Tại đó, kinh Pāsādikasutta đã được thuyết giảng (DN.iii.17). Từ kinh Sāmagāmasutta (MN.ii.244), có vẻ như những người Sākiyan này sống ở Sāmagāma.
 
 ## Notes

@@ -39,6 +39,6 @@ According to the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" da
 
 Kimbilā. Một thị trấn nằm trên bờ sông Ganges. Có một *veḷuvana* (có khả năng là *niceḷuvana* hơn; Chú giải Aṅguttara ii.642 giải thích nó là một Mucalindavana) ở đó, nơi Đức Phật đã trú ngụ và nơi những bài Kimbila và Kimbilāsutta được thuyết giảng (AN.iii.247, v.v.; SN.iv.181f; v.322).
 
-Theo Chú giải Aṅguttara (AN­a.ii.642), đó là nơi sinh của *seṭṭhiputta* Kimbila (Kimbila 2). Thành phố này tồn tại vào thời Kassapa Buddha và là nơi cư trú của người phụ nữ sau này trở thành Kaṇṇamuṇḍapetī (Pv.12; Pv-a.151). Trong số những cung điện mà Nimi nhìn thấy khi viếng thăm cõi trời có một cung điện của một *Deva*, người từng là một người rất sùng đạo ở Kimbilā (Ja.vi.121). Một người sùng đạo khác như vậy của cùng một thành phố là Rohaka cùng với vợ của ông là Bhaddiṭṭhikā. Vv.xxii.4; Vv-a.109.
+Theo Chú giải Aṅguttara (AN­a.ii.642), đó là nơi sinh của Kimbila, con trai trưởng giả (Kimbila 2). Thành phố này tồn tại vào thời Kassapa Buddha và là nơi cư trú của người phụ nữ sau này trở thành Kaṇṇamuṇḍapetī (Pv.12; Pv-a.151). Trong số những cung điện mà Nimi nhìn thấy khi viếng thăm cõi trời có một cung điện của một thiên nhân, người từng là một người rất sùng đạo ở Kimbilā (Ja.vi.121). Một người sùng đạo khác như vậy của cùng một thành phố là Rohaka cùng với vợ của ông là Bhaddiṭṭhikā. Vv.xxii.4; Vv-a.109.
 
 ## Notes

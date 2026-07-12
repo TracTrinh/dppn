@@ -25,6 +25,6 @@ Tissa 30. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Tissa 30. Con trai của Mahā Cūḷa và là vua của Ceylon (9-12 CE). Ông đã bị vợ mình là Anulā đầu độc. Mhv.xxxiv.15ff.
+Tissa 30. Con trai của Mahā Cūḷa và là vua của Tích Lan (9-12 CN). Ông đã bị vợ mình là Anulā đầu độc. Mhv.xxxiv.15ff.
 
 ## Notes

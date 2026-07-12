@@ -25,6 +25,6 @@ Kaccānivagga. The first section of the *Aṭṭhakanipāta* of the <span class=
 
 ## Vietnamese translation
 
-Kaccānivagga. Phần đầu tiên của *Aṭṭhakanipāta* của Jātaka Commentary. Ja.iii.422-28.
+Kaccānivagga. Phần đầu tiên của *Aṭṭhakanipāta* của Chú giải Jātaka. Ja.iii.422-28.
 
 ## Notes

@@ -28,6 +28,6 @@ Naṭakuvera. A musician of the king of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Naṭakuvera. Một nhạc công của vua của Benares, người có hoàng hậu là Kākātī. Để biết chi tiết xem Kākātījataka (Ja 327) Ja.iii.91ff.; v.424. Naṭakuvera được nhận diện là vị tỳ-kheo bất mãn có liên quan đến việc bài Jātaka được thuyết giảng.
+Naṭakuvera. Một nhạc công của vua Benares, vị vua có hoàng hậu là Kākātī. Để biết chi tiết xem Kākātījataka (Ja 327) Ja.iii.91ff.; v.424. Naṭakuvera được nhận diện là vị tỳ-kheo bất mãn có liên quan đến việc bài Jātaka được thuyết giảng.
 
 ## Notes

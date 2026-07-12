@@ -25,6 +25,6 @@ Sudattā 02. An *Aggasāvikā* of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Sudattā 02. Một Thượng thủ Nữ thinh văn (*Aggasāvikā*) của Tissa Buddha. Bv.xviii.22; Ja.i.40.
+Sudattā 02. Một nữ Thanh văn thượng thủ (*Aggasāvikā*) của Tissa Buddha. Bv.xviii.22; Ja.i.40.
 
 ## Notes

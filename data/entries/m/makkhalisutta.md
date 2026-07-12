@@ -25,6 +25,6 @@ Makkhalisutta or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Makkhalisutta hoặc Micchādiṭṭhikasutta. Một người có tà kiến sẽ dẫn dắt nhiều người rời xa khỏi sự công chính và gieo rắc sự bất chính vào trong họ. Không có một điều nào khác lại đáng bị chỉ trích nặng nề bằng tà kiến. Giống như một cái nơm bắt cá được đặt ở cửa sông, Makkhali tồn tại để mang lại sự khổ đau và diệt vong cho nhiều chúng sinh. Người nào khuyến khích việc bám víu vào một pháp và luật được tuyên thuyết chân chánh, người mà vị đó khuyến khích, và người mà, khi được khuyến khích như vậy, bước đi theo đó, thì tất cả những người ấy đều sinh ra nhiều công đức. AN.i.33f.
+Makkhalisutta hoặc Micchādiṭṭhikasutta. Một người có tà kiến sẽ dẫn dắt nhiều người rời xa khỏi chánh hạnh và đặt họ vào phi hạnh. Không có một điều nào khác lại đáng bị chỉ trích nặng nề bằng tà kiến. Giống như một cái nơm bắt cá được đặt ở cửa sông, Makkhali tồn tại để mang lại sự khổ đau và diệt vong cho nhiều chúng sinh. Người nào khuyến khích người khác nương theo một giáo pháp và giới luật được tuyên thuyết chân chánh, người được khuyến khích như vậy, và người, khi được khuyến khích như vậy, bước đi theo đó, thì tất cả những người ấy đều sinh ra nhiều công đức. AN.i.33f.
 
 ## Notes

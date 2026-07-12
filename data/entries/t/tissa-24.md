@@ -35,7 +35,7 @@ Tissa 24. King of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Tissa 24. Vua của Kalyāṇi và là cha của Vihāramahādevī (Mhv.xxii.13ff). Em trai của ông, Ayya Uttika, đã dan díu với vương hậu và bị trục xuất. Người này đã gửi cho vương hậu một lá thư thông qua một người hầu đi theo một vị *Arahant* có thói quen đến thăm cung điện. Lá thư này rơi vào tay nhà vua, người đã nghi ngờ chính vị *Arahant*, do nét chữ của ngài giống với nét chữ của kẻ dan díu. Nhà vua ra lệnh giết vị *Arahant* và ném xuống biển. Các chư thiên, cảm thấy bị xúc phạm, đã khiến biển dâng lên ngập đất liền. Sự hủy diệt hoàn toàn của đất nước chỉ được ngăn chặn bởi việc nhà vua đưa con gái mình là Devī (sau này là Vihāramahadevī), ra biển trong một chiếc thuyền vàng. Tuy nhiên, Rasavāhini lại nói rằng ngài đã bị ném vào một vạc dầu sôi; xem Telakaṭāhagāthā.
+Tissa 24. Vua của Kalyāṇi và là cha của Vihāramahādevī (Mhv.xxii.13ff). Em trai của ông, Ayya Uttika, đã dan díu với vương hậu và bị trục xuất. Người này đã gửi cho vương hậu một lá thư thông qua một người hầu đi theo một vị *Arahant* có thói quen đến thăm cung điện. Lá thư này rơi vào tay nhà vua, người đã nghi ngờ chính vị *Arahant*, do nét chữ của ngài giống với nét chữ của kẻ dan díu. Nhà vua ra lệnh giết vị *Arahant* và ném xuống biển. Chư thiên, cảm thấy bị xúc phạm, đã khiến biển dâng lên ngập đất liền. Sự hủy diệt hoàn toàn của đất nước chỉ được ngăn chặn bởi việc nhà vua đưa con gái mình là Devī (sau này là Vihāramahadevī), ra biển trong một chiếc thuyền vàng. Tuy nhiên, Rasavāhini lại nói rằng ngài đã bị ném vào một vạc dầu sôi; xem Telakaṭāhagāthā.
 
 Cha của Tissa là Muṭasiva và ông nội của ông là Uttiya. Mhv­ṭ.431.
 

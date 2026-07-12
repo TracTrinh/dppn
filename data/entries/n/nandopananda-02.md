@@ -24,6 +24,6 @@ Nandopananda 02. One of the <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-Nandopananda 02. Một trong những địa ngục (Niraya) Lohakumbhī. SN­a.i.111.
+Nandopananda 02. Một trong các địa ngục Lohakumbhī (Niraya). SN­a.i.111.
 
 ## Notes

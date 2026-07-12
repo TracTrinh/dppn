@@ -27,6 +27,6 @@ Sukkā 02. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Sukkā 02. Một tầng lớp Deva đã có mặt, cùng với nhóm của Veghanasā, tại buổi thuyết giảng Mahā Samayasutta. DN.ii.261.
+Sukkā 02. Một nhóm chư thiên đã có mặt, cùng với nhóm của Veghanasā, tại buổi thuyết giảng Mahā Samayasutta. DN.ii.261.
 
 ## Notes

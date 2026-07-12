@@ -29,6 +29,6 @@ Mahā Sena 01. A *Deva* living in <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Mahā Sena 01. Một vị *Deva* cư ngụ tại Cung điện Ketumatī ở phía đông của Vejayanta. Thể theo thỉnh cầu của Sakka và của các thành viên Tăng đoàn, được dẫn đầu bởi Assagutta, ngài đã hạ sinh vào thế giới loài người dưới danh xưng là Nāgasena. Mil. 6f.
+Mahā Sena 01. Một thiên nhân cư ngụ tại Cung điện Ketumatī ở phía đông của Vejayanta. Thể theo thỉnh cầu của Sakka và của các thành viên Tăng đoàn, được dẫn đầu bởi Assagutta, ngài đã hạ sinh vào thế giới loài người dưới danh xưng là Nāgasena. Mil. 6f.
 
 ## Notes

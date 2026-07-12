@@ -25,6 +25,6 @@ Nāsinnagāma. A village in the <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Nāsinnagāma. Một ngôi làng ở quận Āḷisāra của Ceylon. Cv.lxx.172.
+Nāsinnagāma. Một ngôi làng ở quận Āḷisāra của Tích Lan. Cv.lxx.172.
 
 ## Notes

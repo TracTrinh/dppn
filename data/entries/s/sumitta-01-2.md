@@ -27,6 +27,6 @@ Sumittā 01. One of the five daughters of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Sumittā 01. Một trong năm cô con gái của Vijayabāhu I. và Tilokasundarī. Bà kết hôn với Jayabāhu. Cv.lix.31, 43.
+Sumittā 01. Một trong năm cô con gái của Vijayabāhu I và Tilokasundarī. Bà kết hôn với Jayabāhu. Cv.lix.31, 43.
 
 ## Notes
