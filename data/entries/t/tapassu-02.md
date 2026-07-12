@@ -24,6 +24,6 @@ Tapassu 02. Chief of the lay disciples of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Tapassu 02. Vị trưởng giả đệ tử của Dīpaṅkara Buddha. Bv.ii.215.
+Tapassu 02. Vị đứng đầu các đệ tử tại gia của Dīpaṅkara Buddha. Bv.ii.215.
 
 ## Notes

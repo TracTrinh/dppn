@@ -25,6 +25,6 @@ Vassasutta 01. A monk asks the Buddha why it sometimes rains. It rains when the 
 
 ## Vietnamese translation
 
-Một tu sĩ hỏi Đức Phật tại sao đôi khi trời lại mưa. Trời mưa khi các chư thiên Vassavalākaka muốn vui đùa với cơ thể của họ, Đức Phật trả lời. SN.iii.257.
+Một tu sĩ hỏi Đức Phật tại sao đôi khi trời lại mưa. Trời mưa khi chư thiên Vassavalākaka muốn vui đùa với cơ thể của họ, Đức Phật trả lời. SN.iii.257.
 
 ## Notes

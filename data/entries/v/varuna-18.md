@@ -47,11 +47,11 @@ In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="17" data-dppn-t
 
 ## Vietnamese translation
 
-Varuṇa 18. Một vị vua của chư thiên (Devas), được nhắc đến như là bạn đồng hành của Sakka, Pajāpatī và Isāna. Trong trận chiến chống lại các Asuras (A-tu-la), chư thiên ở Tāvatiṁsa đã được yêu cầu hãy nhìn lên ngọn cờ của Varuṇa để xua tan mọi nỗi sợ hãi của họ (SN.i.219).
+Varuṇa 18. Một vị vua của chư thiên, được nhắc đến như là bạn đồng hành của Sakka, Pajāpatī và Isāna. Trong trận chiến chống lại các Asuras (A-tu-la), chư thiên ở Tāvatiṁsa đã được yêu cầu hãy nhìn lên ngọn cờ của Varuṇa để xua tan mọi nỗi sợ hãi của họ (SN.i.219).
 
 Trong Tevijjasutta (DN.i.244; cf. Ja.v.28; vi.20; cũng xem Mil. 22) Varuṇa được nhắc đến cùng với Indra, Soma, Isāna, Pajāpatī, Yama và Mahiddhi, với tư cách là những vị thần được các Bà-la-môn cầu khẩn.
 
-Trong Āṭānāṭiyasutta (DN.iii.204), ông được nhắc đến cùng với Indra và những vị khác như là một thủ lĩnh của Dạ-xoa (Yakkha).
+Trong Āṭānāṭiyasutta (DN.iii.204), ông được nhắc đến cùng với Indra và những vị khác như là một thủ lĩnh Yakkha (dạ-xoa).
 
 Buddhaghosa nói (SN­a.i.262) rằng Varuṇa ngang hàng về tuổi tác và vinh quang (*vaṇṇa*) với Sakka và ngồi ở vị trí thứ ba trong hội chúng của chư thiên. Xem thêm Varuṇā và Vāruṇī.
 

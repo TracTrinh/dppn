@@ -39,6 +39,6 @@ Takkajātaka (Ja 63). Thuở nọ Bodhisatta là một tu sĩ trên bờ sông G
 
 Trong lúc bị tướng cướp đánh đập, Takkapaṇḍita liên tục nhắc lại, "Những kẻ vô ơn bạc nghĩa," và, khi bị hỏi lý do, ông đã kể lại câu chuyện. Tướng cướp nghe xong bèn giết chết người phụ nữ. Ānanda được nhận diện là tướng cướp.
 
-Câu chuyện được kể lại cho một vị tỳ-kheo đang bị dục tình khuấy động (Ja.i.295-99). Jātaka này đôi khi được gọi là Takkāriyajātaka, E.g., Ja.v.446 (16).
+Câu chuyện được kể lại cho một vị tỳ-kheo đang bị dục tình khuấy động (Ja.i.295-99). Jātaka này đôi khi được gọi là Takkāriyajātaka, ví dụ, Ja.v.446 (16).
 
 ## Notes

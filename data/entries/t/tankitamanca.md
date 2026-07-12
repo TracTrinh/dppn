@@ -34,7 +34,7 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-term-
 
 ## Vietnamese translation
 
-Ṭaṅkitamañca. Một địa danh gần Gayā. Đó là nơi lưu trú của Dạ-xoa (Yakkha) Suciloma và Đức Phật có lần đã ngự tại đó (Snp. p.47f; SN.i.206).
+Ṭaṅkitamañca. Một địa danh gần Gayā. Đó là nơi lưu trú của Yakkha (dạ-xoa) Suciloma và Đức Phật có lần đã ngự tại đó (Snp. p.47f; SN.i.206).
 
 Suttanipāta Commentary (Snp­a.i.301) giải thích rằng Ṭaṅkitamañca ở tại Gayātittha, và đó là một chiếc giường đá (*pāsāṇamañca*) được tạo thành bởi một tảng đá đặt lên trên bốn tảng đá khác.
 

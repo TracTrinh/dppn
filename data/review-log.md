@@ -10954,3 +10954,668 @@ Cột **Sửa**: ✅ = đã sửa trực tiếp trong review; — = sạch, khô
 | 118 | u/uppadetabbasutta | clean |  |
 | 119 | u/uppajjantisutta | fixed | appamāda -> sự không phóng dật |
 | 120 | u/uppala-01 | clean |  |
+
+## Batch: L (lokavipatti–lumbini) — 34 entries
+- Ngày review: 2026-07-11
+- Người/model: Claude (Opus)
+- Phạm vi: l_a3d28835-e2d1-4e0b-836a-41be65e6ebf6_result.md
+- Kết quả: 34/34 đạt; 3 file sửa low-risk; 0 needs_check.
+
+| # | Entry (l/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | l/lokavipattisutta-01 | clean |  |
+| 2 | l/lokavipattisutta-02 | clean |  |
+| 3 | l/lokayata | clean |  |
+| 4 | l/lonaphalasutta | clean |  |
+| 5 | l/lokasutta-08 | clean |  |
+| 6 | l/lokasutta-09 | fixed | "unconquered" -> "không bị chinh phục" (was "vô nhiễm") |
+| 7 | l/lokavagga | clean |  |
+| 8 | l/lokavivarana | clean |  |
+| 9 | l/lokayatikasutta | clean |  |
+| 10 | l/loke-sutta | clean |  |
+| 11 | l/lokissara | fixed | date CE. -> CN. |
+| 12 | l/lokita-01 | clean |  |
+| 13 | l/lokita-02 | clean |  |
+| 14 | l/lokuppatti | clean |  |
+| 15 | l/lokuttarakatha | clean |  |
+| 16 | l/lola | clean |  |
+| 17 | l/lolajataka | clean |  |
+| 18 | l/lomahamsa | clean |  |
+| 19 | l/lomahamsajataka | clean |  |
+| 20 | l/lomahamsapariyaya | clean |  |
+| 21 | l/lomasa-kassapa | clean |  |
+| 22 | l/lomasa-kassapajataka | clean |  |
+| 23 | l/lomasakangiya-thera | fixed | singular Deva -> thiên nhân (glossary) |
+| 24 | l/lomasakangiyabhaddekarattasutta | clean |  |
+| 25 | l/lomasanaga | clean |  |
+| 26 | l/lomasavangisa | clean |  |
+| 27 | l/lonagiri-01 | clean |  |
+| 28 | l/lonagiri-02 | clean |  |
+| 29 | l/lonambilasutta | clean |  |
+| 30 | l/lonaphalavagga | clean |  |
+| 31 | l/losakajataka | clean |  |
+| 32 | l/losakatissa-thera | clean |  |
+| 33 | l/lukhapapuranasutta | clean |  |
+| 34 | l/lumbini | clean |  |
+
+## Batch: s/ (surasena-02-2 → suriya-02) — 10 entries
+- Ngày review: 2026-07-11
+- Người/model: Claude
+- Phạm vi: s_10_entries_c5f8_result.md
+- Kết quả: 10/10 đạt; 1 file sửa low-risk; 0 needs_check.
+
+| # | Entry (s/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | s/surasena-02-2 | clean |  |
+| 2 | s/surasena-02 | clean |  |
+| 3 | s/suratissa | fixed | "cũng xem" -> "xem thêm" (house convention for "see also") |
+| 4 | s/surattha | clean |  |
+| 5 | s/suravamagotta | clean |  |
+| 6 | s/suravinicchaya | clean |  |
+| 7 | s/surindavati | clean |  |
+| 8 | s/surindavihara | clean |  |
+| 9 | s/suriya-01 | clean |  |
+| 10 | s/suriya-02 | clean |  |
+
+## Batch: s/ (surabhi → surasena-01) — 20 entries
+- Ngày review: 2026-07-11
+- Người/model: Claude
+- Phạm vi: s_20_entries_b3e7_result.md
+- Kết quả: 20/20 đạt; 0 file sửa low-risk; 0 needs_check.
+
+| # | Entry (s/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | s/surabhi | clean |  |
+| 2 | s/suradaddara | clean |  |
+| 3 | s/suradeva | clean |  |
+| 4 | s/suradha-thera | clean |  |
+| 5 | s/suradha | clean |  |
+| 6 | s/suradhasutta | clean |  |
+| 7 | s/suragiri | clean |  |
+| 8 | s/surakitti | clean |  |
+| 9 | s/surakkhita | clean |  |
+| 10 | s/surama-01-2 | clean |  |
+| 11 | s/surama-01 | clean |  |
+| 12 | s/surama-02-2 | clean |  |
+| 13 | s/suramana | clean |  |
+| 14 | s/suramma-2 | clean |  |
+| 15 | s/suramma | clean |  |
+| 16 | s/suramukha | clean |  |
+| 17 | s/suranimmila | clean |  |
+| 18 | s/surapanajataka | clean |  |
+| 19 | s/suraraja | clean |  |
+| 20 | s/surasena-01 | clean |  |
+
+## Batch: S batch s_a5e9b3d1 — 15 entries
+- Ngày review: 2026-07-11
+- Người/model: Claude
+- Phạm vi: s_a5e9b3d1_result.md
+- Kết quả: 15/15 đạt; 3 file sửa low-risk; 0 needs_check.
+
+| # | Entry (s/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | s/suppatitthita-04 | clean |  |
+| 2 | s/suppavasa-koliyadhita | clean |  |
+| 3 | s/suppavasasutta | fixed | Ariyan -> thuộc bậc Thánh (glossary) |
+| 4 | s/suppiya-01-2 | clean |  |
+| 5 | s/suppiya-01 | clean |  |
+| 6 | s/suppiya-02-2 | clean |  |
+| 7 | s/suppiya-02 | clean |  |
+| 8 | s/suppiya-03-2 | clean |  |
+| 9 | s/suppiya-03 | clean |  |
+| 10 | s/supubbanhasutta | clean |  |
+| 11 | s/suputakapujaka-thera | clean |  |
+| 12 | s/sura-2 | clean |  |
+| 13 | s/sura-ambattha | fixed | banker's family -> gia đình trưởng giả (glossary) |
+| 14 | s/sura-ambavana | fixed | Ceylon -> Tích Lan (glossary) |
+| 15 | s/sura | clean |  |
+
+## Batch: DPPN T-batch (t_f89ce825…) — 120 entries
+- Ngày review: 2026-07-11
+- Người/model: claude-opus (Claude Code)
+- Phạm vi: t_f89ce825-3fcd-4861-9da4-040c9f781325_result.md
+- Kết quả: 120/120 đạt; 14 file sửa low-risk; 0 needs_check.
+
+| # | Entry (t/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | t/takkivimamsi | clean |  |
+| 2 | t/tabbarattha | clean |  |
+| 3 | t/tabbavapi | clean |  |
+| 4 | t/tacasarajataka | clean |  |
+| 5 | t/tacchaka | clean |  |
+| 6 | t/tacchasukarajataka | clean |  |
+| 7 | t/tadadhimutta | clean |  |
+| 8 | t/tadangasutta | clean |  |
+| 9 | t/taddhigama | clean |  |
+| 10 | t/tagara | clean |  |
+| 11 | t/tagarasikhi | fixed | connective: also/and → cũng như/và |
+| 12 | t/takka | clean |  |
+| 13 | t/takkajataka | fixed | connective: E.g. → ví dụ (trong ngoặc citation) |
+| 14 | t/takkalajataka | clean |  |
+| 15 | t/takkambila | clean |  |
+| 16 | t/takkapandita | clean |  |
+| 17 | t/takkara | clean |  |
+| 18 | t/takkariya | clean |  |
+| 19 | t/takkariyajataka | clean |  |
+| 20 | t/takkasila | fixed | phục hồi dấu Pāli: Alambanamanta → Ālambanamanta |
+| 21 | t/takkasilajataka | clean |  |
+| 22 | t/takkola | clean |  |
+| 23 | t/talacatukka | clean |  |
+| 24 | t/talacchiggalupamasutta | fixed | connective: and → và |
+| 25 | t/taladilla | clean |  |
+| 26 | t/talaggallakavapi | clean |  |
+| 27 | t/talakatthali | clean |  |
+| 28 | t/talakkhettagama | clean |  |
+| 29 | t/talanga-talangatissapabbata | clean |  |
+| 30 | t/talangarasamuddapabbata | clean |  |
+| 31 | t/talanigamatittha | clean |  |
+| 32 | t/talaphaliya-thera | clean |  |
+| 33 | t/talapitthikavihara | clean |  |
+| 34 | t/talaputa-2 | clean |  |
+| 35 | t/talata | clean |  |
+| 36 | t/talavantadayaka-thera | clean |  |
+| 37 | t/talavatthuvihara | clean |  |
+| 38 | t/talavelimagga | clean |  |
+| 39 | t/talayurunadu | clean |  |
+| 40 | t/talipabbata | clean |  |
+| 41 | t/talissara | clean |  |
+| 42 | t/tamalapupphiya-thera | clean |  |
+| 43 | t/tamalinda | clean |  |
+| 44 | t/tamalitti | clean |  |
+| 45 | t/tamba-01 | clean |  |
+| 46 | t/tamba-02 | clean |  |
+| 47 | t/tamba-03 | clean |  |
+| 48 | t/tamba-04 | fixed | connective: etc. → v.v. |
+| 49 | t/tambadathika | fixed | Yakkhinī đặt Pāli trước: Dạ-xoa nữ (Yakkhinī) → *Yakkhinī* (dạ-xoa nữ) |
+| 50 | t/tambagama | clean |  |
+| 51 | t/tambala | clean |  |
+| 52 | t/tambalagama | fixed | connective: see also → xem thêm |
+| 53 | t/tambapanni-2 | clean |  |
+| 54 | t/tambapanni | clean |  |
+| 55 | t/tambapittha | clean |  |
+| 56 | t/tambapupphiya | clean |  |
+| 57 | t/tambasumana | clean |  |
+| 58 | t/tambavitthika | fixed | connective: see also → xem thêm |
+| 59 | t/tamjivamtamsariram-sutta | clean |  |
+| 60 | t/tamonuda | clean |  |
+| 61 | t/tamosutta | clean |  |
+| 62 | t/tamotamasutta | clean |  |
+| 63 | t/tanagaluka | clean |  |
+| 64 | t/tanasiva | clean |  |
+| 65 | t/tanasutta | clean |  |
+| 66 | t/tanavelivihara | clean |  |
+| 67 | t/tandulanalijataka | clean |  |
+| 68 | t/tandulapaladvara | clean |  |
+| 69 | t/tandulapatta | clean |  |
+| 70 | t/tangipperumala | fixed | connective: Ibid. → Sđd. |
+| 71 | t/tanguttavankaparivena | clean |  |
+| 72 | t/tanha | clean |  |
+| 73 | t/tanhakkhayasutta-01 | clean |  |
+| 74 | t/tanhakkhayasutta-02 | clean |  |
+| 75 | t/tanhankara | clean |  |
+| 76 | t/tanhasutta-01 | clean |  |
+| 77 | t/tanhasutta-02 | clean |  |
+| 78 | t/tanhasutta-03 | clean |  |
+| 79 | t/tanhasutta-04 | clean |  |
+| 80 | t/tanhasutta-05 | clean |  |
+| 81 | t/tanhasutta-06 | clean |  |
+| 82 | t/tanhasutta-07 | clean |  |
+| 83 | t/tanhasutta-08 | clean |  |
+| 84 | t/tanhasutta-09 | clean |  |
+| 85 | t/tanhasutta-10 | clean |  |
+| 86 | t/tanhasutta-11 | clean |  |
+| 87 | t/tanhavagga | clean |  |
+| 88 | t/tankitamanca | fixed | Yakkha đặt Pāli trước: Dạ-xoa (Yakkha) → Yakkha (dạ-xoa) |
+| 89 | t/tankuttara | clean |  |
+| 90 | t/tannarugama | clean |  |
+| 91 | t/tannitittha | clean |  |
+| 92 | t/tantavayikacatika | clean |  |
+| 93 | t/tapana-3 | clean |  |
+| 94 | t/tapana | clean |  |
+| 95 | t/tapassi | clean |  |
+| 96 | t/tapassu-01 | fixed | thiên thần → thiên nhân (×2); bỏ gloss cấm '(A-la-hán)'; Sotāpanna gloss → (bậc Dự lưu); upāsaka gloss → (cư sĩ nam) |
+| 97 | t/tapassu-02 | fixed | mistranslation: 'Chief of the lay disciples' — trưởng giả đệ tử → đứng đầu các đệ tử tại gia |
+| 98 | t/tapassusutta | clean |  |
+| 99 | t/tapoda | fixed | thiên thần → thiên nhân |
+| 100 | t/tapodarama | clean |  |
+| 101 | t/tapodavatthu | clean |  |
+| 102 | t/tapokammanca-sutta | clean |  |
+| 103 | t/tapovana | clean |  |
+| 104 | t/taraccha | clean |  |
+| 105 | t/taracchavapi | clean |  |
+| 106 | t/tarana | clean |  |
+| 107 | t/taraniya-thera-01 | clean |  |
+| 108 | t/taraniya-thera-02 | clean |  |
+| 109 | t/taraniya-thera-03 | clean |  |
+| 110 | t/taraniya-thera-04 | clean |  |
+| 111 | t/tarukkha | clean |  |
+| 112 | t/tarunasutta | clean |  |
+| 113 | t/tasinasutta | clean |  |
+| 114 | t/tassasutam-sutta | clean |  |
+| 115 | t/tatavapi | clean |  |
+| 116 | t/tatha | clean |  |
+| 117 | t/tathagata | fixed | connective: etc. → v.v. |
+| 118 | t/tathagatasutta | clean |  |
+| 119 | t/tathagatena-vuttasutta | clean |  |
+| 120 | t/tathagatuppatti | clean |  |
+
+## Batch: V (Vāruṇī–Vedabbha) — 120 entries
+- Ngày review: 2026-07-11
+- Người/model: Claude
+- Phạm vi: v_410877f0-f806-4932-8178-12a80d708dda_result.md
+- Kết quả: 120/120 đạt; 5 file sửa low-risk; 0 file đặt needs_check.
+
+| # | Entry (v/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | v/varuni | clean |  |
+| 2 | v/varunijataka | clean |  |
+| 3 | v/varunindhara | clean |  |
+| 4 | v/vasabha-01 | clean |  |
+| 5 | v/vasabha-02 | fixed | chuẩn hóa niên đại CE→CN (127-171 CN.) |
+| 6 | v/vasabha-03 | clean |  |
+| 7 | v/vasabha-04 | clean |  |
+| 8 | v/vasabha-05 | clean |  |
+| 9 | v/vasabha-06 | clean |  |
+| 10 | v/vasabha-07 | clean |  |
+| 11 | v/vasabha-08 | clean |  |
+| 12 | v/vasabhagama-2 | clean |  |
+| 13 | v/vasabhagama | clean |  |
+| 14 | v/vasabhagamabhanavara | clean |  |
+| 15 | v/vasabhagami-thera | clean |  |
+| 16 | v/vasabhakkhattiya | clean |  |
+| 17 | v/vasala | clean |  |
+| 18 | v/vasalanagara | clean |  |
+| 19 | v/vasalasutta | clean |  |
+| 20 | v/vasantaguha | clean |  |
+| 21 | v/vasasutta | clean |  |
+| 22 | v/vasava | clean |  |
+| 23 | v/vasavanesi | clean |  |
+| 24 | v/vasavatti-01 | clean |  |
+| 25 | v/vasavatti-02 | clean |  |
+| 26 | v/vasavatti-03 | clean |  |
+| 27 | v/vasavatti-04 | clean |  |
+| 28 | v/vasavatti-05 | clean |  |
+| 29 | v/vasavattisutta | clean |  |
+| 30 | v/vasettha-01 | clean |  |
+| 31 | v/vasettha-02 | clean |  |
+| 32 | v/vasettha-03 | clean |  |
+| 33 | v/vasettha-04 | clean |  |
+| 34 | v/vasettha-05 | clean |  |
+| 35 | v/vasettha-06 | clean |  |
+| 36 | v/vasettha-07 | clean |  |
+| 37 | v/vasettha-08 | clean |  |
+| 38 | v/vasetthasutta-01 | clean |  |
+| 39 | v/vasetthasutta-02 | clean |  |
+| 40 | v/vasetthi-theri | clean |  |
+| 41 | v/vasetthi | clean |  |
+| 42 | v/vasi | clean |  |
+| 43 | v/vasidayaka-thera | clean |  |
+| 44 | v/vasijatasutta | clean |  |
+| 45 | v/vasitthaka | clean |  |
+| 46 | v/vassa | clean |  |
+| 47 | v/vassakara | clean |  |
+| 48 | v/vassakaranumodanasutta | clean |  |
+| 49 | v/vassakarasutta-01 | clean |  |
+| 50 | v/vassakarasutta-02 | clean |  |
+| 51 | v/vassakarasutta-03 | clean |  |
+| 52 | v/vassasutta-01 | fixed | sửa render bị cấm: 'các chư thiên'→'chư thiên' |
+| 53 | v/vassasutta-02 | clean |  |
+| 54 | v/vassasutta-03 | clean |  |
+| 55 | v/vassavalahaka | fixed | sửa render bị cấm: 'các chư thiên'→'những vị chư thiên' |
+| 56 | v/vassavasabhanavara | clean |  |
+| 57 | v/vassavutthasutta | clean |  |
+| 58 | v/vassikasutta | clean |  |
+| 59 | v/vassupanayikakkhandhaka | clean |  |
+| 60 | v/vasu | clean |  |
+| 61 | v/vasudatta | clean |  |
+| 62 | v/vasudeva | clean |  |
+| 63 | v/vasudevavattika | clean |  |
+| 64 | v/vasula | clean |  |
+| 65 | v/vasuladatta-2 | clean |  |
+| 66 | v/vasuladatta | clean |  |
+| 67 | v/vasuttara | clean |  |
+| 68 | v/vatagama | clean |  |
+| 69 | v/vataggasindhava | clean |  |
+| 70 | v/vataggasindhavajataka | clean |  |
+| 71 | v/vatagiri | clean |  |
+| 72 | v/vatakalaka | clean |  |
+| 73 | v/vatakapabbata | clean |  |
+| 74 | v/vatamigajataka | clean |  |
+| 75 | v/vatamsa | clean |  |
+| 76 | v/vatamsaka | clean |  |
+| 77 | v/vatamsakiya-thera-01 | clean |  |
+| 78 | v/vatamsakiya-thera-02 | clean |  |
+| 79 | v/vatamsika | clean |  |
+| 80 | v/vatapadasutta | clean |  |
+| 81 | v/vatarakkhatthali | clean |  |
+| 82 | v/vatasama | clean |  |
+| 83 | v/vatasutta | clean |  |
+| 84 | v/vatatapanivariya-thera | clean |  |
+| 85 | v/vatiyamandapa | clean |  |
+| 86 | v/vatra | clean |  |
+| 87 | v/vatrabhu | fixed | sửa render bị cấm: 'các chư thiên'→'chư thiên' |
+| 88 | v/vattabbaka-nigrodha | clean |  |
+| 89 | v/vattagamani-abhaya | fixed | chuẩn hóa niên đại B.C.→TCN (29-17 TCN) |
+| 90 | v/vattakajataka-01 | clean |  |
+| 91 | v/vattakajataka-02 | clean |  |
+| 92 | v/vattakajataka-03 | clean |  |
+| 93 | v/vattakakarapitthi | clean |  |
+| 94 | v/vattakalaka | clean |  |
+| 95 | v/vattakkhandhaka | clean |  |
+| 96 | v/vattalagama | clean |  |
+| 97 | v/vattanahanakottha | clean |  |
+| 98 | v/vattaniya | clean |  |
+| 99 | v/vattasutta | clean |  |
+| 100 | v/vatthadayaka-thera | clean |  |
+| 101 | v/vatthasutta-01 | clean |  |
+| 102 | v/vatthugatha | clean |  |
+| 103 | v/vatthulapabbata | clean |  |
+| 104 | v/vatthupamasutta | clean |  |
+| 105 | v/vatthusutta-01 | clean |  |
+| 106 | v/vatthusutta-02 | clean |  |
+| 107 | v/vattitasutta | clean |  |
+| 108 | v/vatturavihara | clean |  |
+| 109 | v/vatuka | clean |  |
+| 110 | v/vayamasutta | clean |  |
+| 111 | v/vayasutta | clean |  |
+| 112 | v/vayiga | clean |  |
+| 113 | v/vayodeva | clean |  |
+| 114 | v/vayu | clean |  |
+| 115 | v/vebhara-01 | clean |  |
+| 116 | v/vebhara-02 | clean |  |
+| 117 | v/vebhara-03 | clean |  |
+| 118 | v/vebhara-04 | clean |  |
+| 119 | v/vebhara-05 | clean |  |
+| 120 | v/vedabbha | clean |  |
+
+## Batch: V-batch v_4753037b (vacakopadesa–vallavahagama) — 120 entries
+- Ngày review: 2026-07-11
+- Người/model: Claude
+- Phạm vi: v_4753037b-597f-4d30-b383-1b22e65d65a0_result.md
+- Kết quả: 120/120 đạt; 1 file sửa low-risk; 0 needs_check.
+
+| # | Entry (v/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | v/vacakopadesa | clean |  |
+| 2 | v/vacanatthajoti | clean |  |
+| 3 | v/vacasutta-01 | clean |  |
+| 4 | v/vacasutta-02 | clean |  |
+| 5 | v/vacavacaka | clean |  |
+| 6 | v/vacavataka | clean |  |
+| 7 | v/vaccha-01 | clean |  |
+| 8 | v/vacchagotta-01 | clean |  |
+| 9 | v/vacchagotta-02 | clean |  |
+| 10 | v/vacchagotta-03 | clean |  |
+| 11 | v/vacchagottasutta | clean |  |
+| 12 | v/vacchanakha | clean |  |
+| 13 | v/vacchanakhajataka | clean |  |
+| 14 | v/vacchapala-thera | fixed | sửa tên Pāli: 'Budda' → 'Buddha' |
+| 15 | v/vacchasutta | clean |  |
+| 16 | v/vacissara-01 | clean |  |
+| 17 | v/vacissara-02 | clean |  |
+| 18 | v/vacissara-03 | clean |  |
+| 19 | v/vadakongu | clean |  |
+| 20 | v/vadali | clean |  |
+| 21 | v/vadamanamekkundi | clean |  |
+| 22 | v/vadavalathirukka | clean |  |
+| 23 | v/vaddha-01 | clean |  |
+| 24 | v/vaddha-02 | clean |  |
+| 25 | v/vaddhakisukarajataka | clean |  |
+| 26 | v/vaddhamana-01 | clean |  |
+| 27 | v/vaddhamana-02 | clean |  |
+| 28 | v/vaddhamana-03 | clean |  |
+| 29 | v/vaddhamana-04 | clean |  |
+| 30 | v/vaddhamana-05 | clean |  |
+| 31 | v/vaddhamana-06 | clean |  |
+| 32 | v/vaddhamanakatittha | clean |  |
+| 33 | v/vaddhamata-theri | clean |  |
+| 34 | v/vaddhana-01 | clean |  |
+| 35 | v/vaddhana-02 | clean |  |
+| 36 | v/vaddhanavapi | clean |  |
+| 37 | v/vaddhasutta | clean |  |
+| 38 | v/vaddhavihara | clean |  |
+| 39 | v/vaddhisutta-01 | clean |  |
+| 40 | v/vaddhisutta-02 | clean |  |
+| 41 | v/vaddhisutta-03 | clean |  |
+| 42 | v/vadha-alopasahasakarasutta | clean |  |
+| 43 | v/vadhagamakapasana | clean |  |
+| 44 | v/vadhukasutta | clean |  |
+| 45 | v/vadino-sutta | clean |  |
+| 46 | v/vadisutta | clean |  |
+| 47 | v/vaggamudatiriya | clean |  |
+| 48 | v/vaggulivatthu | clean |  |
+| 49 | v/vaggumuda | clean |  |
+| 50 | v/vagissara | clean |  |
+| 51 | v/vaha | clean |  |
+| 52 | v/vahadipa | clean |  |
+| 53 | v/vahamavapi | clean |  |
+| 54 | v/vahana | clean |  |
+| 55 | v/vahavapi | clean |  |
+| 56 | v/vahittha | clean |  |
+| 57 | v/vajagaragirivihara | clean |  |
+| 58 | v/vajapeyya | clean |  |
+| 59 | v/vajira-01-2 | clean |  |
+| 60 | v/vajira-01 | clean |  |
+| 61 | v/vajira-02-2 | clean |  |
+| 62 | v/vajira-02 | clean |  |
+| 63 | v/vajira-03-2 | clean |  |
+| 64 | v/vajira-03 | clean |  |
+| 65 | v/vajira-04-2 | clean |  |
+| 66 | v/vajira-04 | clean |  |
+| 67 | v/vajirabahu | clean |  |
+| 68 | v/vajirabuddhitika | clean |  |
+| 69 | v/vajiragga | clean |  |
+| 70 | v/vajirahattha | clean |  |
+| 71 | v/vajirakumari | clean |  |
+| 72 | v/vajirapani | clean |  |
+| 73 | v/vajirasama | clean |  |
+| 74 | v/vajirasena | clean |  |
+| 75 | v/vajirasutta | clean |  |
+| 76 | v/vajiravapi | clean |  |
+| 77 | v/vajiravudha | clean |  |
+| 78 | v/vajirindha | clean |  |
+| 79 | v/vajiriya | clean |  |
+| 80 | v/vajji | clean |  |
+| 81 | v/vajjihara | clean |  |
+| 82 | v/vajjiputta-thera-01 | clean |  |
+| 83 | v/vajjiputta-thera-02 | clean |  |
+| 84 | v/vajjiputta | clean |  |
+| 85 | v/vajjiputtaka | clean |  |
+| 86 | v/vajjiputtakasutta | clean |  |
+| 87 | v/vajjisutta-01 | clean |  |
+| 88 | v/vajjisutta-02 | clean |  |
+| 89 | v/vajjita-thera | clean |  |
+| 90 | v/vajjivagga | clean |  |
+| 91 | v/vajjiyamahita | clean |  |
+| 92 | v/vajjiyasutta | clean |  |
+| 93 | v/vakajataka | clean |  |
+| 94 | v/vakkali-01 | clean |  |
+| 95 | v/vakkali-02 | clean |  |
+| 96 | v/vakkalisutta | clean |  |
+| 97 | v/vala | clean |  |
+| 98 | v/valabhamukha | clean |  |
+| 99 | v/valagamavihara | clean |  |
+| 100 | v/valahaka-01 | clean |  |
+| 101 | v/valahaka-02 | clean |  |
+| 102 | v/valahakasutta-01 | clean |  |
+| 103 | v/valahakasutta-02 | clean |  |
+| 104 | v/valahakavagga | clean |  |
+| 105 | v/valahakayikadeva | clean |  |
+| 106 | v/valahasamyutta | clean |  |
+| 107 | v/valahassajataka | clean |  |
+| 108 | v/valahassavapi | clean |  |
+| 109 | v/valakkonda | clean |  |
+| 110 | v/valavahana | clean |  |
+| 111 | v/valikagama | clean |  |
+| 112 | v/valikakhetta | clean |  |
+| 113 | v/valikapitthivihara | clean |  |
+| 114 | v/valikarama | clean |  |
+| 115 | v/valikavihara | clean |  |
+| 116 | v/valivasaragama | clean |  |
+| 117 | v/valiya | clean |  |
+| 118 | v/vallabha | clean |  |
+| 119 | v/vallakkuttara | clean |  |
+| 120 | v/vallavahagama | clean |  |
+
+## Batch: v_7babee3f (v-entries) — 120 entries
+- Ngày review: 2026-07-11
+- Người/model: Claude
+- Phạm vi: v_7babee3f-4024-4ef7-9a12-a65efd2d3b67_result.md
+- Kết quả: 120/120 đạt; 5 file sửa low-risk; 0 needs_check.
+
+| # | Entry (v/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | v/valliggama | clean |  |
+| 2 | v/vallipasanavihara | clean |  |
+| 3 | v/valliphaladayaka | clean |  |
+| 4 | v/vallitittha | clean |  |
+| 5 | v/vallivihara | clean |  |
+| 6 | v/valliya-thera-01 | clean |  |
+| 7 | v/valliya-thera-02 | fixed | gỡ gloss (Devas) thừa sau chư thiên |
+| 8 | v/valliya-thera-03 | fixed | sửa "năm năm tuổi" -> "khi mới năm tuổi" |
+| 9 | v/valliyavithi | clean |  |
+| 10 | v/valliyeravihara | clean |  |
+| 11 | v/valodakajataka | clean |  |
+| 12 | v/valugama | clean |  |
+| 13 | v/valukagama | clean |  |
+| 14 | v/valukapatta | clean |  |
+| 15 | v/valutthi | clean |  |
+| 16 | v/vamadeva | clean |  |
+| 17 | v/vamaka | clean |  |
+| 18 | v/vamanasutta | clean |  |
+| 19 | v/vamantapabbhara | clean |  |
+| 20 | v/vamatthappakasini | clean |  |
+| 21 | v/vammikasutta | clean |  |
+| 22 | v/vamsa | clean |  |
+| 23 | v/vamsabhumi | clean |  |
+| 24 | v/vanagama | clean |  |
+| 25 | v/vanaggamapasada | clean |  |
+| 26 | v/vanakorandiya-thera | clean |  |
+| 27 | v/vananadi | clean |  |
+| 28 | v/vanapatthasutta | clean |  |
+| 29 | v/vanappavesanakhanda-01 | clean |  |
+| 30 | v/vanappavesanakhanda-02 | clean |  |
+| 31 | v/vanaragama | clean |  |
+| 32 | v/vanarajataka | clean |  |
+| 33 | v/vanarakara | clean |  |
+| 34 | v/vanarindajataka | clean |  |
+| 35 | v/vanaropasutta | clean |  |
+| 36 | v/vanasa | clean |  |
+| 37 | v/vanasamyutta | clean |  |
+| 38 | v/vanavaccha-thera-01 | clean |  |
+| 39 | v/vanavaccha-thera-02 | fixed | bodhi-tree: "cây Bồ-đề" -> "cây bodhi" theo glossary |
+| 40 | v/vanavasi-maha-tissa | fixed | gỡ gloss (Devas) thừa sau chư thiên |
+| 41 | v/vanavasi-thera | clean |  |
+| 42 | v/vanavasitissa | clean |  |
+| 43 | v/vandanasutta-01 | clean |  |
+| 44 | v/vandanasutta-02 | clean |  |
+| 45 | v/vandanavimanavatthu | clean |  |
+| 46 | v/vanganta | clean |  |
+| 47 | v/vangantaputta | clean |  |
+| 48 | v/vangisasutta-02 | clean |  |
+| 49 | v/vangisattherasamyutta | clean |  |
+| 50 | v/vangisattheravatthu | clean |  |
+| 51 | v/vanijjagamavihara | clean |  |
+| 52 | v/vanijjasutta-01 | clean |  |
+| 53 | v/vanijjasutta-02 | clean |  |
+| 54 | v/vanka | clean |  |
+| 55 | v/vankagiri | clean |  |
+| 56 | v/vanavasa | clean |  |
+| 57 | v/vanga | clean |  |
+| 58 | v/vangisa-thera | clean |  |
+| 59 | v/vangisasutta-01 | clean |  |
+| 60 | v/vanguttara | clean |  |
+| 61 | v/vankahara | clean |  |
+| 62 | v/vankaka | clean |  |
+| 63 | v/vankanasikatissa | clean |  |
+| 64 | v/vankavattakagalla | clean |  |
+| 65 | v/vanna | clean |  |
+| 66 | v/vannabodhana | clean |  |
+| 67 | v/vannaka | clean |  |
+| 68 | v/vannakaraka-thera | clean |  |
+| 69 | v/vannanasutta | clean |  |
+| 70 | v/vannanitigandha | clean |  |
+| 71 | v/vannapitaka | clean |  |
+| 72 | v/vannarohajataka | clean |  |
+| 73 | v/vannarohavagga | clean |  |
+| 74 | v/vannasutta | clean |  |
+| 75 | v/vanni | clean |  |
+| 76 | v/vannupathajataka | clean |  |
+| 77 | v/vantajivaka | clean |  |
+| 78 | v/vaparani | clean |  |
+| 79 | v/vapinagara | clean |  |
+| 80 | v/vapivataka | clean |  |
+| 81 | v/vappa-01 | clean |  |
+| 82 | v/vappa-02 | clean |  |
+| 83 | v/vappasutta | clean |  |
+| 84 | v/varadassana | clean |  |
+| 85 | v/varadhara | clean |  |
+| 86 | v/varadipa | clean |  |
+| 87 | v/varakalyana | clean |  |
+| 88 | v/varakappa | clean |  |
+| 89 | v/varamandhata | clean |  |
+| 90 | v/varana-2 | clean |  |
+| 91 | v/varana-3 | clean |  |
+| 92 | v/varana | clean |  |
+| 93 | v/varanajataka | clean |  |
+| 94 | v/varananamuni | clean |  |
+| 95 | v/varanavagga | clean |  |
+| 96 | v/varanavati | clean |  |
+| 97 | v/vararoja-01 | clean |  |
+| 98 | v/vararoja-02 | clean |  |
+| 99 | v/varavarana | clean |  |
+| 100 | v/varuna-01 | clean |  |
+| 101 | v/varuna-02 | clean |  |
+| 102 | v/varuna-03 | clean |  |
+| 103 | v/varuna-04 | clean |  |
+| 104 | v/varuna-05 | clean |  |
+| 105 | v/varuna-06 | clean |  |
+| 106 | v/varuna-07 | clean |  |
+| 107 | v/varuna-08 | clean |  |
+| 108 | v/varuna-09 | clean |  |
+| 109 | v/varuna-10 | clean |  |
+| 110 | v/varuna-11 | clean |  |
+| 111 | v/varuna-12 | clean |  |
+| 112 | v/varuna-13 | clean |  |
+| 113 | v/varuna-14 | clean |  |
+| 114 | v/varuna-15 | clean |  |
+| 115 | v/varuna-16 | clean |  |
+| 116 | v/varuna-17 | clean |  |
+| 117 | v/varuna-18 | fixed | gỡ gloss (Devas); đổi "Dạ-xoa (Yakkha)" -> "Yakkha (dạ-xoa)" |
+| 118 | v/varuna-2 | clean |  |
+| 119 | v/varuna | clean |  |
+| 120 | v/varunadeva | clean |  |
+
+## Batch: v/ (vivadasutta-01 → vyasanasutta) — 25 entries
+- Ngày review: 2026-07-11
+- Người/model: Claude
+- Phạm vi: v_9a8b7c6d-1234-5678-abcd-ef0123456789_result.md
+- Kết quả: 25/25 đạt; 3 file sửa low-risk; 0 needs_check.
+
+| # | Entry (v/…) | Sửa | Ghi chú |
+|---|---|---|---|
+| 1 | v/vivadasutta-01 | clean |  |
+| 2 | v/vivadasutta-02 | clean |  |
+| 3 | v/vivaravagga | clean |  |
+| 4 | v/vivekakatha | clean |  |
+| 5 | v/vivekasutta-01 | fixed | Deva (số ít) -> thiên nhân |
+| 6 | v/vivekasutta-02 | clean |  |
+| 7 | v/viyolakavihara | clean |  |
+| 8 | v/voharapathasutta | clean |  |
+| 9 | v/voharasutta-01 | clean |  |
+| 10 | v/voharasutta-02 | clean |  |
+| 11 | v/voharikatissa | fixed | date CE -> CN |
+| 12 | v/voyalaggamu | clean |  |
+| 13 | v/vuddhisutta-01 | clean |  |
+| 14 | v/vuddhisutta-02 | clean |  |
+| 15 | v/vuttamalasandesasataka | clean |  |
+| 16 | v/vutthanasutta-01 | clean |  |
+| 17 | v/vutthanasutta-02 | clean |  |
+| 18 | v/vutthisutta-01 | clean |  |
+| 19 | v/vutthisutta-02 | clean |  |
+| 20 | v/vuttodaya | clean |  |
+| 21 | v/vyagghajataka | fixed | removed stray English "the" before Takkāriyajātaka |
+| 22 | v/vyagghapajja | clean |  |
+| 23 | v/vyakaranasutta-01 | clean |  |
+| 24 | v/vyakaranasutta-02 | clean |  |
+| 25 | v/vyasanasutta | clean |  |

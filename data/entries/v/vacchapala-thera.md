@@ -35,6 +35,6 @@ In the past he had been a Brahmin, expert in Brahmin lore, and one day, while se
 
 Vacchapāla Thera. Một Arahant. Ông thuộc một gia đình Bà-la-môn giàu có ở Rājagaha. Ông chứng kiến những phép lạ do Uruvelā Kassapa thực hiện và sự tự quy phục của ông ấy trước Đức Phật khi họ cùng nhau đến thăm Bimbisāra, và vô cùng kinh ngạc trước điều đó, ông gia nhập Tăng đoàn. Trong vòng một tuần, ông phát triển tuệ giác và trở thành Arahant.
 
-Trong quá khứ, ông đã là một Bà-la-môn thông thạo kiến thức Bà-la-môn, và một ngày, trong khi tìm kiếm một người thích hợp để cúng dường một bình cơm sữa lớn còn dư sau lễ tế, ông thấy Vipassī Buddha và cúng dường cho Ngài. Bốn mươi mốt *kappa* trước, ông trở thành một vị vua tên là Budda (Thag.71; Thag­a.i.159f). Ông có lẽ đồng nhất với Pāyāsadāyaka trong Apadāna. Ap.i.157.
+Trong quá khứ, ông đã là một Bà-la-môn thông thạo kiến thức Bà-la-môn, và một ngày, trong khi tìm kiếm một người thích hợp để cúng dường một bình cơm sữa lớn còn dư sau lễ tế, ông thấy Vipassī Buddha và cúng dường cho Ngài. Bốn mươi mốt *kappa* trước, ông trở thành một vị vua tên là Buddha (Thag.71; Thag­a.i.159f). Ông có lẽ đồng nhất với Pāyāsadāyaka trong Apadāna. Ap.i.157.
 
 ## Notes

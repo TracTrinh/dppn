@@ -69,7 +69,7 @@ It was in the reign of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Vua của Ceylon (29-17 B.C.). Ông là con trai của Saddhātissa, và lên ngôi sau khi giết chết kẻ tiếm quyền Mahā Rattaka (*v.l.* Kammahārattaka).
+Vua của Ceylon (29-17 TCN). Ông là con trai của Saddhātissa, và lên ngôi sau khi giết chết kẻ tiếm quyền Mahā Rattaka (*v.l.* Kammahārattaka).
 
 Ông kết hôn với Anulā, vợ của Khallāṭanāga, và nhận nuôi Mahā Cūḷika làm con trai của chính mình; vì điều này Vaṭṭagāmaṇī được biết đến với tên gọi Pitirājā (tên này xuất hiện vài lần trong các Bản chú giải – ví dụ, Vibh­a. *passim*, xem Pitirājā).
 

@@ -38,6 +38,6 @@ Tambadāṭhika. Một đao phủ công khai của Rājagaha. Ông có hàm răn
 
 Vào cái ngày ông bị phế truất, ông đã ra lệnh nấu cháo sữa, và sau khi tắm rửa sạch sẽ và trang điểm, ông sắp sửa thọ thực, thì Sāriputta, với lòng thương xót ông, xuất hiện trước cửa nhà. Tambadāṭhika thỉnh Trưởng lão vào trong và tiếp đãi ngài một cách hiếu khách. Khi Sāriputta bắt đầu tụng những lời phúc đáp, vị gia chủ không thể tập trung tư tưởng, bị quấy rầy bởi những ký ức về tội ác của mình trong quá khứ. Sāriputta an ủi ông bằng cách chỉ ra cho ông thấy rằng ông chỉ đơn thuần thực thi mệnh lệnh của nhà vua. Vào cuối bài thuyết pháp, Tambadāṭhika đã phát triển những phẩm chất cần thiết để trở thành một *Sotāpanna*. Khi Sāriputta rời đi, Tambadāṭhika đi tiễn ngài một đoạn đường, nhưng trên đường quay về, ông bị một con bò húc chết.
 
-Con bò cái ấy là một Dạ-xoa nữ (Yakkhinī) đã từng đoạt mạng: Pukkusāti, Bāhīya Dārucīriya, Suppabuddha (Dhp­a.ii.35; Ud­a.289). Đức Phật cho biết ông đã tái sinh vào cõi Tusita. Dhp­a.ii.203ff.
+Con bò cái ấy là một *Yakkhinī* (dạ-xoa nữ) đã từng đoạt mạng: Pukkusāti, Bāhīya Dārucīriya, Suppabuddha (Dhp­a.ii.35; Ud­a.289). Đức Phật cho biết ông đã tái sinh vào cõi Tusita. Dhp­a.ii.203ff.
 
 ## Notes

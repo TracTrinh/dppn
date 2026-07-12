@@ -33,6 +33,6 @@ The story was told in reference to <span class="dppn-term dppn-term-t14" data-dp
 
 Vyagghajātaka (Ja 272). Bodhisatta từng là một vị thọ thần và sống gần một thọ thần khác. Không ai dám vào rừng vì sợ một con sư tử và một con hổ đi lang thang ở đó. Thế nên người dân không thể thu thập củi. Một ngày nọ, vị thọ thần thứ hai đã mang một hình thù đáng sợ, bất chấp lời khuyên của Bodhisatta, và hù dọa con sư tử cùng con hổ bỏ chạy. Dân chúng, khi thấy chúng đã biến mất, bắt đầu chặt cây. Sau đó, vị thọ thần ngu ngốc đã cố gắng đưa các loài vật quay trở lại một cách vô ích.
 
-Câu chuyện được kể liên quan đến nỗ lực của Kokālika nhằm đưa Sāriputta và Moggallāna trở lại, sau khi đã xúc phạm họ. Kokālika được đồng nhất với vị thần ngu ngốc, Sāriputta là con sư tử, và Moggallāna là con hổ. Ja.ii.356-8; cf. the Takkāriyajātaka (Ja 481).
+Câu chuyện được kể liên quan đến nỗ lực của Kokālika nhằm đưa Sāriputta và Moggallāna trở lại, sau khi đã xúc phạm họ. Kokālika được đồng nhất với vị thần ngu ngốc, Sāriputta là con sư tử, và Moggallāna là con hổ. Ja.ii.356-8; cf. Takkāriyajātaka (Ja 481).
 
 ## Notes

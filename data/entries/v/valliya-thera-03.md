@@ -43,6 +43,6 @@ Valliya Thera 03. Ông thuộc một gia đình Bà-la-môn ở Vesālī, và c�
 
 Vào thời đức Phật Sumedha, ông từng là một vị Bà-la-môn giàu có và uyên bác học vấn. Về sau, ông từ bỏ tài sản tám mươi crore, và sau khi trở thành một ẩn sĩ, ông sống trên bờ sông. Tại đó đức Phật đã đến thăm ông, và ngồi trên một tấm da linh dương, ngài thuyết giảng Pháp. Vị ẩn sĩ vô cùng tôn kính ngài và đã dâng lên ngài những quả xoài cùng hương và hoa.
 
-Trong các bài kệ Apadāna, được trích dẫn trong Thag­a., nói rằng Valliya sinh ra ở thành phố Vebhāra, do Vissakamma xây dựng, và ông đã từ bỏ gia đình năm năm tuổi. Thag­a.i.292f.; hai bài kệ mà ông nói với Veṇudatta được ghi nhận trong Thag. (167-8). Ông có thể đồng nhất với Candanamāliya trong Apadāna. Ap.ii.423f.
+Trong các bài kệ Apadāna, được trích dẫn trong Thag­a., nói rằng Valliya sinh ra ở thành phố Vebhāra, do Vissakamma xây dựng, và ông đã từ bỏ gia đình khi mới năm tuổi. Thag­a.i.292f.; hai bài kệ mà ông nói với Veṇudatta được ghi nhận trong Thag. (167-8). Ông có thể đồng nhất với Candanamāliya trong Apadāna. Ap.ii.423f.
 
 ## Notes

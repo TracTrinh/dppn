@@ -24,6 +24,6 @@ Vivekasutta 01. An admonition spoken by a *Deva* on seeing a monk in a forest tr
 
 ## Vietnamese translation
 
-Vivekasutta 01. Lời khuyên răn do một *Deva* nói ra khi nhìn thấy một vị tỳ-kheo trong một khu rừng ở Kosala đang chìm đắm trong những suy nghĩ sai trái và xấu xa. SN.i.197.
+Vivekasutta 01. Lời khuyên răn do một thiên nhân nói ra khi nhìn thấy một vị tỳ-kheo trong một khu rừng ở Kosala đang chìm đắm trong những suy nghĩ sai trái và xấu xa. SN.i.197.
 
 ## Notes

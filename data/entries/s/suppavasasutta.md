@@ -26,6 +26,6 @@ Suppavāsāsutta. The Buddha visits <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Suppavāsāsutta. Đức Phật đến thăm Suppavāsā ở Sajjanela và được bà thiết đãi. Ngài thuyết pháp cho bà rằng một *upāsikā* (nữ cư sĩ) Thánh nhân, người dâng cúng thức ăn, là ban tặng bốn điều cho người nhận thức ăn: tuổi thọ, sắc đẹp, an lạc và sức mạnh, và chắc chắn sẽ có được sự an lạc trong những kiếp sống sau. AN.ii.62f.
+Suppavāsāsutta. Đức Phật đến thăm Suppavāsā ở Sajjanela và được bà thiết đãi. Ngài thuyết pháp cho bà rằng một *upāsikā* (nữ cư sĩ) thuộc bậc Thánh, người dâng cúng thức ăn, là ban tặng bốn điều cho người nhận thức ăn: tuổi thọ, sắc đẹp, an lạc và sức mạnh, và chắc chắn sẽ có được sự an lạc trong những kiếp sống sau. AN.ii.62f.
 
 ## Notes

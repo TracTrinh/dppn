@@ -33,7 +33,7 @@ There are causes for rain: the power of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Một trong các chư thiên Valāhaka (*q.v.*). Xem thêm Pajjuna. Một trong số họ có lần đã đến thăm một vị *Arahant* Thera ở Himālaya, và, tiết lộ danh tính của mình, nói rằng ông có thể tạo ra mưa theo ý muốn. Vị Trưởng lão muốn kiểm chứng lời khẳng định này, nhưng ngay cả trước khi ngài có thể đi vào túp lều của mình, vị *Deva* đã hát một bài hát, giơ tay lên, và mưa rơi xuống trong bán kính ba do-tuần.
+Một trong những vị chư thiên Valāhaka (*q.v.*). Xem thêm Pajjuna. Một trong số họ có lần đã đến thăm một vị *Arahant* Thera ở Himālaya, và, tiết lộ danh tính của mình, nói rằng ông có thể tạo ra mưa theo ý muốn. Vị Trưởng lão muốn kiểm chứng lời khẳng định này, nhưng ngay cả trước khi ngài có thể đi vào túp lều của mình, vị *Deva* đã hát một bài hát, giơ tay lên, và mưa rơi xuống trong bán kính ba do-tuần.
 
 Có những nguyên nhân gây ra mưa: sức mạnh của loài Nāga, của loài Supaṇṇa, của chư thiên, của một Lời Nguyện Sự Thật, của sự thay đổi thời tiết, của Māra, và của sức mạnh thần thông. SN­a.ii.255f.
 

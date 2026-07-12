@@ -29,6 +29,6 @@ Valliya Thera 02. He was the son of an eminent Brahmin of <span class="dppn-term
 
 ## Vietnamese translation
 
-Valliya Thera 02. Ông là con trai của một vị Bà-la-môn danh giá ở Sāvatthī, và nhờ những người bạn tốt của mình, ông đã được diện kiến đức Phật và gia nhập Tăng đoàn, đắc quả vị *Arahant* không lâu sau đó. Ba mươi mốt *kappa* trước, ông đã nhìn thấy Pacceka Buddha Nārada dưới gốc một cái cây, ông liền dựng một túp lều bằng lau sậy lợp cỏ cho ngài, cùng một lối đi kinh hành rải cát. Ông từng bảy mươi mốt lần làm vua chư thiên (Devas) và ba mươi bốn lần làm vua loài người. Thag­a.i.247; hai bài kệ trong Thag. (125-6) được cho là của ông. Ông có thể đồng nhất với Naḷāgārika trong Apadāna. Ap.i.278f.
+Valliya Thera 02. Ông là con trai của một vị Bà-la-môn danh giá ở Sāvatthī, và nhờ những người bạn tốt của mình, ông đã được diện kiến đức Phật và gia nhập Tăng đoàn, đắc quả vị *Arahant* không lâu sau đó. Ba mươi mốt *kappa* trước, ông đã nhìn thấy Pacceka Buddha Nārada dưới gốc một cái cây, ông liền dựng một túp lều bằng lau sậy lợp cỏ cho ngài, cùng một lối đi kinh hành rải cát. Ông từng bảy mươi mốt lần làm vua chư thiên và ba mươi bốn lần làm vua loài người. Thag­a.i.247; hai bài kệ trong Thag. (125-6) được cho là của ông. Ông có thể đồng nhất với Naḷāgārika trong Apadāna. Ap.i.278f.
 
 ## Notes

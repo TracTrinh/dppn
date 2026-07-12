@@ -24,6 +24,6 @@ Lokasutta 09. The world and its arising are fully known by a <span class="dppn-t
 
 ## Vietnamese translation
 
-Lokasutta 09. Thế giới và sự sinh khởi của nó được một vị Tathāgata liễu tri hoàn toàn và ngài được giải thoát khỏi cả hai; ngài cũng biết sự đoạn tận của nó và con đường đi đến đó. Ngài nói như ngài hành động; ngài là bậc vô nhiễm trong thế giới. AN.ii.23.
+Lokasutta 09. Thế giới và sự sinh khởi của nó được một vị Tathāgata liễu tri hoàn toàn và ngài được giải thoát khỏi cả hai; ngài cũng biết sự đoạn tận của nó và con đường đi đến đó. Ngài nói như ngài hành động; ngài là bậc không bị chinh phục trong thế giới. AN.ii.23.
 
 ## Notes

@@ -26,6 +26,6 @@ Vatrabhū. A name for Indra (<span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Một tên gọi của Indra (Sakka). (Ja.v.153; SN.i.47). Buddhaghosa (SN­a.i.83) giải thích nó là *sveva vattena aññe abhibhavitvā devissariyapatto ti Vatrabhū, Vatranāmakaṁ vā asuraṁ abhibhavatī ti*, (ông được gọi là Vatrabhū bởi vì ông đã đạt được quyền chúa tể đối với các chư thiên bằng cách chinh phục những người khác thông qua uy quyền của ông (vatta), hoặc bởi vì ông đã chinh phục Asura tên là Vatra).
+Một tên gọi của Indra (Sakka). (Ja.v.153; SN.i.47). Buddhaghosa (SN­a.i.83) giải thích nó là *sveva vattena aññe abhibhavitvā devissariyapatto ti Vatrabhū, Vatranāmakaṁ vā asuraṁ abhibhavatī ti*, (ông được gọi là Vatrabhū bởi vì ông đã đạt được quyền chúa tể đối với chư thiên bằng cách chinh phục những người khác thông qua uy quyền của ông (vatta), hoặc bởi vì ông đã chinh phục Asura tên là Vatra).
 
 ## Notes

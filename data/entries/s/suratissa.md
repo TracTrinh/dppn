@@ -38,6 +38,6 @@ Sūratissa. King of Ceylon (187-177 B.C.). He was the younger brother and succes
 
 ## Vietnamese translation
 
-Sūratissa. Vua của Ceylon (187-177 TCN). Ông là em trai và người kế vị của Mahā Siva. Ông đã xây dựng năm trăm *vihāra*, bao gồm Nagaraṅgaṇa, Hatthikkhandha, Goṇṇagirika, Pācīnapabbata, Kolambahālaka, Makulaka, Acchagallaka và Girinelavāhanaka. Ông băng hà ở tuổi sáu mươi, sau khi bị những người Damiḷa là Sena và Guttika chinh phục. Ông được gọi là Suvaṇṇapiṇḍatissa trước khi lên ngôi. Mhv.xxi.3ff.; Dpv.xviii.46f; cũng xem Acchagiri.
+Sūratissa. Vua của Ceylon (187-177 TCN). Ông là em trai và người kế vị của Mahā Siva. Ông đã xây dựng năm trăm *vihāra*, bao gồm Nagaraṅgaṇa, Hatthikkhandha, Goṇṇagirika, Pācīnapabbata, Kolambahālaka, Makulaka, Acchagallaka và Girinelavāhanaka. Ông băng hà ở tuổi sáu mươi, sau khi bị những người Damiḷa là Sena và Guttika chinh phục. Ông được gọi là Suvaṇṇapiṇḍatissa trước khi lên ngôi. Mhv.xxi.3ff.; Dpv.xviii.46f; xem thêm Acchagiri.
 
 ## Notes

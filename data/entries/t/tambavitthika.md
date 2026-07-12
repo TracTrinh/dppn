@@ -26,6 +26,6 @@ Tambaviṭṭhika. A village in Ceylon, where the soldiers of <span class="dppn-
 
 ## Vietnamese translation
 
-Tambaviṭṭhika. Một ngôi làng ở Tích Lan, nơi quân lính của Vijayabāhu I giết chết vua Coḷa. Cv.lviii.21; see also Cv.Trs.i.203, n.3.
+Tambaviṭṭhika. Một ngôi làng ở Tích Lan, nơi quân lính của Vijayabāhu I giết chết vua Coḷa. Cv.lviii.21; xem thêm Cv.Trs.i.203, n.3.
 
 ## Notes
