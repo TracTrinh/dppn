@@ -27,6 +27,6 @@ Mahā Tālitagāma. A village in <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Mahā Tālitagāma. Một ngôi làng ở Uttaradesa, tại Ceylon, nơi mà vị vua Paṇḍu đã xâm lược Ceylon trong triều đại của Sena I đã chiếm giữ một doanh trại vũ trang. Cv.l.14.
+Mahā Tālitagāma. Một ngôi làng ở Uttaradesa, tại Tích Lan, nơi vị vua Paṇḍu, người xâm lược Tích Lan dưới triều Sena I, đã đóng một doanh trại vũ trang. Cv.l.14.
 
 ## Notes

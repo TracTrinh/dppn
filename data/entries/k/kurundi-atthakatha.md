@@ -32,7 +32,7 @@ It is also called <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" d
 
 ## Vietnamese translation
 
-Một trong những bộ sưu tập chú giải vĩ đại về *Tipiṭaka* được Buddhaghosa sử dụng trong việc biên soạn các tác phẩm của ngài. Truyền thuyết nói rằng (Xem ví dụ, *Saddhamma-saṅgaha*, p.55) nó được viết bằng tiếng Sinhalese, và được gọi như vậy vì nó được biên soạn trong *vihāra* Kurundavelu ở Ceylon.
+Một trong những bộ sưu tập chú giải vĩ đại về *Tipiṭaka* được Buddhaghosa sử dụng trong việc biên soạn các tác phẩm của ngài. Truyền thuyết nói rằng (xem ví dụ, *Saddhamma-saṅgaha*, p.55) nó được viết bằng tiếng Sinhala, và được gọi như vậy vì nó được biên soạn trong *vihāra* Kurundavelu ở Tích Lan.
 
 Nó dường như chủ yếu liên quan đến các giới luật Vinaya, vì chúng ta tìm thấy các tham chiếu thường xuyên đến nó; đặc biệt là trong Samantapāsādikā, ví dụ, Vin-a.i.281; ii.319; iii.537, 544, 545, 573, 583, 597, 616, 620, 626, 627, 660, 664, 668, 688, 722, 726; iv.745, 758, 778, 783, 789, 813, 818, 861, 920, v.v.
 

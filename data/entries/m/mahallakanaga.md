@@ -35,6 +35,6 @@ Mahallakanāga, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Mahallakanāga, Mahallanāga. Cha vợ và là vị tổng tư lệnh của Gajabāhuka Gāmaṇi. Sau cái chết của Gajabāhu, ông đã trở thành vua của Ceylon và cai trị trong sáu năm (196-202 Công Nguyên). Ông đã xây dựng bảy *vihāra*: Sejalaka, Goṭapabbata, Dakapāsāṇa, Sālipabbata, Tanaveli, Tobbalanāgāpabbata và Girihālika. Người kế vị ông là con trai của ông, Bhātikatissa. Mv.xxxv.123ff.; xxxvi.1; Mhv­ṭ.657; Dpv.xxii.15ff., 29.
+Mahallakanāga, Mahallanāga. Cha vợ và là vị tổng tư lệnh của Gajabāhuka Gāmaṇi. Sau cái chết của Gajabāhu, ông đã trở thành vua của Tích Lan và cai trị trong sáu năm (196-202 CN). Ông đã xây dựng bảy *vihāra*: Sejalaka, Goṭapabbata, Dakapāsāṇa, Sālipabbata, Tanaveli, Tobbalanāgāpabbata và Girihālika. Người kế vị ông là con trai của ông, Bhātikatissa. Mv.xxxv.123ff.; xxxvi.1; Mhv­ṭ.657; Dpv.xxii.15ff., 29.
 
 ## Notes

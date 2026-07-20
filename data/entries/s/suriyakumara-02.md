@@ -29,6 +29,6 @@ Suriyakumāra 02. A son of <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Suriyakumāra 02. Con trai của Brahmadatta, vua nước Benares, và là anh em cùng cha khác mẹ của Mahiṁsāsa. Xem Devadhammajātaka (Ja 6). Ngài được đồng nhất với Ānanda. Ja.i.133; cf. Dhp­a.iii.73f.
+Suriyakumāra 02. Con trai của Brahmadatta, vua nước Benares, và là anh em cùng cha khác mẹ của Mahiṁsāsa. Xem Devadhammajātaka (Ja 6). Ngài được đồng nhất với Ānanda. Ja.i.133; xem thêm Dhp­a.iii.73f.
 
 ## Notes

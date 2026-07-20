@@ -25,6 +25,6 @@ Kuṭumbiyavihāra. A monastery in Ceylon. It was once the residence of *Tissa M
 
 ## Vietnamese translation
 
-Một tu viện ở Ceylon. Nơi này từng là chỗ ngụ của Tissa Mahā Nāga Thera (*xem từ này*).
+Một tu viện ở Tích Lan. Nơi này từng là chỗ ngụ của Trưởng lão Tissa Mahā Nāga (*xem từ này*).
 
 ## Notes

@@ -26,6 +26,6 @@ Moggallānasutta 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Moggallānasutta 03. Gotama Buddha đưa Mahā Moggallāna lên làm ví dụ về một tỳ-kheo, nhờ tu tập bốn *iddhipādas*, đã đạt được thần thông và uy nghi. SN.v.288.
+Moggallānasutta 03. Gotama Buddha nêu Mahā Moggallāna làm ví dụ về một tỳ-kheo, nhờ tu tập bốn *iddhipādas*, đã đạt được thần thông và uy nghi. SN.v.288.
 
 ## Notes

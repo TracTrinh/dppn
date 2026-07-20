@@ -25,6 +25,6 @@ Uttara 29. A banker of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Uttara 29. Một chủ ngân hàng ở Uttaragāma, cha của Uttarā (13). Bv­a.116.
+Uttara 29. Một trưởng giả ở Uttaragāma, cha của Uttarā (13). Bv­a.116.
 
 ## Notes

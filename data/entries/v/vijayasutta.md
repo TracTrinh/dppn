@@ -33,6 +33,6 @@ The *Sutta* is a discourse on the foul nature of the body, full of impurities fl
 
 Vijayasutta. Bài *Sutta* thứ mười một của Suttanipāta. Theo Buddhaghosa (Snp­a.i.241f), bài *Sutta* này được thuyết giảng trong hai dịp: một lần cho Janapadakaḷyānī Nandā, sau khi cô chứng đạt *Sotāpatti* (Dự lưu), nhằm giúp cô chứng đắc cao hơn – và một lần khác khi Đức Phật đưa các tỳ-kheo đến dự đám tang của Sirimā, em gái của Jīvaka. Bài *Sutta* này cũng được gọi là Kāyavicchandanikasutta.
 
-Bài *Sutta* là một bài giảng về bản chất hôi hám của thân thể, chứa đầy sự nhơ nhuốc chảy ra từ chín lỗ hổng; khi chết đi, chẳng ai còn quan tâm đến nó. Chỉ có một vị tỳ-kheo, sở hữu trí tuệ, mới hiểu được điều đó và quán chiếu về sự vô giá trị của nó. Snp. vs. 193-206; cf. Ja.i.146.
+Bài *Sutta* là một bài giảng về bản chất hôi hám của thân thể, chứa đầy sự nhơ nhuốc chảy ra từ chín lỗ hổng; khi chết đi, chẳng ai còn quan tâm đến nó. Chỉ có một vị tỳ-kheo, sở hữu trí tuệ, mới hiểu được điều đó và quán chiếu về sự vô giá trị của nó. Snp. vs. 193-206; xem thêm Ja.i.146.
 
 ## Notes

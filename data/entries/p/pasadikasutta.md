@@ -38,6 +38,6 @@ In the <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-t
 
 Pāsādikasutta. *Sutta* thứ hai mươi chín của Dīghanikāya. Cunda *Samaṇuddesa*, người đã trải qua mùa an cư tại Pāvā, trở về và báo cáo với Ānanda về cái chết của Nigaṇṭha Nātaputta và sự cãi vã theo sau đó đã bùng nổ giữa các Nigaṇṭhas. Họ cùng nhau đến yết kiến Đức Phật tại Sāmagāma và báo cáo về việc đó. Ngài trả lời rằng điều này có thể dự đoán được từ tính cách của Nātaputta và từ giáo lý mà ông ta giảng dạy. Sau đó, Đức Phật tiến hành giải thích chi tiết về các phẩm chất của một bậc đạo sư hoàn hảo và một giáo lý hoàn hảo. Tathāgata là một đạo sư như vậy và Pháp là một giáo lý như vậy (DN.iii.117-41).
 
-Trong Pāsādikasutta, ba học giới được gọi là *brahmacariyā*. DN­a.i.179; MN­a.i.275.
+Trong Pāsādikasutta, ba học được gọi là *brahmacariyā*. DN­a.i.179; MN­a.i.275.
 
 ## Notes

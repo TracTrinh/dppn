@@ -25,6 +25,6 @@ Muñjakesī. One of the two horses of King <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Muñjakesī. Một trong hai con ngựa của Vua Udena; nó có khả năng đi được một trăm dặm một ngày. Dhp­a.i.196.
+Muñjakesī. Một trong hai con ngựa của Vua Udena; nó có khả năng đi được một trăm do-tuần một ngày. Dhp­a.i.196.
 
 ## Notes

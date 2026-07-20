@@ -27,6 +27,6 @@ Uttarā 13. Daughter of the banker <span class="dppn-term dppn-term-t14" data-dp
 
 ## Vietnamese translation
 
-Uttarā 13. Con gái của chủ ngân hàng Uttara. Cô đã cúng dường một bữa ăn cơm sữa cho Maṅgala Buddha ngay trước khi ngài Giác ngộ (Awakening) (Bv­a.116).
+Uttarā 13. Con gái của trưởng giả Uttara. Cô đã cúng dường một bữa ăn cơm sữa cho Maṅgala Buddha ngay trước khi ngài Giác ngộ (Bv­a.116).
 
 ## Notes

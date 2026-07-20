@@ -27,6 +27,6 @@ Mahā Vacchagottasutta. The *Paribbājaka* <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Mahā Vacchagottasutta. Vị *Paribbājaka* Vacchagotta đến viếng thăm Đức Phật tại Veḷuvana và thỉnh cầu Ngài giảng giải về điều đúng và điều sai. Đức Phật làm như vậy, và nói thêm rằng những ai tuân theo giáo pháp của Ngài thì chắc chắn sẽ được giải thoát và được sinh ra trong các thế giới an vui và được định sẵn cho *Nibbāna*. Vacchagotta rất hài lòng và thỉnh cầu được gia nhập Tăng đoàn, nhưng Đức Phật nói rằng ông phải trải qua bốn tháng với tư cách là một người tập sự trước đã. Vào cuối thời gian đó, ông gia nhập Tăng đoàn và Đức Phật giảng giải thêm Dhamma cho ông. Một thời gian ngắn sau đó ông trở thành một *Arahant*. MN.i.489-97.
+Mahā Vacchagottasutta. Vị *Paribbājaka* Vacchagotta đến viếng thăm Đức Phật tại Veḷuvana và thỉnh cầu Ngài giảng giải về điều đúng và điều sai. Đức Phật làm như vậy, và nói thêm rằng những ai tuân theo giáo pháp của Ngài thì chắc chắn sẽ được giải thoát và được sinh ra trong các thế giới an vui và được định sẵn cho *Nibbāna*. Vacchagotta rất hài lòng và thỉnh cầu được gia nhập Tăng đoàn, nhưng Đức Phật nói rằng ông phải trải qua bốn tháng với tư cách là một người tập sự trước đã. Vào cuối thời gian đó, ông gia nhập Tăng đoàn và Đức Phật giảng giải thêm Pháp cho ông. Một thời gian ngắn sau đó ông trở thành một *Arahant*. MN.i.489-97.
 
 ## Notes

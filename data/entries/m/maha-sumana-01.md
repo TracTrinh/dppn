@@ -26,6 +26,6 @@ Mahā Sumana 01. The presiding deity of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Mahā Sumana 01. Vị chư thiên hộ trì của Sumanakūṭa. Ông là một *Sotāpanna*, và trong chuyến viếng thăm Ceylon đầu tiên của Đức Phật, ông đã nhận được từ Ngài một nắm tóc, thứ mà ông đã đặt trong một bảo tháp bằng sapphire. Bảo tháp này sau đó được biết đến là Mahiyaṅgaṇa Thūpa. Mhv.i.33ff.
+Mahā Sumana 01. Vị thiên nhân hộ trì của Sumanakūṭa. Ông là một *Sotāpanna*, và trong chuyến viếng thăm Tích Lan đầu tiên của Đức Phật, ông đã nhận được từ Ngài một nắm tóc, rồi đặt vào một bảo tháp bằng ngọc sapphire. Bảo tháp này sau đó được biết đến là Mahiyaṅgaṇa Thūpa. Mhv.i.33ff.
 
 ## Notes

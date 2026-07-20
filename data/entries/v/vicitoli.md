@@ -27,6 +27,6 @@ Vicitoli (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Vicitoli (Vicikoli). Vợ của Dhammadassī Buddha trong đời sống cư sĩ cuối cùng của Ngài. Con trai của họ là Puññavaḍḍhana (Bv.xvi.15). Vicitoli đã dâng cúng cơm sữa cho Đức Phật ngay trước sự Giác Ngộ (Awakening) của Ngài. Bv­a.182.
+Vicitoli (Vicikoli). Vợ của Dhammadassī Buddha trong đời sống cư sĩ cuối cùng của Ngài. Con trai của họ là Puññavaḍḍhana (Bv.xvi.15). Vicitoli đã dâng cúng cơm sữa cho Đức Phật ngay trước sự Giác ngộ của Ngài. Bv­a.182.
 
 ## Notes

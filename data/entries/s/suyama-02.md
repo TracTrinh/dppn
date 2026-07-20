@@ -28,6 +28,6 @@ Suyāma 02. A *Devaputta*, chief of the <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Suyāma 02. Một thiên tử (*Devaputta*), thủ lĩnh của chư thiên Yāma (AN.iv.242; DN.i.217). Nàng kỹ nữ, Sirimā, sau khi qua đời đã tái sinh làm vợ của Suyāma (Snp­a.i.244). Khi Đức Phật từ cõi trời (*Deva*) giáng trần, tại Saṅkassa, Suyāma đã đi cùng Ngài, cầm một chiếc quạt đuôi bò Tây Tạng (*vālavījana*). Dhp­a.iii.226; Vsm.392; cf. Bv­a.239; Ja.i.48, 53; Mhv.xxxi.78.
+Suyāma 02. Một thiên tử (*Devaputta*), thủ lĩnh của chư thiên Yāma (AN.iv.242; DN.i.217). Nàng kỹ nữ, Sirimā, sau khi qua đời đã tái sinh làm vợ của Suyāma (Snp­a.i.244). Khi Đức Phật từ cõi trời (*Deva*) giáng trần, tại Saṅkassa, Suyāma đã đi cùng Ngài, cầm một chiếc quạt đuôi bò Tây Tạng (*vālavījana*). Dhp­a.iii.226; Vsm.392; xem thêm Bv­a.239; Ja.i.48, 53; Mhv.xxxi.78.
 
 ## Notes

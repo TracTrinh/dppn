@@ -24,6 +24,6 @@ Kurundavelu. A *vihāra* in Ceylon, where was compiled the <span class="dppn-ter
 
 ## Vietnamese translation
 
-Một *vihāra* ở Ceylon, nơi Kurundī-aṭṭhakathā được biên soạn.
+Một *vihāra* ở Tích Lan, nơi Kurundī-aṭṭhakathā được biên soạn.
 
 ## Notes

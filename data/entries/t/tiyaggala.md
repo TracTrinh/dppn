@@ -28,8 +28,8 @@ The column of water is three *gāvutas* in width and, as a result of the impact,
 
 ## Vietnamese translation
 
-Tiyaggala. Một hồ nước ở Himavā (Ja.v.415; DN­a.i.164). Dòng sông chảy từ phía đông của Anotatta, sau khi đã đi dọc theo một lòng sông đầy đá trải dài sáu mươi do-tuần, đổ xuống xuyên không trung với khoảng cách sáu mươi do-tuần, lên tảng đá Tiyaggala.
+Tiyaggala. Một hồ nước ở Himavā (Ja.v.415; DN­a.i.164). Dòng sông chảy từ phía đông của Anotatta, sau khi đã đi dọc theo một lòng sông đá dài sáu mươi do-tuần, rơi qua không trung một quãng sáu mươi do-tuần xuống tảng đá Tiyaggala.
 
-Cột nước rộng ba *gāvutas* và, do kết quả của vụ va chạm, tảng đá bị khoét rỗng thành một cái hồ, Tiyaggala *pokkharaṇī*, rộng năm mươi do-tuần. Snp­a.ii.439; AN­a.ii.760; Ud­a.302, etc.
+Cột nước rộng ba *gāvutas* và, do lực va chạm, tảng đá bị khoét rỗng thành một hồ, Tiyaggala *pokkharaṇī*, rộng năm mươi do-tuần. Snp­a.ii.439; AN­a.ii.760; Ud­a.302, v.v.
 
 ## Notes

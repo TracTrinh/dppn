@@ -26,6 +26,6 @@ Manosattā. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-pos=
 
 ## Vietnamese translation
 
-Manosattā. Một tầng lớp chư thiên (Devas). Những chúng sinh chết đi khi đang tận tụy với một ý tưởng nào đó sẽ được tái sinh vào thế giới của họ – ví dụ, một Nigaṇṭha chỉ uống nước ấm và thà chết chứ không uống nước lạnh (MN.i.376; MN­a.ii.597).
+Manosattā. Một tầng lớp chư thiên. Những chúng sinh chết đi khi đang tận tụy với một ý tưởng nào đó sẽ được tái sinh vào thế giới của họ – ví dụ, một Nigaṇṭha chỉ uống nước ấm và thà chết chứ không uống nước lạnh (MN.i.376; MN­a.ii.597).
 
 ## Notes

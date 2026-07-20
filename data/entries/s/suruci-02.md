@@ -25,6 +25,6 @@ Suruci 02. A king of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1
 
 ## Vietnamese translation
 
-Suruci 02. Một vị vua của Mithilā. Xem Surucijātaka (Ja 489). Cf. Mhv.ii.4; Dpv.iii.7; Mvu.i.348.
+Suruci 02. Một vị vua của Mithilā. Xem Surucijātaka (Ja 489). Xem thêm Mhv.ii.4; Dpv.iii.7; Mvu.i.348.
 
 ## Notes

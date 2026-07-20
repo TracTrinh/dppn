@@ -27,6 +27,6 @@ Tolakavihāra. A monastery in <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Tolakavihāra. Một tu viện ở Rohaṇa gần nơi Vihāramahādevī đổ bộ sau khi bà bị thả trôi trên biển tại Kalyāṇi. Mhv­ṭ.431 (see n.7).
+Tolakavihāra. Một tu viện ở Rohaṇa gần nơi Vihāramahādevī đổ bộ sau khi bà bị thả trôi trên biển tại Kalyāṇi. Mhv­ṭ.431 (xem n.7).
 
 ## Notes

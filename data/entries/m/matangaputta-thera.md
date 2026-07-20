@@ -32,8 +32,8 @@ In the time of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="3" data
 
 ## Vietnamese translation
 
-Mātaṅgaputta Thera. Con trai của Mātaṅga, một địa chủ ở Kosala. Ông là một người lười biếng, và khi bị quở trách, ông đã gia nhập Tăng đoàn, hy vọng nhờ đó mà có được một cuộc sống an nhàn. Nhưng một ngày nọ, ông nghe Đức Phật thuyết pháp, chính thức thọ giới Tỳ-kheo, và không lâu sau đắc quả vị Arahant.
+Mātaṅgaputta Thera. Con trai của Mātaṅga, một địa chủ ở Kosala. Ông là một người lười biếng, và khi bị quở trách, ông đã gia nhập hàng tỳ-kheo, hy vọng nhờ đó mà có được một cuộc sống an nhàn. Nhưng một ngày nọ, ông nghe Đức Phật thuyết pháp, gia nhập Tăng đoàn, và không lâu sau đắc quả vị Arahant.
 
-Vào thời Đức Phật Padumuttara, ông là một vị vua Nāga (Long vương) hùng mạnh, và khi nhìn thấy Đức Phật đi lại trên không trung, ông đã tôn kính Ngài bằng cách dâng cúng viên ngọc ở cổ của mình (Thag.vss.231-3; Thag­a.i.348ff). Ông có lẽ đồng nhất với Maṇipūjaka Thera trong Apadāna. Ap.ii.413f.
+Vào thời Đức Phật Padumuttara, ông là một vị vua Nāga hùng mạnh, và khi nhìn thấy Đức Phật đi lại trên không trung, ông đã tôn kính Ngài bằng cách dâng cúng viên ngọc ở cổ của mình (Thag.vss.231-3; Thag­a.i.348ff). Ông có lẽ đồng nhất với Maṇipūjaka Thera trong Apadāna. Ap.ii.413f.
 
 ## Notes

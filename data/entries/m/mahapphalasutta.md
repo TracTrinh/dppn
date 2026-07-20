@@ -23,6 +23,6 @@ Mahapphalasutta. The four *iddhipādas*, if developed, bear great fruit. SN.v.26
 
 ## Vietnamese translation
 
-Mahapphalasutta. Bốn *iddhipāda* (bốn như ý túc), nếu được phát triển, sẽ mang lại kết quả to lớn. SN.v.267.
+Mahapphalasutta. Bốn *iddhipāda*, nếu được phát triển, sẽ mang lại kết quả to lớn. SN.v.267.
 
 ## Notes

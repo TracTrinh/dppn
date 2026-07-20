@@ -38,6 +38,6 @@ Vetullavāda. Một giáo lý ngoại đạo được Vohārikatissa du nhập v
 
 Vetullavāda nói chung được đồng nhất với trường phái Phật giáo Mahāyāna. Xem Mhv.Trs. 259, chú thích số 2; và cả Hocart, *Memoirs of the Archaeological Survey of Ceylon*, i.1922, p.15ff.
 
-*Vetullapiṭaka*, kinh điển của những người theo *Vetullavāda* (*Vetullavādins*), bị lên án là *abuddhavacana* (phi Phật ngôn), vd, SN­a.ii.150; cf. Vin-a.iv.742, nơi nó được gọi là *Vedaḷhapiṭaka*.
+*Vetullapiṭaka*, kinh điển của những người theo *Vetullavāda* (*Vetullavādins*), bị lên án là *abuddhavacana* (phi Phật ngôn), vd, SN­a.ii.150; xem thêm Vin-a.iv.742, nơi nó được gọi là *Vedaḷhapiṭaka*.
 
 ## Notes

@@ -30,6 +30,6 @@ Migasālāsutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Migasālāsutta. Ānanda đến thăm Migasālā tại nhà của cô và được hỏi tại sao cả Pūraṇa và Isidatta, người trước là một *brahmacārī* và người sau thì không, lại đều được sinh ra ở Tusita, như những *Sakadāgāmīs*. Ānanda không đưa ra lời giải thích nào, nhưng thỉnh giáo Đức Phật, người đã tuyên bố rằng Migasālā chỉ là một người đàn bà ngốc nghếch, yếu đuối, chỉ có trí tuệ của một người mẹ; vậy thì, làm sao cô có thể hiểu được sự đa dạng trong con người (*purisapuggalaparopariyañāṇa*)? Đức Phật sau đó tiếp tục chia con người thành sáu hạng theo năng lực và thành tựu của họ. Không ai có thể đo lường con người, ngoại trừ một Tathāgata. AN.iii.347ff.; v. 137ff.
+Migasālāsutta. Ānanda đến thăm Migasālā tại nhà của cô và được hỏi tại sao cả Pūraṇa và Isidatta, người trước là một *brahmacārī* và người sau thì không, lại đều được sinh ra ở Tusita, như những *Sakadāgāmīs*. Ānanda không đưa ra lời giải thích nào, nhưng thỉnh giáo Đức Phật, người đã tuyên bố rằng Migasālā chỉ là một người đàn bà ngốc nghếch, yếu đuối, chỉ có trí khôn đời thường; vậy thì, làm sao cô có thể hiểu được sự đa dạng trong con người (*purisapuggalaparopariyañāṇa*)? Đức Phật sau đó tiếp tục chia con người thành sáu hạng theo năng lực và thành tựu của họ. Không ai có thể đo lường con người, ngoại trừ một Tathāgata. AN.iii.347ff.; v. 137ff.
 
 ## Notes

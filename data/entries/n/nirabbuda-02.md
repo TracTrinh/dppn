@@ -24,6 +24,6 @@ Nirabbuda 02. Twenty-five thousand *kappas* ago there were eight kings of this n
 
 ## Vietnamese translation
 
-Nirabbuda 02. Hai mươi lăm ngàn *kappas* trước, có tám vị vua mang tên này, tất cả đều là tiền thân của Nigguṇḍipupphiya. Ap.i.263.
+Nirabbuda 02. Hai mươi lăm ngàn *kappa* trước, có tám vị vua mang tên này, tất cả đều là tiền thân của Nigguṇḍipupphiya. Ap.i.263.
 
 ## Notes

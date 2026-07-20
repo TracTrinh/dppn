@@ -26,6 +26,6 @@ Paṭhavivindhara 01. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Paṭhavivindhara 01. Một vị vua *Nāga*, một tiền kiếp của Rāhula 01. AN­a.i.142, etc.; nhưng xem Rāhula.
+Paṭhavivindhara 01. Một vị vua *Nāga*, một tiền kiếp của Rāhula 01. AN­a.i.142, v.v.; nhưng xem Rāhula.
 
 ## Notes

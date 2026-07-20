@@ -45,10 +45,10 @@ Two Theras are mentioned in the <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Con trai thứ hai của Mahā Cūḷi và vua của Ceylon (16-38 CE.). Ngài đã xuất gia vào Tăng đoàn vì sợ hãi Anulā khét tiếng, nhưng sau đó ngài đã thống lĩnh một đạo quân chống lại bà và sát hại bà. Ngài đã thành lập Peḷagāmavihāra, xây dựng kênh đào Vaṇṇaka, và bố trí công viên Padumassara. Ngài đã thành lập cho mẹ mình một ni viện gọi là Dantageha. Ngài cũng đã xây dựng một bức tường cao bảy cubit bao quanh Anurādhapura. Bhātikābhaya là con trai và người kế vị ngài (Mhv.xxxiv.28ff). Dīpavaṁsa dường như gọi ngài là *Kuṭikaṇṇa-abhaya*, và nói về ngài như một người hộ trì rất tận tâm cho các nữ tu (Dpv.xviii.37; nhưng xem xx.31, trong đó ngài được gọi là Tissa và con trai ngài là Nāga).
+Con trai thứ hai của Mahā Cūḷi và vua của Tích Lan (16-38 CN.). Ngài đã xuất gia vào Tăng đoàn vì sợ hãi Anulā khét tiếng, nhưng sau đó ngài đã thống lĩnh một đạo quân chống lại bà và sát hại bà. Ngài đã thành lập Peḷagāmavihāra, xây dựng kênh đào Vaṇṇaka, và bố trí công viên Padumassara. Ngài đã thành lập cho mẹ mình một ni viện gọi là Dantageha. Ngài cũng đã xây dựng một bức tường cao bảy cubit bao quanh Anurādhapura. Bhātikābhaya là con trai và người kế vị ngài (Mhv.xxxiv.28ff). Dīpavaṁsa dường như gọi ngài là *Kuṭikaṇṇa-abhaya*, và nói về ngài như một người hộ trì rất tận tâm cho các tỳ-kheo-ni (Dpv.xviii.37; nhưng xem xx.31, trong đó ngài được gọi là Tissa và con trai ngài là Nāga).
 
 Kuṭakaṇṇa có một con ngựa thuộc giống *Ājānīya* tên là Guḷavaṇṇa (SN­a.i.27; MN­a.ii.654).
 
-Hai vị Thera được đề cập trong Chú giải Vibhaṅga (Vibh­a.452) là đã được nhà vua dành cho sự kính trọng đặc biệt – Cūḷa Sudhamma Thera của Girigāmakaṇṇa và Tipiṭaka Cūḷa Nāga Thera.
+Hai vị Trưởng lão được đề cập trong Chú giải Vibhaṅga (Vibh­a.452) là đã được nhà vua dành cho sự kính trọng đặc biệt – Trưởng lão Cūḷa Sudhamma của Girigāmakaṇṇa và Trưởng lão Tipiṭaka Cūḷa Nāga.
 
 ## Notes

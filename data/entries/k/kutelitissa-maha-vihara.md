@@ -28,7 +28,7 @@ It may perhaps be the same as the <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Một tu viện ở Ceylon. Nó từng là nơi cư ngụ của một *Sāmaṇera* có năng lực *iddhi* vĩ đại, người sau đó đã đánh mất tất cả những năng lực này do kết quả của việc phải lòng con gái của một người thợ dệt ở Kabupelanda (Vibh­a.293; nhưng xem MN­a.ii.700).
+Một tu viện ở Tích Lan. Nó từng là nơi cư ngụ của một *Sāmaṇera* có năng lực *iddhi* vĩ đại, người sau đó đã đánh mất tất cả những năng lực này vì phải lòng con gái của một người thợ dệt ở Kabupelanda (Vibh­a.293; nhưng xem MN­a.ii.700).
 
 Nó có lẽ đồng nhất với Kūṭālivihāra (*xem từ này*).
 

@@ -24,6 +24,6 @@ Patāpana. A *Niraya* (Ja.v.266, 453), so-called because its heat was excessive 
 
 ## Vietnamese translation
 
-Patāpana. Một *Niraya* (Ja.v.266, 453), được gọi như vậy vì nhiệt độ của nó là quá mức (*ativiya tāpetī ti Patāpano*). Ja.v.271.
+Patāpana. Một địa ngục (*Niraya*) (Ja.v.266, 453), được gọi như vậy vì nhiệt độ của nó là quá mức (*ativiya tāpetī ti Patāpano*). Ja.v.271.
 
 ## Notes

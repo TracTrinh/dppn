@@ -26,6 +26,6 @@ Mahiṁsāsa. The Bodhisatta, born as the son of the king of <span class="dppn-t
 
 ## Vietnamese translation
 
-Mahiṁsāsa. Vị Bồ-tát, được sinh ra như là con trai của nhà vua xứ Benares. Về các chi tiết xin xem Devadhammajātaka Ja 6, Ja.i.127ff.; Dhp­a.iii.73.
+Mahiṁsāsa. Bodhisatta, được sinh ra như là con trai của nhà vua xứ Benares. Về các chi tiết xin xem Devadhammajātaka Ja 6, Ja.i.127ff.; Dhp­a.iii.73.
 
 ## Notes

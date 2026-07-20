@@ -24,6 +24,6 @@ Tuṇḍila 02. A parrot, who had a tiger as friend. For their story see Ras.i.3
 
 ## Vietnamese translation
 
-Tuṇḍila 02. Một con vẹt có một người bạn là con hổ. Để xem câu chuyện của chúng, hãy xem Ras.i.36.
+Tuṇḍila 02. Một con vẹt có một người bạn là con hổ. Về câu chuyện của chúng, xem Ras.i.36.
 
 ## Notes

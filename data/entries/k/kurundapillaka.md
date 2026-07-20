@@ -24,6 +24,6 @@ Kurundapillaka. A monastery in Ceylon. <span class="dppn-term dppn-term-t14" dat
 
 ## Vietnamese translation
 
-Một tu viện ở Ceylon. Potthakuṭṭha đã dựng một *pāsāda* ở đó (Cv.xlvi.21).
+Một tu viện ở Tích Lan. Potthakuṭṭha đã dựng một *pāsāda* ở đó (Cv.xlvi.21).
 
 ## Notes

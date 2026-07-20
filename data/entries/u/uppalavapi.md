@@ -27,6 +27,6 @@ Uppalavāpī. A village in Ceylon where king <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Uppalavāpī. Một ngôi làng ở Tích Lan (Ceylon) nơi vua Kuṭakaṇṇa đã dành một thời gian sống tại đó. Ở đó, ông đã thỉnh mời Trưởng lão (Thera) Cūḷa Sudhamma và sắp xếp cho vị này sống tại Mālārāmavihāra. Vibh­a.452.
+Uppalavāpī. Một ngôi làng ở Tích Lan nơi vua Kuṭakaṇṇa đã dành một thời gian sống tại đó. Ở đó, ông đã thỉnh mời Trưởng lão (Thera) Cūḷa Sudhamma và sắp xếp cho vị này sống tại Mālārāmavihāra. Vibh­a.452.
 
 ## Notes

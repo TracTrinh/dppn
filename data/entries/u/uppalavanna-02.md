@@ -26,6 +26,6 @@ Uppalavaṇṇā 02. One of the two daughters of <span class="dppn-term dppn-ter
 
 ## Vietnamese translation
 
-Uppalavaṇṇā 02. Một trong hai người con gái của vua Kassapa I xứ Tích Lan (Ceylon), người còn lại là Bodhī. Nhà vua đã xây dựng một vihāra và gọi nó bằng chính tên của ông cùng với tên của các con gái ông. Cv.xxxix.11; xem thêm Cv.Trs.i.43, n.7.
+Uppalavaṇṇā 02. Một trong hai người con gái của vua Kassapa I xứ Tích Lan, người còn lại là Bodhī. Nhà vua đã xây dựng một vihāra và gọi nó bằng chính tên của ông cùng với tên của các con gái ông. Cv.xxxix.11; xem thêm Cv.Trs.i.43, n.7.
 
 ## Notes

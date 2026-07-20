@@ -28,6 +28,6 @@ Mahā Vajirabuddhi. A monk of Ceylon, author of <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Mahā Vajirabuddhi. Một vị tỳ-kheo của Ceylon, tác giả của Vinayagaṇṭhi (Vinayagandhi) hoặc Vajirabuddhiṭīkā về các Bản chú giải Vinaya (GV. 60, 66). Ngài là người cùng thời với Vua Dhammaceti của Miến Điện, và đã dâng cúng cho ông một bản sao tác phẩm của mình. Bode, 39f.
+Mahā Vajirabuddhi. Một vị tỳ-kheo của Tích Lan, tác giả của Vinayagaṇṭhi (Vinayagandhi) hoặc Vajirabuddhiṭīkā về các Bản chú giải Vinaya (GV. 60, 66). Ngài là người cùng thời với Vua Dhammaceti của Miến Điện, và đã dâng cúng cho ông một bản sao tác phẩm của mình. Bode, 39f.
 
 ## Notes

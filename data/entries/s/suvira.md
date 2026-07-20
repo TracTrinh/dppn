@@ -27,6 +27,6 @@ Suvīra. A *Deva*. Once, when the <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Suvīra. Một vị thiên (*Deva*). Có lần, khi các Asura tiến đánh chư thiên (*Deva*), Sakka đã cho gọi Suvīra và yêu cầu ngài chiến đấu với các Asura. Suvīra đồng ý làm điều này, nhưng lại rất lười biếng về việc đó. Điều này xảy ra ba lần. Sakka đã quở trách ngài sau lần thứ ba về những tác hại của sự lười biếng. Đức Phật đã kể câu chuyện này cho các tỳ-kheo để cho họ thấy giá trị của sự nỗ lực và tinh tấn. SN.i.216f.
+Suvīra. Một thiên nhân (*Deva*). Có lần, khi các Asura tiến đánh chư thiên, Sakka đã cho gọi Suvīra và yêu cầu ngài chiến đấu với các Asura. Suvīra đồng ý làm điều này, nhưng lại rất lười biếng về việc đó. Điều này xảy ra ba lần. Sakka đã quở trách ngài sau lần thứ ba về những tác hại của sự lười biếng. Đức Phật đã kể câu chuyện này cho các tỳ-kheo để cho họ thấy giá trị của sự nỗ lực và tinh tấn. SN.i.216f.
 
 ## Notes

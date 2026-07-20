@@ -26,6 +26,6 @@ Senā 02. Daughter of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Senā 02. Con gái của Kassapa, *yuvarāja* của Udaya II. Bà kết hôn với con trai của anh trai nhà vua. Cv.li.93.
+Senā 02. Con gái của Kassapa, *yuvarāja* của Udaya II. Bà kết hôn với con trai của anh/em trai nhà vua. Cv.li.93.
 
 ## Notes

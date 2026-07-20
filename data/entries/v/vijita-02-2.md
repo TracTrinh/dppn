@@ -26,6 +26,6 @@ Vijitā 02. One of the palaces of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Vijitā 02. Một trong những cung điện của Nārada Buddha, trước thời điểm Từ Bỏ (Renunciation) của Ngài. Bv.x.19. Bv­a. (1531) gọi nó là Vijita.
+Vijitā 02. Một trong những cung điện của Nārada Buddha, trước thời điểm Xuất gia của Ngài. Bv.x.19. Bv­a. (1531) gọi nó là Vijita.
 
 ## Notes

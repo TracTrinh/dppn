@@ -28,6 +28,6 @@ Vidhura 03. The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Vidhura 03. Milindapañha (p.202) đề cập đến một kiếp sống của Bồ-tát mà trong đó ngài là một người thông thái (*paṇḍita*) tên là Vidhura. Vào thời điểm đó Devadatta, mặc dù là một con chó sói rừng, đã đưa các vị vua của toàn cõi Jambudīpa vào dưới sự cai trị của mình. Sự đề cập này hiển nhiên là nói đến Sabbadāṭhajātaka (Ja 241), nhưng ở đó tên của Bồ-tát không được đưa ra.
+Vidhura 03. Milindapañha (p.202) đề cập đến một kiếp sống của Bodhisatta mà trong đó ngài là một người thông thái (*paṇḍita*) tên là Vidhura. Vào thời điểm đó Devadatta, mặc dù là một con chó sói rừng, đã đưa các vị vua của toàn cõi Jambudīpa vào dưới sự cai trị của mình. Sự đề cập này hiển nhiên là nói đến Sabbadāṭhajātaka (Ja 241), nhưng ở đó tên của Bodhisatta không được đưa ra.
 
 ## Notes

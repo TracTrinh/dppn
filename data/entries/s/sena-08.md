@@ -29,6 +29,6 @@ Sena 08. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-
 
 ## Vietnamese translation
 
-Sena 08. Sena V. Con trai của Mahinda IV. và là vua Tích Lan (Sena V. 972-81 CE.). Mẹ ông là một công chúa Kāliṅga. Ông lên ngôi lúc mười hai tuổi. *Senāpati* của ông cũng tên là Sena (xem Sena 7), và trong một thời gian nhà vua phải sống ở Rohaṇa vì sợ Sena. Nhưng sau đó ông giảng hòa, cưới con gái của Sena và có một con trai, Kassapa. Nhà vua uống rượu nhiều, và qua đời vì bệnh tiêu hóa vào năm thứ mười của triều đại mình. Cv.liv.57-72.
+Sena 08. Sena V. Con trai của Mahinda IV. và là vua Tích Lan (Sena V. 972-81 CN.). Mẹ ông là một công chúa Kāliṅga. Ông lên ngôi lúc mười hai tuổi. Tướng quân của ông cũng tên là Sena (xem Sena 7), và trong một thời gian nhà vua phải sống ở Rohaṇa vì sợ Sena. Nhưng sau đó ông giảng hòa, cưới con gái của Sena và có một con trai, Kassapa. Nhà vua uống rượu nhiều, và qua đời vì bệnh tiêu hóa vào năm thứ mười của triều đại mình. Cv.liv.57-72.
 
 ## Notes

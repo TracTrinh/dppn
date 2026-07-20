@@ -26,6 +26,6 @@ Pūtigatta Tissa. A young man of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Pūtigatta Tissa. Một thanh niên ở Sāvatthī, xuất thân từ một gia đình tốt. Sau khi gia nhập Tăng đoàn, một chứng phát ban đã nổi lên trên người ông và bao phủ toàn bộ cơ thể ông bằng những vết lở loét. Các bạn đồng tu, không thể chăm sóc được cho ông, đã bỏ rơi ông. Khi Đức Phật phát hiện ra điều này, ngài đã đun sôi một ít nước và tự tay tắm rửa cho Tissa, cũng như giặt và phơi khô y phục của ông. Khi Tissa cảm thấy thoải mái hơn, Đức Phật đã thuyết pháp cho ông, và Tissa đắc quả vị *Arahant*. Trong một tiền kiếp, ông từng là một người bắt chim trĩ và đã giết nhiều chim, đôi khi ông bẻ gãy xương của chúng trước để ngăn chúng bay đi. Một ngày nọ, ông đã cúng dường thức ăn cho một vị *Arahant*. Dhp­a.i.319 ff.
+Pūtigatta Tissa. Một thanh niên ở Sāvatthī, xuất thân từ một gia đình tốt. Sau khi gia nhập Tăng đoàn, một chứng phát ban đã nổi lên trên người ông và bao phủ toàn bộ cơ thể ông bằng những vết lở loét. Các bạn đồng tu, không thể chăm sóc được cho ông, đã bỏ rơi ông. Khi Đức Phật phát hiện ra điều này, ngài đã đun sôi một ít nước và tự tay tắm rửa cho Tissa, cũng như giặt và phơi khô y phục của ông. Khi Tissa cảm thấy thoải mái hơn, Đức Phật đã thuyết pháp cho ông, và Tissa đắc quả vị *Arahant*. Trong một tiền kiếp, ông từng là một người bẫy chim và đã giết nhiều chim, đôi khi ông bẻ gãy xương của chúng trước để ngăn chúng bay đi. Một ngày nọ, ông đã cúng dường thức ăn cho một vị *Arahant*. Dhp­a.i.319 ff.
 
 ## Notes

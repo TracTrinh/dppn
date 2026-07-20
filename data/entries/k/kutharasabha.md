@@ -26,6 +26,6 @@ Kuṭhārasabhā. Some sort of council chamber, probably attached to the Court i
 
 ## Vietnamese translation
 
-Một loại phòng hội đồng nào đó, có lẽ gắn liền với Triều đình ở Ceylon. Kittisirimegha được đề cập là đã sử dụng các dịch vụ của người đứng đầu *sabhā* để đi tìm hoàng tử Parakkamabāhu từ nơi ẩn dật của ngài (Cv.lxvi.61).
+Một loại phòng hội đồng nào đó, có lẽ gắn liền với triều đình ở Tích Lan. Kittisirimegha được đề cập là đã sử dụng các dịch vụ của người đứng đầu *sabhā* để đi tìm hoàng tử Parakkamabāhu từ nơi ẩn dật của ngài (Cv.lxvi.61).
 
 ## Notes

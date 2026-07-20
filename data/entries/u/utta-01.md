@@ -29,7 +29,7 @@ For the story see <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" d
 
 ## Vietnamese translation
 
-Utta 01. Một vị Trưởng lão (Thera). Ông và người bạn của mình là Dhanuggahatissa sống trong một túp lều gần vihāra Jetavana. Một đêm nọ, các sứ giả của Pasenadi, đang tìm kiếm lời khuyên về cách thức làm thế nào để giành chiến thắng trong cuộc chiến chống lại Ajātasattu, đã tình cờ nghe được cuộc trò chuyện giữa hai vị Trưởng lão (Elder) này, và hành động theo lời gợi ý có trong đó, Pasenadi đã giành chiến thắng (Ja.ii.403-4).
+Utta 01. Một vị Trưởng lão (Thera). Ông và người bạn của mình là Dhanuggahatissa sống trong một túp lều gần vihāra Jetavana. Một đêm nọ, các sứ giả của Pasenadi, đang tìm kiếm lời khuyên về cách thức làm thế nào để giành chiến thắng trong cuộc chiến chống lại Ajātasattu, đã tình cờ nghe được cuộc trò chuyện giữa hai vị Trưởng lão này, và hành động theo lời gợi ý có trong đó, Pasenadi đã giành chiến thắng (Ja.ii.403-4).
 
 Để biết câu chuyện, xem Dhanuggahatissa.
 

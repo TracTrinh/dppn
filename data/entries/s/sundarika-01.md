@@ -26,6 +26,6 @@ Sundarikā 01. A river in <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Sundarikā 01. Một con sông ở Kosala, được cho là có hiệu nghiệm trong việc gột rửa tội lỗi (MN.i.39). Tại đó Sundarika Bhāradvāja đã tổ chức các buổi tế lễ để tôn vinh thần Agni và gặp Đức Phật trong một buổi tế lễ như vậy. SN.i.167; Snp.p.79, v.v.
+Sundarikā 01. Một con sông ở Kosala, được cho là có hiệu nghiệm trong việc gột rửa tội lỗi (MN.i.39). Tại đó Sundarika Bhāradvāja đã tổ chức các buổi tế lễ để tôn vinh Agni và gặp Đức Phật trong một buổi tế lễ như vậy. SN.i.167; Snp.p.79, v.v.
 
 ## Notes

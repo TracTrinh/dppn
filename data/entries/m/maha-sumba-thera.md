@@ -25,6 +25,6 @@ Mahā Sumba Thera. A disciple of <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Mahā Sumba Thera. Một đệ tử của Đức Phật Koṇāgamana; ngài đã đến Ceylon theo yêu cầu của Đức Phật. Ngài, cùng với một ngàn vị khác, đã được để lại để chăm sóc những người mới cải đạo. Mhv.xv.123.
+Mahā Sumba Thera. Một đệ tử của Đức Phật Koṇāgamana; ngài đã đến Tích Lan theo yêu cầu của Đức Phật. Ngài, cùng với một ngàn vị khác, đã ở lại để chăm sóc những người mới quy y. Mhv.xv.123.
 
 ## Notes

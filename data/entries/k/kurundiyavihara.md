@@ -26,6 +26,6 @@ Kurundiyavihāra. A monastery repaired by <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Một tu viện được Vijayabāhu I. sửa chữa (Cv.lx.60); có lẽ đồng nhất với Kurundavihāra.
+Một tu viện được Vijayabāhu I sửa chữa (Cv.lx.60); có lẽ đồng nhất với Kurundavihāra.
 
 ## Notes

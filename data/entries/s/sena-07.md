@@ -32,6 +32,6 @@ Sena 07. *Senāpati* of <span class="dppn-term dppn-term-t14" data-dppn-term-pos
 
 ## Vietnamese translation
 
-Sena 07. *Senāpati* của Mahinda IV. và của Sena V. Ông được phái đến Nāgadīpa, nơi ông khuất phục vua Vallabha. Một lần, khi ông vắng mặt, Sena V. đã giết em trai của vị *senāpati* này, Mahā Malla, vì một lỗi lầm với hoàng thái hậu, và bổ nhiệm một quan triều đình tên Udaya làm *senāpati*. Khi *Senāpati* Sena nghe tin này, ông đem quân tiến đánh nhà vua, khiến nhà vua phải chạy trốn đến Rohaṇa. Hoàng thái hậu theo về với Sena, và ông sống ở Pulatthipura. Về sau, vị vua này cách chức *Senāpati* Udaya và giảng hòa với Sena, rồi cưới con gái của ông ta. Cv.liv.13f.; lviii.70.
+Sena 07. Tướng quân của Mahinda IV. và của Sena V. Ông được phái đến Nāgadīpa, nơi ông khuất phục vua Vallabha. Một lần, khi ông vắng mặt, Sena V. đã giết em trai của vị tướng quân này, Mahā Malla, vì một lỗi lầm với hoàng thái hậu, và bổ nhiệm một quan triều đình tên Udaya làm tướng quân. Khi tướng quân Sena nghe tin này, ông đem quân tiến đánh nhà vua, khiến nhà vua phải chạy trốn đến Rohaṇa. Hoàng thái hậu theo về với Sena, và ông sống ở Pulatthipura. Về sau, vị vua này cách chức tướng quân Udaya và giảng hòa với Sena, rồi cưới con gái của ông ta. Cv.liv.13f.; lviii.70.
 
 ## Notes

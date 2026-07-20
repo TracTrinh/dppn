@@ -25,6 +25,6 @@ Niliya. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn
 
 ## Vietnamese translation
 
-Niliya. Một Bà-la-môn người Damiḷa, *Purohita* (quốc sư) trong cung điện. Ông trở thành tình nhân của Anulā và chiếm ngai vàng trong sáu tháng, cho đến khi bị bà ta hạ độc. Mhv.xxxiv.24ff.; Dpv.xx.29.
+Niliya. Một Bà-la-môn người Damiḷa, *Purohita* trong cung điện. Ông trở thành tình nhân của Anulā và chiếm ngai vàng trong sáu tháng, cho đến khi bị bà ta hạ độc. Mhv.xxxiv.24ff.; Dpv.xx.29.
 
 ## Notes

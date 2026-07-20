@@ -34,10 +34,10 @@ The story is given in the *Jātakamālā* (No. 5), where the *seṭṭhi* is cal
 
 ## Vietnamese translation
 
-Visayhajātaka (Ja 340). Vị Bodhisatta có lần sinh làm Visayha, *seṭṭhi* của Benares, và đã bố thí hàng ngày cho sáu trăm ngàn người ở sáu khu vực khác nhau của thành phố. Ngai vàng của Sakka đã nóng lên bởi sự hào phóng to lớn của ông, và cảm thấy lo lắng cho sự an toàn của mình, Sakka đã bày mưu khiến tất cả tài sản của Visayha biến mất. Hoàn toàn không nản lòng, Visayha đã trở thành một người cắt cỏ, và trong sáu ngày đã bố thí bằng số tiền kiếm được theo cách đó, ông và vợ phải nhịn đói. Vào ngày thứ bảy, trong khi đang cắt cỏ, ông đã ngất xỉn, và Sakka, xuất hiện trước mặt ông, đề nghị rằng ông nên chừng mực trong sự hào phóng của mình. Visayha từ chối lời đề nghị là không xứng đáng và tuyên bố rằng mục tiêu của ông là quả vị Phật. Sau đó Sakka đã ca ngợi ông và làm cho ông trở nên thịnh vượng.
+Visayhajātaka (Ja 340). Vị Bodhisatta có lần sinh làm Visayha, trưởng giả của Benares, và đã bố thí hàng ngày cho sáu trăm ngàn người ở sáu khu vực khác nhau của thành phố. Ngai vàng của Sakka đã nóng lên bởi sự hào phóng to lớn của ông, và cảm thấy lo lắng cho sự an toàn của mình, Sakka đã bày mưu khiến tất cả tài sản của Visayha biến mất. Hoàn toàn không nản lòng, Visayha đã trở thành một người cắt cỏ, và trong sáu ngày đã bố thí bằng số tiền kiếm được theo cách đó, ông và vợ phải nhịn đói. Vào ngày thứ bảy, trong khi đang cắt cỏ, ông đã ngất xỉu, và Sakka, xuất hiện trước mặt ông, đề nghị rằng ông nên chừng mực trong sự hào phóng của mình. Visayha từ chối lời đề nghị là không xứng đáng và tuyên bố rằng mục tiêu của ông là quả vị Phật. Sau đó Sakka đã ca ngợi ông và làm cho ông trở nên thịnh vượng.
 
 Câu chuyện được kể lại cho Anāthapiṇḍika, như được nhắc đến trong Khadiraṅgārajātaka (Ja 40). Vợ của Visayha được nhận diện là Rāhulamātā. Ja.iii.128-32; xem thêm Ja.i.45.
 
-Câu chuyện được đưa ra trong *Jātakamālā* (Số 5), trong đó *seṭṭhi* được gọi là Avisayha.
+Câu chuyện được đưa ra trong *Jātakamālā* (Số 5), trong đó vị trưởng giả được gọi là Avisayha.
 
 ## Notes

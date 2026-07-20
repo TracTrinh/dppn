@@ -24,6 +24,6 @@ Muttākara. A locality on the sea coast of Ceylon. Cv.lxx.63; see. Cv.Trs.i.292,
 
 ## Vietnamese translation
 
-Muttākara. Một địa phương trên bờ biển của Tích Lan. Cv.lxx.63; xem. Cv.Trs.i.292, n.3.
+Muttākara. Một địa phương trên bờ biển của Tích Lan. Cv.lxx.63; xem Cv.Trs.i.292, n.3.
 
 ## Notes

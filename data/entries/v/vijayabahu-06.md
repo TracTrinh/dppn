@@ -27,6 +27,6 @@ Vijayabāhu 06. King of Ceylon (<span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Vijayabāhu 06. Vua của Tích Lan (Vijayabāhu VI.). Ông là một trong những người kế vị của Parakkamabāhu VI. Người tiền nhiệm trực tiếp của ông là Vīraparakkamabāhu. Cv.xcii.4; triều đại của ông vào khoảng từ năm 1405 đến 1411 CE.
+Vijayabāhu 06. Vua của Tích Lan (Vijayabāhu VI.). Ông là một trong những người kế vị của Parakkamabāhu VI. Người tiền nhiệm trực tiếp của ông là Vīraparakkamabāhu. Cv.xcii.4; triều đại của ông vào khoảng từ năm 1405 đến 1411 CN.
 
 ## Notes

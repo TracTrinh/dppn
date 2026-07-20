@@ -25,6 +25,6 @@ Kurundavihāra. A monastery built by <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Một tu viện do Aggabodhi I. xây dựng và dâng cúng cho cả ba giáo phái (Cv.xlii.15).
+Một tu viện do Aggabodhi I xây dựng và dâng cúng cho cả ba giáo phái (Cv.xlii.15).
 
 ## Notes

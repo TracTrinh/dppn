@@ -26,6 +26,6 @@ Kusumamūlagāma. A village near <span class="dppn-term dppn-term-t14" data-dppn
 
 ## Vietnamese translation
 
-Một ngôi làng gần Padumanagara, là nơi cư ngụ của Thera Dhammadhara. (Sās.163)
+Một ngôi làng gần Padumanagara, là nơi cư ngụ của Trưởng lão Dhammadhara. (Sās.163)
 
 ## Notes

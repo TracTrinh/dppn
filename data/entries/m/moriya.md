@@ -25,6 +25,6 @@ Moriya. A very pious Brahmin of <span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Moriya. Một Bà-la-môn rất ngoan đạo ở Macala. Ông và vợ là Senā đã bố thí cho đến khi cạn kiệt tài sản, nhưng một vị chư thiên đã ban lại cho ông sự giàu có. Ras.i.86f.
+Moriya. Một Bà-la-môn rất ngoan đạo ở Macala. Ông và vợ là Senā đã bố thí cho đến khi cạn kiệt tài sản, nhưng một vị thiên nhân đã ban lại cho ông sự giàu có. Ras.i.86f.
 
 ## Notes

@@ -26,6 +26,6 @@ Urubuddharakkhita. An Elder who was present at the foundation ceremony of the <s
 
 ## Vietnamese translation
 
-Urubuddharakkhita. Một vị Trưởng lão (Elder) đã có mặt tại buổi lễ đặt nền móng của Mahā Thūpa. Vị này đến từ Mahā Vana ở Vesālī, cùng với mười tám ngàn tỳ-kheo. Mhv.xxix.33.
+Urubuddharakkhita. Một vị Trưởng lão đã có mặt tại buổi lễ đặt nền móng của Mahā Thūpa. Vị này đến từ Mahā Vana ở Vesālī, cùng với mười tám ngàn tỳ-kheo. Mhv.xxix.33.
 
 ## Notes

@@ -56,6 +56,6 @@ Người ta kể rằng Sakka đã cử Vissakamma làm thợ xây để giúp x
 
 Câu chuyện này được kể lại vào dịp Gotama Buddha ban cho Visākhā tám ân huệ. Một đêm nọ có một cơn bão lớn, và Đức Phật yêu cầu các tỳ-kheo để mình ướt sũng trong mưa vì đó sẽ là cơn bão lớn cuối cùng trong thời của Ngài. Cùng với họ, Đức Phật xuất hiện tại nhà của Visākhā, nhưng ngay khi họ vừa đến ngưỡng cửa, họ đã hoàn toàn khô ráo.
 
-Bhaddaji được đồng nhất với Mahā Panāda, Visākhā với Sumedhā, Ānanda với Vissakamma, và Bodhisatta là Sakka. Ja.iv.314-25; cf. DN­a.iii.856f.; and Ja.ii.334.
+Bhaddaji được đồng nhất với Mahā Panāda, Visākhā với Sumedhā, Ānanda với Vissakamma, và Bodhisatta là Sakka. Ja.iv.314-25; xem thêm DN­a.iii.856f.; và Ja.ii.334.
 
 ## Notes

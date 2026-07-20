@@ -28,6 +28,6 @@ Mahā Vaṁsakatissa Thera. Of Ceylon. Mentioned among the last of the *Arahants
 
 ## Vietnamese translation
 
-Mahā Vaṁsakatissa Thera. Của Ceylon. Được đề cập đến trong số những vị *Arahant* cuối cùng. Ngài ở trong số những người đã tham gia vào các “hội chúng” Kuddālaka, Mūgapakkha, Ayoghara và Hatthipāla. Ja.vi.30.
+Mahā Vaṁsakatissa Thera. Của Tích Lan. Được đề cập đến trong số những vị *Arahant* cuối cùng. Ngài ở trong số những người đã tham gia vào các “hội chúng” Kuddālaka, Mūgapakkha, Ayoghara và Hatthipāla. Ja.vi.30.
 
 ## Notes

@@ -24,6 +24,6 @@ Viraja 01. One of the three palaces occupied by <span class="dppn-term dppn-term
 
 ## Vietnamese translation
 
-Viraja 01. Một trong ba cung điện được ở bởi Dhammadassī Buddha trước khi ngài Xuất gia. Bv.xvi.14.
+Viraja 01. Một trong ba cung điện mà Dhammadassī Buddha đã cư trú trước khi ngài Xuất gia. Bv.xvi.14.
 
 ## Notes

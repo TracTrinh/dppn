@@ -27,6 +27,6 @@ Mahā Tissa 03. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Mahā Tissa 03. Mahā Tissa Thera. Được gọi là Ambakhādaka Mahā Tissa. Ngài sống ở Ciragumba, và được nhắc đến như là một tấm gương về một vị tỳ-kheo đã từ chối ăn thức ăn đến với ngài như là kết quả của việc dùng lời nói để biểu thị rằng ngài khao khát nó. Vsm.43.
+Mahā Tissa 03. Mahā Tissa Thera. Được gọi là Ambakhādaka Mahā Tissa. Ngài sống ở Ciragumba, và được nhắc đến như là một tấm gương về một vị tỳ-kheo đã từ chối ăn thức ăn đến với ngài do dùng lời nói biểu thị rằng ngài muốn thức ăn ấy. Vsm.43.
 
 ## Notes

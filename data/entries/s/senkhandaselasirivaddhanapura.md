@@ -26,6 +26,6 @@ Seṅkhaṇḍaselasirivaḍḍhanapura. The ancient name of modern Kandy, in Ce
 
 ## Vietnamese translation
 
-Seṅkhaṇḍaselasirivaḍḍhanapura. Tên cổ của Kandy ngày nay, ở Tích Lan. Nơi này lần đầu trở thành kinh đô dưới thời vua Vīravikkama (Cv.xcii.7), và theo truyền thuyết, nó được lập nên trên một địa điểm vốn do một vị ẩn sĩ tên là Seṅkhaṇḍa cư ngụ. Nơi này tiếp tục là kinh đô của Tích Lan cho đến năm 1815 CE., khi hòn đảo bị nhượng cho người Anh.
+Seṅkhaṇḍaselasirivaḍḍhanapura. Tên cổ của Kandy ngày nay, ở Tích Lan. Nơi này lần đầu trở thành kinh đô dưới thời vua Vīravikkama (Cv.xcii.7), và theo truyền thuyết, nó được lập nên trên một địa điểm vốn do một vị ẩn sĩ tên là Seṅkhaṇḍa cư ngụ. Nơi này tiếp tục là kinh đô của Tích Lan cho đến năm 1815 CN., khi hòn đảo bị nhượng cho người Anh.
 
 ## Notes

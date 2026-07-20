@@ -27,6 +27,6 @@ Senasenāpatipariveṇa. A monastic building erected by <span class="dppn-term d
 
 ## Vietnamese translation
 
-Senasenāpatipariveṇa. Một công trình tu viện do Kuṭṭhaka, *senāpati* của Sena II., xây dựng. Xem thêm Senānāthapariveṇa. Cv.li.88; xem thêm Cv.Trs.i.156, n.2.
+Senasenāpatipariveṇa. Một công trình tu viện do Kuṭṭhaka, tướng quân của Sena II., xây dựng. Xem thêm Senānāthapariveṇa. Cv.li.88; xem thêm Cv.Trs.i.156, n.2.
 
 ## Notes

@@ -26,6 +26,6 @@ Nimittasaññaka Thera. An *Arahant*. Ninety-four *kappas* ago he was a hermit o
 
 ## Vietnamese translation
 
-Nimittasaññaka Thera. Một vị *Arahant*. Chín mươi tư *kappas* trước, ngài là một ẩn sĩ trên bờ sông Candabhāgā, và, khi nhìn thấy một con nai vàng lang thang trong rừng, tâm ngài đã hướng về những suy niệm về chư Phật. Hai mươi bảy *kappas* trước, ngài là một vị vua tên là Araññasatta. Ap.i.261.
+Nimittasaññaka Thera. Một vị *Arahant*. Chín mươi tư *kappa* trước, ngài là một ẩn sĩ trên bờ sông Candabhāgā, và, khi nhìn thấy một con nai vàng lang thang trong rừng, tâm ngài đã hướng về những suy niệm về chư Phật. Hai mươi bảy *kappa* trước, ngài là một vị vua tên là Araññasatta. Ap.i.261.
 
 ## Notes

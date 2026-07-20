@@ -26,6 +26,6 @@ Kūṭatissavihāra. A monastery in Ceylon. <span class="dppn-term dppn-term-t14
 
 ## Vietnamese translation
 
-Một tu viện ở Ceylon. Sena II. đã ban cho nó một ngôi làng bảo trợ. Cv.li.74. Trong bản khắc trên cột của Mahinda IV. ở Polonnaruva, nó được đề cập đến như là *Kuṭutisa-rad-maha-veher* (Ep.Zey.ii.50).
+Một tu viện ở Tích Lan. Sena II đã ban cho nó một ngôi làng bảo trợ. Cv.li.74. Trong bản khắc trên cột của Mahinda IV ở Polonnaruva, nó được đề cập đến như là *Kuṭutisa-rad-maha-veher* (Ep.Zey.ii.50).
 
 ## Notes

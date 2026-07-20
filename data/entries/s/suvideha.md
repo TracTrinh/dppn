@@ -27,6 +27,6 @@ Suvidehā. The name of a country and its inhabitants (MN.i.225). It is that part
 
 ## Vietnamese translation
 
-Suvidehā. Tên của một quốc gia và những người cư ngụ trong đó (MN.i.225). Đó là phần của Videha đối diện với Magadha, ở bờ bên kia sông Hằng (Ganges). MN­a.ii.448.
+Suvidehā. Tên của một quốc gia và những người cư ngụ trong đó (MN.i.225). Đó là phần của Videha đối diện với Magadha, ở bờ bên kia sông Hằng. MN­a.ii.448.
 
 ## Notes

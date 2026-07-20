@@ -27,6 +27,6 @@ Susīma 01. The Bodhisatta in the time of <span class="dppn-term dppn-term-t14" 
 
 ## Vietnamese translation
 
-Susīma 01. Bodhisatta trong thời của Atthadassī Buddha. Ngài là một Bà-la-môn *Mahā Sāla* của Campaka và trở thành một đạo sĩ có oai lực lớn. Ngài nghe Đức Phật thuyết pháp tại Sudassana và đã được cải đạo. Ja.i.39; Bv.xv.9f.; Bv­a.180.
+Susīma 01. Bodhisatta trong thời của Atthadassī Buddha. Ngài là một Bà-la-môn *Mahā Sāla* của Campaka và trở thành một đạo sĩ có oai lực lớn. Ngài nghe Đức Phật thuyết pháp tại Sudassana và đã quy y. Ja.i.39; Bv.xv.9f.; Bv­a.180.
 
 ## Notes

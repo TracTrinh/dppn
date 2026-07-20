@@ -33,6 +33,6 @@ A similar image was found in the <span class="dppn-term dppn-term-t14" data-dppn
 
 Tivaṅka. Một bức tượng, có thể là của Đức Phật, được lắp đặt tại Tivaṅkaghara ở Pulatthipura bởi Parakkamabāhu I. (Cv.lxxviii.39).
 
-Một bức tượng tương tự đã được tìm thấy ở Kalyāṇīvihāra, nơi được Parakkamabāhu II trùng tu. Cv.lxxxv.66; see Cv.Trs.ii.105, n.5.
+Một bức tượng tương tự đã được tìm thấy ở Kalyāṇīvihāra, nơi được Parakkamabāhu II trùng tu. Cv.lxxxv.66; xem Cv.Trs.ii.105, n.5.
 
 ## Notes

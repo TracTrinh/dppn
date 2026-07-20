@@ -29,6 +29,6 @@ Mārakāyikadevī. A group of <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Mārakāyikadevī. Một nhóm chư thiên (Devas), rõ ràng là tùy tùng của Māra. Các phái Pubbaseliya và Aparaseliya cho rằng nhóm chư thiên này đã khiến các bậc Arahant xuất tinh, mặc dù cả các bậc Arahant lẫn bản thân chư thiên đều không mắc phải sự bất tịnh về mặt thể xác (Kv. 164f.). Một trong những vị chư thiên này đã từng nhập vào thân thể của năm trăm người phụ nữ, bạn bè của Visākhā, làm họ say xỉn và khiến họ có những hành vi vô cùng khiếm nhã ngay trước mặt Đức Phật. Dhp­a.iii.102.
+Mārakāyikadevī. Một nhóm chư thiên, rõ ràng là tùy tùng của Māra. Các phái Pubbaseliya và Aparaseliya cho rằng nhóm chư thiên này đã khiến các bậc Arahant xuất tinh, mặc dù cả các bậc Arahant lẫn bản thân chư thiên đều không mắc phải sự bất tịnh về mặt thể xác (Kv. 164f.). Một trong những vị chư thiên này đã từng nhập vào thân thể của năm trăm người phụ nữ, bạn bè của Visākhā, làm họ say xỉn và khiến họ có những hành vi vô cùng khiếm nhã ngay trước mặt Đức Phật. Dhp­a.iii.102.
 
 ## Notes

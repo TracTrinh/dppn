@@ -26,6 +26,6 @@ Suvaṇṇagiritāla. A mountain five *yojanas* from <span class="dppn-term dppn
 
 ## Vietnamese translation
 
-Suvaṇṇagiritāla. Một ngọn núi cách Jetuttara năm *do-tuần* (*yojana*). Con sông Kontimāra nằm xa hơn năm dặm nữa. Ja.vi.514.
+Suvaṇṇagiritāla. Một ngọn núi cách Jetuttara năm *yojana*. Con sông Kontimāra nằm xa hơn năm do-tuần nữa. Ja.vi.514.
 
 ## Notes

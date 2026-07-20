@@ -23,6 +23,6 @@ Suvacasutta 01. A *Deva* tells the Buddha of seven things which lead to a monk�
 
 ## Vietnamese translation
 
-Suvacasutta 01. Một vị thiên (*Deva*) thưa với Đức Phật về bảy điều dẫn đến sự tăng trưởng của một tỳ-kheo: tôn kính Đức Phật, Giáo pháp, Tăng chúng, sự rèn luyện, định, lời nói nhã nhặn, và tình bạn tốt. AN.iv.29.
+Suvacasutta 01. Một thiên nhân (*Deva*) thưa với Đức Phật về bảy điều dẫn đến sự tăng trưởng của một tỳ-kheo: tôn kính Đức Phật, Pháp, Tăng đoàn, sự rèn luyện, định, lời nói nhã nhặn, và tình bạn tốt. AN.iv.29.
 
 ## Notes

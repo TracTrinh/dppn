@@ -24,6 +24,6 @@ Mahā Tissā. An eminent Therī of Ceylon. Dpv.xviii.38.
 
 ## Vietnamese translation
 
-Mahā Tissā. Một vị ni sư (Therī) xuất chúng của Ceylon. Dpv.xviii.38.
+Mahā Tissā. Một vị ni sư (Therī) xuất chúng của Tích Lan. Dpv.xviii.38.
 
 ## Notes

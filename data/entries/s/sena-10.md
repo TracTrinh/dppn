@@ -37,6 +37,6 @@ Sena 10. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-
 
 ## Vietnamese translation
 
-Sena 10. Sena Ilaṅga, *Senāpati* của Kassapa IV. Ông thuộc dòng dõi hoàng tộc. Ông xây một chỗ ở cho các tỳ-kheo về phía tây Thūpārāma. Ông cũng sáng lập *vihāra* Dhammārāma và *vihāra* Hadaya-uṇha cho các Dhammarucika, và Kassapasena cho các Sāgalika. Cho các vị khổ hạnh sống trong rừng, ông xây một am trên Rattamālapabbata. Cho các Paṁsukūlika, ông xây *pariveṇa* Samuddagiri trong Mahā Vihāra, và cho các Tỳ-kheo-ni, xây Tissārāma. Ông dựng các bệnh viện ở Anurādhapura và Pulatthipura, để phòng chống bệnh *upasagga*. Cv.lii.30.
+Sena 10. Sena Ilaṅga, tướng quân của Kassapa IV. Ông thuộc dòng dõi hoàng tộc. Ông xây một chỗ ở cho các tỳ-kheo về phía tây Thūpārāma. Ông cũng sáng lập *vihāra* Dhammārāma và *vihāra* Hadaya-uṇha cho các Dhammarucika, cũng như Kassapasena cho các Sāgalika. Cho các vị khổ hạnh sống trong rừng, ông xây một am trên Rattamālapabbata. Cho các Paṁsukūlika, ông xây *pariveṇa* Samuddagiri trong Mahā Vihāra, và cho các Tỳ-kheo-ni, xây Tissārāma. Ông dựng các bệnh viện ở Anurādhapura và Pulatthipura để chống bệnh *upasagga*. Cv.lii.30.
 
 ## Notes

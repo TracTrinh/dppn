@@ -56,10 +56,10 @@ Khi vua cha xuất gia, ngài lên ngôi và dấn thân cùng tất cả thần
 
 Về sau, khi người thợ cạo báo cho ngài biết về sự xuất hiện của sợi tóc bạc đầu tiên trên đầu ngài, ngài, giống như tất cả các bậc tiên vương, đã nhường ngôi cho con trai mình và trở thành một tu sĩ. Con trai ngài, Kāḷārajanaka, là vị vua cuối cùng trong tám mươi tư ngàn vị vua của triều đại Makhādeva.
 
-Câu chuyện này được Đức Phật kể lại khi Ngài đến thăm Mithilā. Ngài đã mỉm cười khi đến khu đất đền đài của Makhādeva, và khi được hỏi lý do tại sao mỉm cười, Ngài đã kể lại Jātaka này.
+Câu chuyện này được Đức Phật kể lại khi Ngài đến thăm Mithilā. Ngài đã mỉm cười khi đến khu đất đền đài của Makhādeva, và khi được hỏi lý do tại sao mỉm cười, Ngài đã kể lại Bổn sinh này.
 
 Anuruddha được nhận diện là Sakka và Ānanda là Mātali (Ja.vi.95-129).
 
-Câu chuyện này tạo nền tảng cho Makhādevasutta và được bao gồm trong Cariyāpiṭaka. MN.ii.74ff. Cp.i.6; Cp-a.42ff. Trong Dpv.iii.35, nhà vua được gọi là Nemiya.
+Câu chuyện này làm nền tảng cho Makhādevasutta và được đưa vào Cariyāpiṭaka. MN.ii.74ff. Cp.i.6; Cp-a.42ff. Trong Dpv.iii.35, nhà vua được gọi là Nemiya.
 
 ## Notes

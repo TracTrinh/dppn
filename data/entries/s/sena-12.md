@@ -26,6 +26,6 @@ Sena 12. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-
 
 ## Vietnamese translation
 
-Sena 12. Sena Thera. Một vị *Arahant*. Ông là cậu của Vijitasena Thera. Em trai ông là Upasena. Thag­a.i.424.
+Sena 12. Sena Thera. Một vị *Arahant*. Ông là cậu của Vijitasena Thera. Anh/em trai của ông là Upasena. Thag­a.i.424.
 
 ## Notes

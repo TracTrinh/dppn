@@ -27,6 +27,6 @@ Mahā Tissa 01. A Thera who lived in <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Mahā Tissa 01. Một vị Trưởng lão đã sống ở Bhaggari tại Ceylon. Ngài là một *Arahant*, và được nhắc đến là nằm trong số những người cuối cùng đã tham gia vào các hội chúng khác nhau xuất hiện theo sau sự ra đi của Bodhisatta trong các kiếp sống khác nhau, chẳng hạn như Kuddālaka *Samāgama*, Mūgapakkha, v.v. Ja.vi.30.
+Mahā Tissa 01. Một vị Trưởng lão đã sống ở Bhaggari tại Tích Lan. Ngài là một *Arahant*, và được nhắc đến là thuộc số những người cuối cùng đã tham gia vào các hội chúng khác nhau xuất hiện theo sau sự ra đi của Bodhisatta trong các kiếp sống khác nhau, chẳng hạn như Kuddālaka *Samāgama*, Mūgapakkha, v.v. Ja.vi.30.
 
 ## Notes

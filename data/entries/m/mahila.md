@@ -24,6 +24,6 @@ Mahilā. An eminent Therī of Ceylon who kept the *dhutaṅgas*. Dpv.xviii.15.
 
 ## Vietnamese translation
 
-Mahilā. Một vị Therī lỗi lạc của Ceylon người đã tuân giữ những *dhutaṅga* (đầu-đà). Dpv.xviii.15.
+Mahilā. Một vị Therī lỗi lạc của Tích Lan người đã tuân giữ những *dhutaṅga*. Dpv.xviii.15.
 
 ## Notes

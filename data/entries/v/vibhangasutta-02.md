@@ -24,6 +24,6 @@ Vibhaṅgasutta 02. An analysis of the Ariyan Eightfold Path. SN.v.12.
 
 ## Vietnamese translation
 
-Vibhaṅgasutta 02. Một sự phân tích về Bát Thánh đạo (Ariyan Eightfold Path). SN.v.12.
+Vibhaṅgasutta 02. Một sự phân tích về Bát Thánh đạo. SN.v.12.
 
 ## Notes

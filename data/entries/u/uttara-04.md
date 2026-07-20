@@ -33,7 +33,7 @@ In return for this he agreed to say before the Saṅgha that the <span class="dp
 
 ## Vietnamese translation
 
-Uttara 04. Một vị Trưởng lão (Thera). Vào thời điểm xảy ra dị giáo Vajjī, ông là thị giả của Trưởng lão (Elder) Revata và đã ở trong Tăng đoàn được hai mươi năm. Những người Vajjian của Vesālī đã đi đến chỗ ông và, sau nhiều lần thuyết phục, đã thành công trong việc khiến ông nhận một chiếc y từ họ.
+Uttara 04. Một vị Trưởng lão (Thera). Vào thời điểm xảy ra dị giáo Vajjī, ông là thị giả của Trưởng lão Revata và đã ở trong Tăng đoàn được hai mươi năm. Những người Vajjian của Vesālī đã đi đến chỗ ông và, sau nhiều lần thuyết phục, đã thành công trong việc khiến ông nhận một chiếc y từ họ.
 
 Đổi lại điều này, ông đồng ý nói trước Tăng đoàn rằng các Tỳ-kheo Pācīnaka đang giữ gìn Pháp (Dhamma) chân chính còn các tỳ-kheo Pātheyyaka thì không. Sau đó Uttara đi gặp Revata, nhưng Revata, khi nghe những gì ông đã làm, đã lập tức tước đi công việc thị giả đối với ngài của ông. Khi các tỳ-kheo Vesālī được báo cho biết về sự việc, họ đã nhận lễ nương nhờ (nissaya) từ Uttara và trở thành những đệ tử của ông. Vin.ii.302-3; Mhv.iv.30.
 

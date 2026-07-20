@@ -24,6 +24,6 @@ Sunetta 01. *Aggasāvaka* of <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Sunetta 01. Đệ tử tối thắng (*Aggasāvaka*) của Sobhita Buddha (Bv.vii.21; Ja.i.35). Ngài là anh em cùng cha khác mẹ của Đức Phật và là người cải đạo đầu tiên của Ngài. Bv­a.137.
+Sunetta 01. Đệ tử tối thắng (*Aggasāvaka*) của Sobhita Buddha (Bv.vii.21; Ja.i.35). Ngài là anh em cùng cha khác mẹ của Đức Phật và là người đầu tiên được Ngài giáo hóa. Bv­a.137.
 
 ## Notes

@@ -36,7 +36,7 @@ Geiger thinks (Mhv.Trs.189, n.2) that <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Uruvelā 02. Một thị trấn ở Tích Lan (Ceylon), được thành lập bởi một trong các vị quan đại thần của Vijaya (Dpv.ix.35; Mhv.vii.45). Theo một truyền thống khác (Mhv.ix.9; có lẽ điều này đề cập đến một khu định cư khác), nó được thành lập bởi một người anh em của Bhaddakaccānā, tên là Uruvela. Uruvelā rõ ràng cũng là một bến cảng, bởi vì chúng ta được kể lại rằng khi Duṭṭhagāmaṇī quyết định xây dựng Mahā Thūpa, sáu xe chở đầy ngọc trai lớn cỡ quả bàng sồi (myrobalan), trộn lẫn với san hô, đã xuất hiện trên vùng đất khô cạn tại Uruvelapaṭṭana (Mhv.xxviii.36). Gần Uruvelā là Vallīvihāra, được xây dựng bởi Subha (Mhv.xxxv.58).
+Uruvelā 02. Một thị trấn ở Tích Lan, được thành lập bởi một trong các vị quan đại thần của Vijaya (Dpv.ix.35; Mhv.vii.45). Theo một truyền thống khác (Mhv.ix.9; có lẽ điều này đề cập đến một khu định cư khác), nó được thành lập bởi một người anh em của Bhaddakaccānā, tên là Uruvela. Uruvelā rõ ràng cũng là một bến cảng, bởi vì chúng ta được kể lại rằng khi Duṭṭhagāmaṇī quyết định xây dựng Mahā Thūpa, sáu xe chở đầy ngọc trai lớn cỡ quả bàng sồi (myrobalan), trộn lẫn với san hô, đã xuất hiện trên vùng đất khô cạn tại Uruvelapaṭṭana (Mhv.xxviii.36). Gần Uruvelā là Vallīvihāra, được xây dựng bởi Subha (Mhv.xxxv.58).
 
 Geiger cho rằng (Mhv.Trs.189, n.2) Uruvelā nằm gần cửa sông Kalā Oya ngày nay, cách Anurādhapura năm do-tuần (yojana) – tức là khoảng bốn mươi dặm – về phía tây.
 

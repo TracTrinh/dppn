@@ -27,6 +27,6 @@ Nimittavyākaraṇīya Thera. An *Arahant*. Ninety-two *kappas* ago he was an as
 
 ## Vietnamese translation
 
-Nimittavyākaraṇīya Thera. Một vị *Arahant*. Chín mươi hai *kappas* trước, ngài là một ẩn sĩ ở Himavā, đứng đầu năm mươi tư ngàn môn đệ. Sau khi chứng kiến những phép lạ báo trước sự đản sinh của một vị Phật (Tissa Buddha?), ngài hoan hỷ trong lòng và nói về điều đó cho những người khác (Ap.ii.411f). Ngài có lẽ là cùng một người với Vāraṇa Thera. Thag­a.i.353f.
+Nimittavyākaraṇīya Thera. Một vị *Arahant*. Chín mươi hai *kappa* trước, ngài là một ẩn sĩ ở Himavā, đứng đầu năm mươi tư ngàn môn đệ. Sau khi chứng kiến những phép lạ báo trước sự đản sinh của một vị Phật (Tissa Buddha?), ngài hoan hỷ trong lòng và nói về điều đó cho những người khác (Ap.ii.411f). Ngài có lẽ là cùng một người với Vāraṇa Thera. Thag­a.i.353f.
 
 ## Notes

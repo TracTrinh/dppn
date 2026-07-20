@@ -25,6 +25,6 @@ Visayha. The Bodhisatta born as a *seṭṭhi* of <span class="dppn-term dppn-te
 
 ## Vietnamese translation
 
-Visayha. Vị Bodhisatta sinh làm một *seṭṭhi* của Benares. Xem Visayhajātaka (Ja 340).
+Visayha. Vị Bodhisatta sinh làm một trưởng giả của Benares. Xem Visayhajātaka (Ja 340).
 
 ## Notes

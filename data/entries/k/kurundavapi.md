@@ -25,6 +25,6 @@ Kurundavāpi. A tank built by <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Một hồ nước do Aggabodhi I. xây dựng (Cv.xlii.15; Cv.Trs.i.66, chú thích 6).
+Một hồ nước do Aggabodhi I xây dựng (Cv.xlii.15; Cv.Trs.i.66, n.6).
 
 ## Notes

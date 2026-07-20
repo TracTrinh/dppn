@@ -27,6 +27,6 @@ Kuṭumbiyaṅgaṇa *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term
 
 ## Vietnamese translation
 
-*v.l.* Kumbiyaṅgaṇa. Một ngôi làng ở Ceylon trong quận Giri. Đây là nơi sinh của Veḷusumana. Mhv.xxiii.68.
+*v.l.* Kumbiyaṅgaṇa. Một ngôi làng ở Tích Lan trong quận Giri. Đây là nơi sinh của Veḷusumana. Mhv.xxiii.68.
 
 ## Notes

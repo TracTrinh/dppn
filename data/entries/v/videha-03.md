@@ -26,6 +26,6 @@ Videha 03. *v.l.* <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Videha 03. *v.l.* Vedeha. Tên của một vị vua xứ Videha, cha của Bồ-tát trong Vinīlakajātaka (Ja 160) (*xem đề mục*).
+Videha 03. *v.l.* Vedeha. Tên của một vị vua xứ Videha, cha của Bodhisatta trong Vinīlakajātaka (Ja 160) (*xem đề mục*).
 
 ## Notes

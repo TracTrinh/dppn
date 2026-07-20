@@ -25,6 +25,6 @@ Susaddasiddhi. Another name for the <span class="dppn-term dppn-term-t14" data-d
 
 ## Vietnamese translation
 
-Susaddasiddhi. Một tên gọi khác của cuốn Sāraṭṭhavilāsinī do Saṅgharakkhita của Tích Lan (Ceylon) viết; đây là một bản phụ sớ (*ṭīkā*) về cuốn *Moggallānapañjikā*. PLC. 200.
+Susaddasiddhi. Một tên gọi khác của cuốn Sāraṭṭhavilāsinī do Saṅgharakkhita của Tích Lan viết; đây là một bản phụ sớ (*ṭīkā*) về cuốn *Moggallānapañjikā*. PLC. 200.
 
 ## Notes

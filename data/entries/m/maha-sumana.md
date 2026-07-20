@@ -24,6 +24,6 @@ Mahā Sumanā. One of the pre-eminent nuns of Ceylon. Dpv.xviii.39.
 
 ## Vietnamese translation
 
-Mahā Sumanā. Một trong những vị ni sư xuất chúng của Ceylon. Dpv.xviii.39.
+Mahā Sumanā. Một trong những vị ni sư xuất chúng của Tích Lan. Dpv.xviii.39.
 
 ## Notes

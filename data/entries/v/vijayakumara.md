@@ -29,6 +29,6 @@ Vijayakumāra. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="
 
 ## Vietnamese translation
 
-Vijayakumāra. Con trai của Sirināga II., và là vua của Tích Lan trong một năm (302-3 CE.). Ông đã bị giết hại trong cung điện của mình bởi ba người Lambakaṇṇa: Saṅghatissa, Saṅghabodhi và Goṭhābhaya. Mhv.xxxvi.57f; Dpv.xxii.51.
+Vijayakumāra. Con trai của Sirināga II., và là vua của Tích Lan trong một năm (302-3 CN.). Ông đã bị giết hại trong cung điện của mình bởi ba người Lambakaṇṇa: Saṅghatissa, Saṅghabodhi và Goṭhābhaya. Mhv.xxxvi.57f; Dpv.xxii.51.
 
 ## Notes

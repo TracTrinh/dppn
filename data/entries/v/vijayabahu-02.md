@@ -30,6 +30,6 @@ Vijayabāhu 02. Sister’s son of <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Vijayabāhu 02. Cháu trai gọi cậu của Parakkamabāhu I. và là vua của Tích Lan (Vijayabāhu II., 1186-87 CE.). Ông kế vị người cậu của mình. Trong số các hành động của ông là việc ân xá cho tất cả những người bị giam cầm bởi Parakkamabāhu I., và việc cử một phái đoàn ngoại giao đến gặp vua xứ Arimaddana với một bức thư bằng tiếng Pāli, do chính ông soạn thảo. Ông là một vị vua tốt, nhưng đã bị giết hại vào cuối năm trị vì đầu tiên của mình bởi Mahinda (sau này là Mahinda VI.). Phó vương của ông là Kittinissaṅka. Cv.lxxx.1-18.
+Vijayabāhu 02. Cháu trai gọi cậu của Parakkamabāhu I. và là vua của Tích Lan (Vijayabāhu II., 1186-87 CN.). Ông kế vị người cậu của mình. Trong số các hành động của ông là việc ân xá cho tất cả những người bị giam cầm bởi Parakkamabāhu I., và việc cử một phái đoàn ngoại giao đến gặp vua xứ Arimaddana với một bức thư bằng tiếng Pāli, do chính ông soạn thảo. Ông là một vị vua tốt, nhưng đã bị giết hại vào cuối năm trị vì đầu tiên của mình bởi Mahinda (sau này là Mahinda VI.). Phó vương của ông là Kittinissaṅka. Cv.lxxx.1-18.
 
 ## Notes

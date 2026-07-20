@@ -25,6 +25,6 @@ Sunetta 02. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dp
 
 ## Vietnamese translation
 
-Sunetta 02. Sunetta Thera. Vị thị giả của Dhammadassī Buddha Ja.i.39; Bv.xvi.18.
+Sunetta 02. Sunetta Thera. Vị thị giả của Dhammadassī Buddha. Ja.i.39; Bv.xvi.18.
 
 ## Notes

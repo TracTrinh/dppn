@@ -30,6 +30,6 @@ Thirty-one *kappas* ago he was king three times, under the name of <span class="
 
 Nisseṇidāyaka Thera. Một vị *Arahant*. Vào thời Đức Phật Koṇḍañña, ngài đã xây một cầu thang cho Đức Phật để Ngài có thể bước lên tịnh thất của mình.
 
-Ba mươi mốt *kappas* trước ngài làm vua ba lần, dưới tên gọi là Pahasambahula. Ap.i.187.
+Ba mươi mốt *kappa* trước ngài làm vua ba lần, dưới tên gọi là Pahasambahula. Ap.i.187.
 
 ## Notes

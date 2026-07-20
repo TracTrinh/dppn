@@ -26,6 +26,6 @@ Kuveradvāra. One of the fourteen gates of <span class="dppn-term dppn-term-t14"
 
 ## Vietnamese translation
 
-Một trong mười bốn cổng của Pulatthipura, do Parakkamabāhu I. xây dựng. Cv.lxxiii.161.
+Một trong mười bốn cổng của Pulatthipura, do Parakkamabāhu I xây dựng. Cv.lxxiii.161.
 
 ## Notes

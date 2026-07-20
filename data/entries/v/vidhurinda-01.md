@@ -25,6 +25,6 @@ Vidhurinda 01. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" da
 
 ## Vietnamese translation
 
-Vidhurinda 01. Một vị Long (Nāga) vương được Asoka giao trách nhiệm phụ trách cây Bồ-đề trong chuyến đi của nó tới Tích Lan. Mbv.153.
+Vidhurinda 01. Một vị Nāga vương được Asoka giao trách nhiệm phụ trách cây Bồ-đề trong chuyến đi của nó tới Tích Lan. Mbv.153.
 
 ## Notes

@@ -24,6 +24,6 @@ Pātheyyasutta. Spoken in answer to a *Deva*’s questions. Faith is the provisi
 
 ## Vietnamese translation
 
-Pātheyyasutta. Được thuyết giảng để trả lời các câu hỏi của một vị *Deva*. Đức tin là hành trang cho con đường (của *Saṁsāra*); các dục vọng kéo theo con người đi vòng quanh vô tận. SN.i.44.
+Pātheyyasutta. Được thuyết giảng để trả lời các câu hỏi của một vị thiên nhân. Đức tin là hành trang cho con đường (của *Saṁsāra*); các dục vọng kéo theo con người đi vòng quanh vô tận. SN.i.44.
 
 ## Notes

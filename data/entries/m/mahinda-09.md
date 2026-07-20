@@ -28,6 +28,6 @@ Mahinda 09. Son of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" 
 
 ## Vietnamese translation
 
-Mahinda 09. Con trai của Udaya I.; tuy nhiên, ông được biết đến bằng tên gọi là Dhammikasilāmegha và là một người đàn ông rất mộ đạo. Ông đã cúng dường doanh thu từ Kênh đào Geṭṭhumba để được sử dụng trong việc sửa chữa Ratanapāsāda. Ông đã trở thành vua với danh xưng là Mahinda III. và cai trị trong bốn năm (797-801 Công Nguyên). Cv.xlix.38ff.
+Mahinda 09. Con trai của Udaya I.; tuy nhiên, ông được biết đến bằng tên gọi là Dhammikasilāmegha và là một người đàn ông rất mộ đạo. Ông đã cúng dường doanh thu từ Kênh đào Geṭṭhumba để được sử dụng trong việc sửa chữa Ratanapāsāda. Ông đã trở thành vua với danh xưng là Mahinda III. và cai trị trong bốn năm (797-801 CN). Cv.xlix.38ff.
 
 ## Notes

@@ -67,7 +67,7 @@ Vua của Uttarakuru.
 - Ngài cai trị vùng đất phía bắc và là chúa tể của những người Yakkha, với một đoàn tùy tùng lộng lẫy (DN.ii.257).
 - Ngài là một tín đồ của Đức Phật (Snp.v.379).
 
-Xem Vessavaṇa. Ngài từng là một Bà-la-môn tên là Kuvera và làm chủ một trang trại mía, nơi ngài điều hành bảy máy ép mía. Sản phẩm của một máy ép được ngài làm từ thiện, và khi lợi nhuận của ngài tăng lên, ngài đã bố thí trong hai mươi nghìn năm. Sau khi chết, ngài tái sinh làm một trong những Cātummahārājika Deva (DN­a.iii.966; Snp­a.i.369f).
+Xem Vessavaṇa. Ngài từng là một Bà-la-môn tên là Kuvera và làm chủ một trang trại mía, nơi ngài điều hành bảy máy ép mía. Sản phẩm của một máy ép được ngài làm từ thiện, và khi lợi nhuận của ngài tăng lên, ngài đã bố thí trong hai mươi nghìn năm. Sau khi chết, ngài tái sinh làm một trong chư thiên Cātummahārājika (DN­a.iii.966; Snp­a.i.369f).
 
 Trong văn học, cái tên Kuvera biểu thị cho vị thần của cải, và thành phố của ngài, Āḷakamandā, được cho là hiện thân của mọi sự thịnh vượng (ví dụ, Cv.xxxvii.106; xxxix.5; lxxx.5).
 

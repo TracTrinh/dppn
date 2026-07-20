@@ -25,6 +25,6 @@ Mahā Vatthalagāma. A village on the southern sea coast of Ceylon, where <span 
 
 ## Vietnamese translation
 
-Mahā Vatthalagāma. Một ngôi làng ở bờ biển phía nam của Ceylon, nơi Tilokamalla sinh sống. Cv.ixxxviii.22; Cv.Trs.ii.184, n.2.
+Mahā Vatthalagāma. Một ngôi làng ở bờ biển phía nam của Tích Lan, nơi Tilokamalla sinh sống. Cv.ixxxviii.22; Cv.Trs.ii.184, n.2.
 
 ## Notes

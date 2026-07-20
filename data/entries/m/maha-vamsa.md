@@ -37,7 +37,7 @@ There is a Commentary on the <span class="dppn-term dppn-term-t14" data-dppn-ter
 
 ## Vietnamese translation
 
-Mahā Vaṁsa. Biên niên sử vĩ đại của Ceylon. Phần đầu tiên của tác phẩm, tức là, đến thời của Vua Mahā Sena – được cho là của Mahā Nāma Thera (Mhv­ṭ.687). Phần tiếp theo của Biên niên sử được gọi là Cūḷa Vaṁsa. Phần đầu tiên của Cūḷa Vaṁsa – tức là, từ Mahā Sena đến triều đại của Parakkamabāhu II. – theo truyền thống được cho là của một vị Trưởng lão tên là Dhammarakkhita (Cv.Trs.ii.155, n.3). Phần tiếp theo – tức là, cho đến thời của Kittisiri Rājasīha – đã được viết bởi Tibbaṭuvāve Thera*, Mahā Nāyaka* của Pupphārāma, theo lời thỉnh cầu của nhà vua, người đã nhận được cho ngài những bản sao của Biên niên sử từ Siam (Thái Lan) (Cv.xcix.78f; Cv.Trs.ii.263, n.1). Từ đó nó đã được tiếp tục cho đến thời kỳ của sự chiếm đóng của Anh (1815 Công Nguyên) bởi Hikkaḍuve Sumaṅgala Thera (PLC.310).
+Mahā Vaṁsa. Biên niên sử vĩ đại của Tích Lan. Phần đầu tiên của tác phẩm, tức là, đến thời của Vua Mahā Sena – được cho là của Mahā Nāma Thera (Mhv­ṭ.687). Phần tiếp theo của Biên niên sử được gọi là Cūḷa Vaṁsa. Phần đầu tiên của Cūḷa Vaṁsa – tức là, từ Mahā Sena đến triều đại của Parakkamabāhu II. – theo truyền thống được cho là của một vị Trưởng lão tên là Dhammarakkhita (Cv.Trs.ii.155, n.3). Phần tiếp theo – tức là, cho đến thời của Kittisiri Rājasīha – đã được viết bởi Tibbaṭuvāve Thera*, Mahā Nāyaka* của Pupphārāma, theo lời thỉnh cầu của nhà vua, người đã nhận được cho ngài những bản sao của Biên niên sử từ Siam (Cv.xcix.78f; Cv.Trs.ii.263, n.1). Từ đó nó đã được tiếp tục cho đến thời kỳ của sự chiếm đóng của Anh (1815 CN) bởi Hikkaḍuve Sumaṅgala Thera (PLC.310).
 
 Có một Bản chú giải về Mahā Vaṁsa gọi là Vaṁsatthappakāsinī (*xem từ này*).
 

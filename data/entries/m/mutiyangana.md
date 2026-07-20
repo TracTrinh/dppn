@@ -30,6 +30,6 @@ Mutiyaṅgaṇa. A *cetiya* in Ceylon, erected, according to tradition, by <span
 
 ## Vietnamese translation
 
-Mutiyaṅgaṇa. Một *cetiya* ở Tích Lan, được dựng lên, theo truyền thuyết, bởi Devānampiyatissa (Codr.28), trên một địa điểm đã được Đức Phật làm phép thánh trong chuyến viếng thăm Tích Lan lần thứ ba của Ngài (Vin-a.i.89). Nó đã được Jeṭṭhatissa phục dựng. Có lẽ, tu viện gắn liền với *cetiya* này chính là tu viện được đề cập trong Chú giải Majjhima (MN­a.ii.1024) với tên gọi là Mutiṅgana. Trưởng lão Maliyadeva đã thuyết giảng Chacakkasutta ở đó và sáu mươi tỳ-kheo đã trở thành *Arahant*.
+Mutiyaṅgaṇa. Một *cetiya* ở Tích Lan, được dựng lên, theo truyền thuyết, bởi Devānampiyatissa (Codr.28), trên một địa điểm đã được Đức Phật làm cho trở nên linh thiêng trong chuyến viếng thăm Tích Lan lần thứ ba của Ngài (Vin-a.i.89). Nó đã được Jeṭṭhatissa phục dựng. Có lẽ, tu viện gắn liền với *cetiya* này chính là tu viện được đề cập trong Chú giải Majjhima (MN­a.ii.1024) với tên gọi là Mutiṅgana. Trưởng lão Maliyadeva đã thuyết giảng Chacakkasutta ở đó và sáu mươi tỳ-kheo đã trở thành *Arahant*.
 
 ## Notes

@@ -25,6 +25,6 @@ Sunimmita. A *Devaputta*, king of the <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Sunimmita. Một thiên tử (*Devaputta*), vua của cõi Nimmānaratī (Ja.i.81; SN.iv.280; AN.iv.243; cf. Divy.140). Visākhā đã trở thành vợ của vị này, sau khi bà sinh vào số chư thiên (*Deva*) ở cõi Nimmānaratī. Vv-a.189.
+Sunimmita. Một thiên tử (*Devaputta*), vua của cõi Nimmānaratī (Ja.i.81; SN.iv.280; AN.iv.243; so sánh Divy.140). Visākhā đã trở thành vợ của vị này, sau khi bà sinh vào hàng chư thiên ở cõi Nimmānaratī. Vv-a.189.
 
 ## Notes

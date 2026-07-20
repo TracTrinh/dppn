@@ -25,6 +25,6 @@ Viduragga. *Senāpati* of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Viduragga. *Senāpati* của Udaya IV. Cv.liii.46; cf. Vajiragga.
+Viduragga. *Senāpati* của Udaya IV. Cv.liii.46; xem thêm Vajiragga.
 
 ## Notes

@@ -25,6 +25,6 @@ Kurundacullaka. A *pariveṇa* in the <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Một *pariveṇa* trong Jetavanavihāra ở Ceylon, là nơi cư ngụ của Dāṭhāvedhaka. Mhv­ṭ.176.
+Một *pariveṇa* trong Jetavanavihāra ở Tích Lan, là nơi cư ngụ của Dāṭhāvedhaka. Mhv­ṭ.176.
 
 ## Notes

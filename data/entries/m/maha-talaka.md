@@ -25,6 +25,6 @@ Mahā Talāka. A monastery in Ceylon, the residence of <span class="dppn-term dp
 
 ## Vietnamese translation
 
-Mahā Talāka. Một tu viện ở Ceylon, nơi cư ngụ của Āraññaka Mahā Abhaya. Ras.ii.5
+Mahā Talāka. Một tu viện ở Tích Lan, nơi cư ngụ của Āraññaka Mahā Abhaya. Ras.ii.5
 
 ## Notes

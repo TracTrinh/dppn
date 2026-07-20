@@ -29,6 +29,6 @@ Vīravikkama. King of Ceylon (circa 1542 CE.). He succeeded <span class="dppn-te
 
 ## Vietnamese translation
 
-Vīravikkama. Vua của Tích Lan (khoảng năm 1542 CE.). Ông kế vị Vijayabāhu VI. và tuyên bố xuất thân từ Sirisaṅghabodhi. Ông sống ở Sirivaḍḍhanapura (Kandy hiện đại), xây dựng tám mươi sáu tịnh xá cho các nhà sư và đã cho chép lại *Tipiṭaka*. Ông đi hành hương đến Mahiyaṅgaṇa và Sumanakūṭa. Đích thân ông trồng một ruộng lúa, và từ sản vật thu được, ông đã cúng dường. Cv.xcii.6ff.
+Vīravikkama. Vua của Tích Lan (khoảng năm 1542 CN.). Ông kế vị Vijayabāhu VI. và tuyên bố xuất thân từ Sirisaṅghabodhi. Ông sống ở Sirivaḍḍhanapura (Kandy ngày nay), xây dựng tám mươi sáu chỗ ở cho các nhà sư và đã cho chép lại *Tipiṭaka*. Ông đi hành hương đến Mahiyaṅgaṇa và Sumanakūṭa. Đích thân ông trồng một ruộng lúa, và từ sản vật thu được, ông đã cúng dường. Cv.xcii.6ff.
 
 ## Notes

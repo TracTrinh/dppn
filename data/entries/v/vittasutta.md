@@ -23,6 +23,6 @@ Vittasutta. Preached in answer to a *Deva*’s questions; the best wealth is fai
 
 ## Vietnamese translation
 
-Vittasutta. Được thuyết giảng để trả lời các câu hỏi của một vị *Deva*; tài sản tốt nhất là đức tin, hành động đúng đắn mang lại hạnh phúc, sự thật có hương vị ngọt ngào nhất, một cuộc sống có trí tuệ là tốt nhất. SN.i.42.
+Vittasutta. Được thuyết giảng để trả lời các câu hỏi của một vị thiên nhân; tài sản tốt nhất là đức tin, hành động đúng đắn mang lại hạnh phúc, sự thật có hương vị ngọt ngào nhất, một cuộc sống có trí tuệ là tốt nhất. SN.i.42.
 
 ## Notes

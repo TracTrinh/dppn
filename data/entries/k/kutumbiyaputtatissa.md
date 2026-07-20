@@ -31,7 +31,7 @@ See also <span class="dppn-term dppn-term-t14" data-dppn-term-pos="6" data-dppn-
 
 ## Vietnamese translation
 
-Một *Arahant*. Ngài sống ở Piyaṅgudīpa. Duṭṭhagāmaṇī, khi chạy trốn khỏi trận chiến ở Cūḷaṅganiyapiṭṭhi, mong muốn cúng dường một phần thức ăn của ngài cho một vị tỳ-kheo trước khi ngồi xuống thọ thực. Khi giờ thọ thực được thông báo, Thera Gotama, nghe thấy nó nhờ thiên nhĩ thông của ngài, đã phái Kuṭumbiyaputta đến để nhận phần được dành riêng cho Tăng chúng (Mhv.xxiv.22ff; xxxii.31f). Về sau người ta mới biết rằng số thức ăn nhận được đó đã được Kuṭumbiyaputta chia cho mười hai nghìn tỳ-kheo ở Piyaṅgudīpa. Mhv.xxxii.55; Mhv­ṭ.598.
+Một *Arahant*. Ngài sống ở Piyaṅgudīpa. Duṭṭhagāmaṇī, khi chạy trốn khỏi trận chiến ở Cūḷaṅganiyapiṭṭhi, mong muốn cúng dường một phần thức ăn của ngài cho một vị tỳ-kheo trước khi ngồi xuống thọ thực. Khi giờ thọ thực được thông báo, Trưởng lão Gotama, nghe thấy nó nhờ thiên nhĩ thông của ngài, đã phái Kuṭumbiyaputta đến để nhận phần được dành riêng cho Tăng chúng (Mhv.xxiv.22ff; xxxii.31f). Về sau người ta mới biết rằng số thức ăn nhận được đó đã được Kuṭumbiyaputta chia cho mười hai nghìn tỳ-kheo ở Piyaṅgudīpa. Mhv.xxxii.55; Mhv­ṭ.598.
 
 Xem thêm Bodhimātu Mahā Tissa.
 

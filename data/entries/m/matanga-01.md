@@ -25,6 +25,6 @@ Mātaṅga 01. The Bodhisatta born as a *Caṇḍāla*. See the <span class="dpp
 
 ## Vietnamese translation
 
-Mātaṅga 01. Bồ-tát đản sanh làm một người Caṇḍāla. Xem Mātaṅgajātaka (Ja 497).
+Mātaṅga 01. Bodhisatta sinh làm một người Caṇḍāla. Xem Mātaṅgajātaka (Ja 497).
 
 ## Notes

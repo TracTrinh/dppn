@@ -28,6 +28,6 @@ Mahāli 03. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-
 
 ## Vietnamese translation
 
-Mahāli 03. Một vị vương tử Sākiyan, một trong số bảy người cháu trai của Amitodana. Họ là những người anh em của Bhaddakaccānā, vợ của Paṇḍuvāsadeva, và đã đến Ceylon, nơi họ đã định cư. Dpv.x.6. Xem Mhv.ix.6, 9.
+Mahāli 03. Một vị vương tử Sākiyan, một trong số bảy người cháu trai của Amitodana. Họ là những người anh em của Bhaddakaccānā, vợ của Paṇḍuvāsadeva, và đã đến Tích Lan, nơi họ đã định cư. Dpv.x.6. Xem Mhv.ix.6, 9.
 
 ## Notes

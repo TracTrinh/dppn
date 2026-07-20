@@ -23,6 +23,6 @@ Vijayapura. The Pāli name for the city of Panyā in Burma. Bode, 27, 40.
 
 ## Vietnamese translation
 
-Vijayapura. Tên tiếng Pāli của thành phố Panyā ở Miến Điện (Burma). Bode, 27, 40.
+Vijayapura. Tên tiếng Pāli của thành phố Panyā ở Miến Điện. Bode, 27, 40.
 
 ## Notes

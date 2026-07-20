@@ -24,6 +24,6 @@ Uttara 17. Nephew of King <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Uttara 17. Cháu trai của vua Khallaṭanāga xứ Tích Lan (Ceylon). Ông ta đã âm mưu cùng với những người anh em của mình để ám sát nhà vua, và khi âm mưu bị bại lộ, ông đã tự sát bằng cách nhảy vào một giàn thiêu. Mhv­ṭ.612.
+Uttara 17. Cháu trai của vua Khallaṭanāga xứ Tích Lan. Ông ta đã âm mưu cùng với những người anh em của mình để ám sát nhà vua, và khi âm mưu bị bại lộ, ông đã tự sát bằng cách nhảy vào một giàn thiêu. Mhv­ṭ.612.
 
 ## Notes

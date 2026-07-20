@@ -23,6 +23,6 @@ Purisagatisutta. On the seven conditions of a person (*purisagatiyo*), and an ex
 
 ## Vietnamese translation
 
-Purisagatisutta. Về bảy điều kiện của một con người (*purisagatiyo*), và một sự giải thích về *anūpādā Parinibbāna* (sự nhập Parinibbāna không còn chấp thủ). AN.iv.70ff.
+Purisagatisutta. Về bảy điều kiện của một con người (*purisagatiyo*), và một sự giải thích về *anūpādā Parinibbāna*. AN.iv.70ff.
 
 ## Notes

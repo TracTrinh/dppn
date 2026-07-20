@@ -24,6 +24,6 @@ Nirabbuda 01. A *Niraya*; really a period of suffering equal to twenty <span cla
 
 ## Vietnamese translation
 
-Nirabbuda 01. Một *Niraya* (địa ngục); thực sự là một khoảng thời gian chịu khổ hình bằng hai mươi Abbudas (tức là hai mươi ngàn *Ninnahutas*). Snp.p.126; SN.i.149; Snp­a.477; AN­a,ii.853.
+Nirabbuda 01. Một địa ngục (*Niraya*); thực ra là một khoảng thời gian chịu khổ hình bằng hai mươi Abbudas (tức là hai mươi ngàn *Ninnahutas*). Snp.p.126; SN.i.149; Snp­a.477; AN­a,ii.853.
 
 ## Notes

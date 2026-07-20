@@ -24,6 +24,6 @@ Kurundī. A village in Ceylon. Cv.lxxxiii.16; lxxxviii.64; Cv.Trs.ii.149, n.9.
 
 ## Vietnamese translation
 
-Một ngôi làng ở Ceylon. Cv.lxxxiii.16; lxxxviii.64; Cv.Trs.ii.149, chú thích 9.
+Một ngôi làng ở Tích Lan. Cv.lxxxiii.16; lxxxviii.64; Cv.Trs.ii.149, n.9.
 
 ## Notes

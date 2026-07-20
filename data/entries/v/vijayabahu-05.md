@@ -28,6 +28,6 @@ Vijayabāhu 05. King of Ceylon (<span class="dppn-term dppn-term-t14" data-dppn-
 
 ## Vietnamese translation
 
-Vijayabāhu 05. Vua của Tích Lan (Vijayabāhu V.). Ông kế vị Vannibhuvanekabāhu, và bản thân ông cũng được kế vị bởi Bhuvanekabāhu IV. Cv.xc.105; ông là một trong những người kế vị của Parakkamabāhu IV., và trị vì trong khoảng thời gian từ năm 1302 đến 1346 CE.
+Vijayabāhu 05. Vua của Tích Lan (Vijayabāhu V.). Ông kế vị Vannibhuvanekabāhu, và bản thân ông cũng được kế vị bởi Bhuvanekabāhu IV. Cv.xc.105; ông là một trong những người kế vị của Parakkamabāhu IV., và trị vì trong khoảng thời gian từ năm 1302 đến 1346 CN.
 
 ## Notes

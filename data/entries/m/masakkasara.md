@@ -29,6 +29,6 @@ Masakkasāra. A name given to <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Masakkasāra. Một tên gọi được đặt cho cõi Tāvatiṁsa (Đao Lợi), nơi cư ngụ của Vāsava (Sakka, Ja.v.167; vi. 272, 289, 400; Vv-a.350). Các nhà chú giải giải thích (Ja.v.168; vi. 272) rằng Masakkasāra thực chất là tên của Núi Sineru (Tu-di), được gọi như vậy vì nó bất động (Masakkasāro vuccati osakkanaparisakkanābhāvena ghanasāratāya ca Sinerupabbarājā), và Tāvatiṁsa được biết đến với tên gọi là Masakkasāra vì cõi này được xây dựng trên núi Sineru.
+Masakkasāra. Một tên gọi được đặt cho Tāvatiṁsa, nơi cư ngụ của Vāsava (Sakka, Ja.v.167; vi. 272, 289, 400; Vv-a.350). Các nhà chú giải giải thích (Ja.v.168; vi. 272) rằng Masakkasāra thực chất là tên của Núi Sineru, được gọi như vậy vì nó bất động (Masakkasāro vuccati osakkanaparisakkanābhāvena ghanasāratāya ca Sinerupabbarājā), và Tāvatiṁsa được biết đến với tên gọi là Masakkasāra vì cõi này được xây dựng trên núi Sineru.
 
 ## Notes

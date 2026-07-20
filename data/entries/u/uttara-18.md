@@ -26,6 +26,6 @@ Uttara 18. A banker, a very rich man of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Uttara 18. Một chủ ngân hàng, một người rất giàu có ở Sāvatthī. Ông có một người con trai, được gọi là Uttaraseṭṭhiputta, người mà câu chuyện của anh ta được đưa ra trong Vaṭṭakajātaka. Ja.i.432ff.
+Uttara 18. Một trưởng giả, một người rất giàu có ở Sāvatthī. Ông có một người con trai, được gọi là Uttaraseṭṭhiputta, người mà câu chuyện của anh ta được đưa ra trong Vaṭṭakajātaka. Ja.i.432ff.
 
 ## Notes

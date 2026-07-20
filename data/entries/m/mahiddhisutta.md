@@ -24,6 +24,6 @@ Mahiddhisutta, or <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" d
 
 ## Vietnamese translation
 
-Mahiddhisutta, hoặc Samaṇabrāhmaṇasutta. Tất cả những sa-môn hay Bà-la-môn sở hữu năng lực *iddhi*, bất kể của quá khứ, hiện tại hay tương lai, đều phải đạt được nó thông qua việc phát triển bốn *satipaṭṭhāna* (Tứ niệm xứ). SN.v.273f.
+Mahiddhisutta, hoặc Samaṇabrāhmaṇasutta. Tất cả những sa-môn hay Bà-la-môn sở hữu năng lực *iddhi*, bất kể của quá khứ, hiện tại hay tương lai, đều phải đạt được nó thông qua việc phát triển bốn *satipaṭṭhāna*. SN.v.273f.
 
 ## Notes

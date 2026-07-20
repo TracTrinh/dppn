@@ -29,7 +29,7 @@ After death he was born as a crocodile in the river, and one day sixty carts lad
 
 ## Vietnamese translation
 
-Mahā Vācakāla. Một người đàn ông đã sống bên bờ sông Mahā Vālukagaṅgā. Trong ba mươi năm ông ta đã thiền định về ba mươi hai thể trược của cơ thể với hy vọng trở thành một *Sotāpanna* (Tu-đà-hoàn). Nhưng vào cuối khoảng thời gian đó ông ta đã từ bỏ các thiền định của mình, chối bỏ Dhamma của Đức Phật vì cho rằng nó vô ích.
+Mahā Vācakāla. Một người đàn ông đã sống bên bờ sông Mahā Vālukagaṅgā. Trong ba mươi năm ông ta đã hành thiền về ba mươi hai thể trược của cơ thể với hy vọng trở thành một *Sotāpanna*. Nhưng vào cuối khoảng thời gian đó ông ta đã từ bỏ việc hành thiền của mình, chối bỏ Pháp của Đức Phật vì cho rằng nó vô ích.
 
 Sau khi chết ông ta tái sinh thành một con cá sấu trên dòng sông, và một ngày nọ có sáu mươi chiếc xe bò chở đầy những cột đá bắt đầu băng qua sông tại Kacchakatittha. Con cá sấu đã ăn thịt những con bò đực, những chiếc xe bò, và các cột đá. AN­a.i.367.
 

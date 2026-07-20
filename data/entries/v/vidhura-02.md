@@ -41,7 +41,7 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="10" data-dppn-term
 
 ## Vietnamese translation
 
-Vidhura 02. Bồ-tát sinh ra làm vị đại thần của Dhanañjaya Korabba. Xem Vidhurapaṇḍitajātaka (Ja 545).
+Vidhura 02. Bodhisatta sinh ra làm vị đại thần của Dhanañjaya Korabba. Xem Vidhurapaṇḍitajātaka (Ja 545).
 
 Cha ngài là Bà-la-môn Canda (Ja.vi.262), và ngài sở hữu ba cung điện: Koñca, Mayūra và Piyaketa (Ja.vi.289). Anujjā là vợ ngài và Cetā là con dâu của ngài; trong số những người con trai của ngài có Dhammapāla (Ja.vi.290). Ở một chỗ (Ja.vi.301), ngài được nói đến là có một ngàn người vợ và bảy trăm nữ tì.
 

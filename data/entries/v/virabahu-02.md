@@ -29,6 +29,6 @@ Vīrabāhu 02. The surname assumed by <span class="dppn-term dppn-term-t14" data
 
 ## Vietnamese translation
 
-Vīrabāhu 02. Họ được nhận bởi Māṇābharaṇa I. khi ông trở thành thống đốc của Dakkhiṇadesa, với trụ sở tại Puṅkhagāma. Ông cũng mang tước hiệu là *Mahādipāda*. Māṇābharaṇa này là cha của Parakkamabāhu I. Cv.lxi.26; lxii.4, 62.
+Vīrabāhu 02. Danh hiệu này được Māṇābharaṇa I nhận lấy khi ông trở thành thống đốc của Dakkhiṇadesa, với trụ sở tại Puṅkhagāma. Ông cũng mang tước hiệu là *Mahādipāda*. Māṇābharaṇa này là cha của Parakkamabāhu I. Cv.lxi.26; lxii.4, 62.
 
 ## Notes

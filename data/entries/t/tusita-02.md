@@ -58,9 +58,9 @@ The inhabitants of <span class="dppn-term dppn-term-t14" data-dppn-term-pos="30"
 
 ## Vietnamese translation
 
-Tusita 02. Cõi thứ tư trong sáu cõi *Deva* (AN.i.210, v.v.). Bốn trăm năm của đời sống con người bằng một ngày của cõi Tusita và bốn ngàn năm, được tính như vậy, là tuổi thọ của một *Deva* sinh ra ở Tusita (AN.i.214; iv.261, v.v.).
+Tusita 02. Cõi thứ tư trong sáu cõi trời (AN.i.210, v.v.). Bốn trăm năm của đời sống con người bằng một ngày của cõi Tusita và bốn ngàn năm, được tính như vậy, là tuổi thọ của một thiên nhân (*Deva*) sinh ra ở Tusita (AN.i.214; iv.261, v.v.).
 
-Đôi khi các bậc *Sakadāgāmī* (vd., Purāṇa và Isidatta) cũng được sinh ra ở đó (AN.iii.348; v.138; cũng xem Dhp­a.i.129; Ud­a.149, 277).
+Đôi khi các bậc *Sakadāgāmī* (ví dụ, Purāṇa và Isidatta) cũng được sinh ra ở đó (AN.iii.348; v.138; xem thêm Dhp­a.i.129; Ud­a.149, 277).
 
 Theo quy luật, tất cả các Bodhisatta đều được sinh ra ở Tusita trong kiếp sống kế cuối của mình; sau đó, khi đến thời điểm một vị Phật xuất hiện trên thế gian, chư thiên của mười ngàn thế giới hệ tập hợp lại và thỉnh cầu Bodhisatta hạ sinh vào cõi người. Những sự hân hoan lớn lao diễn ra khi lời thỉnh cầu này được chấp nhận (AN.ii.130; iv.312; Dhp­a.i.69f; Ja.i.47f).
 

@@ -35,7 +35,7 @@ Thirty-one *kappas* ago she was born in a clansman’s family, and seeing <span 
 
 ## Vietnamese translation
 
-Sundarī 02. Sundarī Therī. Bà sinh ra ở Benares là con gái của Bà-la-môn Sujāta (xem Sujāta 09). Khi cha bà gia nhập Tăng đoàn ở Mithilā và gửi người đánh xe ngựa về nhà, Sundarī, với sự đồng ý của mẹ, đã cho đi tất cả và gia nhập Tăng đoàn, chứng quả vị *Arahant* theo thời gian. Rồi một ngày nọ, với sự cho phép của thầy mình, bà rời Benares, cùng với một số lượng lớn các tỳ-kheo-ni, và đến thăm Đức Phật tại Sāvatthī, đã thốt lên “tiếng rống của sư tử” của mình.
+Sundarī 02. Sundarī Therī. Bà sinh ra ở Benares là con gái của Bà-la-môn Sujāta (xem Sujāta 09). Khi cha bà gia nhập Tăng đoàn ở Mithilā và gửi người đánh xe ngựa về nhà, Sundarī, với sự đồng ý của mẹ, đã cho đi tất cả và gia nhập Tăng đoàn, về sau chứng quả vị *Arahant*. Rồi một ngày nọ, với sự cho phép của thầy mình, bà rời Benares, cùng với một số lượng lớn các tỳ-kheo-ni, và đến thăm Đức Phật tại Sāvatthī, đã thốt lên “tiếng rống của sư tử” của mình.
 
 Ba mươi mốt *kappa* trước, bà sinh ra trong gia đình của một người tộc trưởng, và khi thấy Vessabhū Buddha đang khất thực, đã cúng dường Ngài một vá thức ăn. Năm mươi lần bà đã trở thành vợ của các Cakkavatti. Thīg.vss.326-332; Thīg­a.228f.
 

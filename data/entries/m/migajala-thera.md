@@ -28,8 +28,8 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="2" data-dppn-term-
 
 ## Vietnamese translation
 
-Migajāla Thera. Con trai của Visākhā. Sau khi nghe Pháp trong những lần thường xuyên đến vihāra, ông gia nhập Tăng đoàn và đến đúng thời điểm đã trở thành một *Arahant*. (Thag. 417-22; Thag­a.i.452f).
+Migajāla Thera. Con trai của Visākhā. Sau khi nghe Pháp trong những lần thường xuyên đến vihāra, ông gia nhập Tăng đoàn và sau một thời gian đã trở thành một *Arahant*. (Thag. 417-22; Thag­a.i.452f).
 
-Saṁyuttanikāya (SN.iv.35f) chứa hai cuộc thảo luận mà ông đã có với Đức Phật; lần thứ hai là một bài giảng tóm tắt mà ông đã học trước khi vào rừng sống cô độc trước khi đạt được quả vị *Arahant*.
+Saṁyuttanikāya (SN.iv.35f) ghi lại hai cuộc thảo luận giữa ông và Đức Phật; lần thứ hai là một bài giảng tóm tắt mà ông đã học trước khi vào rừng sống ẩn cư một mình trước khi đạt được quả vị *Arahant*.
 
 ## Notes

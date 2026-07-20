@@ -28,6 +28,6 @@ Kyānagāma. A village in the <span class="dppn-term dppn-term-t14" data-dppn-te
 
 ## Vietnamese translation
 
-Một ngôi làng ở quốc gia Malaya, không xa Pulatthipura. *Laṅkādhikāri* Kitti từng đóng quân tại đó (Cv.lxx.283, 300; lxxii.207), và Parakkamabāhu I. đã đến đó cải trang thành một nhạc công. Cv.lxxii.264.
+Một ngôi làng ở quốc gia Malaya, không xa Pulatthipura. *Laṅkādhikāri* Kitti từng đóng quân tại đó (Cv.lxx.283, 300; lxxii.207), và Parakkamabāhu I đã đến đó cải trang thành một nhạc công. Cv.lxxii.264.
 
 ## Notes

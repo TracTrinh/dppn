@@ -25,6 +25,6 @@ Mahā Summa Thera 02. A monk of Ceylon. King <span class="dppn-term dppn-term-t1
 
 ## Vietnamese translation
 
-Mahā Summa Thera 02. Một vị tỳ-kheo của Ceylon. Vua Mahā Cūḷi Mahā Tissa đã lao động trong một vụ gặt lúa, và, với tiền công nhận được như vậy, đã cúng dường đến ngài. Mhv.xxxiv.3.
+Mahā Summa Thera 02. Một vị tỳ-kheo của Tích Lan. Vua Mahā Cūḷi Mahā Tissa đã lao động trong một vụ gặt lúa, và, với tiền công ấy, đã cúng dường đến ngài. Mhv.xxxiv.3.
 
 ## Notes

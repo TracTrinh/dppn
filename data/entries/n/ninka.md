@@ -27,6 +27,6 @@ Niṅka (<span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-
 
 ## Vietnamese translation
 
-Niṅka (Nika). Một vị *Deva* đến viếng thăm Đức Phật cùng với sự hộ tống của một số chư thiên khác và thốt lên một bài kệ ca ngợi Nigaṇṭha Nātaputta. SN.i.65f.
+Niṅka (Nika). Một thiên nhân đến viếng Đức Phật cùng với vài chư thiên khác và thốt lên một bài kệ ca ngợi Nigaṇṭha Nātaputta. SN.i.65f.
 
 ## Notes

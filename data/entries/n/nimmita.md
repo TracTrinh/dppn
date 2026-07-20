@@ -25,6 +25,6 @@ Nimmita. Nineteen *kappas* ago there were sixteen kings of this name, all previo
 
 ## Vietnamese translation
 
-Nimmita. Mười chín *kappas* trước có mười sáu vị vua mang tên này, tất cả đều là tiền thân của Vataṁsakiya Thera (Abhaya Thera). Ap.i.174; Thag­a.i.201.
+Nimmita. Mười chín *kappa* trước có mười sáu vị vua mang tên này, tất cả đều là tiền thân của Vataṁsakiya Thera (Abhaya Thera). Ap.i.174; Thag­a.i.201.
 
 ## Notes

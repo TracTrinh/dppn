@@ -27,6 +27,6 @@ Mahā Tissa 05. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Mahā Tissa 05. Mahā Tissa Thera. Thuộc về Puṇṇavallika. Vào một ngày trăng tròn, vào buổi tối, ngài đã đi đến khoảng sân của Mahā Thūpa, nhìn thấy ánh trăng, và hướng về phía bảo tháp, đã nhập vào niềm hỷ lạc, với Đức Phật là đối tượng suy nghĩ của mình. Ngài thường xuyên nhớ lại trải nghiệm này kể từ đó cho đến khi, một ngày nọ, ngài có thể du hành qua không trung để đến Mahā Thūpa. Vsm.143; Dhs-a.116.
+Mahā Tissa 05. Mahā Tissa Thera. Thuộc về Puṇṇavallika. Vào một ngày trăng tròn, vào buổi tối, ngài đã đi đến khoảng sân của Mahā Thūpa, nhìn thấy ánh trăng, và hướng về phía bảo tháp, đã nhập vào niềm hỷ lạc, với Đức Phật là đối tượng quán tưởng của mình. Ngài thường xuyên nhớ lại trải nghiệm này kể từ đó cho đến khi, một ngày nọ, ngài có thể du hành qua không trung để đến Mahā Thūpa. Vsm.143; Dhs-a.116.
 
 ## Notes

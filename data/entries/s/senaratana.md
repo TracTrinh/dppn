@@ -30,6 +30,6 @@ Senaratana. King of Ceylon (1604-35 CE). He was the cousin and successor of <spa
 
 ## Vietnamese translation
 
-Senaratana. Vua Tích Lan (1604-35 CE). Ông là anh em họ và người kế vị của Vimaladhammasūriya I. và có kinh đô tại Sirivaḍḍhanapura (Kandy). Vì người Paraṅgī (Bồ Đào Nha) đã gây nhiều tổn hại cho Phật giáo, ông đã dời Xá-lợi Răng đến Pañcasata. Ông có ba người con trai: Kumārasīha, Vijayapāla, và người nổi tiếng nhất, Rājasīha (về sau là Rājasīha II.). Ông chia đất nước cho các con trai bảy năm trước khi qua đời. Cv.xcv.1ff.
+Senaratana. Vua Tích Lan (1604-35 CN). Ông là anh em họ và người kế vị của Vimaladhammasūriya I. và có kinh đô tại Sirivaḍḍhanapura (Kandy). Vì người Paraṅgī (Bồ Đào Nha) đã gây nhiều tổn hại cho Phật giáo, ông đã dời Xá-lợi Răng đến Pañcasata. Ông có ba người con trai: Kumārasīha, Vijayapāla, và người nổi tiếng nhất, Rājasīha (về sau là Rājasīha II.). Ông chia đất nước cho các con trai bảy năm trước khi qua đời. Cv.xcv.1ff.
 
 ## Notes

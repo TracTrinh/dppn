@@ -27,6 +27,6 @@ Susīma 05. One of the thousand sons of <span class="dppn-term dppn-term-t14" da
 
 ## Vietnamese translation
 
-Susīma 05. Một trong một ngàn người con trai của Sakka. Ngài là một trong những vị tướng của chư thiên (*Deva*) trong cuộc chiến với Asura, nhưng ngài lại lười biếng, và Sakka đã phải quở trách ngài (SN.i.217; SN­a.i.262). Ngài có lẽ đồng nhất với Susīma (4).
+Susīma 05. Một trong một ngàn người con trai của Sakka. Ngài là một trong những vị tướng chư thiên trong cuộc chiến với Asura, nhưng ngài lại lười biếng, và Sakka đã phải quở trách ngài (SN.i.217; SN­a.i.262). Ngài có lẽ đồng nhất với Susīma (4).
 
 ## Notes

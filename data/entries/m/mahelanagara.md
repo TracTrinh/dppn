@@ -30,6 +30,6 @@ Mahelanagara. A <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Mahelanagara. Một pháo đài của người Damiḷa, bị Duṭṭhagāmaṇī khuất phục sau một cuộc bao vây kéo dài bốn tháng. Vị chỉ huy của nó được gọi là Mahela (Mhv.xxv.48f). Mahā Vaṁsaṭīkā (479f.) giải thích rằng thành phố nằm cách xa con đường dẫn từ Vijitapura đến Anurādhapura. Chính con voi của nhà vua, Kaṇḍula, là người dẫn đường đi đến đó. Thành phố được dựng lên trên cái địa điểm mà con voi đã rẽ khỏi con đường chính được gọi là *nagara* (thành phố) Nivattagiri.
+Mahelanagara. Một pháo đài của người Damiḷa, bị Duṭṭhagāmaṇī khuất phục sau một cuộc bao vây kéo dài bốn tháng. Vị chỉ huy của nó được gọi là Mahela (Mhv.xxv.48f). Mahā Vaṁsaṭīkā (479f.) giải thích rằng thành phố nằm cách xa con đường dẫn từ Vijitapura đến Anurādhapura. Chính con voi của nhà vua, Kaṇḍula, là người dẫn đường đi đến đó. Thành phố được dựng lên trên cái địa điểm mà con voi đã rẽ khỏi con đường chính được gọi là Nivattagiri *nagara*.
 
 ## Notes

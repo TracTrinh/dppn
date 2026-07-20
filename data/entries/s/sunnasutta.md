@@ -25,6 +25,6 @@ Suññasutta. The Buddha explains to <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Suññasutta. Đức Phật giải thích cho Ānanda rằng thế giới này trống rỗng (vô ngã) về “ngã” và về những gì thuộc về “ngã.” SN.iv.54.
+Suññasutta. Đức Phật giải thích cho Ānanda rằng thế giới này trống rỗng về “ngã” và về những gì thuộc về “ngã.” SN.iv.54.
 
 ## Notes

@@ -25,6 +25,6 @@ Miga. A king of the two *kappas* ago, a previous birth of <span class="dppn-term
 
 ## Vietnamese translation
 
-Miga. Một vị vua của hai *kappa* trước, tiền kiếp của Tiṇasanthāradāyaka. Ap.i.122; tên có thể là Migasammata.
+Miga. Một vị vua cách đây hai *kappa*, tiền kiếp của Tiṇasanthāradāyaka. Ap.i.122; tên có thể là Migasammata.
 
 ## Notes

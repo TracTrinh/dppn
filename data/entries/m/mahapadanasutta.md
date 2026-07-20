@@ -36,8 +36,8 @@ The *Sutta* is held in great esteem and is called in the Commentaries (e.g., DN�
 
 Mahāpadānasutta. *Sutta* thứ mười bốn của Dīghanikāya. Nó đưa ra một lời tường thuật về những sự kiện nói chung đi kèm với sự xuất hiện của một vị Phật, và cung cấp nhiều sự thật khác nhau có liên quan đến các Đức Phật, với các chi tiết về bảy vị Phật thông qua hình thức minh họa. Nhưng chỉ có cuộc đời của Vipassī, vị đầu tiên trong số bảy Đức Phật trước thời của Gotama, là được đề cập đến một cách cặn kẽ ở mọi phương diện.
 
-*Sutta* này đã được thuyết giảng tại Karerimaṇḍapa ở Jetavana, và là kết quả của một cuộc trò chuyện giữa các vị tỳ-kheo, trong đó họ đã bày tỏ mong muốn được biết một vài điều về các kiếp sống của những vị Phật trước đây (DN.ii.6-54). Có một điều đáng chú ý là Cūḷa Niddesa (p. 80) trích dẫn *Sutta* này như là một ví dụ tiêu biểu về các bài Jātaka (Túc sanh truyện) trước đó. Một số người xem nó như là nền tảng của Mahā Vastu.
+*Sutta* này đã được thuyết giảng tại Karerimaṇḍapa ở Jetavana, và là kết quả của một cuộc trò chuyện giữa các vị tỳ-kheo, trong đó họ đã bày tỏ mong muốn được biết một vài điều về các kiếp sống của những vị Phật trước đây (DN.ii.6-54). Có một điều đáng chú ý là Cūḷa Niddesa (p. 80) trích dẫn *Sutta* này như là một ví dụ tiêu biểu về các bài Bổn sinh trước đó. Một số người xem nó như là nền tảng của Mahā Vastu.
 
-*Sutta* này được tổ chức trong một sự tôn kính to lớn và được gọi trong các Bản chú giải (ví dụ, DN­a.ii.480) là “Vua của các *Sutta*” (*Suttantarājā*), bởi vì không có một *Sutta* nào khác có chứa nhiều *bhāṇavāra* (một trăm hai mươi sáu) đến như vậy.
+*Sutta* này được hết sức tôn trọng và được gọi trong các Bản chú giải (ví dụ, DN­a.ii.480) là “Vua của các *Sutta*” (*Suttantarājā*), bởi vì không có một *Sutta* nào khác có chứa nhiều *bhāṇavāra* (một trăm hai mươi sáu) đến như vậy.
 
 ## Notes

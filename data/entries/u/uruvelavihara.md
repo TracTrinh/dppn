@@ -26,6 +26,6 @@ Uruvelavihāra. A *vihāra* in Ceylon, restored by <span class="dppn-term dppn-t
 
 ## Vietnamese translation
 
-Uruvelavihāra. Một vihāra ở Tích Lan (Ceylon), được trùng tu bởi Vijayabāhu I. (Mhv.lx.59). Nó có thể nằm trong thành phố có tên là Devanagara (Cv.Trs.i.220, n.2).
+Uruvelavihāra. Một vihāra ở Tích Lan, được trùng tu bởi Vijayabāhu I. (Mhv.lx.59). Nó có thể nằm trong thành phố có tên là Devanagara (Cv.Trs.i.220, n.2).
 
 ## Notes

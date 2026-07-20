@@ -32,7 +32,7 @@ The <span class="dppn-term dppn-term-t14" data-dppn-term-pos="5" data-dppn-term-
 
 ## Vietnamese translation
 
-Manopadosikā (Manopadūsikā). Một tầng lớp chư thiên (Devas) sống trong thế giới Cātummahārājika (DN­a.i.114; AN­a.ii.544; MNid.108). Họ liên tục bốc cháy vì ghen tị lẫn nhau và tâm trí của họ trở nên ác ý và đồi bại (Buddhaghosa kể lại một câu chuyện minh họa cho điều này trong DN­a.i.114). Do vậy, cơ thể họ trở nên yếu ớt và tâm trí họ trở nên đần độn, và, kết quả là, họ bị đọa khỏi trạng thái của mình (DN.i.20; iii.32).
+Manopadosikā (Manopadūsikā). Một tầng lớp chư thiên sống trong thế giới Cātummahārājika (DN­a.i.114; AN­a.ii.544; MNid.108). Họ liên tục bốc cháy vì ghen tị lẫn nhau và tâm trí của họ trở nên ác ý và đồi bại (Buddhaghosa kể lại một câu chuyện minh họa cho điều này trong DN­a.i.114). Do vậy, cơ thể họ trở nên yếu ớt và tâm trí họ trở nên đần độn, và, kết quả là, họ bị đọa khỏi trạng thái của mình (DN.i.20; iii.32).
 
 Những Manopadosikā nằm trong số những người có mặt tại buổi thuyết giảng Mahā Samayasutta (DN.ii.260). Họ được gọi như vậy vì tâm trí của họ bị đồi bại bởi sự ghen tị (*dosassa anudahanatāya*) (Vibh­a.498).
 

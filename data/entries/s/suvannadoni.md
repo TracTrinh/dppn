@@ -25,6 +25,6 @@ Suvaṇṇadoṇī. A village in the <span class="dppn-term dppn-term-t14" data-
 
 ## Vietnamese translation
 
-Suvaṇṇadoṇī. Một ngôi làng thuộc khu vực Malaya của Tích Lan (Ceylon). Cv.lxx.11.
+Suvaṇṇadoṇī. Một ngôi làng thuộc khu vực Malaya của Tích Lan. Cv.lxx.11.
 
 ## Notes

@@ -27,6 +27,6 @@ Kuṭhārivihāra. A monastery in <span class="dppn-term dppn-term-t14" data-dpp
 
 ## Vietnamese translation
 
-Một tu viện ở Ambaṭṭhakola được Moggallāna I. sử dụng làm trụ sở của mình trong chiến dịch chống lại Kassapa I. Cv.xxxix.21.
+Một tu viện ở Ambaṭṭhakola được Moggallāna I sử dụng làm trụ sở của mình trong chiến dịch chống lại Kassapa I. Cv.xxxix.21.
 
 ## Notes

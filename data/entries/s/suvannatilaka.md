@@ -33,6 +33,6 @@ In her last life Suvaṇṇatilakā had been born in <span class="dppn-term dppn
 
 Suvaṇṇatilakā. Một thiếu nữ *Caṇḍāla* ở Uttara Madhurā. Nàng rất xinh đẹp, và được gọi như vậy vì nàng có một nốt ruồi vàng giữa hai bầu ngực. Khi nhà vua nghe nói rằng nàng muốn kết hôn với một người đàn ông thuộc dòng dõi cao quý, ngài đã thách nàng chinh phục được Uddāla của Pañcamadhurā, một người ghét phụ nữ. Nàng chấp nhận thử thách và đi cùng cha mình. Trên đường đi, bảy vị vua đã ngỏ lời muốn cưới nàng, nhưng nàng đều từ chối. Uddāla đã yêu nàng ngay từ cái nhìn đầu tiên và sống với nàng trong bốn tháng, bỏ bê mọi nhiệm vụ của mình. Các học trò của chàng tức giận và đã giết Suvaṇṇatilakā. Sau đó chàng đã nhảy vào giàn hỏa thiêu của nàng.
 
-Trong kiếp trước của mình, Suvaṇṇatilakā sinh ra ở Anurādhapura. Một ngày nọ, cô cùng mẹ đến tháp (*cetiya*) Abhayuttara, và khi mẹ cô đi lấy nước để rửa bàn thờ, Suvaṇṇatilakā đã dâng hoa mà không chờ đợi. Người mẹ tức giận và gọi cô là “*caṇḍālī*.” Suvaṇṇatilakā vặn lại, nói rằng, “Mẹ mới là *caṇḍālī*, không phải con.” Đó là lý do tại sao cô trở thành một *caṇḍālī*. Ras.i.74f.
+Trong kiếp cuối cùng của mình, Suvaṇṇatilakā sinh ra ở Anurādhapura. Một ngày nọ, cô cùng mẹ đến tháp (*cetiya*) Abhayuttara, và khi mẹ cô đi lấy nước để rửa bàn thờ, Suvaṇṇatilakā đã dâng hoa mà không chờ đợi. Người mẹ tức giận và gọi cô là “*caṇḍālī*.” Suvaṇṇatilakā vặn lại, nói rằng, “Mẹ mới là *caṇḍālī*, không phải con.” Đó là lý do tại sao cô trở thành một *caṇḍālī*. Ras.i.74f.
 
 ## Notes

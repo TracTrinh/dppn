@@ -28,6 +28,6 @@ Virūpakkha 01. One of the <span class="dppn-term dppn-term-t14" data-dppn-term-
 
 ## Vietnamese translation
 
-Virūpakkha 01. Một trong những vị Cātummahārājikā (Tứ Đại Thiên Vương). Ngài là vị Thiên Vương cai quản phương tây và là chúa tể của loài Nāga (DN.ii.258; DN.iii.199; Divy.126, 148). Trong hội chúng của chư thiên, ngài ngồi quay mặt về hướng đông (DN.ii.207, 221). Kāḷakaṇṇī là con gái của ngài (Ja.iii.257). Tất cả Nāga đều đến thăm ngài thường xuyên với tư cách là chúa tể của họ và hầu hạ ngài, và bất kỳ câu hỏi hoặc tranh chấp nào nảy sinh giữa họ đều sẽ được đệ trình lên ngài để giải quyết, vd., Ja.vi.168; cf. AN­a.i.143.
+Virūpakkha 01. Một trong những vị Cātummahārājikā (Tứ Đại Thiên Vương). Ngài là vị Thiên Vương cai quản phương tây và là chúa tể của loài Nāga (DN.ii.258; DN.iii.199; Divy.126, 148). Trong hội chúng của chư thiên, ngài ngồi quay mặt về hướng đông (DN.ii.207, 221). Kāḷakaṇṇī là con gái của ngài (Ja.iii.257). Tất cả Nāga đều đến thăm ngài thường xuyên với tư cách là chúa tể của họ và hầu hạ ngài, và bất kỳ câu hỏi hoặc tranh chấp nào nảy sinh giữa họ đều sẽ được đệ trình lên ngài để giải quyết, ví dụ, Ja.vi.168; xem thêm AN­a.i.143.
 
 ## Notes

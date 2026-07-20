@@ -26,6 +26,6 @@ Vicakkaṇā. A class of <span class="dppn-term dppn-term-t14" data-dppn-term-po
 
 ## Vietnamese translation
 
-Vicakkaṇā. Một tầng lớp chư thiên (Devas), có mặt tại buổi thuyết giảng Mahā Samayasutta. DN.ii.261.
+Vicakkaṇā. Một tầng lớp chư thiên, có mặt tại buổi thuyết giảng Mahā Samayasutta. DN.ii.261.
 
 ## Notes

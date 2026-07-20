@@ -24,6 +24,6 @@ Senakavagga. The second chapter of the *Chakkanipāta* of the <span class="dppn-
 
 ## Vietnamese translation
 
-Senakavagga. Chương thứ hai của *Chakkanipāta* thuộc Jātaka Commentary. Ja.iii.276-316.
+Senakavagga. Chương thứ hai của *Chakkanipāta* thuộc Chú giải Bổn sinh. Ja.iii.276-316.
 
 ## Notes

@@ -26,6 +26,6 @@ Senāgāma. A village and fortification near the *Kālavāpi*. It is mentioned i
 
 ## Vietnamese translation
 
-Senāgāma. Một ngôi làng và pháo đài gần Kālavāpi. Nó được nhắc đến trong ghi chép về các chiến dịch của Parakkamabāhu I. và từng là bản doanh của *senāpati* của ông, Deva. Cv.lxx.131f., 245.
+Senāgāma. Một ngôi làng và pháo đài gần Kālavāpi. Nó được nhắc đến trong ghi chép về các chiến dịch của Parakkamabāhu I. và từng là bản doanh của tướng quân của ông, Deva. Cv.lxx.131f., 245.
 
 ## Notes

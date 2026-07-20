@@ -32,6 +32,6 @@ Mahiṁsāsaka, <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Mahiṁsāsaka, những người Mahiṁsāsaka. Một giáo phái dị giáo, thứ đã tách ra khỏi những Theravādin vào cùng một thời điểm giống như những Vajjiputtaka. Giáo phái này sau đó đã được chia thành những Sabbatthivādī và những Dhammaguttika (Mhv.v. 6, 8; Dpv.v.45, 47; Mhv­ṭ. 174f.; Mhv. 96). Họ đã cho rằng chân lý của *nirodha* (sự diệt) có hai khía cạnh (Kv.ii.11; xem thêm viii.9; xviii.6; xix.8; xx.5; và Rockhill, op.cit., 182-186, 191-192). Buddhadeva Thera*,* người mà theo yêu cầu của ngài thì Bản chú giải Jātaka đã được viết ra, đã thuộc về *vaṁsa* Mahiṁsāsaka (Ja.i.1). Faxian đã tìm thấy một nhóm những vị tỳ-kheo thuộc về giáo phái này ở Ceylon (Giles, op.cit., p. 76.).
+Mahiṁsāsaka, những người Mahiṁsāsaka. Một giáo phái dị giáo, thứ đã tách ra khỏi những Theravādin vào cùng một thời điểm giống như những Vajjiputtaka. Giáo phái này sau đó đã được chia thành những Sabbatthivādī và những Dhammaguttika (Mhv.v. 6, 8; Dpv.v.45, 47; Mhv­ṭ. 174f.; Mhv. 96). Họ đã cho rằng chân lý của *nirodha* có hai khía cạnh (Kv.ii.11; xem thêm viii.9; xviii.6; xix.8; xx.5; và Rockhill, op.cit., 182-186, 191-192). Buddhadeva Thera*,* người mà theo yêu cầu của ngài thì Bản chú giải Bổn sinh đã được viết ra, đã thuộc về *vaṁsa* Mahiṁsāsaka (Ja.i.1). Faxian đã tìm thấy một nhóm những vị tỳ-kheo thuộc về giáo phái này ở Tích Lan (Giles, op.cit., p. 76.).
 
 ## Notes

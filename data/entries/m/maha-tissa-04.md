@@ -27,6 +27,6 @@ Mahā Tissa 04. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" dat
 
 ## Vietnamese translation
 
-Mahā Tissa 04. Mahā Tissa Thera. Ngài sống ở Cetiyagiri, và một ngày nọ, trong khi đang trên đường đến Anurādhapura, ngài đã nhìn thấy một người phụ nữ đang rời bỏ người chồng của mình, sau khi đã cãi nhau với ông ta. Cô ta ăn mặc rất đẹp, và nhìn thấy vị Trưởng lão, đã mỉm cười với ngài, nhằm khoe hàm răng hoàn hảo của cô ta. Vị Trưởng lão nhìn cô ta, và có được nhận thức về “sự bất tịnh” thông qua việc nghĩ về những khúc xương từ hàm răng của cô ta, ngài đã trở thành một *Arahant*. Người chồng đi theo vợ mình và hỏi vị Trưởng lão xem ngài có nhìn thấy cô ta hay không. Vị Trưởng lão trả lời, “Tôi không biết đó là đàn ông hay đàn bà, nhưng tôi đã nhìn thấy một đống xương.” Vsm.20f., 194.
+Mahā Tissa 04. Mahā Tissa Thera. Ngài sống ở Cetiyagiri, và một ngày nọ, trong khi đang trên đường đến Anurādhapura, ngài đã nhìn thấy một người phụ nữ đang rời bỏ người chồng của mình, sau khi đã cãi nhau với ông ta. Cô ta ăn mặc rất đẹp, và nhìn thấy vị Trưởng lão, đã mỉm cười với ngài, nhằm khoe hàm răng hoàn hảo của cô ta. Vị Trưởng lão nhìn cô ta, và khởi lên tưởng “bất tịnh” khi quán xương qua hàm răng của cô ta, rồi trở thành một *Arahant*. Người chồng đi theo vợ mình và hỏi vị Trưởng lão xem ngài có nhìn thấy cô ta hay không. Vị Trưởng lão trả lời, “Tôi không biết đó là đàn ông hay đàn bà, nhưng tôi đã nhìn thấy một đống xương.” Vsm.20f., 194.
 
 ## Notes

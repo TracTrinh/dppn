@@ -30,7 +30,7 @@ Forty-four *kappas* ago he was king sixteen times under the name of <span class=
 
 ## Vietnamese translation
 
-Pupphathūpiya Thera. Một vị *Arahant*. Vào thời của Vipassī Buddha, ông là một đạo sĩ Bà-la-môn trên núi Kukkurapabbata cùng với một số lượng lớn đệ tử. Khi nghe tin Đức Phật đã xuất hiện trên thế gian, ông mong muốn được đến viếng ngài, nhưng đã lâm bệnh trên đường đi. Do đó ông đã dựng lên một *Thūpa* bằng hoa nhân danh Đức Phật và qua đời ngay sau đó.
+Pupphathūpiya Thera. Một vị *Arahant*. Vào thời của Vipassī Buddha, ông là một đạo sĩ Bà-la-môn trên núi Kukkurapabbata cùng với một số lượng lớn đệ tử. Khi nghe tin Đức Phật đã xuất hiện trên thế gian, ông mong muốn được đến viếng ngài, nhưng đã lâm bệnh trên đường đi. Do đó ông đã dựng lên một bảo tháp bằng hoa nhân danh Đức Phật và qua đời ngay sau đó.
 
 Bốn mươi bốn *kappa* trước, ông làm vua mười sáu lần dưới tên gọi là Aggisama, và ba mươi tám lần dưới tên gọi là Ghatāsana. Ap.i.155f. </p><hr>
 

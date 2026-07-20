@@ -27,6 +27,6 @@ Sena 06. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-dppn-
 
 ## Vietnamese translation
 
-Sena 06. Sena IV. *Uparāja* của Udaya IV., và sau đó là vua Tích Lan (Sena IV. 953-6 CE). Ông là người học rộng, và thường giảng giải các *suttanta* tại Lohapāsāda. Nhờ lòng mộ đạo của ông, chư thiên đã ban mưa đúng thời. Ông làm một hộp đựng Xá-lợi Răng và xây dựng *pariveṇa* Sitthagāma. Cv.liii.39; liv.1ff.
+Sena 06. Sena IV. *Uparāja* của Udaya IV., và sau đó là vua Tích Lan (Sena IV. 953-6 CN). Ông là người học rộng, và thường giảng giải các *suttanta* tại Lohapāsāda. Nhờ lòng mộ đạo của ông, chư thiên đã ban mưa đúng thời. Ông làm một hộp đựng Xá-lợi Răng và xây dựng *pariveṇa* Sitthagāma. Cv.liii.39; liv.1ff.
 
 ## Notes

@@ -27,6 +27,6 @@ Mantāṇī 01. Sister of <span class="dppn-term dppn-term-t14" data-dppn-term-p
 
 ## Vietnamese translation
 
-Mantāṇī 01. Chị em gái của Aññā Kondañña và là mẹ của Puṇṇa Mantānīputta. Bà sống ở Rājagaha.
+Mantāṇī 01. Chị gái/em gái của Aññā Kondañña và là mẹ của Puṇṇa Mantānīputta. Bà sống ở Rājagaha.
 
 ## Notes

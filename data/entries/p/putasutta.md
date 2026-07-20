@@ -25,6 +25,6 @@ Puṭasutta. <span class="dppn-term dppn-term-t14" data-dppn-term-pos="1" data-d
 
 ## Vietnamese translation
 
-Puṭasutta. Tālapuṭa đến viếng Đức Phật và hỏi ngài liệu có chút sự thật nào trong truyền thuyết nói rằng các diễn viên sân khấu sau khi chết sẽ được tái sinh trong số các *Pahāsadeva*. Lúc đầu, Đức Phật từ chối trả lời câu hỏi, nhưng khi bị nài nỉ, ngài nói rằng sự thật là các diễn viên sẽ tái sinh vào *Pahāsaniraya* (địa ngục Hí Tiếu). Tālapuṭa liền bắt đầu khóc khi nghĩ đến việc mình đã bị lừa dối trong một thời gian dài như vậy. Ông gia nhập Tăng đoàn và, trong một thời gian thích hợp, đã đắc quả vị *Arahant*. SN.iv.306f.
+Puṭasutta. Tālapuṭa đến viếng Đức Phật và hỏi ngài liệu có chút sự thật nào trong truyền thuyết nói rằng các diễn viên sân khấu sau khi chết sẽ được tái sinh trong số các *Pahāsadeva*. Lúc đầu, Đức Phật từ chối trả lời câu hỏi, nhưng khi bị nài nỉ, ngài nói rằng sự thật là các diễn viên sẽ tái sinh vào *Pahāsaniraya*. Tālapuṭa liền bắt đầu khóc khi nghĩ đến việc mình đã bị lừa dối trong một thời gian dài như vậy. Ông gia nhập Tăng đoàn và, về sau, đắc quả vị *Arahant*. SN.iv.306f.
 
 ## Notes
